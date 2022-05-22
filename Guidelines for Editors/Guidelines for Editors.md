@@ -23,8 +23,8 @@ Please remove imageboard post links or out of context quotes from posts.
 
 Feel free to edit the content and correct mispellings ala wikipedia.
 
-If a link to content is dead, please strike it through.
-[~~https://google.com~~](https://google.com)
+If a link to content is dead, please highlight it.
+==[https://google.com](https://google.com)==
 
 Do not add posts that contain no useful information or discussion. This project is not meant to be an archive of an imageboard. It is a means of filtering  knowledge out of the content within it.
 

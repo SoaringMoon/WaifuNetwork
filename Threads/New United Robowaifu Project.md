@@ -11,10 +11,10 @@ Auditory Capabilities: Capable of hearing and acting upon her Anons words after 
 
 Op here, for this project, everyone is free to assign themselves a position based on talent. I'm going to manage this project while contributing to design, engineering, and fabrication. Everyone is welcome to join this effort. Whether it's designing a linkage, designing her hands, or just giving advice, anything is welcomed and appreciated.  
   
-Here is a link to upload files to a pCloud for everyone to share: [~~my.pcloud.com/#page=puplink&code=kzwZJ8qR0ehbWabKKPVT2Uiuk8EdMLTV~~](my.pcloud.com/#page=puplink&code=kzwZJ8qR0ehbWabKKPVT2Uiuk8EdMLTV)
+Here is a link to upload files to a pCloud for everyone to share: [my.pcloud.com/#page=puplink&code=kzwZJ8qR0ehbWabKKPVT2Uiuk8EdMLTV](my.pcloud.com/#page=puplink&code=kzwZJ8qR0ehbWabKKPVT2Uiuk8EdMLTV)
   
 To download from this pCloud: 
-[~~my.pcloud.com/publink/show?code=kZE1FH7Z44FjXkMWjq4oRViyQu90PRlCaqR7~~](my.pcloud.com/publink/show?code=kZE1FH7Z44FjXkMWjq4oRViyQu90PRlCaqR7)
+[my.pcloud.com/publink/show?code=kZE1FH7Z44FjXkMWjq4oRViyQu90PRlCaqR7](my.pcloud.com/publink/show?code=kZE1FH7Z44FjXkMWjq4oRViyQu90PRlCaqR7)
   
 Current limit is 10GB of usable storage as that's what's free. If you get a pCloud, I'll gladly share the folder with you.  
   
