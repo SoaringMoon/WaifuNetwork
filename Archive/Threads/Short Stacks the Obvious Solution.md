@@ -35,3 +35,90 @@ Is the law really retarded enough to consider them to be child-like?
 
 # 5
 I'm sure that short stacks aren't going to be ideal for most people's robowaifus, but the sooner we get some kind of prototype up and running the sooner we can start refining the systems and designs nessicary to build bigger and better robowaifus. Short stacks would be a good starting point.
+
+# 6
+> Is the law really retarded enough to consider them to be child-like?
+
+Heh, I would never underestimate the insanity of 'the law' at this stage of our Western Tradition, Anon. But no probably not as long as it looked like some kind of gremlin, etc. But the moment you start making it look like a pretty little White girl, then you just triggered the trap card nigga. I clarified my point that 'beauty' whatever that means, but I think we all get it was a common goal. Mixing beauty and neoteny in our robowaifus is a direct assault on roasties and on the social status-quo, and is a guaranteed target on not only our backs, but on Robi & Co's. I can't allow us to go there publicly-speaking. Again, what you do in your own lab is, for the moment, your own affair. Certainly it's none of mine nor of /robowaifu/'s.
+
+Sure that's fine Anon. Just make sure they don't skirt the line of beautiful girls and we should be fine here.
+
+# 7
+I won't be making her look like a little white girl. I'm probably going to go with a goblin. I want to try a cooling system using the large ears.
+
+# 8
+>I'm probably going to go with a goblin.
+
+Sure, that's perfectly fine. 
+
+>I want to try a cooling system using the large ears. 
+
+Yes there's a nice symbiosis possible between the surface materials and passive cooling systems. Good idea.
+
+# 9
+#ears
+![[Pasted image 20220522141147.png]]
+
+I stole the idea from nature.
+
+# 10
+![[Bipedal Linkage.png]]
+
+This is where I found that pic. [http://davidbuckley.net/DB/index.htm](http://davidbuckley.net/DB/index.htm) The guy has plans and designs for a bunch of simple robots.
+
+# 11
+Ahh, got it. Can you find any old models of that Anon? They look like a pretty useful design tbh. Even just technical drawings might suffice to work out a kit parts from a 3D printer and such.
+
+# 12
+I also want her hear, arms, and waist to be able to move as well. Are there any simple solutions for those? Is it even realistic at this point to have her make facial expressions?
+
+# 13
+#fusion360  #autodesk #blender
+Fusion360 is a great tool, and Autodesk has a program available for amateurs: [https://www.autodesk.com/campaigns/fusion-360-for-hobbyists](https://www.autodesk.com/campaigns/fusion-360-for-hobbyists) A) I don't trust Autodesk very much, and B) it's strictly cloud-based. So if they deplatform you or you lose internet, you're basically hosed from any further work on your project. But all-in-all it's a remarkably good product for engineering work like this, and directly supports 3D printing software. Another possibility is SolidWorks, and they are offering a special deal to EAA members. Both are cheap.
+  
+Finally, ofc there's always Blender. And today, that's a very good choice indeed, given the improvements in version 2.8 of the project. 
+
+We actually have a thread on this specific topic Anon, the catalog is always your friend here.
+
+Yep everything else has to work as well. I'd recommend really digging in and getting your legs idea going first though Anon. Not only will you learn valuable lessons in the process (and help us all out here as well), but it will serve as a good 'base' after a fashion for you to build up the rest of the project. Just do it! :^)
+
+>Are there any simple solutions for those
+
+In a word: no. We're pioneering inexpensive, simple approaches here on /robowaifu/ as we go, Anon.
+
+>Is it even realistic at this point to have her make facial expressions?
+
+It is, but it's either rather sophisticated ie, expensive such as the theme-park animatronics system Disney devised for the Avatar ride, or tends to be kludgey, such as various amateur efforts we've seen thus far (and I'm not judging them, this stuff is very hard to get right tbh). A middle-ground between the two needs to be pioneered here, actually.
+
+# 14
+At this point all I want her to do is to be able to wave, hug, move her head, and move her waist so she could turn. A face that cod smile and make seductive faces would be nice too. Does anyone have some ideas for some simple solutions?
+
+# 15
+In that case I would focus on a torso-only solution, which also brings quite a few benefits to the table as well Anon. Hanson Robotics started off just making heads, and then grew it from there to a torso. Today, I believe they are probably dabbling with giving Sophia a functional body.
+
+# 16
+Imagine having to argue with customs the difference between child sex dolls and goblin sex dolls.
+
+# 17
+I have noticed a very serious design flaw with these legs and I am surprised no one has pointed it out. How are you going to spread her legs?
+
+# 18
+#hips #legs
+![[Possible Hip Movements.png]]
+
+Haha good point. I'm sure a good solution would be arrived at, they say _necessity is the mother of invention_ after all. I think the design we see in nature is the best to follow on this issue if possible. A robo-hip-joint is needed ofc. My designs use biomemetics of the human form and include a ball & socket approach for the hip. After all, it's literally the most efficient design for all the motions needed. A 3-axis servo design could be devised as well in a case like this. It might serve well enough, I think. The whole system for leg motions is an oft-neglected masterpiece of engineering and aesthetic design.
+
+# 19
+#hips #legs 
+
+![[Pasted image 20220522141557.png]]
+![[Pasted image 20220522141606.png]]
+![[Pasted image 20220522141613.png]]
+
+Think something like these would be better?
+
+# 20
+Now you've got the idea Anon. 3-axis motion will basically be necessary for our robowaifu's 'hip' joints.
+
+# 21
+there is freecad [https://www.freecadweb.org/](https://www.freecadweb.org/) i haven't used i personally but it looks pretty good, and i know some anons have.
