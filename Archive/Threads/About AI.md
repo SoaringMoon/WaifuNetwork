@@ -19,3 +19,12 @@ There's shit-tier AI that comes embedded in boards such as Sparkfun Edge (tensor
 Tensorflow might be your best bet. Deep learning “AI”, which is really just fancy statistics, is the current meme that lets robots learn about their bodies.  
   
 Honestly I don’t know how possible any of this is without citing some Ph.D research papers.
+
+# 1
+#hodgkins_huxley #neuron
+![[Pasted image 20220522151850.png]]
+
+Could this be implemented in logic gates/software? Might be a good way to make robowaifus ai
+
+# 2
+it can but there is no point to it.We already have a better choice with the A.I. t . A.I. researcher
