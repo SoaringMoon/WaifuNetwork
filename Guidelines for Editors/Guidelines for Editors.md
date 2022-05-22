@@ -7,6 +7,8 @@ To keep the database small, please do not add images irrelavant to robowaifu des
 
 Do not all placeholder OP images unless they are relevant to conversation.
 
+Make sure all images stay within the Images folder to reduce clutter. Rename images files with title case. Obsidian automagically changes all renamed content in all pages for you.
+
 # Formatting
 Do not use headings for any page that are not a post number, the files are already named.
 
@@ -30,3 +32,6 @@ Do not add posts that contain no useful information or discussion. This project 
 
 # Merging
 Merge small threads with similar or related content to make searching easier.
+
+# Special Pages
+Special Pages begin with a `!` followed by a wod in all caps. These need special processing due to their size. Special Pages are usually temporary placeholder pages which will be demoted after their processing is complete.

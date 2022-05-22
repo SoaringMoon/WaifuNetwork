@@ -1,0 +1,2 @@
+# About the Distillery
+This folder contains only distilled points and opinions from threads. It attempts to categorize them by topic. Facts are ripped from the [[!HOME Archive|Archive]] and put here. Once an archived document has been ripped, it moves to the [[!HOME Ripped|Ripped]] folder.

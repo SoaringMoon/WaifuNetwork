@@ -1,0 +1,2 @@
+# About the Rip
+The Ripped folder is a duplicate of the [[!HOME Archive|Archive]] folder's structure where archived threads are moved after valuable information from them has been [[!HOME Distillery|distilled]].
