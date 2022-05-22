@@ -22,10 +22,4 @@ Do any images exist of robosnekwaifus?
 # 5
 ![[Pasted image 20220522122745.png]]
 
->those girls can't cook worth a damn. They can't taste anything!  
-
-heh  
-
->Do any images exist of robosnekwaifus? 
-
 don't know, i haven't looked for any personally. i know there are a number of robots now that are in a snake-like form (for crawling through pipes and rescue work, etc) so it would surprise me a bit if some anon decided to put a wig, makeup and a kawaii little dress on one tbh.

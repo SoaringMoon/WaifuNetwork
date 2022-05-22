@@ -16,8 +16,6 @@ Usually doll heads are separate from the body (screwed on at the neck) and the b
 # 2
 That sounds very interesting anon. Sorry about the printer problems I hope you get a good one soon. Probably a big print volume would be valuable for your needs. As far as professional techniques for construction and assembly, if you can find tutorials from some of the Creature Effects guys from Hollyjew I imagine they can give you some really good ideas. Stan Winston studios is one group that comes immediately to mind. Personally, I'd certainly like to see more ideas ideas (sketches, pictures?) of your mold and silicone work. That's probably an important area for all of us. Hackaday may be able to give you good ideas about how to create the armatures, etc. you mentioned.  
   
->anti-sex-doll bias  
-
 No it doesn't. An important aspect of making lovable waifubots for anons is to be able to have sexual enjoyment with them. Asexual robowaifus are perfectly fine, but I'm fairly sure most of us want fuggable waifus. What most of us are opposed to is the uncanny-valley foam doll shit the world thinks of as 'sex robots'. I think most of us want cute waifus, not uncanny sluts.  
   
 Good luck anon, please keep us posted.

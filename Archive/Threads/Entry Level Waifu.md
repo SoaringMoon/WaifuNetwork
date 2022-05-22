@@ -34,8 +34,6 @@ I see the goal of waifubots as simulating relationships and companionship. And i
 I know people want one that can move around and stuff, but wouldn't it be easier to focus on the AI and the mechanics first before making it fully portable? I know back when this board was on 8chan, there were a few on-going projects that just halted because of the magnitude of what they were trying to do. It would be nice to see someone's project come through without getting burned out or bogged-down.
 
 # 5
->but wouldn't it be easier to focus on the AI and the mechanics first before making it fully portable?  
-
 Not that anon, but I agree with you anon. The challenge of creating an inexpensive _bipedal_ robowaifu is challenging atm to a high degree imo. This is why the Visual Waifu thread was started, to enable forward progress in the AI and simulation arenas simultaneously with the mechanical systems.
 
 >the magnitude of the problem  

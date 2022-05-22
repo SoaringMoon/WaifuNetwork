@@ -12,6 +12,8 @@ Make sure all images stay within the Images folder to reduce clutter. Rename ima
 # Formatting
 Do not use headings for any page that are not a post number, the files are already named.
 
+It is not important that the posts stay numbered correctly, or even remain in the same order. They just need to be seperated.
+
 Use proper titlecase for filenames and headings.
 
 Obsidian will try to format pasted material, usually it does this very well. However you may need to manually edit content.
@@ -21,7 +23,7 @@ If a thread does not have a name, create one.
 # Content Removal and Editing
 Remove posts that contain no content related to Robowaifu design.
 
-Please remove imageboard post links or out of context quotes from posts.
+Please remove imageboard post links and quotes from posts. Quotes are typically duplicate information which does not need to be processed.
 
 Feel free to edit the content and correct mispellings ala wikipedia.
 

@@ -63,8 +63,6 @@ There was a vid showing the elbow moving but I don't know what happened to the v
 I tested some circuits like seen in #2 but other than that not much has happened with this project for a while for a number of reasons, but I'll report progress when able
 
 # 4
->/hover/ BO here, I just found out this board's on here, I see you have the first part of my thread  
-
 Hi /hover/ welcome back, I'm glad you found us again. Thanks for the archive pics, etc. I'll eventually restore the rest of the thread, this OP was originally just a placeholder (as with all the threads here). I probably have everything but the pdfs and webms if any were in your thread.  
   
 BTW, we owe you a debt of gratitude OP. You really established the _Fairybot_ class of robowaifu for everyone, so thanks. These will be very important in the future when this tech really takes off.
@@ -107,28 +105,15 @@ I've been arduino coding another project and thought of using the MSP for it, bu
 I'm still thinking about what the best way way is for making an actuator frame without 3d printing it
 
 # 10
->I thought a solution might be to have the thread got through another insulator tubing on the other side but its tricky to get it to align in the right spot  
-
 actually, i believe that probably is the right solution anon. find some thin Teflon tubing, but and adhere a tiny little guide-ring from it, and i bet that will take care of the issue for you.  
-  
->MSP  
-
-sauce?  
-  
->without 3d printing it  
-
-no printer yet?
 
 # 11
 ![[Pasted image 20220522124207.png]]
 
 I already threaded the thread through red insulator tubing (its from a small red wire)  
 I'm thinking now that it could maybe be glued in place with superglue or something, need to think more about how to best go about this  
->MSP  
 
 The MSP430 processor on the dev board seen in ==post== I have access to some of them but only know the location of this one for now, the other ones are seemingly missing I should practice coding more on this one first anyway  
-
->no printer yet?  
 
 I don't have access to a 3d printer for now, the city fab lab doesn't seem to have open hours anymore, but bizzare thing is they do have them out in the country in smaller towns, I'm pretty sure all the fab labs have 3d printers  
 
@@ -139,16 +124,10 @@ Also might be kinda tricky to 3d draw the parts properly but I might do that lat
 # 12
 #teflon #fusion360
 Teflon is explicitly designed to stay slippery. You might have better success using it over plastic insulation.  
-  
->MSP430  
 
 ah got it. i plan to eventually repopulate the threads here, including the electronics learning class one.  
-  
->Fab lab  
 
 cool. i've never been to one yet tbh. expensive?  
-  
->Also might be kinda tricky to 3d draw the parts properly but I might do that later actually  
 
 There's the Fusion 360 product anon, and Blender too ofc, whenever you feel inclined to design a reproducible system others can create as well.  
   

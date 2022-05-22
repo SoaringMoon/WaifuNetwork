@@ -2,8 +2,6 @@
 #vr #opengl #gui
 Good VR is one important interim goal for a fully-realized RoboWaifu, and it's also much easier to visualize an algorithm graphically at a glance than 'trying to second-guess a mathematical function'. OpenGL is by far the most portable approach to graphics atm.  
   
->"This is an excellent site for starting with OpenGL from scratch. It covers from very introductory topics all the way to advanced topics like Deferred Shading. Liberal usage of accompanying images and code. Strongly recommended."  
-  
 [https://learnopengl.com](https://learnopengl.com)
 [https://archive.is/BAJ0e](https://archive.is/BAJ0e)  
   
@@ -172,40 +170,43 @@ So, I made this post a couple of years ago now, and I thought I'd do another one
 First, I'll install GLAD. The repo is at:  
 [https://github.com/Dav1dde/glad](https://github.com/Dav1dde/glad)  
 but I'll install it using pip (as per the recommendation). First I need to make sure pip is installed, either pacman or the Pamac gui can be used. Install 'python-pip' from the official _extra_ repo.  
->1  
+
+## 1
   
 -Then I install the latest GLAD version directly from the repo  
 `sudo pip install --upgrade git+[https://github.com/dav1dde/glad.git#egg=glad](https://github.com/dav1dde/glad.git#egg=glad)`  
->2  
+
+## 2
   
 -Now I'll generate OpenGL C-loader files using GLAD. Since the _learnopengl.com_ book focuses on the OpenGL 3.3 core (for good reasons), I'll specify that in particular.  
 `python glad --generator=c --out-path=GL --api="gl=3.3" --profile=core`  
 -This will create 3 files in 3 different subdirectories under GL/.  
 `tree GL`  
->3  
+
+## 3
   
 -I'll copy the two include directories into the /usr/include/ directory for access by my own OpenGL code.  
 `sudo cp -r GL/include/* /usr/include/`  
 -I can confirm the new directories are in place now.  
 `ls /usr/include/ | grep -e KHR -e glad`  
->4  
+
+## 4
   
 -The third file is under the GL/src directory, and is named 'glad.c' . It should be a little under 9'000 lines long. I'll copy this file into whatever directory where my own source code is located for each of my projects.  
   
 It defines all the C-declarations describing the OpenGL 3.3 core spec, and makes sure they are all loaded properly for the program. Have a good look at the file, and you'll see that this is why I use the GLAD generator; b/c it saves metric shittons of time, effort, and fubar grief when dealing with OpenGL.  
->5
+
+## 5
+
 -Next, I'll install GLFW, and be sure to use the X11 version. I'll add the documents too. Here's the GLFW site.  
 [https://www.glfw.org/docs/latest/build_guide.html](https://www.glfw.org/docs/latest/build_guide.html)  
 I'll just use Pamac.  
-> 1, 2  
   
 -Now I'll create a simple test project, just using the one provided with the glad repo. Using my favorite editor Juci, I'll create a new C++ project, delete the default main.cpp file and copy the _glad.c_ & _hellowindow2.cpp_ files into the project directory.  
->3, 4
 
 -Here's the contents of the new CMakeLists.txt file:  
 `cmake_minimum_required(VERSION 2.8)      project(muh_ogl_test)      set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1z -Wall -Wextra -Wno-unused-parameter")      add_executable(muh_ogl_test hellowindow2.cpp glad.c)      find_package(glfw3 3.3 REQUIRED)   target_link_libraries(muh_ogl_test glfw dl)`  
 -Now, just pressing Ctrl+Return in Juci saves, builds and runs the OpenGL sample.  
->5  
   
 -Or, build and run from the terminal:  
 `g++ hellowindow2.cpp glad.c -lglfw -ldl && ./a.out`  

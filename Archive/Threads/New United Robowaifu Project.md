@@ -18,8 +18,6 @@ To download from this pCloud:
   
 Current limit is 10GB of usable storage as that's what's free. If you get a pCloud, I'll gladly share the folder with you.  
   
->ed note: the original file for OP incl here
-
 # 1
 #project
 ![[Pasted image 20220522115459.png]]
@@ -28,8 +26,6 @@ Current limit is 10GB of usable storage as that's what's free. If you get a pClo
 Old thread is too long. This is our new thread. Pics related are the current designs for our cute loving robowaifu and a new logo design. New design is to be a meter tall. Current members include: Kiwi, OD, Iggy, and Dollfan. Anyone is welcome to join, all you need is love for robo grills in your heart. (Cat grill meidos are also a goal, possibly going to become the main goal. Actually, it is the main goal.)
 
 # 2
->first
-
 I think that's a pretty neat idea to embed the servos and motors in the the pelvic 'bone'. Do you plan to have cable harnesses of Bowden cables running from there out to the limbs, etc? One minor location adjustment I'd suggest is to also lower the battery array position closer to the pelvis too – as close as you can and still take care of the other functions needed down there properly – to keep the majority of the weight as close to the robowaifu center of mass as possible. Keeping the weight there will help in all kinds of ways when trying to work out walking, standing, and pretty much all the other motions needed.  
   
 Is there a story about the logo design OP?
