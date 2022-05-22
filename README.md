@@ -1,5 +1,7 @@
 # WaifuNetwork
  WaifuNetwork an Obsidian powered searchable respository of information for the construction of gynoid robots. Using obsidian, wikilinks, and tagging; a vast network of connected topics, tags and pages can be visualized as a nodal map of topics. Acting as a second brain for public use.
+ 
+ **WaifuNetwork** is NOT an archive of an imageboard. It is an attempt to distill the information within multiple sources into a searchable format.
 
 ## How to use WaifuNetwork
 Download and Install **Obsidian**
