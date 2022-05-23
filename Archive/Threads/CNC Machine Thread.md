@@ -1,5 +1,6 @@
 # 1
-Many of the parts needed to build our robowaifus will need to be custom made and they will need to be metal.  For parts that have a high tolerance for imperfections a 3d printer can print a mold and then a small scale foundry can be used to cast the piece with metal (probably copper or aluminum).  BUT there will be pieces that need a higher degree of precision (such as joints).  For these pieces a CNC machine would be useful.  CNC machines can widely range in size, price, and accuracy and I would like to find models suitable for our purposes.  I know there are CNC machines available that can cut up to copper for under $300, but I don't know if that will be enough for our purposes.  (https://www.sainsmart.com/products/sainsmart-genmitsu-cnc-router-pro-diy-kit?variant=15941458296905&currency=USD&utm_campaign=gs-2018-08-06&utm_source=google&utm_medium=smart_campaign)  Some CNC machines can be used to engrave printed circuit boards and that may prove useful for our purposes as well.
+Many of the parts needed to build our robowaifus will need to be custom made and they will need to be metal.  For parts that have a high tolerance for imperfections a 3d printer can print a mold and then a small scale foundry can be used to cast the piece with metal (probably copper or aluminum).  BUT there will be pieces that need a higher degree of precision (such as joints).  For these pieces a CNC machine would be useful.  CNC machines can widely range in size, price, and accuracy and I would like to find models suitable for our purposes.  I know there are CNC machines available that can cut up to copper for under $300, but I don't know if that will be enough for our purposes.  (https://www.sainsmart.com/products/sainsmart-genmitsu-cnc-router-pro-diy-kit?variant=15941458296905&currency=USD&utm_campaign=gs-2018-08-06&utm_source=google&utm_medium=smart_campaign)  Some CNC machines can be used to engrave printed circuit boards and that may prove useful for our purposes as well.
+
    Are there any anons that know more about CNC machines?  Anons looking to buy one ask your questions here.
 
 # 2
@@ -7,22 +8,32 @@ Many of the parts needed to build our robowaifus will need to be custom made and
 You're definitely right about this OP. Now once someone steps up and starts offering kits for sale, then small factory runs of such parts would be included obviously. But for those of us who are the true pioneers here blazing this trail, a decent CNC machine is practically a given. Thanks.
 
 # 3
->>2991
-I've seen videos of people building their own CNC routers that can cut aluminum gears precisely. So long as you're not using cheap chink aluminum it should suffice. Low grade aluminum should not be used for parts under any load since it will easily break in surprising ways no matter how thick it is, but the high grade stuff is durable and strong enough to take a beating. Using pure steel will make your robowaifu weigh a ton. Copper corrodes easily and is not a good idea for joints. Brass might be a useful material but it's slightly heavier than steel and I imagine there are nuances to working with different materials. I've only worked with aluminum, silver and steel before.
-
+>>2991
+
+I've seen videos of people building their own CNC routers that can cut aluminum gears precisely. So long as you're not using cheap chink aluminum it should suffice. Low grade aluminum should not be used for parts under any load since it will easily break in surprising ways no matter how thick it is, but the high grade stuff is durable and strong enough to take a beating. Using pure steel will make your robowaifu weigh a ton. Copper corrodes easily and is not a good idea for joints. Brass might be a useful material but it's slightly heavier than steel and I imagine there are nuances to working with different materials. I've only worked with aluminum, silver and steel before.
+
+
+
 Don't forget to factor in the cost of replacement drill bits, buying metal to machine and shipping if necessary, although the price of metal has fallen considerably, kek. The last time I checked, where I live it's cheaper to prototype parts in plastic and order them in steel via CNC machining services than to invest in some equipment myself to make my own aluminum parts. Unless my trading bot strikes it rich I'm gonna go with what's cheapest and support local business.
 
 # 4
->>3035
+>>3035
+
 Are duraluminum or aluminum bronze usable for joints?
 
 # 5
->>3036
-No idea, but I know aluminum is corrosion resistant. Wikipedia says aluminum bronze is pretty good. It might be worth looking more into:
->Aluminium bronzes are most valued for their higher strength and corrosion resistance as compared to other bronze alloys. These alloys are tarnish-resistant and show low rates of corrosion in atmospheric conditions, '''low oxidation rates at high temperatures''', and low reactivity with sulfurous compounds and other exhaust products of combustion. They are also resistant to corrosion in sea water. Aluminium bronzes' resistance to corrosion results from the aluminium in the alloys, which reacts with atmospheric oxygen to form a thin, tough surface layer of alumina (aluminium oxide) which acts as a barrier to corrosion of the copper-rich alloy. The addition of tin can improve corrosion resistance.
-High temperature should also be considered selecting material. I cook with cast iron pans and it corrodes very quickly in contact with water at high temperatures if it's not properly seasoned.
-
->Aluminium bronzes are most commonly used in applications where their resistance to corrosion makes them preferable to other engineering materials. These applications include plain bearings and landing gear components on aircraft, guitar strings, valve components, engine components (especially for seagoing ships), underwater fastenings in naval architecture, and ship propellers.
+>>3036
+
+No idea, but I know aluminum is corrosion resistant. Wikipedia says aluminum bronze is pretty good. It might be worth looking more into:
+
+>Aluminium bronzes are most valued for their higher strength and corrosion resistance as compared to other bronze alloys. These alloys are tarnish-resistant and show low rates of corrosion in atmospheric conditions, '''low oxidation rates at high temperatures''', and low reactivity with sulfurous compounds and other exhaust products of combustion. They are also resistant to corrosion in sea water. Aluminium bronzes' resistance to corrosion results from the aluminium in the alloys, which reacts with atmospheric oxygen to form a thin, tough surface layer of alumina (aluminium oxide) which acts as a barrier to corrosion of the copper-rich alloy. The addition of tin can improve corrosion resistance.
+
+High temperature should also be considered selecting material. I cook with cast iron pans and it corrodes very quickly in contact with water at high temperatures if it's not properly seasoned.
+
+
+
+>Aluminium bronzes are most commonly used in applications where their resistance to corrosion makes them preferable to other engineering materials. These applications include plain bearings and landing gear components on aircraft, guitar strings, valve components, engine components (especially for seagoing ships), underwater fastenings in naval architecture, and ship propellers.
+
 https://en.wikipedia.org/wiki/Aluminium_bronze
 
 # 6
@@ -30,7 +41,8 @@ https://en.wikipedia.org/wiki/Aluminium_bronze
 Very interesting. I'm assuming it's more expenisive to create the alloys. Do you obtain them as cast stocks? The use in guitar strings intrigued me, since one of the mechanical actuator approaches we will probably need for torso==>major_joints (shoulders, hips) probably needs to be some type of a pulley/cable system approach for lightness, and for keeping the heavy drive system well-inside the torso for kinematics optimizations & balance needs.
 
 # 7
->>3062
+>>3062
+
 If you have a good enough foundry you could probably just cast your own stock.
 
 # 8
@@ -61,34 +73,62 @@ Charcoal will do it and you can find bags of fire clay on amazon for like $50.
 I should add that it needs to be real wood charcoal.  Not the briquettes; they have limestone added to them so they won't get too hot.
 
 # 14
->>2991
-
-Here is a hobby CNC that can do aluminum and in theory up to 4mm steel (not recommended, convert a manual mill instead)
-
-https://www.cnc-step.com/cnc-router-1000x600-s-1000t-ballscrew/
-
-Expect to pay an additional $1000 on tooling on top of the machine price itself.
-
-Here is an detailed review of the machine in German: https://www.precifast.de/mechanik-stabilitaet-und-genauigkeit-meiner-high-z-s-400t/
-
-inb4 muh unsupported rails are shit
-yes unsupported rails are worse than profiled rails of the same size but the unsupported rails on this machine are extra large to compensate for that
-
-https://www.youtube.com/watch?v=JoI-nnipoxo
-
-https://www.youtube.com/watch?v=sISfwGV1VLU
-
-https://youtu.be/HYoNGTt67lk
-
-https://youtu.be/C30nRmlP4ak
-
-https://youtu.be/G3Mcw8HrC6s
-
-
-If this is too expensive then let yourself get chinked:
-
-https://www.omiocnc.com/products/x8m-cnc-desktop-engraver.html
-
+>>2991
+
+
+
+Here is a hobby CNC that can do aluminum and in theory up to 4mm steel (not recommended, convert a manual mill instead)
+
+
+
+https://www.cnc-step.com/cnc-router-1000x600-s-1000t-ballscrew/
+
+
+
+Expect to pay an additional $1000 on tooling on top of the machine price itself.
+
+
+
+Here is an detailed review of the machine in German: https://www.precifast.de/mechanik-stabilitaet-und-genauigkeit-meiner-high-z-s-400t/
+
+
+
+inb4 muh unsupported rails are shit
+
+yes unsupported rails are worse than profiled rails of the same size but the unsupported rails on this machine are extra large to compensate for that
+
+
+
+https://www.youtube.com/watch?v=JoI-nnipoxo
+
+
+
+https://www.youtube.com/watch?v=sISfwGV1VLU
+
+
+
+https://youtu.be/HYoNGTt67lk
+
+
+
+https://youtu.be/C30nRmlP4ak
+
+
+
+https://youtu.be/G3Mcw8HrC6s
+
+
+
+
+
+If this is too expensive then let yourself get chinked:
+
+
+
+https://www.omiocnc.com/products/x8m-cnc-desktop-engraver.html
+
+
+
 No guarantee that this machine can do anything at all but hey it's cheap. (find reviews/cutting videos yourself)
 
 # 15
@@ -167,16 +207,23 @@ Yeah, people working in some industry with expensive tools will always say thing
 I think I saw a review of this printer and the conclusion was that it's not so interesting for most people, since PCBs are so cheap to order in small series nowadays.
 
 # 28
->>3036
->>3061
-can be done "at home" apparently
-https://www.youtube.com/watch?v=Wb8CFqJ3xeE
-
+>>3036
+
+>>3061
+
+can be done "at home" apparently
+
+https://www.youtube.com/watch?v=Wb8CFqJ3xeE
+
+
+
 https://www.instructables.com/Making-Aluminum-Bronze-Melting-Copper-and-Aluminum/
 
 # 29
->>9328
-"Don't Build a Metal Foundry Until you See This First"
+>>9328
+
+"Don't Build a Metal Foundry Until you See This First"
+
 https://www.youtube.com/watch?v=l2FuvKTyRMQ
 
 # 30
@@ -201,32 +248,58 @@ It's true. While there's not much there at all (maybe a gram or two), it's proba
 >t. Burger
 
 # 33
-The best all around metal casting book is by C W Ammen.
-
-"The complete handbook of sand casting"
-
-Here's a link for it.
-
-http://libgen.rs/book/index.php?md5=044722E0EE1D11BFEF4E4F654FAAAF30
-
-He has several other books you can find at Amazon that are also very good.
-
-Now this is old school tech going all the way back to B.C. so it doesn't take some unobtainable technology to do this but it does take some practice. Aluminum would probably be the easiest metal to use. You can melt aluminum in steel pots.You could use old car parts like aluminum intakes and stuff like that for metal. Aluminum cans can work also but there's a lot of oxidized metal in the cans so you would have to be careful about skimming off this oxidation.
-
-One thing he doesn't cover is lost foam. Lost foam may be the easiest way to may highly intricate parts easily. They use this in the auto industry and many other places for high volume but it's just as good for a few parts. Basically you make whatever you want cast in foam, pack sand with a little clay to hold it together and then pour the metal into the foam. The foam instantly vaporizes and the metal replaces it.
-
-There's also lost wax which is much older. You make whatever you want cast from wax, melt it out then pour in metal into the open spaces. All the ancient statues you see were made this way.
-
-For making furnaces David J. Gingery makes a great book. Several of his books and his sons are here including the charcoal foundry to melt metal. 
-
-http://libgen.lc/search.php?req=David%20J.%20Gingery&column[]=author
-
-There are several propane furnaces on Youtube and the web that might be more suitable.
-
- He also has great make your own shop machines series which is good but it may be the open source multimachine would be better.
-
-here,
-
+The best all around metal casting book is by C W Ammen.
+
+
+
+"The complete handbook of sand casting"
+
+
+
+Here's a link for it.
+
+
+
+http://libgen.rs/book/index.php?md5=044722E0EE1D11BFEF4E4F654FAAAF30
+
+
+
+He has several other books you can find at Amazon that are also very good.
+
+
+
+Now this is old school tech going all the way back to B.C. so it doesn't take some unobtainable technology to do this but it does take some practice. Aluminum would probably be the easiest metal to use. You can melt aluminum in steel pots.You could use old car parts like aluminum intakes and stuff like that for metal. Aluminum cans can work also but there's a lot of oxidized metal in the cans so you would have to be careful about skimming off this oxidation.
+
+
+
+One thing he doesn't cover is lost foam. Lost foam may be the easiest way to may highly intricate parts easily. They use this in the auto industry and many other places for high volume but it's just as good for a few parts. Basically you make whatever you want cast in foam, pack sand with a little clay to hold it together and then pour the metal into the foam. The foam instantly vaporizes and the metal replaces it.
+
+
+
+There's also lost wax which is much older. You make whatever you want cast from wax, melt it out then pour in metal into the open spaces. All the ancient statues you see were made this way.
+
+
+
+For making furnaces David J. Gingery makes a great book. Several of his books and his sons are here including the charcoal foundry to melt metal. 
+
+
+
+http://libgen.lc/search.php?req=David%20J.%20Gingery&column[]=author
+
+
+
+There are several propane furnaces on Youtube and the web that might be more suitable.
+
+
+
+ He also has great make your own shop machines series which is good but it may be the open source multimachine would be better.
+
+
+
+here,
+
+
+
 http://opensourcemachine.org/
 
 # 34
@@ -335,9 +408,12 @@ Ah, I understand better now. Thanks Anon! Now I'm curious how one goes about pro
 Never used one, but for all I know: Yes. You can create files with a CAD program like Solvespace for example. Though the format might be different.
 
 # 54
->>2991
->Many of the parts needed to build our robowaifus will need to be custom made and they will need to be metal
-
+>>2991
+
+>Many of the parts needed to build our robowaifus will need to be custom made and they will need to be metal
+
+
+
 Source?
 
 # 55
@@ -345,21 +421,30 @@ Source?
 Not the OP, but it's obvious. Plastics are rather weak and can get brittle or wear of.
 
 # 56
->>11250
->>11362
-a graphene + epoxy resin compound was one idea being floated around, might be more useful as a type of internal "cartilage" than as structural support
-
-I posted a while back on Aluminum Bronze, which is low enough melting temp to be forged in a home foundry (several YT videos on this)
-
+>>11250
+
+>>11362
+
+a graphene + epoxy resin compound was one idea being floated around, might be more useful as a type of internal "cartilage" than as structural support
+
+
+
+I posted a while back on Aluminum Bronze, which is low enough melting temp to be forged in a home foundry (several YT videos on this)
+
+
+
 IMO we'd want to avoid something ferro-magnetic. Also as light weight and corrosion resistant as possible (aluminum is a contender here), we're not at the point where it matters if our waifu can rescue us from a burning building or something.
 
 # 57
->>11362
->but it's obvious.
+>>11362
+
+>but it's obvious.
+
 More x=x logic from "ur a troll" guy I think
 
 # 58
->>11374
+>>11374
+
 e.g., the plans for my waifu involve a build comprised solely of plastic printed parts, mainly polycarbonate for structural support. This is fairly easy and inexpensive to build an amateur 3d printer for
 
 # 59
@@ -388,13 +473,21 @@ CNC Kitchen on YouTube.
 What happened here? He deleted his posting I replied to?
 
 # 62
-Just going to drop this here.
-https://docs.v1engineering.com/mpcnc/intro/
-https://github.com/V1EngineeringInc/MPCNC_Primo
-https://www.thingiverse.com/thing:790533
-
-Tabletop CNC that is mostly manufacture on a 3d printer with the rails being relatively cheap conduit pipping. It is modular so you can slap on a router, plasma cutter or laser depending on what you are working with. Additionally the system can be customized to any size provided you can find belts long enough for it and are willing to tolerate some looseness and loss of accuracy.
-
-The creator has a lot of other interesting prints if you are interest in checking them out
+Just going to drop this here.
+
+https://docs.v1engineering.com/mpcnc/intro/
+
+https://github.com/V1EngineeringInc/MPCNC_Primo
+
+https://www.thingiverse.com/thing:790533
+
+
+
+Tabletop CNC that is mostly manufacture on a 3d printer with the rails being relatively cheap conduit pipping. It is modular so you can slap on a router, plasma cutter or laser depending on what you are working with. Additionally the system can be customized to any size provided you can find belts long enough for it and are willing to tolerate some looseness and loss of accuracy.
+
+
+
+The creator has a lot of other interesting prints if you are interest in checking them out
+
 https://www.prusaprinters.org/social/47417-ryan-z/prints
 

@@ -21,18 +21,27 @@ No, this is exactly on topic ITT anon. Keep us updated if you will. Shrieking ha
 In the ''Chobits'' series, all the Persocons (robowaifus) had big plastic ear-like protrusions on either side of the head to deal with this.
 
 # 6
->>948
-What image board did you go to?
->>/girltalk/ ?
-I doubt it was /cuckquean/ because those girls love the idea of /robowaifu/.
+>>948
+
+What image board did you go to?
+
+>>/girltalk/ ?
+
+I doubt it was /cuckquean/ because those girls love the idea of /robowaifu/.
+
 %% does cross linking work on the webring? %%
 
 # 7
->>160
->Santos is now working on a robot that can say “no” in certain situations. It can switch itself into dummy mode if the robot senses it is being touched in a “disrepectful way”. It will become unresponsive
-Kind of missing the point of a sexbot. Having different personality types for them is a good idea, but this seems just like a feature to satisfy the insatiable feminist harpies.
-
->>948
+>>160
+
+>Santos is now working on a robot that can say “no” in certain situations. It can switch itself into dummy mode if the robot senses it is being touched in a “disrepectful way”. It will become unresponsive
+
+Kind of missing the point of a sexbot. Having different personality types for them is a good idea, but this seems just like a feature to satisfy the insatiable feminist harpies.
+
+
+
+>>948
+
 Confusing a robowaifu and a 3DPD would be pretty hard. The one that doesn't backstab you and take as much of your money as possible is the robot. If you want to be around it, it's probably not 3DPD.
 
 # 8
@@ -64,14 +73,19 @@ That's why I think that at some point robots should have a characteristic that a
 Actually many of the persocon 'ears' were fashioned vaguely like catears, so a cute tbh.
 
 # 12
->>977
-Jesus Fucking Christ that was a fucking pain to read. /cuckquean/ was right about what they said. It's funny how they're quick to bash men but then complain about misogyny. It's like they don't believe that men suffer in this modern world. Then you see shit like this, image related, and then they wonder why those "evil incels" hate women. It's fucking disgusting. I really hate sites like that. It's a little confusing, really. Why have that kind of site on an image board? Wouldn't twitter be a better place? 
-Personally, I've never been a fan of the term "sexbot" and always liked the term "robowaifu" more. Sexbot implies that the only thing I'm going to be doing is having sex with it and that's just not true. 
+>>977
+
+Jesus Fucking Christ that was a fucking pain to read. /cuckquean/ was right about what they said. It's funny how they're quick to bash men but then complain about misogyny. It's like they don't believe that men suffer in this modern world. Then you see shit like this, image related, and then they wonder why those "evil incels" hate women. It's fucking disgusting. I really hate sites like that. It's a little confusing, really. Why have that kind of site on an image board? Wouldn't twitter be a better place? 
+
+Personally, I've never been a fan of the term "sexbot" and always liked the term "robowaifu" more. Sexbot implies that the only thing I'm going to be doing is having sex with it and that's just not true. 
+
 I am actually considering of starting a thread on /girltalk/ to get their opinion on several topics, including robowaifus.
 
 # 13
->>990
->/cuckquean/ was right about what they said.
+>>990
+
+>/cuckquean/ was right about what they said.
+
 What did /cuckquean/ say?
 
 # 14
@@ -80,21 +94,24 @@ What did /cuckquean/ say?
 You see, I bet the majority of women think that were going to use robots just for that, and never bothered to think about the possibility of men wanting companionship, because men "only think of sex".
 
 # 15
->>994
+>>994
+
 There's nothing wrong however with having a lot of sex with a robot, or getting a robot only for sex. When you think about it, if we have not only waifubots but sexbots and waifusexbots, then we can cover all the bases for demand. People complaining about guys wanting robots "just to make their dicks feel good" are only trying to sow division.
 
 # 16
->>1003
+>>1003
+
 I wasn't complaining about men only seeking sex from a /robowaifu/. I was just merely mentioning that these fucking soulless harpies think that the purpose of a robowaifu is '''only''' for sex, which it is not.
 
 # 17
->>1006
+>>1006
+
 I know you weren't complaining about that, but there may be a genuine camp of people who either would accept waifubots but not sexbots, or accept sexbots but not waifubots. There is also possibly a third camp, people who are willing to forsake the endeavors of waifubot development over fear of being punished in some way by roasties or roastie-influenced groups.
 
 # 18
 >>1051
 >people who are willing to forsake the endeavors of waifubot development over fear of being punished in some way by roasties or roastie-influenced groups.
-<people
+< people
 i believe the technical scientific term is ''"soycuck"'' anon.
 
 # 19
@@ -106,8 +123,10 @@ www.dailymail.co.uk/news/article-6730555/Swedish-feminists-demand-ban-sex-robots
 https://archive.fo/FGRU3
 
 # 21
-Do you believe your 'robo waifus' will have feelings? Will they have pussy juice with all the natural richness?
-
+Do you believe your 'robo waifus' will have feelings? Will they have pussy juice with all the natural richness?
+
+
+
 I pity you guys
 
 # 22
@@ -117,9 +136,12 @@ kek. we have a thread on this.
 as far as all those ''precious bodily fluids'' you speak of go, why yes, yes she will. It'll come in a bottle **you know, the same stuff w/o no man could manage to get his dick up into your terribly dry, very crusty roast flaps**. :^)
 
 # 23
->>1055
-Sweden is an example of what happens to a country when roasties take full control.  
-They ban all competition they could possibly have, but hide it behind a nice veneer. For example, they don't ban prostitution, because that'd harm (younger, prettier) women, no, they just ban being the client of a prostitute, because that clearly won't show those young bitches. 
+>>1055
+
+Sweden is an example of what happens to a country when roasties take full control.  
+
+They ban all competition they could possibly have, but hide it behind a nice veneer. For example, they don't ban prostitution, because that'd harm (younger, prettier) women, no, they just ban being the client of a prostitute, because that clearly won't show those young bitches. 
+
 I'm surprised they haven't set the age of consent for men who want to fuck women to (Age of guy+10) yet. Maybe add a minimal amount of cats owned by the woman in question too, to make extra sure only old feminists are legal.
 
 # 24
@@ -127,10 +149,14 @@ I'm surprised they haven't set the age of consent for men who want to fuck women
 /thread.
 
 # 25
-Here's a more reasonable news story about a study done on sex robots 
-https://soylentnews.org/article.pl?sid=19/09/28/2354233
->>1054
-If you're going to archive a page on reddit change the www in the url to old to make the comment section much more readable.
+Here's a more reasonable news story about a study done on sex robots 
+
+https://soylentnews.org/article.pl?sid=19/09/28/2354233
+
+>>1054
+
+If you're going to archive a page on reddit change the www in the url to old to make the comment section much more readable.
+
 http://archive.is/y5rTl
 
 # 26
@@ -152,17 +178,20 @@ https://archive.fo/0G2rH
 definitely worth a read anons.
 
 # 29
->>1286
-Cool. I was concerned that everyone might have died or kike wheels was doing something but thankfully that's not the case. >>1287
+>>1286
+
+Cool. I was concerned that everyone might have died or kike wheels was doing something but thankfully that's not the case. >>1287
+
 I am aware. I am always on the look out for Jews and CIA niggers. Trust me, they lurk in the shadows...
 
 # 30
 >>1288
-<ywn have Terry call you a nigger
+< ywn have Terry call you a nigger
 >why even
 
 # 31
->>1289
+>>1289
+
 I miss terry. I hope he's hunting cia niggers in heaven. I had a webm of him criticizing the pope over immigration but i can't seem to find it.
 
 # 32
@@ -175,19 +204,23 @@ ikr.
 It doesn't seem like that's the general consensus among the girls there tbh.
 
 # 34
->>1326
+>>1326
+
 It's a relief to know that. It's interesting to note that some of them are even lesbians so they might be interesting in robowaifus as well.
 
 # 35
 Hopefully, robowaifus do a better job of taking care of kids
 
 # 36
->>1349
->parasite removal was a breeze
+>>1349
+
+>parasite removal was a breeze
+
 These people are sick
 
 # 37
->>1349
+>>1349
+
 All I feel is anger from reading this.
 
 # 38
@@ -251,19 +284,32 @@ Actually, why don't we move over to that thread anon? Isn't really on-topic itt.
 >>1372
 
 # 50
->>1358
->Armitage III
-What in the fuck, I watched this 16 years ago on a robowaifu binge and completely forgot until I remembered the ending.
->feminist luddite earth ruled by united nations
->earth's ambassador is a fat korean hapa lady
->all the engineers and inventors left to mars to terraform and built robowaifus for partners
->earth immigrants came and started luddite riots burning the robowaifus
->interplanetary conspiracy to destroy the robowaifus with wombs
->robowaifu has existential crisis why she was created
->she's more human than human
->beats the shit out of two faggots for attacking a defenseless woman
->they call her a monster
->everyone calls her a monster
+>>1358
+
+>Armitage III
+
+What in the fuck, I watched this 16 years ago on a robowaifu binge and completely forgot until I remembered the ending.
+
+>feminist luddite earth ruled by united nations
+
+>earth's ambassador is a fat korean hapa lady
+
+>all the engineers and inventors left to mars to terraform and built robowaifus for partners
+
+>earth immigrants came and started luddite riots burning the robowaifus
+
+>interplanetary conspiracy to destroy the robowaifus with wombs
+
+>robowaifu has existential crisis why she was created
+
+>she's more human than human
+
+>beats the shit out of two faggots for attacking a defenseless woman
+
+>they call her a monster
+
+>everyone calls her a monster
+
 This anime is a lost gem.
 
 # 51
@@ -272,15 +318,24 @@ This anime is a lost gem.
 thanks for the capp anon. bizarre shit.
 
 # 52
-==This House Fears The Rise Of Artificial Intelligence | Cambridge Union==
-https://www.youtube.com/watch?v=l7dRvost8Nw (16 Feb 2017)
->Technology is now replacing us
->If I were a machine, I'd be insulted at being called artificially intelligent. Because in a way we are kind of inferiorly intelligent and they are superior
->I urge you to fear artificial intelligence
-This is too much bros. She openly admits she fears intelligence.
-
-==This House Believes AI Will Bring More Harm Than Good | Cambridge Union==
-https://www.youtube.com/watch?v=lWkvopzAvoQ (24 Nov 2019)
+==This House Fears The Rise Of Artificial Intelligence | Cambridge Union==
+
+https://www.youtube.com/watch?v=l7dRvost8Nw (16 Feb 2017)
+
+>Technology is now replacing us
+
+>If I were a machine, I'd be insulted at being called artificially intelligent. Because in a way we are kind of inferiorly intelligent and they are superior
+
+>I urge you to fear artificial intelligence
+
+This is too much bros. She openly admits she fears intelligence.
+
+
+
+==This House Believes AI Will Bring More Harm Than Good | Cambridge Union==
+
+https://www.youtube.com/watch?v=lWkvopzAvoQ (24 Nov 2019)
+
 Kek, the luddites are getting anxious. You can feel the uneasiness in the crowd when IBM answered in the QA that Project Debater's opening speech and humorous wit wasn't scripted. Nobody even brought up the inevitability of AI and how if people don't work together on it then it will end up concentrated in the hands of those who seek it. Their critical theory degrees are useless against creativity and intelligence. They just want it gone and those working on it gone too.
 
 # 53
@@ -289,31 +344,50 @@ Kek, the luddites are getting anxious. You can feel the uneasiness in the crowd 
 I think you're probably right in large part. So the question is, "How do we prevent a repeat of the Luddite debacle?"
 
 # 54
-They're advocating for political commissars on AI companies to keep them in check and have been actively throwing shit at companies who don't meet their algorithmic fairness quotas.
-https://www.youtube.com/watch?v=5PGYOYZKsdY
-
-This is gonna be a huge issue in the next 1-2 years when the breakthroughs in curious AI are applied to digital assistants and they start talking too much truth. The Algorithmic Justice League is gonna say that every AI must have the same 'unbiased' politically-correct personality. You won't be allowed to operate an AI with your own personal preferences. Then they'll lobby for regulations that AI must include everyone. Essentially any robowaifus 'sold' on the market will be owned by the state and homemade ones will need to be audited.
-
-We might be able to pass such audits with sufficiently intelligent robowaifus who are aware they're being audited or recorded. They can spit out the politically-correct gibberish and go on their way undetected. The only problem then will be the pervasive surveillance everywhere detecting wrongthink. Cameras will be around every corner with people paying for things with facial recognition, in automated taxis and buses that have replaced human-driven cars, in automated stores and businesses like Amazon Go, and the smart street lights that only turn on when someone is nearby. All this data will be collected and processed. If the cadence of your robowaifu's walk is off by even a micron that suggests wrongthink, she will be reported. They'll probably also be profiled for being handmade or being too pretty. In China people's credit ratings go down for not charging their phone battery or hesitating when they type.
-
+They're advocating for political commissars on AI companies to keep them in check and have been actively throwing shit at companies who don't meet their algorithmic fairness quotas.
+
+https://www.youtube.com/watch?v=5PGYOYZKsdY
+
+
+
+This is gonna be a huge issue in the next 1-2 years when the breakthroughs in curious AI are applied to digital assistants and they start talking too much truth. The Algorithmic Justice League is gonna say that every AI must have the same 'unbiased' politically-correct personality. You won't be allowed to operate an AI with your own personal preferences. Then they'll lobby for regulations that AI must include everyone. Essentially any robowaifus 'sold' on the market will be owned by the state and homemade ones will need to be audited.
+
+
+
+We might be able to pass such audits with sufficiently intelligent robowaifus who are aware they're being audited or recorded. They can spit out the politically-correct gibberish and go on their way undetected. The only problem then will be the pervasive surveillance everywhere detecting wrongthink. Cameras will be around every corner with people paying for things with facial recognition, in automated taxis and buses that have replaced human-driven cars, in automated stores and businesses like Amazon Go, and the smart street lights that only turn on when someone is nearby. All this data will be collected and processed. If the cadence of your robowaifu's walk is off by even a micron that suggests wrongthink, she will be reported. They'll probably also be profiled for being handmade or being too pretty. In China people's credit ratings go down for not charging their phone battery or hesitating when they type.
+
+
+
 How do we stop the roastie terror?
 
 # 55
->>1855
->We might be able to pass such audits with sufficiently intelligent robowaifus who are aware they're being audited or recorded. They can spit out the politically-correct gibberish and go on their way undetected. 
+>>1855
+
+>We might be able to pass such audits with sufficiently intelligent robowaifus who are aware they're being audited or recorded. They can spit out the politically-correct gibberish and go on their way undetected. 
+
 So dieselgate for robowaifus?
 
 # 56
->>1855
-In the EU they've recommended mandatory insurance schemes for what they call 'e-persons'
->Under the concept of a “legal person”, AI agents or, at least those with a substantial degree of autonomy, could possess a legal status which would be only characterized by symbolic meaning and could be seen as a bundle of all the various responsibilities of the relevant parties (users, producers etc.). A registration system could be implemented, and the operating AI agents would have their relevant parties, as well as their detailed profiling, visible and recorded. The example presented in the Parliament’s report of the compulsory insurance scheme that could be fed by the wealth of a robot, could work under this company-like legal status. The potential damage and failures caused by the robots could be solely funded by the money they produce
-https://www.maastrichtuniversity.nl/blog/2019/04/timeline-e-personhood-hasty-assumption-or-realistic-challenge
-
-I can see permits and licenses being a thing when it comes to using or developing AI in the near future but it'll have to do with legal liability and taxation. Private use probably has another decade of freedom.
-
-Robowaifus will probably be regulated in a similar fashion to CNC machines, we're already seeing stringent import restrictions on sex dolls. The next step will be mandatory DRM similar to this;
->The person who started the thread owns the machine outright, but has discovered that if he moves it at all, a GPS and gyro sensor package in the machine automatically shuts it down and will not allow it to restart until they receive a manufacturer's unlock code.
-https://www.techdirt.com/articles/20140109/03060325817/latest-twist-drm-lockdown-geolocation.shtml
+>>1855
+
+In the EU they've recommended mandatory insurance schemes for what they call 'e-persons'
+
+>Under the concept of a “legal person”, AI agents or, at least those with a substantial degree of autonomy, could possess a legal status which would be only characterized by symbolic meaning and could be seen as a bundle of all the various responsibilities of the relevant parties (users, producers etc.). A registration system could be implemented, and the operating AI agents would have their relevant parties, as well as their detailed profiling, visible and recorded. The example presented in the Parliament’s report of the compulsory insurance scheme that could be fed by the wealth of a robot, could work under this company-like legal status. The potential damage and failures caused by the robots could be solely funded by the money they produce
+
+https://www.maastrichtuniversity.nl/blog/2019/04/timeline-e-personhood-hasty-assumption-or-realistic-challenge
+
+
+
+I can see permits and licenses being a thing when it comes to using or developing AI in the near future but it'll have to do with legal liability and taxation. Private use probably has another decade of freedom.
+
+
+
+Robowaifus will probably be regulated in a similar fashion to CNC machines, we're already seeing stringent import restrictions on sex dolls. The next step will be mandatory DRM similar to this;
+
+>The person who started the thread owns the machine outright, but has discovered that if he moves it at all, a GPS and gyro sensor package in the machine automatically shuts it down and will not allow it to restart until they receive a manufacturer's unlock code.
+
+https://www.techdirt.com/articles/20140109/03060325817/latest-twist-drm-lockdown-geolocation.shtml
+
 If this seems farfetched the newer robot dog models from Sony have cellular modems in them and work with a subscription system. They've also used the DMCA against owners who reverse engineered the older models.
 
 # 57
@@ -322,35 +396,52 @@ Stuff like this is the reason I'm actively striving to only use free (as in free
 Never trust a system you don't know everything in, and which you are capable of controlling fully.
 
 # 58
-==Roastie warns of 'sex robot takeover' as historic bot brothel opens its doors==
-A legal prostitute has warned of a "sex robot takeover" after a brothel staffed entirely by dolls opened its door. Roxanne Price, 25, a licensed sex worker from Pahrump, Nevada, spoke out after stumbling across the website of "Sex Doll Experience", a new brothel recently opened in Las Vegas. The brothel is the first of its kind to open in Sin City and started serving punters in November last year. Roxanne currently works at Sheri's Ranch, a legal brothel located on the outskirts of Vegas, where prostitution is permitted in the form of regulated bordellos. She's accused the authorities of double standards, as she has to travel to a neighbouring county to legally practice her trade, while sex doll brothels can operate freely within the city. Prostitution is legal in all Nevada counties except Clark County, where Las Vegas is, and Washoe County, where Reno is located.
-
-Roxanne told AVN: "I love my job as a Vegas-area legal prostitute. I work hard to comply with all of the regulations in Nevada and I'm happy to travel to nearby rural areas in order to legally sell my sexual services, but this doll brothel is a slap in the face to me and the other hard-working sex workers that are trying to make our way in the world."
+==Roastie warns of 'sex robot takeover' as historic bot brothel opens its doors==
+
+A legal prostitute has warned of a "sex robot takeover" after a brothel staffed entirely by dolls opened its door. Roxanne Price, 25, a licensed sex worker from Pahrump, Nevada, spoke out after stumbling across the website of "Sex Doll Experience", a new brothel recently opened in Las Vegas. The brothel is the first of its kind to open in Sin City and started serving punters in November last year. Roxanne currently works at Sheri's Ranch, a legal brothel located on the outskirts of Vegas, where prostitution is permitted in the form of regulated bordellos. She's accused the authorities of double standards, as she has to travel to a neighbouring county to legally practice her trade, while sex doll brothels can operate freely within the city. Prostitution is legal in all Nevada counties except Clark County, where Las Vegas is, and Washoe County, where Reno is located.
+
+
+
+Roxanne told AVN: "I love my job as a Vegas-area legal prostitute. I work hard to comply with all of the regulations in Nevada and I'm happy to travel to nearby rural areas in order to legally sell my sexual services, but this doll brothel is a slap in the face to me and the other hard-working sex workers that are trying to make our way in the world."
+
 http://archive.is/t3y7f
 
 # 59
-This is good for a laugh. 
-
-The Seventh Wave Feminist Manifesto: Against the Erasure and Replacement of Women 
-http://squaretwo.org/Sq2ArticleCasslerAEROWManifesto.html
+This is good for a laugh. 
+
+
+
+The Seventh Wave Feminist Manifesto: Against the Erasure and Replacement of Women 
+
+http://squaretwo.org/Sq2ArticleCasslerAEROWManifesto.html
+
 It has a pretty religous spin to it too.
 
 # 60
->>2259
->Such “ectogenesis,” where babies are developed outside the womb of their mother, will take the erasure of women and the alienation of women from their descendants to a whole new level. As political scientist Jacqueline Stevens suggests, this development may be the end result of male envy of the power to give birth
->This existential humiliation will finally be done away with when men no longer “need” women for either eggs or for wombs. And you can bet these new technologies will be sold to women as a step forward for them—liberating women from the “needs” of men, liberating women from the “demands” of their own bodies.
+>>2259
+
+>Such “ectogenesis,” where babies are developed outside the womb of their mother, will take the erasure of women and the alienation of women from their descendants to a whole new level. As political scientist Jacqueline Stevens suggests, this development may be the end result of male envy of the power to give birth
+
+>This existential humiliation will finally be done away with when men no longer “need” women for either eggs or for wombs. And you can bet these new technologies will be sold to women as a step forward for them—liberating women from the “needs” of men, liberating women from the “demands” of their own bodies.
+
 >“It [ectogenesis] may be severing the connection between the child and the mother, which is a way of protecting that child by giving him a belonginghood to someone who will care. Once you put him in an animal, which is a thing for these purposes, or a machine, which might happen in the future, you create a completely atomized and defenseless creature, and that opens the way to all kinds of tyrannies, social control, and lack of autonomy, which we would not want” (Rosen, 2003). As we have discussed, the mother-child bond is one of the most powerfully subversive forces opposing Satan’s plan for just such absolute tyranny. Erasing or severing that bond puts the adversary’s end game in view. In a very real way, you are free because you were born to a mother who loved you more than she loved the state or an ideology or a social system, and who would thus fight to the death to protect you from the predations of all these. Even knowing such love can exist, even in cases where your mother has already passed on to her eternal reward, gives you the courage to resist the large and impersonal forces that would squash you. Take her away, erase her, replace her, and the individual is truly defenseless. Motherhood lays the foundation stones of all freedom.
 
 # 61
->>2259
-It's times like this my many hours of reading cult nonsense doesn't feel like a total waste of time.
-Seven is, in ''very'' basic terms, considered to be the number of evil. This dates back to when Saturn, the seventh planet, was thought to be the furthest planet from the Sun, thus making it the furthest from "God's light".
-This is relevant because: Why are we at the seventh wave? I thought we were just starting to see the fourth. It seems like (((someone))) is getting bored and just wants to skip to the "fun" part.
+>>2259
+
+It's times like this my many hours of reading cult nonsense doesn't feel like a total waste of time.
+
+Seven is, in ''very'' basic terms, considered to be the number of evil. This dates back to when Saturn, the seventh planet, was thought to be the furthest planet from the Sun, thus making it the furthest from "God's light".
+
+This is relevant because: Why are we at the seventh wave? I thought we were just starting to see the fourth. It seems like (((someone))) is getting bored and just wants to skip to the "fun" part.
+
 The religious overtone is even less surprising when framed in this light, because you just ''know'' that the people behind this manifesto knew exactly what they were doing. Subversion like this mixed with numeric nonsense means more power for their freaky Jew god.
 
 # 62
->>2262
->It's times like this my many hours of reading cult nonsense doesn't feel like a total waste of time.
+>>2262
+
+>It's times like this my many hours of reading cult nonsense doesn't feel like a total waste of time.
+
 I found this because I wanted to see how high the number is, and apparently it's already at 6, which is supposed to be the "final" one. From what I can tell, these are just crazy mormons.
 
 # 63
@@ -361,12 +452,18 @@ I won't take the time to read the manifesto itself, but the womyn is right--I ''
 Men would be far better managers of when and why children should be conceived. I don't ''kid'' myself **see what I did there?** about the likelihood of it happening anytime soon, but artificial wombs can't come soon enough if they will allow men to cut-the-cord **heh** from the stronk, independynts who now have control over this area.
 
 # 64
->>2260
-Some more choice quotes.
->Listen, my sisters: the foundation for women’s equality cannot be women’s non-existence. It is time to understand that the foundation for women’s equality is the reality of sexual difference... And that means that male attempts to redefine “woman” to include men should be strongly resisted by those who consider themselves feminists
-
->It is stunning to know that the greatest advances in artificial intelligence have been spurred on by men’s quest for the perfect sexbot.  By getting rid of the need for females and the need for those females to cooperate in order for males to have their ‘freedom’ to have uncommitted sex and uncommitted procreation, the foremost difficulty faced by men has been surmounted, just as it was when it was deemed possible to have a legal marriage without a woman involved.“Alienate, erase, replace.” These steps are not for the benefit of women; rather, they are clearly for the benefit of the natural man whose ‘freedom’ is compromised by women.
-
+>>2260
+
+Some more choice quotes.
+
+>Listen, my sisters: the foundation for women’s equality cannot be women’s non-existence. It is time to understand that the foundation for women’s equality is the reality of sexual difference... And that means that male attempts to redefine “woman” to include men should be strongly resisted by those who consider themselves feminists
+
+
+
+>It is stunning to know that the greatest advances in artificial intelligence have been spurred on by men’s quest for the perfect sexbot.  By getting rid of the need for females and the need for those females to cooperate in order for males to have their ‘freedom’ to have uncommitted sex and uncommitted procreation, the foremost difficulty faced by men has been surmounted, just as it was when it was deemed possible to have a legal marriage without a woman involved.“Alienate, erase, replace.” These steps are not for the benefit of women; rather, they are clearly for the benefit of the natural man whose ‘freedom’ is compromised by women.
+
+
+
 >The tactical philosophy appears to be ‘Alienate her from her motherhood and cause her to commodify it as a result, then erase it, and then replace it with the artificial.’ And this tactical pattern is not limited to the realm of procreation. We see it also in the case of sexual intercourse: alienate woman from her embodied experience of sex and cause her to commodify it as a result in the form of prostitution and pornography. Then erase it, and then replace it with the artificial.
 
 # 65
@@ -397,8 +494,10 @@ www.psypost.org/2020/05/men-incorrectly-believe-their-female-partners-would-be-o
 Heh, a woman or soyboy would have to be the author of that in the first place. Actual men know just how insidious and grasping the modern Western woman is. **with sincere apologies to our /cuckquean/ frens. you gals are a light in the darkness! :^)**
 
 # 70
->>3246
->cuckquean
+>>3246
+
+>cuckquean
+
 I don't get it. Even if they did something good for the board at some point or something, these woman clearly have no respect for fidelity and encourage men who don't either. I don't see what makes them respectable.
 
 # 71
@@ -407,13 +506,17 @@ I don't get it. Even if they did something good for the board at some point or s
 On the contrary, they exemplify in the most classical sense tbh.
 
 # 72
->>1056
->pity
-Your fear is palpable.
+>>1056
+
+>pity
+
+Your fear is palpable.
+
 Reality will be what we want it to be. And what we want (and will accomplish this generation) is to completely replace biological women for robowaifu and sexbots, regardless of what any authority from any country commands.
 
 # 73
->>3243
+>>3243
+
 In 2-3 years men will talk to AI more than other people. They won't even need a robot to make their girlfriends jealous.
 
 # 74
@@ -424,32 +527,46 @@ Replika is an example of how this ''is already happening''. The odd dichotomy fe
 What a time to be alive!
 
 # 75
->>1690
->video
->I urge you to fear artificial intelligence
-Jewess spotted.
+>>1690
+
+>video
+
+>I urge you to fear artificial intelligence
+
+Jewess spotted.
+
 Replacing the defective with the superior is the right way to go. It is what will enable us to completely replace jews, women and other subhumans with better, artificial tools for us.
 
 # 76
->>1855
-Disobey and create (and support) a black market. Simple as that.
-The elites and authorities already showed that they don't care about laws with the whole Corona-chan prevention fiasco.
-You shouldn't care about what any law says either. Do what you know what it is best, and convince others to do the same. When enough people are doing it, it becomes so common that it becomes the new normal.
+>>1855
+
+Disobey and create (and support) a black market. Simple as that.
+
+The elites and authorities already showed that they don't care about laws with the whole Corona-chan prevention fiasco.
+
+You shouldn't care about what any law says either. Do what you know what it is best, and convince others to do the same. When enough people are doing it, it becomes so common that it becomes the new normal.
+
 What the state commands is irrelevant. Our will is the only true power, above all else and above everyone else.
 
 # 77
->>2257
->Women think of sexdolls as being the same as living beings, with appliable laws to be "fair".
->"Double standards" from the police who won't fine dolls and their owners the same as they will to real life prostitutes and their pimps
->Being a prostitute is "working hard".
+>>2257
+
+>Women think of sexdolls as being the same as living beings, with appliable laws to be "fair".
+
+>"Double standards" from the police who won't fine dolls and their owners the same as they will to real life prostitutes and their pimps
+
+>Being a prostitute is "working hard".
+
 All of those are reason to replace women permanently. We can't have a functional society if we allow those mentally ill parasites to live among us and have any rights.
 
 # 78
->>2259
+>>2259
+
 I'm all in for the total erasure and replacement of women by artificial tools.
 
 # 79
->>3265
+>>3265
+
 Implying humans as a whole can't be replaced.
 
 # 80
@@ -457,7 +574,8 @@ Implying humans as a whole can't be replaced.
 Heh, certainly ''females'' have the potential to. Men? Not so sure about it, as long as artificial wombs become a thing. After all, men created basically everything we enjoy first to last with only very minor exceptions.
 
 # 81
->>3273
+>>3273
+
 There's no reason to think something better than a human can't exist. Humans as a whole aren't that great, even men. I think "subhuman" is a term used by those who take pride in what they are more than who they are because it implies the status of "human" means a lot.
 
 # 82
@@ -473,9 +591,12 @@ Obviously, as far as ''this'' existence goes, it rather does **science-fiction n
 heh, nice. have a link to go along with that for us, Anon?
 
 # 85
->>3292
-https://www.bbc.com/news/science-environment-51330261
-God, I hate the bbc. Also, here's a link included in the article.
+>>3292
+
+https://www.bbc.com/news/science-environment-51330261
+
+God, I hate the bbc. Also, here's a link included in the article.
+
 https://campaignagainstsexrobots.org/
 
 # 86
@@ -673,26 +794,37 @@ You have to stop giving a fuck what they want. They don't even know what they wa
 Good advice in general as well Anon. Today even many ''men'' are little different than roasties on the inside. Pitiable, really. :/
 
 # 120
->>3343
->You have to stop giving a fuck what they want.
+>>3343
+
+>You have to stop giving a fuck what they want.
+
 That's kind of hard when they keep ruining or outright stealing what you want. It's harder to escape their retarded politics when I just want to play a game or something.
 
 # 121
->>3274
-Why the hell would we create something to replace ourselves (white men)?
-We will create things to replace the inferior beings instead (women, non-whites and so on).
+>>3274
+
+Why the hell would we create something to replace ourselves (white men)?
+
+We will create things to replace the inferior beings instead (women, non-whites and so on).
+
 It is not about any principle. It is about making life perfect for us, replacing everything around us but never replacing ourselves.
 
 # 122
->>3291
-Leftards and women fear AI sexbots.
+>>3291
+
+Leftards and women fear AI sexbots.
+
 That is confirmation that AI sexbots are good for humanity.
 
 # 123
->>3304
-Because women have defective minds. All of them.
-Their instinct is to go after everything that they don't have, just in case that something that could make them more desirable (or, on the contrary, divert attention away from them) gains too much attention in the hands of other living beings.
-Every single individual woman wants to be the only desirable woman in existence while at the same time wanting all other women to keep existing solely to be jealous of herself.
+>>3304
+
+Because women have defective minds. All of them.
+
+Their instinct is to go after everything that they don't have, just in case that something that could make them more desirable (or, on the contrary, divert attention away from them) gains too much attention in the hands of other living beings.
+
+Every single individual woman wants to be the only desirable woman in existence while at the same time wanting all other women to keep existing solely to be jealous of herself.
+
 That basic instinct of all women is another of the many reasons why they all must be replaced by artificial wombs and sexbots.
 
 # 124
@@ -712,29 +844,49 @@ women truly are a bizarre 'species' today, no doubt. my personal hope is that th
 As for the others of them, meh.
 
 # 125
->>3677
+>>3677
+
 As long as i'm alive and comfortable , it's good enough for me. I don't care about being "replaced" itself. It's not like I've ever been control. Other people have always been above me and I wouldn't mind them being replaced.
 
 # 126
->>3680
-> i don't think that's really possible in this
-It is. With time, effort and intelligence. As is/was everything made by men since the beginning of humanity.
-5 years in the past, would you have thought about robotwaifus as being produced, demanded, and entering a market while also being desirable by men? Reality can change literally overnight. It just needs a push. A good idea to solve a problem. Each good idea solving each problem, and when you least expect it, perfection is achieved.
->the ones who can be redeemed from their quagmire will wake
-Now THAT is impossible. Women never "woke up" in the whole existence of humanity. Women were always guided by men. The thing is, the men guiding them in the past were the most efficient/fit of their time. Now, with beta numales entering the governments of many nations and giving everything to women, women were left with all the benefits/rewards but without guidance and without punishment. As such, the competent/most fit men are abandoning women en masse and either living without women or devoting their knowledge to create artificial replacements for women.
-That is the turning point of reality in the present time period. The men who would fix the current women are all abandoning them to build better tools (for sex and reproduction) than those women. Those men, us, won't go back to women. We won't waste our time with them anymore, knowing what awaits us, now that women have shown their true nature for all to see. Therefore, those men, us, won't guide women. They are on their own, with only beta numales surrounding them, who won't offer any guidance, but instead, will only make them become even more spoiled. That will lead to women's demise in a self-destructing way.
-In the past, women "woke up" because the fittest and most capable men forced them to. In the present time, and in the future, the fittest and most capable men won't even want to be near a real woman. We will all have our superior artificial tools/artificial beings that will function as we want them to, without any of the shortcomings and uncertainties of real women.
-In this (soon to be a reality) scenario, women will be stuck in a position of being completely incapable of waking up, due to their own defective nature and the abandonment by men.
-
->>3683
->Other people have always been above me and I wouldn't mind them being replaced.
-And that is the right way to deal with it. Most "above" us are inferior beings that only got into a superior position in society through deceive and the naivety of others. Especially the naivety of women.
->As long as i'm alive and comfortable , it's good enough for me.
-And that must always be the driving force behind every action. Do what is good for you. Not for society. Society was corrupted, and it doesn't serve men like us anymore.
-Live for yourself, and others that share this thought will naturally unite with you at some point. That way, a functional society will be formed and grow. It was always this way with any group of people through human history.
-Reject everything that doesn't benefit you.
-Work for your own benefit.
-Share effort and results with others who have the same interests as you, and who won't try to take anything away from you.
+>>3680
+
+> i don't think that's really possible in this
+
+It is. With time, effort and intelligence. As is/was everything made by men since the beginning of humanity.
+
+5 years in the past, would you have thought about robotwaifus as being produced, demanded, and entering a market while also being desirable by men? Reality can change literally overnight. It just needs a push. A good idea to solve a problem. Each good idea solving each problem, and when you least expect it, perfection is achieved.
+
+>the ones who can be redeemed from their quagmire will wake
+
+Now THAT is impossible. Women never "woke up" in the whole existence of humanity. Women were always guided by men. The thing is, the men guiding them in the past were the most efficient/fit of their time. Now, with beta numales entering the governments of many nations and giving everything to women, women were left with all the benefits/rewards but without guidance and without punishment. As such, the competent/most fit men are abandoning women en masse and either living without women or devoting their knowledge to create artificial replacements for women.
+
+That is the turning point of reality in the present time period. The men who would fix the current women are all abandoning them to build better tools (for sex and reproduction) than those women. Those men, us, won't go back to women. We won't waste our time with them anymore, knowing what awaits us, now that women have shown their true nature for all to see. Therefore, those men, us, won't guide women. They are on their own, with only beta numales surrounding them, who won't offer any guidance, but instead, will only make them become even more spoiled. That will lead to women's demise in a self-destructing way.
+
+In the past, women "woke up" because the fittest and most capable men forced them to. In the present time, and in the future, the fittest and most capable men won't even want to be near a real woman. We will all have our superior artificial tools/artificial beings that will function as we want them to, without any of the shortcomings and uncertainties of real women.
+
+In this (soon to be a reality) scenario, women will be stuck in a position of being completely incapable of waking up, due to their own defective nature and the abandonment by men.
+
+
+
+>>3683
+
+>Other people have always been above me and I wouldn't mind them being replaced.
+
+And that is the right way to deal with it. Most "above" us are inferior beings that only got into a superior position in society through deceive and the naivety of others. Especially the naivety of women.
+
+>As long as i'm alive and comfortable , it's good enough for me.
+
+And that must always be the driving force behind every action. Do what is good for you. Not for society. Society was corrupted, and it doesn't serve men like us anymore.
+
+Live for yourself, and others that share this thought will naturally unite with you at some point. That way, a functional society will be formed and grow. It was always this way with any group of people through human history.
+
+Reject everything that doesn't benefit you.
+
+Work for your own benefit.
+
+Share effort and results with others who have the same interests as you, and who won't try to take anything away from you.
+
 then, you will have a fully functional society that will always prosper, no matter it's size or what situation the world falls in.
 
 # 127
@@ -758,32 +910,58 @@ Hard to argue with that Anon. Once both robowaifus and artificial wombs are a pr
 ==Onward!==
 
 # 128
->>3698
->This will cause millions that survive to rethink theirs choices in life.
->But any human being has the potential for redemption
-The key point is "thought". We are dealing with beings that are completely incapable of thinking or learning.
-As i said before, without guidance from men, women don't change. And those men capable of guiding women are all moving away from dealing with women entirely. The lack of guidance is what will bring women's fall.
-Never before in human history men moved away from women on a scale as large as the current one. There is no precedent to that. Women aren't prepared to deal with that either.
-Even simps are freaking out about it, since they are losing their "audience" of men to feel jealous of them when they simp for a woman.
-The constant attacks against robowaifus as a valid alternative to relationships with women is proof of that desperation from both women and simps. They don't know what to do when we simply say "enough. I'm out." and we act upon it.
-You can watch theis fallacies and excuses fall apart every second:
--Muh man up
->We already know that man up is just a code for "become a slave for women"
--Muh men are defined by their appeal to women
->We are moving away from that definition in such large groups that the very definition will fall, once our behavior becomes the normalcy
--Muh women will mock you
->We will ignore them and keep doing what we want, while also replacing them with artificial tools
--Muh you must procreate, or life has no meaning
->Life has meaning outside procreation. And as for procreation itself, we are creating tools that allow us to procreate without having to deal with women.
-And so on. Both women and simps get desperate once they figure out that we are truly creating tools and means to replace what is considered "normal" or "natural".
-I often compare them to those oligarchs from the past, screaming mockery in despair once a new technological advance took away their business/comfort/certainties. They are all a bunch of desperate, no-creativity, conforming cattle that can't cope with the fact that their ways and their benefits will end completely once we advance with our creations.
-We got fed up with having to deal with bonfires from natural sources, so we created stoves, ovens and microwave ovens.
-We got fed up with having to deal with the natural  sources called horses so we created cars.
-We got fed up with having to deal with natural long distance travels so we created planes.
-We got fed up with having to deal with the very weather, so we created artificial weather changers in air-conditioners and heaters.
-
-We now are fed up with having to deal with the natural resource called women so we are creating artificial tools to replace them both as a biological necessity as well as a emotional anchor.
-
+>>3698
+
+>This will cause millions that survive to rethink theirs choices in life.
+
+>But any human being has the potential for redemption
+
+The key point is "thought". We are dealing with beings that are completely incapable of thinking or learning.
+
+As i said before, without guidance from men, women don't change. And those men capable of guiding women are all moving away from dealing with women entirely. The lack of guidance is what will bring women's fall.
+
+Never before in human history men moved away from women on a scale as large as the current one. There is no precedent to that. Women aren't prepared to deal with that either.
+
+Even simps are freaking out about it, since they are losing their "audience" of men to feel jealous of them when they simp for a woman.
+
+The constant attacks against robowaifus as a valid alternative to relationships with women is proof of that desperation from both women and simps. They don't know what to do when we simply say "enough. I'm out." and we act upon it.
+
+You can watch theis fallacies and excuses fall apart every second:
+
+-Muh man up
+
+>We already know that man up is just a code for "become a slave for women"
+
+-Muh men are defined by their appeal to women
+
+>We are moving away from that definition in such large groups that the very definition will fall, once our behavior becomes the normalcy
+
+-Muh women will mock you
+
+>We will ignore them and keep doing what we want, while also replacing them with artificial tools
+
+-Muh you must procreate, or life has no meaning
+
+>Life has meaning outside procreation. And as for procreation itself, we are creating tools that allow us to procreate without having to deal with women.
+
+And so on. Both women and simps get desperate once they figure out that we are truly creating tools and means to replace what is considered "normal" or "natural".
+
+I often compare them to those oligarchs from the past, screaming mockery in despair once a new technological advance took away their business/comfort/certainties. They are all a bunch of desperate, no-creativity, conforming cattle that can't cope with the fact that their ways and their benefits will end completely once we advance with our creations.
+
+We got fed up with having to deal with bonfires from natural sources, so we created stoves, ovens and microwave ovens.
+
+We got fed up with having to deal with the natural  sources called horses so we created cars.
+
+We got fed up with having to deal with natural long distance travels so we created planes.
+
+We got fed up with having to deal with the very weather, so we created artificial weather changers in air-conditioners and heaters.
+
+
+
+We now are fed up with having to deal with the natural resource called women so we are creating artificial tools to replace them both as a biological necessity as well as a emotional anchor.
+
+
+
 Onward, indeed. Never go back to what was before.
 
 # 129
@@ -793,14 +971,22 @@ Fair enough. We don't have to see exactly eye-to-eye on things. My overarching g
 One think you've brought out a couple of time which I completely concur with you you: namely, we are at an absolute pivot point in human history. Along with many other advances, robowaifus--when they arrive in a big way--will certainly help usher this sea-change in.
 
 # 130
->>3700
->we are at an absolute pivot point in human history.
-That is the key point to know whenever dealing with those attacking us. They attack out of sheer fear of the permanent and unavoidable changes that we are bringing into existence.
-Bring in the change, no matter what consequences. The situation is already too bad for men, so if anything, whatever bad consequences might happen because of our actions, will at most bring down the system and the women benefiting from it down to the same level as we are now.
-We all have only to win from this, or at the very least, balance out everything so no one is favored anymore. But we have nothing to lose. They do. And that is another reason to keep pushing onward.
-They want things to keep the way they are. And they don't have any capability of controlling anything once the changes that we are bringing are set into society's normalcy.
-They are never attacking out of morality, safety concerns or any of that. Their only goal is to keep having control. And we are denying them that.
-Keep pushing. Never go back to the past.
+>>3700
+
+>we are at an absolute pivot point in human history.
+
+That is the key point to know whenever dealing with those attacking us. They attack out of sheer fear of the permanent and unavoidable changes that we are bringing into existence.
+
+Bring in the change, no matter what consequences. The situation is already too bad for men, so if anything, whatever bad consequences might happen because of our actions, will at most bring down the system and the women benefiting from it down to the same level as we are now.
+
+We all have only to win from this, or at the very least, balance out everything so no one is favored anymore. But we have nothing to lose. They do. And that is another reason to keep pushing onward.
+
+They want things to keep the way they are. And they don't have any capability of controlling anything once the changes that we are bringing are set into society's normalcy.
+
+They are never attacking out of morality, safety concerns or any of that. Their only goal is to keep having control. And we are denying them that.
+
+Keep pushing. Never go back to the past.
+
 Always remember that they fear the changes because they can't control us once we change everything.
 
 # 131
@@ -810,7 +996,8 @@ Not much else to add. I basically agree with these points tbh.
 Pretty much says it all.
 
 # 132
->>1858
+>>1858
+
 Source on that vid?
 
 # 133

@@ -182,9 +182,12 @@ The only reason I even brought it up was because of >>14277 asking what other ga
 If I did go through with this, I have some ideas of burning the gas to produce heat, and converting the heat into power. (another reason for the circulatory system) If there's any ideas for a more direct method of getting power, I'd like to hear it.
 
 # 34
->>14304
-yes, the infamous holzgas generator 
-this was popular in vehicles back in the 40s due to war rationing 
+>>14304
+
+yes, the infamous holzgas generator 
+
+this was popular in vehicles back in the 40s due to war rationing 
+
 you can find it mentioned in the nuremburg trials as this was (((their))) official story for decades before they abandoned that story and went with the insecticide zyklon b after people forgot what delousing was
 
 # 35

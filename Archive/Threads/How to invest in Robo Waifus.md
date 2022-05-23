@@ -63,8 +63,10 @@ Haha wow, I didn't know about that one.
 www.bbc.com/news/world-us-canada-42680070
 
 # 7
->>8866
->I realized that living in a bunker with a robowaifu for a while might not only be more pleasant but would also require much fewer resources
+>>8866
+
+>I realized that living in a bunker with a robowaifu for a while might not only be more pleasant but would also require much fewer resources
+
 /monster/ crossboard-lurker here. Thanks for the idea, I'm writing that.
 
 # 8
@@ -131,17 +133,28 @@ Not him, but you are right on track Anon. Godspeed with your project ideas. Work
 ==9'001 times, This.==
 
 # 19
->>9360
-Fellow RC anon, I think the RC hobby has revived this past year because of the pandemic.  Granted some people say that RTR (Ready to Run) is the major trend in RC, but there are still a few scale modellers and kitbuilders.  I myself have built 3 new chassis so far when my previous RC experience was mall-bought toy grade cars in my childhood.  So hobby grade is new to me and I am enjoying even just bashing since each run feels like prepping for a real race.
-
-In addition, due to my experience with arduino, I am able to place not just fully functional lights, but speedometers and Wifi FPV (which unfortunately still is very slow compared to 5.8Ghz FPV).  I'm not into drones since I come from a scale modelling background and drones look like toys, but I can apply drone technologies onto these newfound landrobots.  Maybe one day I'll invest in a proper headset for FPV use.
-
-I'm also studying AI with Jetson Nano and I plan to make a self-driving RC car once I commit to destroying one of my chassis to place the additional hardware.
-
-I also plan to have a Youtube presence once my craftmanship is up to par with the master scale modellers and amateur arduino teachers currently out there.  This will be my approach as I segue into introducing robowaifu style landrobots.  I'm thinking of starting with a OriHime like wheeled torso robot that will read taped lines on the floor.
-
-I need a workspace, especially at minimum a 100 square meter space with dark epoxy floor which I can tape with white line markers so I can do proper robot training (at first for them to follow the lines, then I can make roads or mazes or even encode instructions into the lines themselves and it'll look like that robot cafe in Japan)  That is the biggest long term hurdle for me right now, since buying arduinos, ESP32s and Jetson Nanos and 3d printing plastic is easy and cheap.  I think for most people, if they are a maker type of person they would have built arduino or 3d printed projects already.  But we only see these robot competitions in university settings since you need not just the large flat hallways for the robots to drive around in unimpeded, but you need machined metal parts so ready access to a machine shop is a given for the bigger robots.  With 3D printing you are limited to "toy grade" robots.
-
+>>9360
+
+Fellow RC anon, I think the RC hobby has revived this past year because of the pandemic.  Granted some people say that RTR (Ready to Run) is the major trend in RC, but there are still a few scale modellers and kitbuilders.  I myself have built 3 new chassis so far when my previous RC experience was mall-bought toy grade cars in my childhood.  So hobby grade is new to me and I am enjoying even just bashing since each run feels like prepping for a real race.
+
+
+
+In addition, due to my experience with arduino, I am able to place not just fully functional lights, but speedometers and Wifi FPV (which unfortunately still is very slow compared to 5.8Ghz FPV).  I'm not into drones since I come from a scale modelling background and drones look like toys, but I can apply drone technologies onto these newfound landrobots.  Maybe one day I'll invest in a proper headset for FPV use.
+
+
+
+I'm also studying AI with Jetson Nano and I plan to make a self-driving RC car once I commit to destroying one of my chassis to place the additional hardware.
+
+
+
+I also plan to have a Youtube presence once my craftmanship is up to par with the master scale modellers and amateur arduino teachers currently out there.  This will be my approach as I segue into introducing robowaifu style landrobots.  I'm thinking of starting with a OriHime like wheeled torso robot that will read taped lines on the floor.
+
+
+
+I need a workspace, especially at minimum a 100 square meter space with dark epoxy floor which I can tape with white line markers so I can do proper robot training (at first for them to follow the lines, then I can make roads or mazes or even encode instructions into the lines themselves and it'll look like that robot cafe in Japan)  That is the biggest long term hurdle for me right now, since buying arduinos, ESP32s and Jetson Nanos and 3d printing plastic is easy and cheap.  I think for most people, if they are a maker type of person they would have built arduino or 3d printed projects already.  But we only see these robot competitions in university settings since you need not just the large flat hallways for the robots to drive around in unimpeded, but you need machined metal parts so ready access to a machine shop is a given for the bigger robots.  With 3D printing you are limited to "toy grade" robots.
+
+
+
 One thing I noticed is that robot kits are less value for money compared to RC chassis kits, that's why for robot projects its better to just source your components and 3d print the chassis pieces yourself.  Maybe once more robots start having better motors and suspension systems, we can convince some of the aftermarket RC suppliers to supply robot parts as well.
 
 # 20
@@ -297,8 +310,10 @@ I'm into Crypto, profiting from the new financial system. I agree to not get cau
 Whatever, I posted the link from >>10269 here because we already have a thread for it.
 
 # 39
-Lurker here. This seems to me like one of the more important and overlooked subjects on the board, particularly for those of us less technically inclined, as realistically, progress in the development of advanced androids and their components is primarily going to be brought about through corporations and startups developing the tech we need that can then be re-engineered and made open source.
-
+Lurker here. This seems to me like one of the more important and overlooked subjects on the board, particularly for those of us less technically inclined, as realistically, progress in the development of advanced androids and their components is primarily going to be brought about through corporations and startups developing the tech we need that can then be re-engineered and made open source.
+
+
+
 Finding ways to facilitate this feels like the quickest path towards the stated goal of the board to me and probably should encompass a larger focus than it currently does where we don't seem to have much of a clear idea as to which companies we should be supporting. I suppose it is possible to invest in robotics/AI in general through ETFs but isolating which areas of the sector are most crucial at the moment should be the priority first and then understanding the best way of supporting them, be it through stocks or whatever else.
 
 # 40

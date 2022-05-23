@@ -5,22 +5,35 @@ Is the desire for one's own waifubot a legitimate personal expression or simply 
 They're real, so no psychosis involved. Case closed.
 
 # 3
->>15
-I'd say it's a way of substituting the mother and wife figure that so many men desire. Ideally men should never be exposed to females at all (like a monk), I imagine that'd be amazing XD
-
-On the one hand, a man should strive to be independent and aim for self-actualisation.
-
+>>15
+
+I'd say it's a way of substituting the mother and wife figure that so many men desire. Ideally men should never be exposed to females at all (like a monk), I imagine that'd be amazing XD
+
+
+
+On the one hand, a man should strive to be independent and aim for self-actualisation.
+
+
+
 At the same time waifus allow a man a temporary respite, when he can lower his guard and relax. Waifus on their own won't replace interactions with other men, instead they'll give an option to work with your primal instincts (not just sex, I mean more comfort wise) and allow you to make more rational decisions in the real world.
 
 # 4
->>15
-The "Welcome to the board" post says this as its first line: 
-"Most of the world's modern women have failed their men and their societies, feminism is rampant, and men around the world have been looking for a solution."
-
-I think you could say First World problems might be a starting motivation, but the long term motivation is deeper. A fully capable robotic companion has more utility than just being a waifu. She is potentially a life-long assistant. 
-
-I believe such robots ability to be generally helpful far exceeds its usefulness as a mere wife replacement. If a robot like Chi from Chobits were to suddenly be released tomorrow think about the huge effect it would have on the economy. It wouldn't even need to be as smart as a human in all domains in order to be revolutionary.
-
+>>15
+
+The "Welcome to the board" post says this as its first line: 
+
+"Most of the world's modern women have failed their men and their societies, feminism is rampant, and men around the world have been looking for a solution."
+
+
+
+I think you could say First World problems might be a starting motivation, but the long term motivation is deeper. A fully capable robotic companion has more utility than just being a waifu. She is potentially a life-long assistant. 
+
+
+
+I believe such robots ability to be generally helpful far exceeds its usefulness as a mere wife replacement. If a robot like Chi from Chobits were to suddenly be released tomorrow think about the huge effect it would have on the economy. It wouldn't even need to be as smart as a human in all domains in order to be revolutionary.
+
+
+
 Personally, my desire for a robowaifu is a bit mixed. I'd like one as a primary personal companion, but I'd also buy others for business purposes. I think their commercial potential is what will grant these robots staying power beyond Robowaifu enthusiasts. That'll probably be the core drive of the large corps that produce them.
 
 # 5
@@ -29,7 +42,8 @@ Personally, my desire for a robowaifu is a bit mixed. I'd like one as a primary 
 Well said. I think you're correct.
 
 # 6
->>15
+>>15
+
 It's at least as old as the story of Pygmalion.
 
 # 7

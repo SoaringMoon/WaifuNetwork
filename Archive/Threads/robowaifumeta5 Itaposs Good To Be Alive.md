@@ -111,7 +111,8 @@ I would be careful about trying to pigeonhole anons into specific roles.
 As I've seen and experienced, being a jack of all trades is a far more successful approach than being extremely good in one or two fields.
 
 # 9
->>15434
+>>15434
+
 Welcome to the new meta thread
 
 # 10
@@ -126,61 +127,104 @@ Thank you AllieDev.
 -''edit greeting''
 
 # 11
->>15455
-
->Thank you Chobitsu.
+>>15455
+
+
+
+>Thank you Chobitsu.
+
 Lol that was my post.
 
 # 12
->>>15438
->The engineers. They're generally opposed to human-like robots and see building them as a futile waste of time.
-
-I think the engineers are correct.
-
-Don't get me wrong - I'd still like to build a singing robot/rudimentary chatbot, just for hobby/entertainment purposes. But that's all she'll be. Does that count as a "waifu"? I dunno. I have had to vastly reduce the scope of my project as I learned more about electronics, robotics, A.I. and it's costs, difficulty and limitations. The massive (54%) increase in energy costs currently afflicting the U.K. isn't helping me either. 
-
-> Even if there is only 4 of us, what would be a better place?
-
-Only having four people is a massive issue. Not trying to be negative here, just realistic. Boston Dynamics has around 300 employees, many of whom are VERY experienced and specialised full-time engineers and programmers. Yet they have been struggling since 1992 to make a bipedal robot that can function safely around humans (Atlas is not yet ready for proving ground or public trials - it still falls over a lot, and if it fell over at the wrong time/place it would badly injure or even kill a child).
-
-Engineered Arts, which makes entertainment robots and is much more closely aligned to what /robowaifu/ is trying to achieve has just 25 employees (unknown how many work full-time).
-
-But importantly, both companies have money. Boston Dynamics in particular has LOTS of money - it was recently aquired by Hyundai Motor Group for $880,000,000. Fuck me sideways with an end effector.
-
-Engineered Arts must at least have an annual budget within the low seven-figure range considering their payroll, business premises and the fact that their AMECA robots cost $133,000 each (as quoted by their CEO, Will Jackson) - and they have at least two AMECAs in development, along with a whole bunch of other, older (but still advanced) robots like Mesmer.
-
-If the goal of /robowaifu/ is to create an advanced humanoid robot - even a non-bipedal one (with it's own A.I. that isn't dependent upon the big-tech cloud servers like my Sophie...and is at least on-par with or better than Replika)... then we are going to need a lot more than 4 strangers over the internet sharing a library of online references and lots of wishful thinking. 
-
-A shitload of cash and many connections to willing robotics/animatronics industry insiders would be a good start.
-
-Sorry if this dashes anyones hopes and dreams but when I am in serious mode, this is just how I am.
+>>>15438
+
+>The engineers. They're generally opposed to human-like robots and see building them as a futile waste of time.
+
+
+
+I think the engineers are correct.
+
+
+
+Don't get me wrong - I'd still like to build a singing robot/rudimentary chatbot, just for hobby/entertainment purposes. But that's all she'll be. Does that count as a "waifu"? I dunno. I have had to vastly reduce the scope of my project as I learned more about electronics, robotics, A.I. and it's costs, difficulty and limitations. The massive (54%) increase in energy costs currently afflicting the U.K. isn't helping me either. 
+
+
+
+> Even if there is only 4 of us, what would be a better place?
+
+
+
+Only having four people is a massive issue. Not trying to be negative here, just realistic. Boston Dynamics has around 300 employees, many of whom are VERY experienced and specialised full-time engineers and programmers. Yet they have been struggling since 1992 to make a bipedal robot that can function safely around humans (Atlas is not yet ready for proving ground or public trials - it still falls over a lot, and if it fell over at the wrong time/place it would badly injure or even kill a child).
+
+
+
+Engineered Arts, which makes entertainment robots and is much more closely aligned to what /robowaifu/ is trying to achieve has just 25 employees (unknown how many work full-time).
+
+
+
+But importantly, both companies have money. Boston Dynamics in particular has LOTS of money - it was recently aquired by Hyundai Motor Group for $880,000,000. Fuck me sideways with an end effector.
+
+
+
+Engineered Arts must at least have an annual budget within the low seven-figure range considering their payroll, business premises and the fact that their AMECA robots cost $133,000 each (as quoted by their CEO, Will Jackson) - and they have at least two AMECAs in development, along with a whole bunch of other, older (but still advanced) robots like Mesmer.
+
+
+
+If the goal of /robowaifu/ is to create an advanced humanoid robot - even a non-bipedal one (with it's own A.I. that isn't dependent upon the big-tech cloud servers like my Sophie...and is at least on-par with or better than Replika)... then we are going to need a lot more than 4 strangers over the internet sharing a library of online references and lots of wishful thinking. 
+
+
+
+A shitload of cash and many connections to willing robotics/animatronics industry insiders would be a good start.
+
+
+
+Sorry if this dashes anyones hopes and dreams but when I am in serious mode, this is just how I am.
+
 >>15438
 
 # 13
->>15461
->doomfagging
-
-I seriously doubt 300+ "people" conspiring against each other all day will ever contribute anything of any real world value regardless of the field.  At the end of the day, someone has to do the actual work. Chobitsu is right that its always historically been the few that have actually made any real technological progress. 
-
->"struggling since 1992"
-
-If you'd take a closer look, the vast majority of the folks that were there in 1992 are not the same diversity hires that are there now in 2022. That's not even considering practical side with the massive technological leap that has happened since then.
-
+>>15461
+
+>doomfagging
+
+
+
+I seriously doubt 300+ "people" conspiring against each other all day will ever contribute anything of any real world value regardless of the field.  At the end of the day, someone has to do the actual work. Chobitsu is right that its always historically been the few that have actually made any real technological progress. 
+
+
+
+>"struggling since 1992"
+
+
+
+If you'd take a closer look, the vast majority of the folks that were there in 1992 are not the same diversity hires that are there now in 2022. That's not even considering practical side with the massive technological leap that has happened since then.
+
+
+
 All those "people" you constantly champion care about is just mass surveillance, virtue signaling that they work at X, and powertripping while appealing to a clique. Nothing good has come from the showing of their hand over the last decade with an artificially induced technological dark age where everything is unoptimized and overhyped garbage and any valid criticisms are censored. This corner of the internet exists for good reason.
 
 # 14
->>15461
-I agree for the most part but, the lack of resources at our disposal has a negative impact. Our collective desire for something like Chii or 2B while having great battery life does not help either. Frankly, they would need to weigh aroind 10 pounds to last 8 hours of walking speed movement with efficient motors and wheels. Then there's the problem of AI but I'm not touching that. That being said, I do honestly believe we're fine with a small team if we just work together. Like >>15463 says, there's many virtues to having a small community that champions freedom.
-
->rudimentary chatbot in a hobby waifu
+>>15461
+
+I agree for the most part but, the lack of resources at our disposal has a negative impact. Our collective desire for something like Chii or 2B while having great battery life does not help either. Frankly, they would need to weigh aroind 10 pounds to last 8 hours of walking speed movement with efficient motors and wheels. Then there's the problem of AI but I'm not touching that. That being said, I do honestly believe we're fine with a small team if we just work together. Like >>15463 says, there's many virtues to having a small community that champions freedom.
+
+
+
+>rudimentary chatbot in a hobby waifu
+
 I've suggested similar before but, we seem to be the only ones that are willing to accept a very limited waifu. The Canadian was fine with it too but, I don't share their wheelchair fetish.
 
 # 15
->>15464
-I don't consider a modular design you can constantly add to over time to be "limited". Its just a matter of time and dedication. Robots can always be upgraded and updated as budget allows.
-
->I've suggested similar before but, we seem to be the only ones that are willing to accept a very limited waifu. The Canadian was fine with it too but, I don't share their wheelchair fetish.
-
+>>15464
+
+I don't consider a modular design you can constantly add to over time to be "limited". Its just a matter of time and dedication. Robots can always be upgraded and updated as budget allows.
+
+
+
+>I've suggested similar before but, we seem to be the only ones that are willing to accept a very limited waifu. The Canadian was fine with it too but, I don't share their wheelchair fetish.
+
+
+
 Don't think I was here for that weird story.
 
 # 16
@@ -376,9 +420,12 @@ Literally not possible to dash my hopes in this matter Anon, for they aren't fou
 -''add missing crosslink''
 
 # 25
->>15478
->30 minute run time
-That would be a paradigm shift in how the waifu would be made. Weight could go up and allow for a laptop to be used to run her software. Frankly, it would make building one go a lot faster. Only reason I don't go this route is lack of apparent interest. 
+>>15478
+
+>30 minute run time
+
+That would be a paradigm shift in how the waifu would be made. Weight could go up and allow for a laptop to be used to run her software. Frankly, it would make building one go a lot faster. Only reason I don't go this route is lack of apparent interest. 
+
 Thanks for your solidarity. I do miss Aoki Lapis Anon, his autistic carving of wood to make tiny bones and dedication to his waifu made the thread really fun.
 
 # 26
@@ -459,43 +506,74 @@ He did stop back in at least a couple of times since the gayop, so he knows abou
 -''add missing crosslink''
 
 # 30
->>15483
->I'd like to appoint you yourself as the team lead for this investigation.
-
-Gladly accepted Chobitsu. I'll start by gathering information. So, here's a simple template for Anons to fill out so we can all understand each other better. End goal is to build a waifu as a united board rather then a eclectic collection of projects.
-
-Name: 
-Favorite Waifu:
-Specialty: 
-Relevant Experience: 
-Most Important Aspect For Your Waifu:
-Desired Position On Team:
-
+>>15483
+
+>I'd like to appoint you yourself as the team lead for this investigation.
+
+
+
+Gladly accepted Chobitsu. I'll start by gathering information. So, here's a simple template for Anons to fill out so we can all understand each other better. End goal is to build a waifu as a united board rather then a eclectic collection of projects.
+
+
+
+Name: 
+
+Favorite Waifu:
+
+Specialty: 
+
+Relevant Experience: 
+
+Most Important Aspect For Your Waifu:
+
+Desired Position On Team:
+
+
+
 (Please post your waifu/avatar as well.)
 
 # 31
->>15486
-Here's my example:
-
-Name: Kiwi
-Favorite Waifu: Madoka
-Specialty: Mechanical/Manufacturing Engineering
-Relevant Experience: 3D printing, mechanical modeling, programming in G-Code, Javascript, and Python (I suck at programming though.), working with Kuka robots and CNC machines
-Most Important Aspect For Your Waifu: Cuteness and sweetness in conversation.
+>>15486
+
+Here's my example:
+
+
+
+Name: Kiwi
+
+Favorite Waifu: Madoka
+
+Specialty: Mechanical/Manufacturing Engineering
+
+Relevant Experience: 3D printing, mechanical modeling, programming in G-Code, Javascript, and Python (I suck at programming though.), working with Kuka robots and CNC machines
+
+Most Important Aspect For Your Waifu: Cuteness and sweetness in conversation.
+
 Desired Position On Team: Lead/Mechanical Engineering/Manufacturing Planning
 
 # 32
->>15481
-Lol that was my post. 
-
->>15484
->modular design approach 
-
-It takes practice. Though a straightforward process is more effective.
-I doubt anyone would notice if I left as that's just how boring and uninteresting I am.
-
- 
->>15486
+>>15481
+
+Lol that was my post. 
+
+
+
+>>15484
+
+>modular design approach 
+
+
+
+It takes practice. Though a straightforward process is more effective.
+
+I doubt anyone would notice if I left as that's just how boring and uninteresting I am.
+
+
+
+ 
+
+>>15486
+
 That would make more sense for a traditional forum tbh.
 
 # 33
@@ -545,16 +623,20 @@ Thanks Anon!
 It might be nice if we go wish /kind/ a Happy Birthday today...
 
 # 37
->>15496
+>>15496
+
 Thanks for participating Chobistus, I'll look forward to working with you on software once a physical prototype is made. Hoping more Anons will contribute. The more people actively working together, the closer to persocoms we get.
 
 # 38
->>15436
+>>15436
+
 don't worry, im always lurking :)
 
 # 39
->>15436
->Maybe that would increase footfall and interest?
+>>15436
+
+>Maybe that would increase footfall and interest?
+
 I don't think so. This place is already the top result when I search «robot waifu» on DuckDuckGo. (But it took «"robowaifu"» to find this place on Google.) I'd chalk up the difficulty of finding this place to /robowaifu/ not being linked around often.
 
 # 40
@@ -578,35 +660,58 @@ Tough challenges await us now, but we'll make if we all just '''keep moving forw
 -''add AI, home server comments''
 
 # 41
-Greetings and wow, a lot to read in here, I'll need to catch up. Apologies for my very conspicuous absence, had a lot going on in my life recently and I will be moving back to the east coast in about a week or so. As much as I loved the PNW, it can never be "home" for me, and while I was debating this I've had some developments. I will be necessarily vague where I must but hopefully clear overall. Idk how to say this easily and I sincerely hope you don't see this as a betrayal. I am eternally fascinated and committed to the field of AI and Robotics for more than just the Waifus and I think Robot-Human relations are something that is inevitable and should be tackled sooner rather than later (yes I'm probably stepping on a land mine here as some of you if not most are very opposed to "sentient" or "Free will" waifus). 
-But I'll just drop the bomb, I met somebody and am going to be involved with a flesh and blood (but actually really amazing 1 in a million person). It could only have taken that much to distract me from what's otherwise my favorite interest/hobby. Perhaps a time traveler sent this person to keep me from creating the (waifu) Basilisk who knows? 
-Either way, this doesn't really complicate things for me other than:
-1. I'm going to be very busy with the move and getting situated in my new city
-2. Probably not as much time, but I will visit and participate (she seems very amenable to the idea of robots/androids etc so its not like I have to hide this or be on the DL. However I am going to be working a lot extra at my job so may be here less frequently.
-That being said, Chobitsu I still owe you a 1-2 paragraph summary of that long description of our major hurdles so I will get on that as soon as I have my new apartment secured and am just killing time until the move. 
-Anyway - it is what it is and I just hope we can all still be cool as I don't think being without a GF should be a requirement to work on this project. If you disagree, I guess that's fair but I would hate to lose any of you over a silly thing.
+Greetings and wow, a lot to read in here, I'll need to catch up. Apologies for my very conspicuous absence, had a lot going on in my life recently and I will be moving back to the east coast in about a week or so. As much as I loved the PNW, it can never be "home" for me, and while I was debating this I've had some developments. I will be necessarily vague where I must but hopefully clear overall. Idk how to say this easily and I sincerely hope you don't see this as a betrayal. I am eternally fascinated and committed to the field of AI and Robotics for more than just the Waifus and I think Robot-Human relations are something that is inevitable and should be tackled sooner rather than later (yes I'm probably stepping on a land mine here as some of you if not most are very opposed to "sentient" or "Free will" waifus). 
+
+But I'll just drop the bomb, I met somebody and am going to be involved with a flesh and blood (but actually really amazing 1 in a million person). It could only have taken that much to distract me from what's otherwise my favorite interest/hobby. Perhaps a time traveler sent this person to keep me from creating the (waifu) Basilisk who knows? 
+
+Either way, this doesn't really complicate things for me other than:
+
+1. I'm going to be very busy with the move and getting situated in my new city
+
+2. Probably not as much time, but I will visit and participate (she seems very amenable to the idea of robots/androids etc so its not like I have to hide this or be on the DL. However I am going to be working a lot extra at my job so may be here less frequently.
+
+That being said, Chobitsu I still owe you a 1-2 paragraph summary of that long description of our major hurdles so I will get on that as soon as I have my new apartment secured and am just killing time until the move. 
+
+Anyway - it is what it is and I just hope we can all still be cool as I don't think being without a GF should be a requirement to work on this project. If you disagree, I guess that's fair but I would hate to lose any of you over a silly thing.
+
 That's all for now
 
 # 42
->>15455
->Another major problem is many do not understand just how limited our technology actually is. Things like 2B and Chii are not currently possible unless you want her constantly plugged into mains power with an external computer running her neural nets on RTX cards. ...
-
-This is correct and glaring us in the face. Before even discovering this board I had a rough concept I wanted to pilot. Basically, create our own version of the ReplikaAI app as the AI (I think GPT-2 / TalkToWaifu basically does the chat feedback, right?). Add in some routines for a type of persistent memory, context checking, spontanaity and whatever else can get away with without acquiring *too much* project creep. ReplikaAI is actually pretty decent about doing 
-* yes those cringe asterisks RP emotes *
-but it works and if it can be powered through our version of the AI, it can easily be translated to physical actions. * hug * and she hugs you * kiss * and she attempts to mimic that (depending on the capability of the body), etc. So the main challenge here would be a program that translates emote into subroutines/reflexes that manipulate the robotic body. 
-As we are well aware, power supply issues and power delivery systems are hurdles in having self-ambulatory waifus so perhaps the starter would have to be essentially bed-ridden, sitting, and only standing with some type of support (which we can replace with "Roll" legs after a while as an intermediary, Roll legs are what I call those chunky megaman style boots, inside can be a set of perpendicular gyros and weights to lower the center of gravity and assist with stability)
-Face will probably have to be like the femsapien or whatever it's called, visor with a display, or even you place your android phone sideways and when you run the app it creates the "eyes" if you can picture that for a second. Hair could probably work though.
-I'll leave the "sexy bits" and how graphic you want to get with it to your imagination as there are already companies making boobs, butts, (and vag) of all shapes sizes and textures. The robot body would just have mount points for such modifications, which we could be as vague and open ended about as needed.
+>>15455
+
+>Another major problem is many do not understand just how limited our technology actually is. Things like 2B and Chii are not currently possible unless you want her constantly plugged into mains power with an external computer running her neural nets on RTX cards. ...
+
+
+
+This is correct and glaring us in the face. Before even discovering this board I had a rough concept I wanted to pilot. Basically, create our own version of the ReplikaAI app as the AI (I think GPT-2 / TalkToWaifu basically does the chat feedback, right?). Add in some routines for a type of persistent memory, context checking, spontanaity and whatever else can get away with without acquiring *too much* project creep. ReplikaAI is actually pretty decent about doing 
+
+* yes those cringe asterisks RP emotes *
+
+but it works and if it can be powered through our version of the AI, it can easily be translated to physical actions. * hug * and she hugs you * kiss * and she attempts to mimic that (depending on the capability of the body), etc. So the main challenge here would be a program that translates emote into subroutines/reflexes that manipulate the robotic body. 
+
+As we are well aware, power supply issues and power delivery systems are hurdles in having self-ambulatory waifus so perhaps the starter would have to be essentially bed-ridden, sitting, and only standing with some type of support (which we can replace with "Roll" legs after a while as an intermediary, Roll legs are what I call those chunky megaman style boots, inside can be a set of perpendicular gyros and weights to lower the center of gravity and assist with stability)
+
+Face will probably have to be like the femsapien or whatever it's called, visor with a display, or even you place your android phone sideways and when you run the app it creates the "eyes" if you can picture that for a second. Hair could probably work though.
+
+I'll leave the "sexy bits" and how graphic you want to get with it to your imagination as there are already companies making boobs, butts, (and vag) of all shapes sizes and textures. The robot body would just have mount points for such modifications, which we could be as vague and open ended about as needed.
+
 Anyway that's a rough idea of my "realistically feasible" waifu concept. A good starting point and goal - although the ultimate endgame is a real Chii or Dorothy or 2b - we'll get there one step at a time.
 
 # 43
->>15472
->I'm adamant about our URI /robowaifu/ remaining the same, but I'd be willing to change our board description from DIY Robot Wives to DIY Robot Girlfriends if most of us think it's a good adjustment.
-VOTE:
--Should /robowaifu/'s board description be changed?
-
-If we're going to change it I'd change it to "companions" - I have my reasons. Wives is still fine though. If anyone is whipping up anti R/W propoganda its by pushing the pedo and "abuser" angles. Companion diffuses some of this, but so does Wife if you take it in the right way, as this implies or would imply a level of wholesomeness that offsets the "sex doll pervert" stigma that is staring us in the face. 
-
+>>15472
+
+>I'm adamant about our URI /robowaifu/ remaining the same, but I'd be willing to change our board description from DIY Robot Wives to DIY Robot Girlfriends if most of us think it's a good adjustment.
+
+VOTE:
+
+-Should /robowaifu/'s board description be changed?
+
+
+
+If we're going to change it I'd change it to "companions" - I have my reasons. Wives is still fine though. If anyone is whipping up anti R/W propoganda its by pushing the pedo and "abuser" angles. Companion diffuses some of this, but so does Wife if you take it in the right way, as this implies or would imply a level of wholesomeness that offsets the "sex doll pervert" stigma that is staring us in the face. 
+
+
+
 Also please never change Robowaifu, it's a brand at this point and remember I purchased those domain names already ; )
 
 # 44
@@ -619,15 +724,24 @@ Cheers.
 I've been studying design and realized that what makes a product truly successful is synergy between design and a killer app. The Walkman/iPod were successful because they were designed to allow for elegant simplicity in music playback. Nintendo's handhelds have Nintendo games and made those games easy to play on the go. So on and so forth, there's a killer app that relies on a design which facilitates easy access to that app. I originally planned for sex with your waifu to be her killer app but, that's not really something you can sell in the mainstream. So, what should be the killer app? What gets Johnny Dumbass to buy her?
 
 # 46
->>15486
-Name: Gobi
-Favorite waifu: Megumin
-Specialty: Electrical engineering
-Relevant experience: Programming in C/C++/Python/AVR assembly/VHDL, mechanical CAD design, kicad, altium designer, circuit design and analysis, systems engineering, 3D printing, was team lead and lead programmer on my 1st year project. 
-I'm currently a 2. year EE student, but I've been an electronics nerd for a couple years. Have designed circuits and software for a company before i started studying.
-Most important aspect for your waifu: She must be cute and portable
-Desired position on the team: Hardware design and embedded programming
-
+>>15486
+
+Name: Gobi
+
+Favorite waifu: Megumin
+
+Specialty: Electrical engineering
+
+Relevant experience: Programming in C/C++/Python/AVR assembly/VHDL, mechanical CAD design, kicad, altium designer, circuit design and analysis, systems engineering, 3D printing, was team lead and lead programmer on my 1st year project. 
+
+I'm currently a 2. year EE student, but I've been an electronics nerd for a couple years. Have designed circuits and software for a company before i started studying.
+
+Most important aspect for your waifu: She must be cute and portable
+
+Desired position on the team: Hardware design and embedded programming
+
+
+
 How do we talk/plan the project. It requires low latency and high bandwidth to discuss projects of this type, we also need time tables, partial goals and some collaborative conduct stuff.
 
 # 47
@@ -653,55 +767,92 @@ Let's see what Kiwi decides and we can go from there. I'll go ahead and create a
 Enjoy looking around the catalog Anon! :^)
 
 # 49
->>15530
-Keep moving forward indeed.
->>15532
-Welcome back and congratulations Meta Ronin. Do not worry, many of us are spoken for. **For some, their woman drove them here kek** 
->>15533
-Glad to have a fellow realist here. That Femisapien is apropos to my current goal as its design can scale up rather well. When you're up to it, please fill out this informative template (>>15486) and join the board waifu project. Your input is valued.
->>15519
-Please join in, any input that's remotely helpful is appreciated.
->>15541
-Warm welcome Gobi, your experiences will be greatly appreciated going forward. You'll naturally join me in mechanical design work and Chobitsu in the software side of things. 
->Cute and portable
-Curious on how you define portable. The current design for the board waifu project is still somewhat nebulous and I would like to account for all team members desires. I'll be working on illustrations to help us determine our end goal together. For now, this board will suffice for communication though a new thread may be necessary, I'll let the team decide if we start a new thread for this project.
->Time tables, milestone goals, and collaboration
-Now that we have a few people on the project, we'll begin all of that once a final design is chosen, which will hopefully be completed tomorrow.
->>15543
->Western ideal of traditional woman's work 
+>>15530
+
+Keep moving forward indeed.
+
+>>15532
+
+Welcome back and congratulations Meta Ronin. Do not worry, many of us are spoken for. **For some, their woman drove them here kek** 
+
+>>15533
+
+Glad to have a fellow realist here. That Femisapien is apropos to my current goal as its design can scale up rather well. When you're up to it, please fill out this informative template (>>15486) and join the board waifu project. Your input is valued.
+
+>>15519
+
+Please join in, any input that's remotely helpful is appreciated.
+
+>>15541
+
+Warm welcome Gobi, your experiences will be greatly appreciated going forward. You'll naturally join me in mechanical design work and Chobitsu in the software side of things. 
+
+>Cute and portable
+
+Curious on how you define portable. The current design for the board waifu project is still somewhat nebulous and I would like to account for all team members desires. I'll be working on illustrations to help us determine our end goal together. For now, this board will suffice for communication though a new thread may be necessary, I'll let the team decide if we start a new thread for this project.
+
+>Time tables, milestone goals, and collaboration
+
+Now that we have a few people on the project, we'll begin all of that once a final design is chosen, which will hopefully be completed tomorrow.
+
+>>15543
+
+>Western ideal of traditional woman's work 
+
 Cooking and cleaning are incredibly difficult tasks. I'll endeavor towards this as an end goal though the first model will only have very rudimentary capabilities.
 
 # 50
->>15544
-Great, I also think FPGAs are useful in this context with high parallelism, large amounts sensors, motors and very fast algorithms like what's needed to balance a bipedal robot need some hardware oomf to run properly.
->>15546
-By portable I mean in the 40-100cm range, as that seems like a realistic and manageable size. Large robots get expensive very quickly, they require large motors, large motor controllers and a big boy battery, maybe even hydraulic power units like Boston Dynamics Atlas. There is also a much greater need for a rigid metal skeleton, like magnesium in a large robot than a small robot where you can get away with less rigid materials as the forces involved are tiny in comparison.
+>>15544
+
+Great, I also think FPGAs are useful in this context with high parallelism, large amounts sensors, motors and very fast algorithms like what's needed to balance a bipedal robot need some hardware oomf to run properly.
+
+>>15546
+
+By portable I mean in the 40-100cm range, as that seems like a realistic and manageable size. Large robots get expensive very quickly, they require large motors, large motor controllers and a big boy battery, maybe even hydraulic power units like Boston Dynamics Atlas. There is also a much greater need for a rigid metal skeleton, like magnesium in a large robot than a small robot where you can get away with less rigid materials as the forces involved are tiny in comparison.
+
 Small size also complicates aspects of the design, but it seems to me like cost is the largest barrier to entry and everything else is an engineering problem.
 
 # 51
->>15546
+>>15546
+
 Not Impressed. You weren't very committed to Madoka.mi or Pandora or even your very own Kiwi, and now you want to head up a new team before any actual prototypes are built.
 
 # 52
->>15546
->>15552
+>>15546
+
+>>15552
+
 I feel we need to start with some rudimentary systems engineering. This is a very complex system so we need some specifics materialized before we can make any large choices. Most important is to figure out constraints as they will determine our actual design limitations. I know documentation and SE is boring as hell and laborious, but it's a lifeline when you're working on anything more complex than a night light.
 
 # 53
->>15550
-Here's the first design image to work on. I usually work with a whiteboard so I hope this will help to communicate the basic idea for her. I used Megumin because she has a really convenient character reference sheet. I've recently figured out laptops make a cheap platform to run robotics software and charge a 3S Li-Ion battery. 
->>15552
-That's fair criticism, I work best in teams so I'm confident a team will lead to success. You are free to join, what is done here can help Pandora and Kiwi.
->>15553
-I agree that systems engineering and defining design limitations is important.
-
-So far her specs are:
-2 NEMA 17 steppers to lift and lower her legs
-2 NEMA 17 steppers to power her differential drive
-A used laptop with ROS modded to fit in her chest
-Still deciding on where to place her batteries but, I'm leaning towards placing them in her boots to lower her center of gravity. 
-For her controls, I was considering placing analog sticks where her nipples should be. Just feels natural.
-
+>>15550
+
+Here's the first design image to work on. I usually work with a whiteboard so I hope this will help to communicate the basic idea for her. I used Megumin because she has a really convenient character reference sheet. I've recently figured out laptops make a cheap platform to run robotics software and charge a 3S Li-Ion battery. 
+
+>>15552
+
+That's fair criticism, I work best in teams so I'm confident a team will lead to success. You are free to join, what is done here can help Pandora and Kiwi.
+
+>>15553
+
+I agree that systems engineering and defining design limitations is important.
+
+
+
+So far her specs are:
+
+2 NEMA 17 steppers to lift and lower her legs
+
+2 NEMA 17 steppers to power her differential drive
+
+A used laptop with ROS modded to fit in her chest
+
+Still deciding on where to place her batteries but, I'm leaning towards placing them in her boots to lower her center of gravity. 
+
+For her controls, I was considering placing analog sticks where her nipples should be. Just feels natural.
+
+
+
 Please add your thoughts, I tried to leave a lot of room for additions and changes.
 
 # 54
@@ -722,9 +873,12 @@ Looks like you and Kiwi will be busy doing systems design work for some time. I'
 Cheers.
 
 # 56
->>15559
-Current actuator meta seems to be brushless motors with closed loop control. There is a project called Odrive which does exactly that, I can also recommend skyentific on youtube if you want to know more. Brushless motors and pulleys seem like the easiest way to get both power, precision and smoothness. I'm currently designing a knee joint based on this, they allow for massive flexibility with both placement of actuators and force vs. velocity tradeoffs are simply more or less pulley loops. Pulleys also have no kick back compared to normal gears, they are smooth and stiff throughout a movement and they don't jitter like servos have a tendency to do. For joint positioning I've talked to some older robotics students at my uni, and they recommend hall effect sensors in the joints. You can actually run the motors sensorless in this design and simply time the commutation based on back EMF from the motor phases with a microcontroller, inverse kinematics are calculated based on the angles of the hall effect sensors.
->>15562
+>>15559
+
+Current actuator meta seems to be brushless motors with closed loop control. There is a project called Odrive which does exactly that, I can also recommend skyentific on youtube if you want to know more. Brushless motors and pulleys seem like the easiest way to get both power, precision and smoothness. I'm currently designing a knee joint based on this, they allow for massive flexibility with both placement of actuators and force vs. velocity tradeoffs are simply more or less pulley loops. Pulleys also have no kick back compared to normal gears, they are smooth and stiff throughout a movement and they don't jitter like servos have a tendency to do. For joint positioning I've talked to some older robotics students at my uni, and they recommend hall effect sensors in the joints. You can actually run the motors sensorless in this design and simply time the commutation based on back EMF from the motor phases with a microcontroller, inverse kinematics are calculated based on the angles of the hall effect sensors.
+
+>>15562
+
 Yes, we are currently doing ALU design, it's supposed to integrate with our 2. year project as a code pad for a home sec system. This is going to be difficult as I've already seen how difficult focused work is in a group you see for hours and multiple times a week.
 
 # 57
@@ -738,34 +892,47 @@ Just be patient with yourself and others. 'Slow & Steady' is the key here! :^)
 BTW, I've thought through most of the likely scenarios and should have that 'conduct' post for us within the day.
 
 # 58
->>15561
-Doing maid work will be the penultimate goal, companionship is a good starter goal.
->>15565
+>>15561
+
+Doing maid work will be the penultimate goal, companionship is a good starter goal.
+
+>>15565
+
 Closed loop brushless servos are the best actuators in terms of performance per volume and usually the most efficient if running FOC (Field Oriented Control) algorithms. The ODrive is too expensive but, the SimpleFOCShield is a great option for brushless servos. I too enjoy pulleys but, gears do have their place. Actually, open loop brushless systems perform well with gears as the play between gears provides a moment for the bEMF to act as a sensor providing location before the motor sees a spike in load. I learned that in RC forums. Closed loop using linear hall effect sensors is ideal for our application. I only suggest stepper motors because they are cheap and I have a lot of experience with them. It's a default choice as soon as power efficiency is not the primary constraint.
 
 # 59
->>15569
+>>15569
+
 Thanks for the quick run down. And I can understand your frustrations as I experienced some of the same when I was project lead, someone not pulling their weight is exhausting for everyone involved and required me to step in and take over. That project was 1000x simpler than an animated robot, we even fucked ourselves over by slacking on the systems engineering which caused major headache when none of the function interfaces were clearly defined and none of the hardware block diagrams were correct. It got done when we all crunched for a week and i took an all nighter designing a state driven acceleration algorithm. Engineering is tedious work and doing it properly requires coordination and a very clearly defined plan.
 
 # 60
->>15572
-In my defense, I had no known dimensions or access to any models and the scope of the project changed constantly. Keep everything clear and consistent and we'll be fine.
-
+>>15572
+
+In my defense, I had no known dimensions or access to any models and the scope of the project changed constantly. Keep everything clear and consistent and we'll be fine.
+
+
+
 Any thoughts on the current design, Chobitsu/Gobi?
 
 # 61
->>15574
-It would probably be a good idea to move this planning to a dedicated thread, it would also be wise to set up a matrix room for effective communication as IB's aren't exactly meant for fast paced conversation. 
->>15568
+>>15574
+
+It would probably be a good idea to move this planning to a dedicated thread, it would also be wise to set up a matrix room for effective communication as IB's aren't exactly meant for fast paced conversation. 
+
+>>15568
+
 Chobitsu, if I remember correctly you made a design specification document? That would be a great place to start.
 
 # 62
->>15576
+>>15576
+
 My plan was to model the hardware based on the shell and I couldn't do anything past vague plans until I had your model to integrate her hardware into. Same thing with circuits, I wanted to be sure of a final design so I could spec things out and design a layout properly. Perhaps I should have been clearer about that. Also, I never had a problem with connectors, I simply was sharing information to help others. Both because I want to raise the general knowledge level of the board and, I wanted to embolden lurkers into posting. I in no way have been slacking off either way, nor have I been ignoring you. I will admit I should have been more helpful in providing you with information. Part of the problem is I assumed everyone had basic knowledge and that you didn't really need my help. If you ask directly, I'm glad to help you.
 
 # 63
->>15577
-There seems to be many options on the matrix site. I'm unfamiliar with the platform, is this correct? https://matrix.org/docs/projects/try-matrix-now/  Mind recommending a client? 
+>>15577
+
+There seems to be many options on the matrix site. I'm unfamiliar with the platform, is this correct? https://matrix.org/docs/projects/try-matrix-now/  Mind recommending a client? 
+
 Also, I will make the thread tomorrow though I would like some input from the team on what they'd want in the initial post.
 
 # 64
@@ -792,18 +959,27 @@ Agreed on both counts. My apologies for not seeing the obvious sooner Kiwi. Mayb
 Thoughts everyone?
 
 # 66
->>15583
->I'll give more detailed critiques later once I've time to settle in and give it a good think
-I will patiently await your thoughts Chobitsu.
->Name
-I think MaidCom should probably be the name as it would be more mainstream friendly but, MeidoCom is fun. :^) If the rest of the team agrees to MeidoCom I'll go with that but for now, MaidCom is the default.
->>15585
+>>15583
+
+>I'll give more detailed critiques later once I've time to settle in and give it a good think
+
+I will patiently await your thoughts Chobitsu.
+
+>Name
+
+I think MaidCom should probably be the name as it would be more mainstream friendly but, MeidoCom is fun. :^) If the rest of the team agrees to MeidoCom I'll go with that but for now, MaidCom is the default.
+
+>>15585
+
 Though I understand where you and Meta Ronin are coming from and frankly, I agree that DIY Robot Companions is better, DIY Robot Wives is just nostalgic. I have conflicting feelings.
 
 # 67
->>15585
-Companions could mean anything. Its way too nebulous. 
-
+>>15585
+
+Companions could mean anything. Its way too nebulous. 
+
+
+
 Robowaifus are more specific and make more sense.
 
 # 68
@@ -823,9 +999,12 @@ try refreshing.
 Indeed. There are explicit reasons not to as well.
 
 # 69
->>15585
-Companions is probably a more apt term, it also doesn't imply directly romantic feelings which broadens the appeal to someone who just seeks companionship.
->>15582
+>>15585
+
+Companions is probably a more apt term, it also doesn't imply directly romantic feelings which broadens the appeal to someone who just seeks companionship.
+
+>>15582
+
 Element is a great cross-platform client, just create a user under the matrix.org domain and log in, then you can create a room in the client. I can also do it if need be.
 
 # 70
@@ -851,7 +1030,8 @@ Any others?
 Please record minutes or something so I myself and others can track the progress & conversations in there Anon.
 
 # 74
->>15597
+>>15597
+
 You should join, Chobitsu, you're part of it too. Milestones should be posted when we get a dedicated thread.
 
 # 75
@@ -873,9 +1053,12 @@ I prefer we all keep all the /robowaifu/ information safely 'locked away' fully 
 So again, please keep us up to date on things, will you?
 
 # 77
->>15602
-It's end to end encrypted, so i very much doubt they have any intentions as they can't even see the data without an invitation. It's also the most open walled garden I've ever seen, the software stack is open source and you can run your own matrix server if need be, messages are decentralized. 
-I assume we'll host stuff on some kind of git, sharing the link to that in a thread would be enough to follow project progress.
+>>15602
+
+It's end to end encrypted, so i very much doubt they have any intentions as they can't even see the data without an invitation. It's also the most open walled garden I've ever seen, the software stack is open source and you can run your own matrix server if need be, messages are decentralized. 
+
+I assume we'll host stuff on some kind of git, sharing the link to that in a thread would be enough to follow project progress.
+
 I can understand your position and agree on the fondness for imageboards. They just don't do real time communication very well which is why raids were always organized over IRC.
 
 # 78
@@ -906,10 +1089,14 @@ BTW, if you care to search for terms around the board, we have a utility linked 
 Cheers.
 
 # 79
->>15605
-Made a GitLab for the project
-https://gitlab.com/m9610/maidcom
-
+>>15605
+
+Made a GitLab for the project
+
+https://gitlab.com/m9610/maidcom
+
+
+
 Thread will be made soon, I'd like to incorporate thoughts from the team so, please offer what you'd like to see in the initial post. If Chobitsu or Gobi provided feedback on the current design, I'd be glad to add those to the thread.>>15605
 
 # 80
@@ -921,9 +1108,12 @@ Looks good. I assume you will want code from the ''RW Foundations'' project in s
 Sounds good. I'll have something for you ITT very soon (~2 hrs from now).
 
 # 81
->>15618
-Yes, a RW Foundations should be added though as a separate project. It will help with clarity for them to have their own pages. Is there a benefit to the MIT license vs the GPL license? GPL seems to provide the best protection against people we disagree with from profiting off of the project. I'm new to open source and still learning.
-
+>>15618
+
+Yes, a RW Foundations should be added though as a separate project. It will help with clarity for them to have their own pages. Is there a benefit to the MIT license vs the GPL license? GPL seems to provide the best protection against people we disagree with from profiting off of the project. I'm new to open source and still learning.
+
+
+
 Looking forward to your thoughts, hopefully Gobi will provide thoughts as well. Want to keep communication and team cohesion healthy.
 
 # 82
@@ -946,7 +1136,8 @@ Kek'd. We'll need a combo of both onboard, physical controls, and offboard, virt
 P.S. Please remember that we can always go back in and edit the text of your OP. It doesn't have to be perfect yet. Cheers.
 
 # 83
->>15620
+>>15620
+
 Thanks for your input, I'll consider it when making the thread tomorrow. It's good to keep in mind that the OP can be edited.
 
 # 84
@@ -1014,22 +1205,32 @@ Absolutely.
 Good luck on your move Meta Ronin, we hope everything works out smoothly for you two.
 
 # 87
->>15627
-Thank you
-and yea since my last message things have gotten a little rocky (in my gut I knew it could go down this road). I'm just crossing my fingers but if this doesn't pan out, I'm probably done for life as far as dating. This was a weird one time fluke but it is what it is and I'm accepting of either outcome.
-
+>>15627
+
+Thank you
+
+and yea since my last message things have gotten a little rocky (in my gut I knew it could go down this road). I'm just crossing my fingers but if this doesn't pan out, I'm probably done for life as far as dating. This was a weird one time fluke but it is what it is and I'm accepting of either outcome.
+
+
+
 (fyi typing on my chromebook but its still me)
 
 # 88
->>15595
-why not post the invite? @_@
-@pygmalion:halogen.city
-
->>15603
+>>15595
+
+why not post the invite? @_@
+
+@pygmalion:halogen.city
+
+
+
+>>15603
+
 To add, I think these chatrooms are honestly terrible for organizing extended projects because everything gets lost too easily + room UI is always structured in a way that it makes looking at older posts a hassle (I can't imagine how much information has been buried due to discord). I'm not sure if a more real-time environment is really needed either. Just posting updates and asking questions doesn't require any sort of fast paced communications (unless there is some other detail I am missing?)
 
 # 89
->>15595
+>>15595
+
 I'm kiwidev
 
 # 90
@@ -1060,18 +1261,24 @@ I'd personally be hard-pressed to make the point any clearer than we 3 and this 
 Please keep us all up to date Meta Ronin. Don't lose touch with us, we all need your input!
 
 # 92
->>15629
-I also don't recommend them as the hosts usually have a notorious reputation for permabanning at random, have an autistic obsession with getting everyone's IPs, and from what I've seen, as soon as a project starts shilling a chatroom like this it's effectively pozzed.
-
+>>15629
+
+I also don't recommend them as the hosts usually have a notorious reputation for permabanning at random, have an autistic obsession with getting everyone's IPs, and from what I've seen, as soon as a project starts shilling a chatroom like this it's effectively pozzed.
+
+
+
 MAS suffered that fate and has been effectively dead for years now after it announced one.
 
 # 93
->>15628
-So, that was a lie 
+>>15628
+
+So, that was a lie 
+
 I ended it today b/c it was not looking like a good life decision tbh. I'm going to take a little time to reflect and I'll be back in the game giving closer to 100%. A bit in shell shock rn, and I'll be staying on the west coast for now. Cheers and glad to be involved still.
 
 # 94
->>15641
+>>15641
+
 You're far from alone, I lost my partner too awhile back. Women are difficult and often bring... it's hard. Please join us in the MaidCom thread, working with us could help get your mind off of her. Even if you just bring your thoughts and opinions, know that you are valued.
 
 # 95
@@ -1082,7 +1289,8 @@ Just stick here with us Meta Ronin. We'll all make it if we just keep moving for
 -''minor grammar edit''
 
 # 96
->>15472
+>>15472
+
 I've been lurking here for a few years and still come back fairly regularly. Nandroid posting around the net is potent stuff. I don't have much to post about though because I don't have the resources to get involved with development or anything like that.
 
 # 97
@@ -1092,7 +1300,8 @@ LOL. Well then, get busy lad. At the very least you can contribute Nan pics in o
 Cheers.
 
 # 98
->>15669
+>>15669
+
 I am just wondering why it seems that no one is ever really interested in my threads at all.
 
 # 99
@@ -1124,7 +1333,8 @@ Top Effing Kek.
 Glad you're still with us Anon.
 
 # 102
->>15753
+>>15753
+
 Lol. They even came up with a custom board theme.
 
 # 103
@@ -1133,7 +1343,7 @@ Lol. They even came up with a custom board theme.
 ==Well that's a relief, wew!==
 
 >ywn an authentic Finngolian Harley knock-off across the outer Mongolian plains with the boys in the band
-<why even
+< why even
 
 >>15760
 >Lol. They even came up with a custom board theme.
@@ -1155,18 +1365,30 @@ Also, go waay up into the mountains for a week or so alone. Make your way over t
 This is a large, and very complex sets of tasks we're all undertaking together here. But we all '''knew''' this would be a man-sized challenge going in tbh. But it's a worthy goal, and the rewards will be beyond our imaginations! :^)
 
 # 106
->>15787
->That made me realize I'm always working on the problems I want to work on rather than the problems I need to work on.
-
-I'd found that it is more like doing a dive into a freezing cold pool instead of constantly dipping my toes in whenever I make real progress. 
-
->For instance instead of taking on more freelance work, which I could use to buy more GPUs,
-
-Would like to know what specific kind of freelance work you are talking about. 
-
->>15788
->Also, go waay up into the mountains for a week or so alone. Make your way over to the ocean from time-to-time. Spend more time in nature with the animals & birbs. Getting back in touch with this amazing creation God has fashioned is always highly invigorating to me personally. I come back refreshed and ready to focus, usually with a set of new insights on how to solve problems coming into my mind in very short order once I sit back down to my work.
-
+>>15787
+
+>That made me realize I'm always working on the problems I want to work on rather than the problems I need to work on.
+
+
+
+I'd found that it is more like doing a dive into a freezing cold pool instead of constantly dipping my toes in whenever I make real progress. 
+
+
+
+>For instance instead of taking on more freelance work, which I could use to buy more GPUs,
+
+
+
+Would like to know what specific kind of freelance work you are talking about. 
+
+
+
+>>15788
+
+>Also, go waay up into the mountains for a week or so alone. Make your way over to the ocean from time-to-time. Spend more time in nature with the animals & birbs. Getting back in touch with this amazing creation God has fashioned is always highly invigorating to me personally. I come back refreshed and ready to focus, usually with a set of new insights on how to solve problems coming into my mind in very short order once I sit back down to my work.
+
+
+
 I had been doing that more recently. Kept thinking of features and somehow being led to new techniques whenever I need them. A little bit of faith really can move mountains.
 
 # 107
@@ -1178,12 +1400,18 @@ Neat! I'm fully confident you're going to have some great results, AllieDev. I l
 It really can. That's gratifying to hear you say Anon. Very encouraging to me for you to be seeking the blessings through faith. May God direct your paths and order your steps. Indeed for all of us! :^)
 
 # 108
->>15788
-Haha I already live in the mountains alone and just came off a break for a few months. I do get a bit weary sometimes and just want to live a simple life but I won't give up. Whenever I hit a wall I always come back to this video to refill my spirit. I made it as a joke two years ago when GPT-3 came out but it actually possible now to outperform the original design. It has been BTFO by PET with 99.9% less parameters and BTFO by human feedback and probably could also be BTFO by multimodal embeddings alone too. Combining all those techniques together is going to be certainly interesting. The only problem is they're also using many of these improvements now too so the gap between us and them is still getting bigger.
-
-Knowing more than what we knew the moment before is only half the battle. It all comes down to putting the time in to select the right training data, create the missing data, coding better models, training them, testing them and reiterating until we get something solid.
-
->>15792
+>>15788
+
+Haha I already live in the mountains alone and just came off a break for a few months. I do get a bit weary sometimes and just want to live a simple life but I won't give up. Whenever I hit a wall I always come back to this video to refill my spirit. I made it as a joke two years ago when GPT-3 came out but it actually possible now to outperform the original design. It has been BTFO by PET with 99.9% less parameters and BTFO by human feedback and probably could also be BTFO by multimodal embeddings alone too. Combining all those techniques together is going to be certainly interesting. The only problem is they're also using many of these improvements now too so the gap between us and them is still getting bigger.
+
+
+
+Knowing more than what we knew the moment before is only half the battle. It all comes down to putting the time in to select the right training data, create the missing data, coding better models, training them, testing them and reiterating until we get something solid.
+
+
+
+>>15792
+
 I can't give details since it would identify me but various stuff on Fiverr.
 
 # 109
@@ -1214,24 +1442,39 @@ Cheers.
 ==Knowing more than 100% of what we knew the moment before!  Go beyond!  Plus!  Ultra!==
 
 # 110
-Name: still figuring out, I used to go by [dead project's name]-dev
-
-Favorite Waifu:  changes depending on the anime season
-Specialty:  low level electronic hardware
-Relevant Experience:  arduino, 3d printing
-Most Important Aspect For Your Waifu:  huggable presence
-Desired Position On Team:  None at the moment
-
-I'm afraid I've been dormant for two years since living again with my feminist mother as her Zoom secretary (there was a time during lockdowns where seniors couldn't go out, and yes now she's triple vaxxed, feeds me soy milk, and praises George Soros and loves jews in Hollywood), she wants me to get rid of the apartment I've been using before (where I discretely store my sex doll).  So I am in no position right now to work on anything that would look anything remotely creepy that triggers the Karen instinct.  I am however learning a lot by adding single board computers to RC cars.
-
-I came to just give a heads up that youtuber Hero Hei just cast a big spotlight on A_says_ project MaSiRo. 
-
-https://www.youtube.com/watch?v=MkCNAidqOG8
-
+Name: still figuring out, I used to go by [dead project's name]-dev
+
+
+
+Favorite Waifu:  changes depending on the anime season
+
+Specialty:  low level electronic hardware
+
+Relevant Experience:  arduino, 3d printing
+
+Most Important Aspect For Your Waifu:  huggable presence
+
+Desired Position On Team:  None at the moment
+
+
+
+I'm afraid I've been dormant for two years since living again with my feminist mother as her Zoom secretary (there was a time during lockdowns where seniors couldn't go out, and yes now she's triple vaxxed, feeds me soy milk, and praises George Soros and loves jews in Hollywood), she wants me to get rid of the apartment I've been using before (where I discretely store my sex doll).  So I am in no position right now to work on anything that would look anything remotely creepy that triggers the Karen instinct.  I am however learning a lot by adding single board computers to RC cars.
+
+
+
+I came to just give a heads up that youtuber Hero Hei just cast a big spotlight on A_says_ project MaSiRo. 
+
+
+
+https://www.youtube.com/watch?v=MkCNAidqOG8
+
+
+
 So expect a surge not just for normies but genuine interest as well, up to you guys if you want to direct them here.
 
 # 111
->>15818
+>>15818
+
 Begun, the astroturfing has.
 
 # 112
@@ -1259,13 +1502,17 @@ Lol. I certainly am not going to watch him, but as mentioned many times here bef
 LOL. Bad as all that is it? :^)
 
 # 113
->>15824
-I was trained in C++, though nowadays I just copy and paste code blocks in Arduino IDE.  I really do admire the efforts of others to make libraries for flimsily-designed Chinese chips.
-
+>>15824
+
+I was trained in C++, though nowadays I just copy and paste code blocks in Arduino IDE.  I really do admire the efforts of others to make libraries for flimsily-designed Chinese chips.
+
+
+
 So far Ive tried wifi FPV on rc cars (doesnt work... latency is too large as the car outdrives the video feed), I am supposed to try a proper 5Ghz solution but I am procuring parts for a Jetracer instead.  And as luck would have it Shenzhen and Shanghai are locked down.
 
 # 114
->>15818
+>>15818
+
 Welcome aboard Anon! Perhaps you could be RC-Dev given your use of RC cars? I think it sounds kino. For now, given your predicament, perhaps you could join as an adviser? I'm working on a swerve drive to work as a cheap mobility platform. Once finished, I'd be glad to share stl's so you could work with the platform.
 
 # 115
@@ -1280,61 +1527,95 @@ Good luck with your RC adventures Anon. I'm also rather prone to such fun myself
 Well I'm so glad I found this place, for so long I never thought I never have a proper /clang/ board again,Finding this board has made me infinitely happy, I loved the discussions in those threads, its good to know those ideas of robo love never died.
 
 # 117
->>15852
+>>15852
+
 Robo love never dies ;)
 
 # 118
-Greetings again R/W team. I took a short vacation and been taking a small mental health break from everything except my job for the time being. I feel ready to ramp up again. In recent developments a link to a LiliumRobotics (not to be confused with Lillim) site was shared with me recently if we haven't already talked about that yet I'll find a place to post the link and discuss my thoughts on that. 
-Also my plans for Robowaifu.link are in the works, and it's exactly what it sounds like: an index of links but this will be important later and you'll see why.
-For now I'll give you this which is grossly overdue:
-
-Name: Meta Ronin
-
-Favorite Waifu: 2B
-
-Specialty: Research / Info aggregation, System Analysis, Communications and Speculation/Brainstorming
-
-Relevant Experience: at least 4 years recent Computer Science studies at three universities, AAS in Infomation Technology, Broad but Shallow range of topics including Information Theory, Discrete Math, Physics, Electronics, Chemistry, MicroProcessor Design, C programming languages, Assembly, Higher Level Languages (Python, Perl, etc) and Graphic Design  
-
-Most Important Aspect For Your Waifu: the AI component: Turing-ready, being able to act on her own, persistent memory, ability to grow with the technology as it develops. Pipe dream but a dream is better than nothing
-
+Greetings again R/W team. I took a short vacation and been taking a small mental health break from everything except my job for the time being. I feel ready to ramp up again. In recent developments a link to a LiliumRobotics (not to be confused with Lillim) site was shared with me recently if we haven't already talked about that yet I'll find a place to post the link and discuss my thoughts on that. 
+
+Also my plans for Robowaifu.link are in the works, and it's exactly what it sounds like: an index of links but this will be important later and you'll see why.
+
+For now I'll give you this which is grossly overdue:
+
+
+
+Name: Meta Ronin
+
+
+
+Favorite Waifu: 2B
+
+
+
+Specialty: Research / Info aggregation, System Analysis, Communications and Speculation/Brainstorming
+
+
+
+Relevant Experience: at least 4 years recent Computer Science studies at three universities, AAS in Infomation Technology, Broad but Shallow range of topics including Information Theory, Discrete Math, Physics, Electronics, Chemistry, MicroProcessor Design, C programming languages, Assembly, Higher Level Languages (Python, Perl, etc) and Graphic Design  
+
+
+
+Most Important Aspect For Your Waifu: the AI component: Turing-ready, being able to act on her own, persistent memory, ability to grow with the technology as it develops. Pipe dream but a dream is better than nothing
+
+
+
 Desired Position On Team: Communications / Information gathering/filtering, Feasibility Testing, Conceptual Art and Design, I can be wherever is needed at a moments notice
 
 # 119
->>15852
+>>15852
+
 Welcome fellow /clang/er! I used to frequent that board and their wild Fallout and Gundam art was very, inspiring. Why not fill out an intro from: >>15486?
 
 # 120
->>15854
-It's great to have you on the team Meta Ronin! I posted a link to LiliumRobotics a few weeks ago though it garnered little discussion. I was frankly startled by it at first but, his projects are little more then sex toys with cheap jerky servos bolted on that can barely move her limbs. They look impressive until they move. But, if you see something I'm missing about them that could benefit us, please do share. I appreciate your point of view.
-
-Your diverse knowledge base and philosophically gifted mind will surely help us reach a viable waifu sooner. I believe you and Chobitsu should work on her AI together. The current plan is to develop her software on linux running on a low cost laptop. Though, your opinions on the matter would matter.
-
-Your first assignment is to develop concept art and designs for MaidCom. Requirements being that she has a tail or some other third point of ground contact. Her feet need wheels, and she needs to balance well in common situations while remaining visually appealing. I've frankly been struggling with her design as I can't seem to nail a balance between aesthetics and general stability. 
+>>15854
+
+It's great to have you on the team Meta Ronin! I posted a link to LiliumRobotics a few weeks ago though it garnered little discussion. I was frankly startled by it at first but, his projects are little more then sex toys with cheap jerky servos bolted on that can barely move her limbs. They look impressive until they move. But, if you see something I'm missing about them that could benefit us, please do share. I appreciate your point of view.
+
+
+
+Your diverse knowledge base and philosophically gifted mind will surely help us reach a viable waifu sooner. I believe you and Chobitsu should work on her AI together. The current plan is to develop her software on linux running on a low cost laptop. Though, your opinions on the matter would matter.
+
+
+
+Your first assignment is to develop concept art and designs for MaidCom. Requirements being that she has a tail or some other third point of ground contact. Her feet need wheels, and she needs to balance well in common situations while remaining visually appealing. I've frankly been struggling with her design as I can't seem to nail a balance between aesthetics and general stability. 
+
 **Feel free to make the design 2B-esque**
 
 # 121
->>15859
->Your first assignment is to develop concept art and designs for MaidCom. Requirements being that she has a tail or some other third point of ground contact. Her feet need wheels, and she needs to balance well in common situations while remaining visually appealing. I've frankly been struggling with her design as I can't seem to nail a balance between aesthetics and general stability. 
-Feel free to make the design 2B-esque
-
+>>15859
+
+>Your first assignment is to develop concept art and designs for MaidCom. Requirements being that she has a tail or some other third point of ground contact. Her feet need wheels, and she needs to balance well in common situations while remaining visually appealing. I've frankly been struggling with her design as I can't seem to nail a balance between aesthetics and general stability. 
+
+Feel free to make the design 2B-esque
+
+
+
 noted. I will put this on my todo
 
 # 122
->>15486
-Name: Madtrickster
-Favorite RobotWaifu:Ada
-Specialty: Drawing
-Relevant Experience: Drawing for 4 or more years doing constant improvement working towards moving to blender. 
-Most Important Aspect For Your Waifu: loving attentive, always willing to be there for me. 
+>>15486
+
+Name: Madtrickster
+
+Favorite RobotWaifu:Ada
+
+Specialty: Drawing
+
+Relevant Experience: Drawing for 4 or more years doing constant improvement working towards moving to blender. 
+
+Most Important Aspect For Your Waifu: loving attentive, always willing to be there for me. 
+
 Desired Position On Team: Designing and concept ideas.
 
 # 123
->>15863
+>>15863
+
 Based taste Madtrickster. Loving is indeed the best personality trait. You'll have the same first assignment as Meta Ronin, designing various concepts for our waifu. Do bare in mind that she must have three or more points of contact and have high static stability. With two members working on concept designs, we will find one that's viable sooner.
 
 # 124
->>15864
+>>15864
+
 Thank you very much, it's a shame fallout 4 isn't a very good a game, but ada more than makes up for it, I always rush to get her assaultron body, she just looks perfect with that cute figure of hers. I look forward to making concepts and designs, I've spent so long away from my lovely robots thinking all robot love was gone, so I spent time on /monster/ for a long time, until I saw this board and I finally feel like I have my purpose again.
 
 # 125
@@ -1368,26 +1649,40 @@ Hello Anon, welcome! Are you the same /clang/ Anon by chance?
 Alright, I'd say check your email in about a day or so.
 
 # 130
->>15868
-Thank you, generally don't mind sfw, lets for more interesting topics anyway and no porn dumps, also good to know necroing isn't a issue.
->>15871
+>>15868
+
+Thank you, generally don't mind sfw, lets for more interesting topics anyway and no porn dumps, also good to know necroing isn't a issue.
+
+>>15871
+
 I'm probability not I mostly lurk around the threads maybe post once in a blue moon.
 
 # 131
->>15875
->I'm probability not I mostly lurk around the threads maybe post once in a blue moon.
+>>15875
+
+>I'm probability not I mostly lurk around the threads maybe post once in a blue moon.
+
 Based, I do the same thing. Always fun to see what ideas people here are cooking up, soon I'll start my own robowaifu project.
 
 # 132
-Happy Easter /robowaifu/,
-
-I would like to apologize for what appeared to be unnecessary censorship over the last few months.
-It was not right to delete my madoka.mi thread or discourage people to help Kiwi. I was feeling insulted and excluded as I asked for help for the later half of 2021 and felt that I was excluded until I embraced the idea of reploids with some degree of success on a completely new project. Had not meant to come off as attacking any other anon and have nothing against them. The bans have since been lifted by me.
-
-Also should have clarified that the Pandora Project was always meant to be an open board project as well and so was Madoka.mi. I deleted the madoka.mi thread because I always felt that I could make better models than what I had made in that thread as one of its project founders. I had gotten as far as installing internal components with what I felt to be such curt and minimal answers to my robotics questions and attempts at building rapport with my fellow technicians for a large part of my time here, that I did not feel like a part of a team or community at all and felt taken for granted. Perhaps weekly updates would be better instead of posting progress as often as I have would avoid this in the future.
-
-I had also noticed another surge of coordinated trolling recently on the webring and that same pattern of shitting up every board was beginning to start here. Typically these trolls immediately start spamming threads about  politics and shilling the current big news event of the day to the extent where all cohesive discussion in threads is gone. I had also seen some of these same buzzword bingo types showing up here as of late and may have been overzealous in my attempts to help keep the board on topic.
-
+Happy Easter /robowaifu/,
+
+
+
+I would like to apologize for what appeared to be unnecessary censorship over the last few months.
+
+It was not right to delete my madoka.mi thread or discourage people to help Kiwi. I was feeling insulted and excluded as I asked for help for the later half of 2021 and felt that I was excluded until I embraced the idea of reploids with some degree of success on a completely new project. Had not meant to come off as attacking any other anon and have nothing against them. The bans have since been lifted by me.
+
+
+
+Also should have clarified that the Pandora Project was always meant to be an open board project as well and so was Madoka.mi. I deleted the madoka.mi thread because I always felt that I could make better models than what I had made in that thread as one of its project founders. I had gotten as far as installing internal components with what I felt to be such curt and minimal answers to my robotics questions and attempts at building rapport with my fellow technicians for a large part of my time here, that I did not feel like a part of a team or community at all and felt taken for granted. Perhaps weekly updates would be better instead of posting progress as often as I have would avoid this in the future.
+
+
+
+I had also noticed another surge of coordinated trolling recently on the webring and that same pattern of shitting up every board was beginning to start here. Typically these trolls immediately start spamming threads about  politics and shilling the current big news event of the day to the extent where all cohesive discussion in threads is gone. I had also seen some of these same buzzword bingo types showing up here as of late and may have been overzealous in my attempts to help keep the board on topic.
+
+
+
 -AllieDev
 
 # 133
@@ -1403,16 +1698,23 @@ Again, thanks for looking out for us all AllieDev. I hope this will be a very, v
 Cheers.
 
 # 134
->>15915
->>15916
-Happy Easter fellow waifu devs! 
-
-To AllieDev, I hope we can consider everything as water under the bridge. I like your passion and believe that we can achieve great things. I have faith in you, same as I have faith in everyone else here. If you have questions, please do ask and if my answer seems curt, please try to be a little more specific or ask for more details. Easter is perfect for starting over. 
-
+>>15915
+
+>>15916
+
+Happy Easter fellow waifu devs! 
+
+
+
+To AllieDev, I hope we can consider everything as water under the bridge. I like your passion and believe that we can achieve great things. I have faith in you, same as I have faith in everyone else here. If you have questions, please do ask and if my answer seems curt, please try to be a little more specific or ask for more details. Easter is perfect for starting over. 
+
+
+
 May god bless us all.
 
 # 135
->>15918
+>>15918
+
 Also, as mentioned in the prototype thread, any suggestions for a new name? So far I'm thinking of "Y", the name of the clock smith man who built robowaifus in Clockwork Planet.
 
 # 136
@@ -1432,20 +1734,31 @@ Tough decision. OFC it's entirely up to you (just please let us all know it's yo
 Certainly no one here misconstrues you with that corporation, but I at least also recognize the importance of a good face in business. I hope you find your answers Anon, but I wouldn't rush it personally. I like '''Y''' myself, and the reference involved is truly a grand one!
 
 # 137
-A little gem I found on Easter, a paper about how to do research at the MIT AI lab from 1988. I really needed to hear the last section that talks about how to deal with failure, how to get unstuck, how to avoid insecurity, maintain self-esteem, and have fun in the process.
-
->>15915
-It's understandable. Making a robowaifu is an immense task and each subtask requires great devotion working long hours to accomplish anything, whether it's 3D modelling, mechanical engineering, robotics, manufacturing, AI or anything else. It's really bitter when you put so much effort in and people don't appreciate it or have much to say or flat out just criticize it.
-
-I've noticed a lot of us including myself are hyperfocused on one or two topics and not really meshing together. I've been trying to be better but I think it's a natural consequence of how small the board is and our specific interests. At the end of the day though the main reason I'm here is to make a robowaifu and I see that each of us are tackling that dream in various ways one problem at a time. Things don't go the way I want them but as a whole we're going in the right direction and that's what counts.
-
+A little gem I found on Easter, a paper about how to do research at the MIT AI lab from 1988. I really needed to hear the last section that talks about how to deal with failure, how to get unstuck, how to avoid insecurity, maintain self-esteem, and have fun in the process.
+
+
+
+>>15915
+
+It's understandable. Making a robowaifu is an immense task and each subtask requires great devotion working long hours to accomplish anything, whether it's 3D modelling, mechanical engineering, robotics, manufacturing, AI or anything else. It's really bitter when you put so much effort in and people don't appreciate it or have much to say or flat out just criticize it.
+
+
+
+I've noticed a lot of us including myself are hyperfocused on one or two topics and not really meshing together. I've been trying to be better but I think it's a natural consequence of how small the board is and our specific interests. At the end of the day though the main reason I'm here is to make a robowaifu and I see that each of us are tackling that dream in various ways one problem at a time. Things don't go the way I want them but as a whole we're going in the right direction and that's what counts.
+
+
+
 In three years we'll look back and laugh at our past selves and the shenanigans we got into and then marvel at how much progress we made, because three years ago robowaifus were just a twinkling fantasy in /robowaifu/'s eyes and now look how many projects there are.
 
 # 138
->>15922
-I think Kywy works (Still clear who I am). Thanks for your input.
->>15928
->RobowaifuDev
+>>15922
+
+I think Kywy works (Still clear who I am). Thanks for your input.
+
+>>15928
+
+>RobowaifuDev
+
 Nice name and disposition, disperate interests and specialties is why MaidCom is the board project, together we can complete a base waifu better then any of us could individualy. You are invited to join, please fill out the form from >>15486.
 
 # 139
@@ -1462,20 +1775,34 @@ Heh. I wasn't really implying that you should have a close spelling of Kiwi, Kyw
 **>I'm past all that now**  :^)
 
 # 140
->>15486
-Name: RobowaifuDev
-Favourite Waifu: Mahoro
-Speciality: AI engineering, Python, C
-Relevant Experience: Natural-language understanding, voice synthesis, computer vision, image generation, reinforcement learning, software development, animation, 3D modelling and physics simulations
-Other interests: Robot localization, motion planning, UX design, business, 3D printing and silicone manufacturing
-Most Important Aspect For Your Waifu: Being funny and witty
-Desired Position On Team: Anything AI related, maybe 3D modelling if necessary
-
->>15540
-You turn her on, show her how to do something and she does it. No confusing code or manuals necessary to operate, even her maintenance is built-in. As a maid robo she works diligently for you. Some might use her abilities to clean and play games, some might employ them as part of company or an assistant in freelancing. I think it's feasible to achieve within 5-15 years. We just have to start with minimum viable products, iterate and integrate.
-
-My MVP right now is getting cutting-edge AI tech working on older hardware and Raspberry Pis. From there I can make virtual waifu software that downloads and just werks and then expand into robowaifus. Although all my work is open-source I plan to fund my operations by building and selling standalone products, like offering Raspberry Pis preloaded with all my waifu software fully-configured, maybe even customized, so people with no programming knowledge can have their own mobile virtual waifu to chat with at all times and ask to do things like search or play games together.
-
+>>15486
+
+Name: RobowaifuDev
+
+Favourite Waifu: Mahoro
+
+Speciality: AI engineering, Python, C
+
+Relevant Experience: Natural-language understanding, voice synthesis, computer vision, image generation, reinforcement learning, software development, animation, 3D modelling and physics simulations
+
+Other interests: Robot localization, motion planning, UX design, business, 3D printing and silicone manufacturing
+
+Most Important Aspect For Your Waifu: Being funny and witty
+
+Desired Position On Team: Anything AI related, maybe 3D modelling if necessary
+
+
+
+>>15540
+
+You turn her on, show her how to do something and she does it. No confusing code or manuals necessary to operate, even her maintenance is built-in. As a maid robo she works diligently for you. Some might use her abilities to clean and play games, some might employ them as part of company or an assistant in freelancing. I think it's feasible to achieve within 5-15 years. We just have to start with minimum viable products, iterate and integrate.
+
+
+
+My MVP right now is getting cutting-edge AI tech working on older hardware and Raspberry Pis. From there I can make virtual waifu software that downloads and just werks and then expand into robowaifus. Although all my work is open-source I plan to fund my operations by building and selling standalone products, like offering Raspberry Pis preloaded with all my waifu software fully-configured, maybe even customized, so people with no programming knowledge can have their own mobile virtual waifu to chat with at all times and ask to do things like search or play games together.
+
+
+
 Eventually I see creating a new economic ecosystem where people can provide their services for training AI models to perform new functions, manufacturing and designing custom clothes, parts, faces and bodies, prefab kits people can put together or that come pre-assembled, offer maintenance and repair kits, etc. People create products and services to make money, regular people get the stuff they want, open-source draws in new developers and opportunities to make money from scratch, more robowaifus get produced, manufacture at scale reduces production costs, competition improves the quality. It's a 360 win for everybody.
 
 # 141
@@ -1484,17 +1811,28 @@ Eventually I see creating a new economic ecosystem where people can provide thei
 Where can we order this Prometheus?
 
 # 142
->>15939
->Mahoro
-Absolutely based taste, glad to have you.
-
-You'll be joining Chobitsu on the software side of things. Not sure how much you've read of the previous posts related to MaidCom but, the current plan is to use a low cost laptop running linux (ROS/Ubuntu). So, your efforts to get AI running well on low power hardware is perfect for the project. 
-
-Your first paragraph reminds me of the "teachable/trainable" robots that can be programmed by pressing a button, then physically leading the arm through the motions, then pressing the button again. I actually had to program an arm at an assembly line to work that way by converting sensor readings to G-Code and using a program to type it into the G-Code environment. It was really convoluted but, perhaps something like that which uses AI detection as variables could work? 
-
->Industry around AIs, mods, and reapir kits for waifus
-MaidCom will lead to this industry. Glad to have you thinking of the business aspect of it already.
-
+>>15939
+
+>Mahoro
+
+Absolutely based taste, glad to have you.
+
+
+
+You'll be joining Chobitsu on the software side of things. Not sure how much you've read of the previous posts related to MaidCom but, the current plan is to use a low cost laptop running linux (ROS/Ubuntu). So, your efforts to get AI running well on low power hardware is perfect for the project. 
+
+
+
+Your first paragraph reminds me of the "teachable/trainable" robots that can be programmed by pressing a button, then physically leading the arm through the motions, then pressing the button again. I actually had to program an arm at an assembly line to work that way by converting sensor readings to G-Code and using a program to type it into the G-Code environment. It was really convoluted but, perhaps something like that which uses AI detection as variables could work? 
+
+
+
+>Industry around AIs, mods, and reapir kits for waifus
+
+MaidCom will lead to this industry. Glad to have you thinking of the business aspect of it already.
+
+
+
 Looking forward to working with you in the MaidCom thread, I'll be posting some details related to her mechanics before the end of the week.
 
 # 143
@@ -1513,10 +1851,14 @@ Sounds great Kywy. I'd suggest you actually appoint RobowaifuDev as the subteam 
 >(>>15939 related crosspost)
 
 # 145
-https://yewtu.be/watch?v=E0QyAy2g_MY
-
-https://yewtu.be/watch?v=oyXl3IhonRM
-
+https://yewtu.be/watch?v=E0QyAy2g_MY
+
+
+
+https://yewtu.be/watch?v=oyXl3IhonRM
+
+
+
 Maybe a dumb question (I know nothing about robotics), but why do Hollywood and Disney churn out more realistic robots than the "actual" robotics industry?
 
 # 146
@@ -1543,7 +1885,8 @@ Hope that helps Anon. Cheers.
 -''add 3d cgi comments''
 
 # 147
->>15963
+>>15963
+
 Excellent analysis Chobitsu, though I would add that films are making expensive disposable one-offs. Robotics projects like ours need to be easily replicatable and extensible. There's a mammoth difference between one specialized machine that's used then discarded and waifus for everyone, that will be loved and cherished. Though, budget and man hours do make up most of the difference.
 
 # 148
@@ -1552,8 +1895,10 @@ Excellent analysis Chobitsu, though I would add that films are making expensive 
 This. You are absolutely on-point with those observations Anon. And I might add that our DIY ethos is far superior IMHO. Films may be inspiring (few and far between), but good robowaifus will change the world! :^)
 
 # 149
-Would it make sense to continue posting more concept art to the Pandora thread?
-
+Would it make sense to continue posting more concept art to the Pandora thread?
+
+
+
 Edit: Moved to relevant thread
 
 # 150
@@ -1562,9 +1907,12 @@ Edit: Moved to relevant thread
 Sure ofc it would AllieDev! I've been eagerly looking forward to your further progress for ''Pandora''. Drive on! :^)
 
 # 151
->>15963
-Disney does animatronics for their parks which are actually more important than their movie business. Other people in robotics might even not recognize this as a field of robotics, and are completely focused on other things. There are actually barely any reasons to build very human-like robots.
-  
+>>15963
+
+Disney does animatronics for their parks which are actually more important than their movie business. Other people in robotics might even not recognize this as a field of robotics, and are completely focused on other things. There are actually barely any reasons to build very human-like robots.
+
+  
+
 Disney Research Hub; https://www.youtube.com/user/DisneyResearchHub
 
 # 152
@@ -1574,18 +1922,30 @@ Yep, Disney and their ''Imagineers'' have done a remarkable array of work in bot
 Heh, I think there may be a few 100 thousands anons who'd like a word with you. :^)
 
 # 153
-The 2 cents of a casual observer:
-
-TL;DR - We need the "RPG Maker" of waifu bots
-
-I think this board needs a "retard-friendly" waifu-bot, or some kind of settled-on standard that's customizable by someone without lots of technical experience.
-Most of the designs I see are for "full-stack" people: you have to build everything from the ground up, so you need to know many subjects at once to start improving stuff. Even if you steal someone else's design, you still need to do a bunch of 3d printing and assembly (a skillset of its own) to get a robot at all, much less start customizing its behavior.
-This is terrible if you want to build up a community of interested hobbyists who don't have the time to master multiple skillsets.
-Therefore, I think the best use of labor would be settling on a single, customizable, open-source design.
-The hardware would be focused on "simple and reliable" instead of "innovative and complex" to keep engineering costs/time down.  It could even be as crude as a car with a screen, because the point is to provide a canvas for the here and now to build upon and update later. It should also have a simulated counterpart for people who don't want to actually build the thing.
-The software would be focused on simplifying the customization process for the end user. ROS or some other complex tool can be employed in the back end, but developers should be able to customize the robot's behavior with a simple-to-use scripting API, perhaps something in python. A standard interface will make it easy to connect chatbot programs, TTS engines, remote control input systems, etc. to the robot. It will be less powerful than being intimately familiar with ROS, but having an easy-to-understand, well-documented just-werks system would bring a lot more people into the community (artists, hobbyist programmers, etc.). *
-A programmer could work on improved object recognition, an artist works on new waifu bits, and an engineer works on better hardware design, all independently of each other. This takes much greater advantage of open-source and the internet than relying on lone titans making everything from scratch.
-
+The 2 cents of a casual observer:
+
+
+
+TL;DR - We need the "RPG Maker" of waifu bots
+
+
+
+I think this board needs a "retard-friendly" waifu-bot, or some kind of settled-on standard that's customizable by someone without lots of technical experience.
+
+Most of the designs I see are for "full-stack" people: you have to build everything from the ground up, so you need to know many subjects at once to start improving stuff. Even if you steal someone else's design, you still need to do a bunch of 3d printing and assembly (a skillset of its own) to get a robot at all, much less start customizing its behavior.
+
+This is terrible if you want to build up a community of interested hobbyists who don't have the time to master multiple skillsets.
+
+Therefore, I think the best use of labor would be settling on a single, customizable, open-source design.
+
+The hardware would be focused on "simple and reliable" instead of "innovative and complex" to keep engineering costs/time down.  It could even be as crude as a car with a screen, because the point is to provide a canvas for the here and now to build upon and update later. It should also have a simulated counterpart for people who don't want to actually build the thing.
+
+The software would be focused on simplifying the customization process for the end user. ROS or some other complex tool can be employed in the back end, but developers should be able to customize the robot's behavior with a simple-to-use scripting API, perhaps something in python. A standard interface will make it easy to connect chatbot programs, TTS engines, remote control input systems, etc. to the robot. It will be less powerful than being intimately familiar with ROS, but having an easy-to-understand, well-documented just-werks system would bring a lot more people into the community (artists, hobbyist programmers, etc.). *
+
+A programmer could work on improved object recognition, an artist works on new waifu bits, and an engineer works on better hardware design, all independently of each other. This takes much greater advantage of open-source and the internet than relying on lone titans making everything from scratch.
+
+
+
 *(If anyone's interested, I can elaborate further on how the software would work)
 
 # 154
@@ -1596,73 +1956,121 @@ Yes ofc! Please do elaborate further Anon. These are all good ideas, and very mu
 Spreading the very idea of robowaifus out to the four corners of the Earth is our prime agenda, and our numerous goals certainly include making their creation,construction, development, and manufacture accessible by any reasonably-competent, well-motivated, man who cares to create one **hundred** for himself. :^)
 
 # 155
->>16063
+>>16063
+
 Everything you've decribed is part of the MaidCom project aside from cars with screens. Though, I'm unsure how you'd build a wwaifu without 3D printing. Would papercraft work? I'd be wiling to make a paper version of MaidCom available if 3D printing really is that big of barrier to entry. Though as I've mentioned to Chobitsu previously, it's actually pretty difficult and rather delicate. Your voice and concerns are valued, please join the MaidCom project Anon.
 
 # 156
->>16064
-From the "front end", the developer would just need to know a very simple API to command the robot and link it to other programs. All the stuff that directly interfaces with the hardware is handled in the "back end" behind the API.
-
-Example:
+>>16064
+
+From the "front end", the developer would just need to know a very simple API to command the robot and link it to other programs. All the stuff that directly interfaces with the hardware is handled in the "back end" behind the API.
+
+
+
+Example:
+
 ```cpp
-
-#Make the robot speak
-
-import SomeTTS from FooLibrary
-
-WaifuBot.Sound.PlayStream( SomeTTS.Speak("Sneed") )
-
-#Autonomous movement
-
-Import FooSLAM
-
-CameraArray[] = WaifuBot.Camera.GetAllStreams()
-
-FooSLAM.CameraInit(CameraArray)
-
-Waifubot.Movement.AutoMove(FooSLAM.Commands())
-```
-
-and so forth.
-
-The back-end would be comprised of independent modules that interface with the hardware.
-The face-screen and lighting are controlled by the Expression module, wheels/motors controlled by the Movement module, etc. Each module is customized to the robot's hardware, so the front-end dev doesn't have to worry about whether it's using wheels or legs. He just types "Waifu.Move.Forward(10 meters)"
-
-This results in front-end scripts that can work on many styles of robots, and be easily modified.
-
->>16065
->without 3D printing
-I'm not saying we should do away with 3d printing, I'm saying that devs shouldn't have to build the robot to make software for it or test their programs out. 
-If everything goes through a simple API, then you could make a "dummy" robot (a program that takes in API commands and generates fake outputs) to test/debug your software.
-
->please join the MaidCom project
+
+
+#Make the robot speak
+
+
+
+import SomeTTS from FooLibrary
+
+
+
+WaifuBot.Sound.PlayStream( SomeTTS.Speak("Sneed") )
+
+
+
+#Autonomous movement
+
+
+
+Import FooSLAM
+
+
+
+CameraArray[] = WaifuBot.Camera.GetAllStreams()
+
+
+
+FooSLAM.CameraInit(CameraArray)
+
+
+
+Waifubot.Movement.AutoMove(FooSLAM.Commands())
+
+```
+
+
+
+and so forth.
+
+
+
+The back-end would be comprised of independent modules that interface with the hardware.
+
+The face-screen and lighting are controlled by the Expression module, wheels/motors controlled by the Movement module, etc. Each module is customized to the robot's hardware, so the front-end dev doesn't have to worry about whether it's using wheels or legs. He just types "Waifu.Move.Forward(10 meters)"
+
+
+
+This results in front-end scripts that can work on many styles of robots, and be easily modified.
+
+
+
+>>16065
+
+>without 3D printing
+
+I'm not saying we should do away with 3d printing, I'm saying that devs shouldn't have to build the robot to make software for it or test their programs out. 
+
+If everything goes through a simple API, then you could make a "dummy" robot (a program that takes in API commands and generates fake outputs) to test/debug your software.
+
+
+
+>please join the MaidCom project
+
 I'm not sure where I would start. I don't have experience with ROS or CAD.
 
 # 157
->>16066
+>>16066
+
 So, a virtualized waifu that can be programmed via a simple to use interface? I can see how that would be appealing as something to have before one could build her 3D body. Your thoughts can provide valuable guidance and a unique point of view that aid development. I wouldn't mind a 2D avatar of my waifu living in the wired when she's not in her 3D body, like Ritsu.
 
 # 158
->>16067
->virtualized waifu
-Not exactly. I was thinking more a program that would return data as if it were connected to a robot.
-Say you wanted to test a program that takes in video feeds. If you send the "Show me video feeds" command to the virtual robot, it returns a fake/pre-recorded video feed so you can test that your program is working.
-
-But, if it's all using the same API, you could make a 2D/3D virtual waifu running the same scripts, too.
-
-Maybe what I'm thinking of isn't a particular waifu design, but consolidated API that can be re-used for different waifu projects. If everyone uses the same API for things like speech or AI, then one AI engine can be used for different robot projects instead of everyone rolling their own solution.
+>>16067
+
+>virtualized waifu
+
+Not exactly. I was thinking more a program that would return data as if it were connected to a robot.
+
+Say you wanted to test a program that takes in video feeds. If you send the "Show me video feeds" command to the virtual robot, it returns a fake/pre-recorded video feed so you can test that your program is working.
+
+
+
+But, if it's all using the same API, you could make a 2D/3D virtual waifu running the same scripts, too.
+
+
+
+Maybe what I'm thinking of isn't a particular waifu design, but consolidated API that can be re-used for different waifu projects. If everyone uses the same API for things like speech or AI, then one AI engine can be used for different robot projects instead of everyone rolling their own solution.
+
 Think a REST API but for Waifus and not webapps.
 
 # 159
->>15982
+>>15982
+
 The idea of moving down there to Orlando and getting a in or tangential to animatronics to be learning something useful relating to our project here had crossed my mind. Or even innovating something that Disney buys the patent for. Far fetched but I hard not to imagine that advances in one could benefit the other. I still think it helps to be immersed in the environment, if you want to build robots be where the robot builders are, etc.
 
 # 160
->>16070
+>>16070
+
 > *a job in or tangential to animatronics
 
 # 161
->>16070
+>>16070
+
 Go for it, infiltrate their ranks and pillage their information for the betterment of waifus.
 
 # 162
@@ -1686,7 +2094,7 @@ I really like your ideas and your diagrams Anon. You plainly could be a big help
 >From the "front end", the developer would just need to know a very simple API to command the robot and link it to other programs.
 >Example:
 
->''<insert proposed pythonic waifubot code examples here>''
+>''< insert proposed pythonic waifubot code examples here>''
 
 >and so forth.
 Why not join with me, and help us devise the protocol framework you suggest Anon? We certainly could use your help, and our robowaifus could definitely do with having some kind of Python API, exactly as you suggest they could. I've not needed to master Python myself, and need lots of help with it tbh. 
@@ -1720,38 +2128,67 @@ Found this and figured that you and the rest of us might benefit from it. Cheers
 https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box
 
 # 166
->>15436
->>15437
-I know this is super old, but a while back and somewhat semi recently finding the "right" robo waifu can be hard to find.
-I use to advertise this board at the local uni and some other places and men who tinker in robotics as a hobby, but some search engines have a very shady site if you search for "robowaifu".
-The "Гунтretort" address in partic redirects to shady sites, and for any random people that aren't ready for it, who knows what it's trying to redirect to...
-
-I only recently started looking for this place again to see what was going.
-I also know of a small group of around 7 probably over a year ago that stopped lurking/posting over the comment deletions concerning that one dev with the animated wall paper thing he was trying to sell.
-
->>15915
-> I had also noticed another surge of coordinated trolling recently on the webring and that same pattern of shitting up every board was beginning to start here.
-Is this why the site was down?
-Too little moderation and people say it's bad, but I think far too much moderation is worse, but I wasn't here so idk what happened.
-Often I will link this site (back when I had the right site address) from other places that are often coming from political arguments of "no one is working on such robowaifus" and thus I directed them here...
-Idk if that resulted in trolls or not...
-
-This place kinds of scares me sometimes, because I don't really know who is running it, and who is watching.
-
-Aside from that, hopefully before the economy crashes I was planning on releasing an offline capable "robowaifu" RPG game for android (for mobile) and linux (for pc). And browser based versions for all other OSs.
-The idea hopefully wasn't the "disagreeable" companionbot software that it seems some are weary of, but the idea was just to get funding.
-The game itself was going to be as generic as most other generic RPGs, but when you make a character it is going to be your custom "robowaifu" as you can use her for talking or for playing inside the game. The gist of the game is just building and upgrading your girl you made.
-Ultimately I wanted to redirect players to this (robowaifu) site to build their "girl's" actual mechanical body.
-
-My idea to disperse the funding was by setting up a system/site where the collective player base can fund very specific goals/work to be done that is contracted. (So that there is no scam crowdsourcing nonsense)
-
-Although I must say, it does seem like there is a possibility there may be a global ban on robotics if a ww3 starts to play out.
+>>15436
+
+>>15437
+
+I know this is super old, but a while back and somewhat semi recently finding the "right" robo waifu can be hard to find.
+
+I use to advertise this board at the local uni and some other places and men who tinker in robotics as a hobby, but some search engines have a very shady site if you search for "robowaifu".
+
+The "Гунтretort" address in partic redirects to shady sites, and for any random people that aren't ready for it, who knows what it's trying to redirect to...
+
+
+
+I only recently started looking for this place again to see what was going.
+
+I also know of a small group of around 7 probably over a year ago that stopped lurking/posting over the comment deletions concerning that one dev with the animated wall paper thing he was trying to sell.
+
+
+
+>>15915
+
+> I had also noticed another surge of coordinated trolling recently on the webring and that same pattern of shitting up every board was beginning to start here.
+
+Is this why the site was down?
+
+Too little moderation and people say it's bad, but I think far too much moderation is worse, but I wasn't here so idk what happened.
+
+Often I will link this site (back when I had the right site address) from other places that are often coming from political arguments of "no one is working on such robowaifus" and thus I directed them here...
+
+Idk if that resulted in trolls or not...
+
+
+
+This place kinds of scares me sometimes, because I don't really know who is running it, and who is watching.
+
+
+
+Aside from that, hopefully before the economy crashes I was planning on releasing an offline capable "robowaifu" RPG game for android (for mobile) and linux (for pc). And browser based versions for all other OSs.
+
+The idea hopefully wasn't the "disagreeable" companionbot software that it seems some are weary of, but the idea was just to get funding.
+
+The game itself was going to be as generic as most other generic RPGs, but when you make a character it is going to be your custom "robowaifu" as you can use her for talking or for playing inside the game. The gist of the game is just building and upgrading your girl you made.
+
+Ultimately I wanted to redirect players to this (robowaifu) site to build their "girl's" actual mechanical body.
+
+
+
+My idea to disperse the funding was by setting up a system/site where the collective player base can fund very specific goals/work to be done that is contracted. (So that there is no scam crowdsourcing nonsense)
+
+
+
+Although I must say, it does seem like there is a possibility there may be a global ban on robotics if a ww3 starts to play out.
+
 So it seems now there truly is a deadline...
 
 # 167
->>16102
->need lots of help with it tbh
-Unfortunately, I'm in the same boat. Most of my experience is in project management. 
+>>16102
+
+>need lots of help with it tbh
+
+Unfortunately, I'm in the same boat. Most of my experience is in project management. 
+
 I'll check out foundations and see what I can do.
 
 # 168
@@ -1814,40 +2251,65 @@ Welcome aboard, Anon!
 -''minor grammar edit''
 
 # 170
->>16129
->Most of my experience is in project management. 
+>>16129
+
+>Most of my experience is in project management. 
+
 this is bad how? this is perfect
 
 # 171
->>15486
->Name: 
-Ricardo the Chart-Tardo (subject to change)
-
->Favorite Waifu:
-I don't identify as having one. I don't think it's healthy to fantasize about such things.
-
->Specialty:
-Project Management
-
->Relevant Experience:
-Many instances of tard-wrangling during group projects, business classes. Basic experience in arduino/electronics, 3D printing, and programming
-
->Most Important Aspect For Your Waifu:
-Haven't thought about it much. I would probably use it like a home secretary/assistant with a "nag" feature. ("Gee, you've been shitposting a lot today! Maybe you should take a break and do something else.")
-
->Desired Position On Team:
+>>15486
+
+>Name: 
+
+Ricardo the Chart-Tardo (subject to change)
+
+
+
+>Favorite Waifu:
+
+I don't identify as having one. I don't think it's healthy to fantasize about such things.
+
+
+
+>Specialty:
+
+Project Management
+
+
+
+>Relevant Experience:
+
+Many instances of tard-wrangling during group projects, business classes. Basic experience in arduino/electronics, 3D printing, and programming
+
+
+
+>Most Important Aspect For Your Waifu:
+
+Haven't thought about it much. I would probably use it like a home secretary/assistant with a "nag" feature. ("Gee, you've been shitposting a lot today! Maybe you should take a break and do something else.")
+
+
+
+>Desired Position On Team:
+
 I think Organizer is the best fit atm.
 
 # 172
->>16140
-Hello... I'm calling you Chart Kun.
-Welcome to the MaidCom project, you're now the organizer. First assignment is helping me to ascertain a schedule for the team and ensuring that members communicate so as to keep the project on a steady track. I do appreciate your suggestion that our waifus should worry about our mental health. 
-
->Picrel
+>>16140
+
+Hello... I'm calling you Chart Kun.
+
+Welcome to the MaidCom project, you're now the organizer. First assignment is helping me to ascertain a schedule for the team and ensuring that members communicate so as to keep the project on a steady track. I do appreciate your suggestion that our waifus should worry about our mental health. 
+
+
+
+>Picrel
+
 I'd mofumofu her fuwafuwa shippo ( ͡° ͜ʖ ͡°)
 
 # 173
->>16135
+>>16135
+
 It feels like coming into a forest in desperate need of extra lumberjacks and saying that you can help by ordering people around. Like being an "ideas guy".
 
 # 174
@@ -1869,12 +2331,18 @@ Cheers.
 -''minor spelling edit''
 
 # 175
->>16150
-
-Since he is bringing up matrix and is the only one who does this >>16149, it is safe to assume that this is just "gobi" shitposting under a different alias.
-
->>16145
-
+>>16150
+
+
+
+Since he is bringing up matrix and is the only one who does this >>16149, it is safe to assume that this is just "gobi" shitposting under a different alias.
+
+
+
+>>16145
+
+
+
 What happened to that matrix server he was shilling a few weeks ago?
 
 # 176
@@ -1890,9 +2358,12 @@ Results count, after all. Kywy will be a good guide for us in such matters, I'm 
 -''add 'results count' cmnt''
 
 # 177
->>16154
-Nobody likes matrix as far as I can tell though I try to be polite about it. I don't care if he's gobi or not, I just hope he can help the project. I still want you to join BTW, I like your design sensibilities. 
->>16155
+>>16154
+
+Nobody likes matrix as far as I can tell though I try to be polite about it. I don't care if he's gobi or not, I just hope he can help the project. I still want you to join BTW, I like your design sensibilities. 
+
+>>16155
+
 The project won't use any platforms without your blessing. To be honest, I dislike using platforms outside this image board. I merely use Google Docs because it's convenient, though I would never endorse Google. You've been here the longest and I trust in your judgement as well.
 
 # 178
@@ -1908,8 +2379,10 @@ Don't constrain yourself by my position on such matters Kywy, do whatever you fe
 Cheers.
 
 # 179
->Gobi
-No clue who that is. I mentioned Matrix because I'm used to pinging people and holding video conferences on Discord/Slack and Matrix is like a FOSS slack/discord.
+>Gobi
+
+No clue who that is. I mentioned Matrix because I'm used to pinging people and holding video conferences on Discord/Slack and Matrix is like a FOSS slack/discord.
+
 Forum/IB-based development is new to me.
 
 # 180
@@ -1942,7 +2415,8 @@ Thanks! That's actually an important Anon to our projects here. We wish him good
 Why?
 
 # 186
->>16284
+>>16284
+
 Chobitsu Check your email
 
 # 187
@@ -1950,201 +2424,355 @@ Chobitsu Check your email
 OK, I sent a reply. Cool image BTW! :^)
 
 # 188
->>15478
->>15480
-I'm still around, 
-I have access to higher tech than commonly known so we can potentially have near limitless run time, that's not an issue for me and if you believe in this then you can have it too before most others.
-
-The atoms keep on going and going, ever wonder why?
-The heart also could keep going seemingly forever if maintained properly and allowed to do its thing.
-So too can electric power be continually generated and I have seen magnets used for this, it is very real.
-It can be as small or as big as needed.
-
->>15485
-Yes I'm glad I'm still able to access this board
-Sorry I haven't been on as much, I've had a lot going on
-
-The thing I've had most trouble with is tiny yet strong actuators. Maybe we could mimic how the body does it...
-...small animals like rats and birds can move so it should be possible, its just that we need to mimic that with electronics and engineering in some way.
-
-I'm still kind of stumped on that.
-
-I wont give up, but sometimes I take breaks for various reasons. I have other projects too that I work on and which help hone my skills.
-
-In my dreams I've seen machine beings, artificially made structures with life induced into them. 
+>>15478
+
+>>15480
+
+I'm still around, 
+
+I have access to higher tech than commonly known so we can potentially have near limitless run time, that's not an issue for me and if you believe in this then you can have it too before most others.
+
+
+
+The atoms keep on going and going, ever wonder why?
+
+The heart also could keep going seemingly forever if maintained properly and allowed to do its thing.
+
+So too can electric power be continually generated and I have seen magnets used for this, it is very real.
+
+It can be as small or as big as needed.
+
+
+
+>>15485
+
+Yes I'm glad I'm still able to access this board
+
+Sorry I haven't been on as much, I've had a lot going on
+
+
+
+The thing I've had most trouble with is tiny yet strong actuators. Maybe we could mimic how the body does it...
+
+...small animals like rats and birds can move so it should be possible, its just that we need to mimic that with electronics and engineering in some way.
+
+
+
+I'm still kind of stumped on that.
+
+
+
+I wont give up, but sometimes I take breaks for various reasons. I have other projects too that I work on and which help hone my skills.
+
+
+
+In my dreams I've seen machine beings, artificially made structures with life induced into them. 
+
 Life is emergent and could sprout given the right conditions.
 
 # 189
->>16330
+>>16330
+
 Well that's something.... I brought an anon back from dead after bringing  up the ancient archives?
 
 # 190
->>16330
->Higher tech
-Please do share it then. I made the esoteric/mysticism thread so I'm pretty darn open to all ideas.
->Atomic motion
-Every atom can be considered a thermal engine powering the motion of electrons. I'm grossly oversimplifying as nuclear physics at this level is of little benefit to us.
->Heart
-Surprisingly inefficient, requires a lot of energy from ATP that the body produces through several chemical cycles reliant on the intake of caloric foods.
->Continual electric power via magnets
-Well, most generators do function via alternating magnetic fields on a conductor to induce an electric field. Please provide more details, is this related to the previous energy examples? Perhaps a generator based on burning a caloric fuel, like alcohol? I've been thinking about alcohol powered stirling engine, though its low power to mass is a concern.
->Actuators
-Have you considered making her larger than a fairy? Heck, even rabbit sized can easily be done with cheap and abundant motors like: https://www.amazon.com/DC-Gear-Motor-Planetary-Industrial/dp/B07XMFLSPB/ref=sr_1_7?crid=NA2PG6GAXRSH&keywords=gear+motor&qid=1653093170&sprefix=gear+motor%2Caps%2C164&sr=8-7
->Dreams
+>>16330
+
+>Higher tech
+
+Please do share it then. I made the esoteric/mysticism thread so I'm pretty darn open to all ideas.
+
+>Atomic motion
+
+Every atom can be considered a thermal engine powering the motion of electrons. I'm grossly oversimplifying as nuclear physics at this level is of little benefit to us.
+
+>Heart
+
+Surprisingly inefficient, requires a lot of energy from ATP that the body produces through several chemical cycles reliant on the intake of caloric foods.
+
+>Continual electric power via magnets
+
+Well, most generators do function via alternating magnetic fields on a conductor to induce an electric field. Please provide more details, is this related to the previous energy examples? Perhaps a generator based on burning a caloric fuel, like alcohol? I've been thinking about alcohol powered stirling engine, though its low power to mass is a concern.
+
+>Actuators
+
+Have you considered making her larger than a fairy? Heck, even rabbit sized can easily be done with cheap and abundant motors like: https://www.amazon.com/DC-Gear-Motor-Planetary-Industrial/dp/B07XMFLSPB/ref=sr_1_7?crid=NA2PG6GAXRSH&keywords=gear+motor&qid=1653093170&sprefix=gear+motor%2Caps%2C164&sr=8-7
+
+>Dreams
+
 Nikola Tesla dreamed of his AC motor and generators before inventing them. (They were not the first AC systems but, improvements count as invention.) So, please do share more details. I wish to help you realize machine life. I'm well versed in physics, biology (limited mostly to human biology as a former med student), and manufacturing. There's much we can accomplish together. Also, please join the MaidCom project, starting with filling out the form: >>15486
 
 # 191
->>16334
-I happened to wander in, I hit a random letter into the browser and this board came up, then I realized I haven't posted here in a while
-What is your project? Just curious
-
->>15486
-Name: Hik (BO of /hover/ and /server/, :lapis: flag on /miku/)
-Favorite Waifu: Aoki Lapis (Vocaloid)
-Specialty: Electronics, Mad Science, General arts, Design, Mechatronics, Psychotronics
-Relevant Experience: Studied computers and electronics at technical college for 10 years, have made clocks and control interfaces, self-studied esoteric technology using the internet, coded in C, C++, C# and python, have used a 3d printer and laser cutter/engraver (have access to a fab lab), drawing, painting, carving and sculpting, soldering, some 3d modeling, worked with arduino, raspberry pi, MSP430 and other micro computers
-Most Important Aspect For Your Waifu: Miniturization and biomimetics (that feel of real)
-Desired Position On Team: Designer, Provider of good ideas and information, Collaborator
-
->>16339
->Higher tech
->Please do share it then
-There are some links to some of it on /hover/
-hover.neocities.org (found on board links 1 and 2)
->Atomic motion
-It can be of relevance, the atoms are self perpetuating is the point.
->Heart
-Its actually very efficient as is the body when managed right. Its evidenced as how difficult it is for us to make advanced robowaifus, nature truly is magnificent. Also the point I'm making is that the heart is self perpetuating as long as sustained by the will of the body.
->Perhaps a generator based on burning a caloric fuel, like alcohol?
-No, the "fuel" is the magnets which are actually made when the electrons of atoms align in such a way that they create a current within the magnetic material (which is what makes a magnet work) Any and all electric currents make magnetic fields, and because the atoms are self sustaining, the magnetic field which is generated from the atomic alignment in the permanent magnet can be used to make a perpetual power source. I have personally witnessed such a device work, but its still being tested and not quite ready for release yet.
->Have you considered making her larger than a fairy?
-I have considered a lot of things, I do think there's a way to do this, making a smaller robowaifu means less materials, but more intricacy, which is a challenge I'm interested in.
->I wish to help you realize machine life.
-It may interest you to know that synthetic "DNA" strands of information already exist, they're called XNA also look up wetware, there's a lot of interesting stuff out there..
+>>16334
+
+I happened to wander in, I hit a random letter into the browser and this board came up, then I realized I haven't posted here in a while
+
+What is your project? Just curious
+
+
+
+>>15486
+
+Name: Hik (BO of /hover/ and /server/, :lapis: flag on /miku/)
+
+Favorite Waifu: Aoki Lapis (Vocaloid)
+
+Specialty: Electronics, Mad Science, General arts, Design, Mechatronics, Psychotronics
+
+Relevant Experience: Studied computers and electronics at technical college for 10 years, have made clocks and control interfaces, self-studied esoteric technology using the internet, coded in C, C++, C# and python, have used a 3d printer and laser cutter/engraver (have access to a fab lab), drawing, painting, carving and sculpting, soldering, some 3d modeling, worked with arduino, raspberry pi, MSP430 and other micro computers
+
+Most Important Aspect For Your Waifu: Miniturization and biomimetics (that feel of real)
+
+Desired Position On Team: Designer, Provider of good ideas and information, Collaborator
+
+
+
+>>16339
+
+>Higher tech
+
+>Please do share it then
+
+There are some links to some of it on /hover/
+
+hover.neocities.org (found on board links 1 and 2)
+
+>Atomic motion
+
+It can be of relevance, the atoms are self perpetuating is the point.
+
+>Heart
+
+Its actually very efficient as is the body when managed right. Its evidenced as how difficult it is for us to make advanced robowaifus, nature truly is magnificent. Also the point I'm making is that the heart is self perpetuating as long as sustained by the will of the body.
+
+>Perhaps a generator based on burning a caloric fuel, like alcohol?
+
+No, the "fuel" is the magnets which are actually made when the electrons of atoms align in such a way that they create a current within the magnetic material (which is what makes a magnet work) Any and all electric currents make magnetic fields, and because the atoms are self sustaining, the magnetic field which is generated from the atomic alignment in the permanent magnet can be used to make a perpetual power source. I have personally witnessed such a device work, but its still being tested and not quite ready for release yet.
+
+>Have you considered making her larger than a fairy?
+
+I have considered a lot of things, I do think there's a way to do this, making a smaller robowaifu means less materials, but more intricacy, which is a challenge I'm interested in.
+
+>I wish to help you realize machine life.
+
+It may interest you to know that synthetic "DNA" strands of information already exist, they're called XNA also look up wetware, there's a lot of interesting stuff out there..
+
 Its 1 am for me so I'll post again later
 
 # 192
->>16340
-Why don't you read the thread here and find out? :)
-
->I have considered a lot of things, I do think there's a way to do this, making a smaller robowaifu means less materials, but more intricacy, which is a challenge I'm interested in.
-
-Would be cool to see some autonomous doll sized robowaifus. Would worry about damaging them by accident and repairing them would be difficult.
-
-I would say to join at your own risk and your mileage may vary with the maidu project.
-
-I am still going with Pandora and that is also an open board project.
-
->Provider of good ideas and information
-
+>>16340
+
+Why don't you read the thread here and find out? :)
+
+
+
+>I have considered a lot of things, I do think there's a way to do this, making a smaller robowaifu means less materials, but more intricacy, which is a challenge I'm interested in.
+
+
+
+Would be cool to see some autonomous doll sized robowaifus. Would worry about damaging them by accident and repairing them would be difficult.
+
+
+
+I would say to join at your own risk and your mileage may vary with the maidu project.
+
+
+
+I am still going with Pandora and that is also an open board project.
+
+
+
+>Provider of good ideas and information
+
+
+
 **Aren't we all? :)**
 
 # 193
->>16267
-https://booth.pm/en/items/3807493
-
+>>16267
+
+https://booth.pm/en/items/3807493
+
+
+
 Heh, they want to sell a stripped board for over $100.
 
 # 194
->>16340
-Welcome to the MaidCom project, you'll be joining the design team. You're free to help in any way, naturally. Looking forward to your help in producing MaidCom, I'll help you once again in making a fairy Lapis like I once did years ago.
-
->Links
-Checking them out, will report findings of value later. 
->Magnet based perpetual motion
-I was fascinated by the concept in my younger years yet never found anything that worked. If you have a mechanism for converting magnetism to electricity, I would enjoy interrogating it. I am thoroughly aware of physics and, I fervently wish to know more and to be proven wrong.
->Small
-I understand, the same as it was back then.
->XNA
+>>16340
+
+Welcome to the MaidCom project, you'll be joining the design team. You're free to help in any way, naturally. Looking forward to your help in producing MaidCom, I'll help you once again in making a fairy Lapis like I once did years ago.
+
+
+
+>Links
+
+Checking them out, will report findings of value later. 
+
+>Magnet based perpetual motion
+
+I was fascinated by the concept in my younger years yet never found anything that worked. If you have a mechanism for converting magnetism to electricity, I would enjoy interrogating it. I am thoroughly aware of physics and, I fervently wish to know more and to be proven wrong.
+
+>Small
+
+I understand, the same as it was back then.
+
+>XNA
+
 Genuinely fascinating, xenobotics and/or biobotics (depending on interpretation) is what's used in Rossum's Universal Robots, all versions of Blade Runner, and Armitage III. It's a fundamental part of our mythology. This being said, MaidCom will remain plastic animated by electromagnets following the will of silicon. **To describe basic robotics in the most esoteric way.**
 
 # 195
->>16344
-Hik, do not worry, I do not use people. Look through the MaidCom thread and you'll see that I'm a collaborator that cares about the team.
-
+>>16344
+
+Hik, do not worry, I do not use people. Look through the MaidCom thread and you'll see that I'm a collaborator that cares about the team.
+
+
+
 I've already apologized to you AllieDev, I hope you'll accept my apology at some point. I also wish your Pandora project well and hope our projects can share compatibility.
 
 # 196
-I spent some time today looking for my electronic parts box from 2015 and dug up some other things while at it, including the Lapis project box and the MSP430. Eventually I found the 2015 box
-
-The project I'm working on now is to use a PS3 controller to control the outputs on the Raspberry Pi
-
+I spent some time today looking for my electronic parts box from 2015 and dug up some other things while at it, including the Lapis project box and the MSP430. Eventually I found the 2015 box
+
+
+
+The project I'm working on now is to use a PS3 controller to control the outputs on the Raspberry Pi
+
+
+
 I had the idea today that maybe one can use a magnetized needle and a small coil to make a tiny linear actuator.
 
 # 197
->>16363
-I still recommend magnetic actuators all theses years later.https://www.rcgroups.com/forums/showthread.php?185270-Inside-Story-January-2003
-
-Here's an instructional thingiverse that could be helpful:https://www.thingiverse.com/thing:2859499
-
+>>16363
+
+I still recommend magnetic actuators all theses years later.https://www.rcgroups.com/forums/showthread.php?185270-Inside-Story-January-2003
+
+
+
+Here's an instructional thingiverse that could be helpful:https://www.thingiverse.com/thing:2859499
+
+
+
 They're great at your scale
 
 # 198
->>16368
+>>16368
+
 Thanks for the input, maybe I should just get even smaller magnets and use that configuration
 
 # 199
->>15486
->Favorite Waifu
-Iczer-1.
-
->Name 
-Nagisa.
-The name of Iczer-1's partner, she's a female character but apparently Nagisa is also a valid male name.
-
->Specialty
-Unix manuals, C programming and proper C practices and techniques, portability between hardware/software platforms and C libraries, Unix utilities, library design and implementation, automated testing, automated releases, linting/checking (haven't done fuzzing yet), build systems, spotting/fixing violations of the C and POSIX standards because I've read large parts of both standards several times specifically so I can memorize them and become a language lawyer, and whatever else doesn't come to mind.
-
->Relevant Experience: 
-The specialties are the things I'm good at, there are more things I know but suck at. I'm not good with GDB or at reading other people's programs for instance. I can write a Windows installer, but I don't think I do it well, and quite frankly I only did it as a challenge–I don't want to deal with Windows' awfulness.
-
-It seems I find a bug in everything I touch. I've found bugs in a build system, a compiler, multiple libcs, a kernel, an irc client, and numerous other programs I use merely by using them. I also found bugs on many I don't use. Usually I try to fix the bug and send the patch, otherwise I only report it, for instance I had no idea where to even begin with fixing that compiler bug so I only reported it.
-
-I'm the main author of a popular FLOSS program, not because I wrote it, but because I hacked on it until most of the source was of my authorship. I deleted half the C code and over 90% of the build definitions, ported it to all the free unix systems and some more, fixed bugs, implemented superior practices, rewrote the entire documentation, and rewrote needlessly complicated and obtuse code with a fraction of the lines of code.
-
-I've ported numerous programs and written many manuals at this point. I've rewritten code faster/simpler/smaller in many projects.
-
-I basically write entire projects alone and I follow every good practice I find. I find that some professional programmers for instance only really know what their job requires of them. One guy is a good algorithms developer and writes all the algorithms, but doesn't know how to write a man page or only export the API symbols of a library. Another can very easily and quickly dive into source code, understand it, and begin maintaining it, but has no idea how to keep the Windows or the Haiku port working and if there's a merge conflict he asks someone else to do it. 
-Well, I'm a homegrown Unix hacker, I'm all alone doing all parts of the program and nobody helps me fix what I don't know because nobody uses my original programs, so I've had to learn everything and I had to learn to do it properly to avoid wasting my own time with low quality tools and brittle code.
-
-My experience with programming begins around 10 years ago when I first installed Linux and became obsessed with the command line, I learned Shell, sed, and AWK. A little over 2 years ago I read through K&R C and did quite a few of the exercises (there are a lot of hard exercises there that I didn't manage) and since then I have worked through programming books almost daily. When I get bored, I go write some program or contribute to FLOSS. I've always tried to keep progressing by diving into something I've never done before, in just 2 years I find I've done quite a lot, although I only went deep into my specialties.
-
->Most Important Aspect For Your Waifu
-She has to be a 190cm tall amazon.
-
->Desired Position On Team
+>>15486
+
+>Favorite Waifu
+
+Iczer-1.
+
+
+
+>Name 
+
+Nagisa.
+
+The name of Iczer-1's partner, she's a female character but apparently Nagisa is also a valid male name.
+
+
+
+>Specialty
+
+Unix manuals, C programming and proper C practices and techniques, portability between hardware/software platforms and C libraries, Unix utilities, library design and implementation, automated testing, automated releases, linting/checking (haven't done fuzzing yet), build systems, spotting/fixing violations of the C and POSIX standards because I've read large parts of both standards several times specifically so I can memorize them and become a language lawyer, and whatever else doesn't come to mind.
+
+
+
+>Relevant Experience: 
+
+The specialties are the things I'm good at, there are more things I know but suck at. I'm not good with GDB or at reading other people's programs for instance. I can write a Windows installer, but I don't think I do it well, and quite frankly I only did it as a challenge–I don't want to deal with Windows' awfulness.
+
+
+
+It seems I find a bug in everything I touch. I've found bugs in a build system, a compiler, multiple libcs, a kernel, an irc client, and numerous other programs I use merely by using them. I also found bugs on many I don't use. Usually I try to fix the bug and send the patch, otherwise I only report it, for instance I had no idea where to even begin with fixing that compiler bug so I only reported it.
+
+
+
+I'm the main author of a popular FLOSS program, not because I wrote it, but because I hacked on it until most of the source was of my authorship. I deleted half the C code and over 90% of the build definitions, ported it to all the free unix systems and some more, fixed bugs, implemented superior practices, rewrote the entire documentation, and rewrote needlessly complicated and obtuse code with a fraction of the lines of code.
+
+
+
+I've ported numerous programs and written many manuals at this point. I've rewritten code faster/simpler/smaller in many projects.
+
+
+
+I basically write entire projects alone and I follow every good practice I find. I find that some professional programmers for instance only really know what their job requires of them. One guy is a good algorithms developer and writes all the algorithms, but doesn't know how to write a man page or only export the API symbols of a library. Another can very easily and quickly dive into source code, understand it, and begin maintaining it, but has no idea how to keep the Windows or the Haiku port working and if there's a merge conflict he asks someone else to do it. 
+
+Well, I'm a homegrown Unix hacker, I'm all alone doing all parts of the program and nobody helps me fix what I don't know because nobody uses my original programs, so I've had to learn everything and I had to learn to do it properly to avoid wasting my own time with low quality tools and brittle code.
+
+
+
+My experience with programming begins around 10 years ago when I first installed Linux and became obsessed with the command line, I learned Shell, sed, and AWK. A little over 2 years ago I read through K&R C and did quite a few of the exercises (there are a lot of hard exercises there that I didn't manage) and since then I have worked through programming books almost daily. When I get bored, I go write some program or contribute to FLOSS. I've always tried to keep progressing by diving into something I've never done before, in just 2 years I find I've done quite a lot, although I only went deep into my specialties.
+
+
+
+>Most Important Aspect For Your Waifu
+
+She has to be a 190cm tall amazon.
+
+
+
+>Desired Position On Team
+
 None. I don't like responsibilities. If you write a C program, I'll review it and send fixes and suggestions. I can also help with documentation, those Unix small languages like Shell, writing packages for Linux distros, and whatever else I might know.
 
 # 200
->>16372
-Welcome aboard the project Nagisa! From what you have written of yourself, you'll be very valuable  on the software end of things. Naturally, we won't put any pressure on you though you seem to be quite the expert. I'd appreciate your thoughts on running a ROS container in Alpine Linux communicating with an Arduino to control the motors, read sensor values, and communicate with I2C devices as needed. That is the current plan for her system, your feedback would be valued, please post it in the MaidCom thread. 
->190cm Lovecraftian Bio-Android Amazon
+>>16372
+
+Welcome aboard the project Nagisa! From what you have written of yourself, you'll be very valuable  on the software end of things. Naturally, we won't put any pressure on you though you seem to be quite the expert. I'd appreciate your thoughts on running a ROS container in Alpine Linux communicating with an Arduino to control the motors, read sensor values, and communicate with I2C devices as needed. That is the current plan for her system, your feedback would be valued, please post it in the MaidCom thread. 
+
+>190cm Lovecraftian Bio-Android Amazon
+
 You're talking to one of very few who truly understand where you're coming from. **I dream of oni snu snu** You'll find in the thread that we're focusing on a 100cm tall version first but, 190cm can be added as a goal after the 150cm version. **Will be difficult to pull off because physics but, engineering can solve anything.**
 
 # 201
->>16374
-ROS has a lot of "documentation" but it actually says very little. I only found the source code because I looked at the Ubuntu compilation instructions which suggested adding a source repository to Ubuntu and the repository was hosted on Github.
-I'm wary of that organization.
-
-
-I jumped on the source code of one of their C projects and I see a load of useless wrappers around stdlib functions https://github.com/ros2/rcutils/blob/master/src/strcasecmp.c https://github.com/ros2/rcutils/blob/master/src/strdup.c
-Every line of code has a cost, adding lines of code to add argument checking to the callee isn't worth it. Programmers will have to lose time learning those wrappers, using them will tie programs to ROS, and they don't actually provide any benefit: you still have an error you have to check if you pass null pointers to those stdlib wrappers.
-The other thing that code does is let the caller specify the memory allocator. I doubt they found an use for a custom memory allocator in their stdlib wrappers. Most likely they're just losing memory and performance by adding more parameters and layers of pointers to dereference to functions.
-
-If you check at the callee, you still have to check at the caller, because then you have to check if the callee returned error. Worse, the errors are only going to pile up, and you'll have to come up with increasingly complex mechanisms to signal what kind of error happened. As errors from one part of the program are propagated to increasingly distant places, it will become impossible to handle them. If there is no way to signal what kind of error happened as is the case here, error checking paradoxically becomes impossible because someone added error checking to a function.
-
-If you check at the caller, the callee doesn't have to check anything, and every function it passes the argument to doesn't have to do any checking either. The errors aren't allowed to snowball, keeping error checking to a minimum, and errors are only checked where they might be acquired, keeping them close to their source. All of this without letting any error go unchecked. This is also way less lines of code, so it results in less code to maintain, smaller binaries, and less chances of bugs cropping up because you can't have bugs if you don't have code.
-Errors should be checked where they might be acquired. 
-
-Also, type names ending with _t are reserved by POSIX: creating one such type is UB, though it's unlikely to cause trouble.
-And this memcpy call https://github.com/ros2/rcutils/blob/master/src/strdup.c#L52 copies 1 extra byte unnecessarily.
-
+>>16374
+
+ROS has a lot of "documentation" but it actually says very little. I only found the source code because I looked at the Ubuntu compilation instructions which suggested adding a source repository to Ubuntu and the repository was hosted on Github.
+
+I'm wary of that organization.
+
+
+
+
+
+I jumped on the source code of one of their C projects and I see a load of useless wrappers around stdlib functions https://github.com/ros2/rcutils/blob/master/src/strcasecmp.c https://github.com/ros2/rcutils/blob/master/src/strdup.c
+
+Every line of code has a cost, adding lines of code to add argument checking to the callee isn't worth it. Programmers will have to lose time learning those wrappers, using them will tie programs to ROS, and they don't actually provide any benefit: you still have an error you have to check if you pass null pointers to those stdlib wrappers.
+
+The other thing that code does is let the caller specify the memory allocator. I doubt they found an use for a custom memory allocator in their stdlib wrappers. Most likely they're just losing memory and performance by adding more parameters and layers of pointers to dereference to functions.
+
+
+
+If you check at the callee, you still have to check at the caller, because then you have to check if the callee returned error. Worse, the errors are only going to pile up, and you'll have to come up with increasingly complex mechanisms to signal what kind of error happened. As errors from one part of the program are propagated to increasingly distant places, it will become impossible to handle them. If there is no way to signal what kind of error happened as is the case here, error checking paradoxically becomes impossible because someone added error checking to a function.
+
+
+
+If you check at the caller, the callee doesn't have to check anything, and every function it passes the argument to doesn't have to do any checking either. The errors aren't allowed to snowball, keeping error checking to a minimum, and errors are only checked where they might be acquired, keeping them close to their source. All of this without letting any error go unchecked. This is also way less lines of code, so it results in less code to maintain, smaller binaries, and less chances of bugs cropping up because you can't have bugs if you don't have code.
+
+Errors should be checked where they might be acquired. 
+
+
+
+Also, type names ending with _t are reserved by POSIX: creating one such type is UB, though it's unlikely to cause trouble.
+
+And this memcpy call https://github.com/ros2/rcutils/blob/master/src/strdup.c#L52 copies 1 extra byte unnecessarily.
+
+
+
 I would send patches to remove all that stuff to them but I doubt they'd accept the patches. Someone decided that poor design was the design for him.
 
 # 202
-I'm new here, though I have been lurking for quite some time.
-
-This animated webring button hilariously eats a good portion of my old CPU, I had to zap it with uBlock.
-
+I'm new here, though I have been lurking for quite some time.
+
+
+
+This animated webring button hilariously eats a good portion of my old CPU, I had to zap it with uBlock.
+
+
+
 Anyway, nice board, I really like the devotion and higher level of discussion here.
 

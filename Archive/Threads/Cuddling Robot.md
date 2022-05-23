@@ -54,9 +54,12 @@ https://smuglo.li/monster/res/4977.html
 **>kissing is always awkward**
 
 # 11
->>619
-Indeed. robosnekwaifus will be better than rather lamias due to their ability to cook properly.
-%% Don't get me wrong lamias are good girls too but those girls can't cook worth a damn. They can't taste anything! robowaifus would be able to response to their husband's taste and have artificial taste buds.  %%
+>>619
+
+Indeed. robosnekwaifus will be better than rather lamias due to their ability to cook properly.
+
+%% Don't get me wrong lamias are good girls too but those girls can't cook worth a damn. They can't taste anything! robowaifus would be able to response to their husband's taste and have artificial taste buds.  %%
+
 Do any images exist of robosnekwaifus?
 
 # 12
@@ -75,8 +78,10 @@ don't know, i haven't looked for any personally. i know there are a number of ro
 I'd only be worried about being assaulted by schnitzel and hefeweizen daily. I could probably still conduct myself but it raises concerns about mortality.
 
 # 15
->>646
->Schnitzel and Hefeweizen
+>>646
+
+>Schnitzel and Hefeweizen
+
 Who or what?
 
 # 16

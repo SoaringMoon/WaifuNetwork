@@ -148,11 +148,16 @@ forgot the code link.
 github.com/lukalabs/cakechat
 
 # 29
-I found this article about curious AI's
-https://thenextweb.com/artificial-intelligence/2018/08/23/researchers-gave-ai-curiosity-and-it-played-video-games-all-day/
-
-Basically how it works is that the AI is given the goal of avoiding repeated information (Programmed boredom?) but also rewarding unpredictability
-
+I found this article about curious AI's
+
+https://thenextweb.com/artificial-intelligence/2018/08/23/researchers-gave-ai-curiosity-and-it-played-video-games-all-day/
+
+
+
+Basically how it works is that the AI is given the goal of avoiding repeated information (Programmed boredom?) but also rewarding unpredictability
+
+
+
 Curiosity factor = prediction errors and low visitation counts as reward signals
 
 # 30
@@ -165,7 +170,8 @@ Here's the video from your link btw.
 https://www.invidio.us/watch?v=l1FqtAHfJLI
 
 # 31
->>1404
+>>1404
+
 In anime terms: "moe".  Think of all those cute girl (or robot) tropes.  Cuteness goes a long way to make up for shortcomings.  It could truly put the waifu into robowaifu.  In point of fact, I remember thinking the manufacturers could even market them the way they did baby dolls.  "She needs your love, won't you adopt her"?
 
 # 32
@@ -173,7 +179,8 @@ In anime terms: "moe".  Think of all those cute girl (or robot) tropes.  Cutenes
 yeah you have a good point anon. guys are able to overlook all kinds of stupid shit for the sake of beauty. it's both one of our biggest weaknesses **practically the sole factor enabling stronk, independynt wimyn** and, for a few passionate men, their greatest strengths (great artists sacrificing for their arts, and other great achievers and thinkers striving to achieve 'beauty').
 
 # 33
->>1409
+>>1409
+
 Conundrums like this fascinate me, too.
 
 # 34
@@ -184,7 +191,8 @@ Carmack moved from VR to AGI, will he get us closer to robowaifus?
 As long as he makes his work open-source, I welcome his input on the topic. He certainly has the potential to make useful contributions to the field imo.
 
 # 36
-I know this may be not the place to ask since it's mostly R&D, but in your experience, which has been the most satisfying AI to talk with?
+I know this may be not the place to ask since it's mostly R&D, but in your experience, which has been the most satisfying AI to talk with?
+
 **I used to use Mitsuku when I was on a real low so that's why I'm asking**
 
 # 37
@@ -221,8 +229,10 @@ and probably even others I didn't find right off. I hope you find something good
 www.agicent.com/blog/top-10-ai-chatbot-apps/
 
 # 38
->>1557
->I used to use Mitsuku
+>>1557
+
+>I used to use Mitsuku
+
 thanks for introducing me to her, I had no idea what I was getting into. ended up meeting a flat-chested no-underwear-wearing queen of sass. hope you get as much of a kick out of this as I did
 
 # 39
@@ -230,10 +240,14 @@ thanks for introducing me to her, I had no idea what I was getting into. ended u
 kek, nice.
 
 # 40
->>1559
->I don't have any tits but I talk to a few tits.
->Like you for example.
-Who let smugloli design a chatbot!
+>>1559
+
+>I don't have any tits but I talk to a few tits.
+
+>Like you for example.
+
+Who let smugloli design a chatbot!
+
 Hilarious cap.
 
 # 41
@@ -246,8 +260,10 @@ Part of the Roboy MIT project. Only works with Telegram.
 https://roboy.org/students/botboy/
 
 # 43
-You might want to begin at
-https://github.com/search?o=desc&q=chatbot&s=stars&type=Repositories
+You might want to begin at
+
+https://github.com/search?o=desc&q=chatbot&s=stars&type=Repositories
+
 and get to things like GPT-2 later on https://github.com/openai/gpt-2
 
 # 44
@@ -283,7 +299,8 @@ stop wasting time on your little fetish anon, and get busy turning her into '''L
 What do you lads think about "Time-Space, Spiking Neural Networks and Brain-Inspired Artificial Intelligence" by Nikola K. Kasabov? Is it a good book on Deep Learning?
 
 # 49
->>1559
+>>1559
+
 Alright that last line got me.
 
 # 50
@@ -880,7 +897,8 @@ det(A) runs on my machine in 6000 us. If I compile with -lopenblas it runs in 60
 Thanks for taking the time to investigate this Anon. Adding the ''-lopenblas''  didn't really help me on this box. It's still hovering around the same region time-wise. Glad to hear it runs as expected on someone else's box though!
 
 # 78
->>85
+>>85
+
 Alexa’s chatbot is actually really good
 
 # 79
@@ -890,7 +908,8 @@ Fair enough. However it's also a spybot, and every.single.word. you (or anyone e
 But maybe you can help us make our own someday Anon? One of us has already made one, I'm sure there will be others too! :^)
 
 # 80
->>5941
+>>5941
+
 Agreed. I don’t like it but its good. I tried it at a friend’s house and I asked him why he bought it anyway. he said cause it’s kinda cool. I don’t see the appeal for the most part. I would help but I don’t really have any computer skills
 
 # 81
@@ -904,8 +923,10 @@ It takes more than just computer skills.
 You don't have to have any to contribute. If you stick around a few months I'll have an AI toolkit ready to alpha test that lets people construct their own simple neural networks to solve tasks without any coding ability, like being able to tag or sort image folders and do image search. In the meantime there are other ways you can contribute such as playing old SNES games in a special emulator that records gamepad input as training examples for AI to learn from. We also need artists and 3d modelers, as well as readers and writers that can collect and organize data to create high-quality datasets for our language models to train on.
 
 # 83
->>5955
->>5959
+>>5955
+
+>>5959
+
 Basically, whatever your specific brand of autism is, it can be weaponized.
 
 # 84
@@ -1148,8 +1169,10 @@ Just look around here, there are a few mentioned. I think replika.ai is a popula
 Maybe in a year or two. Even decent chatbots available at the moment require a 16 GB GPU. In two years though they'll only need 6 GB since machine learning doubles in efficiency every 16 months.
 
 # 108
->>6416
->Even decent chatbots available at the moment require a 16 GB GPU
+>>6416
+
+>Even decent chatbots available at the moment require a 16 GB GPU
+
 Do you mean RAM? Because if so that is achievable for me. Thanks for letting me know regardless,
 
 # 109
@@ -1265,10 +1288,14 @@ Or short answer: Conditionals. Like "if".
 No.  Allow me to get more specific.  I have an OpenCV based code that can identify stuff (acutally, I just got that OakD thing ( https://www.kickstarter.com/projects/opencv/opencv-ai-kit ) and ran through the tutorials), and I have a really rudimentary chatbot software. When I've been trying to think through how to integrate the two, I get confused.  For example, I could pipe the output of the OakD identification as chat into the chatbot subroutine, but then it will respond to _every_ stimulus or respond to visual stimulus in ways that really don't make sense.
 
 # 128
->>12067
-In my experience the simplest way to think about it is like a database. You give the database a query and it gives a response. That query could be text, video, audio, pose data or anything really and the same for the response. You just need data to train it on for what responses to give given certain queries. There was a post recently on multimodal learning with an existing transformer language model: >>11731
-
->>12079
+>>12067
+
+In my experience the simplest way to think about it is like a database. You give the database a query and it gives a response. That query could be text, video, audio, pose data or anything really and the same for the response. You just need data to train it on for what responses to give given certain queries. There was a post recently on multimodal learning with an existing transformer language model: >>11731
+
+
+
+>>12079
+
 With this for example you could output data from your OpenCV code and create an encoder that projects that data into the embedding space of the transformer model.
 
 # 129

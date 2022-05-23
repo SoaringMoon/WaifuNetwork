@@ -39,7 +39,8 @@ Redistribution and use in source and binary forms, with or without modification,
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 End license text.
-https://opensource.org/licenses/BSD-3-Clause```
+https://opensource.org/licenses/BSD-3-Clause
+```
 
 ```cpp
 The MIT License
@@ -58,15 +59,18 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 End license text.
-https://opensource.org/licenses/MIT```
+https://opensource.org/licenses/MIT
+```
 
 '''>---'''
 ==edit:==
 ''Added both licenses in question to OP's post, so there's no ambiguity.''
 
 # 2
-MIT is a cuck license
->allow companies to take your code and to make profit from it
+MIT is a cuck license
+
+>allow companies to take your code and to make profit from it
+
 >don't get a single penny back from them from your code
 
 # 3
@@ -154,7 +158,8 @@ Okay, I knew about that part. But it doesn't prevent a craftsman building robots
 Then, programs should be modular anyways. I don't want to see some huge program without API, which one could use or not, but either way its one huge cluck of software.
 
 # 18
->>10863
+>>10863
+
 It prevents entrepeneurs from selling things made with our material, but I think it's worth it. With cuck licenses the noble ideal of complete freedom of anons is destroyed utterly by the kikery of the multi billion dollar corporations who will incorporate our material stealthily and use or repurpose it for nefarious purposes. See the guy that made the operating system that Intel used on their chips as a foundation on which now lays their (((Management Engine))). I think he used a BSD license and any good done by that is outweighed by the sheer reach and power of Intel.
 
 # 19
@@ -197,42 +202,75 @@ The art is by sukabu89
 >>10915
 
 # 25
->>4451
-Hi Anons, OP here, though on a different machine.
-Since last year I've been working and learning a lot, and the question of licensing has become more relevant (I'm looking into business, although not robowaifus XD).
-And so I actually went and read a range of different licenses:
-Software
--GPLv3
--Apache 2.0
--BSD 3-Clause
--MIT (more specifically Expat, as MIT is too broad a term)
-Hardware
--CERN Open Hardware License V2 - Weakly Reciprocal or CERN-OHL-W (BSD/Apache/MIT-like)
--TAPR Open Hardware License
-
-By far not all of them, see SPDX IDs website for some of the standard ones available.
-Bear in mind, I don't have a legal background, and some of these I skim-read (GPL was by far the longest at 11 sides printed).
-
-From my research I've gathered the following:
-- You need to consider whether the license is tailored for software or hardware. For example GPLv3 has wording that is much more applicable to software and software libraries than hardware (or hardware description blocks). Better choices might be CERN-OHL-S (if you want GPLv3-like license), or CERN-OHL-W or TAPR etc (BSD/Apache/MIT-like).
-
-- Some allow linking to proprietary code/hardware, some don't.
-
-- When releasing a GPL project, only the work itself needs to be released. Any additional libraries that are used to by the program, but are readily available (as part of an OS package etc.) do not need to be published. I think the main issue is when trying to "cram" all the code in a single binary is where the issues arise. Same goes for the tools required to compile/build your work.
-You must however provide installation instructions so that the user could get everything working, but you do not need to distribute standard components. My reasoning comes from the definitions of "System Libraries", "Standard Interface", and "Corresponding Source" (sections 1, paragraph 2, 3, and 4).
-
--Keeping clear separation of works allows to use different licenses together. If the hardware is licensed under CERN-OHL-W, the license only covers the hardware (and not the software/firmware). There are also leeways when it comes to using proprietary components (such as integrated circuits) so long as they are available for purchase. 
-As one of the anons mentioned, if a robo-waifu has an OS, the software running on that OS can be proprietary or differently licensed. GPL doesn't go beyond the boundaries of the project. Only when another project sufficiently relies on the functionality of the GPL project does the license start to apply (derivative works).
-I much prefer the Unix/Posix idea of small, highly specialised programs that do one thing well (also simplify the licensing).
-
-For the underlying system software I still think a strong license is better for security and personal freedom. However as for the hardware, weaker licenses are acceptable (as long as all components can be purchased). The application software can then be open or proprietary, depending on the type of user and the amount of support required by the user.
-
+>>4451
+
+Hi Anons, OP here, though on a different machine.
+
+Since last year I've been working and learning a lot, and the question of licensing has become more relevant (I'm looking into business, although not robowaifus XD).
+
+And so I actually went and read a range of different licenses:
+
+Software
+
+-GPLv3
+
+-Apache 2.0
+
+-BSD 3-Clause
+
+-MIT (more specifically Expat, as MIT is too broad a term)
+
+Hardware
+
+-CERN Open Hardware License V2 - Weakly Reciprocal or CERN-OHL-W (BSD/Apache/MIT-like)
+
+-TAPR Open Hardware License
+
+
+
+By far not all of them, see SPDX IDs website for some of the standard ones available.
+
+Bear in mind, I don't have a legal background, and some of these I skim-read (GPL was by far the longest at 11 sides printed).
+
+
+
+From my research I've gathered the following:
+
+- You need to consider whether the license is tailored for software or hardware. For example GPLv3 has wording that is much more applicable to software and software libraries than hardware (or hardware description blocks). Better choices might be CERN-OHL-S (if you want GPLv3-like license), or CERN-OHL-W or TAPR etc (BSD/Apache/MIT-like).
+
+
+
+- Some allow linking to proprietary code/hardware, some don't.
+
+
+
+- When releasing a GPL project, only the work itself needs to be released. Any additional libraries that are used to by the program, but are readily available (as part of an OS package etc.) do not need to be published. I think the main issue is when trying to "cram" all the code in a single binary is where the issues arise. Same goes for the tools required to compile/build your work.
+
+You must however provide installation instructions so that the user could get everything working, but you do not need to distribute standard components. My reasoning comes from the definitions of "System Libraries", "Standard Interface", and "Corresponding Source" (sections 1, paragraph 2, 3, and 4).
+
+
+
+-Keeping clear separation of works allows to use different licenses together. If the hardware is licensed under CERN-OHL-W, the license only covers the hardware (and not the software/firmware). There are also leeways when it comes to using proprietary components (such as integrated circuits) so long as they are available for purchase. 
+
+As one of the anons mentioned, if a robo-waifu has an OS, the software running on that OS can be proprietary or differently licensed. GPL doesn't go beyond the boundaries of the project. Only when another project sufficiently relies on the functionality of the GPL project does the license start to apply (derivative works).
+
+I much prefer the Unix/Posix idea of small, highly specialised programs that do one thing well (also simplify the licensing).
+
+
+
+For the underlying system software I still think a strong license is better for security and personal freedom. However as for the hardware, weaker licenses are acceptable (as long as all components can be purchased). The application software can then be open or proprietary, depending on the type of user and the amount of support required by the user.
+
+
+
 Please feel free to correct me on any of the points I made.
 
 # 26
->>10919
-Oh and forgot to mention, a lot of tools available today (for example OpenSSH from OpenBSD) are widely available and frequently used, likely because of their permissive nature.
-
+>>10919
+
+Oh and forgot to mention, a lot of tools available today (for example OpenSSH from OpenBSD) are widely available and frequently used, likely because of their permissive nature.
+
+
+
 It's difficult to make the judgement whether a weakly-permissive nature of BSD-like projects or copyleft Linux-like are better for the long-term (a different argument can be made in regards to companies). However I have noticed that anything critically important to mankind should be in the public domain and I'll probably release some of my projects like that once I deem them to be mature enough.
 
 # 27
@@ -242,13 +280,20 @@ Thanks, very interesting. And good to know that /robowaifu/ inspires people to l
 If I wrote a stand-alone / offline chatbot which would use different underlying programs, which are licensed in GPL, to parse graphs, fetching data, storing responses, etc and I would call these programs via Python or Linux pipes, do you think derivative works would apply? And would I have to release my own code as GPL? (sharing the code of the other programs or linking to it, isn't the issue here)
 
 # 28
->>10921
-While I was writing my wall of text, I was thinking about this very issue.
-Here's a stackoverflow page where a dev asks about accessing GPL library via a server:
-https://softwareengineering.stackexchange.com/questions/50118/avoid-gpl-violation-by-moving-library-out-of-process
-
-To me it seems to be this way: if your program is able to work stand-alone without the GPL code, then you may have flexibility in licensing. You're also not dynamically linking the programs, only using them as backends so-to-speak.
-
+>>10921
+
+While I was writing my wall of text, I was thinking about this very issue.
+
+Here's a stackoverflow page where a dev asks about accessing GPL library via a server:
+
+https://softwareengineering.stackexchange.com/questions/50118/avoid-gpl-violation-by-moving-library-out-of-process
+
+
+
+To me it seems to be this way: if your program is able to work stand-alone without the GPL code, then you may have flexibility in licensing. You're also not dynamically linking the programs, only using them as backends so-to-speak.
+
+
+
 In my opinion (not a layer!) as long as you provide instructions for users to install your software and any dependencies, then you're probably safe from derivative work issue. Your chatbot is quite different from the graph parsing/data fetching that the libraries provide, right?
 
 # 29
@@ -273,53 +318,100 @@ Also, would you care to spell out in further detail the terms 'strong license' a
 Again, thanks for the work and helping everyone understand things better.
 
 # 30
->>10931
->I particularly like the fact you've taken the time to break out some of the hardware & software considerations.
-I deal with both, so it's important to know how the two are licensed. Didn't really consider the differences until I read about HDL (Hardware Description Language) licensing. Here's a good report/letter describing GPL pitfalls when it comes to hardware description (neither software or a physical hardware): https://ohwr.org/project/ohr-meta/wikis/Documents/GPL/LGPL-for-HDL:-open-questions
-
->I also realize that -- particularly in a hard-realtime embedded environment of a robowaifu, that such modular and clearly-demarcated software systems is neither efficient, nor economical, nor even practical, by-and-large.
-Thanks for pointing that out. Even though I already knew about these limitations, hearing it now clicked in my head. For many reasons it is a better idea to use permissive licenses.
-
->I think licenses that are explicitly intended to free the IP to the extent humanly possible are by far our safest route here. To wit, the ones intended to grant the licensors themselves the greatest leeway possible. Namely, (BSD/Apache/MIT-like). Ones that take a leftist, ideologue type of approach to the topic, one intended to control everyone and everything around them, namely (GPL-like), are IMO much, much more likely to be used against us and to the detriment of the robowaifu movement overall.
-Indeed, that you are right. I have been weary of GNU's leftism, but I agree with the concept for non-real-time software applications. Perhaps that's the last remnants of my idealistic youth influencing my thoughts. Studying OpenBSD/FreeBSD has actually got me pondering on what sort of licensing I should really use.
-
->I realize I'm quite biased here. I can assure you that it's not a casual choice either, for whatever that's worth. Remember, these lawyers are very definitely not our friends; they are much more likely to be used as tools and pawns, intended in their usage to subvert and destroy any open-source robowaifu movement. After all, just ask yourself -- who is paying these people anyway?
-Hard to argue against this. Past experience has shown men that this is indeed what happens. Must be prepared for it.
-
->Also, would you care to spell out in further detail the terms 'strong license' and 'weaker license' if you would please?
-Of course. I think I started using "weak" after seeing in the CERN Open Hardware License (OHL) page. Apologies for the confusion XD
-
-Specifically CERN-OHL version 2 has three versions:
--Permissive (CERN-OHL-P)
--Weakly reciprocal (CERN-OHL-W)
--Strongly reciprocal (CERN-OHL-S)
-
-CERN has a nice FAQ section on this:
-https://ohwr.org/project/cernohl/wikis/FAQ#q-what-are-all-these-suffixes
-
-Permissive is equivalent to BSD 3-Clause or Expat(MIT) where no changes need to be shared, only notices have to be retained. Relicensing is acceptable. This is likely the default license we should look into for any hardware (unless you know of equivalent licenses), as it explicitly covers production of products, not just distribution of the design files.
-
-Weakly reciprocal kinda feels like LGPL. Source licensed under CERN-OHL-W cannot be relicensed (similar to Apache 2.0), however if this source is used in a bigger design, the rest of the design can be licensed differently. Apache 2.0 actually has a clause on contribution (section 5), which by default retains Apache 2.0 (but could be explicitly adjusted by the contributor). If you want your hardware design to keep the same license, but still be used in any project, this is not a bad choice.
-
-Strongly reciprocal is equivalent to GPL (all changes to be published under same license). This license is similar to TAPR OHL v1.0 and GPLv3. In the context of licenses, I say "strong" when the license is "Copyleft" or similar to GPLv3. Only for projects that are fully open.
-
-So for us, either permissive or weakly reciprocal are viable options as they could be used in higher performance (however specifically permissive when code has to be combined together in a single binary).
-In further correspondence I'll try to use the terms "copyleft", "permissive", and "weakly reciprocal" to refer to the three categories set out by CERN-OHL.
-
-Oh, and for convenience, here are the links to the licenses I discussed so far (Chobitsu feel free to adjust as needed):
-GPLv3:
-https://www.gnu.org/licenses/gpl-3.0.en.html
-LGPLv3:
-https://www.gnu.org/licenses/licenses.html#LGPL
-BSD 3-Clause:
-https://opensource.org/licenses/BSD-3-Clause
-Expat (MIT):
-https://opensource.org/licenses/MIT
-Apache 2.0:
-https://www.apache.org/licenses/LICENSE-2.0.html
-CERN OHL Licenses:
-https://cern-ohl.web.cern.ch/home
-TAPR OHL License:
+>>10931
+
+>I particularly like the fact you've taken the time to break out some of the hardware & software considerations.
+
+I deal with both, so it's important to know how the two are licensed. Didn't really consider the differences until I read about HDL (Hardware Description Language) licensing. Here's a good report/letter describing GPL pitfalls when it comes to hardware description (neither software or a physical hardware): https://ohwr.org/project/ohr-meta/wikis/Documents/GPL/LGPL-for-HDL:-open-questions
+
+
+
+>I also realize that -- particularly in a hard-realtime embedded environment of a robowaifu, that such modular and clearly-demarcated software systems is neither efficient, nor economical, nor even practical, by-and-large.
+
+Thanks for pointing that out. Even though I already knew about these limitations, hearing it now clicked in my head. For many reasons it is a better idea to use permissive licenses.
+
+
+
+>I think licenses that are explicitly intended to free the IP to the extent humanly possible are by far our safest route here. To wit, the ones intended to grant the licensors themselves the greatest leeway possible. Namely, (BSD/Apache/MIT-like). Ones that take a leftist, ideologue type of approach to the topic, one intended to control everyone and everything around them, namely (GPL-like), are IMO much, much more likely to be used against us and to the detriment of the robowaifu movement overall.
+
+Indeed, that you are right. I have been weary of GNU's leftism, but I agree with the concept for non-real-time software applications. Perhaps that's the last remnants of my idealistic youth influencing my thoughts. Studying OpenBSD/FreeBSD has actually got me pondering on what sort of licensing I should really use.
+
+
+
+>I realize I'm quite biased here. I can assure you that it's not a casual choice either, for whatever that's worth. Remember, these lawyers are very definitely not our friends; they are much more likely to be used as tools and pawns, intended in their usage to subvert and destroy any open-source robowaifu movement. After all, just ask yourself -- who is paying these people anyway?
+
+Hard to argue against this. Past experience has shown men that this is indeed what happens. Must be prepared for it.
+
+
+
+>Also, would you care to spell out in further detail the terms 'strong license' and 'weaker license' if you would please?
+
+Of course. I think I started using "weak" after seeing in the CERN Open Hardware License (OHL) page. Apologies for the confusion XD
+
+
+
+Specifically CERN-OHL version 2 has three versions:
+
+-Permissive (CERN-OHL-P)
+
+-Weakly reciprocal (CERN-OHL-W)
+
+-Strongly reciprocal (CERN-OHL-S)
+
+
+
+CERN has a nice FAQ section on this:
+
+https://ohwr.org/project/cernohl/wikis/FAQ#q-what-are-all-these-suffixes
+
+
+
+Permissive is equivalent to BSD 3-Clause or Expat(MIT) where no changes need to be shared, only notices have to be retained. Relicensing is acceptable. This is likely the default license we should look into for any hardware (unless you know of equivalent licenses), as it explicitly covers production of products, not just distribution of the design files.
+
+
+
+Weakly reciprocal kinda feels like LGPL. Source licensed under CERN-OHL-W cannot be relicensed (similar to Apache 2.0), however if this source is used in a bigger design, the rest of the design can be licensed differently. Apache 2.0 actually has a clause on contribution (section 5), which by default retains Apache 2.0 (but could be explicitly adjusted by the contributor). If you want your hardware design to keep the same license, but still be used in any project, this is not a bad choice.
+
+
+
+Strongly reciprocal is equivalent to GPL (all changes to be published under same license). This license is similar to TAPR OHL v1.0 and GPLv3. In the context of licenses, I say "strong" when the license is "Copyleft" or similar to GPLv3. Only for projects that are fully open.
+
+
+
+So for us, either permissive or weakly reciprocal are viable options as they could be used in higher performance (however specifically permissive when code has to be combined together in a single binary).
+
+In further correspondence I'll try to use the terms "copyleft", "permissive", and "weakly reciprocal" to refer to the three categories set out by CERN-OHL.
+
+
+
+Oh, and for convenience, here are the links to the licenses I discussed so far (Chobitsu feel free to adjust as needed):
+
+GPLv3:
+
+https://www.gnu.org/licenses/gpl-3.0.en.html
+
+LGPLv3:
+
+https://www.gnu.org/licenses/licenses.html#LGPL
+
+BSD 3-Clause:
+
+https://opensource.org/licenses/BSD-3-Clause
+
+Expat (MIT):
+
+https://opensource.org/licenses/MIT
+
+Apache 2.0:
+
+https://www.apache.org/licenses/LICENSE-2.0.html
+
+CERN OHL Licenses:
+
+https://cern-ohl.web.cern.ch/home
+
+TAPR OHL License:
+
 https://tapr.org/the-tapr-open-hardware-license/
 
 # 31
@@ -351,18 +443,24 @@ https://creativecommons.org/share-your-work/public-domain/cc0/
 I wonder why opensource.org doesn't list it?
 
 # 35
->>11040
-I think I'll use the MIT (Expat) license actually.
+>>11040
+
+I think I'll use the MIT (Expat) license actually.
+
 Although I probably will have some work in the public domain as well (it's more suited for small pieces of code or self-contained written pieces etc.)
 
 # 36
 I'm not going to post here if you're using the cuck license
 
 # 37
->>4458
->lifeswork spent 
->made technological breakthrough
->apple pays you about tree fitty
+>>4458
+
+>lifeswork spent 
+
+>made technological breakthrough
+
+>apple pays you about tree fitty
+
 lol
 
 # 38
@@ -380,20 +478,34 @@ I think a more important question is how to realistically prevent ourselves from
 There are some NGOs doing that.
 
 # 40
->>11523
-What you are looking for is patent protection. Its honestly the only way to keep larger companies and bad actors at bay. Now this is time consuming as you need paint a broad brush so to only allow companies to make lesser products than your creation. Now on the bright side, you are free to release the code on a process that you have patented. You can even pull an industry standard tactic and give it away for free when used privately and charge when used commercially. 
-
-To the topic on hand; 1) Would anyone be willing to write their own license that fits the needs of /robowaifu/? 2) Are the technicians ok with semi-open source? 
-
-I'm gearing up to make a program akin to cortana that does housekeeping and looking into licenses on the FLOSS side, I recognized that an approach similar to dual-licensing would be ideal. Well more specifically: patenting the concept and application followed by source releasing the software side under a modified GPL v3. I only modify the clauses to restrict commercial/patent rights without my written permission and prevent combination to permissive licenses but only on the software that i release and license to the user. I know its not perfect, but a barrier to direct theft and maintains the potential for modification, while allowing the modifier to be compensated for their addition. 
-
-My though process was: how is UE licensed? how do they allow add-ons? how do they allow commercialization of add-ons?
-It was then I realized that open-source licensing is far too copyright focused and not enough thought placed on the patenting/process side of things. Copyright merely 
-   
-https://www.unrealengine.com/en-US/eula/publishing
-https://en.wikipedia.org/wiki/Source-available_software
-https://www.copyright.gov/help/faq/definitions.html
-
+>>11523
+
+What you are looking for is patent protection. Its honestly the only way to keep larger companies and bad actors at bay. Now this is time consuming as you need paint a broad brush so to only allow companies to make lesser products than your creation. Now on the bright side, you are free to release the code on a process that you have patented. You can even pull an industry standard tactic and give it away for free when used privately and charge when used commercially. 
+
+
+
+To the topic on hand; 1) Would anyone be willing to write their own license that fits the needs of /robowaifu/? 2) Are the technicians ok with semi-open source? 
+
+
+
+I'm gearing up to make a program akin to cortana that does housekeeping and looking into licenses on the FLOSS side, I recognized that an approach similar to dual-licensing would be ideal. Well more specifically: patenting the concept and application followed by source releasing the software side under a modified GPL v3. I only modify the clauses to restrict commercial/patent rights without my written permission and prevent combination to permissive licenses but only on the software that i release and license to the user. I know its not perfect, but a barrier to direct theft and maintains the potential for modification, while allowing the modifier to be compensated for their addition. 
+
+
+
+My though process was: how is UE licensed? how do they allow add-ons? how do they allow commercialization of add-ons?
+
+It was then I realized that open-source licensing is far too copyright focused and not enough thought placed on the patenting/process side of things. Copyright merely 
+
+   
+
+https://www.unrealengine.com/en-US/eula/publishing
+
+https://en.wikipedia.org/wiki/Source-available_software
+
+https://www.copyright.gov/help/faq/definitions.html
+
+
+
 I recently went through the patent process for a different product and it's not nearly as painful if you are friendly with a thesaurus. Now getting patent rights internationally is my next step.
 
 # 41
@@ -455,21 +567,33 @@ Leaving this here as it has a clear, relatively easy-to-understand comparison of
 https://www.openbsd.org/policy.html
 
 # 51
-I use ISC.
-It's almost a BSD-2-Clause equivalent. First, the text is more brief. Second, it doesn't specifically say that the license text has to be distributed with both the source and the binary forms of the program, it only says it has to be distributed with "copies". I use it for the brevity.
-
-I've noticed some code that gets reimplemented over and over again, often poorly, so I started a project that tries to implement it properly with BSD-0-Clause which is derived from the ISC license but has its only 2 terms removed so it's public domain equivalent except it disclaims all warranties. I did it because I know even being told to copypaste the license text and to include it in releases is too much for some. The reason I use ISC over BSD-0-Clause in other projects is that there's some legal bullshit that says that if your warranty disclaimer isn't visible it doesn't count, and I assume nobody will go after my ass due to warranties, but that's no reason to stay vulnerable, so I use ISC unless I have a reason not to.
-
-Ideally, copyright wouldn't exist, but the ISC license is written using language humans can read, and it essentially says "do whatever you want I don't care as long as you copy this license text" which is not perfect but good enough. I'm seeding terabytes of infringed copyright on my torrent client right now.
-
-I wish there was a copyleft license that was compatible with 100% of free licenses. The idea behind copyleft is good, but the issue with copyleft licenses is that they end up cucking other FLOSS developers from using your software, and that's unacceptable. Working with every single FLOSS program like the permissive licenses do is a hard requirement for me.
+I use ISC.
+
+It's almost a BSD-2-Clause equivalent. First, the text is more brief. Second, it doesn't specifically say that the license text has to be distributed with both the source and the binary forms of the program, it only says it has to be distributed with "copies". I use it for the brevity.
+
+
+
+I've noticed some code that gets reimplemented over and over again, often poorly, so I started a project that tries to implement it properly with BSD-0-Clause which is derived from the ISC license but has its only 2 terms removed so it's public domain equivalent except it disclaims all warranties. I did it because I know even being told to copypaste the license text and to include it in releases is too much for some. The reason I use ISC over BSD-0-Clause in other projects is that there's some legal bullshit that says that if your warranty disclaimer isn't visible it doesn't count, and I assume nobody will go after my ass due to warranties, but that's no reason to stay vulnerable, so I use ISC unless I have a reason not to.
+
+
+
+Ideally, copyright wouldn't exist, but the ISC license is written using language humans can read, and it essentially says "do whatever you want I don't care as long as you copy this license text" which is not perfect but good enough. I'm seeding terabytes of infringed copyright on my torrent client right now.
+
+
+
+I wish there was a copyleft license that was compatible with 100% of free licenses. The idea behind copyleft is good, but the issue with copyleft licenses is that they end up cucking other FLOSS developers from using your software, and that's unacceptable. Working with every single FLOSS program like the permissive licenses do is a hard requirement for me.
+
 But really, if someone copypasted my ISC software and didn't give me credit I wouldn't care, I would even be happy someone is using something I made, I really just want copyright and its supporters to die, to reiterate: singular reason that "copy the loicense pls" tidbit is in the license I use is to cover my ass, but ultimately, I want people to do whatever the heck they want with their copies.
 
 # 52
-BTW, OpenWRT violates the shit of all the licenses and gets into 0 trouble for it.
-Go to the OpenWRT repositories right now and download any package, it's just a .tar.gz tarball with a different extesion. Look into the contents of the package: there is no license text anywhere.
-A lot of FLOSS licenses require that the license text be distributed with binary, but OpenWRT simply doesn't do it. I approve.
-
+BTW, OpenWRT violates the shit of all the licenses and gets into 0 trouble for it.
+
+Go to the OpenWRT repositories right now and download any package, it's just a .tar.gz tarball with a different extesion. Look into the contents of the package: there is no license text anywhere.
+
+A lot of FLOSS licenses require that the license text be distributed with binary, but OpenWRT simply doesn't do it. I approve.
+
+
+
 OpenBSD does almost the same thing, they very rarely distribute the loicense, so they're violating the license of most of their packages with such a term.
 
 # 53

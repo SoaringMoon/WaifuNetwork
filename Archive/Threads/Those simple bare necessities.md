@@ -17,8 +17,10 @@ What I find interesting in because my waifu is slim and athletic, I also aim to 
 Oops
 
 # 5
->>4918
-
+>>4918
+
+
+
 I believe the structure of the hierarchy suggests that building on the lower tiers is itself the path to the top. So yes, ideally this would all lead to self-actualization.
 
 # 6
@@ -31,7 +33,9 @@ That's a good point I hadn't actually realized before.
 I thought the discussion was just about which part of the hierarchy robo-waifus fulfill. But yeah, the structure must be done from bottom, so unless you have the lowest two sections, robo-waifus won't be of much use.
 
 # 8
->>4924
-
+>>4924
+
+
+
 The idea is that you could potentially build a robowaifu to fulfill any part of that hierarchy. Like for the physiological needs, a robowaifu that can help you keep track of your day-to-day health.
 

@@ -1238,7 +1238,8 @@ LOL timely post Kiwi, grats! BTW, that's a really cool design. Have any more art
 They're a new artist but they make really cute work. Here's their page: https://www.pixiv.net/en/users/14993888
 
 # 63
->>14918
+>>14918
+
 >Inb4 the april fools BUMP update.
 
 # 64
@@ -1358,11 +1359,16 @@ Cheers.
 https://files.catbox.moe/x07805.7z
 
 # 67
->>15050
-I apologize in advance and do not mean to come off as an attack on you. I am just giving some feedback and criticism.
-
-I have been wondering for a while now about how the hell do we get this to compile?
-
+>>15050
+
+I apologize in advance and do not mean to come off as an attack on you. I am just giving some feedback and criticism.
+
+
+
+I have been wondering for a while now about how the hell do we get this to compile?
+
+
+
  Have never heard of tar.xz extensions before finding /robowaifu/ and regardless of documentation, 7zip won’t recognize the file. Despite it downloading inside of a 7zip archive, making the whole tar.xz format completely redundant and an extra step that is discouraging to newcomers or anyone who would contribute as it comes off to people as malware thanks to the strange file extension. Regardless of whether or not that is true.
 
 # 68
@@ -1370,7 +1376,7 @@ I have been wondering for a while now about how the hell do we get this to compi
 I was actually going to make a step by step how to do it but I can't get it to work lol....
 I can't figure out how to install the curlcpp 
 this:
-Then add <curlcpp root>/build/src/ to your library path and <curlcpp root>/include/ to your include path.
+Then add < curlcpp root>/build/src/ to your library path and < curlcpp root>/include/ to your include path.
 
 When linking, link against curlcpp (e.g.: g++ -std=c++11 example.cpp -o example -lcurlcpp -lcurl). Or if you want run from terminal,
 
@@ -1491,8 +1497,10 @@ This is just a quick rough to get you started Anon. Again, the main point at thi
 Cheers.
 
 # 73
->>15074
-
+>>15074
+
+
+
 Thanks Chobitsu! That should be enough to get anons started so they can see what you’ve been doing in these great weekly updates.
 
 # 74
@@ -1831,30 +1839,42 @@ void to_json(Json& j, Dropdata const& d) {
 Apologies about that Anon.
 
 # 81
->>15240
+>>15240
+
 Keep up the good work Chobitsu! Someday you'll be posting with real robot cat grill meidos.
 
 # 82
 Any plans on giving the robot a voice? Are you gonna have pre-recorded voices made by some girl you hired or are you gonna use a synthetic voice program?
 
 # 83
->>15241
->JSON
-
-Yay more common formats! Have you worked on getting them to generate actual dialog yet? Keep it up Chobitsu!
-
->>15247
-
+>>15241
+
+>JSON
+
+
+
+Yay more common formats! Have you worked on getting them to generate actual dialog yet? Keep it up Chobitsu!
+
+
+
+>>15247
+
+
+
 I have to replace the cooling fans on my 3D printer and would appreciate any help finding replacement ender 3 fans. Had gotten some test prints of the shell to hold together excellently without the need for screws.
 
 # 84
->>15256
-They can be found on Amazon for low cost with fast shipping. Can't recommend any one in particular. Hope you'll post progress soon.
-
+>>15256
+
+They can be found on Amazon for low cost with fast shipping. Can't recommend any one in particular. Hope you'll post progress soon.
+
+
+
 Side note, it's been months and Chobitsu still hasn't posted the color palette for Sumomo. No pressure, just wondering what is going on with that.
 
 # 85
->>15257
+>>15257
+
 That’s not helpful at all.
 
 # 86
@@ -1879,8 +1899,10 @@ Honestly, I've given it little thoughts beyond our initial ones Kiwi. And it's l
 BTW, I've been replaying through the series during my workouts lately with an eye towards watching for Sumomo's appearances vs. Chii's. The cute little robowaifu is all over the show, actually. Especially the 'Cleaning Day' episode **where she gets accidentally shocked**. They may as well have called that one 'Sumomo's Show'.
 
 # 87
->>15297
-Aye, we must work til all Anons can have their waifu meidos. 
+>>15297
+
+Aye, we must work til all Anons can have their waifu meidos. 
+
 Side note, should re-watch Chobits.
 
 # 88
@@ -1942,35 +1964,59 @@ Cheers
 https://files.catbox.moe/00juix.7z
 
 # 89
->>15324
-Is the bumpmaster project supposed to be board integrated ai or a new imageboard api? It can be kindve confusing at times with the maidu pictures but your data structure explanation makes more sense than any college professors lectures, programming forums, or books I’ve read. Would be neat to ask bumpmaster catgirl maidus to find a post or thread.
-
+>>15324
+
+Is the bumpmaster project supposed to be board integrated ai or a new imageboard api? It can be kindve confusing at times with the maidu pictures but your data structure explanation makes more sense than any college professors lectures, programming forums, or books I’ve read. Would be neat to ask bumpmaster catgirl maidus to find a post or thread.
+
+
+
 Have you thought about getting the sumomo ai to celebrate holidays and anniversaries? Its been done before through various other apps and projects.
 
 # 90
->>15324
-Bumpmaster isn't working for me.
+>>15324
+
+Bumpmaster isn't working for me.
+
 ```cpp
-page_uri:    https://alogs.space/robowaifu/catalog.json
-  req made                                                                        0.4s
-
-  Json::parse_error 
-'[json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal'
-  caught in fstream_2_json()
-```
-I tried to debug it and it seems it's trying to parse the json before chkd_pull_g finishes downloading the file. Then it segfaults.
+page_uri:    https://alogs.space/robowaifu/catalog.json
+
+  req made                                                                        0.4s
+
+
+
+  Json::parse_error 
+
+'[json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal'
+
+  caught in fstream_2_json()
+
+```
+
+I tried to debug it and it seems it's trying to parse the json before chkd_pull_g finishes downloading the file. Then it segfaults.
+
 ```cpp
-==845051== Invalid read of size 8
-==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
-==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
-==845051==    by 0x111482: main (main_bumpmaster.cpp:52)
-==845051==  Address 0x8 is not stack'd, malloc'd or (recently) free'd
-==845051== 
-==845051== 
-==845051== Process terminating with default action of signal 11 (SIGSEGV)
-==845051==  Access not within mapped region at address 0x8
-==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
-==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
+==845051== Invalid read of size 8
+
+==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
+
+==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
+
+==845051==    by 0x111482: main (main_bumpmaster.cpp:52)
+
+==845051==  Address 0x8 is not stack'd, malloc'd or (recently) free'd
+
+==845051== 
+
+==845051== 
+
+==845051== Process terminating with default action of signal 11 (SIGSEGV)
+
+==845051==  Access not within mapped region at address 0x8
+
+==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
+
+==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
+
 ==845051==    by 0x111482: main (main_bumpmaster.cpp:52)```
 
 # 91
@@ -2022,7 +2068,8 @@ We'll spend some time soon to understand the dynamics of what the compiler optim
 Cheers.
 
 # 94
->>15343
+>>15343
+
 Yeah, same problem. I had the issue with the release build then rebuilt it in debug to find where it was coming from. The problem persists with different optimization levels on my machine too.
 
 # 95
@@ -2040,16 +2087,19 @@ OK, looks like we've tracked the issue down to the most obvious one **which I ne
 In the meantime, simply deleting the files and retrying should do it. (Just use the release build, that was purely coincidental timing of getting a bad file during that test. It's unrelated).
 ```cpp
 rm ./dolldrops/*
-build/bumpmaster```
+build/bumpmaster
+```
 
 Please give that a go Anon and let us know how it goes for you.
 
 # 97
->>15369
+>>15369
+
 There weren't any partial files in dolldrops but this solved the issue. The problem occurs trying to run bumpmaster from the build folder.
 
 # 98
->>15372
+>>15372
+
 And if I make the dolldrops folder in the build folder it works fine, so I'm guessing it's not checking if that directory exists and then tries to parse a non-existent file after it fails to open it for writing, strangely before it finishes downloading. I'm a bit confused why the download wouldn't fail if it opened it for writing first or if it's opened for writing after, why it tries to parse the non-existent file before downloading finishes.
 
 # 99
@@ -2154,7 +2204,8 @@ https://files.catbox.moe/1wql8r.7z
 OK, please give the new cut a try and see if it suits Anon. (>>15405)
 
 # 102
->>15405
+>>15405
+
 Your progress continues to inspire Chobitsu. Considering the boards sudden shift towards favoring Reploids, thought you may enjoy a cat grill Reploid meido to cheer you on!
 
 # 103
@@ -2265,9 +2316,12 @@ Cheers.
 https://files.catbox.moe/9rrvst.7z
 
 # 105
->>15448
-I'm still learning Blender but I think it's a good idea.
->>15514
+>>15448
+
+I'm still learning Blender but I think it's a good idea.
+
+>>15514
+
 Nice update Chobitsu!
 
 # 106
@@ -2379,17 +2433,25 @@ https://files.catbox.moe/p1qnqj.7z
 BTW I meant to thank you earlier for that excellent Chii Anon, but I just forgot. Thanks! :^)
 
 # 109
->>15658
-
-An exporter plugin for blender would be very helpful since most robotics software does have some kind of model simulation feature these days for testing programming instructions. 
-
+>>15658
+
+
+
+An exporter plugin for blender would be very helpful since most robotics software does have some kind of model simulation feature these days for testing programming instructions. 
+
+
+
 You would have to be capable of automatically generating a target armature for the robot model you are testing with the program.
 
 # 110
->>15656
->Can we all just agree that Catgrill Meidos make the best servers!?
-
-I have to agree!
+>>15656
+
+>Can we all just agree that Catgrill Meidos make the best servers!?
+
+
+
+I have to agree!
+
 I like how you're handling strings Chobitsu, I don't really get C++ but, it seems like it'll help with legibility of retreived text. Thanks for your detailed write up. Thanks for your continued work.
 
 # 111
@@ -2617,7 +2679,8 @@ Cheers.
 https://files.catbox.moe/siytza.7z
 
 # 114
->>16119
+>>16119
+
 Having waifus reading Page 1's with us sounds like a nice idea! The map function is pretty cool, I like how you're using it.
 
 # 115
@@ -2652,17 +2715,25 @@ Also, welcome aboard Anon! :^)
 -''add add'l cmnt cmnt''
 
 # 116
->>16139
-I don't do much C++ programming so I haven't looked too much at RW Foundations beyond using Bumpmaster to archive the board but I look forward to seeing Sumomo's World. I dabbled before with making a 2D visual waifu in Godot >>9025 which would be pretty easy to reimplement in C++ with raylib-cpp. Raylib has much better support for skeletal animations now than it did a year ago so you can animate stuff in Blender, export and play it. Raylib can also be compiled to WebAssembly for webpage waifus. There's also Live2D but their library is closed source and their editor is software as a service that doesn't support Linux.
-
-I plan to port my TTS systems to C later this year which could be plugged into Sumomo and of course GPT-2 is in the works if you're interested in playing with that. I'm not really sure how else I could contribute to the project. Possibly next year I plan to port RoBERTa too and that could be plugged into Waifusearch so searching for something like 'chatbot' would also bring up similar posts talking about 'conversational AI' and 'natural language processing'.
-
+>>16139
+
+I don't do much C++ programming so I haven't looked too much at RW Foundations beyond using Bumpmaster to archive the board but I look forward to seeing Sumomo's World. I dabbled before with making a 2D visual waifu in Godot >>9025 which would be pretty easy to reimplement in C++ with raylib-cpp. Raylib has much better support for skeletal animations now than it did a year ago so you can animate stuff in Blender, export and play it. Raylib can also be compiled to WebAssembly for webpage waifus. There's also Live2D but their library is closed source and their editor is software as a service that doesn't support Linux.
+
+
+
+I plan to port my TTS systems to C later this year which could be plugged into Sumomo and of course GPT-2 is in the works if you're interested in playing with that. I'm not really sure how else I could contribute to the project. Possibly next year I plan to port RoBERTa too and that could be plugged into Waifusearch so searching for something like 'chatbot' would also bring up similar posts talking about 'conversational AI' and 'natural language processing'.
+
+
+
 Something else I use a lot are WebSockets to communicate between the web browser, Python, Godot and other applications. It would be desirable to have a library in RW Foundations for easily sending and receiving various types of data across the net and between programs. My visual waifu for example connects to three different WebSocket servers, one for text generation, one for TTS and another for translation using selenium to access DeepL. It makes it much easier to test different code and models without having to unnecessarily reload GBs of data each time I make a change and the visual waifu continues to work even while any of these functions go down.
 
 # 117
-I threw this together from example code over a couple days.
-
-It combines python TTS, Speech recognition and Chatbot libraries into a talking, speech-activated chatbot.
+I threw this together from example code over a couple days.
+
+
+
+It combines python TTS, Speech recognition and Chatbot libraries into a talking, speech-activated chatbot.
+
 It's not very good out of the box (Sphinx is pretty jank and I haven't tried training the chatbot), but it "works" with minimal effort and we may be able to improve upon it.
 
 # 118
@@ -2705,8 +2776,10 @@ Thanks Ricardo! As we discussed elsewhere, having a simple-to-use Python API for
 Cheers.
 
 # 121
->>16230
->>16238
+>>16230
+
+>>16238
+
 I used pipenv to get the virtual environment for this set up, here's the pipfile (specifies dependencies)
 
 # 122
@@ -2714,9 +2787,12 @@ I used pipenv to get the virtual environment for this set up, here's the pipfile
 Thanks! That's exactly the kind of thing a relative neophyte with Python needs to manage the process Anon. I hope to have a machine ready to use sometime in the next week or so. Cheers.
 
 # 123
->Python also has a serial library
-https://devtut.github.io/python/python-serial-communication-pyserial.html#initialize-serial-device
-
+>Python also has a serial library
+
+https://devtut.github.io/python/python-serial-communication-pyserial.html#initialize-serial-device
+
+
+
 We could use this to send commands from a PC to an arduino. That way, we won't have to use a raspberry pi for GPIO.
 
 # 124
@@ -2819,20 +2895,32 @@ Until next time then, cheers.
 https://files.catbox.moe/mugvk3.7z
 
 # 126
->>16329
+>>16329
+
 Thanks Chobitsu, your work continues to be great!
 
 # 127
->>16329
-
->So, one of the nice things about using C is that you're quite close to the hardware. OTOH, one of the bad things about using C is that you're quite close to the hardware. :^) Plainly, the benefits outweigh the detriments here,
-
-That's because C was made as an alternative to machine code, which was the language that directly ran most ancient machines before the dawn of the personal computer. It looks like matrix code to any human being and C is far less scary overall. Its supposedly not uncommon to have some programmers mix C and C++ or C++ and C#.
-
-I was still not any closer to finding out what the hell any of this is supposed to do from the thread itself and found a way around the whole "orbital space docking procedure" as described and narrated in the readme. **I am just putting a sense of humor to my frustration here :)**
-
-Extracts tar.gz:
-https://extract.me/
-
+>>16329
+
+
+
+>So, one of the nice things about using C is that you're quite close to the hardware. OTOH, one of the bad things about using C is that you're quite close to the hardware. :^) Plainly, the benefits outweigh the detriments here,
+
+
+
+That's because C was made as an alternative to machine code, which was the language that directly ran most ancient machines before the dawn of the personal computer. It looks like matrix code to any human being and C is far less scary overall. Its supposedly not uncommon to have some programmers mix C and C++ or C++ and C#.
+
+
+
+I was still not any closer to finding out what the hell any of this is supposed to do from the thread itself and found a way around the whole "orbital space docking procedure" as described and narrated in the readme. **I am just putting a sense of humor to my frustration here :)**
+
+
+
+Extracts tar.gz:
+
+https://extract.me/
+
+
+
 If you want to run it as intended and get the code to run, THEN follow the readme he includes in every drop. It irritated me to no end how they put so much effort towards these but make them impossible to even look at without going through so many extra hoops.
 

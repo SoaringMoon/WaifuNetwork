@@ -61,13 +61,20 @@ Modeling robot geometries like molecules, application to fast multi-contact post
 https://infoscience.epfl.ch/record/230040/
 
 # 8
->>237
-I think the most fundamental thing for walking is balance. It could be optimized for as the minimum amount of energy to maintain a pose or state. It's really important we acknowledge robowaifus will have different bodies and parts than us and what they find balanced to walk with will be something else entirely unless we pay close attention to engineer their bodies with similar weight, range of motion and forces as us.
-
-The second most important thing is experience. Robowaifus will need to practice to improve their world model's prediction function to judge the weight of objects, their weight distribution, slipperiness of surfaces and such to understand what the minimum energy state will be. There are things robots don't have sensors for like feeling a cylinder sliding through their grip, but there are visual cues and other things that can be detected such as slipping objects feeling lighter. Robots can also have completely different sensors in their body parts such as accelerometers and gyroscopes.
-
-Objects in general need to be approached with caution and gentleness, using only the minimum amount of force needed to achieve tasks. Overexertion requires corrections and can be identified within the system as shaking. In disaster situations rubble and debris may also move when walked upon. Motion planning will need to navigate uncertain environments and avoid potential motor stalls and falls by taking the safest understood route, unless there is no other way to go or it's too dangerous and should stop. Collisions with other people, stairs and moving vehicles must be also factored in but I think finding the minimum energy required will naturally solve this because walking into a bus going 50 kph is gonna be a lot of energy to overcome.
-
+>>237
+
+I think the most fundamental thing for walking is balance. It could be optimized for as the minimum amount of energy to maintain a pose or state. It's really important we acknowledge robowaifus will have different bodies and parts than us and what they find balanced to walk with will be something else entirely unless we pay close attention to engineer their bodies with similar weight, range of motion and forces as us.
+
+
+
+The second most important thing is experience. Robowaifus will need to practice to improve their world model's prediction function to judge the weight of objects, their weight distribution, slipperiness of surfaces and such to understand what the minimum energy state will be. There are things robots don't have sensors for like feeling a cylinder sliding through their grip, but there are visual cues and other things that can be detected such as slipping objects feeling lighter. Robots can also have completely different sensors in their body parts such as accelerometers and gyroscopes.
+
+
+
+Objects in general need to be approached with caution and gentleness, using only the minimum amount of force needed to achieve tasks. Overexertion requires corrections and can be identified within the system as shaking. In disaster situations rubble and debris may also move when walked upon. Motion planning will need to navigate uncertain environments and avoid potential motor stalls and falls by taking the safest understood route, unless there is no other way to go or it's too dangerous and should stop. Collisions with other people, stairs and moving vehicles must be also factored in but I think finding the minimum energy required will naturally solve this because walking into a bus going 50 kph is gonna be a lot of energy to overcome.
+
+
+
 I wish I had some experience with 3D programming. If someone could put together a simple mechanical simulation or find one, I could rig up some AI to first master using its limbs and then optimize it to walk towards a goal with minimum energy. It would help us study how limb weight, weight distribution, joint placement, actuator power and range of motion will affect gait and we can come up with better designs that can balance more like a human being or something else entirely that's beautiful and practical in its own way.
 
 # 9
@@ -78,9 +85,12 @@ would this one do?
 >>1602
 
 # 10
->>1610
-Not sure, I'm on Linux and would have to see if it can run in Octave. I do most of my AI in PyTorch and it seems Octave has a Python interface.
-
+>>1610
+
+Not sure, I'm on Linux and would have to see if it can run in Octave. I do most of my AI in PyTorch and it seems Octave has a Python interface.
+
+
+
 I think this will be helpful but I was thinking more of a simulation where weights can be attached to body parts for more realistic torque calculations. That way we can test, design and evolve parts to be more functional in the real world.
 
 # 11
@@ -129,10 +139,14 @@ end
 >gui_mainfcn() *
 
 # 16
-There's a simple but inelegant short term solution; add an extra limb with omnidirectional wheels to the bipedal robot. It can be an armature that's detachable at the hip with the wheels behind the body. Or it can retract by folding inside the lower or upper legs depending on the kinematics.
-
-This would allow for decent mobility at a slightly faster than shuffling pace as 3 points of contact on the ground at all times creates static rather than dynamic locomotion. It also lets you add a lot more weight to the robot without worrying about stability.
-
+There's a simple but inelegant short term solution; add an extra limb with omnidirectional wheels to the bipedal robot. It can be an armature that's detachable at the hip with the wheels behind the body. Or it can retract by folding inside the lower or upper legs depending on the kinematics.
+
+
+
+This would allow for decent mobility at a slightly faster than shuffling pace as 3 points of contact on the ground at all times creates static rather than dynamic locomotion. It also lets you add a lot more weight to the robot without worrying about stability.
+
+
+
 This is the only robot I've seen that tries a hybrid folding limb approach and is pretty innovative. As for a simple mechanical simulation program I'm also trying to find something that does this. playdynamo.itch.io/dynamo looked promising but it performs terribly in Wine and keeps trying to connect to the internet when blocked. I might give FreeCAD or Blender another try but both of those are very time consuming to get used to.
 
 # 17
@@ -146,13 +160,17 @@ Still, good ideas anon keep them coming.
 BTW, I think the Pepper robot uses a tri-wheel scheme for it's base?
 
 # 19
->>1618
-I see my approach more as an assisted form of bipedalism building up to the real thing. This quick sketch might give a better idea of what I'm talking about. It would still have the appearance of walking so it's not comparable to sitting in a wheelchair or being carted around vertically on a hand truck.
-
+>>1618
+
+I see my approach more as an assisted form of bipedalism building up to the real thing. This quick sketch might give a better idea of what I'm talking about. It would still have the appearance of walking so it's not comparable to sitting in a wheelchair or being carted around vertically on a hand truck.
+
+
+
 By using two mechanum wheels you get to spin around by running each wheel in opposite directions. Omnidirectional wheels have their own advantages and disadvantages.
 
 # 20
->>237
+>>237
+
 70.000 USD for a fucking prosthetic leg, jfc.
 
 # 21
@@ -163,9 +181,12 @@ I see. Yes that diagram does make it clear. In effect, you are providing her wit
 Ever price even the most basic of medical supplies in a hospital context anon? No surprises tbh.
 
 # 22
->>1624
->Ever price even the most basic of medical supplies in a hospital context anon? No surprises tbh.
-
+>>1624
+
+>Ever price even the most basic of medical supplies in a hospital context anon? No surprises tbh.
+
+
+
 Yep, but 70k is still a lot for a device that's not even worth a fraction of the price in materials or manufacturing. I mean what's to be expected when every megalomaniac cocksucker and their granny is allowed to milk people's health for all it's worth and call it a day.
 
 # 23
@@ -173,11 +194,16 @@ Yep, but 70k is still a lot for a device that's not even worth a fraction of the
 Look I'm not promoting their (((approach))) I'm simply encouraging you to be realistic. Let's continue this off-topic discussion in the Lounge if you'd like.
 
 # 24
->>1621
-Looking into humanoid bipedal robots that have a single wheel on its feet this EMIEW2 is the closest one. Other robots typically have several wheels per foot(Zephyr) have the wheel as part of a normal robot foot to add wheeled locomotion(GoRoBot) or more than a pair of legs. The other decent design is the WL-16 leg platform using WS-2 feet but that has a caster alongside a powered wheel.
-
-I've gone through at least 50 research papers on robot walking methods(and have another 50 to go through) and have seen some interesting designs and solutions but none of them use the approach I'm proposing where the wheel is only used to shift the center of gravity during the stride while keeping the robot stable with 3 points of contact on the ground at all times.
-
+>>1621
+
+Looking into humanoid bipedal robots that have a single wheel on its feet this EMIEW2 is the closest one. Other robots typically have several wheels per foot(Zephyr) have the wheel as part of a normal robot foot to add wheeled locomotion(GoRoBot) or more than a pair of legs. The other decent design is the WL-16 leg platform using WS-2 feet but that has a caster alongside a powered wheel.
+
+
+
+I've gone through at least 50 research papers on robot walking methods(and have another 50 to go through) and have seen some interesting designs and solutions but none of them use the approach I'm proposing where the wheel is only used to shift the center of gravity during the stride while keeping the robot stable with 3 points of contact on the ground at all times.
+
+
+
 One thing that hit me when browsing another forum are those minisegways cost less than $200 now. Rather than trying to do bipedal locomotion I'm going to have my first model balance properly on top of that until a cheap solution is found.
 
 # 25
@@ -195,13 +221,20 @@ Yep, we've had this conversation before now. The posts haven't been restored her
 Why is that robot in the middle wearing a diaper?
 
 # 28
->>1777
-Eh most of them aren't worth reading otherwise I'd have uploaded a pack of them here. These two are probably the best I've found on the topic for a general overview.
-
->>1778
-The segway mini isn't really a hoverboard since you use your knees rather than your feet to control it. The center of gravity is much lower to the ground and there's no having to keep the robot upright on it.
-
->>1794
+>>1777
+
+Eh most of them aren't worth reading otherwise I'd have uploaded a pack of them here. These two are probably the best I've found on the topic for a general overview.
+
+
+
+>>1778
+
+The segway mini isn't really a hoverboard since you use your knees rather than your feet to control it. The center of gravity is much lower to the ground and there's no having to keep the robot upright on it.
+
+
+
+>>1794
+
 It looks even more like a diaper from the back. The reason for the protrusion around the abdomen is it's designed to sit in the seiza position with giant feet.
 
 # 29
@@ -223,14 +256,22 @@ From these tenets, having any active stabilization beyond the minimum isn't advi
 Roll is a great example of low center of mass with big feet
 
 # 31
->>1873
-I don't think balance is a concern for complexity or power consumption. Returning to balance from outside forces is easily accomplished.
-
-Getting a dynamic gait is the big problem. Maybe we could cheat it with a neural network. Really if you're not just making a sex robot you're going to be using neural networks or something close.
-
-A simple solution for movement is to go completely on rails. Not rails literally but railings countertops and other waist-height edges. The waifu would be restricted to the home but would have plenty of well defined static supports to use and only flat surfaces to traverse.
-She'd just never cross a wide open room or maybe you could throw a pool table in the middle of it.
-
+>>1873
+
+I don't think balance is a concern for complexity or power consumption. Returning to balance from outside forces is easily accomplished.
+
+
+
+Getting a dynamic gait is the big problem. Maybe we could cheat it with a neural network. Really if you're not just making a sex robot you're going to be using neural networks or something close.
+
+
+
+A simple solution for movement is to go completely on rails. Not rails literally but railings countertops and other waist-height edges. The waifu would be restricted to the home but would have plenty of well defined static supports to use and only flat surfaces to traverse.
+
+She'd just never cross a wide open room or maybe you could throw a pool table in the middle of it.
+
+
+
 Some Anon have entertained the idea of using a tether for power and could equip their home with a literal overhead rail system that would be far more discrete than the other stabilization ideas mentioned.
 
 # 32
@@ -359,16 +400,26 @@ Walking? Meh! Balance bot wheels for feet. "Rollergirl never takes off her skate
 you must into pix plox
 
 # 54
->>5635
-Some things I have been looking at:
-#1 Hovershoes. Off the shelf solution for locomotion with many open DIY solutions available.
-
-Balance control becomes an issue for weight above hip line. Might suggest thinking about internal gyroscopic stabilization. Give it its own gravity well it its chest. #2 the Cubli robot uses 2 motorized disks to spin up manipulating balance.
-
-Legs can act as dynamic shocks instead of primary locomotion and balance. Air muscles are viable for this job since the legs need to loosely hold positions instead of supplying quick motion.
-
-What used to be a complex circuit for understanding balance and motor control can be done with an opensource RC flight controller with tweaked PIDs.   
-
+>>5635
+
+Some things I have been looking at:
+
+#1 Hovershoes. Off the shelf solution for locomotion with many open DIY solutions available.
+
+
+
+Balance control becomes an issue for weight above hip line. Might suggest thinking about internal gyroscopic stabilization. Give it its own gravity well it its chest. #2 the Cubli robot uses 2 motorized disks to spin up manipulating balance.
+
+
+
+Legs can act as dynamic shocks instead of primary locomotion and balance. Air muscles are viable for this job since the legs need to loosely hold positions instead of supplying quick motion.
+
+
+
+What used to be a complex circuit for understanding balance and motor control can be done with an opensource RC flight controller with tweaked PIDs.   
+
+
+
 $.02
 
 # 55
@@ -412,7 +463,8 @@ here we have an interesting mechanism https://www.youtube.com/watch?v=uv-Qp8p8Jq
 That is interesting thanks. Is there a paper or anything more available on it Anon?
 
 # 62
->>5931
+>>5931
+
 nah this was random video in my youtube feed. I am wondering if this mechanism will be enough to achieve balance
 
 # 63
@@ -422,9 +474,12 @@ Here's his channel, seems like he's done a few of these. Amateur designer?
 https://www.youtube.com/channel/UC7hw6ztc_mnFh630R0MS5uQ
 
 # 64
->>5936
-https://www.youtube.com/watch?v=vlBgMg9WFfA
-men god.
+>>5936
+
+https://www.youtube.com/watch?v=vlBgMg9WFfA
+
+men god.
+
 Luckily  my family is heavy into machinery and maybe I will be able to build this. only the mechanism not the propulsion
 
 # 65
@@ -682,16 +737,21 @@ Will do anon, thanks for link.
 how soon we will have a bipedal robot that can imitate humans
 
 # 99
->>13439
+>>13439
+
 when the geniuses stop focusing on just the legs and finally figure out you cant have bipedal motion without fucking ears and start using gyroscopes
 
 # 100
->>13447
+>>13447
+
 How would you implement them?
 
 # 101
->>13451
-same way the human body does
-a feedback loop making continuous micro adjustments
+>>13451
+
+same way the human body does
+
+a feedback loop making continuous micro adjustments
+
 autopilots already do this with stabilizers, but thats easy for something with a plane perpendicular to gravity, parallel planes are in a league of their so dont bother until synthetic musclefibers become a thing
 

@@ -301,10 +301,14 @@ Also, find a different way to communicate out-of-band than D*xxcord please.
 Had no socials linked and name was impossible to google, thank you for looking out for my safety though. And i'll make sure to include a different means of communication next time.
 
 # 63
->>6330
->>6332
->>6343
->>6346
+>>6330
+
+>>6332
+
+>>6343
+
+>>6346
+
 This sounds like it could make for a good/productive off-topic conversation I started here: >>6345
 
 # 64

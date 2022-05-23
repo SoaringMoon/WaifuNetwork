@@ -23,8 +23,10 @@ What book would you recommend for someone who has had some previous programming 
 Tour++
 
 # 4
->>4915
->>4916
+>>4915
+
+>>4916
+
 seconding this, I'd really like to learn C++ as well.
 
 # 5
@@ -64,16 +66,26 @@ Since it's an officially-recognized international standard, ISO C++ isn't ''defi
 If anyone wants instructions on creating your own up-to-the-minute copy of the document, just ask ITT.
 
 # 10
-I'm brand new to trying to learn C++. Like only a couple days in. A total baby when it comes to programming. Before this the most I've done is follow a tutorial to tweak a python script to get a Minecraft server going. 
-
-I've been slowly going through this video to get the basics down. Any newbie like be shouldn't be afraid to learn at their own pace!
-
-https://youtu.be/vLnPwxZdW4Y
-
-This guy's simple examples and reiteration of concepts leading into other concepts helps the logic of C++ make sense. The development program he uses and recommends, Code::Blocks, is very helpful in the process of getting something to run. I'll link it here:
-
-http://www.codeblocks.org/
-
+I'm brand new to trying to learn C++. Like only a couple days in. A total baby when it comes to programming. Before this the most I've done is follow a tutorial to tweak a python script to get a Minecraft server going. 
+
+
+
+I've been slowly going through this video to get the basics down. Any newbie like be shouldn't be afraid to learn at their own pace!
+
+
+
+https://youtu.be/vLnPwxZdW4Y
+
+
+
+This guy's simple examples and reiteration of concepts leading into other concepts helps the logic of C++ make sense. The development program he uses and recommends, Code::Blocks, is very helpful in the process of getting something to run. I'll link it here:
+
+
+
+http://www.codeblocks.org/
+
+
+
 I've gotten about an hour into the material and I'm making up my own little projects to help me understand each subject and the little ins-and-outs of C++. I've toyed around with variables to simulate a Pokémon battle and I'm messing around with user input prompts to customize a fake conversation. I know this is baby town for C++ and it's already super fascinating!
 
 # 11
@@ -105,11 +117,13 @@ This will not really be a beginner's class therefore. I'd suggest the cplusplus.
 http://cplusplus.com/doc/tutorial/
 
 # 15
->>5085
+>>5085
+
 I apologize for not responding. I feel like an ass because you've taken time out of your busy schedule to offer all of us FREE C++ training. since i am the only one who seems to be responding, i am requesting we do the 2nd one. I am the anon who said that i have some experience in HTML, Javascript, and CSS.
 
 # 16
->>5143
+>>5143
+
 Also two more things, Could Visual basic be used to code robowaifus or is it only exclusively used for web design and how much has C++ changed in the last 20 years? The last time my dad coded in C++ was around 20 years ago, mostly because he was a web designer and didn't really play around with C++.
 
 # 17
@@ -232,7 +246,8 @@ So actually, this is both the most important function in one sense, and the 4-pa
 # 25
 >>5422
 -Choose ''Edit > Undo'' 3 times to get the original hello world code back.
--Between the ''#include <iostream>'' and ''int main() {'' add this code:
+
+Between the ```"#include <iostream>"``` and ```''int main() {''``` add this code:
 ```cpp
 void baz() {
   std::cout << "baz()\n";
@@ -244,7 +259,8 @@ void bar() {
 
 void foo() {
   std::cout << "foo()\n";
-}```
+}
+```
 
 -Below the ''  std::cout << "Hello World!\n";'' inside main() add this code:
 ```cpp
@@ -348,19 +364,32 @@ And, since they are simplistic numbers, ints should also support the basic arith
 How does this work, practically speaking?
 
 # 31
->>5347
-I hope this isn't too old, I just dusted off an Rpi 3B+ which I haven't touched in almost 2 years, was too lazy to update everything so just did the dependencies.  I figured at some point I will want to reinstall a fresh image anyway but in the meantime I'm following along fine.
-
-pi@raspberrypi:~ $ g++ --version
-g++ (Raspbian 6.3.0-18+rpi1+deb9u1) 6.3.0 20170516
-Copyright (C) 2016 Free Software Foundation, Inc.
-This is free software; see the source for copying conditions.  There is NO
-warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-pi@raspberrypi:~ $ clang++ --version
-clang version 6.0.1-10+rpi1~bpo9~rpt1 (tags/RELEASE_601/final)
-Target: armv6-unknown-linux-gnueabihf
-Thread model: posix
+>>5347
+
+I hope this isn't too old, I just dusted off an Rpi 3B+ which I haven't touched in almost 2 years, was too lazy to update everything so just did the dependencies.  I figured at some point I will want to reinstall a fresh image anyway but in the meantime I'm following along fine.
+
+
+
+pi@raspberrypi:~ $ g++ --version
+
+g++ (Raspbian 6.3.0-18+rpi1+deb9u1) 6.3.0 20170516
+
+Copyright (C) 2016 Free Software Foundation, Inc.
+
+This is free software; see the source for copying conditions.  There is NO
+
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+
+pi@raspberrypi:~ $ clang++ --version
+
+clang version 6.0.1-10+rpi1~bpo9~rpt1 (tags/RELEASE_601/final)
+
+Target: armv6-unknown-linux-gnueabihf
+
+Thread model: posix
+
 InstalledDir: /usr/bin
 
 # 32
@@ -383,7 +412,9 @@ We're going to play around with a simplistic mapping of sayings our waifu can sa
 -Copy the two ''amalgamated'' files from the Catch2 local repo into our project directory:
 ```cpp
 cd ~/_prj/waifu_say/
-cp ~/_repo/Catch2/extras/*amalgamated.* .```
+cp ~/_repo/Catch2/extras/*amalgamated.* .
+```
+
 > #2
 
 We'll be using these two files to perform testing on our software. Let's create a new ''test.cpp'' file and #include that new header file first thing.
@@ -668,17 +699,28 @@ executable('test_say', ['test.cpp', 'catch_amalgamated.cpp'])```
 -''fixed operator!=()''
 
 # 41
-Just a random anon here, sharing a tidbit of inner workings of computers. 
-For those who skipped high school, for our purposes any number to the power of 0 is 1. Mathematicians argue over that, but it doesn't matter to us right now.
-An easy way to understand the bit representation of unsigned integers is to know this compact definition, which is rarely peddled around:
-
-Bits are numbered starting from 0, every bit's value is 2 to the power of its number.
-
-
-This also helps with a fun little detail, to have the machine give you the value of a specific bit, you merely have to shift the number 1 left by the bit's number.
->1 << 0;
-Returns 1.
->1 << 8;
+Just a random anon here, sharing a tidbit of inner workings of computers. 
+
+For those who skipped high school, for our purposes any number to the power of 0 is 1. Mathematicians argue over that, but it doesn't matter to us right now.
+
+An easy way to understand the bit representation of unsigned integers is to know this compact definition, which is rarely peddled around:
+
+
+
+Bits are numbered starting from 0, every bit's value is 2 to the power of its number.
+
+
+
+
+
+This also helps with a fun little detail, to have the machine give you the value of a specific bit, you merely have to shift the number 1 left by the bit's number.
+
+>1 << 0;
+
+Returns 1.
+
+>1 << 8;
+
 Returns 256.
 
 # 42
@@ -726,17 +768,23 @@ Create two new files in our project 'Robowaifu.hpp' & 'sayings.hpp', (''File > N
 ```cpp
 #include <cstdint>
 #include <map>
-#include <string>```
+#include <string>
+```
+
 > #1 #2
 
 Since we've moved the sayings std::map off into it's own file, we'll need to include it into the Robowaifu.hpp file so the class itself can find the sayings data.
 ```cpp
-#include "sayings.hpp"```
+#include "sayings.hpp"
+```
+
 > #3
 
 The test file now just contains the test (as we'd like), but we need to add an #include for the new Robowaifu.hpp file so the test can find the new location of the class itself.
 ```cpp
-#include "Robowaifu.hpp"```
+#include "Robowaifu.hpp"
+```
+
 > #4
 
 Now let's switch over to ''main.cpp'', the program itself, and after including the Robowaifu.hpp once again, and instantiating a Robowaifu object, we'll try testing the valid sayings and a couple of invalid ones. Everything seems to be working so far:

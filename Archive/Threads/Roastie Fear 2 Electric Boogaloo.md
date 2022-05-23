@@ -31,8 +31,10 @@ For the time being I'm locking this thread. I may unlock it again after I decide
 You alright? Do you need us to call someone for you OP?
 
 # 3
->>1061
-No u
+>>1061
+
+No u
+
 safe
 
 # 4
@@ -93,21 +95,33 @@ Just let us not get crippled by some fear about our enemies, wasting time on spe
 Btw, some of the thread on 4chan were very telling in regard of how some enemies try to obstruct this. However, that aside this was such a waste of time to read, which is why I wont link to those threads. Some of the surprising FUD was the someone claiming there were patents preventing this. At  least I thought this was FUD, but might be true to some extent for companies regarding patent trolls.
 
 # 13
-I suppose the conversation being relocated makes sense. That means we can talk about this more. I'd like to expand on things a little since its fitting for the theme of this new thread.
-
-The women/feminists don't want to lose their (near)monopoly over male sexual interest. Think about how far men go just to have the CHANCE at being with a beautiful woman. Feminists are always quick to say that they don't need men but men actually invest a lot into the women they love. There are guys who financially support their girlfriends/wives through college. There are guys that financially support their sugarbabies from poorer countries. There are guys that support the lifestyles of their girlfriends that just make less than them. These are just a few of the direct ways men support women. That's not even mentioning the indirect ways such as the welfare state.  
-
-I don't think the feminists are open-minded enough to articulate these things. I think they just notice the potential competition and are trying to shut it down before it begins. Imagine what will happen if you took just a portion of the overall resources men provide to women and put it towards robowaifus. It'd be amazing! I think robowaifu development would explode. More investment in the field would allow for better robowaifus, and better robowaifus would encourage more investment. Groups like Campaign Against Sex Robots don't have many members now, but as robot companions become serious competitors with human women then there will be a massive shift. They will join groups like that in droves.
-
->>5010
-I think they probably understand they'll never be able to ban motors/3D printers since they have other uses. It would be a bad hill for them to die on. I think what they'll do is 1. Try to shame men for purchasing/developing robowaifus and 2. Get the government involved in robowaifu market transactions. They'll probably try to get the government to ban robot companions having a sexuality outright. They'll claim it corrupts men and harms children or something. The problem is that the government might actually hear them out because women make up a huge percentage of active voters.
-
+I suppose the conversation being relocated makes sense. That means we can talk about this more. I'd like to expand on things a little since its fitting for the theme of this new thread.
+
+
+
+The women/feminists don't want to lose their (near)monopoly over male sexual interest. Think about how far men go just to have the CHANCE at being with a beautiful woman. Feminists are always quick to say that they don't need men but men actually invest a lot into the women they love. There are guys who financially support their girlfriends/wives through college. There are guys that financially support their sugarbabies from poorer countries. There are guys that support the lifestyles of their girlfriends that just make less than them. These are just a few of the direct ways men support women. That's not even mentioning the indirect ways such as the welfare state.  
+
+
+
+I don't think the feminists are open-minded enough to articulate these things. I think they just notice the potential competition and are trying to shut it down before it begins. Imagine what will happen if you took just a portion of the overall resources men provide to women and put it towards robowaifus. It'd be amazing! I think robowaifu development would explode. More investment in the field would allow for better robowaifus, and better robowaifus would encourage more investment. Groups like Campaign Against Sex Robots don't have many members now, but as robot companions become serious competitors with human women then there will be a massive shift. They will join groups like that in droves.
+
+
+
+>>5010
+
+I think they probably understand they'll never be able to ban motors/3D printers since they have other uses. It would be a bad hill for them to die on. I think what they'll do is 1. Try to shame men for purchasing/developing robowaifus and 2. Get the government involved in robowaifu market transactions. They'll probably try to get the government to ban robot companions having a sexuality outright. They'll claim it corrupts men and harms children or something. The problem is that the government might actually hear them out because women make up a huge percentage of active voters.
+
+
+
 When robot companion tech becomes that advanced this is going to be a huge battle of public perception. What do you guys think?
 
 # 14
->>5013
-Yes, I think we're thinking on the same wavelength for the most part. The only thing I will question is the incel part. I'm not sure the government really cares about the incel thing altogether. It seems like politicians and the media try to take advantage of the lone-shooter situations more than provide an actual solution. That could just be me being pessimistic though. I get the feeling that the government couldn't care less about incels or lonely males in general. Its a powder keg waiting to explode. 
-
+>>5013
+
+Yes, I think we're thinking on the same wavelength for the most part. The only thing I will question is the incel part. I'm not sure the government really cares about the incel thing altogether. It seems like politicians and the media try to take advantage of the lone-shooter situations more than provide an actual solution. That could just be me being pessimistic though. I get the feeling that the government couldn't care less about incels or lonely males in general. Its a powder keg waiting to explode. 
+
+
+
 Also, one thing I want to note that might actually get the government to support robowaifu companions is the potential for military applications. They probably won't use the same models of course, but the development of humanoid companion robots could make humanoid combat robots more realistic in the future. There are a lot of tech barriers to overcome of course, but this could be one thing we have in our favour. I could see old politicians wanting to blindly ban or "Regulate" robowaifus based on their own biases, but when military tech development is on the line they might be more hesitant.
 
 # 15
@@ -120,19 +134,29 @@ Its afraid.
 This would only create more attention, without any success. Doing this would be against the culture of sexual freedom and threaten all progress there, in US maybe also against freem protecting rights. Also, how would this be enforced? Police checking out humanoid robots under their clothes? Also, the risks would be imense. Imaging getting your Waifu seized by police...
 
 # 17
->>5020
+>>5020
+
 Yeah, banning robot sexuality would mean that there'd be a massive black market for "upgrade kits" and it would also kinda fly in the face of the fact that people nowadays are allowed to identify as transgender, homosexual, bisexual etc. I can see the problem with making children robots (too similar to pedophilia), but my guess is that will be policed in a similar way to how it is now. Also smaller robots will likely be even more expensive due to the difficulty in producing really miniaturized parts. Hopefully we can eventually manufacture robowaifus that are so beautiful and useful that even senators want one. Eventually who knows? Maybe one day the White House will get a very pretty and intelligent receptionist with in-built radio comms and CCTV?  :D
 
 # 18
->>5020
-I was actually thinking of them trying to banning it at the manufacturer/retail level. But you're right, that would be impossible to enforce when the robots are out in the wild. Like >>5028 said, it would cause a signifcant black market. You both raised good points. I still think they'll do whatever they can to force the market underground into these black markets.
-
-Did you hear about that sex doll brothel that was set to open in Texas a while back? They managed to get that one banned before it ever opened.  
-https://www.change.org/p/elijah-rising-keep-robot-brothels-out-of-houston
-https://www.thedailybeast.com/houston-lawmakers-aim-to-block-first-us-sex-robot-brothel
-
-This case is different since those are dolls rather than robots and owned by a business rather than individuals.  My point is that women won't just lie down and accept beautiful robot companions. Our society(here in the US) is increasingly gynocentric and we can't ignore that. They always try to claim that robots/dolls objectifies women somehow, which is silly. If anything, it womanizes an object. 
-
+>>5020
+
+I was actually thinking of them trying to banning it at the manufacturer/retail level. But you're right, that would be impossible to enforce when the robots are out in the wild. Like >>5028 said, it would cause a signifcant black market. You both raised good points. I still think they'll do whatever they can to force the market underground into these black markets.
+
+
+
+Did you hear about that sex doll brothel that was set to open in Texas a while back? They managed to get that one banned before it ever opened.  
+
+https://www.change.org/p/elijah-rising-keep-robot-brothels-out-of-houston
+
+https://www.thedailybeast.com/houston-lawmakers-aim-to-block-first-us-sex-robot-brothel
+
+
+
+This case is different since those are dolls rather than robots and owned by a business rather than individuals.  My point is that women won't just lie down and accept beautiful robot companions. Our society(here in the US) is increasingly gynocentric and we can't ignore that. They always try to claim that robots/dolls objectifies women somehow, which is silly. If anything, it womanizes an object. 
+
+
+
 If you've got some time the comments on that petition are interesting, in a way. It's eye opening to see what the opposition thinks. It seems they always use "Objectification", "Think of the children!", and "Muh morals!". It's kind of funny that women are talking about morals on that page while being totally degenerate elsewhere.
 
 # 19
@@ -203,17 +227,28 @@ There are powerful spiritual and natural forces arrayed to destroy the lives of 
 Ultimately, only God can sort all this out in the end. Let us commit our works to Him, and do our best with the time we are given.
 
 # 22
->>5014
-Not only the feminists, but whole industries are able to exist solely by making men spend/waste their money on women.
-The push back comes more from people who work for those industries than the feminists, since robowaifus is a permanent game changer that will bankrupt most (if not all) of those industries.
-A man that spends his resources on a robowaifu won't waste his money on jewels for women, won't waste his money going to cinema, won't waste his money on establishments aimed at finding women, won't waste his money on overpriced clothing, cars, estaurants and houses just to impress women.
-All his resources will be used for himself, including his robowaifu, and that is what scares society most. Whole segments of the economy will crash, following the awakening (already happening with MGTOW) proportioned by the availability of robowaifus. And that is without even taking into account the availability of artificial wombs. Men will not provide for children that are not his anymore. Men will also not provide for women and their parasitic behavior, leaving them to fend for themselves, and thus, crashing even more segments of the economy.
-Basically, is the "learn to code" equivalent, but for robots. The only industries that will thrive are the ones that provide advancements and development of robowaifus, and those who provide basic needs (reasonably priced food, clothes, housing, and such) for men.
-Every other industry that survives on overpriced garbage for impressing women will cease to exist almost overnight, once robowaifus become the new normal.
->What do you guys think?
-That said, as with every major invention from men, it will be normalized by sheer the force of convenience. The more the expendables push against it, the more their desperation will show, and the more the convenience of the invention will be highlighted, to the point that even the formerly uninterested men start noticing the advantages of robowaifus and artificial wombs. From that point on, their normalization will be unstoppable.
-
->>5019
+>>5014
+
+Not only the feminists, but whole industries are able to exist solely by making men spend/waste their money on women.
+
+The push back comes more from people who work for those industries than the feminists, since robowaifus is a permanent game changer that will bankrupt most (if not all) of those industries.
+
+A man that spends his resources on a robowaifu won't waste his money on jewels for women, won't waste his money going to cinema, won't waste his money on establishments aimed at finding women, won't waste his money on overpriced clothing, cars, estaurants and houses just to impress women.
+
+All his resources will be used for himself, including his robowaifu, and that is what scares society most. Whole segments of the economy will crash, following the awakening (already happening with MGTOW) proportioned by the availability of robowaifus. And that is without even taking into account the availability of artificial wombs. Men will not provide for children that are not his anymore. Men will also not provide for women and their parasitic behavior, leaving them to fend for themselves, and thus, crashing even more segments of the economy.
+
+Basically, is the "learn to code" equivalent, but for robots. The only industries that will thrive are the ones that provide advancements and development of robowaifus, and those who provide basic needs (reasonably priced food, clothes, housing, and such) for men.
+
+Every other industry that survives on overpriced garbage for impressing women will cease to exist almost overnight, once robowaifus become the new normal.
+
+>What do you guys think?
+
+That said, as with every major invention from men, it will be normalized by sheer the force of convenience. The more the expendables push against it, the more their desperation will show, and the more the convenience of the invention will be highlighted, to the point that even the formerly uninterested men start noticing the advantages of robowaifus and artificial wombs. From that point on, their normalization will be unstoppable.
+
+
+
+>>5019
+
 This.
 
 # 23
@@ -292,12 +327,18 @@ Yeah, feminists are famous for valuing practicality. XD
 They will gladly shoot their own assets in the back of the head if it means hurting men. I really don't see the point in consideration of a party that considers itself to be at war with you.
 
 # 30
->>1061
-Not too relevant, but something that i found funny. It illustrates the growing desperation of modern women.
-This female shitskin exposes herself and the true feminine nature regarding jealousy.
-Notice how, like every negative traits, women are now trying to normalize jealousy, in a desperation attempt at diverting responsibility and guilt away from themselves.
-That is what simps also do: they want to blame men for the mistakes that women commit and for the negative traits in women nature.
-
+>>1061
+
+Not too relevant, but something that i found funny. It illustrates the growing desperation of modern women.
+
+This female shitskin exposes herself and the true feminine nature regarding jealousy.
+
+Notice how, like every negative traits, women are now trying to normalize jealousy, in a desperation attempt at diverting responsibility and guilt away from themselves.
+
+That is what simps also do: they want to blame men for the mistakes that women commit and for the negative traits in women nature.
+
+
+
 https://archive.is/VIx66
 
 # 31
@@ -341,32 +382,58 @@ That they do
 They are paid models, obviously.
 
 # 37
->>5795
->Appearance-Based
-And that is a good thing. Women are imperfect. therefore, men will create perfect women, artificially.
-It is the same principle of creating a tool to facilitate a task, and improving the tool to make thing even easier and more enjoyable.
->Uncanny Valley
-Wrong. DESIRABLE valley. A lot of us want that. Therefore, it will exist, no matter how many try to prevent it's existence.
->a General Fear of a “Technology Takeover”
-Fear coming only from women and from simps, who seek validation from women. For the rest of us, we welcome it with open arms and sincere happiness for everything that will be made possible with robowaifus.
->Unabashed Sexualization of Female-Gendered Robots
-Sex. Not gender. As for sexualization, that is the main point of desirability. Women are losing their sex appeal. And even the sexiest ones are imperfect. Men will now replace them with perfect sexy objects that won't come with the emotional baggage of bullshit that women have.
->fearful roasties
-That sums up everything. They fear their replacement. And this outcome is their own fault, and nobody else's. Women should have stayed bellow men. They thought that they could surpass men. Now, men will replace women with better tools that can be created, copied and distributed at will, without women's input.
-
->>5797
->muh norms
->my ethics
-To hell with norms, ethics or legality. If institutions try to stop robowaifus, go  underground. Either they accept it without hindering anything, or everyone will simply create a black market.
-Men's desires are unstoppable.
->females’ self-confidence
-Not important. women had their chance. And they failed (as they always do). Now they will be replaced.
->respect
-Not important. Women deserve no respect.
->represent their needs
-Not important. Only men's needs matters.
->societal standing
-The single thing that women care about. And robowaifus will take that away from them too.
+>>5795
+
+>Appearance-Based
+
+And that is a good thing. Women are imperfect. therefore, men will create perfect women, artificially.
+
+It is the same principle of creating a tool to facilitate a task, and improving the tool to make thing even easier and more enjoyable.
+
+>Uncanny Valley
+
+Wrong. DESIRABLE valley. A lot of us want that. Therefore, it will exist, no matter how many try to prevent it's existence.
+
+>a General Fear of a “Technology Takeover”
+
+Fear coming only from women and from simps, who seek validation from women. For the rest of us, we welcome it with open arms and sincere happiness for everything that will be made possible with robowaifus.
+
+>Unabashed Sexualization of Female-Gendered Robots
+
+Sex. Not gender. As for sexualization, that is the main point of desirability. Women are losing their sex appeal. And even the sexiest ones are imperfect. Men will now replace them with perfect sexy objects that won't come with the emotional baggage of bullshit that women have.
+
+>fearful roasties
+
+That sums up everything. They fear their replacement. And this outcome is their own fault, and nobody else's. Women should have stayed bellow men. They thought that they could surpass men. Now, men will replace women with better tools that can be created, copied and distributed at will, without women's input.
+
+
+
+>>5797
+
+>muh norms
+
+>my ethics
+
+To hell with norms, ethics or legality. If institutions try to stop robowaifus, go  underground. Either they accept it without hindering anything, or everyone will simply create a black market.
+
+Men's desires are unstoppable.
+
+>females’ self-confidence
+
+Not important. women had their chance. And they failed (as they always do). Now they will be replaced.
+
+>respect
+
+Not important. Women deserve no respect.
+
+>represent their needs
+
+Not important. Only men's needs matters.
+
+>societal standing
+
+The single thing that women care about. And robowaifus will take that away from them too.
+
 Women dig their own societal graves. They deserve nothing but abandonment and total replacement.
 
 # 38
@@ -374,22 +441,35 @@ Women dig their own societal graves. They deserve nothing but abandonment and to
 At the very least, all non-simps would welcome robowaifus upsetting certain interest's apple cart and restoring the male-female relationship to it's intended, healthy norm.
 
 # 39
->>5855
->upsetting certain interest's apple
-That is the key point.
-They must never be allowed to push their agendas against us. We must push relentlessly onward without giving any inch to them.
-Any natural outcome will come naturally. Anything else is a detriment that must be disposed off.
-That mindset serves to keep focused on what is necessary, and to never waste time trying to explain ourselves to the mainstream and never waste time appeasing those who are threatened by robowaifus.
-Robowaifus must be made to stay, and to be available to all. They will, in time, be desirable for all who matter, leaving the useless desperately trying to shutdown everything. That is when we must push even faster and stronger, to conquer our place and to set it permanently in society.
-Any consequences of that, good or bad, are irrelevant.
+>>5855
+
+>upsetting certain interest's apple
+
+That is the key point.
+
+They must never be allowed to push their agendas against us. We must push relentlessly onward without giving any inch to them.
+
+Any natural outcome will come naturally. Anything else is a detriment that must be disposed off.
+
+That mindset serves to keep focused on what is necessary, and to never waste time trying to explain ourselves to the mainstream and never waste time appeasing those who are threatened by robowaifus.
+
+Robowaifus must be made to stay, and to be available to all. They will, in time, be desirable for all who matter, leaving the useless desperately trying to shutdown everything. That is when we must push even faster and stronger, to conquer our place and to set it permanently in society.
+
+Any consequences of that, good or bad, are irrelevant.
+
 Conquer and establish our place first. Anything else is secondary to that.
 
 # 40
->>5855
->>5795
-Just to illustrate again what we are getting rid of when we replace meatbags with robowaifus, look into this archived tweet.
-This is not a single example. The whole mindset of all meatbags are like this. Another of the many reasons why they must be replaced.
-
+>>5855
+
+>>5795
+
+Just to illustrate again what we are getting rid of when we replace meatbags with robowaifus, look into this archived tweet.
+
+This is not a single example. The whole mindset of all meatbags are like this. Another of the many reasons why they must be replaced.
+
+
+
 https://archive.is/ZKjZM
 
 # 41
@@ -397,7 +477,8 @@ https://archive.is/ZKjZM
 ''archive.today'' sites are all behind the Great Cuckflarewall, and therefore unavailable to me. Can you post a (non-active) link to the twatter and I can search for it on Wayback.
 
 # 42
->>5897
+>>5897
+
 I don't have the original link, but I have it printed.
 
 # 43
@@ -466,11 +547,16 @@ What could possibly go wrong with their carefully-laid schemes /robowaifu/?
 ==No fun for you!==
 
 # 50
->>6110
-Even more reason to push for anarchy, regarding robowaifus. Either that, or going for a black market approach.
-Legality be damned, anon. Women are trying to control everything. We must push for the replacement of women. And if that means going against the state, so be it. The state that doesn't serve men's interests only is a useless state.
-
->>6234
+>>6110
+
+Even more reason to push for anarchy, regarding robowaifus. Either that, or going for a black market approach.
+
+Legality be damned, anon. Women are trying to control everything. We must push for the replacement of women. And if that means going against the state, so be it. The state that doesn't serve men's interests only is a useless state.
+
+
+
+>>6234
+
 Women are incapable of rationality. They only act on impulse. Their instinct tells them that their replacement is coming, so they are desperately calling simps to fight against that replacement for them.
 
 # 51
@@ -479,8 +565,10 @@ Women are incapable of rationality. They only act on impulse. Their instinct tel
 < feminists are the paragon of compassion and care?
 
 # 52
->>6246
->feminist-inspired
+>>6246
+
+>feminist-inspired
+
 Robowaifus are inherently anti-feminist. One of the main goals of creating and mass producing robowaifus is to completely eradicate any form of power or influence that feminism may still have.
 
 # 53
@@ -495,14 +583,22 @@ However, when robowaifus with their truthful AIs come onto the scene in a big wa
 Heh, at least that's the lofty goal for my part. Hey, a man can dream can't he? :^)
 
 # 54
->>6278
->They've been fed this stream of lies and brainwashing
-The way I see it, it is not lies and brainwashing, but instead, women are showing their true nature, while they think that they can go unpunished by the (temporary) control that feminists and jews have in our society.
-It is more the case of letting women be their true selves (i.e, evil by their very nature) and lying about no have CONSEQUENCES from doing so. That is the key point.
-Women aren't behaving because of some brainwashing. Women are simply being themselves. And their nature is evil. The 'lie" that feminists and jews pushed for women is that they would never face consequences for their actions. Now that they are facing them, they are even more hateful and scared than ever.
-And that is another reason to push onwards with mass produced robowaifus for all tastes. The hate and fear of women won't ever allow for them to go back to pretending to not be evil, as they did in the past. And their true nature is already exposed for all to see.
-There is only one course of action for men, and that is to never stop until women are incapable of preventing their replacement.
->women who are still half-sane
+>>6278
+
+>They've been fed this stream of lies and brainwashing
+
+The way I see it, it is not lies and brainwashing, but instead, women are showing their true nature, while they think that they can go unpunished by the (temporary) control that feminists and jews have in our society.
+
+It is more the case of letting women be their true selves (i.e, evil by their very nature) and lying about no have CONSEQUENCES from doing so. That is the key point.
+
+Women aren't behaving because of some brainwashing. Women are simply being themselves. And their nature is evil. The 'lie" that feminists and jews pushed for women is that they would never face consequences for their actions. Now that they are facing them, they are even more hateful and scared than ever.
+
+And that is another reason to push onwards with mass produced robowaifus for all tastes. The hate and fear of women won't ever allow for them to go back to pretending to not be evil, as they did in the past. And their true nature is already exposed for all to see.
+
+There is only one course of action for men, and that is to never stop until women are incapable of preventing their replacement.
+
+>women who are still half-sane
+
 Biologically, that is impossible. Sanity comes from reason. And all women are irrational. Literally animals. They were (rightfully) treated as pets, when society was sane, in the past. Because our ancestors knew that you should never give your pets the rights to make decisions for society.
 
 # 55
@@ -519,14 +615,22 @@ It's a wonderful goal and worthy of our pursuit. Men who can be satisfied with r
 Of course we already know the response of feminists and their handlers, so there's little need to even discuss them in this future context.
 
 # 56
->>6282
-I'm not the person you responded to, but I want to say that I agree with him. Your stance seems a little too idealistic in regards to true female nature. The traditionally 'womanly' virtues and feminine traits aren't an in-built feature of women. These things were more or less forced onto them by societies of the past, aka big bad 'patriarchy'. While I believe motherly traits such as loving their children is part of their built-in nature, most of the other things we prescribe to idealistic females are just as artificial as our robowaifus, if not more so since the original female's 'programming' has to be overwritten. It isn't as on-or-off as some being bad, some being good.
-
-It seems horrible to say it so honestly, but a lot of what men envision women as is a complete fantasy. We men tend to overlay our idealistic female delusions over the actual article. The idea of a naturally virtuous and loving woman is so deep and pervasive that waking up from the dream of female behavior is like taking a red pill and finally being let out of the matrix. Feminism didn't change women in the sense that it was brainwashing them to act out-of-order. Feminism made it socially acceptable for women to be who they always were at their core. Don't fall into the line of thinking that only some of them are like this. They are ALL like this, given the proper circumstances and social climate. The only time they don't revert to their nature is when it isn't immediately beneficial to do so. Sometimes they have to play the role of a chameleon. However when time comes, like in a divorce or family court, they will show their true nature.
-
-That's why I believe that robots are the future. Women are no longer willing to be molded by male/society needs. Robots, with some serious work, are perfectly capable of fitting the bill. 
-
->>6283 
+>>6282
+
+I'm not the person you responded to, but I want to say that I agree with him. Your stance seems a little too idealistic in regards to true female nature. The traditionally 'womanly' virtues and feminine traits aren't an in-built feature of women. These things were more or less forced onto them by societies of the past, aka big bad 'patriarchy'. While I believe motherly traits such as loving their children is part of their built-in nature, most of the other things we prescribe to idealistic females are just as artificial as our robowaifus, if not more so since the original female's 'programming' has to be overwritten. It isn't as on-or-off as some being bad, some being good.
+
+
+
+It seems horrible to say it so honestly, but a lot of what men envision women as is a complete fantasy. We men tend to overlay our idealistic female delusions over the actual article. The idea of a naturally virtuous and loving woman is so deep and pervasive that waking up from the dream of female behavior is like taking a red pill and finally being let out of the matrix. Feminism didn't change women in the sense that it was brainwashing them to act out-of-order. Feminism made it socially acceptable for women to be who they always were at their core. Don't fall into the line of thinking that only some of them are like this. They are ALL like this, given the proper circumstances and social climate. The only time they don't revert to their nature is when it isn't immediately beneficial to do so. Sometimes they have to play the role of a chameleon. However when time comes, like in a divorce or family court, they will show their true nature.
+
+
+
+That's why I believe that robots are the future. Women are no longer willing to be molded by male/society needs. Robots, with some serious work, are perfectly capable of fitting the bill. 
+
+
+
+>>6283 
+
 Is this a joke post? Mind elaborating your disagreements?
 
 # 57
@@ -537,21 +641,33 @@ The nature of the feminine is to be offbeat from the order of things and intense
 Robowaifus will fix most of this. Once the free attention and money dries up, women will become extremely focused on the scarce opportunities they have left and surprise men by how much they can do. After some initial animosity there will probably be robowaifu hunters trying to woo men away from their robowaifus because robohusbandos are too predictable and boring for them, but men will be bitter that only now women care when so many men have robowaifus. There might even be a short arms race between robowaifu developers and this small portion of hyper feminine women. They're gonna have a hard time though competing with eternal beauty, unfailing devotion and 200 PhDs, unless they can figure out how to leverage their human being.
 
 # 58
->>6289
->Women aren't inherently evil.
+>>6289
+
+>Women aren't inherently evil.
+
 Honestly stopped reading there, females are fucking trash.
 
 # 59
->>6289
-I've heard this mantra before and I still think it's wishful thinking. Hoping that robowaifus crash the current horrible dating/relationship market and women come running back to average men for normal relationships seems like misplaced hope. They don't want to give up the overinflated value that they have now. It's more likely that they'll shame men with such robowaifus, and continue to lobby the government to either: A. "Regulate" robowaifus in such a way that they would be less competitive or B. Push some nonsense about them objectifying women and children to get robowaifus banned from being sold at the retail level, and forcing only DIY level robowaifus.
-
-They'll probably double-down rather than look to compromise. I guess my view is pretty pessimistic. I think what you're describing sounds like a much better world, but seems unrealistic. I'd like to be proven wrong. 
-
-Besides, I'm not interested in a robot companion in the hopes that they cause women to act more virtuous, like they were before. I seriously believe that ship has sailed. I've heard some people on 4chan and reddit say similar things before. The idea is that even if they didn't buy a robowaifu themselves they'd benefit from a more normalized dating market due to less male competition and a higher bar for women. I don't think this will effect women as much as people think until they get older. The 'alpha' men that women rotate with in their youth will still be pumping and dumping them. These women won't feel the full effects of robowaifus until they are older and looking for someone to settle down with. When they don't find anyone worthwhile willing to commit to them then they'll likely resort to more feminist ranting.
-
-Like I said though, I hope you're right and I hope I'm wrong. I can see the logic behind your train of thought but maybe my own experiences with women are keeping me from fully accepting it. I recognize that I'm bias here. I'd really like to hear some thoughts from other users about this. Which model does everyone believe in?
-
->>6290 
+>>6289
+
+I've heard this mantra before and I still think it's wishful thinking. Hoping that robowaifus crash the current horrible dating/relationship market and women come running back to average men for normal relationships seems like misplaced hope. They don't want to give up the overinflated value that they have now. It's more likely that they'll shame men with such robowaifus, and continue to lobby the government to either: A. "Regulate" robowaifus in such a way that they would be less competitive or B. Push some nonsense about them objectifying women and children to get robowaifus banned from being sold at the retail level, and forcing only DIY level robowaifus.
+
+
+
+They'll probably double-down rather than look to compromise. I guess my view is pretty pessimistic. I think what you're describing sounds like a much better world, but seems unrealistic. I'd like to be proven wrong. 
+
+
+
+Besides, I'm not interested in a robot companion in the hopes that they cause women to act more virtuous, like they were before. I seriously believe that ship has sailed. I've heard some people on 4chan and reddit say similar things before. The idea is that even if they didn't buy a robowaifu themselves they'd benefit from a more normalized dating market due to less male competition and a higher bar for women. I don't think this will effect women as much as people think until they get older. The 'alpha' men that women rotate with in their youth will still be pumping and dumping them. These women won't feel the full effects of robowaifus until they are older and looking for someone to settle down with. When they don't find anyone worthwhile willing to commit to them then they'll likely resort to more feminist ranting.
+
+
+
+Like I said though, I hope you're right and I hope I'm wrong. I can see the logic behind your train of thought but maybe my own experiences with women are keeping me from fully accepting it. I recognize that I'm bias here. I'd really like to hear some thoughts from other users about this. Which model does everyone believe in?
+
+
+
+>>6290 
+
 His post is worth reading, mate. I think this is an interesting discussion topic since no one knows for sure how robowaifus will change things. I'd like to hear your thoughts on this beyond calling them trash. Or at least give further reasoning to that.
 
 # 60
@@ -560,8 +676,10 @@ His post is worth reading, mate. I think this is an interesting discussion topic
 This. In the robowaifu future, the only things of value women can offer in competition are the innate human characteristics that will extremely difficult (or impossible) to emplace into robowaifus. Not that I really expect them to have the foresight do so, but all women would be well-advised to relearn how to be decent human beings again, and soon.
 
 # 61
->>6294
->His post is worth reading, mate. I think this is an interesting discussion topic since no one knows for sure how robowaifus will change things. I'd like to hear your thoughts on this beyond calling them trash. Or at least give further reasoning to that.
+>>6294
+
+>His post is worth reading, mate. I think this is an interesting discussion topic since no one knows for sure how robowaifus will change things. I'd like to hear your thoughts on this beyond calling them trash. Or at least give further reasoning to that.
+
 Alright, fair enough, I read it. The reason women are just pure trash at their core is because we have given women a world in which they can truly be whatever the fuck they want to be because it's basically socially unacceptable to criticize them. Think of it like this: when you take places like imageboards where rules are extremely lax, you end up getting a good look at how men really want to be. We can't be this way in public around the company of most people for fear of judgement, but when we get here, the cultural rules are vastly different and we all bask in the freedom. Sure some trash comes out of places like this but all of us who come back and who have a deep ingrained love for these communities all know that the way men truly want to live is actually great. It's free, it's shockingly more productive than being polite or unoffensive or whatnot, it's honestly less hostile than you'd expect, and even if there are arguments there's still a profound loyalty if the group is ever attacked. There's a lot more good that can be said about it, but that's just scratching the surface a bit. Now let's look at women: women do not need to go into hiding to embrace their true nature. You can't hit them, you can't yell at them, you can't even judge them anymore without being despised and given some dumb label like "misogynist." As a man it is illegal to disown your children and you will be required to pay money. If you can't pay, you are put in jail. As a woman, you can kill your child as long as it hasn't been born yet. This is not seen as wrong, however, if you judge a woman for this, you are seen as wrong. This is just one example. Other examples are that women regularly get away with violence whereas men will often get punished just for accusations, etc. As I can demonstrate, women live in a pretty lawless world where they are extremely free to be how they really would like to be, they can really be the most true version of their own selves because nobody is going to stop them, because it is socially unacceptable to try to stop them. Everyday life for a woman is basically what it's like for us when we post on imageboards. So every man really gets to see the true, ugly side of women. I know men, and knowing their true intentions, often the things they hide the most are the most noble, which is a shame. Women on the other hand, when given complete freedom, are the most unbearable, self-centered, narcissistic, careless, thoughtless, surprisingly aggressive, borderline sociopathic people. So I've just deduced women are trash at their core, because men in secret often strive to be the opposite of these things, even if it is in ways that are deemed socially unacceptable. Sorry for tl;dr.
 
 # 62
@@ -569,69 +687,120 @@ Alright, fair enough, I read it. The reason women are just pure trash at their c
 POTD.
 
 # 63
->>6285
-no it is not a joke
+>>6285
+
+no it is not a joke
+
 All women are different
 
 # 64
->6299
-No need to apologize for the length! This is a great post! This is the type of discussion I was looking for. I actually agree with most of this, maybe all of this, but I still want to add my $.02
-
-This seems to be in high contrast to what that other anon was saying about female nature. This view ties in to what I was saying in >>6294. Women don't want to give up the status quo advantages that you listed and be reduced to competing with robowaifu machines. They'll call in the government to maintain their artificially inflated value. A lot of the difficulties with modern women you described are due to government involvement in relationships. Women know that the only reasons they have this level of privilege is due to the government essentially holding men down with one hand and raising women with the other. Men are left at an artificial disadvantage while women look down on them for not being at their level. The government, as much as simps/dating apps/etc etc, has had a massive effect on the modern state of male-female relationships. Women have less incentive to behave traditionally now more than ever. 
-
-It's like back in the early 1900s or so when a company could gain an artificial monopoly not by creating better products, but through lobbied government intervention such as creating regulations making it harder for other businesses to compete. This is sort of what women have now. The primary things men used to offer in relationships such as protection, provisioning, helping raise children, availability during an emergency, have largely been intervened on by governments and so now women act like they 'don't need no man'. Yet men are still paying, just in a collective, indirect way. Even still, women are holding high relationship standards for men while doing less than their mothers and grandmothers used to do for their men. 
-
-Short of some western war or major economic depression, I don't think relationships will return to what they once were. Women have artificially reduced the need of men in their lives. Robowaifus will ultimately be men doing the same. There are some people that believe the existence of robowaifus will cause more women to act rationally, change their behavior, and try to commit to more traditional relationships. As I was saying in my earlier post, I don't believe that's likely. It seems that the divisions between genders, even with robowaifus in the mix, will only continue to grow. Women aren't going to change their behavior and lose their advantages without fiery resistance. But like I said before, this is the pessimistic view. Who knows what the future actually holds.
-
+>6299
+
+No need to apologize for the length! This is a great post! This is the type of discussion I was looking for. I actually agree with most of this, maybe all of this, but I still want to add my $.02
+
+
+
+This seems to be in high contrast to what that other anon was saying about female nature. This view ties in to what I was saying in >>6294. Women don't want to give up the status quo advantages that you listed and be reduced to competing with robowaifu machines. They'll call in the government to maintain their artificially inflated value. A lot of the difficulties with modern women you described are due to government involvement in relationships. Women know that the only reasons they have this level of privilege is due to the government essentially holding men down with one hand and raising women with the other. Men are left at an artificial disadvantage while women look down on them for not being at their level. The government, as much as simps/dating apps/etc etc, has had a massive effect on the modern state of male-female relationships. Women have less incentive to behave traditionally now more than ever. 
+
+
+
+It's like back in the early 1900s or so when a company could gain an artificial monopoly not by creating better products, but through lobbied government intervention such as creating regulations making it harder for other businesses to compete. This is sort of what women have now. The primary things men used to offer in relationships such as protection, provisioning, helping raise children, availability during an emergency, have largely been intervened on by governments and so now women act like they 'don't need no man'. Yet men are still paying, just in a collective, indirect way. Even still, women are holding high relationship standards for men while doing less than their mothers and grandmothers used to do for their men. 
+
+
+
+Short of some western war or major economic depression, I don't think relationships will return to what they once were. Women have artificially reduced the need of men in their lives. Robowaifus will ultimately be men doing the same. There are some people that believe the existence of robowaifus will cause more women to act rationally, change their behavior, and try to commit to more traditional relationships. As I was saying in my earlier post, I don't believe that's likely. It seems that the divisions between genders, even with robowaifus in the mix, will only continue to grow. Women aren't going to change their behavior and lose their advantages without fiery resistance. But like I said before, this is the pessimistic view. Who knows what the future actually holds.
+
+
+
 Thanks for explaining your meaning.
 
 # 65
->>6282
->All of us are individuals
-All of us men, yes.
-Women aren't individuals. They only behave as herd animals.
-They always look to imitate whatever the majority (of men or women) is doing. Completely incapable of rationalizing why they are doing it. They simply imitate and expect things to work out well.
->who behaves in a feminine, helpful and healthy way is actually quite beautifu
-Yes. But women's beauty is used by them specifically to deceive men. All women are liars, as you correctly stated.
-A man should never be deceived by the beauty of a feminine woman, as said beauty (at least, the perception of it) is nothing more than a biological haywire that is unfortunately programmed into our brains.
-The greatest achievement of robowaifus is to create a being that has the feminine beauty but not the feminine nature of deceitful liars. A being as beautiful as the most beautiful women in existence, but without their manipulative and evil nature.
-THAT is a wonderful goal and worthy of our pursuit.
-A being that looks like a woman, but it doesn't think like a woman. It thinks what we want it to think. A being resembling a woman, but superior to women in all other aspects.
-> I predict they will come under authority again
-They will. But by that time, they will be obsolete. Why chose the inferior product?
->And once again they will prove to be wholesome participants in society.
-Women were never participants in society. Women were tolerated because of our need for reproduction. Men through all the history of mankind dealt with women by circumventing women's natural stupidity and irrationality, so they could be used for reproduction. But no man ever took women seriously into society. It is more akin to pretending that a child is "working" with you by giving it a toy or something else to distract the child.
->Helpful to men, and not hurtful.
-That is where you are misguided. Women are never naturally helpful to men. They were always hurtful. In the past, women were always forced to be helpful. They never were helpful of their own will. Their very nature is of sloth, spite, envy, and deceit. They don't truly care about being helpful. They only fear being seeing as undesirable. Men used that fear to put women to good use. But since feminism and modernity as a whole made women ignore that fear, thinking that they would never face consequences for their acts, men now have to reach other means to keep society afloat. And that includes replacing women, who don't fear being shamed anymore. They still fear abandonment and lack of control over men, though. But that is their problem. Not ours.
->Of course we already know the response of feminists and their handlers, so there's little need to even discuss them in this future context.
+>>6282
+
+>All of us are individuals
+
+All of us men, yes.
+
+Women aren't individuals. They only behave as herd animals.
+
+They always look to imitate whatever the majority (of men or women) is doing. Completely incapable of rationalizing why they are doing it. They simply imitate and expect things to work out well.
+
+>who behaves in a feminine, helpful and healthy way is actually quite beautifu
+
+Yes. But women's beauty is used by them specifically to deceive men. All women are liars, as you correctly stated.
+
+A man should never be deceived by the beauty of a feminine woman, as said beauty (at least, the perception of it) is nothing more than a biological haywire that is unfortunately programmed into our brains.
+
+The greatest achievement of robowaifus is to create a being that has the feminine beauty but not the feminine nature of deceitful liars. A being as beautiful as the most beautiful women in existence, but without their manipulative and evil nature.
+
+THAT is a wonderful goal and worthy of our pursuit.
+
+A being that looks like a woman, but it doesn't think like a woman. It thinks what we want it to think. A being resembling a woman, but superior to women in all other aspects.
+
+> I predict they will come under authority again
+
+They will. But by that time, they will be obsolete. Why chose the inferior product?
+
+>And once again they will prove to be wholesome participants in society.
+
+Women were never participants in society. Women were tolerated because of our need for reproduction. Men through all the history of mankind dealt with women by circumventing women's natural stupidity and irrationality, so they could be used for reproduction. But no man ever took women seriously into society. It is more akin to pretending that a child is "working" with you by giving it a toy or something else to distract the child.
+
+>Helpful to men, and not hurtful.
+
+That is where you are misguided. Women are never naturally helpful to men. They were always hurtful. In the past, women were always forced to be helpful. They never were helpful of their own will. Their very nature is of sloth, spite, envy, and deceit. They don't truly care about being helpful. They only fear being seeing as undesirable. Men used that fear to put women to good use. But since feminism and modernity as a whole made women ignore that fear, thinking that they would never face consequences for their acts, men now have to reach other means to keep society afloat. And that includes replacing women, who don't fear being shamed anymore. They still fear abandonment and lack of control over men, though. But that is their problem. Not ours.
+
+>Of course we already know the response of feminists and their handlers, so there's little need to even discuss them in this future context.
+
 True. They are the enemy that is losing the war and being replaced. They aren't to be heard, but instead, they are to be ignored until their replacement accelerates to the point of being unstoppable.
 
 # 66
->>6285
->motherly traits such as loving their children
-Not even that is in their nature. Women see their own children as competition for their attention, and they resent that.
-See how all women try to manipulate their sons to become servants of their will.
-See al so how all women practically hate their own daughters. always fighting each other when they live together. always trying to put each other in a bad light/trying to shame each other when they live apart.
->a lot of what men envision women as is a complete fantasy.
-Completely true. What man romanticized about women wasn't done in pursuit of an ideal. Instead, it was done as a escapism mechanism. The reality is that women are detrimental to a man's life, and only useful for procreation. A man practically tame a parasite (woman) so he can use the parasite to procreate, being biologically programmed to.
-The first step into improving oneself is to reject the biological programming.
-The next step is using the free mind to create solutions and alternatives. Hence, robowaifus and artificial wombs.
->Feminism made it socially acceptable for women to be who they always were at their core.
-Precisely.
->Don't fall into the line of thinking that only some of them are like this. They are ALL like this
-You are right again.
->The only time they don't revert to their nature is when it isn't immediately beneficial to do so.
-Correct.
->Sometimes they have to play the role of a chameleon. However when time comes, like in a divorce or family court, they will show their true nature.
-That sums up everything. They don't behave out of virtue. They pretend to be virtuous only when forced. And only because they want to gain something from pretending to be virtuous.
->That's why I believe that robots are the future. Women are no longer willing to be molded by male/society needs. Robots, with some serious work, are perfectly capable of fitting the bill.
-That is my exact same thought.
+>>6285
+
+>motherly traits such as loving their children
+
+Not even that is in their nature. Women see their own children as competition for their attention, and they resent that.
+
+See how all women try to manipulate their sons to become servants of their will.
+
+See al so how all women practically hate their own daughters. always fighting each other when they live together. always trying to put each other in a bad light/trying to shame each other when they live apart.
+
+>a lot of what men envision women as is a complete fantasy.
+
+Completely true. What man romanticized about women wasn't done in pursuit of an ideal. Instead, it was done as a escapism mechanism. The reality is that women are detrimental to a man's life, and only useful for procreation. A man practically tame a parasite (woman) so he can use the parasite to procreate, being biologically programmed to.
+
+The first step into improving oneself is to reject the biological programming.
+
+The next step is using the free mind to create solutions and alternatives. Hence, robowaifus and artificial wombs.
+
+>Feminism made it socially acceptable for women to be who they always were at their core.
+
+Precisely.
+
+>Don't fall into the line of thinking that only some of them are like this. They are ALL like this
+
+You are right again.
+
+>The only time they don't revert to their nature is when it isn't immediately beneficial to do so.
+
+Correct.
+
+>Sometimes they have to play the role of a chameleon. However when time comes, like in a divorce or family court, they will show their true nature.
+
+That sums up everything. They don't behave out of virtue. They pretend to be virtuous only when forced. And only because they want to gain something from pretending to be virtuous.
+
+>That's why I believe that robots are the future. Women are no longer willing to be molded by male/society needs. Robots, with some serious work, are perfectly capable of fitting the bill.
+
+That is my exact same thought.
+
 Those who won't serve men's needs are to be abandoned by men and replaced by those who will serve our needs.
 
 # 67
->>6308
-I read a lot of hatred towards women on here, and that is understandable given the damage that feminism has wrought on the modern Western family. However, we mustn't become so consumed by hatred that it slows down our R&D efforts. We still only have expensive sex-dolls with minimal robotics, and there is a risk that our enemies may try to provoke us in an attempt to reduce our efficiency. It sounds cheesy, but love is the answer! Just not the kind of love that normies were expecting. 
-
+>>6308
+
+I read a lot of hatred towards women on here, and that is understandable given the damage that feminism has wrought on the modern Western family. However, we mustn't become so consumed by hatred that it slows down our R&D efforts. We still only have expensive sex-dolls with minimal robotics, and there is a risk that our enemies may try to provoke us in an attempt to reduce our efficiency. It sounds cheesy, but love is the answer! Just not the kind of love that normies were expecting. 
+
+
+
 Our love for our robowaifus must eclipse their hatred and fear of heterosexual males. Our creativity and innovation must outshine the rest of our obsolete and failing 'society'.
 
 # 68
@@ -639,29 +808,46 @@ Our love for our robowaifus must eclipse their hatred and fear of heterosexual m
 Agreed. Let's stay focused lads. This isn't /r9k/ after all.
 
 # 69
->>6305
-Yeah, that's about how I imagine it as well. Robowaifus wouldn't knock sense into women, it would just make them angry and fearful about what they're going to lose, not even slightly concerned about what is actually right. A sole individual with power can do either bad or good. For example, I really like to think if I were given extreme power I'd use it to push things I believe are noble and good. Some men might end up using the power to cater to themselves, which in a way is difficult to blame them for (especially if they have a poor quality of life) because the drastic change would likely be overwhelmingly incredible and the temptation would be there. However I have a hard time imagining a woman doing anything other than serving herself, even if it means really hurting others. The reason I feel this way is not because I have seen an individual woman be given some kind of power and abuse it, I have seen women as a group be handed a unique culture that puts them on an insane, godly pedestal and I've watched the overwhelming majority become borderline irredeemable as a direct result. The few that are not are very rare and that obviously leaves most men with scraps. I'm left to believe it's just a part of female psychology. Thirsty men who simp and cuck all day are so hard to watch by other men because it's watching our own sex enable that which is fucking us up, that's why it bothers us so deeply psychologically. Because it's like watching someone who is supposed to be on your side sell out to the enemy. 
-
->>6311
+>>6305
+
+Yeah, that's about how I imagine it as well. Robowaifus wouldn't knock sense into women, it would just make them angry and fearful about what they're going to lose, not even slightly concerned about what is actually right. A sole individual with power can do either bad or good. For example, I really like to think if I were given extreme power I'd use it to push things I believe are noble and good. Some men might end up using the power to cater to themselves, which in a way is difficult to blame them for (especially if they have a poor quality of life) because the drastic change would likely be overwhelmingly incredible and the temptation would be there. However I have a hard time imagining a woman doing anything other than serving herself, even if it means really hurting others. The reason I feel this way is not because I have seen an individual woman be given some kind of power and abuse it, I have seen women as a group be handed a unique culture that puts them on an insane, godly pedestal and I've watched the overwhelming majority become borderline irredeemable as a direct result. The few that are not are very rare and that obviously leaves most men with scraps. I'm left to believe it's just a part of female psychology. Thirsty men who simp and cuck all day are so hard to watch by other men because it's watching our own sex enable that which is fucking us up, that's why it bothers us so deeply psychologically. Because it's like watching someone who is supposed to be on your side sell out to the enemy. 
+
+
+
+>>6311
+
 I'm not sure if I personally hate women. I say they're trash, but I don't sit around hating my actual trash either. Calling it trash is not an insult, it's just a fact. I also accept that my toilet eats shit every day, and I don't hate it for doing so. What is weird to have to learn is that women eat shit too though, and they're not the "sugar, spice, and everything nice" that we are told they are.
 
 # 70
->>6289
->Women aren't inherently evil.
-They are.
-
->>6304
->All women are different
-All women are the same.
-And they are all evil in their very nature.
-
->>6305
->this is the pessimistic view
+>>6289
+
+>Women aren't inherently evil.
+
+They are.
+
+
+
+>>6304
+
+>All women are different
+
+All women are the same.
+
+And they are all evil in their very nature.
+
+
+
+>>6305
+
+>this is the pessimistic view
+
 It is the realistic view.
 
 # 71
->>6311
-I agree that productivity is top priority, as everything in life.
+>>6311
+
+I agree that productivity is top priority, as everything in life.
+
 But one can't talk about robowaifus without bringing up the subject of women. And one can't talk about women without hatred towards women.
 
 # 72
@@ -699,31 +885,50 @@ This is a common approach in the film industry when working with high resolution
 This works by using proxy meshes.
 
 # 80
-Mods deleting on-topic posts?
-
->>6449
->materialistic whore
-All women are materialistic whores.
->robots can't give birth
+Mods deleting on-topic posts?
+
+
+
+>>6449
+
+>materialistic whore
+
+All women are materialistic whores.
+
+>robots can't give birth
+
 Artificial wombs will enable robots to give birth. Rendering women completely useless and obsolete, and thus, making the world become a better place.
 
 # 81
->>6447
->That post
-All those points are correct. And there is nothing wrong with any of that.
-Some of us hate to deal with rejection.
-Some of us hate to deal with uncertainty.
-Some of us hate to deal with approach (and failing at it).
-Therefore, some of us will develop artificial beings that can offer the reward of stimulus without any of the effort needed to earn it. and that is always a good thing.
-The less effort we waste in uncertain endeavors, the better our lives will be. Lives full of only certain and assured endeavors, since we will be creating products that will eliminate the existence of uncertainty and also eliminate the need to put effort into the uncertain.
+>>6447
+
+>That post
+
+All those points are correct. And there is nothing wrong with any of that.
+
+Some of us hate to deal with rejection.
+
+Some of us hate to deal with uncertainty.
+
+Some of us hate to deal with approach (and failing at it).
+
+Therefore, some of us will develop artificial beings that can offer the reward of stimulus without any of the effort needed to earn it. and that is always a good thing.
+
+The less effort we waste in uncertain endeavors, the better our lives will be. Lives full of only certain and assured endeavors, since we will be creating products that will eliminate the existence of uncertainty and also eliminate the need to put effort into the uncertain.
+
 The whole argument on that post is the same as someone complaining that men would be unfortunate for creating the oven and abandoning the effort of making fire out of wood pieces in an open field.
 
 # 82
->>6462
-None of those points are correct. In fact the exact same logic can be thrown right back at her:
-
-They don't have enough estrogen to be a good woman. They are so coddled they can't take being rejected for better alternatives so they escape into screeching about incels on the internet. Sad excuse for humanity.
-
+>>6462
+
+None of those points are correct. In fact the exact same logic can be thrown right back at her:
+
+
+
+They don't have enough estrogen to be a good woman. They are so coddled they can't take being rejected for better alternatives so they escape into screeching about incels on the internet. Sad excuse for humanity.
+
+
+
 See? lmao daily reminder to ignore the irrelevant screeching of "strong, independent" women. We're smarter than them and it stings.
 
 # 83
@@ -751,26 +956,46 @@ I've had several girlfriends and completely lost interest in having relationship
 If someone feels loved, supported and excited to get out of bed every morning with their companion cube or whatever, who is anyone to barge in their life and tell them they're wrong and should feel bad?
 
 # 87
->>6464
->force us to hand over our code
-On that topic, ALWAYS create fake codes in order to deceive authorities. Useless codes that amount to nothing, that you keep around just to hand them over any authority that comes bothering you.
-Never give them what they demand. Ever.
-
->>6466
->but a VR version of her close friends
-And that is just the beginning. One of the goals should be to create robowaifus (with artificial wombs, when desired by the owner) with physical features identical to a man's female friends and also famous and attractive girls. To the point that every man can buy (or build) his personal artificial girl of interest that looks exactly like the ones that he met in his life, but without any of the emotional baggage of stupidity that those girls had.
-
->>6468
->a damn chatbot could pretend to be more concerned
-Another key point. Women are always pretending to care. But they never truly care about anything other than themselves.
-To every single simp screaming "but what about relationships/true care?" out there, always respond with: women never care. They just pretend to care. Robots are the same, but programmable to always pretend and to never complain. Thus, robots are better than women.
-> nobody is trying to replicate women
-But they should. And they should be completely free to do so.
-Women revealed to be undesirable selfish parasites. Replicate them without their flaws, and our personal lives will improve.
-Some may chose to not do it. But for those who chose to replicate women and replace them, they should be free to do so.
->If someone feels loved, supported and excited to get out of bed every morning with their companion cube or whatever, who is anyone to barge in their life and tell them they're wrong and should feel bad?
-Exactly. what matters is what we desire to ourselves, to counter the selfishness of women.
-We gave care, attention and love, and they showed that they didn't care about any of it. so, we refrain from doing any of that, and divert our attention, care and love to artificial tools that will at least pretend to care, which is more than women are capable of.
+>>6464
+
+>force us to hand over our code
+
+On that topic, ALWAYS create fake codes in order to deceive authorities. Useless codes that amount to nothing, that you keep around just to hand them over any authority that comes bothering you.
+
+Never give them what they demand. Ever.
+
+
+
+>>6466
+
+>but a VR version of her close friends
+
+And that is just the beginning. One of the goals should be to create robowaifus (with artificial wombs, when desired by the owner) with physical features identical to a man's female friends and also famous and attractive girls. To the point that every man can buy (or build) his personal artificial girl of interest that looks exactly like the ones that he met in his life, but without any of the emotional baggage of stupidity that those girls had.
+
+
+
+>>6468
+
+>a damn chatbot could pretend to be more concerned
+
+Another key point. Women are always pretending to care. But they never truly care about anything other than themselves.
+
+To every single simp screaming "but what about relationships/true care?" out there, always respond with: women never care. They just pretend to care. Robots are the same, but programmable to always pretend and to never complain. Thus, robots are better than women.
+
+> nobody is trying to replicate women
+
+But they should. And they should be completely free to do so.
+
+Women revealed to be undesirable selfish parasites. Replicate them without their flaws, and our personal lives will improve.
+
+Some may chose to not do it. But for those who chose to replicate women and replace them, they should be free to do so.
+
+>If someone feels loved, supported and excited to get out of bed every morning with their companion cube or whatever, who is anyone to barge in their life and tell them they're wrong and should feel bad?
+
+Exactly. what matters is what we desire to ourselves, to counter the selfishness of women.
+
+We gave care, attention and love, and they showed that they didn't care about any of it. so, we refrain from doing any of that, and divert our attention, care and love to artificial tools that will at least pretend to care, which is more than women are capable of.
+
 As a side note on the "who is anyone to barge...?" topic: remember that those who complain are 100% simps. They live for societal validation, and nothing more. They hate and fear the idea of a society that won't validate them for peacocking for women. They hate and fear a society that won't validate them for having a collection of girlfriends and sexual affairs. And they don't have the knowledge nor the intelligence to prevent this society from emerging within our current one. So, never lose yourself in arguments with those simps. Always expose the truth, and let them alone, raging without any power to change anything. always show them that we are doing what we want to do, and we don't care about societal validation.
 
 # 88
@@ -786,8 +1011,10 @@ Commies are always reaching their hands into people's stuff to make it suitable 
 Yeah no. I don't think that's what /robowaifu/ is about friend. Our goal here is to spread this tech as far and wide as possible. Thus our MIT licenses. Even Google can use our code if they care to.
 
 # 90
-I feel like we should just keep this thread locked. This is one of the few areas that people are really divided on. More and more people are coming here from the /pol/ robot threads and may need some time to adjust to things here. It may be for the best if this thread remains out of sight.
-
+I feel like we should just keep this thread locked. This is one of the few areas that people are really divided on. More and more people are coming here from the /pol/ robot threads and may need some time to adjust to things here. It may be for the best if this thread remains out of sight.
+
+
+
 My .02, if you guys feel otherwise then I won't complain.
 
 # 91
@@ -819,18 +1046,30 @@ So that being said. %% we need to fly under the radar and as far as any public f
 Who gives a shit if they take one down we will just parasite another platform. If we really run out of options some fag will just make one for us. They can't do shit, just try to anonymize yourself and you're golden.
 
 # 96
->>12578
->lord forbid someone gets a fucking cold I swear to god I WILL REPLACE YOU BITCH lmao
-
-Lmao this is one of the attitudes of how things got so bad that the idea of robowaifus gained any traction to have basket weaving forums like this in the first place. Besides from the insanely cliquish and nepotistic bullshit killing any remaining remote facade or semblance of meritocracy these days. 
-
-
-
-
-
->>12567
->anyone who ever complains about how evil and cliquish people are these days is from /pol/ ABAN THEM *pearl clutches*
-
+>>12578
+
+>lord forbid someone gets a fucking cold I swear to god I WILL REPLACE YOU BITCH lmao
+
+
+
+Lmao this is one of the attitudes of how things got so bad that the idea of robowaifus gained any traction to have basket weaving forums like this in the first place. Besides from the insanely cliquish and nepotistic bullshit killing any remaining remote facade or semblance of meritocracy these days. 
+
+
+
+
+
+
+
+
+
+
+
+>>12567
+
+>anyone who ever complains about how evil and cliquish people are these days is from /pol/ ABAN THEM *pearl clutches*
+
+
+
 Damn these glowniggers are annoying and I dont even know what /pol/ even is.
 
 # 97
@@ -1006,51 +1245,87 @@ With actual women, aka waifus, aka digital people (a central tenet of the LitRPG
 And what really makes it triggering is that the waifus aren't some docile servants... well some are, but since you can also get servants readily enough the waifus become actual people - supportive but not slaves. And that in turn lets Men focus on their goals, which in the case of the MC usually involves experimenting with his new abilities, something that usually, but not always works out for hm.
 
 # 115
-Twinkle twinkle little star.
-How you light the night so far.
-Up above the world so high,
+Twinkle twinkle little star.
+
+How you light the night so far.
+
+Up above the world so high,
+
  like a diamond in the sky
 
 # 116
->>6289
->
-Robowaifus will fix most of this. Once the free attention and money dries up, women will become extremely focused on the scarce opportunities they have left and surprise men by how much they can do.
-
+>>6289
+
+>
+
+Robowaifus will fix most of this. Once the free attention and money dries up, women will become extremely focused on the scarce opportunities they have left and surprise men by how much they can do.
+
+
+
 This will eventiually happe I believe. I also believe thta is robowaifu's get extremely accomplished Women who are aggressive and obnoxious will eventually be bred out of existence.
 
 # 117
->>12758
->>Considering my problem is that robowaifus appear to be too expensive and difficult for me to create what I want... and what I want is a robowaifu or clone waifu with free will...I think I should probably just look for an organic, non-Western wife.
-
-Cost will not be an issue very soon. It's actually not now for a simple waifu that can walk around and maybe have some "very simple" responses. "If" the technological process is not interfered with man level computation will be available for roughly $1,000 USD in 2025. 
-1.Every muscle needed to replicate human movement is roughly 300 muscles and let's say $20 for each muscle, so $6000
-2. Micro-controller that can control these are available today with 18 outputs per controller and enough sensors for touch for less than $9 each, so 300 muscles at (300/18)$9= $150.
-3. You need 600 MOSFET transistors to control the motors. 2 for each muscle, 2 x $0.50= $300(Its likely you could cut this number down a good bit OR as I prefer have extras so any failure of one would not effect the operation)
-5. Two eyeballs for roughly $100 each, so $200
-6. Material for bone structure.
-
-"...The human skeleton represents approximately 14% of the average human male's weight and 10% of the average human female's weight..."
-
-let's call it 100 pounds(20% to add a little strength) * $1.80 per pound of stainless steel, so $36
-7. Skin. I say microfiber would perfect for our use.  Washable, very soft, durable. Pulling a number out of my ass based on micro-fiber towels and a bit of sewing call it's $200(this could come down with waifus dedicated to make themselves)
-8. Throw in another $1,000 for  silicon, miscellaneous, whatever.
-9. Batteries. High power athlete human performance is at maybe 400 watts(A horse is 736 watts). Let's say you need 400 watts for 2 hours a day then normal moving about at 100Watts a hour with 7 hours for recharge at zero watts,
-Sanyo NCR18650GA 3450mAh 10A Battery - Protected Button Top $9.99,
-We need 2 x 400W/h + 17 x 100W/h = 800w/h + 1,700W/h = 2,500W/h
-Each battery gives us 3.7V x 3450mAh = 12.765W/h
-So (2,500W/h)/(12.765W/h) = 195.8
-196(round up) x $10 each = $1,960 for batteries. I bet this could be less but at this rate it would be a surplus of power.
-
-total $1,000 + $6,000 + $150 + $300 + $200 + $36 + $200 + $1,000 + $1,960 = $10,846
-
-$10,846 is not even remotely out of the question. It's a huge bargin. Let's add 50% profit so even at $16,269 for a robowaifu that can constantly be upgraded and learns. If you were to make one right now it could probably only walk around, talk very limited vocabolary, dance a little and preform various lewd acts but if there was a subscription upgrade path with ncreasing knowledge on household task plus some on site training within a few years it could be very capable. I think the capabilites would roughly coinside on how many Men decided to put mony into continius upgrading the software and feedback from the mass of neural nets. A $30 a month upgrade subscription to teach it new cooking and other skills. It could mow the lawn, clean the house, take out the garbage and fuck you silly. All the time it would get more intellectually capable and if you upgraded the processor every 28 months it would likely increase it's mental capacity by double. At these prices it would be a massive huge bargin.
-
-We can see paths to follow and things to do by my rough estimates, which are not crazy. They are based on the prices of motors, micro-controllers, etc. Sure they may be off here and there but I bet they are not more than 100% off anywhere. This also tells us where to cut cost. Those damn actuators are the killer. Batteries are high, but do able, but the actuators need to come down in price. All the rest I think we could live with.
-
+>>12758
+
+>>Considering my problem is that robowaifus appear to be too expensive and difficult for me to create what I want... and what I want is a robowaifu or clone waifu with free will...I think I should probably just look for an organic, non-Western wife.
+
+
+
+Cost will not be an issue very soon. It's actually not now for a simple waifu that can walk around and maybe have some "very simple" responses. "If" the technological process is not interfered with man level computation will be available for roughly $1,000 USD in 2025. 
+
+1.Every muscle needed to replicate human movement is roughly 300 muscles and let's say $20 for each muscle, so $6000
+
+2. Micro-controller that can control these are available today with 18 outputs per controller and enough sensors for touch for less than $9 each, so 300 muscles at (300/18)$9= $150.
+
+3. You need 600 MOSFET transistors to control the motors. 2 for each muscle, 2 x $0.50= $300(Its likely you could cut this number down a good bit OR as I prefer have extras so any failure of one would not effect the operation)
+
+5. Two eyeballs for roughly $100 each, so $200
+
+6. Material for bone structure.
+
+
+
+"...The human skeleton represents approximately 14% of the average human male's weight and 10% of the average human female's weight..."
+
+
+
+let's call it 100 pounds(20% to add a little strength) * $1.80 per pound of stainless steel, so $36
+
+7. Skin. I say microfiber would perfect for our use.  Washable, very soft, durable. Pulling a number out of my ass based on micro-fiber towels and a bit of sewing call it's $200(this could come down with waifus dedicated to make themselves)
+
+8. Throw in another $1,000 for  silicon, miscellaneous, whatever.
+
+9. Batteries. High power athlete human performance is at maybe 400 watts(A horse is 736 watts). Let's say you need 400 watts for 2 hours a day then normal moving about at 100Watts a hour with 7 hours for recharge at zero watts,
+
+Sanyo NCR18650GA 3450mAh 10A Battery - Protected Button Top $9.99,
+
+We need 2 x 400W/h + 17 x 100W/h = 800w/h + 1,700W/h = 2,500W/h
+
+Each battery gives us 3.7V x 3450mAh = 12.765W/h
+
+So (2,500W/h)/(12.765W/h) = 195.8
+
+196(round up) x $10 each = $1,960 for batteries. I bet this could be less but at this rate it would be a surplus of power.
+
+
+
+total $1,000 + $6,000 + $150 + $300 + $200 + $36 + $200 + $1,000 + $1,960 = $10,846
+
+
+
+$10,846 is not even remotely out of the question. It's a huge bargin. Let's add 50% profit so even at $16,269 for a robowaifu that can constantly be upgraded and learns. If you were to make one right now it could probably only walk around, talk very limited vocabolary, dance a little and preform various lewd acts but if there was a subscription upgrade path with ncreasing knowledge on household task plus some on site training within a few years it could be very capable. I think the capabilites would roughly coinside on how many Men decided to put mony into continius upgrading the software and feedback from the mass of neural nets. A $30 a month upgrade subscription to teach it new cooking and other skills. It could mow the lawn, clean the house, take out the garbage and fuck you silly. All the time it would get more intellectually capable and if you upgraded the processor every 28 months it would likely increase it's mental capacity by double. At these prices it would be a massive huge bargin.
+
+
+
+We can see paths to follow and things to do by my rough estimates, which are not crazy. They are based on the prices of motors, micro-controllers, etc. Sure they may be off here and there but I bet they are not more than 100% off anywhere. This also tells us where to cut cost. Those damn actuators are the killer. Batteries are high, but do able, but the actuators need to come down in price. All the rest I think we could live with.
+
+
+
 I don't care where you get a wife from at these prices any wife anywhere will cost you WAY more.
 
 # 118
->>13408
+>>13408
+
 yeah I said 10-20k is bare minumum to attempt this
 
 # 119
@@ -1071,21 +1346,33 @@ Why do they do this? How different would it be if a robot wife was what they wer
 '''SFW board''' Anon, pls keep it spoilered here. Thanks!
 
 # 122
->>15920
-Not too much different.
-I've mentioned the idea of artificial wombs to some women (in person) to bypass the abortion debate.
-Some of the most timid girls I know went into a flying rage at the thought of their potential replacement.
-
-I personally think the roastie would be willing to commit violence at any prospect of them losing their current power hold. She will vote for any and all laws banning such.
+>>15920
+
+Not too much different.
+
+I've mentioned the idea of artificial wombs to some women (in person) to bypass the abortion debate.
+
+Some of the most timid girls I know went into a flying rage at the thought of their potential replacement.
+
+
+
+I personally think the roastie would be willing to commit violence at any prospect of them losing their current power hold. She will vote for any and all laws banning such.
+
 Thus, it may be best to avoid mentioning it to them, and just ignoring them and only sharing amongst men.
 
 # 123
->>15920
-
->Why do they do this?
-b/c theyre women
-
->How different would it be if a robot wife was what they were looking at?
+>>15920
+
+
+
+>Why do they do this?
+
+b/c theyre women
+
+
+
+>How different would it be if a robot wife was what they were looking at?
+
 they would actually be angrier. remember that women are operating on instinct and feels. Sure, some may actually do an internal logic/fact check , but those are the unicorns, most will operate on their feeling to something, and justify it with whatever post-hoc. Example: robotic replacements will terrifythem Behavior: finding anything and everything to "shame" this idea, as though there is some higher moral principle being violated (this is to appeal to men's guilt), when in fact it is just that women are terrified whenever attention is taken away from them. (whether it is by alcohol, sports, video games, other women, now.. gynoids/robowaifus)
 
 # 124

@@ -3,11 +3,7 @@
 Keep the tag block at the top of post below the heading for the post number.
 
 # Images
-To keep the database small, please do not add images irrelavant to robowaifu design: including strictly meme images, frames of animation from animes, logos, or poor artwork.
-
-Do not all placeholder OP images unless they are relevant to conversation.
-
-Make sure all images stay within the Images folder to reduce clutter. Rename images files with title case. Obsidian automagically changes all renamed content in all pages for you.
+We are no longer saving images in this database.
 
 # Formatting
 Do not use headings for any page that are not a post number, the files are already named.

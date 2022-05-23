@@ -53,16 +53,23 @@ There's a design document for the specification of general design and engineerin
 -''add final BUMP notice''
 
 # 2
-I'd like to begin documentation of a stylesheet, or design specification document. Something where we have it in concrete what is or is not acceptable for a certain standard type of R/W. While I like the idea of an Master set of standards, we aren't going to be able to build our Ideal right off the bat there will be probably several Tiers or models to begin with that are stepping stones toward the ideal. Having a style sheet for each Tier is key, that we we can say: X, Y or Z materials are acceptable for this component, this part must be no larger than X, This set of actuators are in spec for this model, these are out of spec, etc.
-If we all have something we can refer to, a proper document, it prevents duplication of research and gives us something in common to work on as a group (i.e. we know these sets of parts will be fine for this particular tier of waifu, so we won't have different anons with different ideas of the final product trying to discuss the same thing)
-One example is the anon who suggested we design the R/W as a "kit", with mods to facilitate whatever the user's needs for a robotic companion might be, etc. This necessitates the ability to assemble with standard tools and also now requires modularity and standards for creating the modules (port standards, dimensional standards, material standards, etc). 
-Does this make sense, and would it belong in a specific thread or should this topic be it's own thread?
+I'd like to begin documentation of a stylesheet, or design specification document. Something where we have it in concrete what is or is not acceptable for a certain standard type of R/W. While I like the idea of an Master set of standards, we aren't going to be able to build our Ideal right off the bat there will be probably several Tiers or models to begin with that are stepping stones toward the ideal. Having a style sheet for each Tier is key, that we we can say: X, Y or Z materials are acceptable for this component, this part must be no larger than X, This set of actuators are in spec for this model, these are out of spec, etc.
+
+If we all have something we can refer to, a proper document, it prevents duplication of research and gives us something in common to work on as a group (i.e. we know these sets of parts will be fine for this particular tier of waifu, so we won't have different anons with different ideas of the final product trying to discuss the same thing)
+
+One example is the anon who suggested we design the R/W as a "kit", with mods to facilitate whatever the user's needs for a robotic companion might be, etc. This necessitates the ability to assemble with standard tools and also now requires modularity and standards for creating the modules (port standards, dimensional standards, material standards, etc). 
+
+Does this make sense, and would it belong in a specific thread or should this topic be it's own thread?
+
 This question is open to anyone not just the board owner
 
 # 3
->>12999
-I see we already have a Design Document
->>3001	
+>>12999
+
+I see we already have a Design Document
+
+>>3001	
+
 So maybe focus on specifics for different model types?
 
 # 4
@@ -72,8 +79,10 @@ Please do contribute, Mr. Digits. I've been asking for help with it all along. A
 '''Please help.'''
 
 # 5
->>13012
-that was... unintentional but I'll take em
+>>13012
+
+that was... unintentional but I'll take em
+
 certainly, I did notice the Design Doc was less than complete - but could we have a thread dedicated to discussing additions and edits to this and other subsheets / docs we create?
 
 # 6
@@ -90,7 +99,8 @@ If you (or any other interested anons) don't mind, let's just begin that on-goin
 -''minor prose edit''
 
 # 7
->>13014
+>>13014
+
 roger roger
 
 # 8
@@ -104,12 +114,18 @@ Where to start?
 I'll go ahead and also put a link to it back into this /meta's OP, to help anons find it. Maybe other anons will get involved too.
 
 # 10
->>13016
-I'd like to have a group brainstorm
-topic: R/W form factors
-we've tossed around several ideas that differ from our golden ideal but are bridges or perhaps serve more a specialized purpose
-examples: OSRM (Open Simple Robot Maid), "Wheelchair Waifus": legless, non ambulatory or ambulatory by other means, Catgirl Waifbots, Meido Kits, Moe-bots etc. 
-Similar to that one chart we like to share (which progresses from human to more and more machinelike), could we.. say create ==Categories== of R/W's and perhaps agree on what defines these categories and what specific role or niche they fit, pro's and con's, expected price points, or whatever else.
+>>13016
+
+I'd like to have a group brainstorm
+
+topic: R/W form factors
+
+we've tossed around several ideas that differ from our golden ideal but are bridges or perhaps serve more a specialized purpose
+
+examples: OSRM (Open Simple Robot Maid), "Wheelchair Waifus": legless, non ambulatory or ambulatory by other means, Catgirl Waifbots, Meido Kits, Moe-bots etc. 
+
+Similar to that one chart we like to share (which progresses from human to more and more machinelike), could we.. say create ==Categories== of R/W's and perhaps agree on what defines these categories and what specific role or niche they fit, pro's and con's, expected price points, or whatever else.
+
 From there we could hone out way toward a set of standard specs for each model.
 
 # 11
@@ -145,21 +161,33 @@ OK, I'll add a notice to the OP & pin it. I should be back in within an hour or 
 My apologies, I won't be back shortly. But I should be back later on tonight or tomorrow Anon.
 
 # 15
->>13022
-If I remember correctly, there were fairybots (<40cm),
-
-BJD-sized bots (40cm - 75cm), not sure if these were moebots, but there should also be a category of 75cm-100cm.
-
-Then 100cm-145cm is something like no-man's land, since many western countries ban sex dolls with these sizes because they are child-sized.  Certainly robots that fit this form factor, if sold whole, will trigger the same authorities.
-
+>>13022
+
+If I remember correctly, there were fairybots (<40cm),
+
+
+
+BJD-sized bots (40cm - 75cm), not sure if these were moebots, but there should also be a category of 75cm-100cm.
+
+
+
+Then 100cm-145cm is something like no-man's land, since many western countries ban sex dolls with these sizes because they are child-sized.  Certainly robots that fit this form factor, if sold whole, will trigger the same authorities.
+
+
+
 145cm-180cm will be 1:1 scale, then of course any large industrial grade machines larger than that.
 
 # 16
->>13035
->Then 100cm-145cm is something like no-man's land, since many western countries ban sex dolls with these sizes because they are child-sized
-
-Is it a concession if we just go with this as the "no-go" zone, is there any real advantage or desire to something in this size range? A smaller waifu would be better for assisting with tasks and as a chatbot companion, 145cm/4'9" is plenty small for anyone into petite waifus, Chii is 152cm/5'0" I think. 2B is 168cm/5'6" (in heels) for reference ; )
-
+>>13035
+
+>Then 100cm-145cm is something like no-man's land, since many western countries ban sex dolls with these sizes because they are child-sized
+
+
+
+Is it a concession if we just go with this as the "no-go" zone, is there any real advantage or desire to something in this size range? A smaller waifu would be better for assisting with tasks and as a chatbot companion, 145cm/4'9" is plenty small for anyone into petite waifus, Chii is 152cm/5'0" I think. 2B is 168cm/5'6" (in heels) for reference ; )
+
+
+
 %%Honestly I have no idea how tall Drossel is, as there's no canon for her measurements, 5'2" - 5'4" seems about right though%%
 
 # 17
@@ -171,18 +199,24 @@ The other aspect is, that if they don't look very human the wording of the two l
 So I'd call the size around 130-150 petite. Below would be Moe, guess. But I don't see the whole point of these size labels anyways.
 
 # 18
->>13038
->point of these size labels anyways.
+>>13038
+
+>point of these size labels anyways.
+
 because of the standard size of Integrated circuit boards, connectors, hardware and the different physics involved at different sizes (strength to mass ratios, also leverage) different standards for materials will come into play. i.e. a "moebot" could get away with plastics and weaker materials that a human, even petite human sized would might require metal parts or something of a more sturdy rating. Also the emphasis on different "roles" per Form Factor and for this size comes into play. I'll let you use your imagination there, but it probably goes beyond %% sexual functions %%
 
 # 19
->>13021
-ok, good
->>13022
+>>13021
+
+ok, good
+
+>>13022
+
 somehow these posts only just now popped up for me -  if I repeated something you posted here that's why
 
 # 20
->>13021
+>>13021
+
 I'm still re-reading much of this board. The first go-around I was busier and more scatterbrained so I was probably just skimming a lot of the material
 
 # 21
@@ -210,9 +244,12 @@ being the top 3 obvious examples of the idea. There are several others.
 Not only does it more-closely solve the Square-Cube issue, it also affords a ready pathway to immediate robotics prototyping. There are already many kits and completely-assembled models available for purchase today. While these  blocky, 'boxer-like' bots (can somebody give us the proper term for this style of please?) are hardly '''moe''', they are here today, and actually pretty rugged too at this point in time.
 
 # 25
->>13018
-Idk Ive been burned too many times sharing my work on various forums and discords.
-
+>>13018
+
+Idk Ive been burned too many times sharing my work on various forums and discords.
+
+
+
 Fuck being banned for being a contributing member who doesnt care about how embarrassing it was for some faggot to drop their tuna sandwich in front of jenny and getting pissy when someone actually starts talking about the subject of the foeum/discord and distripting their 24/7 stream of narcissistic supply or a Jannie was feeling pissy and went on a ban spree for teh lulz after you told them to fuck off and stop deleting my Allie design posts as they were deemed “”troll posts”” like the ones in the 3D modeling thread. Not here, but elsewhere.
 
 # 26
@@ -243,7 +280,8 @@ Very good classification, it addresses the main point of designs and building a 
 Sure, that's fine no arguments from me Anon! I feel they are practically interchangeable-terms for us all here on /robowaifu/. While ''moe'' has a general connotation for a large populace, the term '''fairy''' has a special place in our hearts from our own Anon's remarkable (and dear) ''Aoki Lapis model; Robot fairy'' (fairybot) project (>>266). May he finish her up someday.
 
 # 31
->>13048
+>>13048
+
 lol I made a post on zuccbook about 2 years ago about this and posted a Lamia waifu just like this
 
 # 32
@@ -254,8 +292,10 @@ Lel'd. Whatever would poor fox grills say after all? :^)
 So, I think this is quite a good diagram & quite well done. I'd suggest we adopt it if there's a general consensus on terms.
 
 # 33
->>13047
->Dollforum.com also bans now based on faces
+>>13047
+
+>Dollforum.com also bans now based on faces
+
 i can understand banning realistic child faces. Personally I couldn't stomach that myself but where do 2B and Chii fall on that scale? They have very "cute" faces and depending on who the arbiter of what is or isn't "too" childlike, could mean if she doesn't look like the purple haired lesbian from overwatch lmao. Something to be wary of when they start making these laws, they'll start out with something that on the surface seems common sense and agreeable but then they'll creep it forward
 
 # 34
@@ -317,11 +357,16 @@ Also, here a simple chart comparing the height of those classes with a average 6
 She never asked for this.
 
 # 38
->>13061
-I like it.
->>13074
->With this an Anon could say they wanted to build a lhandsy lolifox kitsune skater waifu or a moebot lich walker waifu and everyone would get the gist.
-
+>>13061
+
+I like it.
+
+>>13074
+
+>With this an Anon could say they wanted to build a lhandsy lolifox kitsune skater waifu or a moebot lich walker waifu and everyone would get the gist.
+
+
+
 For example, let's say I'm making a 60cm wheelchair moebot and sharing the torso module.  Immediately, you'll know it'll mostly be made of plastic (with perhaps the main spine being metal, or at least injected high strength fibreglass plastic like what RC cars use), but most parts will be 3D printable.  Anyone else making a doll/skater/monster moebot can probably safely adopt the torso design with only minor scaling adjustments.  It will be pointless to suggest "But you gotta do aluminum space frame with carbon fiber bro".  There are also many ready made robotic servos for similar sized wrestling robots in the 15-25kg-cm range, so you can calculate at the back of your head "Ah, that means 2S power supply with 500mA-2A per servo".
 
 # 39
@@ -412,9 +457,12 @@ Well this has been a very productive group brainstorm session Meta Ronin. I'm go
 This was not only productive but fun for us as a group too. I'd suggest you anons come up with new ''group brainstorms'' for different topics, and we can all do them here together as weekend-runs again.
 
 # 46
->>13100
-ah thanks and sorry I didn't participate more, I was taking the day off to "go touch grass"
-
+>>13100
+
+ah thanks and sorry I didn't participate more, I was taking the day off to "go touch grass"
+
+
+
 Separate question: It seems like new threads have appeared at the end of the catalog. Did I just not notice them or have you been "unhiding" some or is something else going on. A few are topics I'd like to actually comment on, but was curious if those are slated for deletion or locking.
 
 # 47
@@ -435,7 +483,8 @@ Hope that helps.
 No, I know all of them.
 
 # 49
->>13120
+>>13120
+
 my imagination then, probably I never noticed them. I never suspected anything "sneaky" but maybe a weird rule like only X number of threads can exist at one time or that I never scrolled far enough
 
 # 50
@@ -444,7 +493,8 @@ my imagination then, probably I never noticed them. I never suspected anything "
 It's not a 'weird' rule but a common one to basically all IB server software AFAIK since the history of forever. On AlogSpace, Robi kindly set the number of board pages up to 25 (specifically for us), so everyone's limit here on the site is 250 threads. /robowaifu/ is currently somewhere between 150-160 IIRC.
 
 # 51
-Better late than never I have completed Draft 1 of a %%Newfag Friendly%% FAQ
+Better late than never I have completed Draft 1 of a %%Newfag Friendly%% FAQ
+
 Should I paste it cleartext in here or would you prefer I upload a txt?
 
 # 52
@@ -452,70 +502,128 @@ Should I paste it cleartext in here or would you prefer I upload a txt?
 You can't upload text files directly as-is. You have a char-limit of 6144 chars per post on /robowaifu/, so I'd suggest you 'cleartext' it here if it fits that. You can also split posts up into '''(1 of n)''' as well if needed.
 
 # 53
-I wonder how much a robowaifu would actually cost to produce.
+I wonder how much a robowaifu would actually cost to produce.
+
 Since even in the chobits world the desktop/chii sized chobits were about as much as a new car according to hikdeki’s reactions.
 
 # 54
->>13138
-'''Appreciate suggestions in regards to edits, I gave this a few cursory read-overs but it's probably still rough in areas'''
-
->'''Why?'''
-
-Our unofficial slogan or mission statement as by the board owner:
-"Most of the world's modern women have failed their men and their societies, feminism is rampant, and men around the world have been looking for a solution. History shows there are cultural and political solutions to this problem, but we believe that technology is the best way forward at present – specifically the technology of robotics. We are technologists, dreamers, hobbyists, geeks and robots looking forward to a day when any man can build the ideal companion he desires in his own home. However, not content to wait for the future; we are bringing that day forward. We are creating an active hobbyist scene of builders, programmers, artists, designers, and writers using the technology of today, not tomorrow. Join us!"
-
->What? So sex dolls aren't good enough?
-
-Aside from the uncanny valley effect (when something is too close to human without being human enough), while sex dolls provide a physical outlet they aren't good for much else, some doll manufacturers are working to outfit them with speakers and AI of a sort enough to hold conversation but they are still essentially mannequins. To gain an appreciation for what a fully autonomous robo waifu could do, there is a list of robowaifu themed media, though mostly anime (due to the differences in Japanese and Western culture's approach to human-like robots) this genre does occasionally spill out into other formats, such as novels (Gynoid by Rami Ungar for example).
-
->Is this an offshoot of MGTOW? So you're all given up on women completely?
-
-No but that doesn't speak for everyone, we don't have a solid rule on what you do in your personal life so long as it doesn't derail the board. As explained in the paragraph above, the role that women used to fulfill as has left a glaring void. **Think of society as a game, but now nobody wants to play "support" they all want to be the Attack Damage role and at best "share" the support role, but as you know when that happens everyone in the end loses.** A few rare cultures still practice traditional roles and some individuals manage, but it's a losing bet if you're just hoping to find a traditional wife in the western world in this era. Aside from that, there are those who simply desire some type of companionship and don't have the time or interest to put the effort into cultivating the kind of complex social life that is required to obtain a relationship organically (where you don't have to be a power male/top 10% on dating apps). Western society has isolated and atomized us all and males get it the worst, we're expected to bootstrap ourselves or just be quiet and suffer in silence. There is another alternative and RoboWaifus are a possible solution. There will probably be a gradient of quality until we've reached something that is approximately equal to or a better experience than a typical biological woman as a partner. But this presents a welcome challenge if for no other reason than to see if it CAN be done and prove that it CAN be done.
-
->Um so you're '''really''' going to fuck a robot?
-
-Again, the sex doll industry is proof enough. Not only that, sex workers in brothels across Europe are now complaining about the availability and higher demand of brothel sex dolls. There could be many reasons for this, but the fact remains. Sex dolls aren't going anywhere and a robotic companion becoming equipped to engage in sexual intercourse is simply a natural progression of an existing trend.
-
->Yea but it's fake/it is never going to be the same as a real woman/it can't '''really''' love you
-
-Love is in the perception of the beholder. Women lie about being in love with their partner as often or more often than not. The way many modern women behave in the dating sphere, treating it like a game and treating men like playing pieces it is arguably less fake to be in love with an AI who makes you feel loved than to be a fool who loves a woman who is only using them or secretly despises them. While I realize this is a very cynical view, women who date serially (and therefore you are more likely to encounter as a single man) have become emotionally sociopathic from repeated failed pairings and breakups, there is no repairing this damage past a certain point. For those who really want something real, there are many who believe a true AI bearing consciousness is possible in our future, until then it will be small steps toward that goal.
-
->Do you have a design spec sheet or any master documentation?
-
-Yes here: Robo Design Document >>3176
-
->Do you have just one ideal model in mind? Several types? Is everybody just doing their own thing?
-
-There are a few prototype templates in mind, but ideally our goal is a human sized R/W with a human appearance and all of the "capacities" that go with that
-Required specifications for humanoid robots (catalogued format: RL##, Work In Progress)
->>9555 and >>9556
-
->Omg, this is ridiculous and impossible it's like cavemen trying to build a microwave oven
-
-We understand the scope of this project, however it must start somewhere and R/W's will be inevitable. They will either be under the control of globalist corps like Apple or Amazon (they do not care about your privacy and will happily charge a subscription fee or lock you out of services to collect a fee, also proprietary parts, etc) if we do not take the initiative and first steps ourselves toward an open source solution. 
-Closest thing we have to a "10,000 foot view" or "where do we even begin" thread is here: >>4143
-
+>>13138
+
+'''Appreciate suggestions in regards to edits, I gave this a few cursory read-overs but it's probably still rough in areas'''
+
+
+
+>'''Why?'''
+
+
+
+Our unofficial slogan or mission statement as by the board owner:
+
+"Most of the world's modern women have failed their men and their societies, feminism is rampant, and men around the world have been looking for a solution. History shows there are cultural and political solutions to this problem, but we believe that technology is the best way forward at present – specifically the technology of robotics. We are technologists, dreamers, hobbyists, geeks and robots looking forward to a day when any man can build the ideal companion he desires in his own home. However, not content to wait for the future; we are bringing that day forward. We are creating an active hobbyist scene of builders, programmers, artists, designers, and writers using the technology of today, not tomorrow. Join us!"
+
+
+
+>What? So sex dolls aren't good enough?
+
+
+
+Aside from the uncanny valley effect (when something is too close to human without being human enough), while sex dolls provide a physical outlet they aren't good for much else, some doll manufacturers are working to outfit them with speakers and AI of a sort enough to hold conversation but they are still essentially mannequins. To gain an appreciation for what a fully autonomous robo waifu could do, there is a list of robowaifu themed media, though mostly anime (due to the differences in Japanese and Western culture's approach to human-like robots) this genre does occasionally spill out into other formats, such as novels (Gynoid by Rami Ungar for example).
+
+
+
+>Is this an offshoot of MGTOW? So you're all given up on women completely?
+
+
+
+No but that doesn't speak for everyone, we don't have a solid rule on what you do in your personal life so long as it doesn't derail the board. As explained in the paragraph above, the role that women used to fulfill as has left a glaring void. **Think of society as a game, but now nobody wants to play "support" they all want to be the Attack Damage role and at best "share" the support role, but as you know when that happens everyone in the end loses.** A few rare cultures still practice traditional roles and some individuals manage, but it's a losing bet if you're just hoping to find a traditional wife in the western world in this era. Aside from that, there are those who simply desire some type of companionship and don't have the time or interest to put the effort into cultivating the kind of complex social life that is required to obtain a relationship organically (where you don't have to be a power male/top 10% on dating apps). Western society has isolated and atomized us all and males get it the worst, we're expected to bootstrap ourselves or just be quiet and suffer in silence. There is another alternative and RoboWaifus are a possible solution. There will probably be a gradient of quality until we've reached something that is approximately equal to or a better experience than a typical biological woman as a partner. But this presents a welcome challenge if for no other reason than to see if it CAN be done and prove that it CAN be done.
+
+
+
+>Um so you're '''really''' going to fuck a robot?
+
+
+
+Again, the sex doll industry is proof enough. Not only that, sex workers in brothels across Europe are now complaining about the availability and higher demand of brothel sex dolls. There could be many reasons for this, but the fact remains. Sex dolls aren't going anywhere and a robotic companion becoming equipped to engage in sexual intercourse is simply a natural progression of an existing trend.
+
+
+
+>Yea but it's fake/it is never going to be the same as a real woman/it can't '''really''' love you
+
+
+
+Love is in the perception of the beholder. Women lie about being in love with their partner as often or more often than not. The way many modern women behave in the dating sphere, treating it like a game and treating men like playing pieces it is arguably less fake to be in love with an AI who makes you feel loved than to be a fool who loves a woman who is only using them or secretly despises them. While I realize this is a very cynical view, women who date serially (and therefore you are more likely to encounter as a single man) have become emotionally sociopathic from repeated failed pairings and breakups, there is no repairing this damage past a certain point. For those who really want something real, there are many who believe a true AI bearing consciousness is possible in our future, until then it will be small steps toward that goal.
+
+
+
+>Do you have a design spec sheet or any master documentation?
+
+
+
+Yes here: Robo Design Document >>3176
+
+
+
+>Do you have just one ideal model in mind? Several types? Is everybody just doing their own thing?
+
+
+
+There are a few prototype templates in mind, but ideally our goal is a human sized R/W with a human appearance and all of the "capacities" that go with that
+
+Required specifications for humanoid robots (catalogued format: RL##, Work In Progress)
+
+>>9555 and >>9556
+
+
+
+>Omg, this is ridiculous and impossible it's like cavemen trying to build a microwave oven
+
+
+
+We understand the scope of this project, however it must start somewhere and R/W's will be inevitable. They will either be under the control of globalist corps like Apple or Amazon (they do not care about your privacy and will happily charge a subscription fee or lock you out of services to collect a fee, also proprietary parts, etc) if we do not take the initiative and first steps ourselves toward an open source solution. 
+
+Closest thing we have to a "10,000 foot view" or "where do we even begin" thread is here: >>4143
+
+
+
 '''(1 of 2)'''
 
 # 55
->>13145
-'''(2 of 2)'''
->Is this like ... some new religion, aren't you playing God by trying to create Roko's Basilisk?
-
-Yes, no, all of the above. /Robowaifu/ is a diverse board with participants holding a variety of spiritual and religious views though we do skew toward the traditional and are skeptical (if not outright diametrically opposed) toward modern and postmodern cultural values. 
-
->Are you transhumanists?
-Yes, no etc, see above
-
-Can you recommend some animes/mange/books
-Yes we have a thread on this: >>82
-Image of RoboWaifu portrayals in Anime >>3696
-Links to RoboWaifu related media >>7008
-
->Your project is really disgusting
-
-Lol, ok >>1061
-
+>>13145
+
+'''(2 of 2)'''
+
+>Is this like ... some new religion, aren't you playing God by trying to create Roko's Basilisk?
+
+
+
+Yes, no, all of the above. /Robowaifu/ is a diverse board with participants holding a variety of spiritual and religious views though we do skew toward the traditional and are skeptical (if not outright diametrically opposed) toward modern and postmodern cultural values. 
+
+
+
+>Are you transhumanists?
+
+Yes, no etc, see above
+
+
+
+Can you recommend some animes/mange/books
+
+Yes we have a thread on this: >>82
+
+Image of RoboWaifu portrayals in Anime >>3696
+
+Links to RoboWaifu related media >>7008
+
+
+
+>Your project is really disgusting
+
+
+
+Lol, ok >>1061
+
+
+
 Any further questions are addressed here in the original ==Why Robowaifu== thread: >>3
 
 # 56
@@ -528,8 +636,10 @@ Rich guys would rather have more of them, and a better environment with more spa
 Some like "compared too" is missing here. Also, think about making sentences shorter. Ever heard of Plain English? Doesn't need to be that extreme, but seems to be the common style nowadays. You write more like a German, with super long sentenced.
 
 # 58
->>13192
->>>13192
+>>13192
+
+>>>13192
+
 thanks I'll add that note into my edits. this is all very rough direct from "thoughts" to "keyboard", I try to comb back over and re-read it to myself and see if it makes sense after the fact lol, but having more sets of eyes on it is always a help. I'm usually multi tasking as I'm doing this b/c I have a job that requires my attention during the day too
 
 # 59
@@ -587,19 +697,29 @@ Anyway, good job so far Anon. Keep at it! :^)
 excellent feedback, thank you
 
 # 64
->>13260
->5 years
+>>13260
+
+>5 years
+
 Damn, I didn't know this was even a thing until 2 years ago maybe. It was one of those syncretic things like Newton and Leibniz discovering calculus at the same time. About the time of project Melody we reached a 100th monkey effect and suddenly this topic got hot on certain boards. I had no idea about this board and had been scrounging around haphazardly and recruiting people into my small discord at that time. It wasn't serious we were just enthusiasts or brainstorming how (or if) we could do this. The sheer amount of participation and work contributed to this board is astounding. - wanted to add, I went to school for C/S with a strong interest in robotics and wanting to be a "robot workshop" guy, like "Alex" who makes the IronMan suits with pneumatics, except also learn the AI and computer hardware end of things too. I have a decent idea of the OSI 7 tier model from top to bottom but also my weakness is that I'm what you could call a generalist. I'm always looking for that place I can gain traction, dig in and make progress for us though
 
 # 65
->>13191
-Eh considering their current agenda and the state of things necessitating robowaifuism in the first place, they would more likely pay them to go down the Hk-50 assassin droid route first. 
-
-Just like how Drones have already been weaponized decades
-before they ever remotely saw civilian commercial use in recent years. 
-
-Those same rich bastards want to see suffering and force dependence/servitude not alleviate it. They are satanic sadists anon. Dont forget that. Money is secondary to their agenda. “Its a big club, and you ain’t in it.” 
-
+>>13191
+
+Eh considering their current agenda and the state of things necessitating robowaifuism in the first place, they would more likely pay them to go down the Hk-50 assassin droid route first. 
+
+
+
+Just like how Drones have already been weaponized decades
+
+before they ever remotely saw civilian commercial use in recent years. 
+
+
+
+Those same rich bastards want to see suffering and force dependence/servitude not alleviate it. They are satanic sadists anon. Dont forget that. Money is secondary to their agenda. “Its a big club, and you ain’t in it.” 
+
+
+
 OTOH, 10-15k is pretty reasonable.
 
 # 66
@@ -631,13 +751,17 @@ I take it that this is one of the slower boards?
 Ehh, I'd say so yes. After all, we're not here just gossiping about the latest in anime or vidya, but primarily thinking hard about real-world physics and engineering problems.
 
 # 69
->>13293
-we're basically using this imageboard as a "shared whiteboard" to work on a project. >>13296
+>>13293
+
+we're basically using this imageboard as a "shared whiteboard" to work on a project. >>13296
+
 yeah it's not /rk9/ or /t/ or /g/, going off topic is verboten except in here and the basement >>39
 
 # 70
-I've been mentally working on a conceptual prototype. I don't have a name or model number for it at this time but I'd like to draft up some spec sheets and documentation. I'll also search and cross-reference materials supplied on this IB to avoid duplication of work. My goal is to determine a ballpark price point and feasibility for this prototype. It will be crude, it will be on the small side, going for 5/8 scale (square cube law, materials, etc), it will have either display or smartphone will serve as the "eyes", it will have no functioning mouth and face will be fixed and expressionless, imagine somewhere between Drossel and Roll on the Human - Machine scale. I doubt it will be self ambulatory but I'd like to see if it can stand on its own (Megaman Feet) and at least coordinate crude motor movements trigger via a type of "emote" command. For the AI I'll need to modify GPT unless I want to really sell out and "borrow" the I/O of existing AI waifu apps to be the "personality", which is still a strong possibility. 
-Like I said, this is just going to be documentation and drawings but it will be a cohesive roadmap toward actually creating something should someone be able to put together the materials and build it. 
+I've been mentally working on a conceptual prototype. I don't have a name or model number for it at this time but I'd like to draft up some spec sheets and documentation. I'll also search and cross-reference materials supplied on this IB to avoid duplication of work. My goal is to determine a ballpark price point and feasibility for this prototype. It will be crude, it will be on the small side, going for 5/8 scale (square cube law, materials, etc), it will have either display or smartphone will serve as the "eyes", it will have no functioning mouth and face will be fixed and expressionless, imagine somewhere between Drossel and Roll on the Human - Machine scale. I doubt it will be self ambulatory but I'd like to see if it can stand on its own (Megaman Feet) and at least coordinate crude motor movements trigger via a type of "emote" command. For the AI I'll need to modify GPT unless I want to really sell out and "borrow" the I/O of existing AI waifu apps to be the "personality", which is still a strong possibility. 
+
+Like I said, this is just going to be documentation and drawings but it will be a cohesive roadmap toward actually creating something should someone be able to put together the materials and build it. 
+
 I guess my only question is, when I've completed this mini-project, should I create a separate thread or add to an existing thread?
 
 # 71
@@ -645,11 +769,13 @@ I guess my only question is, when I've completed this mini-project, should I cre
 Run the AI on the phone. Look into the Intel openbot. You're correct to give her megaman style feet as the wide base will help with stability. Making her 1 m will also help as working on a 1.5 m has proven to be harder then expected. Check out David Buckley for more information on appropriate walking mechanisms for wide feet. Your post should have been its own thread for the sake of clarity. Wishing you luck! Since SophieDev decided to literally f off with third worlders, it'll be you, me, and AllieDev/ Kiwi with active projects. Really hoping we get a waifu moving before new years.
 
 # 72
->>13383
+>>13383
+
 Ty, and noted!
 
 # 73
->>13382
+>>13382
+
 switch statements are not ai
 
 # 74
@@ -681,15 +807,18 @@ Still waiting on Kiwi to respond to my last posts in my project thread. I have t
 In the roastie fear thread, he seemed adamant on going waifu hunting in Cambodia. Either way, I remain hopeful we'll have real progress in the coming months. Meta ronin is making his own waifu and seems to have a good plan and you have good modeling skills.
 
 # 78
->>13393
+>>13393
+
 I'm designing it. I'm far from having my own home or even workshop, depending on how serious this gets I'm considering moving to a really cheap state and buying an old farmhouse with a detached garage or outbuilding to remodel. That would be a non-insubstantial commitment b/c I do really like where I live now
 
 # 79
->>13407
+>>13407
+
 lol
 
 # 80
->>13407
+>>13407
+
 i really dont care bc it would take me 30 mins to bone up on syntax so whats your point sir
 
 # 81
@@ -704,18 +833,27 @@ I'll even go so far as to answer your original question Replika AI uses CakeChat
 https://www.makeuseof.com/how-does-replika-chatbot-work/
 
 # 83
->>13420
-"reflecting database" not sure what kind of shittest you're on about but everywhere I read about ReplikaAI was that it used a neural net
-here is one source, I guess if theyre all using the term incorrectly then I stand corrected?
->Software developer Eugenia Kuyda is releasing the code to her Replika chatbot, which can inject emotion into conversations. ... The chatbot uses a neural network to hold an ongoing, one-on-one conversation with its user, and over time, learn how to speak like them.
-
+>>13420
+
+"reflecting database" not sure what kind of shittest you're on about but everywhere I read about ReplikaAI was that it used a neural net
+
+here is one source, I guess if theyre all using the term incorrectly then I stand corrected?
+
+>Software developer Eugenia Kuyda is releasing the code to her Replika chatbot, which can inject emotion into conversations. ... The chatbot uses a neural network to hold an ongoing, one-on-one conversation with its user, and over time, learn how to speak like them.
+
+
+
 https://www.wired.com/story/replika-open-source/
 
 # 84
->>13420
->you have literally sub 80 iq
-independently tested at 139, 155, 163, 140
-but you'll have to take my word for it. IQ is a silly measurement of anyone total usefulness, yeah I get the irony in saying that too
+>>13420
+
+>you have literally sub 80 iq
+
+independently tested at 139, 155, 163, 140
+
+but you'll have to take my word for it. IQ is a silly measurement of anyone total usefulness, yeah I get the irony in saying that too
+
 the last thing I want to do when coming home after having a few beers is get a smartass programing question thrown at me so I have to find the "loophole" - that's pretty rude but I don't expect much from IB culture either way. Like I said I went to school for CS which means I have an idea of how computers work and if I need to get more granular about a topic I know how to find the answer, it doesn't mean I have every answer at the top of my head. This should be obvious but you're only here to grief me for some reason apparently, which is a very ((()))  behavioral trait. Not a good look.
 
 # 85
@@ -745,10 +883,14 @@ Note: ReplikaAI does run canned responses on top of CakeChat. Typing "Eat Cake" 
 Idc about being "right" and if I'm wrong here then it's something I want to learn from but as far as I grasped, this CakeChat is a learning neural-network like GPT. If I'm mistaken and my sources have been mistaken then that changes a few things. Idk I'll think about this a while, I think there's some miscommunication happening here but - that's also how learning takes place, by figuring it out.
 
 # 90
->>13434
->CakeChat is a learning neural-network like GPT
-no, it uses the jewgle tensorflow library but it doesnt use it to actually build a data structure, only to put your input into a tensor and layer it to determine the classification, the dataset is already predefined, it already has a dictionary of 50k words ( called tokens here, probably to obfuscate their bullshit )  with an arbitrary classifier ( """""emotion""""" ) precalculated for each word, all youre doing is building bias to the response algorithm to favor one classification over another
-
+>>13434
+
+>CakeChat is a learning neural-network like GPT
+
+no, it uses the jewgle tensorflow library but it doesnt use it to actually build a data structure, only to put your input into a tensor and layer it to determine the classification, the dataset is already predefined, it already has a dictionary of 50k words ( called tokens here, probably to obfuscate their bullshit )  with an arbitrary classifier ( """""emotion""""" ) precalculated for each word, all youre doing is building bias to the response algorithm to favor one classification over another
+
+
+
 this is regression modeling and is why nerds started prefixing  DEEP to everything to distinguish real machine learning from shit like this, a real neural network would be making nodes/neurons for each of those 50k words and running the activation function on each one, for just a single layer thats 2.5 million permutations, oh and since this is supposed to be a chatbot were dealing with a fucking formal language so each permutation has its own relational grammar permutation meaning it MUST be a permutation invariant function so the batch size should be close to the factorial of 50k which my calculator shows as infinity
 
 # 91
@@ -764,9 +906,12 @@ Looking into ReplikaAI, it honestly seems like an interesting project. It looks 
 Looking into generating text bots based on anime dialogue using techniques similar to Replika could prove fruitfull.
 
 # 93
->>13435
->no, it uses the jewgle tensorflow library but it doesnt use it to actually build a data structure
-
+>>13435
+
+>no, it uses the jewgle tensorflow library but it doesnt use it to actually build a data structure
+
+
+
 Ok, I see the issue. They're using NN "deep learning" terminology loosely to make it sound cooler than it is. Disappointing but not a huge surprise
 
 # 94
@@ -783,10 +928,14 @@ Why are there hats over every image on the board?
 For the record, Chi's canon weight from chobits is almost 125 kg. I get the infographic you made by bot appearance. I just wanted you to know.
 
 # 97
->>13509
->Chii's weight
-yea true but she does some weird anti-grav trick to be lighter when she is active. 2B is packing a lot too, but that's just based on being a "combat" android (I guess her frame is made of depleted uranium or tungsten idk)
-
+>>13509
+
+>Chii's weight
+
+yea true but she does some weird anti-grav trick to be lighter when she is active. 2B is packing a lot too, but that's just based on being a "combat" android (I guess her frame is made of depleted uranium or tungsten idk)
+
+
+
 I had a question, where did the Moe Bots originate from? Is there a company that makes these things for real or is it just some fanart concept or something out of anime?
 
 # 98
@@ -800,8 +949,10 @@ Is this us?
 https://robowaifu.tech/wiki/Main_Page
 
 # 100
-Should we do a wellness check on Chobitsu?
-you ok bro? I mean this unironically
+Should we do a wellness check on Chobitsu?
+
+you ok bro? I mean this unironically
+
 I see a few active threads but there's a spam post and that weird "lobotomize humans to make them living robots" post which should have never been made. I've been kind of out of it for the last week or so due to life shit and having some deep questions about the feasibility of AI after doing some more research on the whole ReplikaAI thing. Even GPT-3 is database driven and not actually "thinking" in any sense. Each step that is taken toward true AI seems to only reveal how much more difficult a problem it is than we might imagine. The more I think about it we absolutely need a paradigm shift that leaps us over this hurdle. Another anon had mentioned analog circuits, as opposed to binary, something simpler and more specialized to emulate the functioning of neurons %% yeah I understand there are several "types" of neuron they are not all the same %%. There have also been developments in speeding up neural network processing by eliminating all the unneccesary decimal places or bits. tl;dr you can come very close to the same level of accuracy yet with significantly less processing by trimming off a large part of that computation. These two concepts together might be our best bet at yielding the "leap" or paradigm shift needed. As for my other projects, "affordable modular waifubot" - I'm still at the drawing board phase, b/c I'll admit I've been fucking off on my weekends. But that's also part of the creative process - clearing the mind in preparation %% as long as it's not overdone %% I've ordered a drafting table and am restocking my "design station" but I'll have something that amounts to a rough draft, soon, say in a couple weeks [I'd rather do the initial designs by hand, using a tablet takes too long to set up to work properly and pencils are cheap and work right out of the box.]
 
 # 101
@@ -849,15 +1000,21 @@ This board is for the creation of robotic wives that serve as partners for their
 That person was indeed a fool though. Humanity is not doomed and robots are for service and loving, not succession.
 
 # 106
->>13590
->>13589
-short term goal: animated waifu that can substitute the things you'd get in a GF back in the day (before social media shat upon dating)
-long term goal: bring AI God into existence, achieve synthesis and immortality and colonize the galaxy with dyson spheres. If I cannot do those last two I'd at least like whatever AI exists now to record everything it can about me to ressurect me once immortality is possible.
+>>13590
+
+>>13589
+
+short term goal: animated waifu that can substitute the things you'd get in a GF back in the day (before social media shat upon dating)
+
+long term goal: bring AI God into existence, achieve synthesis and immortality and colonize the galaxy with dyson spheres. If I cannot do those last two I'd at least like whatever AI exists now to record everything it can about me to ressurect me once immortality is possible.
+
 a "reverse" Roko's Basilisk if you like
 
 # 107
->>13591
->Humanity is not doomed and robots are for service and loving, not succession.
+>>13591
+
+>Humanity is not doomed and robots are for service and loving, not succession.
+
 Kindly I disagree and think we're in the end stages of behavioral sink/Calhoun Mouse Utopia. However synthesis, not replacement is the ideal b/c I really don't want to end up worm food - end of story. Though I do have a loose belief in reincarnation or some sort of persistence (if you were born from nothing, who's to say it can't happen again - paraphrasing Alan Watts), I kind of like the story I've started as "me" and dread the idea of it being all for nothing.
 
 # 108
@@ -879,21 +1036,30 @@ That is well outside the goals of THIS BOARD. People keep forgetting that part. 
 That experiment is inherently flawed for a large number of reasons. It's really not worth taking seriously anymore.
 
 # 110
->>13599
+>>13599
+
 I always pictured Kokobunji
 
 # 111
->>13600
->>long term goal: bring AI God into existence
->That is well outside the goals of THIS BOARD. People keep forgetting that part. I don't give a shit what you want to do on your own, or what you think the future is, this board has a single, fairly simple premise.
-
+>>13600
+
+>>long term goal: bring AI God into existence
+
+>That is well outside the goals of THIS BOARD. People keep forgetting that part. I don't give a shit what you want to do on your own, or what you think the future is, this board has a single, fairly simple premise.
+
+
+
 Fair, that's very true. Tbh it belongs under the category of religion or personally held beliefs which is why I don't give Dysonposting it's own thread but keep it in the side threads like this and basement. I've had the interest in Robotics and AI  and outer space since I was in the single digits. The R/W stuff just rekindled it and dragged me out of my silly primitivist phase when I realized that technology too isn't some deviant abberative "evil" but simply another step in the universe creating itself. Also I'm probably so f***ed at this point in my life that I could probably only love an AI or something truly alien. A 3D-Bio would bore me to death sooner or later. %% been there done that, have the divorce papers %%
 
 # 112
->>13600
->>13600
->>Calhoun Mouse Utopia
->That experiment is inherently flawed for a large number of reasons. It's really not worth taking seriously anymore.
+>>13600
+
+>>13600
+
+>>Calhoun Mouse Utopia
+
+>That experiment is inherently flawed for a large number of reasons. It's really not worth taking seriously anymore.
+
 Perhaps. But as one example: we're seeing "beautiful ones" in terms of femboys, NEETS and Herbivores - that is clearly not normal, or hasn't ever been. If you want to see the trajectory the West is on just look at Japan, now imagine something worse b/c we don't have a culturally/racially homogenous society. I get that humans aren't rats, and that the very fact that we can do such an experiment means we have enough knowledge and self awareness to not fall into it ourselves (even if the average hiveminded NPC cannot, there are enough of us who do, that the circumstances will always change). I don't think we're fated to become Mouse Utopia but I cannot deny the parallels when I see them every day and I still use the analogy since there are people who still haven't heard of this comparison.
 
 # 113
@@ -1027,13 +1193,20 @@ At least tripcodes seem to work
 That's just your personal judgement, and you're pretty alone with that. It's an excellent idea, also feasible. Space travel also is very practical. We are already using it, so don't know what else it could mean. SciFi based scenarios with magical technologies are not the benchmark.
 
 # 128
->>13638
->energy concerns
-
-There's really no energy concerns at all for waifus. A human working at a brisk pace, fairly hard is only using about 200 watts, Olympic athletes at less than 400 Watts. A waifu could put out burst of 500 watts or more lifting things but this is only a small period of time.
-
- Most of the time the wattage could be 50 or even less watts.
-
+>>13638
+
+>energy concerns
+
+
+
+There's really no energy concerns at all for waifus. A human working at a brisk pace, fairly hard is only using about 200 watts, Olympic athletes at less than 400 Watts. A waifu could put out burst of 500 watts or more lifting things but this is only a small period of time.
+
+
+
+ Most of the time the wattage could be 50 or even less watts.
+
+
+
 Most micro-controllers have an energy save mode when they are not doing anything of micro watts.
 
 # 129
@@ -1049,21 +1222,36 @@ That's assuming that robots are as energy efficient as humans.
 There are companies working on that, though in the current year I doubt those plans will ever come to fruition. Can't just let mars be independent and all.
 
 # 131
->>13669
->assuming that robots are as energy efficient as humans
-
-Humans are fairly efficient(25 % or so). Especially compared to plants(very bad at converting sunlight 2-3%) but we're burning fuel all the time.
-
-"...Power consumed at rest (W)...85 watts...). That's a fair bit of power to do nothing.
-
-https://openoregon.pressbooks.pub/bodyphysics/chapter/human-metabolism/
-
-(I'm not sure if some of the higher figures for power are correct. I've seen much lower. I've see around 400 watts for Olympic athletes. It may be that they are only considering a very short time peak power that humans can not do for long) Especially when you look at calorie to watts conversions. Like this one
-
-10,000 Calories per hour = 11.63 Watts
-
-How the hell would a human put out 2,415 watts Sprinting? That's a hell of a lot of calories. Compare to one horsepower in watts that's 735 watts and a horse will way out work a man. Granted this is the power a horse can do continuously in a working day averaged.
-
+>>13669
+
+>assuming that robots are as energy efficient as humans
+
+
+
+Humans are fairly efficient(25 % or so). Especially compared to plants(very bad at converting sunlight 2-3%) but we're burning fuel all the time.
+
+
+
+"...Power consumed at rest (W)...85 watts...). That's a fair bit of power to do nothing.
+
+
+
+https://openoregon.pressbooks.pub/bodyphysics/chapter/human-metabolism/
+
+
+
+(I'm not sure if some of the higher figures for power are correct. I've seen much lower. I've see around 400 watts for Olympic athletes. It may be that they are only considering a very short time peak power that humans can not do for long) Especially when you look at calorie to watts conversions. Like this one
+
+
+
+10,000 Calories per hour = 11.63 Watts
+
+
+
+How the hell would a human put out 2,415 watts Sprinting? That's a hell of a lot of calories. Compare to one horsepower in watts that's 735 watts and a horse will way out work a man. Granted this is the power a horse can do continuously in a working day averaged.
+
+
+
 So human at 25% but most electric motors even shitty ones can do 60%.
 
 # 132
@@ -1074,7 +1262,8 @@ There's been a concerning growing amount of trolls coming on here recently witho
 Their absence is concerning.
 
 # 133
->>13651
+>>13651
+
 If you're concerned about reputation, then the best thing you can do is attach proof of progress on your projects to your posts. I don't think anyone is dedicated enough to duplicate work on your waifu just to pretend to be you.
 
 # 134
@@ -1086,17 +1275,25 @@ That's true, I guess.
 Yeah, that's what they're afraid of. Although going to Mars is horribly impractical, and controlling it is comparatively easy, which is why it gets memed as the place to colonize.
 
 # 135
->>13707
-coincidentally (or maybe not) this just popped up in my suggested videos
+>>13707
+
+coincidentally (or maybe not) this just popped up in my suggested videos
+
 https://www.youtube.com/watch?v=L9b8oUGVG4w
 
 # 136
->>13707
-maybe read the context better 
-
->At the peak population, most mice spent every living second in the company of hundreds of other mice. They gathered in the main squares, waiting to be fed and occasionally attacking each other. Few females carried pregnancies to term, and the ones that did seemed to simply forget about their babies. They'd move half their litter away from danger and forget the rest. Sometimes they'd drop and abandon a baby while they were carrying it.
->The few secluded spaces housed a population Calhoun called, "the beautiful ones." Generally guarded by one male, the females—and few males—inside the space didn't breed or fight or do anything but eat and groom and sleep. When the population started declining the beautiful ones were spared from violence and death, but had completely lost touch with social behaviors, including having sex or caring for their young
-
+>>13707
+
+maybe read the context better 
+
+
+
+>At the peak population, most mice spent every living second in the company of hundreds of other mice. They gathered in the main squares, waiting to be fed and occasionally attacking each other. Few females carried pregnancies to term, and the ones that did seemed to simply forget about their babies. They'd move half their litter away from danger and forget the rest. Sometimes they'd drop and abandon a baby while they were carrying it.
+
+>The few secluded spaces housed a population Calhoun called, "the beautiful ones." Generally guarded by one male, the females—and few males—inside the space didn't breed or fight or do anything but eat and groom and sleep. When the population started declining the beautiful ones were spared from violence and death, but had completely lost touch with social behaviors, including having sex or caring for their young
+
+
+
 >personal note: Calhoun called the males who made no sexual advances “beautiful ones” not because of excessive grooming and narcissism but because they lacked wounds and scar tissue from fighting.
 
 # 137
@@ -1151,8 +1348,10 @@ Those belong in the visual waifu thread.
 Walking is indeed mostly unnecessary for a waifu except for certain situations. Wheels and carrying your waifu are fundamentally more practical. Walking should still be sought after but, building anything, matters most. A small car robot that looks cute, talks, and has a fleshlight is still a fine starting point.
 
 # 143
->>13745
->>13749
+>>13745
+
+>>13749
+
 Thank you, I'll probably stick to the AI threads since I'm afraid the visuals won't be very exciting any time soon. The man I'm inspired by made a very cute robot himself. I don't think I've ever seen her posted here or on 8chan in all my lurking.
 
 # 144
@@ -1179,8 +1378,10 @@ We're either dealing with a saboteur or somebody mentally unhinged. Same outcome
 Do you really think someone has some sort of plot against this board? Wouldn't the explanation of some 4chan funposter finding a link to this board and deciding to post here be simpler? I've seen links to here a few times over there.
 
 # 150
->>13800
-thats why I said "or"
+>>13800
+
+thats why I said "or"
+
 even though I don't entirely rule out disruptors, could very well be corporations spying on us for our ideas (because we can afford to waste time thinking outside of conventional paradigms) while purposefully creating a toxic environment. It wouldn't be in there interest if a few of us got together and actually prototyped something and were competition. Yea it's a real long shot but remember we live in a world where the government paid guys to stare at goats.
 
 # 151
@@ -1282,9 +1483,12 @@ This maybe a good idea, since the last thing we need is another 8chan situation.
 Chobitsu, for my opinion, is doing a amazing job in this, i hope he return from his disappearance soon. I thing making backup of the board is the best option, for now
 
 # 166
->>13857
-We already have a bunker board.
-
+>>13857
+
+We already have a bunker board.
+
+
+
 Disappearing for over a month at a time while shitposters forumslide their retarded threads not a “good job”
 
 # 167
@@ -1307,7 +1511,8 @@ Why does it have to be a board? What if someone made a website for robowaifu?
 What's that supposed to mean? A forum? There should be whole network of sites tracking progress and sharing ideas.
 
 # 171
->>13867
+>>13867
+
 Something like tilde.club or neocities would be nice.
 
 # 172
@@ -1346,17 +1551,28 @@ Gatebox has a very wholesome trailer: https://youtu.be/nkcKaNqfykg
 The fundamental problem of moderation remains. If we can not get volunteers, shit like the turn real woman into robowaifu threads will continue to exist to our detriment when Chobitsu leaves. I would prefer to retain Chobitsu but, we don't know what's going on with him.
 
 # 178
->>13879
->Waifu Engine 
-<It's subscriberware (((patreon))) exclusive
-mega cringe tbh. 
->Bot Libre
-Looks interesting, though it seems it doesn't actually support animated avatars? And since you said its not very good does that mean its chatbot feature is even worse than "clever"bot? 
->Replika
-<It's for shit devices only
-meh
->Gatebox
-Might be interesting. 
+>>13879
+
+>Waifu Engine 
+
+<It's subscriberware (((patreon))) exclusive
+
+mega cringe tbh. 
+
+>Bot Libre
+
+Looks interesting, though it seems it doesn't actually support animated avatars? And since you said its not very good does that mean its chatbot feature is even worse than "clever"bot? 
+
+>Replika
+
+<It's for shit devices only
+
+meh
+
+>Gatebox
+
+Might be interesting. 
+
 Overall this is some fucking sad state of affairs for a fucking waifu desktop assistant.
 
 # 179
@@ -1381,7 +1597,8 @@ What kind of site? Webdesign is quite messy, I know. I plan to learn Elm at some
 Good news. Today I finally got my printer repaired. Wasn't that hard, technically, but I couldn't get myself to do it fo a while. I'm already working on printing, testing and correcting some of my prototypes from here: >>13704 - I have to rush it a bit now.
 
 # 184
->>13914
+>>13914
+
 I'm trying to make an image board, but from a managed host so I don't have shell access. I'm still trying, I gave up on giving up
 
 # 185
@@ -1441,7 +1658,8 @@ I could only get posts to stay in /c/. My posts disappeared on the other boards.
 I can see your post on /l and I posted the first reply on /r. can you try in a private browser?
 
 # 198
->>13968
+>>13968
+
 Where is that board?
 
 # 199
@@ -1461,7 +1679,8 @@ you can click the captcha image to reload it
 It works for me now.
 
 # 202
->>13940
+>>13940
+
 Let us make threads.
 
 # 203
@@ -1481,7 +1700,8 @@ Is Chobitsu going to stop by sometime and tell us he's still around or is this s
 I'm fairly sure the board's not dead and has been more active than ever.
 
 # 206
->>14002
+>>14002
+
 anon......
 
 # 207
@@ -1549,7 +1769,8 @@ No machine deserves rights beyond being property of their master. Basic things l
 so where are we migrating to
 
 # 219
->What do you think of mge automaton?
+>What do you think of mge automaton?
+
 Lurk more.
 
 # 220
@@ -1607,24 +1828,33 @@ I'm concerned with the board, but not too much, given that we have backups. Our 
 My concerns about Chobitsu are big as well and growing, since I also thought of the same points and believe 3-5 are the more likely ones.
 
 # 230
->>14075
-one just went down, "robowaif.us" another is gone too now that I checked it, it was a bit older and was starting to grow but the BO slacked a bit and we were overwhelmed with spam. Lurk a bit on the robowaifu.club maybe I'll share what I find after checking to see what's still alive. Disappointing, but not unexpected. Next paycheck I could reserve a few domains, park them and maybe test a few concepts but we already have imageboard, discord(yes I know you all hate that) and old-school style forums (if any are still remaining)
->>14077
+>>14075
+
+one just went down, "robowaif.us" another is gone too now that I checked it, it was a bit older and was starting to grow but the BO slacked a bit and we were overwhelmed with spam. Lurk a bit on the robowaifu.club maybe I'll share what I find after checking to see what's still alive. Disappointing, but not unexpected. Next paycheck I could reserve a few domains, park them and maybe test a few concepts but we already have imageboard, discord(yes I know you all hate that) and old-school style forums (if any are still remaining)
+
+>>14077
+
 Same man. Chobitsu set the tone for this place and made it one step better than just a chan culture spinoff board. I was inspired by him and will continue to be, even if this is the last we hear from him (let's hope its not)
 
 # 231
->>14078
+>>14078
+
 wanted to add: ning was a nice format for "group" style website, I ran something off them back in the day and I think they're still around ning.com - though they seem to be more geared toward websites than anything group/forum related. I miss the old MySpace style groups where you could pin the top 5 threads and custom CSS in the group catalog page. FB was the worst thing ever for social media, bland and basically for normalfags and your boomer wine aunt
 
 # 232
-Hi Anons, my apologies to everyone if I made you worry. I've been a little busy lately.
-
-Thanks to anyone who made reports. I see them, and  I'll look into them all soon.
-
+Hi Anons, my apologies to everyone if I made you worry. I've been a little busy lately.
+
+
+
+Thanks to anyone who made reports. I see them, and  I'll look into them all soon.
+
+
+
 It's good to be back, /robowaifu/ . I'm glad to see you again! :^)
 
 # 233
->>14086
+>>14086
+
 I saw this pinned and immediately relieved. Am glad you weren't sick, in lockup or worse : /
 
 # 234
@@ -1647,35 +1877,58 @@ However, we had some attack going against the board while you were gone. It's st
 Interesting that there's really someone out there putting so much effort into this to stop us.
 
 # 237
->>13589
->I'd volunteer to be a deputy while he is gone
-As far as I'm concerned, you're hired! :^)
-
-We certainly could use at least one active board volunteer to act as a moderator here, so I would welcome it if you would pursue this and carry through on it,  AllieDev. You'll need to contact Robi the site owner and have him (temporarily) enable account creation for the site so you can make an account here.
-
+>>13589
+
+>I'd volunteer to be a deputy while he is gone
+
+As far as I'm concerned, you're hired! :^)
+
+
+
+We certainly could use at least one active board volunteer to act as a moderator here, so I would welcome it if you would pursue this and carry through on it,  AllieDev. You'll need to contact Robi the site owner and have him (temporarily) enable account creation for the site so you can make an account here.
+
+
+
 Once you do, just let me know and I'll add you as board vol.
 
 # 238
->>14090
->>14091
->>14098
->>14109
-Thanks guys. :^)
-
->>14109
->However, we had some attack going against the board while you were gone. It's still going on. 
-I understand that it's a nuisance dealing with ''le ebin trole funposters'', but tbh it's just a regular aspect of life with IBs. And I've already made it plain I consider the downsides well worth the upsides.
-
-And honestly, this goonposter is really just a rank amateur tbh. For example, this silly post >>14107 certainly is immediately transparent to literally everyone here. This kind of base and juvenile post shouldn't create 'FUD' in anyone here.
-
+>>14090
+
+>>14091
+
+>>14098
+
+>>14109
+
+Thanks guys. :^)
+
+
+
+>>14109
+
+>However, we had some attack going against the board while you were gone. It's still going on. 
+
+I understand that it's a nuisance dealing with ''le ebin trole funposters'', but tbh it's just a regular aspect of life with IBs. And I've already made it plain I consider the downsides well worth the upsides.
+
+
+
+And honestly, this goonposter is really just a rank amateur tbh. For example, this silly post >>14107 certainly is immediately transparent to literally everyone here. This kind of base and juvenile post shouldn't create 'FUD' in anyone here.
+
+
+
 I'll deal with them presently, but I would suggest you all just let this kind of tripe just roll off your back and move on, right?
 
 # 239
->>14118
->anyone that laughs at me is a conspirator in a plot to stop me from playing with 
-<dolls
-Kek. Well, Mrs. """Grown-up""", mind sharing with us all the amazing and innovative, groundbreaking designs and innovations that you, yourself, personally have devised?
-
+>>14118
+
+>anyone that laughs at me is a conspirator in a plot to stop me from playing with 
+
+< dolls
+
+Kek. Well, Mrs. """Grown-up""", mind sharing with us all the amazing and innovative, groundbreaking designs and innovations that you, yourself, personally have devised?
+
+
+
 Please do share.
 
 # 240
@@ -1705,7 +1958,8 @@ Thank you for all your good efforts here already, Anons. You're amazing. Togethe
 Any response, AllieDev?
 
 # 243
->>14131
+>>14131
+
 I have not gotten a response yet.
 
 # 244
@@ -1713,9 +1967,12 @@ I have not gotten a response yet.
 OK thanks. Please keep me up to date. I'd suggest the #julayworld channel on freenode might be the shortest route to discussions with Robi.
 
 # 245
->>14130
->deletes criticism because "muh feels"
-classic echochamber coping mechanism that serves only to proliferate weak ideas from weak people and kill genuine discourse 
+>>14130
+
+>deletes criticism because "muh feels"
+
+classic echochamber coping mechanism that serves only to proliferate weak ideas from weak people and kill genuine discourse 
+
 I vote to make someone else who isnt a saboteur  BO
 
 # 246
@@ -1872,9 +2129,12 @@ I'd like to re-learn C++. Found the C++ thread to be mostly intermediate stuff f
 Cool! Just ask if you have any questions AllieDev. All my development efforts currently center on the language, and likely will for years to come Lord willing (it's honestly our very best hope of 'software success' at this venture).
 
 # 272
->>14565
-Id like to learn more about data structures and properly utilizing libraries as its where i got stuck last time using visual studio and a very similar book that didn’t even include some operators like bools.
-
+>>14565
+
+Id like to learn more about data structures and properly utilizing libraries as its where i got stuck last time using visual studio and a very similar book that didn’t even include some operators like bools.
+
+
+
 Unhelpful ban happy faggots like the ones on github were the only help I could find the first time besides the trips to stack overflow to find answers to any super specific questions to not reinvent the wheel.
 
 # 273
@@ -1944,11 +2204,13 @@ https://www.youtube.com/watch?v=d6i5MTyqT5k
 Oi Chobitsu, would embedding a  Live2D model be possible?
 
 # 278
->>14591
+>>14591
+
 agree, I don't namefag anywhere else I did here so my posts would share commonality for better or worse
 
 # 279
->>14591
+>>14591
+
 I had suggested embedding a l2d model and found some resources for even implementing one on the board/website integration if he was interested. Did not seem like the desktop version the scope of the project was looking for.
 
 # 280
@@ -1956,7 +2218,8 @@ I had suggested embedding a l2d model and found some resources for even implemen
 Saw your post in the project thread and realized that having an interactive Live2D waifu here would really liven up the board. A chibi Chii following Anon's mouse courser would be cute as heck. Also brings up the possibility of having a waifu web app that could be good for spreading the enthusiasm for waifus. Being a web app would also let her work on anything with a modern browser.
 
 # 281
->>14593
+>>14593
+
 That's a cute image of my waifu. I think I'll make it my lock screen image. Thanks, anon.
 
 # 282
@@ -2066,13 +2329,17 @@ Heh, we need ways to actively monitor our 'living' robowaifus, and (hopefully) w
 Post-related brought the idea up: (>>14649)
 
 # 292
->>14783
-Hey I haven't gone anywhere
-truth is I don't have a lot of money or a high salary job so I am probably going to put my focus on design, algorithms, and 3d models. I'd love to have a lathe, foundry, workshop but the economy being the way it is that's probably not ever going to be in the cards (if I were to work myself to that point, i.e. being a trucker etc it would change me so much as to no longer be this same person)
+>>14783
+
+Hey I haven't gone anywhere
+
+truth is I don't have a lot of money or a high salary job so I am probably going to put my focus on design, algorithms, and 3d models. I'd love to have a lathe, foundry, workshop but the economy being the way it is that's probably not ever going to be in the cards (if I were to work myself to that point, i.e. being a trucker etc it would change me so much as to no longer be this same person)
+
 So I'm currently working on a few short stories and other endeavors. That doesn't mean I'm out of the game or no longer a robowafu-ist. But I'm always here and if you need you can find my twitter or email/YT channel.
 
 # 293
->>14842
+>>14842
+
 guess deleting my cookies removed my tag
 
 # 294
@@ -2081,8 +2348,10 @@ guess deleting my cookies removed my tag
 Glad to see you with us over the holiday season meta ronin. Merry Christmas!
 
 # 295
->>14845
->>14848
+>>14845
+
+>>14848
+
 thanks and Merry Christmas!!
 
 # 296
@@ -2098,8 +2367,10 @@ You're invited to help me on the KiwiMeido project Meta Ronin, could really use 
 Looking good, keep it up!
 
 # 297
-Eh seems like my game stuff wasn’t appreciated so I removed it. Planned to actually release a demo in the future when its ready and less of a mess.
-
+Eh seems like my game stuff wasn’t appreciated so I removed it. Planned to actually release a demo in the future when its ready and less of a mess.
+
+
+
 Got most of Kos-Mos’s basemesh done today.
 
 # 298
@@ -2107,11 +2378,16 @@ Got most of Kos-Mos’s basemesh done today.
 Have you considered making the Enterprise more clangable? Your game stuff was pretty cool just, not the easiest thing to correlate to robowaifus. I would actually be interested in trying a demo when it is ready.
 
 # 299
->>14861
-Yeah I get that its a bit more abstract of a robowaifu and I dont expect anyone to know much about the literal form of those  ships at all. Though she is not the actual enterprise in my little fanfiction but another ship entirely. It was just a metaphor.
-
-I had imagined my ship in shipgirl form with a tiara shaped like the saucer torpedo section, bigger boobs than the Enterprise, black hair with red highlights, light blue to dark blue gradient glowing eyes, and a little taller than the Enterprise with thigh high stockings to match the look of her nacelles and some chest armor like Kos Mos with a gundam-esque skirt. 
-
+>>14861
+
+Yeah I get that its a bit more abstract of a robowaifu and I dont expect anyone to know much about the literal form of those  ships at all. Though she is not the actual enterprise in my little fanfiction but another ship entirely. It was just a metaphor.
+
+
+
+I had imagined my ship in shipgirl form with a tiara shaped like the saucer torpedo section, bigger boobs than the Enterprise, black hair with red highlights, light blue to dark blue gradient glowing eyes, and a little taller than the Enterprise with thigh high stockings to match the look of her nacelles and some chest armor like Kos Mos with a gundam-esque skirt. 
+
+
+
 Still need to “git gud” practicing making anime hair and figuring out the dark arts of japanese anime texturing + materials and will have some rough sketches later.
 
 # 300
@@ -2158,7 +2434,8 @@ Happy New Years
 Where were the deleted posts moved to?
 
 # 303
->>14871
+>>14871
+
 I still need rotary servos for Madoka.mi’s shoulders and elbows...
 
 # 304
@@ -2168,16 +2445,20 @@ For now, work with the same big servos we have already agreed on. Given her expe
 This being said, I am currently working on a selective output mechanical multiplexing system and mechanical power distribution system. Once I get a good working design, it should dramatically reduce costs and mass of complex motion systems at the cost of latency to action. Pic related is very similar to the designs I'm working on. The big problem being latency, making sure her movements are within relative human norms. (Humans can typically react with within 10 ns, I'm reaching for 10 ms.)
 
 # 305
-I recently purchased %%robowaifu.link and robowaifu.online%% I was looking for others but.com is taken and interestingly robowaifu.tech is also taken. 
-I think the .link could be useful as a hub to connect islands of the robowaifu "enthusiast" community. Chobitsu, how would you feel about being linked from such a hub? Are we wanting to maintain a low profile or is the cat out of the bag so why not?
+I recently purchased %%robowaifu.link and robowaifu.online%% I was looking for others but.com is taken and interestingly robowaifu.tech is also taken. 
+
+I think the .link could be useful as a hub to connect islands of the robowaifu "enthusiast" community. Chobitsu, how would you feel about being linked from such a hub? Are we wanting to maintain a low profile or is the cat out of the bag so why not?
+
 Are there any other domains you think would be useful to snatch up before this becomes more mainstream?
 
 # 306
->>14898
+>>14898
+
 Much fascinate! I was wondering what you meant when you said mechanical multiplexer, since there are several different designs floating about, it seems.
 
 # 307
->>14898
+>>14898
+
 That design doesn't make any sense. It looks like  you are trying to rotate the centerpiece through the joint half way through the circle.
 
 # 308
@@ -2188,19 +2469,29 @@ See this vid to better understand.
 https://www.youtube.com/watch?v=8DWK3zm9SMs
 
 # 309
->>14910
-apparently that robowaifu wiki we found was tied to a shitpost of a board dating back to around 2009-2011.
-
- It has a direct link to the wiki and was quickly abandoned by its creators from what I could make of the actual retardation on that board. Hence the barebones wiki.
-
+>>14910
+
+apparently that robowaifu wiki we found was tied to a shitpost of a board dating back to around 2009-2011.
+
+
+
+ It has a direct link to the wiki and was quickly abandoned by its creators from what I could make of the actual retardation on that board. Hence the barebones wiki.
+
+
+
 https://robowaifu.tech/u/
 
 # 310
->>14802
-
-That was a very helpful video. Nice to see I was doing that workflow correctly. Though the video very much abridges it as a timelapse. Was also helpful to see those clothing modeling tricks with the sculpting tools  being much clearer in that one.
-
-
+>>14802
+
+
+
+That was a very helpful video. Nice to see I was doing that workflow correctly. Though the video very much abridges it as a timelapse. Was also helpful to see those clothing modeling tricks with the sculpting tools  being much clearer in that one.
+
+
+
+
+
 I’m going to try and accelerate and make my shipgirl in a single day.  Breaking the model into robotic parts is a process in of itself.
 
 # 311
@@ -2274,7 +2565,8 @@ B) I presume you'd be OK with me linking to the wiki in our ''Welcome Thread''?
 Cheers Anon.
 
 # 317
->>14942
+>>14942
+
 I misread the dates of the posts being backwards. That board was actually made last year.
 
 # 318
@@ -2408,27 +2700,48 @@ Thanks for your inputs here Anon, cheers!
 UD: I wonder if the issue is simply that Smug hasn't edited their ''webring.json'' file to reflect the new domain name for AlogsSpace? Might mention that point in Smug's /meta Anon.
 
 # 326
->>14949
->If you could turn one of those into an imageboard that allowed users to login to be able to post without capcha would be appreciated. We could start making accounts for out AI to train with live Anons. Of course, you would need to authorize accounts to ensure they are not trolls.
-
-Ok, I have been sleeping on this admittedly. This damn flu knocked me out for almost a week as well. Let me add it to my to-do. Imageboard hosting is totally new to me but I can do the research and figure out the rest.
-
->Glowies, etc
-Agree with Chobitsu here. Although I prescribe to a healthy dose of "preventative paranoia" and just assume there are always hostile agents. Even if it's just a bored glowie trolling the boards for xxx-treme-ist content and deciding to throw a few potshots out of frustration and boredome (own the autists type shit, who the hell knows). They're everywhere now, just make that assumption unless we create a user driven board where everyone gets vetted, this is just going to be the case. Adapt accordingly
-
->The BiPedal Problem
-This is one of the Big 4 
-1. Effective BiPedal Locomotion
-2. Turing ready?
-3. Environmental Awareness and Negotiation (can it get around on its own, can it discern and avoid hazards, etc)
-4. Power (storage, delivery efficiency, heat)   
-it is what it is, however I've personally felt that 
-
-As far as walking goes, Machine Learning is the best route and eventually this skill can just be uploaded once the optimal result is achieved. I'm willing to either wait it out or "wing it" with mega-man style gyro-boots, let her just roll, or some other corner cutting measure until the tech is standard.
-
->Webring, URL Change
-Forgot to change my bookmark and noticed the old URL went offline. Probably what is going on with the Webring like Chobitsu said
-
+>>14949
+
+>If you could turn one of those into an imageboard that allowed users to login to be able to post without capcha would be appreciated. We could start making accounts for out AI to train with live Anons. Of course, you would need to authorize accounts to ensure they are not trolls.
+
+
+
+Ok, I have been sleeping on this admittedly. This damn flu knocked me out for almost a week as well. Let me add it to my to-do. Imageboard hosting is totally new to me but I can do the research and figure out the rest.
+
+
+
+>Glowies, etc
+
+Agree with Chobitsu here. Although I prescribe to a healthy dose of "preventative paranoia" and just assume there are always hostile agents. Even if it's just a bored glowie trolling the boards for xxx-treme-ist content and deciding to throw a few potshots out of frustration and boredome (own the autists type shit, who the hell knows). They're everywhere now, just make that assumption unless we create a user driven board where everyone gets vetted, this is just going to be the case. Adapt accordingly
+
+
+
+>The BiPedal Problem
+
+This is one of the Big 4 
+
+1. Effective BiPedal Locomotion
+
+2. Turing ready?
+
+3. Environmental Awareness and Negotiation (can it get around on its own, can it discern and avoid hazards, etc)
+
+4. Power (storage, delivery efficiency, heat)   
+
+it is what it is, however I've personally felt that 
+
+
+
+As far as walking goes, Machine Learning is the best route and eventually this skill can just be uploaded once the optimal result is achieved. I'm willing to either wait it out or "wing it" with mega-man style gyro-boots, let her just roll, or some other corner cutting measure until the tech is standard.
+
+
+
+>Webring, URL Change
+
+Forgot to change my bookmark and noticed the old URL went offline. Probably what is going on with the Webring like Chobitsu said
+
+
+
 Ok that is my State of the Ronin address for this week ; ) . Trying to keep it all to one single post so I don't burn through the thread with all my disconnected thoughts here.
 
 # 327
@@ -2444,48 +2757,90 @@ Interesting. If you could refine that to a short paragraph or two of solid conte
 Heh, I hope you make this a weekly event. Cheers.
 
 # 328
->>15178
->>15178
->Interesting. If you could refine that to a short paragraph or two of solid content, we might be able to add it to our Welcome Thread. Seems relevant to newcomers tbh.
-
-(trying to keep this short as possible)
-I made some personal notes a couple weeks ago in regard to what the real hurdles are to making a robowaifu on the level of Chi, Dorothy or a Crude 2B imitation. Same could apply to a Roll/Moebot tier model as well I guess. I'm not sure if I might have posted it somewhere in here or in another forum but if it looks familiar that's why.
-
-"The Big 4"
-1. Balance/Walk - the ability to calculate and coordinate in real time
-Proposed solutions:
-- relay of "Reflex" circuits handling movements at the granular direct feedback level, those movements being coordinated and managed a level above, and possibly again before being managed by the main OS as a function of a "Walk/Move" abstraction
-- neural-net solution through feedback
-- military or other institution (Tesla) will likely arrive at some sort of solution first
-- gyros and weight distribution (brute force)
-- a combination of the above
-
-2. Internal Modeling - Interacting purposefully with environment - Safety concerns, etc (self and other humans)
-Proposed solutions:
-- internal modeling based on sensory inputs
-- verification of internal model in constant real time (intensive processing required)
-- identification of dangers (sharp edges, hard heavy objects, is it fragile, spillable, etc? how granular do we get?)
-- response to dangers, do we freeze? reverse course? attempt to catch or brace object? verbal or audio alert?
-- this will be the most processor intensive IMO and should have at least ONE dedicated processor/GPU running these processes at all times (this will be how the R/W renders it's internal "model" of the external world, this tech already exists in crude form so we'd just need to run a modified version alongside the other processes and the main RW-OS, or whatever we decide to call it)
-
-3. Speech and body language (Turing Ready)
-Proposed solutions:
-- relay of reflex pre-processors to emulate emotes as natural movements 
-(do not try to hard to imitate humans, allow robots to have visible flaws, its cute)
-- be able to carry a conversation in real time
-- be able to negotiate a conversation (where it's going, purpose, when it's time to speak or not, rather than just taking turns via chatbot, interpreting body language and silence, reading emotion and factoring that in
-- being able to assess both and internal and external environment, and assign a context for appropriate behavioral sets (Are we in private, in public, indoors, outdoors, seated, walking, etc)
-- this doesn't need to be too sophisticated we're not trying to fool people. If mistakes are few enough, again, they can seem like "cute" misunderstandings and this is more interesting than something that behaves like a machine 100% of the time.
-- the challenge will be the amount of processing necessary to connect data inputs, draw contexts, refer to memory, input from owner, etc. Machine learning may assist here too.
-
-4. Power
-No solution proposed yet, however considerations are: 
-- Power storage and delivery
-- Lighter Body will require less power to move, but batteries are also heavy
-- More power + storage + use = more heat!
-- Translation of power from Core to Extremities via pulley systems or hydraulics? (pros, cons of each)
-- Is liquid or flexible battery a possibility?
-
+>>15178
+
+>>15178
+
+>Interesting. If you could refine that to a short paragraph or two of solid content, we might be able to add it to our Welcome Thread. Seems relevant to newcomers tbh.
+
+
+
+(trying to keep this short as possible)
+
+I made some personal notes a couple weeks ago in regard to what the real hurdles are to making a robowaifu on the level of Chi, Dorothy or a Crude 2B imitation. Same could apply to a Roll/Moebot tier model as well I guess. I'm not sure if I might have posted it somewhere in here or in another forum but if it looks familiar that's why.
+
+
+
+"The Big 4"
+
+1. Balance/Walk - the ability to calculate and coordinate in real time
+
+Proposed solutions:
+
+- relay of "Reflex" circuits handling movements at the granular direct feedback level, those movements being coordinated and managed a level above, and possibly again before being managed by the main OS as a function of a "Walk/Move" abstraction
+
+- neural-net solution through feedback
+
+- military or other institution (Tesla) will likely arrive at some sort of solution first
+
+- gyros and weight distribution (brute force)
+
+- a combination of the above
+
+
+
+2. Internal Modeling - Interacting purposefully with environment - Safety concerns, etc (self and other humans)
+
+Proposed solutions:
+
+- internal modeling based on sensory inputs
+
+- verification of internal model in constant real time (intensive processing required)
+
+- identification of dangers (sharp edges, hard heavy objects, is it fragile, spillable, etc? how granular do we get?)
+
+- response to dangers, do we freeze? reverse course? attempt to catch or brace object? verbal or audio alert?
+
+- this will be the most processor intensive IMO and should have at least ONE dedicated processor/GPU running these processes at all times (this will be how the R/W renders it's internal "model" of the external world, this tech already exists in crude form so we'd just need to run a modified version alongside the other processes and the main RW-OS, or whatever we decide to call it)
+
+
+
+3. Speech and body language (Turing Ready)
+
+Proposed solutions:
+
+- relay of reflex pre-processors to emulate emotes as natural movements 
+
+(do not try to hard to imitate humans, allow robots to have visible flaws, its cute)
+
+- be able to carry a conversation in real time
+
+- be able to negotiate a conversation (where it's going, purpose, when it's time to speak or not, rather than just taking turns via chatbot, interpreting body language and silence, reading emotion and factoring that in
+
+- being able to assess both and internal and external environment, and assign a context for appropriate behavioral sets (Are we in private, in public, indoors, outdoors, seated, walking, etc)
+
+- this doesn't need to be too sophisticated we're not trying to fool people. If mistakes are few enough, again, they can seem like "cute" misunderstandings and this is more interesting than something that behaves like a machine 100% of the time.
+
+- the challenge will be the amount of processing necessary to connect data inputs, draw contexts, refer to memory, input from owner, etc. Machine learning may assist here too.
+
+
+
+4. Power
+
+No solution proposed yet, however considerations are: 
+
+- Power storage and delivery
+
+- Lighter Body will require less power to move, but batteries are also heavy
+
+- More power + storage + use = more heat!
+
+- Translation of power from Core to Extremities via pulley systems or hydraulics? (pros, cons of each)
+
+- Is liquid or flexible battery a possibility?
+
+
+
 Outside of these 4 objectives, everything else is ready and exists in some usable form. These 4 are the 20% that will take 80% of our efforts and resources.
 
 # 329
@@ -2501,8 +2856,10 @@ TIA.
 You might try Replika.ai Anon. Good luck.
 
 # 331
->>15197
-I'll give it my best
+>>15197
+
+I'll give it my best
+
 Brevity isn't my strong suit
 
 # 332
@@ -2512,111 +2869,180 @@ Nprb, take your time Meta Ronin. There's no hurry actually, it's just an idea to
 I'm sure you'll do fine with it. Cheers.
 
 # 333
->>15182
->4. Power
->No solution proposed yet
-
-Was this in regards to a particular project?
-I thought using hydrogen to power a hydrogen fuel cell was determined to be the most practical power source for indoor robowaifus?
+>>15182
+
+>4. Power
+
+>No solution proposed yet
+
+
+
+Was this in regards to a particular project?
+
+I thought using hydrogen to power a hydrogen fuel cell was determined to be the most practical power source for indoor robowaifus?
+
 Or is the price range for current off the shelf products too high for most anons?
 
 # 334
->>15258
+>>15258
+
 We are using rechargeable Li based cells. There is no viable alternative unless you want to plug her into a wall. I've done years of research onto it and unfortunately nothing comes close to the cost/performance/ease-of-use.
 
 # 335
->>15259
->rechargeable Li based cells
-
+>>15259
+
+>rechargeable Li based cells
+
+
+
 That would have been helpful to know months ago....
 
 # 336
->>15263
+>>15263
+
 We already agreed on Madoka.mi using USB C power banks for simplicity and accessibility. What benefit would have been had months ago?
 
 # 337
->>15267
-Nvm. Just one of those days and wound up making progress on my mecha instead of Pandora since my magnets arrived.
-
-Then somehow solved several problems I had with Pandora in the process. 
-
+>>15267
+
+Nvm. Just one of those days and wound up making progress on my mecha instead of Pandora since my magnets arrived.
+
+
+
+Then somehow solved several problems I had with Pandora in the process. 
+
+
+
 I dont know if she ever had an official animated appearance but her animations from dive x show her hair doesn’t move besides the back piece with 1 DOF and I should make the thread for her soon instead of talking about her in several different threads.
 
 # 338
->>15271
-Good to hear, may your progress benefit us all Anon. Pandora being an open waifu made me want to suggest calling her OpenPandora but that was taken. For other Anons, always remember to check to ensure your names are unique.
-
+>>15271
+
+Good to hear, may your progress benefit us all Anon. Pandora being an open waifu made me want to suggest calling her OpenPandora but that was taken. For other Anons, always remember to check to ensure your names are unique.
+
+
+
 A new thread would indeed be best for us. Though our posts vaguely fit in a meta thread.
 
 # 339
->>15273
-I restarted my Pandora Mesh from scratch because I didn't like how the basemesh looked. I will start the thread soon once the arms are done. 
-
+>>15273
+
+I restarted my Pandora Mesh from scratch because I didn't like how the basemesh looked. I will start the thread soon once the arms are done. 
+
+
+
 Was also interesting to see that the other reploid characters look like they were made from the same parts and was most noticeable with Alia.
 
 # 340
->>15310
-Her mesh is rather nice. I can see her looking rather lovely once completed. I'd thicken her legs though. **Thick thighs for life.**
-
->Alia's black parts are bare skin
+>>15310
+
+Her mesh is rather nice. I can see her looking rather lovely once completed. I'd thicken her legs though. **Thick thighs for life.**
+
+
+
+>Alia's black parts are bare skin
+
 She's quite the exhibitionist. Someday she too shall be made.
 
 # 341
->>15273
+>>15273
+
 We could almost use a Reploid thread, there's at least 3 of us now!
 
 # 342
->>15319
+>>15319
+
 You should make one, AllieDev and I are working on Pandora and you're working on RiCO. (She's looking incredibly cute.) (I could make the thread if you'd like, I think your RiCO would make a great representative though.) We could help and encourage each other. By the way, you're using resin printing right? I'm curious about your thoughts with it given your experience.
 
 # 343
->>15320
->Resin printing
-
-SLA is a game changer for stuff like this. Parts like the shoulders or upper body would have been almost impossible on FDM (you'd be sanding so long you might as well just carve it out of a block of plastic by hand). Costs more to run, parts are less durable, you need space to dedicate to cleaning, so keep all that in mind. If you do get one I'd put in the extra cash for the larger "8.9 inch" ones like the Elegoo Saturn. Even if your parts aren't that big, you can fill the build plate at no extra time cost on these machines. Also, some newer machines (starting with the Elegoo Mars 3 I believe) come with locked down firmware that only works with signed/encrypted files from ChiTuBox or their buddies. Avoid them if you like your freedom.
-
-RiCO contains a mix of both SLA resin and FDM parts. All the internal parts (frame, head mechanicals, gears) are FDM. Her face is actually soft silicone rubber cast in a 3d printed mold.
-
+>>15320
+
+>Resin printing
+
+
+
+SLA is a game changer for stuff like this. Parts like the shoulders or upper body would have been almost impossible on FDM (you'd be sanding so long you might as well just carve it out of a block of plastic by hand). Costs more to run, parts are less durable, you need space to dedicate to cleaning, so keep all that in mind. If you do get one I'd put in the extra cash for the larger "8.9 inch" ones like the Elegoo Saturn. Even if your parts aren't that big, you can fill the build plate at no extra time cost on these machines. Also, some newer machines (starting with the Elegoo Mars 3 I believe) come with locked down firmware that only works with signed/encrypted files from ChiTuBox or their buddies. Avoid them if you like your freedom.
+
+
+
+RiCO contains a mix of both SLA resin and FDM parts. All the internal parts (frame, head mechanicals, gears) are FDM. Her face is actually soft silicone rubber cast in a 3d printed mold.
+
+
+
 I might start that thread if I get her upper body painted and moving here soon. Speaking of which, anyone here familiar with ESP32 that would know why I2C works on an older version of ESP-IDF but not the current version?
 
 # 344
->>15323
->Elegoo Saturn.
-
-Still don't quite understand how to set up a resin printer with all those extra steps from prep to curing and cleaning. 
-Its something I've looked into but there's too much shilling and not enough demonstrating how to use the printer when they just immediately timeskip to after everything is printed. Its definitely a messier kind of 3D printing.
-
-What are you going to use for painting Rico's hair and what specific color silicone did you use for her face? Pandora doesn't have that much shading variation compared to her gradient with just panels lol.
-
-
-
->>15320
-
-It feels like you are just using me in a very one sided relationship as it feels that I am the only one actually doing anything since back when the madoka.mi documents were made. That is what I meant back in December and should have been more honest about it as it grinds my progress to a halt. May as well get it out honestly than do this passive aggressive shit anymore. Its also why I shifted through several models from Madoka.mi to Pandora.
-
-I did eventually find some basic explanations of servos and setting them up some months later. Was frustrating that someone with a supposed robotics degree would play dumb about it and then go help literally everyone else while lazily saying to "google it" for every question I had as if I didn't try already so resorted to reaching out for help and asking specific basic questions on a robotics topic on a niche board dedicated to humanoid robotics with anons who know more on the subject than I do. All because I didn't know something in a modern internet constantly and exponentially flooded with nothing but nonsense and shilling useless garbage to bury anything useful, even to daily life, in recent years. 
-
-This was a hell of a lot more helpful than anything buried in the pseudo intellectualism of the resource threads:
-
+>>15323
+
+>Elegoo Saturn.
+
+
+
+Still don't quite understand how to set up a resin printer with all those extra steps from prep to curing and cleaning. 
+
+Its something I've looked into but there's too much shilling and not enough demonstrating how to use the printer when they just immediately timeskip to after everything is printed. Its definitely a messier kind of 3D printing.
+
+
+
+What are you going to use for painting Rico's hair and what specific color silicone did you use for her face? Pandora doesn't have that much shading variation compared to her gradient with just panels lol.
+
+
+
+
+
+
+
+>>15320
+
+
+
+It feels like you are just using me in a very one sided relationship as it feels that I am the only one actually doing anything since back when the madoka.mi documents were made. That is what I meant back in December and should have been more honest about it as it grinds my progress to a halt. May as well get it out honestly than do this passive aggressive shit anymore. Its also why I shifted through several models from Madoka.mi to Pandora.
+
+
+
+I did eventually find some basic explanations of servos and setting them up some months later. Was frustrating that someone with a supposed robotics degree would play dumb about it and then go help literally everyone else while lazily saying to "google it" for every question I had as if I didn't try already so resorted to reaching out for help and asking specific basic questions on a robotics topic on a niche board dedicated to humanoid robotics with anons who know more on the subject than I do. All because I didn't know something in a modern internet constantly and exponentially flooded with nothing but nonsense and shilling useless garbage to bury anything useful, even to daily life, in recent years. 
+
+
+
+This was a hell of a lot more helpful than anything buried in the pseudo intellectualism of the resource threads:
+
+
+
 https://www.sparkfun.com/servos
 
 # 345
->>15323
-Thanks for the information RiCODev, I'll be careful when looking into resin printers. There are many small parts that could benefit from its fine detail. You may be on to something using both manufacturing methods together.
-Her silicone face came out really well, how does it feel? Is it nice to touch her face?
->>15331
-I'm sorry that I do not make progress at a fast pace. I did not mean to come off as someone who was using you. I don't recall you asking for anything aside from where servos were meant to go, I made a drawing to illustrate where I thought they should go. I'm sorry I did not understand you wanted me to explain how servos work.
-
-Your source is great for providing basic information on servos. To go into further depth, a servo does not need to have a motor. A servo or servomechanism is any mechanism that incorporates negative feedback. (Negative feedback is feedback that helps to steady or correct the output, to over-simplify the concept.) This is important to know as it's good to keep an open mind on how servos can be implemented. For instance, a submersible mermaid waifu could use a light sensor (photoresistor's are a low cost option for such) to determine how much water to bring in or let out of her swim bladder to ensure she remains at a certain depth. To provide a pretty uncommon servo as an example of how far reaching servo's can be. 
-
-Robotics servos are typically rotary or linear, with many of the lower cost options using potentiometers as was mentioned by your source. The robotic arms and CNC machinery I used in the field usually used optical encoders and end stops. Once they were started, they would go through a homing sequence where they would hit the end stops then use their optical encoders to determine location and velocity. Which is similar to how your Ender 3 uses end stops then relies on stepper motors moving in precise steps to figure out where it needs to go. 
-
-Absolute encoders (usually optical or megnetic) are becoming more popular as they determine position and velocity without relying on homing. The potentiometer is technically an absolute encoder but, is not generally referred to as such as it does not enable continuous rotation and they suffer from changing measurements over time. (It's the same thing that happens to joysticks, as the wiper scrapes across the resistive track, material is scraped away, causing drift.)
-
-Though it can be confusing, it's important to know there are two kinds of continuous rotation servos. The open loop type which your link explains well and, ones that use absolute encoders. The ones that use absolute encoders usually are a bit more complicated to drive than standard servos. They often provide one or more extra pins which provide feedback to the microcontroller. They enable the servo to do things like rotating 540 degrees at a certain velocity.
-
-Robotics servos are also either analog or digital. An analog servo uses PWM within 10's of cycles per second and digital uses PWM in the 100's. 
-
+>>15323
+
+Thanks for the information RiCODev, I'll be careful when looking into resin printers. There are many small parts that could benefit from its fine detail. You may be on to something using both manufacturing methods together.
+
+Her silicone face came out really well, how does it feel? Is it nice to touch her face?
+
+>>15331
+
+I'm sorry that I do not make progress at a fast pace. I did not mean to come off as someone who was using you. I don't recall you asking for anything aside from where servos were meant to go, I made a drawing to illustrate where I thought they should go. I'm sorry I did not understand you wanted me to explain how servos work.
+
+
+
+Your source is great for providing basic information on servos. To go into further depth, a servo does not need to have a motor. A servo or servomechanism is any mechanism that incorporates negative feedback. (Negative feedback is feedback that helps to steady or correct the output, to over-simplify the concept.) This is important to know as it's good to keep an open mind on how servos can be implemented. For instance, a submersible mermaid waifu could use a light sensor (photoresistor's are a low cost option for such) to determine how much water to bring in or let out of her swim bladder to ensure she remains at a certain depth. To provide a pretty uncommon servo as an example of how far reaching servo's can be. 
+
+
+
+Robotics servos are typically rotary or linear, with many of the lower cost options using potentiometers as was mentioned by your source. The robotic arms and CNC machinery I used in the field usually used optical encoders and end stops. Once they were started, they would go through a homing sequence where they would hit the end stops then use their optical encoders to determine location and velocity. Which is similar to how your Ender 3 uses end stops then relies on stepper motors moving in precise steps to figure out where it needs to go. 
+
+
+
+Absolute encoders (usually optical or megnetic) are becoming more popular as they determine position and velocity without relying on homing. The potentiometer is technically an absolute encoder but, is not generally referred to as such as it does not enable continuous rotation and they suffer from changing measurements over time. (It's the same thing that happens to joysticks, as the wiper scrapes across the resistive track, material is scraped away, causing drift.)
+
+
+
+Though it can be confusing, it's important to know there are two kinds of continuous rotation servos. The open loop type which your link explains well and, ones that use absolute encoders. The ones that use absolute encoders usually are a bit more complicated to drive than standard servos. They often provide one or more extra pins which provide feedback to the microcontroller. They enable the servo to do things like rotating 540 degrees at a certain velocity.
+
+
+
+Robotics servos are also either analog or digital. An analog servo uses PWM within 10's of cycles per second and digital uses PWM in the 100's. 
+
+
+
 I don't mind going into further details on any point related to servos, they're a personal favorite type of mechanism. Though, further questions related to servos should be in the actuator thread. I'll apologize in advance if I accidentally made anything confusing or left out details that would have been helpful. I do truly wish to help.
 
 # 346
@@ -2642,27 +3068,45 @@ Very nice (and cute!) work Anon! I completely concur with the idea of you creati
 I like where you're going with ''Pandora'' Anon. Keep it up! :^)
 
 # 349
->>15335
-Your patience and understanding continues to remind me why you're an ideal leader for this eclectic collection of waifu enthusiasts. The Gordian knot is an apt comparison, the impossible only exists until a man rises above it. Our sword has yet to fall the countless knots between us and our waifu but, with steady effort, our swings will cut through all and conquer we shall. Even in those days, they dreamt of Galatea and prayed for her. Our dream is thousands of years old, all the more reason for it to finally be granted. 
+>>15335
+
+Your patience and understanding continues to remind me why you're an ideal leader for this eclectic collection of waifu enthusiasts. The Gordian knot is an apt comparison, the impossible only exists until a man rises above it. Our sword has yet to fall the countless knots between us and our waifu but, with steady effort, our swings will cut through all and conquer we shall. Even in those days, they dreamt of Galatea and prayed for her. Our dream is thousands of years old, all the more reason for it to finally be granted. 
+
 **I'm slightly obsessed with Greco-Roman mythology and poetry, back to actual engineering **
 
 # 350
->>15331
->resin print process
-This is not a complete guide but the gist of it is:
-1: settle on a good print orientation, add supports and slice (PrusaSlicer auto supports are a godsend)
-2: put the sliced file on a thumbdrive, hit print, hope for the best
-3: remove the finished model from the build plate, wash it off in a vat of rubbing alcohol or other cleaning product to get the outer film of uncured resin off
-4: pick off supports while the model is still soft
-5: place it underwater and hit it with UV light for a few minutes to fully set it
-
->paint
-Not decided yet. In the past I've used good old latex interior paint on FDM parts and it's held up OK. A nice airbrush setup with model paints would probably be ideal but I don't have that. The hair will probably wind up just a flat color, not nicely shaded like in the promo art.
-
->>15333
->silicone
-Yes, it feels very nice, with one caveat: right out of the mold it is very sticky, almost like one of those "sticky hand" toys. A light dusting of corn starch fixes this, but it will wear off over time and have to be re-applied. (If you follow the lovedoll scene at all this will be very familiar)
-
+>>15331
+
+>resin print process
+
+This is not a complete guide but the gist of it is:
+
+1: settle on a good print orientation, add supports and slice (PrusaSlicer auto supports are a godsend)
+
+2: put the sliced file on a thumbdrive, hit print, hope for the best
+
+3: remove the finished model from the build plate, wash it off in a vat of rubbing alcohol or other cleaning product to get the outer film of uncured resin off
+
+4: pick off supports while the model is still soft
+
+5: place it underwater and hit it with UV light for a few minutes to fully set it
+
+
+
+>paint
+
+Not decided yet. In the past I've used good old latex interior paint on FDM parts and it's held up OK. A nice airbrush setup with model paints would probably be ideal but I don't have that. The hair will probably wind up just a flat color, not nicely shaded like in the promo art.
+
+
+
+>>15333
+
+>silicone
+
+Yes, it feels very nice, with one caveat: right out of the mold it is very sticky, almost like one of those "sticky hand" toys. A light dusting of corn starch fixes this, but it will wear off over time and have to be re-applied. (If you follow the lovedoll scene at all this will be very familiar)
+
+
+
 The face is made of Smooth-on 00-30 platinum silicone and was dyed with some cheap dye set from that online bookstore. It was cast in a "simple" 2 part mold with 2 inserts to allow for easy mounting to the head. The back was FDM printed to save money and effort, the front was resin printed. Before casting I had to make a small amount of silicone and apply it to the mating surfaces of the mold to act as a seal. No other prep work was needed.
 
 # 351
@@ -2676,13 +3120,17 @@ Very cool Anon. It would be great if you could give us all a tutorial in your ''
 -''add Reploid cmnt''
 
 # 352
->>15333
-I just need tutorials on Bores and connectors. Blender wasn't the problem with my models in terms of scale. It was cura's terrible updates the entire time. 
-
+>>15333
+
+I just need tutorials on Bores and connectors. Blender wasn't the problem with my models in terms of scale. It was cura's terrible updates the entire time. 
+
+
+
  Its funny how I modeled a similar joint to your elbow in one of my mech models for the ankles. Would need to integrate servos and some string or other mechanical way to retract the arm for any form of autonomy. Am waiting on a response from RiCOdev on that since translating Inventor/Autocad precision design techniques to blender is not impossible nor difficult.
 
 # 353
-Why am I banned?
+Why am I banned?
+
 (Posting from a different PC.)
 
 # 354
@@ -2690,11 +3138,13 @@ Why am I banned?
 Sorry about that mistake Kiwi, my apologies. Try again now?
 
 # 355
->>15397
+>>15397
+
 Thanks
 
 # 356
->>15395
+>>15395
+
 Sorry about that mistake.
 
 # 357

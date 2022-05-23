@@ -2,7 +2,8 @@
 My favorite robowaifu is Chii. I'd like to see yours.
 
 # 2
->>1
+>>1
+
 My robowaifu is 2b. It's nice to see /robowaifu/ back again. I also really like the automaton from MGE
 
 # 3
@@ -13,7 +14,8 @@ Yeah, she's a great one anon.
 Thanks to the guys here tbh. I'll just slowly try to rebuild in in my free time.
 
 # 4
->>24
+>>24
+
 2B is nice.
 
 # 5
@@ -22,11 +24,16 @@ Thanks to the guys here tbh. I'll just slowly try to rebuild in in my free time.
 kekd
 
 # 6
->>25
-You're speaking like you're a part of the managament staff of /robowaifu/. If so do you think you could make a meta thread or general discussion thread? I would make it myself but I was concerned I would get banned for making an off topic thread. 
-
-Also, /monster/ has a bunker of its own on smuglo.li here's the link since If I recall correctly, in the days back on 8chan, /monster/ and /robowaifu/ were allies. In fact, I'd go as far to say they still are. 
-
+>>25
+
+You're speaking like you're a part of the managament staff of /robowaifu/. If so do you think you could make a meta thread or general discussion thread? I would make it myself but I was concerned I would get banned for making an off topic thread. 
+
+
+
+Also, /monster/ has a bunker of its own on smuglo.li here's the link since If I recall correctly, in the days back on 8chan, /monster/ and /robowaifu/ were allies. In fact, I'd go as far to say they still are. 
+
+
+
 I am choosing not to sage because I would like the board owner and/or management staff to see this. %% pls no buli %%
 
 # 7
@@ -48,7 +55,8 @@ I sage my own threads all the time, no apologies. Do as you see fit anon.
 Why even?
 
 # 9
->>1
+>>1
+
 Hard to beat Latin.
 
 # 10
@@ -56,7 +64,8 @@ Hard to beat Latin.
 Interesting, tell me more?
 
 # 11
->>43
+>>43
+
 Its a one-shot story about a guy that takes in a disposed robot who's had her memory erased. This wouldn't be an issue, but she has a bunch of photos of the family she used to work for stashed inside her. I found it to be heart-warming.
 
 # 12
@@ -65,63 +74,114 @@ Its a one-shot story about a guy that takes in a disposed robot who's had her me
 That does sound interesting tbh. Vaguely reminds me of a plot point from the 2018 movie ''NextGen''. While it's definitely not a robo''waifu'' movie--quite the opposite--it's still pretty heartwarming in the end. Sort of an "angsty teenage gril living in Neo-Shanghai befriends and Hyper-powerful military grade robot with a heart of gold who saves all mankind" type of story. Kind of like ''Iron Giant'', but in the future not the past. I highly recommend it.
 
 # 13
->>25
->Thanks to the guys here tbh. I'll just slowly try to rebuild in in my free time.
-I have a suggestion, add in a link to the archive threads. Here's a few of them that I saved
-http://archive.is/YnqZk 8ch is having technical issues ATM
-http://archive.is/JaIGU RoboWaifu References
-http://archive.is/nXesu Welcome to /Robowaifu/
-http://archive.is/NhPNu Actuators for waifu movement! 
-http://archive.is/u5CgC Fluffytail 800 dev thread
-http://archive.is/IWWtZ The Lounge
-http://archive.is/K2gvn Waifu Robotics Project Dump
-http://archive.is/24eLw New United Robowaifu Project
-http://archive.is/LMcrI Waifu Materials
-http://archive.is/duQSs Meta Tread
-http://archive.is/R2avS Self-driving cars AI + hardware
-http://archive.is/nCJU2 Embedded Programming Group Learning Thread 001
-http://archive.is/StnnR ROBOWAIFU U
-http://archive.is/omFRn Robowaifus in media
-http://archive.is/sxjT9 Bipedal Robot Legs General
-http://archive.is/vFiWe Robo face development
-http://archive.is/2Bgqr Python General
-http://archive.is/xrTTg Mycroft: Open Source Alexa
-http://archive.is/MlS7k Robot Voices
-http://archive.is/hcwz9 /RoboWaifu/ Contributor Covenant Code of Conduct
+>>25
+
+>Thanks to the guys here tbh. I'll just slowly try to rebuild in in my free time.
+
+I have a suggestion, add in a link to the archive threads. Here's a few of them that I saved
+
+http://archive.is/YnqZk 8ch is having technical issues ATM
+
+http://archive.is/JaIGU RoboWaifu References
+
+http://archive.is/nXesu Welcome to /Robowaifu/
+
+http://archive.is/NhPNu Actuators for waifu movement! 
+
+http://archive.is/u5CgC Fluffytail 800 dev thread
+
+http://archive.is/IWWtZ The Lounge
+
+http://archive.is/K2gvn Waifu Robotics Project Dump
+
+http://archive.is/24eLw New United Robowaifu Project
+
+http://archive.is/LMcrI Waifu Materials
+
+http://archive.is/duQSs Meta Tread
+
+http://archive.is/R2avS Self-driving cars AI + hardware
+
+http://archive.is/nCJU2 Embedded Programming Group Learning Thread 001
+
+http://archive.is/StnnR ROBOWAIFU U
+
+http://archive.is/omFRn Robowaifus in media
+
+http://archive.is/sxjT9 Bipedal Robot Legs General
+
+http://archive.is/vFiWe Robo face development
+
+http://archive.is/2Bgqr Python General
+
+http://archive.is/xrTTg Mycroft: Open Source Alexa
+
+http://archive.is/MlS7k Robot Voices
+
+http://archive.is/hcwz9 /RoboWaifu/ Contributor Covenant Code of Conduct
+
 1/2
 
 # 14
->>262
-2/2
-http://archive.is/Do8S4 Robowaifu fiction to promote the product and expand the market
-http://archive.is/Vq69d Robowaifu Thermal Management
-http://archive.is/ds5pm Plastic Production
-http://archive.is/5RJf9 Visual waifus
-http://archive.is/Ygm6W Robot Wife Programming
-http://archive.is/q1Gyn Waifus in society
-http://archive.is/H0ZNP Robowaifu Ethics
-http://archive.is/BsiFj Tools to Create 3D Models of Humans
-http://archive.is/fZCiJ Homemade doll waifu thread
-http://archive.is/cyUci The important question
-http://archive.is/P3yO1 Roastie Fear General
-http://archive.is/50c3M Robot waifu desires
-http://archive.is/JuRGv 3DPD
-http://archive.is/cga7W Project: United Robowaifu Development
-http://archive.is/E1uzn Robotics sites, organizations and projects
-http://archive.is/iv9b6 RoboWaifuBanners
-http://archive.is/1d6Si anime cat grill meidos in tiny mini skirts 
-http://archive.is/u15kq NLP General
-http://archive.is/WKJLa Tensorflow
+>>262
+
+2/2
+
+http://archive.is/Do8S4 Robowaifu fiction to promote the product and expand the market
+
+http://archive.is/Vq69d Robowaifu Thermal Management
+
+http://archive.is/ds5pm Plastic Production
+
+http://archive.is/5RJf9 Visual waifus
+
+http://archive.is/Ygm6W Robot Wife Programming
+
+http://archive.is/q1Gyn Waifus in society
+
+http://archive.is/H0ZNP Robowaifu Ethics
+
+http://archive.is/BsiFj Tools to Create 3D Models of Humans
+
+http://archive.is/fZCiJ Homemade doll waifu thread
+
+http://archive.is/cyUci The important question
+
+http://archive.is/P3yO1 Roastie Fear General
+
+http://archive.is/50c3M Robot waifu desires
+
+http://archive.is/JuRGv 3DPD
+
+http://archive.is/cga7W Project: United Robowaifu Development
+
+http://archive.is/E1uzn Robotics sites, organizations and projects
+
+http://archive.is/iv9b6 RoboWaifuBanners
+
+http://archive.is/1d6Si anime cat grill meidos in tiny mini skirts 
+
+http://archive.is/u15kq NLP General
+
+http://archive.is/WKJLa Tensorflow
+
 http://archive.is/vL1gL Ai Software
 
 # 15
->>263
-And I found this link in my history for older archives.
-https://pastebin.com/ZKMWZLBe
-
-I may have some of the more recent threads saved on a laptop as I also do personal backups. I can upload them if there's any interest or anything missing.
-
-There's also this torrent of 8chan archives floating around, not sure if /robowaifu/ was in it.
+>>263
+
+And I found this link in my history for older archives.
+
+https://pastebin.com/ZKMWZLBe
+
+
+
+I may have some of the more recent threads saved on a laptop as I also do personal backups. I can upload them if there's any interest or anything missing.
+
+
+
+There's also this torrent of 8chan archives floating around, not sure if /robowaifu/ was in it.
+
 https://dark.fail/archives/8chan/
 
 # 16
@@ -189,7 +249,8 @@ These should be robowaifus, even if they aren't **yet**
 cat girl waifus are a must
 
 # 34
->>1477
+>>1477
+
 Do you perhaps know if there's more pictures around of the second one, the Caterpillar woman?
 
 # 35
@@ -214,10 +275,14 @@ https://www.pixiv.net/en/artworks/44021063
 cute tbh.
 
 # 41
->>1479
->>1480
->>1481
->>1482
+>>1479
+
+>>1480
+
+>>1481
+
+>>1482
+
 thanks
 
 # 42
@@ -231,8 +296,10 @@ very cute then. look forward to seeing her soon here.
 Maids are a goal
 
 # 45
->>1877
-I've known about this picture for years, and I only just realized that it's meant for dice rolling.
+>>1877
+
+I've known about this picture for years, and I only just realized that it's meant for dice rolling.
+
 Also, five reminds me of Ebola-Chan.
 
 # 46
@@ -273,12 +340,18 @@ Cool, glad to hear that. We have a lot more content that hasn't been migrated he
 If i ever get around to opening my own machine shop, ill make custom parts for /robowaifu/ anons at a discounted price so you guys can afford them. Welding and machining is just as important for building these things as electronics, you dont want your robowaifu to be made from cheap plastic do you?
 
 # 55
->>2185
-Even if you were a pedophile, I wouldn't have minded that at all. As long as you don't hurt any real child you're fine in my book.
-Plus I don't think lolicon should be directly associated with pedophilia. Lolis are very much different than the real children and as a lolicon/shotacon myself I don't really care about them.
-The main reason why most of pedophiles, hebephiles and ephebophiles exists is because because girls get pretty way too early, and stop being cute and adorable way too quickly.
-There's also no other way of fixing this other than allowing pedophiles to coom to loli/shota doujinshi. Even if you'd kill all of them, there always will be someone who will eventually get born with attraction to undeveloped females.
->>2187
+>>2185
+
+Even if you were a pedophile, I wouldn't have minded that at all. As long as you don't hurt any real child you're fine in my book.
+
+Plus I don't think lolicon should be directly associated with pedophilia. Lolis are very much different than the real children and as a lolicon/shotacon myself I don't really care about them.
+
+The main reason why most of pedophiles, hebephiles and ephebophiles exists is because because girls get pretty way too early, and stop being cute and adorable way too quickly.
+
+There's also no other way of fixing this other than allowing pedophiles to coom to loli/shota doujinshi. Even if you'd kill all of them, there always will be someone who will eventually get born with attraction to undeveloped females.
+
+>>2187
+
 It's better to die a virgin, than lose your purity to some random whore that doesn't even care about you.
 
 # 56
@@ -303,7 +376,8 @@ It's a real balancing act and a fine line we're trying to manage here Anon. And 
 Oy vey dont be antisemitic you dirty goyim
 
 # 60
->>2200
+>>2200
+
 Model ranges are also a viable option. For instance, there could be "low-end" (of course, we wouldn't call it that) "middle-end" and "high-end" ranges in order to appeal to both budget and luxury markets.
 
 # 61
@@ -325,11 +399,13 @@ Sorry I can't spoil files selectively Anon, the system here is all or nothing. W
 These are great. The facial expressions really tie it all together. We'll need a lot of focus on doing faces well.
 
 # 66
->>1
+>>1
+
 Well, you did ask.
 
 # 67
->>2832
+>>2832
+
 Just, don't make her mad
 
 # 68
@@ -392,8 +468,10 @@ Latin 高畠エナガ短編集①
 https://myanimelist.net/manga/49003/Latin?q=Latin
 
 # 78
->>1
-Never played VA11 HALLA, but damn is Dorothy cute.
+>>1
+
+Never played VA11 HALLA, but damn is Dorothy cute.
+
 **The skirt flip is just the right mixture of cuteness and sexiness!**
 
 # 79
@@ -473,8 +551,10 @@ I realize just about very other r/w enthusiast is probably a 2B stan. Chi is rea
 Quads for ''Yuzuki''. She gets entirely too little love. She's beautiful, charming, warm, refined, loving, attentive. You could hardly desire a better robowaifu in my opinion.
 
 # 98
->>9999
-patrician choice
+>>9999
+
+patrician choice
+
 quad get confirms
 
 # 99
@@ -493,7 +573,8 @@ I had no idea this manga existed but the design for my robowaifu looks and has a
 Very nice design Anon. I wish you well in your efforts for her.
 
 # 103
->>42
+>>42
+
 I came across this by accident, and I was terribly disappointed it didn't have any Latin (the language) in it.
 
 # 104
@@ -501,8 +582,10 @@ I came across this by accident, and I was terribly disappointed it didn't have a
 So, can you tell us what it's about Anon? I've never seen it outside of this thread tbh.
 
 # 105
->>15511
-It's a cute doujin about a man and his pre-owned robowaifu that has emotional damage. You can read it here:
+>>15511
+
+It's a cute doujin about a man and his pre-owned robowaifu that has emotional damage. You can read it here:
+
 https://manhwahentai.me/webtoon/latin/vol-1-chapter-1-latin/
 
 # 106

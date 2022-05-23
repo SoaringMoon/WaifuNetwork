@@ -147,17 +147,22 @@ Do you want a flange or not?
 Can you clarify what you mean Anon?
 
 # 27
->>1851
+>>1851
+
 Well, do you want something that sounds like an ordinary woman, no frills, no bells and whistles?  Or do you want one that sounds like a science fiction robot, with a reverb or "metallic" effect?
 
 # 28
->>156
+>>156
+
 I mentioned in another thread about voice generation that I'm interested in trying to devise a way to automatically process audio clips and add sound effects like SHODAN. There was also brief discussion of using Terri Brosius' own voice to train a neural network, but it's not clear how practical that is. I don't know what your personal preferences are, but I do know that there are a number of people (including myself) who would love to hear SHODAN say dirty things. I'd like to get started working on this, but unfortunately other obligations are keeping me from investing too much time in it currently (work, school, family, etc.). Hopefully I can do more in-depth research on this idea and potentially have some sort of prototype working in the next few months, but I don't want to promise anything. I'd hate to get someone's hopes up and not deliver anything.
 
 # 29
-So 20 years or so ago I got an IMac. Played with it's text to speech and voice control systems that came with it. I figured quick the T2S was not very good. However if the text was misspelled intentionally to emphasize vowels like "mooz end skweer ahl" I could cobble together a bad accent. Then I edited common error code message base to reflect the accent (Airor koad noombar... ect) then it would read the number. Then added a custom alert sound of a Russian lady cursing. So then when the computer had an error it would curse in a foreign language then carefully sound out what the error was in a kind of "ESL".  
-This was a shitbox computer and it was frustrating to work with. I realized the voice control was only associating a sound to a command so instead of a voice queue I used the sound of smacking it on the left side (for stress relief). Now an IMac is built like a bongo drum so there are many ways to hit the thing and get different noises. Flicking the front acted like alt tab rotating through windows, gentle pat to the top put it into sleep mode. Right? Then voice commands like "fuck that!" (to close windows), "fuck all this" (close all windows), "more" for full screen, "shut up" for mute and "earmuffs!) to stop voice recognition and a few more. The cache would bog down constantly and have to be purged. I made this a macro tied into the phrase "go clean yourself up!".
-Now combine all this together with furious Jolt cola fueled work flow. The look on my roommates face when they watched me smack it upside the head and it curses at me (acknowledgment sound), I flick it a few times cycling through windows, say "fuck that" closing them out. Another smack (more cursing) search "for stuff" (slows to a crawl because of the cache). Get frustrated. Smack it again (more curses) "fuck all this" (all windows close), Smack (more curses) "go clean your self up!" (runs through an auto purge and defrag). Get up and say I'm done for now. night night and pat its head (gentle thumping sound initiating sleep mode).
+So 20 years or so ago I got an IMac. Played with it's text to speech and voice control systems that came with it. I figured quick the T2S was not very good. However if the text was misspelled intentionally to emphasize vowels like "mooz end skweer ahl" I could cobble together a bad accent. Then I edited common error code message base to reflect the accent (Airor koad noombar... ect) then it would read the number. Then added a custom alert sound of a Russian lady cursing. So then when the computer had an error it would curse in a foreign language then carefully sound out what the error was in a kind of "ESL".  
+
+This was a shitbox computer and it was frustrating to work with. I realized the voice control was only associating a sound to a command so instead of a voice queue I used the sound of smacking it on the left side (for stress relief). Now an IMac is built like a bongo drum so there are many ways to hit the thing and get different noises. Flicking the front acted like alt tab rotating through windows, gentle pat to the top put it into sleep mode. Right? Then voice commands like "fuck that!" (to close windows), "fuck all this" (close all windows), "more" for full screen, "shut up" for mute and "earmuffs!) to stop voice recognition and a few more. The cache would bog down constantly and have to be purged. I made this a macro tied into the phrase "go clean yourself up!".
+
+Now combine all this together with furious Jolt cola fueled work flow. The look on my roommates face when they watched me smack it upside the head and it curses at me (acknowledgment sound), I flick it a few times cycling through windows, say "fuck that" closing them out. Another smack (more cursing) search "for stuff" (slows to a crawl because of the cache). Get frustrated. Smack it again (more curses) "fuck all this" (all windows close), Smack (more curses) "go clean your self up!" (runs through an auto purge and defrag). Get up and say I'm done for now. night night and pat its head (gentle thumping sound initiating sleep mode).
+
 I basically turned an IMac into an abused angry mail order bride by default of tinkering.
 
 # 30
@@ -169,9 +174,12 @@ Funny. I can just imagine your flatmate's faces.
 Wow, this is a great anecdote. You already took some steps towards having your own robowaifu back then.
 
 # 32
->>1239
->>1240
-Not a local, but I'm wondering if a current tool like MycroftAI (the virtual assistant) can currently pipe it's output text through the fifteenAI API to make a character voice.
+>>1239
+
+>>1240
+
+Not a local, but I'm wondering if a current tool like MycroftAI (the virtual assistant) can currently pipe it's output text through the fifteenAI API to make a character voice.
+
 I haven't used fifteenai or Mycroft yet, but I suspect you could make a half-decent Twilight home assistant now with a RaspPi and a plushie.
 
 # 33

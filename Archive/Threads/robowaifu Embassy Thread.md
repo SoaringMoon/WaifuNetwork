@@ -23,19 +23,32 @@ Hello neighbor, thanks for letting us know something about yourself. While we're
 Welcome.
 
 # 4
-Hello robofrens, I am one of nanochan gvols.
-I personally very much approve of building robotic nekowaifus(strictly for headpatting purrposes).
-As a rule we do not allow imageboard advertising threads outside of /b/ or the dedicated thread on /l/, but in the spirit of diplomacy I have just moved the thread inside a /robowaifu/ thread that we already had going on /g/ instead of deleting it so interested nanons can still see it.
-Feel free to use that thread and to come to /g/ if you want, we usually focus on software, programming, privacy and security and only sometime hardware but for sure both boards can collaborate on some shared projects.
-Here is a couple of links to the nanochan homepage and to that /robowaifu/ thread on our /g/ that I mentioned, I assume anybody interested to come will at least be able to decode them...
-
-aHR0cDovL25hbm9jaGFucHd6M3hudWU3Nmd0ZXlzdjZ3am01c2ltM2JiY20ybGM2NXg2MjVhdDc3
-NGs3N3FkLm9uaW9uL2luZGV4Lmh0bWw=
-
-aHR0cDovL25hbm9jaGFucHd6M3hudWU3Nmd0ZXlzdjZ3am01c2ltM2JiY20ybGM2NXg2MjVhdDc3
-NGs3N3FkLm9uaW9uL2cvNDM5OC5odG1s
-
-As for networking we tend to be very isolated being Tor only. The best way to contact us is just to write on our /meta/ board, either a new thread or the Global Meta thread are ok, I have a email and pgp key which you can find somewhere on our /meta/ board too or if you post your own pgp key I can post them here encrypted.
+Hello robofrens, I am one of nanochan gvols.
+
+I personally very much approve of building robotic nekowaifus(strictly for headpatting purrposes).
+
+As a rule we do not allow imageboard advertising threads outside of /b/ or the dedicated thread on /l/, but in the spirit of diplomacy I have just moved the thread inside a /robowaifu/ thread that we already had going on /g/ instead of deleting it so interested nanons can still see it.
+
+Feel free to use that thread and to come to /g/ if you want, we usually focus on software, programming, privacy and security and only sometime hardware but for sure both boards can collaborate on some shared projects.
+
+Here is a couple of links to the nanochan homepage and to that /robowaifu/ thread on our /g/ that I mentioned, I assume anybody interested to come will at least be able to decode them...
+
+
+
+aHR0cDovL25hbm9jaGFucHd6M3hudWU3Nmd0ZXlzdjZ3am01c2ltM2JiY20ybGM2NXg2MjVhdDc3
+
+NGs3N3FkLm9uaW9uL2luZGV4Lmh0bWw=
+
+
+
+aHR0cDovL25hbm9jaGFucHd6M3hudWU3Nmd0ZXlzdjZ3am01c2ltM2JiY20ybGM2NXg2MjVhdDc3
+
+NGs3N3FkLm9uaW9uL2cvNDM5OC5odG1s
+
+
+
+As for networking we tend to be very isolated being Tor only. The best way to contact us is just to write on our /meta/ board, either a new thread or the Global Meta thread are ok, I have a email and pgp key which you can find somewhere on our /meta/ board too or if you post your own pgp key I can post them here encrypted.
+
 Cheers from nanochan.
 
 # 5
@@ -57,12 +70,15 @@ a fun place
 Seems fun, mind telling us about it Anon?
 
 # 8
->>3256
+>>3256
+
 Sen advertising his shitty ACF chan. Avoid at all costs.
 
 # 9
->>3260
-https://onee.ch/b/res/12085.html
+>>3260
+
+https://onee.ch/b/res/12085.html
+
 You faggots invited him
 
 # 10
@@ -83,11 +99,15 @@ Hello, I think nekomeidoandroids and/or genetically engineered catgirls  are the
 Thanks kindly Anon! Mind telling us all a little about where you're from? What's it like there?
 
 # 13
-You can mitigate the problem with video embeds showing up in code tags with:
+You can mitigate the problem with video embeds showing up in code tags with:
+
 ```cpp
-
-code .embedButton { display: none; }
-code a { color: inherit; }
+
+
+code .embedButton { display: none; }
+
+code a { color: inherit; }
+
 ```
 
 # 14
@@ -252,14 +272,22 @@ BTW, I'm probably going to move the bulk of this convo over to our /meta.
 >>3108
 
 # 25
-Hello everyone, BO of /f/ on the cafe, julay before that, and 8chan before that. I've actually been using this board for some time, but have retained a policy of isolationism until just recently.
-
-Why am I posting here now?
-Because chobitsu and some other guy is trying to poach my users, and I'm fine with that, but I'm going to do the same here because all's fair in love and waifus.
-
-If you don't know what /f/ is all about, then you're way too fucking new.
-We're all about ShockWave Flash and ShockWave Flash acessories, except on the TiTS thread, which is all about whatever the resident namefags feel like talking about at any given point in time. Usually, this will be about cars, old computers, and sometimes politics, but the conversation can drift anywhere. Every few months or so someome might bring up TiTS as well.
-
+Hello everyone, BO of /f/ on the cafe, julay before that, and 8chan before that. I've actually been using this board for some time, but have retained a policy of isolationism until just recently.
+
+
+
+Why am I posting here now?
+
+Because chobitsu and some other guy is trying to poach my users, and I'm fine with that, but I'm going to do the same here because all's fair in love and waifus.
+
+
+
+If you don't know what /f/ is all about, then you're way too fucking new.
+
+We're all about ShockWave Flash and ShockWave Flash acessories, except on the TiTS thread, which is all about whatever the resident namefags feel like talking about at any given point in time. Usually, this will be about cars, old computers, and sometimes politics, but the conversation can drift anywhere. Every few months or so someome might bring up TiTS as well.
+
+
+
 All of you are welcome to post and say hi, I only ask that you respect to our culture **which is whatever we agree upon at any given moment** in the TiTS thread, and only post SWF related content outside of that thread. We're pretty chill for the most part.
 
 # 26
@@ -270,8 +298,10 @@ Hi Anon! That's neat that you've been here for a while. Did you happen to partic
 Haha no. We post in your thread because you all are talking about interesting things. Robowaifus are important to us, and I'll talk with pretty much any interested Anon about them wherever I'm at. Also, anyone here is perfectly welcome to hang out with you guys too ofc. You have some interesting & eclectic conversations on /f/. :^)
 
 # 27
->>3742
-Yeah, I've been on /robowaifu/ since 8chan.
+>>3742
+
+Yeah, I've been on /robowaifu/ since 8chan.
+
 I know that they're posting in good faith, I'm just fucking around. It's nice to have a few extra users to liven things up a bit and add to our discussions.
 
 # 28
@@ -281,9 +311,12 @@ Oh nice. I was thinking about reloading another one of the bigger threads from d
 my dude.
 
 # 29
->>3744
-IIRC, the ''Can Robowaifus Experience Love?'' thread had some great discussion, which I had a small part in. Of course, that topic has been touched upon in other threads to varying extents as well. Alternatively, the old ''Visual Waifu'' thread was massive, and also had a lot of valuable discussion.
-
+>>3744
+
+IIRC, the ''Can Robowaifus Experience Love?'' thread had some great discussion, which I had a small part in. Of course, that topic has been touched upon in other threads to varying extents as well. Alternatively, the old ''Visual Waifu'' thread was massive, and also had a lot of valuable discussion.
+
+
+
 I've never actually seen Gravity Falls. Is it any good?
 
 # 30
@@ -296,7 +329,8 @@ got it. i'll try to have them back up within a few days Anon. **it's a tedious p
 yea, i like it. but there's no accounting for taste haha. generally, it's a light-hearted and unpretentious show.
 
 # 31
->>3746
+>>3746
+
 Thanks fam, I appreciate all your hard work.
 
 # 32
@@ -315,28 +349,47 @@ Thanks.
 Where did everyone disappear to?
 
 # 35
->>4156
+>>4156
+
 I'm still here.
 
 # 36
-BO of /ixit/ here. Thats:
-
-https://9chan.tw/ixit/catalog
-
-http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/ixit/catalog
-
-OR
-
-https://endchan.net/ixit/catalog.html
-
-http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/ixit/catalog.html
-http://endchan5doxvprs5.onion/ixit/catalog.html
-http://s6424n4x4bsmqs27.onion/ixit/catalog.html
-
-I'm considering building another mirror on this chan, we'll see. IXIT is about building a larger userbase for existing alt tech. The premise is that we already have more tools for anonymity & free speech than we know what to do with. The goal of ixit is to bring together the fragmented userbases of these various technologies into one informal network.
-
-You guys have a literal boner for alt-tech and you represent a nexus of subcultures who have good reason to hate censorship and centralized control over the Internet. I'm inviting you to come shill your community on my boards. I'm looking to build an ecosystem of specific communities who could benefit one another by being under the same umbrella.
-
+BO of /ixit/ here. Thats:
+
+
+
+https://9chan.tw/ixit/catalog
+
+
+
+http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/ixit/catalog
+
+
+
+OR
+
+
+
+https://endchan.net/ixit/catalog.html
+
+
+
+http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/ixit/catalog.html
+
+http://endchan5doxvprs5.onion/ixit/catalog.html
+
+http://s6424n4x4bsmqs27.onion/ixit/catalog.html
+
+
+
+I'm considering building another mirror on this chan, we'll see. IXIT is about building a larger userbase for existing alt tech. The premise is that we already have more tools for anonymity & free speech than we know what to do with. The goal of ixit is to bring together the fragmented userbases of these various technologies into one informal network.
+
+
+
+You guys have a literal boner for alt-tech and you represent a nexus of subcultures who have good reason to hate censorship and centralized control over the Internet. I'm inviting you to come shill your community on my boards. I'm looking to build an ecosystem of specific communities who could benefit one another by being under the same umbrella.
+
+
+
 BTW I'll definitely be around. I was on the 8chan board too. Sexbots are an idea near & dear to me, and I HOPE it's not going to be another 20 years before we have something practical. If I can accelerate things along by bringing together the right people then so much the better.
 
 # 37
@@ -349,9 +402,12 @@ While there is very obviously a confluence there, I don't think it's the best te
 Thanks again for letting us know about yourself, we hope you visit here often.
 
 # 38
->>4214
->Companionship is probably more apt word describing what most of us here are after.
-
+>>4214
+
+>Companionship is probably more apt word describing what most of us here are after.
+
+
+
 Yes, that's one of the upcoming features of the Internet itself. Right now we have all these separate overlapping projects like Harmony and Fur Hat Robotics but I believe that the web of 2050 won't just be ''what'' we need it to be but also ''who'' we need it to be. There will probably be an open standard for social A.I. so that the same personality can exist across multiple devices, whether it's a Gatebox personal assistant or a robo-waifu.
 
 # 39
@@ -417,7 +473,8 @@ On Dollsforum there's a inventors thread. I'm not from there, but here might be 
 https://dollforum.com/forum/viewforum.php?f=6&sid=ec830c2d4091f1b4d1351f43e98c0b44
 
 # 47
->>2823
+>>2823
+
 Hello, I am an ambassador from kind.moe here to ask if /robowaifu/ wants to join our board-ring? Basically we link to you and you link to us.
 
 # 48
@@ -425,7 +482,8 @@ Hello, I am an ambassador from kind.moe here to ask if /robowaifu/ wants to join
 I liked /kind/ when you guys were part the webring. Mind telling us a little about yourselves Anon? For example, what is is you particularly like about your community? Congratulations on setting up your own site, BTW.
 
 # 49
->>4524
+>>4524
+
 We're basically a general/off-topic board with an emphasis on helping others and civil discussion. It's hard to say what I like about it exactly. I've been posting on /kind/ boards for over 5 years and I've been treated very well there. The people there feel like genuine friends to me even though we're all anonymous. I'm not actually the board owner but I know they're looking to add nice boards with good goals like yours to the ring.
 
 # 50
@@ -455,9 +513,12 @@ yea I like that board. they held court here on julay for a bit after the 8ch red
 heh, i cut my teeth on on cuck/b sometime around the ''pool's closed'' timeframe.
 
 # 55
->>2823
-Hey! I'm a 3D artist, 2D artist, animator, and more. Just creative guy in general. I was brought here by a robot-lover's thread on 4chan's /trash/ board. I'm definitely curious about the concept of /robowaifu/. 
-
+>>2823
+
+Hey! I'm a 3D artist, 2D artist, animator, and more. Just creative guy in general. I was brought here by a robot-lover's thread on 4chan's /trash/ board. I'm definitely curious about the concept of /robowaifu/. 
+
+
+
 Is there an organized effort going on, or is everyone just kind of doing their own thing entirely? Do you think something like this really be accessible to people who know nothing about robotics? What do you see to be a realistic goal for open-sourced robowaifus?
 
 # 56
@@ -500,18 +561,30 @@ Again, yes. :^)
 Well, there was this imageboard site, and they allowed anons to create boards...
 
 # 61
->>2823
->>4707
->>4711
-Welp, I said "eh, why not?" yesterday and set up a legit forum.
-
-You can check it out at https://robowaif.us
-
-I just started it because I have a lot of faith in this concept and I want it to be able to thrive in a more self-contained environment without the drama surrounding imageboard shutdowns. You can all use it, or don't, but I already paid for a domain and a year of hosting, so it's entirely at your guys' disposal.
-
-If Chobitsu wants to get in contact with me somehow and become an admin of that forum, I'd be happy to make that happen!
-
->Welcome /trash/. Please tell us about your place, what's interesting about it?
+>>2823
+
+>>4707
+
+>>4711
+
+Welp, I said "eh, why not?" yesterday and set up a legit forum.
+
+
+
+You can check it out at https://robowaif.us
+
+
+
+I just started it because I have a lot of faith in this concept and I want it to be able to thrive in a more self-contained environment without the drama surrounding imageboard shutdowns. You can all use it, or don't, but I already paid for a domain and a year of hosting, so it's entirely at your guys' disposal.
+
+
+
+If Chobitsu wants to get in contact with me somehow and become an admin of that forum, I'd be happy to make that happen!
+
+
+
+>Welcome /trash/. Please tell us about your place, what's interesting about it?
+
 Well, mostly /trash/ is just 4chan's alt-smut board. Mostly filled with furries and niche fandoms. I started a robot-themed thread the other day, and someone linked me to the anon.cafe bunker thread. After some digging I found this board.
 
 # 62
@@ -519,7 +592,8 @@ Well, mostly /trash/ is just 4chan's alt-smut board. Mostly filled with furries 
 I think this is a great idea Anon. I'll think and pray about it and should be back with you ITT over the next couple of days with change requests, etc. Thank you.
 
 # 63
->>4716
+>>4716
+
 Sounds good! I'll keep this thread open with auto-refresh.
 
 # 64
@@ -533,13 +607,17 @@ Good luck with the domain Anon.
 **ps. check your email Anon**
 
 # 65
->>4770
-No worries! Like I said, the site is at the disposal of this community in general! I'm more excited at the developments of this community rather than concerned where those developments are made.
-
+>>4770
+
+No worries! Like I said, the site is at the disposal of this community in general! I'm more excited at the developments of this community rather than concerned where those developments are made.
+
+
+
 **Also, I didn't receive any type of email anywhere! I assume you used the email on the admin profile of the site, which I didn't configure at the time. I just now updated it though if you wanna try again. :]**
 
 # 66
-/hover/ here, I almost lost you again because the link changed
+/hover/ here, I almost lost you again because the link changed
+
 Look into Tensegrity for more realistic body structure
 
 # 67
@@ -547,8 +625,10 @@ Look into Tensegrity for more realistic body structure
 Hi /hover/ , welcome back! Yup tensegrity is an important idea for creating both lightweight yet fairly rigid structures for say, struts, or even full armatures. It's probably going to prove vital (especially in the early years) for creating inexpensive robowaifus.
 
 # 68
->>4833
-Tensegrity is actually a part of how organic bodies work, like the human body
+>>4833
+
+Tensegrity is actually a part of how organic bodies work, like the human body
+
 My robo project is still on hold, hopefully I can pick it up again sometime (need better tooling, materials and workspace
 
 # 69
@@ -559,17 +639,28 @@ That sounds really interesting tbh. So, is that an effect of the tendons, ligame
 Also, care to share any choice links, videos, etc., here for everyone to get up to speed on this topic Anon?
 
 # 70
->>4848
-Yeah its the tendons, ligaments and muscles
-Most of the body is supported in this way;
-https://en.wikipedia.org/wiki/Tensegrity#Biology
-
-Most robots today don't work like this, most of them rely entirely on compressive structuring without suspensions
-Both compressive and suspensive structures are needed to work together to create tensegrity.
-https://www.youtube.com/watch?v=ZwkCMWrHvyE
-It can sometimes make it tricky to find the center of gravity. In a human body, the center of gravity is in the area below the navel (inside the body).
-
-It makes sense, if you look at a human body, it has the ability to stand upright despite having a thin endoskeleton, this is accomplished by tensegrity and feedback balancing and the energy that goes into this is usually minimal.
+>>4848
+
+Yeah its the tendons, ligaments and muscles
+
+Most of the body is supported in this way;
+
+https://en.wikipedia.org/wiki/Tensegrity#Biology
+
+
+
+Most robots today don't work like this, most of them rely entirely on compressive structuring without suspensions
+
+Both compressive and suspensive structures are needed to work together to create tensegrity.
+
+https://www.youtube.com/watch?v=ZwkCMWrHvyE
+
+It can sometimes make it tricky to find the center of gravity. In a human body, the center of gravity is in the area below the navel (inside the body).
+
+
+
+It makes sense, if you look at a human body, it has the ability to stand upright despite having a thin endoskeleton, this is accomplished by tensegrity and feedback balancing and the energy that goes into this is usually minimal.
+
 Using Biomimetics you may be able to make much better robowaifus.
 
 # 71
@@ -577,8 +668,10 @@ Using Biomimetics you may be able to make much better robowaifus.
 Thanks! I'll look into it. I'll discontinue our convo about this here since we're quite off-topic ITT. This would be a good subject for our ''Robot skeletons and armatures'' thread though >>200 .
 
 # 72
-Hi, I'm newly inspired to the /robowaifu/ cause. I'm just some guy with some unimportant talents who has been on a few communities across the internet, ranging from gaming forums to that horse show to the chans.
-
+Hi, I'm newly inspired to the /robowaifu/ cause. I'm just some guy with some unimportant talents who has been on a few communities across the internet, ranging from gaming forums to that horse show to the chans.
+
+
+
 About 18 months ago in the planning of my father's funeral, my mother and sisters did something so disrespectful that it has pretty much radicalized me into a state of war. I am now interested in looking towards robotics in order to replace women in our species. I'm just trying to figure out where to get started.
 
 # 73
@@ -615,8 +708,10 @@ Have a look around and then just begin pitching in somewhere that interests you.
 Glad to meet you Anon.
 
 # 77
->>4926
-My community? Well i'm  a  natural robot lover, and i've written robot smut before
+>>4926
+
+My community? Well i'm  a  natural robot lover, and i've written robot smut before
+
 not sure if that's something that would be useful here
 
 # 78
@@ -624,7 +719,8 @@ not sure if that's something that would be useful here
 I see. I think robots are pretty great too. While we're primarily a SFW engineering-oriented board and not a porn board, we do have a robowaifu fiction thread >>29. Have a look at it then contribute if you'd care to. Sadly, /clang/ never seems to have regrouped after the 8ch debacle, but there are a couple of robot-oriented threads over on /monster/.
 
 # 79
->>4932
+>>4932
+
 The boards off of the top of my head that never regrouped are /just/ and /clang/. There's probably more but I can't think of any of them right now.
 
 # 80
@@ -658,18 +754,24 @@ They guy which came up with Robowai.us probably came most likely from that threa
 I see. Welp, Hiroshima Nagasaki has made it impossible for Tor users to visit his site, and therefore I haven't been to the place in over a year now. I hope any interested Anons in what we're doing here will become aware of us if they lost touch/don't know. Thanks for the info Anon, appreciated.
 
 # 86
->>4926
+>>4926
+
 So i've looked at that, and i'm wondering, is there anything i can actually help with?
 
 # 87
-5022
->is there anything i can actually help with?
-So, really only you can answer that Anon. If you're the same poster as before, you didn't really mention a skillset beyond "I love robots and robot porn". Apparently /clang/ has regrouped on 4/trash, maybe you can help them out there? 
-
+5022
+
+>is there anything i can actually help with?
+
+So, really only you can answer that Anon. If you're the same poster as before, you didn't really mention a skillset beyond "I love robots and robot porn". Apparently /clang/ has regrouped on 4/trash, maybe you can help them out there? 
+
+
+
 /robowaifu/ is actually an engineering-oriented board b/c we intend to make IRL robowaifus. So, it's a lot of hard work ahead of us. Softer skills like artistry are still important here for design work ofc, and writing can serve that function to a degree. Particularly for propaganda, political, and sociological normalization of robowaifus, great writing skills can serve well. So, if you aren't cut out for engineering, then hone the skills you already have Anon.
 
 # 88
->>5022
+>>5022
+
 One other writing skill I neglected mentioning was documentation ofc. We are working together on a ''Robowaifu Design Document'', and it's going to be a very thick book indeed after all is said and done. Mostly it's technical writing for the ''RDD'', intended specifically for engineers & designers. But there will also be a general-audience ''Robowaifu User's Guide'' that will be much less technical in nature. Maybe you can help with writing skills with these two documents if you hone your skills Anon.
 
 # 89
@@ -851,16 +953,26 @@ i'm not sure what thread to go with this?
 AI and Chatbots >>22
 
 # 108
-Hello /robowaifu/ I am the board owner of Leftcel on 9chan.
-https://9chan.tw/leftcel/
-http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/leftcel/
-And our out of band gab channel is:
-https://gab.com/Leftcel_Infilitrator
-
-Leftcel is short for "Leftist Incels" which is a little tongue in cheek.  While some of use are definitely incels, I choose the name because anyone that criticizes feminism and women are instantly labeled incels, so I figured I might as well embrace the name.   
-We are a Men's Right's, Incel, Anti-feminist community but from a left wing anti-capitalist perspective.  We talk about left wing subjects but also about things like how capitalism is impacting the male sex.
-I created the site because every left wing online space banned critique of feminism and men's issues advocacy.  And the manosphere (term for the pro-male sub-culture on the internet) is all right wing politically, although that is slowly changing.
-We think that cheap, widely available sex dolls will be a libratory tool that will empower men to control their libido, and give the ability to carefully choose a mate for a long term relationship, and when their parenthood beings.  Instead of now where men resist their natural and beautiful sex drive until they succumb to it with women and circumstances that they would not otherwise have tolerated.  It will give men control of their sexual appetite instead of being slaves to it, and strip the opposite sex of using it against them to control them.  Much in the same way birth control did for women in the 1960's.
+Hello /robowaifu/ I am the board owner of Leftcel on 9chan.
+
+https://9chan.tw/leftcel/
+
+http://ninechnjd5aaxfbcsszlbr4inp7qjsficep4hiffh4jbzovpt2ok3cad.onion/leftcel/
+
+And our out of band gab channel is:
+
+https://gab.com/Leftcel_Infilitrator
+
+
+
+Leftcel is short for "Leftist Incels" which is a little tongue in cheek.  While some of use are definitely incels, I choose the name because anyone that criticizes feminism and women are instantly labeled incels, so I figured I might as well embrace the name.   
+
+We are a Men's Right's, Incel, Anti-feminist community but from a left wing anti-capitalist perspective.  We talk about left wing subjects but also about things like how capitalism is impacting the male sex.
+
+I created the site because every left wing online space banned critique of feminism and men's issues advocacy.  And the manosphere (term for the pro-male sub-culture on the internet) is all right wing politically, although that is slowly changing.
+
+We think that cheap, widely available sex dolls will be a libratory tool that will empower men to control their libido, and give the ability to carefully choose a mate for a long term relationship, and when their parenthood beings.  Instead of now where men resist their natural and beautiful sex drive until they succumb to it with women and circumstances that they would not otherwise have tolerated.  It will give men control of their sexual appetite instead of being slaves to it, and strip the opposite sex of using it against them to control them.  Much in the same way birth control did for women in the 1960's.
+
 I'm definitely trying to drive more traffic to the site, and the topics maybe valuable to anons here even if they are not interested in the left, since we often analyze current sexual politics.  The type of intelligence that sex doll makers like yourself can capitalize on.
 
 # 109
@@ -868,7 +980,8 @@ I'm definitely trying to drive more traffic to the site, and the topics maybe va
 Hi and welcome, but tbh I personally hope we can keep politics of any kind to a minimum here. If its directly about regulation of robowaifus its of course of everyone's interest. For things beyond that, groups which often don't get along with each other have their own platform(s) or spaces.
 
 # 110
->>5774
+>>5774
+
 Oh yes, I agree.  I didn't mean to imply that I'd talk about politics on this board.  I was just inviting any anons that would like to read our analysis on sexual politics over on our board because it's relevant to what you are doing here.
 
 # 111
@@ -929,8 +1042,10 @@ Hi /kind/, thanks for the invite! :^)
 >>6405
 
 # 122
->>5838
->If I had to sum up /monster/ in one sentence it would be: Ultra-vanillafags who like monstergirls and are far-right. 
+>>5838
+
+>If I had to sum up /monster/ in one sentence it would be: Ultra-vanillafags who like monstergirls and are far-right. 
+
 **Is there even a board for vanilla furfags or something? 'ate them fags and 'ate them all their neon dick colored gay shit yeh, I'm not a kinkshamist just don't like 'em yeh. luv furry fox girls, simple as, cheers.**
 
 # 123
@@ -944,7 +1059,8 @@ Hi /kind/, thanks for the invite! :^)
 **/fur/ on U-18chan**
 
 # 125
->>6655 (checked)
+>>6655 (checked)
+
 **I get blocked by cloudflare when I use my regular browser and on tor I cannot access it at all, is tor over there generally frowned upon or what?**
 
 # 126
@@ -962,15 +1078,24 @@ You know what, this is flattering. The picture is nice.  As for the greeting, th
 It would even be a return to origins, as even Barbie was based on Bild Lilli, a doll meant for adult men.
 
 # 129
-I've posted on /robowaifu/ in the past to spitball potential ideas. I've been particularly interested in the speech synthesis. Recently, I was introduced to 15.ai and a game called Strip Poker Night at the Inventory (SPNATI). As most of you probably know, 15.ai is partially the result of the collective efforts of /mlp/ to create accurate speech synthesis of MLP characters. SPNATI is a hentai parody of Telltale's Poker Night at the Inventory. You can check it out at spnati.net. 
-
-I got the idea the idea to combine these two things, and webm related is a demonstration of what I think is possible. A fully AI voiced hentai game. You could call it "Pony Strip Poker Night at the Inventory," but I dream of also including other characters, not just the MLP ones.
-
-However, there are a few obvious problems:
-There are many lines of dialogue. A character could have well over 1000 lines. This number can reduced, as there are a lot of lines for specific interactions with other characters. I spent about 40 minutes to produce the 32 lines used in the webm. That includes the time for me to type in a line, process it, listen to it, tweak the parameters a bit, and then repeat until I got a decent result. It is not practical for me to process thousands of lines of dialogue across multiple characters. Hypothetically, the process could be automated, but without someone checking the output voice line, the quality would most likely suffer. If 30 or so anons were willing to contribute that much time, then I think one character could be fully voiced in a reasonable time frame. The trouble is that I am unprepared to organize a large scale project like this, and I have no idea if there would be enough interested anons who are willing to contribute.
-
-I'd like to reach out across the webring and figure out how many anons would possibly be interested in working on this. I also would need help organizing the project. I have experience coding, so I should be able to handle the modification of SPNATI to play audio files. But the bulk of the work would require many people contributing voice lines and then organizing those lines into a completed product.
-
+I've posted on /robowaifu/ in the past to spitball potential ideas. I've been particularly interested in the speech synthesis. Recently, I was introduced to 15.ai and a game called Strip Poker Night at the Inventory (SPNATI). As most of you probably know, 15.ai is partially the result of the collective efforts of /mlp/ to create accurate speech synthesis of MLP characters. SPNATI is a hentai parody of Telltale's Poker Night at the Inventory. You can check it out at spnati.net. 
+
+
+
+I got the idea the idea to combine these two things, and webm related is a demonstration of what I think is possible. A fully AI voiced hentai game. You could call it "Pony Strip Poker Night at the Inventory," but I dream of also including other characters, not just the MLP ones.
+
+
+
+However, there are a few obvious problems:
+
+There are many lines of dialogue. A character could have well over 1000 lines. This number can reduced, as there are a lot of lines for specific interactions with other characters. I spent about 40 minutes to produce the 32 lines used in the webm. That includes the time for me to type in a line, process it, listen to it, tweak the parameters a bit, and then repeat until I got a decent result. It is not practical for me to process thousands of lines of dialogue across multiple characters. Hypothetically, the process could be automated, but without someone checking the output voice line, the quality would most likely suffer. If 30 or so anons were willing to contribute that much time, then I think one character could be fully voiced in a reasonable time frame. The trouble is that I am unprepared to organize a large scale project like this, and I have no idea if there would be enough interested anons who are willing to contribute.
+
+
+
+I'd like to reach out across the webring and figure out how many anons would possibly be interested in working on this. I also would need help organizing the project. I have experience coding, so I should be able to handle the modification of SPNATI to play audio files. But the bulk of the work would require many people contributing voice lines and then organizing those lines into a completed product.
+
+
+
 Even if it doesn't take off, I think this is a very intriguing example of how speech synthesis technology could be applied to H-games.
 
 # 130
@@ -982,13 +1107,20 @@ I'd like to help you anon! Those are some awesome synthetic voices, so the more 
 I don't have much coding exp outside of programming servos in Arduino and some basic Python though...and that was all on Windows 10. However, I am determined when it comes to advancing robowaifus. I have written lines for my own robot...although I only watched the first couple of series of MLP back when it first came out, and I'm not really a "brony"...so I don't know how much help I could be?
 
 # 132
->>8116
-I probably should have posted this link earlier. 
-Here's the relevant Google doc for the Pony Preservation Project from /mlp/.
-https://docs.google.com/document/d/1xe1Clvdg6EFFDtIkkFwT-NPLRDPvkV4G675SUKjxVRU/edit#
-This document is full of useful information, so feel free to peruse it.
-I used Deltavox RS to generate the audio in the .webm, and it's fairly straightforward to use. You don't need any coding knowledge at all. There's a user guide in the Google doc as well as a download link. You can try experimenting with some different input lines and parameters. 
-
+>>8116
+
+I probably should have posted this link earlier. 
+
+Here's the relevant Google doc for the Pony Preservation Project from /mlp/.
+
+https://docs.google.com/document/d/1xe1Clvdg6EFFDtIkkFwT-NPLRDPvkV4G675SUKjxVRU/edit#
+
+This document is full of useful information, so feel free to peruse it.
+
+I used Deltavox RS to generate the audio in the .webm, and it's fairly straightforward to use. You don't need any coding knowledge at all. There's a user guide in the Google doc as well as a download link. You can try experimenting with some different input lines and parameters. 
+
+
+
 I'm not really a brony either, but it's my hope that this proof of concept will encourage anons to work on similar projects with other characters.
 
 # 133
@@ -1000,14 +1132,22 @@ Thanks! BTW, any chance you could post the file(s) somewhere like catbox? If you
 Very cool, anon! Thank you. Gonna get hold of some MLP episodes and follow the tutorials. This project will be useful for anyone wanting to learn how to make their own synthetic voices instead of just relying on commercially available ones! A fundamentally important robowaifu building block!
 
 # 135
->>8123
-No need, there's already a mega link for Deltavox RS in the Google doc I posted:
-https://mega.nz/file/CMBkzTpb#LDjrwHbK0YiKTz0YllofVuWg-De9wrmzXVwIn0EBiII
-It has everything you need. Start it up load the model, pick a character and an emotion, and you're good to go.
-There's more information in the guide:
-https://docs.google.com/document/d/1z9V4cDvatcA0gYcDacL5Bg-9nwdyV1vD5nsByL_a1wk/edit
-
->>8128
+>>8123
+
+No need, there's already a mega link for Deltavox RS in the Google doc I posted:
+
+https://mega.nz/file/CMBkzTpb#LDjrwHbK0YiKTz0YllofVuWg-De9wrmzXVwIn0EBiII
+
+It has everything you need. Start it up load the model, pick a character and an emotion, and you're good to go.
+
+There's more information in the guide:
+
+https://docs.google.com/document/d/1z9V4cDvatcA0gYcDacL5Bg-9nwdyV1vD5nsByL_a1wk/edit
+
+
+
+>>8128
+
 Just by the way, you won't need to worry about collecting any audio or training any models; all that has already been done. If you're planning on listening to the characters so that you can familiarize yourself with their natural speaking voice, then by all means go ahead.
 
 # 136
@@ -1043,12 +1183,18 @@ I am looking into writing lines for characters in the game...but on the SPNATI w
 I am confused if the devs will allow this? Even so, just learning about 15.ai has increased my motivation. The guys over at /mlp/ have created an incredible range of voices here!
 
 # 143
->>8140
-Would you prefer to keep this discussion in the speech synthesis thread, or would it be appropriate for its own thread? I only made the first post here because I felt that it's more of an /hgg/ topic than a /robowaifu/ one.
-
->>8142
-Given the sheer number of characters in SPNATI, it would be very impractical to voice each of them. However, the intention of this project is to specifically exclude all characters other than the 4 MLP characters. That will dramatically reduce the storage needed. The audio data itself should be manageable. I've estimated that, using .mp3, the total file size should be well below 300MB.
-
+>>8140
+
+Would you prefer to keep this discussion in the speech synthesis thread, or would it be appropriate for its own thread? I only made the first post here because I felt that it's more of an /hgg/ topic than a /robowaifu/ one.
+
+
+
+>>8142
+
+Given the sheer number of characters in SPNATI, it would be very impractical to voice each of them. However, the intention of this project is to specifically exclude all characters other than the 4 MLP characters. That will dramatically reduce the storage needed. The audio data itself should be manageable. I've estimated that, using .mp3, the total file size should be well below 300MB.
+
+
+
 The devs have licensed the project under the MIT license, so it will be perfectly acceptable for me to create a fork of the project and change it as much as needed.
 
 # 144
@@ -1057,10 +1203,14 @@ The devs have licensed the project under the MIT license, so it will be perfectl
 For now, I'd say keep it in the speech synthesis thread. If it gains a lot of traction here then we could consider otherwise later. Also, I'd gently point out to you that we are a SFW engineering board so please keep that in mind, thanks.
 
 # 145
-I've been lurking for a while here and I have to say that I really like what's going on! There's a really dedicated community as well as some very talented people involved in a project of this scope.
-Found this place via /g/ about a year ago but recently came back to it from my bookmark folder about a month ago. Seems like some significant progress has been made despite Corona's best efforts and it's looking really promising.
-
-This might be an absolutely awful idea, but I was thinking of attempting to start a "Counter Embassy" over on 4/g/. ( /rwg/? Maybe merge with /csg/? )
+I've been lurking for a while here and I have to say that I really like what's going on! There's a really dedicated community as well as some very talented people involved in a project of this scope.
+
+Found this place via /g/ about a year ago but recently came back to it from my bookmark folder about a month ago. Seems like some significant progress has been made despite Corona's best efforts and it's looking really promising.
+
+
+
+This might be an absolutely awful idea, but I was thinking of attempting to start a "Counter Embassy" over on 4/g/. ( /rwg/? Maybe merge with /csg/? )
+
 Whether this is a good idea given the current state of halfchan right now is up for debate; Shills are prominent, plenty of election tourists migrating to the hobby boards, and a few boards are borderline unusable even on a good day. It could either bring an influx of new blood which might be good for the creative process or it could bring bad publicity and people looking to cause this project harm. Just some thoughts from an interested engineer who would love to see this project succeed.
 
 # 146
@@ -1075,12 +1225,18 @@ Honestly, we've already been prepping for onslaughts when they occur -- both goo
 Out of curiosity, what kind of engineering Anon?
 
 # 147
->>9154
->by this year's end
-I'll be looking forward to seeing what progress is made.
-> I think we'll be good to go.
-Neat, I will put up a thread after I make a general template in a few days.
->what kind of engineering Anon?
+>>9154
+
+>by this year's end
+
+I'll be looking forward to seeing what progress is made.
+
+> I think we'll be good to go.
+
+Neat, I will put up a thread after I make a general template in a few days.
+
+>what kind of engineering Anon?
+
 I'm an embedded systems engineer, thanks for asking. Do you have any scientific background?
 
 # 148
@@ -1154,7 +1310,8 @@ Lol, that's not very optimistic. What are we even doing here, then?!? Within the
 I don't know how much is has been combined with something else, they might not make that public. OpenCog might have.
 
 # 160
->>11235
+>>11235
+
 i guess its more fair to ask for something equal to what i can pay
 
 # 161
@@ -1196,9 +1353,12 @@ I'm confident that within that timeframe it would be possible to get something c
 :-DDDD
 
 # 165
-Have any of the anons here posted on 8/vg/ back on 8ch? We're trying to make a board revival with a spiritual successor.
-https://anon.cafe/valis/catalog.html
-
+Have any of the anons here posted on 8/vg/ back on 8ch? We're trying to make a board revival with a spiritual successor.
+
+https://anon.cafe/valis/catalog.html
+
+
+
 If you haven't, 8/vg/ and now /valis/ is a comfy vidya board for actual game discussions. Come check it out.
 
 # 166
@@ -1212,11 +1372,14 @@ Thanks for stopping by, please look around while you're here!
 Cheers. :^)
 
 # 167
->>16055
+>>16055
+
 Thanks fren.
 
 # 168
->>11235
->It's not about the money, but skills and effort
+>>11235
+
+>It's not about the money, but skills and effort
+
 and that's about 100k $ per year per engineer- assuming they are driveny by that goal, because it'd be a low wage for a competent ML/DL/AI engineer.
 

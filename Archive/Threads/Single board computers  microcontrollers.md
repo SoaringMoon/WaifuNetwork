@@ -19,10 +19,14 @@ Not a bad article about the founding of the Raspberry Pi phenomenon.
 a $3 wifi module and micro-controller. it is a cheap and reliable solution for small automation projects.
 
 # 4
->>16
->Intel ME™ inside™
->>1405
->proprietary jewberry
+>>16
+
+>Intel ME™ inside™
+
+>>1405
+
+>proprietary jewberry
+
 meh, use Olimex
 
 # 5
@@ -34,9 +38,12 @@ We're all well-aware of the botnet around here, and of striving to protect again
 I think I remember seeing that from the site before anon. Thanks for the pdfs especially.
 
 # 7
->>1410
-As for microcontrollers, there's the HiFive1, for example.
-
+>>1410
+
+As for microcontrollers, there's the HiFive1, for example.
+
+
+
 SoCs, there currently exists the  HiFive Unleashed (which costs a lot) and there's going to be lowRISC
 
 # 8
@@ -269,8 +276,10 @@ crossposted from the embedded learning thread. a grab-bag of technical documents
 https://onlinedocs.microchip.com/
 
 # 26
-For anyone that can afford it this might be interesting.
-
+For anyone that can afford it this might be interesting.
+
+
+
 https://www.anandtech.com/show/15856/qualcomm-announces-rb5-robotics-platform-a-powerful-sbc
 
 # 27
@@ -443,9 +452,12 @@ If it's 'verifiable' botnet-free then that would certainly be a big step forward
 aHR0cDovL25hbm9jaGFucXpheXR3bHlkeWtiZzVueGtneWp4azN6c3JjdHh1b3hkbWJ4NWpiaDJ5 ZHlwcmlkLm9uaW9uL2cvMzQ2MDUjcG9zdDM1NDE2Cg==
 
 # 56
->>8146
-The use of FPGAs has already been mentioned briefly here >>6861 in the alternative ISA thread.
-
+>>8146
+
+The use of FPGAs has already been mentioned briefly here >>6861 in the alternative ISA thread.
+
+
+
 I don't expect ISA implementations on FPGAs to be a huge hit as you're paying an enormous premium for security or emulation cycle accuracy compared to exponentially more computing power a locked down but affordable mass produced SBC using ARM or x86-64 provides. Maybe as a password manager/crypto wallet/YubiKey that PDA project will find an audience.
 
 # 57
@@ -477,22 +489,38 @@ Thanks again, stay tuned.
 Here a comparison video between Teensy, Arduino and Arduino clones: https://youtu.be/75IvTqRwNsE - Teensy has some advantages, but cost 20$ and has a proprietory bootloader, also seems to be a bit harder to learn for beginners. I bought cheep Arduino clones, but haven't tested them yet, for lack of time. So I don't know if thy are relly bad. I think for prototyping they will most likely be good enough. ESPs are also an option, which are cheap but  harder to get into.
 
 # 62
->>8165
-I don't get the beef he had with cheap arduino clones.  Those are pretty much all I use and I found most of the errors come from my breadboard rather than the quality of the chips.
-
-ESP8266s are good, especially the D1 Minis.  They only have a few digital pins but you can easily download their libraries in the Arduino IDE and are as close to plug and play, especially with the Blynk app that sets up the wifi for you. Though I want to get off proprietary eventually, it's still a good stepping stone.
-
-I've tried ESP32s but the only reason to use them is because they're fast enough to stream videos, thus most ESP combo chips are camera chips, I have a couple of ESP32-Cams heading my way.
-
-The absolute cheapest though is the STM32, in the ESP32 you had to hold the reset button while uploading, well in this one you have to change the jumper every time to boot mode from running mode.  The STM32 was impossible to get running until I realized I was using the Windows Store version of Arduino instead of the simple download version.  Remember the electrical engineer back on 8chan who taught lessons on AVR using Debian and register notations, even when what we were using already had ready libraries in Arduino IDE?  Well crank that up a notch and what you get is literally multiplexed registers which only someone who slept on the STM32 datasheet can begin to comprehend.  Thankfully there are some libraries of the common use cases already.
-
-In summary these are the use cases which I justify for the following:
-
-*arduino clone -- if you just want to flash an led or drive a DC motor
-*STM32 - if you want to drive a 1.8" display or have tons of interrupts (e.g. reading a radio control receiver)
-*ESP8266 - if you want to get into those app-controlled internet of things (there is a noticeable delay though from touching the virtual button and the LED lighting up)
-*ESP32 - similar to ESP8266, but the justification would be it's faster so better with cameras, so just get them combined with camera modules, they're just 5-10 bucks.  The closest I can get to DIY wireless FPV without shelling out for those sketchy 5 Gigahertz Chinese things.
-
+>>8165
+
+I don't get the beef he had with cheap arduino clones.  Those are pretty much all I use and I found most of the errors come from my breadboard rather than the quality of the chips.
+
+
+
+ESP8266s are good, especially the D1 Minis.  They only have a few digital pins but you can easily download their libraries in the Arduino IDE and are as close to plug and play, especially with the Blynk app that sets up the wifi for you. Though I want to get off proprietary eventually, it's still a good stepping stone.
+
+
+
+I've tried ESP32s but the only reason to use them is because they're fast enough to stream videos, thus most ESP combo chips are camera chips, I have a couple of ESP32-Cams heading my way.
+
+
+
+The absolute cheapest though is the STM32, in the ESP32 you had to hold the reset button while uploading, well in this one you have to change the jumper every time to boot mode from running mode.  The STM32 was impossible to get running until I realized I was using the Windows Store version of Arduino instead of the simple download version.  Remember the electrical engineer back on 8chan who taught lessons on AVR using Debian and register notations, even when what we were using already had ready libraries in Arduino IDE?  Well crank that up a notch and what you get is literally multiplexed registers which only someone who slept on the STM32 datasheet can begin to comprehend.  Thankfully there are some libraries of the common use cases already.
+
+
+
+In summary these are the use cases which I justify for the following:
+
+
+
+*arduino clone -- if you just want to flash an led or drive a DC motor
+
+*STM32 - if you want to drive a 1.8" display or have tons of interrupts (e.g. reading a radio control receiver)
+
+*ESP8266 - if you want to get into those app-controlled internet of things (there is a noticeable delay though from touching the virtual button and the LED lighting up)
+
+*ESP32 - similar to ESP8266, but the justification would be it's faster so better with cameras, so just get them combined with camera modules, they're just 5-10 bucks.  The closest I can get to DIY wireless FPV without shelling out for those sketchy 5 Gigahertz Chinese things.
+
+
+
 Oh yeah, I have a Raspberry Pi and Jetson Nano but I consider them to be small form factor computer desktops rather than something I'd embed then forget.
 
 # 63

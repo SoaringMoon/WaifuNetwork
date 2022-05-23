@@ -103,30 +103,48 @@ That would be wonderful imo. I believe it was FluffyDev mentioned throwaway foam
 Does anyone know of onaholes complete with hymens? Even if it was only one-time just like real life it would be a nice touch to the ceremony with a new robowaifu.
 
 # 22
-Vibrating roboginas could have hundreds of small artificial muscles looped around inside them, allowing them to rhythmically massage you and lock you balls deep inside them when you're about to cum.
->>1609
-
-They could also have high-resolution pressure sensitivity in three dimensions to know exactly what makes your peepee feel good.
->>1623
-
-The desires and emotions of robowaifus will eventually be fully programmable and editable. You'll be able to make your robowaifu crazy for you at the drop of a command or make her teasing or shy, whatever you want. She'll watch and analyze everything you do and learn how to moan and writhe perfectly in ways that completely break your mind.
-
+Vibrating roboginas could have hundreds of small artificial muscles looped around inside them, allowing them to rhythmically massage you and lock you balls deep inside them when you're about to cum.
+
+>>1609
+
+
+
+They could also have high-resolution pressure sensitivity in three dimensions to know exactly what makes your peepee feel good.
+
+>>1623
+
+
+
+The desires and emotions of robowaifus will eventually be fully programmable and editable. You'll be able to make your robowaifu crazy for you at the drop of a command or make her teasing or shy, whatever you want. She'll watch and analyze everything you do and learn how to moan and writhe perfectly in ways that completely break your mind.
+
+
+
 A cheap solution you could rig up in the meantime is some simple haptic sensitivity and a mic recording your breathing. Train a neural network to detect your moans off the focking data and have her play moans or generated moans. The hottest part of sex is being in sync, breathing together, moaning together, cumming together, bonded together like one being, man and machine. Once she starts moaning from things that make you feel good it'll drive you insane.
 
 # 23
-Some guy on the doll forums just showed off his new 3d printed DIY insert that is the most advanced and feature complete I've seen yet
-https://dollforum.com/forum/viewtopic.php?f=6&t=123084
-See this mold? Combined with air muscles you could have varying tightness and pumping action that would work with the lubrication system.
-
+Some guy on the doll forums just showed off his new 3d printed DIY insert that is the most advanced and feature complete I've seen yet
+
+https://dollforum.com/forum/viewtopic.php?f=6&t=123084
+
+See this mold? Combined with air muscles you could have varying tightness and pumping action that would work with the lubrication system.
+
+
+
 And I had the same idea as him using those sodium acetate heating packs for heat generation in a very small area. My design would use the contents of several packs sealed in a torus shaped sleeve.
 
 # 24
->>1661
->I've embarked upon my quest to create my own custom PERFECT PUFFY PUSSY!!
->YES!! a SELF LUBRICATING and SELF HEATED Pussy!!
-The absolute mad man. We need more people like this.
-
->I'm hoping that this might catch the attention of manufacturers and they'll put more emphasis on this. Everyone is so focused on robotics and AI and such. Someone needs to focus on the basics; things they've not finished getting right. For me, that's starts with good sex mechanics.
+>>1661
+
+>I've embarked upon my quest to create my own custom PERFECT PUFFY PUSSY!!
+
+>YES!! a SELF LUBRICATING and SELF HEATED Pussy!!
+
+The absolute mad man. We need more people like this.
+
+
+
+>I'm hoping that this might catch the attention of manufacturers and they'll put more emphasis on this. Everyone is so focused on robotics and AI and such. Someone needs to focus on the basics; things they've not finished getting right. For me, that's starts with good sex mechanics.
+
 As crazy as I am for robotics and AI he's got a damn point. I think I can rig up a hand-pumped hydraulic system that sheaths around one of these pussy prototypes. A specially designed bag wrapped in some canvas to protect it from bursting will do. No plugging shit in, just pump the lever to the perfect tightness, take the hose off and ram your dick into a hot wet heaven.
 
 # 25
@@ -138,8 +156,10 @@ One thing they mention is this here:
 https://www.lovense.com/male-masturbators but they're also talking about ideas of their own.
 
 # 27
->>419
-Turd Flinging Monkey (TFM), showcased the "spinning robot pussy" a while back. He argues it's better than the real thing because of the spinning action.
+>>419
+
+Turd Flinging Monkey (TFM), showcased the "spinning robot pussy" a while back. He argues it's better than the real thing because of the spinning action.
+
 https://hooktube.com/watch?v=ogYk9LKMDyY
 
 # 28
@@ -151,7 +171,8 @@ https://dollforum.com/forum/viewtopic.php?f=6&t=129802&sid=e7ffedc17e5f2ce5bb7c1
 Still a lot of work but a step in the right direction.
 
 # 29
->>4701
+>>4701
+
 I use a condom + enema with my doll. Works well enough to minimize the cleaning effort.
 
 # 30
@@ -160,8 +181,10 @@ Interesting. Yeah that is likely good enough for day-to-day cleaning (though you
 It would probably irritate me if I don't clean a doll thoroughly after every intercourse though.
 
 # 31
->>4701
-Been thinking nasal irrigation devices could be inspiration for a commercial cleaner. Maybe designed to use air pressure to push the water through instead of pumps, letting it blow dry once the water is emptied.
+>>4701
+
+Been thinking nasal irrigation devices could be inspiration for a commercial cleaner. Maybe designed to use air pressure to push the water through instead of pumps, letting it blow dry once the water is emptied.
+
 However I'm a big fan of a naval plug that can be accessed for flushing the system too.
 
 # 32
@@ -171,7 +194,8 @@ It's not a bad idea Anon. In my view, having a easily removable, replaceable ona
 Anything we can do at this stage to reduce complexity will help get robowaifus out to more men.
 
 # 33
->>6504
+>>6504
+
 This. Removable is fine, but disposable seems like a problem, since it's a constant cost. Making them easy to clean is essential, and this seems like an easy and logical solution.
 
 # 34
@@ -225,7 +249,8 @@ My apologies about the timing, it certainly wasn't something intended to screw y
 That's alright. I know you didn't meant to. And I do have the tendency to write too much, so it's probably for the best.
 
 # 43
->>13341
+>>13341
+
 Robowaifus are supposed to be able to see and ask if you are okay when you look unwell anon.
 
 # 44
@@ -239,7 +264,8 @@ A robowaifu might be able to make you feel better about your performance, but I 
 Never considered that and I'm also not interested. Why would I need to increase my performance? Why? What for? Why? Also, it is more difficult to build, probably difficult to even have a scientific foundation for it, and just a very special use case.
 
 # 46
->>13354
+>>13354
+
 anon is just being a coomer. silly derail and it feels like we've had a few of those in the last week suddenly. But, there's some benefit of the doubt since we're not always 100% OT - being a coomer is discouraged on '''this''' board (other than maybe basement lounge >>39  )
 
 # 47
@@ -248,8 +274,10 @@ I wondered about your statement and looked up the definition, and still don't ge
 I don't accuse other anons of things, just point out that his goals might be very peculiar to most of us.
 
 # 48
->>13361
->re: Coomer
+>>13361
+
+>re: Coomer
+
 In certain online circles the term is a person who makes masturbation or the pursuit of sexual activity the main, or only focus of their lives. Granted there's going to be some overlap in here b/c presumably fucking robots is baked into the pie already and with that comes the doll enthusiasts, etc. That being said, I'm sure a standalone programmable machine with a hole in it would be a better "dick trainer" than a robot waifu. Either way, I'm not personally judging you but it's maybe an offshoot of "sexual technologies" more than an essential for a waifu.
 
 # 49
@@ -265,11 +293,14 @@ No, if anything it's easier to build. It'd basically just be a fleshlight with s
 Like I said, I don't see a point in combining the idea with a robowaifu, since unless it just lays there lifelessly, the data would be useless.
 
 # 50
->>13368
+>>13368
+
 sounds like a bad hormonal imbalance. Supplements, getting enough sleep, cutting back on alcohol and caffiene, eating more saturated fat and substantially less sugar and getting proper sunlight and exercise will fix all this. Barring something medically catastrophic I'd say you were victim of the urban/postmodern lifestyle. Sexual function is an indicator not a cause. have you fixed this since then?
 
 # 51
->>13372
-we can move the conversation to 
+>>13372
+
+we can move the conversation to 
+
 >>39 if you have more to add
 

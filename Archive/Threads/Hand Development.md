@@ -208,11 +208,16 @@ There's a new vid of his hand with the microgear motors: https://youtu.be/Zi-s_R
 Sadly he emphasizes that he thinks it's only possible to print the parts for the hand with a SLS printer, which is out of reach for most people. He's getting the parts from some paid service bc also hasn't one himself. As inspiration the approach might still be very relevant. I'm saying for a while hands are going to be very difficult.
 
 # 31
-5018
->SLS printer
-A guy built his own?
-https://www.instructables.com/id/DIY-SLS-3D-Printer/
-
+5018
+
+>SLS printer
+
+A guy built his own?
+
+https://www.instructables.com/id/DIY-SLS-3D-Printer/
+
+
+
 Also, that's a high-end goal to exactly reproduce a prosthetic-capable hand. We'll be able to make due with far less refined designs for our robowaifus for years. It's a good goal to work towards, but we'll be able to create good (enough) hands much sooner.
 
 # 32
@@ -285,7 +290,8 @@ Unfortunately, there's not much info available, apart from a two page pdf writte
 i can't see it behind cuckflare. mind posting a link and i can see if wayback has it.
 
 # 45
->>6490
+>>6490
+
 https://soranews24.com/2020/11/03/japanese-inventors-create-robot-girlfriend-hand-for-lonely-people-to-hold-and-walk-with%E3%80%90video%E3%80%91/
 
 # 46
@@ -438,9 +444,12 @@ Ahh, that's the source of my confusion: we were operating on different definitio
 Make sense?
 
 # 72
->>4863
-What about just something like this for a placeholder 'doing stuff' hand? It's just an elastic balloon filled with coffee grounds that serves as a useful gripper. Doesn't look very humanoid, but it does a good job of doing 'hand tasks'
-
+>>4863
+
+What about just something like this for a placeholder 'doing stuff' hand? It's just an elastic balloon filled with coffee grounds that serves as a useful gripper. Doesn't look very humanoid, but it does a good job of doing 'hand tasks'
+
+
+
 I think having hands that serve different goals is a good point to develop for. Maybe even have a hot-swappable slot for the to switch to the right tool for the job. If you really wanted to polish the system you could even have a rack of hands somewhere in the house for the robot to go change its own equipment.
 
 # 73
@@ -469,9 +478,12 @@ All of us have slightly different goals and priorities. I want something quite h
 Nice. Alita looks great with her long hair Anon. I liked her before, but I like her even better now.
 
 # 78
->>8651
-Cheap but reasonably powerful (like MG996R that can produce up to 15kg starting torque at 6V) analog servos weight around 55g each. There are 15 servos on that arm (3 for each finger it seems). So servos alone would weight 825g. And that's only for fingers actuation! There supposed to be more moving parts in that part of the arm but as you can see on the vid there's barely any space left and construction itself doesn't look like it was designed for anything more than this one demo.
-
+>>8651
+
+Cheap but reasonably powerful (like MG996R that can produce up to 15kg starting torque at 6V) analog servos weight around 55g each. There are 15 servos on that arm (3 for each finger it seems). So servos alone would weight 825g. And that's only for fingers actuation! There supposed to be more moving parts in that part of the arm but as you can see on the vid there's barely any space left and construction itself doesn't look like it was designed for anything more than this one demo.
+
+
+
 There are smaller and lighter servos. And they cost a lot. I think they can weight something like 15g. That would make 15x15=225(g). Better but super expensive.Imagine paying 750-1500$ just for servos that move only fingers on only one hand. It seems like they are using something like that in their vid because servos are tiny.
 
 # 79

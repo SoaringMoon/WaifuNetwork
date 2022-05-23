@@ -114,7 +114,7 @@ I'm just sharing this infodump since I hope even though our paths may be plagued
 # 19
 >>973
 >13 and 14 will dress up like pic related.
-<robowaifu qt tankgrill enforcers
+< robowaifu qt tankgrill enforcers
 nice.
 
 As for robot shops closing, it's neither unusual nor surprising for a nascent industry to have churn. One great thing that we have on our side is that the Wright Brothers/Henry Ford style home garage operations are a real possibility [for this industry atm], as you and others are proving. We certainly don't want the botnets to be the only possibility for anons to turn to in the future though, so we have to stay focused. Fortunately we still have  a few years before they manage to make it illegal to create your own waifu but have to use theirs instead. But it's definitely a race. If we make positive progress first and it becomes widely popular among hobbyists the world over, then we may be able to forestall such a move by the botnet vendors such as Jewgle & Amazon.
@@ -793,7 +793,8 @@ Glad you're learning how to improve it as you go. Do remember that walls bring p
 Yeah, I was using 15% infill and two walls, which is probably more than necessary for a test. Thanks for the hint. However, printing isn't what's eating my time, designing and doing other unrelated  things takes much more of it.
 
 # 126
->>13541
+>>13541
+
 OP, I'm going to be merging your prototype thread into our already-standing general prototype thread soon. Please keep us all up to date on your work, good luck.
 
 # 127
@@ -834,8 +835,10 @@ Sorry, but I have to more or less deny all of this. My printer bed is quite well
 As for you alternate design, I'm not interested in a simplified model. Otherwise I would have gone with that. It absolutely doesn't fit into my plans. I'll make it even much more complex, by adding a human-like s-curve to it later. This is the most  simplified version already. Though, I might try out other approaches as well.
 
 # 133
->>14102
->>14104
+>>14102
+
+>>14104
+
 Alright, will do. I'll merge your thread here soon: >>418
 
 # 134
@@ -1034,18 +1037,30 @@ That you told me before, but I don't know how yet and not sure if I need it (at 
 Thanks, I'll look into that.
 
 # 165
->>14594
-
-Hi, long time no see
-
-I have an idea that aim to resolve the freedom of rotation of joint.
-
-It's to use a stainless steel chain and to allow roll axis maybe adding more links will make the roll rotation even better.
-
-I am skipping the joint ball prototyping because it's too much difficult to put it in place.
-
-Hope I will be able to rework on that project soon, it miss me so much heh.
-
+>>14594
+
+
+
+Hi, long time no see
+
+
+
+I have an idea that aim to resolve the freedom of rotation of joint.
+
+
+
+It's to use a stainless steel chain and to allow roll axis maybe adding more links will make the roll rotation even better.
+
+
+
+I am skipping the joint ball prototyping because it's too much difficult to put it in place.
+
+
+
+Hope I will be able to rework on that project soon, it miss me so much heh.
+
+
+
 Cheers
 
 # 166
@@ -1053,13 +1068,17 @@ Cheers
 Hi Evodoll, good to hear from you!
 
 # 167
->>15293
+>>15293
+
 Welcome back Evodoll, your idea to use a chain a flexible shaft is pretty clever and I look forward to seeing how it works out. Wishing you the best!
 
 # 168
->>15303
->>15304
-
+>>15303
+
+>>15304
+
+
+
 Thank you guys, challenges await me !
 
 # 169
@@ -1075,11 +1094,16 @@ I assume some kind of glue or other fastening mechanism is req'd for the stick e
 BTW, I greatly applaud your focus on 'cheap & easy' Anon. This is exactly how we'll see robowaifus reach a very broad segment of men everywhere.
 
 # 171
->>15689
-Designed to work both passively and actively.
->Maybe they're tight fit enough?
-This is correct, designed to be easily put together by shoving the stick in then cutting the end off.
-
+>>15689
+
+Designed to work both passively and actively.
+
+>Maybe they're tight fit enough?
+
+This is correct, designed to be easily put together by shoving the stick in then cutting the end off.
+
+
+
 Here's the next result, it works but is a tad big at 2.5 inches thick and 4 inches in diameter though it barely costs anything to make.
 
 # 172
@@ -1091,7 +1115,8 @@ I'm really glad to hear the manufacture is both easy and inexpensive Kiwi. Perfe
 Cheers.
 
 # 173
->>15761
+>>15761
+
 By rolling Chobitsu Kun. The friction between wood and PETG/PLA is pretty low. Right now I'm trying to make the mechanism flatter and print faster. PETG/PLA also don't have a high coefficient of friction on most materials. Due to this, I'm looking into materials that will help in the transfer of kinetic energy from wheel to surface. I'm thinking of O-rings at the moment.
 
 # 174
@@ -1105,7 +1130,8 @@ It's going to be great to see unified, modular roller 'feet' available to all ou
 Nylon planetary gearset with 78 ring teeth, 32 planetary teeth, and 12 sun for a 7.5 gear reduction ratio. I fucked up the ratio (78-12)/2=33, which is the correct number of planet gear teeth. I also had bad warping on the gear teeth.
 
 # 176
->>15890
+>>15890
+
 Looks really cool. But if the nylon is warping why not try printing it in PLA?
 
 # 177
@@ -1113,16 +1139,26 @@ Looks really cool. But if the nylon is warping why not try printing it in PLA?
 Looks pretty cool though Anon. Can someone here explain to the uninitiate what a planetary gearset is for? I mean what is the primary purpose/benefit it serves? Can they improve some things?
 
 # 178
->>15894
->What is a planetary gearset (they are also known as epicyclic gearing)?
-A gear train which relies on three basic element types: sun gear in the center, planet gears which "orbit" the sun gear, and a ring or annular gear which has internal teeth that engage the planet gears. The calculations for gear ratios depend on what element is being driven and which element is used as the output. 
-This website provides a very helpful visual interface for understanding the relationship between the elements: https://www.thecatalystis.com/gears/
-This website provides some good general knowledge with helpful explanations on the math involved in calculating gear ratios: https://woodgears.ca/gear/planetary.html
-
->Why use it?
-Planetary geartrains are legendary in many engineering applications for their high efficiency (generally over 95%) and their ability to create large gear ratios in compact spaces with few gears. A notable advantage they have for 3D printing is the distribution of torque across multiple planets which engage the sun and outer ring. This allows for a higher torque density (the gears can be smaller than other geartrain types for the same torque requirements). Though I would suggest always designing 3D printed gears to be thicker with stronger teeth than is required. 
-
-They also look cool.
+>>15894
+
+>What is a planetary gearset (they are also known as epicyclic gearing)?
+
+A gear train which relies on three basic element types: sun gear in the center, planet gears which "orbit" the sun gear, and a ring or annular gear which has internal teeth that engage the planet gears. The calculations for gear ratios depend on what element is being driven and which element is used as the output. 
+
+This website provides a very helpful visual interface for understanding the relationship between the elements: https://www.thecatalystis.com/gears/
+
+This website provides some good general knowledge with helpful explanations on the math involved in calculating gear ratios: https://woodgears.ca/gear/planetary.html
+
+
+
+>Why use it?
+
+Planetary geartrains are legendary in many engineering applications for their high efficiency (generally over 95%) and their ability to create large gear ratios in compact spaces with few gears. A notable advantage they have for 3D printing is the distribution of torque across multiple planets which engage the sun and outer ring. This allows for a higher torque density (the gears can be smaller than other geartrain types for the same torque requirements). Though I would suggest always designing 3D printed gears to be thicker with stronger teeth than is required. 
+
+
+
+They also look cool.
+
 (Pic actually related, she is a clock/automata with planetary and many other geartrains)
 
 # 179
@@ -1133,9 +1169,12 @@ Ahh. So, could the outer, ring-gear be affixed to say, a thigh-strut framework, 
 She's pretty wonderful robowaifu too.
 
 # 180
->>15904
->Outer ring as output, driven by the sun gear, with stationary planets.
-That's definitely an option, would look really cool too. 
+>>15904
+
+>Outer ring as output, driven by the sun gear, with stationary planets.
+
+That's definitely an option, would look really cool too. 
+
 **It's really nice to find someone else who appreciates RyuZU, she's been a favorite of mine since the Clockwork Planet anime aired years ago, actually got me into automata and clockwork mechanics. Hidden for off topic**
 
 # 181
@@ -1148,10 +1187,14 @@ AnchoR is breddy wonderful too. In fact, scene-related is one of the most touchi
 >
 
 # 182
->>15909
-Finally starting get the hang of resin printing. It's actually pretty easy, and with way better mechanical accuracy then filament prints. Shout out to RiCODev, his advice saved me a lot of trouble and trial and error. No idea what he was going on about with needing supports, I don't use them and everything is fine. Don't overshake your resin, your prints will have many bubbles like these do. Also, you must be very careful with cleaning the build plate after every print or else your print may end up stuck to the platic on the bottom of the resin vat. The key to successful designs is to shrink the part which touches the build plate to accomodate the first few layers expansion. Also, larger prints should be hollow with holes punched into the shell to releive hydrolic pressure, very grateful to have learned that from RiCODev's warnings. Also, rounding edges to create continuous edges helps, as you can see the overhang is a continuous rounded feature.
-
->Y
+>>15909
+
+Finally starting get the hang of resin printing. It's actually pretty easy, and with way better mechanical accuracy then filament prints. Shout out to RiCODev, his advice saved me a lot of trouble and trial and error. No idea what he was going on about with needing supports, I don't use them and everything is fine. Don't overshake your resin, your prints will have many bubbles like these do. Also, you must be very careful with cleaning the build plate after every print or else your print may end up stuck to the platic on the bottom of the resin vat. The key to successful designs is to shrink the part which touches the build plate to accomodate the first few layers expansion. Also, larger prints should be hollow with holes punched into the shell to releive hydrolic pressure, very grateful to have learned that from RiCODev's warnings. Also, rounding edges to create continuous edges helps, as you can see the overhang is a continuous rounded feature.
+
+
+
+>Y
+
 Very tempting, I've been thinking of changing my name as I do not wish to be associated with KiwiCo and other existing businesses that I'm not affiliated with.
 
 # 183
@@ -1159,11 +1202,13 @@ Very tempting, I've been thinking of changing my name as I do not wish to be ass
 You'd usually get your highest gear ratio from having the ring embedded in the robot frame and the output shaft connected to the planetary gears, with an "carrier arm" attached to the bearings.
 
 # 184
->>15914
+>>15914
+
 I hate my ender printer and im sure sticking to the bed in the first place would not be as much of an issue with resin printing. What would be a good resin printer to buy?
 
 # 185
->>15926
+>>15926
+
 I've only used the Anycubic Photon Mono 4K so, I would have to recommend that. This is a good price for it: https://www.amazon.com/ANYCUBIC-Photon-Resin-Printer-Clear/dp/B09Q93Y374 I too hate my Ender 3, though for bed adhesion resin printers need the metal plate to be cleaned between every print, I use a paper towel to do this. I would also recommend a magnetic plate for the bed like: https://www.amazon.com/Sovol-3D-Upgraded-Platform-Magnetic/dp/B08LYP2VTT/ref=sr_1_2?crid=155V9SBK8WNCS&keywords=photon%2Bmono%2B4k%2Bflex&qid=1650305462&s=industrial&sprefix=photon%2Bmono%2B4k%2Bfle%2Cindustrial%2C184&sr=1-2&th=1 these make print removal much easier. Wishing you luck and success in your printing endevours.
 
 # 186
@@ -1184,29 +1229,40 @@ Really looking forward to your designs to come Anon. Indeed for all of ours. Onw
 -''add 'white placard' comment''
 
 # 188
->>15926
-I would encourage you to look at the larger machines (Elegoo saturn/Anycubic photon x), I know they cost a little more but the extra build area makes the difference between a toy with niche uses and a truly usable machine. Even if you only plan to do small parts, being able to shoot off an entire set at once is a game changer. I was able to make RiCOs arm overnight whereas it would have taken a few days on my old machine.
-
+>>15926
+
+I would encourage you to look at the larger machines (Elegoo saturn/Anycubic photon x), I know they cost a little more but the extra build area makes the difference between a toy with niche uses and a truly usable machine. Even if you only plan to do small parts, being able to shoot off an entire set at once is a game changer. I was able to make RiCOs arm overnight whereas it would have taken a few days on my old machine.
+
+
+
 The extra resolution on the small 4K machines only offers a marginal quality improvement. Not worth trading for build volume.
 
 # 189
->>15974
-Been considering a Elegoo saturn myself as it has a similar build volume to what I already have with traditional 3D printing. 
-
+>>15974
+
+Been considering a Elegoo saturn myself as it has a similar build volume to what I already have with traditional 3D printing. 
+
+
+
 Is it really worth getting? Have seen a lot of reviews claiming their units were defective or talking about how it's hit or miss whether resin printing is hazardous material cleaning time or 3D printing fun.
 
 # 190
->>14572
+>>14572
+
 Brief update. I'm learning OpenSCAD now. I want to be able to change files with only a few commands.
 
 # 191
->>15975
-If you need smooth organic features (no layer lines!) then yes. Otherwise, no. See my post in the Rico thread. 
-
+>>15975
+
+If you need smooth organic features (no layer lines!) then yes. Otherwise, no. See my post in the Rico thread. 
+
+
+
 Yes, the resin is toxic until cured. Read the MSDS for common resins, TL;DR: wear gloves, don't huff it, and you should be OK. Cleaning IS a PITA, you will probably find yourself avoiding resin printing in favor of FDM whenever possible. You will need a dedicated cleaning area.
 
 # 192
->>15975
+>>15975
+
 In the 3D printing thread >>94 other smoothing methods have been mentioned. Resin printing might be only worth if you want to print small models which need to be smooth, or for ones which need to be precise and smooth. FDM is the to-go method for a reason. I would rather buy small metal gears from Ali Express instead of printing them out of resin, but for prototyping it might be nice to print some placeholders.
 
 # 193
@@ -1214,11 +1270,16 @@ In the 3D printing thread >>94 other smoothing methods have been mentioned. Resi
 Great! Glad to hear from you again, GenerAnon. Good luck with your new efforts, keep going.
 
 # 194
->>15976
-Using OpenSCAD for this seems to be quite unexplored, but I had a hunch it would be the right way to go. Some things work quite simple. I wanted to cut out a chest from a cylinder using four half rings, and now I see even quite good results using just one. 
-
-Other parts are just distorted spheres which are then surrounded by a hull, using the hull() operator.
-
+>>15976
+
+Using OpenSCAD for this seems to be quite unexplored, but I had a hunch it would be the right way to go. Some things work quite simple. I wanted to cut out a chest from a cylinder using four half rings, and now I see even quite good results using just one. 
+
+
+
+Other parts are just distorted spheres which are then surrounded by a hull, using the hull() operator.
+
+
+
 robowaifu-OpenSCAD-tests.tar.gz: https://files.catbox.moe/v8rdf0.gz
 
 # 195

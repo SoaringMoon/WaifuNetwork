@@ -11,11 +11,12 @@ Welcome to /robowaifu/, where we work to make cyberpunk and anime real!
 
 The help section will answer a lot of your questions about how the board works quickest, anon. It's the little dark blue question mark at top left of the centre of this page. Next to all the other little symbols where it says 'Home', 'Boards' and 'Overboard'. 
 
-If you want to post code then you have to write ```cpp
+If you want to post code then you have to write ```cpp```
  blah, blah, blah your code here [forward slash code].
 
 # 3
->>7650
+>>7650
+
 https://alogs.theГунтretort.com/robowaifu/rules.html
 
 # 4

@@ -13,12 +13,18 @@ Don't come in here friend! Remember back when /b/ was good? Yeah I didn't think 
  ==WARNING==
 
 # 2
-y robos? list plox
->pros
-<cons
-
-how long until robo waifu 100% build?
-
+y robos? list plox
+
+>pros
+
+< cons
+
+
+
+how long until robo waifu 100% build?
+
+
+
 **robohusbando when**
 
 # 3
@@ -29,19 +35,29 @@ Well, Dollfan did a pretty decent job laying out the 'whys' and watnot in the We
 Whenever the literal faggots steal our work or devise their own I suppose. It certainly won't be coming from here as long as I'm in charge.
 
 # 4
->>47
+>>47
+
 B A S T E  A N D  R E D P I L L E D
 
 # 5
->visit lainchan
->see thread about robowaifus
->this should be interesting
->many replies are the "but it's not real" argument
->also a few crypto-NTR fags suggesting that they should exhibit 3DPD traits
->minor argument starts about wether robot prostitutes or 3D prostitutes are better
->actual support for robowaifus is in the minority
->on an IB dedicated to technology and worshipping an AI from an obscure anime
-Communists are fucking weird.
+>visit lainchan
+
+>see thread about robowaifus
+
+>this should be interesting
+
+>many replies are the "but it's not real" argument
+
+>also a few crypto-NTR fags suggesting that they should exhibit 3DPD traits
+
+>minor argument starts about wether robot prostitutes or 3D prostitutes are better
+
+>actual support for robowaifus is in the minority
+
+>on an IB dedicated to technology and worshipping an AI from an obscure anime
+
+Communists are fucking weird.
+
 **Then again, based on some of the shit I've seen there I should be glad that the conversation didn't devolve into something far worse**
 
 # 6
@@ -155,8 +171,10 @@ Valid point my mistake. I don't really have anything to say on this subject anym
 sage for off topic
 
 # 25
->>376
->This will be real in our lifetimes.
+>>376
+
+>This will be real in our lifetimes.
+
 Yes but sure as hell wont be anywhere near cheap, unless someone makes it for charity or something.
 
 # 26
@@ -283,7 +301,8 @@ I've got bad news, anon.
 le Гунт maymay tbh
 
 # 51
->>1839
+>>1839
+
 Unless it's an operating system or something needed to function within an operating system a piece of software should just fail with a traceback. Don't bloat your code because you just have to get your cummies right now.
 
 # 52
@@ -298,7 +317,8 @@ I'm glad when the car I'm riding in has a fault, it doesn't just display an erro
 Shame.
 
 # 54
-https://www.youtube.com/watch?v=OLxcD0_Ow0g
+https://www.youtube.com/watch?v=OLxcD0_Ow0g
+
 What a time to be alive
 
 # 55
@@ -306,14 +326,18 @@ What a time to be alive
 Lel, that's great. I don't know enough to tell, do you think that's ethot mocap, or canned animation?
 
 # 56
->>2238
+>>2238
+
 Pretty sure it's motion capture without full-body tracking.
 
 # 57
-CSS to fix posts with broken newlines:
+CSS to fix posts with broken newlines:
+
 ```cpp
-span.greentext {display: block;}
-span.pinktext {display: block;}
+span.greentext {display: block;}
+
+span.pinktext {display: block;}
+
 .divMessage br {display: block;}```
 
 # 58
@@ -325,13 +349,17 @@ Anon, I've confirmed that this also seems to fix the pernicious bug with codeblo
 >>>/meta/7291
 
 # 59
->>1841
->>1943
+>>1841
+
+>>1943
+
 I'm pretty sure standard practice, even on critical systems is to return to a known-good state, aka try turning it off and on again. Error recovery code could just send you into a spiral of shit not working properly.
 
 # 60
->>2237
->he found the VR ASMR
+>>2237
+
+>he found the VR ASMR
+
 The future is coming and so am I
 
 # 61
@@ -346,9 +374,12 @@ Or not, as the case may be. Certainly an inordinate amount of engineering is req
 <"Ace? You still there? Talk to us buddy..."
 
 # 62
->>2280
-If you write code that fucks up, then it's a safe assumption that your error recovery code may also fuck up.
->reboot the f22
+>>2280
+
+If you write code that fucks up, then it's a safe assumption that your error recovery code may also fuck up.
+
+>reboot the f22
+
 What else are you going to do, run a disk scan?
 
 # 63
@@ -358,11 +389,16 @@ Ofc, since we're in fact humans. Even DNA and RNA construction utilizes both QA 
 Umm, '''not''' create a situation in the system that crashes in the first place? Thus the inordinate amount of engineering, both for production and for testing.
 
 # 64
->>2316
->Even DNA and RNA construction utilizes both QA and error-detection/correction
-DNA can't be reset. Error recovery is the only option, and it often fucks up and causes cancer and other diseases
-
->Umm, not create a situation in the system that crashes in the first place?
+>>2316
+
+>Even DNA and RNA construction utilizes both QA and error-detection/correction
+
+DNA can't be reset. Error recovery is the only option, and it often fucks up and causes cancer and other diseases
+
+
+
+>Umm, not create a situation in the system that crashes in the first place?
+
 That's literally my point. Write a system that doesn't crash. When it crashes anyway, there's no other choice but to reboot it. If the reboot doesn't fix it, you're shit outta luck. Error recovery however will just mask the crash and you could end up in a situation where your program is pretending everything is fine when it isn't.
 
 # 65
@@ -383,8 +419,10 @@ obviously a very insidious situation, and one of the reasons avoiding these situ
 Disagree. You could end up dead and then where would she be Anon?
 
 # 67
->>2336
->Disagree. You could end up dead and then where would she be Anon?
+>>2336
+
+>Disagree. You could end up dead and then where would she be Anon?
+
 I'd rather risk my waifubot malfunctioning at a critical moment and shutting down, rather than her accidentally killing me or an innocent loli.
 
 # 68
@@ -397,14 +435,22 @@ nor can we be all
 It will take time to sort through complex issues like this ofc.
 
 # 69
-I was listening to a podcast yesterday of David Silver who was one of the lead researchers for AlphaZero, MuZero and AlphaStar. He made a really good point that the best way to do learning is to give a system a way to correct its own errors. A system that can start from scratch by judging the value of random decisions to make better decisions will gradually improve towards superhuman-level performance with enough computation.
-https://www.youtube.com/watch?v=uPUEq8d73JI
-
-Robowaifus will likely be more adept at fixing their own malfunctions than we are. I'm reminded of some race car driving teams who were using reinforcement learning to improve their racing strategy. Sometimes the AI made decisions they felt were totally wrong and just malfunctions in the system, so they ignored those suggestions, but afterwards they kicked themselves every time because these decisions would've been perfect plays that won the race.
-
-A similar thing happened with move 37 in one of the AlphaGo matches with Lee Sedol. Everyone thought it was a complete mistake and the system broke down but it turned out to be a genius move.
-https://www.youtube.com/watch?v=HT-UZkiOLv8
-
+I was listening to a podcast yesterday of David Silver who was one of the lead researchers for AlphaZero, MuZero and AlphaStar. He made a really good point that the best way to do learning is to give a system a way to correct its own errors. A system that can start from scratch by judging the value of random decisions to make better decisions will gradually improve towards superhuman-level performance with enough computation.
+
+https://www.youtube.com/watch?v=uPUEq8d73JI
+
+
+
+Robowaifus will likely be more adept at fixing their own malfunctions than we are. I'm reminded of some race car driving teams who were using reinforcement learning to improve their racing strategy. Sometimes the AI made decisions they felt were totally wrong and just malfunctions in the system, so they ignored those suggestions, but afterwards they kicked themselves every time because these decisions would've been perfect plays that won the race.
+
+
+
+A similar thing happened with move 37 in one of the AlphaGo matches with Lee Sedol. Everyone thought it was a complete mistake and the system broke down but it turned out to be a genius move.
+
+https://www.youtube.com/watch?v=HT-UZkiOLv8
+
+
+
 It's conceivable our robowaifus will act in similar ways that make us feel they're malfunctioning but are actually making things work the best for us in a way that won't become apparent until events unfold. Or we may not even realize what they're doing, like a dog giving you strange looks why the heck you opened the door in -30C to carry in logs for the woodstove.
 
 # 70
@@ -417,7 +463,8 @@ Regardless of what type of software & hardware safety policies we eventually coa
 __Certainly__ some sort of reactive and feedback systems will need to be in place to ensure even the most basic operational constraints for our robowaifus, if not safety guarantees. Since these need to be devised anyway--and are already going to be complex & sophisticated af--we might as well seek to build in some reasonable safety measures while we're at it sez me. :^)
 
 # 71
->>2342
+>>2342
+
 How safe would consider another human being? If the goal is replacing a human relationship, maybe ensuring complete safety will eventually become counterproductive. Maybe not, I'm just putting this out there.
 
 # 72
@@ -435,12 +482,18 @@ But certainly there are basic limits to human intelligence and creativity. Anon'
 Sorry somehow I missed that. To each their own ofc, but certainly ''my'' goal isn't that but rather to help out men who are being abused in this current system. Healthy relationships are obviously much more preferable.
 
 # 74
->>2342
->shit happens
-Actually robowaifus do not shit. **:^)**
-
-I'm probably gonna get myself killed programming my robowaifu to seek indeterminacy for play and learning. I'll come home one day and there will be ten kilos of cocaine sitting on the table and she'll look up with dozens of bullet holes asking, "why do humans care about these bags of white powdery stuff so much? I was gonna hide them around for fun but they didn't think it was so funny."
-
+>>2342
+
+>shit happens
+
+Actually robowaifus do not shit. **:^)**
+
+
+
+I'm probably gonna get myself killed programming my robowaifu to seek indeterminacy for play and learning. I'll come home one day and there will be ten kilos of cocaine sitting on the table and she'll look up with dozens of bullet holes asking, "why do humans care about these bags of white powdery stuff so much? I was gonna hide them around for fun but they didn't think it was so funny."
+
+
+
 The only safety mechanism I've thought of so far is minimizing resistance to other life but there are times when inaction will do more harm than resisting something. It would be better a robowaifu strains her components and risk damaging them to catch her husbando from falling over than let him break his arm or something. They have to be aware of all the dangers and take their chances, kind of like that DARPA challenge KAIST won. A lot of robots broke their components and lost simply because they were unaware of the damage their actions were doing to themselves.
 
 # 75
@@ -450,7 +503,8 @@ The only safety mechanism I've thought of so far is minimizing resistance to oth
 It is indeed a great challenge to pull this off correctly Anon. Personally, I think it's beyond human abilities, but that doesn't mean I'm not going to take a whack at it. We'll figure out '''some''' sort of happy**-ish** medium I'm sure.
 
 # 76
->>2350
+>>2350
+
 But pantsu is cute
 
 # 77
@@ -459,16 +513,25 @@ But pantsu is cute
 ==Underpants don't go on the head.==
 
 # 78
-/robowaifu/ now with 28% more Chii
+/robowaifu/ now with 28% more Chii
+
 ```cpp
-body {
-    background-image: url(https://imgur.com/K2XmKPw.png);
-    background-repeat: no-repeat;
-    background-position: right bottom;
-    background-attachment: fixed;
-    background-size: 28%;
-}```
-
+body {
+
+    background-image: url(https://imgur.com/K2XmKPw.png);
+
+    background-repeat: no-repeat;
+
+    background-position: right bottom;
+
+    background-attachment: fixed;
+
+    background-size: 28%;
+
+}```
+
+
+
 Base64 Edition: https://pastebin.com/KibfkBkb
 
 # 79
@@ -492,7 +555,7 @@ https://theprayer.diemutstrebe.com/
 inb4 >ecelebs
 
 # 82
->>2402
+> >2402
 >using AI to improve crop yields, no
 >using AI to improve manufacturing, no
 >using AI to solve hard problems in math, engineering and physics, no
@@ -510,7 +573,8 @@ Horrific unncanny-valley nightmare fuel that makes me want to puke
 Go full robot you gay nigger
 
 # 85
->>2503
+>>2503
+
 Where's your robowaifu?
 
 # 86
@@ -596,7 +660,8 @@ What's wrong with you people?
 lurk for at least 10'000 years.
 
 # 103
->>2989
+>>2989
+
 lurk inside your brain for 34121234^10-e years until you find a logical answer to my question because you're too timid to get an escort to suck it
 
 # 104
@@ -604,14 +669,19 @@ lurk inside your brain for 34121234^10-e years until you find a logical answer t
 There is considerable less risk in a robot than a modern relationship or an escort (STDs).  Also this would just be for prototyping early systems.  By no means would this be the final product.
 
 # 105
->>2994
+>>2994
+
 That escort is going to be a one time thing and there is a good chance she has an STD.  Why not just put the money you would have spent on a hooker towards a robowaifu?  Then you can have all the sex you want.
 
 # 106
->>2998
->>2997
-this is all cope bros, because its never going to be as hot and messy heart warming as with a real girlf, the smell, warm sweaty skin, hormones pumping out into the air the sounds, everything just feels so good right and perfect in the moment
-
+>>2998
+
+>>2997
+
+this is all cope bros, because its never going to be as hot and messy heart warming as with a real girlf, the smell, warm sweaty skin, hormones pumping out into the air the sounds, everything just feels so good right and perfect in the moment
+
+
+
 escort is a bit different c the pure emotional stuff isnt really there but still, doesnt have to be a one time thing either
 
 # 107
@@ -619,35 +689,58 @@ escort is a bit different c the pure emotional stuff isnt really there but still
 Ironically, at least whores are honest about their natures and are vaguely resistant to feminism. Stronk, independynts are a literal plague and the whole reason robowaifus are needed in the first place.
 
 # 108
->>2999
->the smell
-Smell has already been figured out. The ability to make any smell that's ever existed and any smell that's never existed has already been achieved.
->warm, sweaty skin
-Warm is easy, it's keeping our waifus from overheating that's the problem. Sweat can be engineered. In fact, it would be a possible solution to the aforementioned issue.
->hormones
-Hormones are chemicals, and chemicals can be synthesized.
->sounds
-Sound was figured out decades ago, even before the advent of the microprocessor.
->perfect in the moment
-And regret* when it's over, if you go the 3DPD route.
-*Level of regret may vary by jurisdiction.
-
+>>2999
+
+>the smell
+
+Smell has already been figured out. The ability to make any smell that's ever existed and any smell that's never existed has already been achieved.
+
+>warm, sweaty skin
+
+Warm is easy, it's keeping our waifus from overheating that's the problem. Sweat can be engineered. In fact, it would be a possible solution to the aforementioned issue.
+
+>hormones
+
+Hormones are chemicals, and chemicals can be synthesized.
+
+>sounds
+
+Sound was figured out decades ago, even before the advent of the microprocessor.
+
+>perfect in the moment
+
+And regret* when it's over, if you go the 3DPD route.
+
+*Level of regret may vary by jurisdiction.
+
+
+
 Bait harder.
 
 # 109
 I like sugar and I like tea.
 
 # 110
->>3003
->Bait harder.
-Bait? You are the one taking the poisonous gender class warfare bait from Jews thinking everything related to women is literally pointless. Also nice pic.
-
-How old are you anyway A lot of women over 30 or even younger don't even go outside, they don't really do fun things, because it's not their nature, the non whores you dont see are at home watching netflix, miserable they need a man to guide them the ones that dont get that are either aching for that adventure or salty and effected by kikes that are constantly promoting gender and class warfare telling them men are the issue all the time. Just like what they have done to you and poisoned your minds into thinking its impossible to someone who matches you get something real and healthy going.
-
-Do you have overinflated ideals? You probably wont get your 10/10 fictional perfect animelol girl, but you will get something wholesome maybe even close if you tried like tried hard as making the sex bot for sure, a shitton of girls are lonely. Even if you cant theres always the escort.
-
->And regret* when it's over, if you go the 3DPD route.
-*Level of regret may vary by jurisdiction.
+>>3003
+
+>Bait harder.
+
+Bait? You are the one taking the poisonous gender class warfare bait from Jews thinking everything related to women is literally pointless. Also nice pic.
+
+
+
+How old are you anyway A lot of women over 30 or even younger don't even go outside, they don't really do fun things, because it's not their nature, the non whores you dont see are at home watching netflix, miserable they need a man to guide them the ones that dont get that are either aching for that adventure or salty and effected by kikes that are constantly promoting gender and class warfare telling them men are the issue all the time. Just like what they have done to you and poisoned your minds into thinking its impossible to someone who matches you get something real and healthy going.
+
+
+
+Do you have overinflated ideals? You probably wont get your 10/10 fictional perfect animelol girl, but you will get something wholesome maybe even close if you tried like tried hard as making the sex bot for sure, a shitton of girls are lonely. Even if you cant theres always the escort.
+
+
+
+>And regret* when it's over, if you go the 3DPD route.
+
+*Level of regret may vary by jurisdiction.
+
 Regret? You regret the good times you had even though it did not work out? its pain but that's life, a roller coaster ride. the only thing wrong about it really is the damn mindset. One thing is for sure that garbage society doesn't ease things at all.
 
 # 111
@@ -662,13 +755,20 @@ Sure, while trying to encourage guys to live a normalfag lifestyle has it's meri
 ATP robowaifus may be the sanest choice in this insane situation, honestly, certainly for millions of men it plainly is IMO.
 
 # 112
->>3012
-OK You still don't think women are lonely? Since you childishly answer age question with the same we can just drop that you idiot. Yeah Men have it bad, worse, but women have it bad too for sure because these things are all interconnected.
-
-My country has literal suicide cults of young white women on snapchat who jump off bridges and cut their wrists, But nobody ever makes hitpieces on it or asks ''why'' not even a try. '''Nobody''' tries to stop it. Just a snippet on local news, and you probably know (((why))).  the best gf in my life i had from years ago was a wrist cutter. A person who did not fit in this shitstain society who got bullied by other women just for not being a pretentious slut. While nothing was wrong with her but meanwhile she was prettier than them.
-
-But one thing is for sure this escapism isn't the solution. It's what caused this trash society in the first place. One can never have a solution without adressing the root cause because without adressing root, there is nothing. Some wierdo little lifeless fuckdolls gets confiscated and the person put on trial for nothing and the fucktoy banned, and yes that has actually happened here. It really is no different.
-
+>>3012
+
+OK You still don't think women are lonely? Since you childishly answer age question with the same we can just drop that you idiot. Yeah Men have it bad, worse, but women have it bad too for sure because these things are all interconnected.
+
+
+
+My country has literal suicide cults of young white women on snapchat who jump off bridges and cut their wrists, But nobody ever makes hitpieces on it or asks ''why'' not even a try. '''Nobody''' tries to stop it. Just a snippet on local news, and you probably know (((why))).  the best gf in my life i had from years ago was a wrist cutter. A person who did not fit in this shitstain society who got bullied by other women just for not being a pretentious slut. While nothing was wrong with her but meanwhile she was prettier than them.
+
+
+
+But one thing is for sure this escapism isn't the solution. It's what caused this trash society in the first place. One can never have a solution without adressing the root cause because without adressing root, there is nothing. Some wierdo little lifeless fuckdolls gets confiscated and the person put on trial for nothing and the fucktoy banned, and yes that has actually happened here. It really is no different.
+
+
+
 People will always hear much more about the relationships that failed and went wrong other than the success stories which quietly and contently live their lives, obviously because people don't complain about it all the time. Related to this is (((social media))) blackpilling distorting people's entire perception of reality by design, and stupid morons not recognizing it.
 
 # 113
@@ -685,13 +785,17 @@ Sure, there will be some element of escapism here, and understandably. But in fa
 >I don't believe there actually is one, humanly-speaking.*
 
 # 115
->>3016
+>>3016
+
 Yeah some women are lonely, but even they have ridiculous standards from simps on social media blowing smoke up their asses.  Even if she isn't expecting chad thundercock there are a million and one ways she could destroy your life in our current situation.  It simply isn't worth the risk.  Most of us here would choose a real woman if it wasn't such a huge risk, but here we are making fleshlights with chatbot software.  The risk is just too high in modern relationships.
 
 # 116
->>3017
-So no argument at all? You won't even adress what im saying? Cool nothin like some pure spiteful lost type cowardice. Dishonest cunt. Especially over social media blackpilling people, because they were never learned or thought people always shriek the loudest about the wrongs in this shitty kike society. Because trying to find real happiness outside the kike version isn't kosher. And  I wasn't even trying to be condescending.
-
+>>3017
+
+So no argument at all? You won't even adress what im saying? Cool nothin like some pure spiteful lost type cowardice. Dishonest cunt. Especially over social media blackpilling people, because they were never learned or thought people always shriek the loudest about the wrongs in this shitty kike society. Because trying to find real happiness outside the kike version isn't kosher. And  I wasn't even trying to be condescending.
+
+
+
 Anyway, there are plenty of loners out there, opposite sex, just like you. You need to keep on trucking. And in the end you think jews and dried up leftie woman, or some tranny wont take away your fuckdoll or ban them like they did to some guys here? Like they did to certain things  from 3d printers? Like they are doing to drones? Think they won't stop you from selling your AI fucktoy? What makes you think they wont? This is literally a war. They dont want people to be happy, just content enough to exist as a slave. And the sooner people get that the better.
 
 # 117
@@ -699,9 +803,12 @@ Anyway, there are plenty of loners out there, opposite sex, just like you. You n
 I do believe I already have addressed you. Going to address mine? How about a sure-fire solution, for example.
 
 # 118
->>3020
-Yeah there's all that bullshit with feminine simps, twitter whores, and this type of scum. So what?
-
+>>3020
+
+Yeah there's all that bullshit with feminine simps, twitter whores, and this type of scum. So what?
+
+
+
 Believing there is no real happiness exists for you will simply ensure you don't try and there is none in the end. Like with anything you have to try to get what you want.
 
 # 119
@@ -709,7 +816,8 @@ Believing there is no real happiness exists for you will simply ensure you don't
 Tell me about your Mother, Anon.
 
 # 120
->>3024
+>>3024
+
 tell me about your cope
 
 # 121
@@ -717,18 +825,24 @@ tell me about your cope
 mope.
 
 # 122
->>3023
+>>3023
+
 I can try all I want and maybe I will even be successful, but if something goes wrong (and there is a very good chance that something will go wrong given the world we live in) then I lose my kids and at minimum half of my assets.  That just isn't a risk worth taking.
 
 # 123
->>3026
-Almost like im talking to a broken record who actually, seriously believes there is no happiness for him.. Oh wait. it's so sad. My feels for people like you. Maybe if you went outside or noticed that a literal subhuman monkey can find it, and you can't it would make you would reevaluate your defeatist bullshit despite what some blackpilled or depressive faggots may say. And instead go be the best dude you can possibly be.
-
->>3027
+>>3026
+
+Almost like im talking to a broken record who actually, seriously believes there is no happiness for him.. Oh wait. it's so sad. My feels for people like you. Maybe if you went outside or noticed that a literal subhuman monkey can find it, and you can't it would make you would reevaluate your defeatist bullshit despite what some blackpilled or depressive faggots may say. And instead go be the best dude you can possibly be.
+
+
+
+>>3027
+
 Okay, you might suffer, you say its a good chance, but you might not at all. Sometimes mostly depending on your actions. Isn't that normal, regular life in a nutshell already?
 
 # 124
->>3028
+>>3028
+
 Look you know and I know that women initiate the vast majority of divorces and the most common reason for divorce is boredom.  I can't fix the legal system, and I can't control a woman's mind.  However I am an engineer, and I am pretty good at building things.  The robot has no chance of taking my assets or destroying my life, but a woman could easily destroy and steal everything I've ever worked for.  The robot will provide me with happiness, maybe not as much as a real woman would, but it comes with a lot less risk.  I'm willing to accept the booby prize if first place comes with a huge risk to my livelihood.
 
 # 125
@@ -737,19 +851,26 @@ Look you know and I know that women initiate the vast majority of divorces and t
 So, you're actually a frightened little roastie? Afraid your little gravy train will vanish soon? A turn of phrase such as that certainly gives it away. How did you make your way here, out of curiosity?
 
 # 126
->>3029
-Yes i know, and good luck with it,  im just telling my 2 cents not to give in to bullshit and be smart about the fuckery regardless there's legal prenuptials you can write, and all that.
-
->>3030
+>>3029
+
+Yes i know, and good luck with it,  im just telling my 2 cents not to give in to bullshit and be smart about the fuckery regardless there's legal prenuptials you can write, and all that.
+
+
+
+>>3030
+
 im a guy with a cock and i honestly feel bad for you dude based on the shit you tell me here
 
 # 127
->>3032
+>>3032
+
 Prenupts are often thrown out in court.  They don't do much to mitigate the risks.
 
 # 128
->>3010
->they need a man to guide them the ones that dont get that are either aching for that adventure or salty 
+>>3010
+
+>they need a man to guide them the ones that dont get that are either aching for that adventure or salty 
+
 No. I don't want to perpetually guide. I don't want to provide adventure and excitement. I don't want to have to try to impress or charm or make them laugh. I want somebody who's happy with sharing my reclusive lifestyle and doesn't like me for what I give them, but likes me just because I am who I am. I'll always be who I am and I never want to pretend to be somebody i'm not. There's no way a woman could comprehend my feelings. They're not built to. Potential happiness only exists in textbooks and research papers. I don't care about society or other people's feelings.
 
 # 129
@@ -767,7 +888,8 @@ And to repeat what I said on the bunker a while ago,
 We'll be fine Anon, just relax.
 
 # 131
->>3087
+>>3087
+
 Alrighty then.  Let's build us some robowaifus.
 
 # 132
@@ -777,32 +899,40 @@ Yup. So, where are you at right now project/study-wise Anon, out of curiosity?
 Personally, I've gotten some good advice regarding the ''RDD'' content from a new friend at nanochan/g, and I may be significantly revising the layout. Even into ''two'' different books possibly.
 
 # 133
->>3089
+>>3089
+
 I'm a biochemical engineer and right now I am looking into mycelium composites and easy to build bipedal locomotion systems for my short stack idea.
 
 # 134
->>3087
->I personally keep the entire board archived night and day
+>>3087
+
+>I personally keep the entire board archived night and day
+
 Apologies if you've written it out before and I missed it, but could you elaborate on this? Do you just dump the urls of all the threads on archive.is, or do you have some kind of scraper?
 
 # 135
->>3094
+>>3094
+
 Don't answer this.
 
 # 136
->>3095
+>>3095
+
 That's rude lad, I'm only asking because I own a board here that isn't staying and I'd like to archive it as best as I can.
 
 # 137
->>3096
+>>3096
+
 Certainly suspicious timing given the circumstances.
 
 # 138
->>3097
+>>3097
+
 The timing is that julay went fully offline without warning, lost their primary domain, came back a couple of hours ago on their second, and now /v/ has been nuked. If there was ever a time for archival, it's now.
 
 # 139
->>3098
+>>3098
+
 I'm pissed /v/agdg/ was deleted. We had a really good thread going there. I wanted to show them my SNES AI but I guess we'll cross paths again in the bunkers.
 
 # 140
@@ -884,7 +1014,8 @@ The idea of "robowaifus" is a fucking stupid idea. Kill yourself, weebs.
 lol nou. :^)
 
 # 149
->>3689
+>>3689
+
 is it ''that'' time of month again? protip: robowaifus don't have that problem.
 
 # 150
@@ -973,7 +1104,8 @@ Some more memes I had kicking around.
 I like that No. 1 doesn't have to use words at all.
 
 # 167
->>4630
+>>4630
+
 I guess No. 2 doesn't have to either
 
 # 168
@@ -994,14 +1126,18 @@ That's it. I've just obsoleted half the thread. Thanks for telling me that I'm b
 >Thanks for the advice Anon. **Don't be a dick next time. :^)**
 
 # 169
-This is the first time I've seen sex robots in action. Now they just need to make them anime and we're golden!
-
-NSFW!
-
+This is the first time I've seen sex robots in action. Now they just need to make them anime and we're golden!
+
+
+
+NSFW!
+
+
+
 https://brickdollbanger.com/brick-dollbanger-videos/harmony-on-the-short-stack/
 
 # 170
->>4838
+> >4838
 lurk moar
 
 # 171
@@ -1097,7 +1233,8 @@ To fix it in Chromium and other programs dynamically linked with Freetype:
 make
 sudo make install
 sudo ldconfig
-ldd /usr/lib/chromium/chromium | grep freetype # check that it's using /usr/local/lib/libfreetype.so.6```
+ldd /usr/lib/chromium/chromium | grep freetype # check that it's using /usr/local/lib/libfreetype.so.6
+```
 
 # 189
 >>6004
@@ -1222,13 +1359,17 @@ It's still not unusual for IRC servers to open-text your IP to the channel. I've
 Has anyone here ever looked in Slack? I've never used it, and I doubt it's any better than the others privacy-wise, but I wanted to see if anyone has experience on it.
 
 # 211
->>6351
-I'm quite familiar with IRC and have used it a decent amount but only when I needed to, for example when I used to volunteer admin. There are good channels on Rizon and places for a variety of topics but it has its definite limitations. You rely on server operators for things like honesty and integrity, and as you mentioned some servers could just opt to not use TLS or spit out your IP with no obfuscation. It's a really old protocol which has its benefits and drawbacks, a benefit being that it has a rich history of development and there's boatloads of clients that you can use, bots, bouncers, etc. The drawback is that when it was made, times were different and plenty of the useful features it has are more tacked on than anything, and it doesn't support current-year ideals like end-to-end encryption.
-
+>>6351
+
+I'm quite familiar with IRC and have used it a decent amount but only when I needed to, for example when I used to volunteer admin. There are good channels on Rizon and places for a variety of topics but it has its definite limitations. You rely on server operators for things like honesty and integrity, and as you mentioned some servers could just opt to not use TLS or spit out your IP with no obfuscation. It's a really old protocol which has its benefits and drawbacks, a benefit being that it has a rich history of development and there's boatloads of clients that you can use, bots, bouncers, etc. The drawback is that when it was made, times were different and plenty of the useful features it has are more tacked on than anything, and it doesn't support current-year ideals like end-to-end encryption.
+
+
+
 It's still better than things like skype and discord which are no better in terms of security and run a proprietary client that can only connect to one proprietary server. But I have to admit, that's not saying much. Still, I'm not hating on IRC, it's a product of its time and is shockingly still relevant in current-year, but something like matrix (doesn't have to be matrix specifically) would likely be more practical due to easy private messaging, support for end-to-end encryption, offline message handling without the need of a bouncer, etc.
 
 # 212
->>6353
+>>6353
+
 I have, it was strange. To my memory someone creates a room and you make an account I think for that specific room. I kinda don't remember, it was weird. Either way, not personally a fan of things like slack, discord, skype, etc.
 
 # 213
@@ -1242,13 +1383,20 @@ BTW, this is more important to us here on /robowaifu/ than just a convenient way
 Is Telegram in any way reliable? IIRC, it was benned in Russia b/c encryption. Obviously the EU is pushing very hard to totally ''eliminate'' any personal encryption privacy at all.
 
 # 215
->>6356
->It would be well if we can devise some sort of 'reliability protocol' or somesuch before that time comes.
-Just use an end-to-end encrypted messenger. Someone here mentioned slack (which isn't a secure end-to-end encrypted messenger) but it got me thinking about wire. You're much better off using wire due to the security it provides. Wire has everything that you'd ever want out of a current-year messenger. On-demand username change, avatars, easy transfer of files, PMs and groups, voice calls, and it's all encrypted end-to-end.
-
-What do anons think? https://wire.com/
-
->>6357
+>>6356
+
+>It would be well if we can devise some sort of 'reliability protocol' or somesuch before that time comes.
+
+Just use an end-to-end encrypted messenger. Someone here mentioned slack (which isn't a secure end-to-end encrypted messenger) but it got me thinking about wire. You're much better off using wire due to the security it provides. Wire has everything that you'd ever want out of a current-year messenger. On-demand username change, avatars, easy transfer of files, PMs and groups, voice calls, and it's all encrypted end-to-end.
+
+
+
+What do anons think? https://wire.com/
+
+
+
+>>6357
+
 Not end-to-end encrypted by default last time I checked, you have to do something like "secret chats" to really get the security. Also, like everything else it seems, it demands you give them a phone number. I have no idea if burners work, I don't use telegram.
 
 # 216
@@ -1260,12 +1408,18 @@ Wasn't there some protocols on the Fediverse-thing that allowed for secure, non-
 Looks closed-source. And pozzed (apart from any personal distaste on the matter, groups like that are notorious as enemies of free-speech. robowaifus would be a huge dog-whistle for them I think).
 
 # 218
->>6360
->Looks closed-source
-Don't worry, it's not. https://github.com/wireapp
->And pozzed (apart from any personal distaste on the matter, groups like that are notorious as enemies of free-speech. robowaifus would be a huge dog-whistle for them I think).
-I have heard zero mention of censorship on wire unlike discord which is why I posted it. Considering they can't even read your communications due to end-to-end encryption it would probably be rather hard to know what to censor anyway.
-
+>>6360
+
+>Looks closed-source
+
+Don't worry, it's not. https://github.com/wireapp
+
+>And pozzed (apart from any personal distaste on the matter, groups like that are notorious as enemies of free-speech. robowaifus would be a huge dog-whistle for them I think).
+
+I have heard zero mention of censorship on wire unlike discord which is why I posted it. Considering they can't even read your communications due to end-to-end encryption it would probably be rather hard to know what to censor anyway.
+
+
+
 If you don't like it, I am open to alternatives. I just don't know of any.
 
 # 219
@@ -1277,10 +1431,14 @@ https://wire.com/en/pricing/
 Quite apart from whether the principals are people of integrity and wouldn't personally harm /robowaifu/, corporate entities are subject to many government regulations, and as already mentioned ITT the EU is already demanding they turn over ''everything'' for automated analysis.
 
 # 220
->>6362
->https://wire.com/en/pricing/
-Paying is only for corporate use which likely provides more features or services. Personal accounts are free and it's not adware.
->and as already mentioned ITT the EU is already demanding they turn over everything for automated analysis
+>>6362
+
+>https://wire.com/en/pricing/
+
+Paying is only for corporate use which likely provides more features or services. Personal accounts are free and it's not adware.
+
+>and as already mentioned ITT the EU is already demanding they turn over everything for automated analysis
+
 Well good thing Switzerland isn't in the EU.
 
 # 221
@@ -1294,11 +1452,16 @@ The EU's policies literally demand access to all the keys in that case, regardle
 You know. It further occurs to me, that with the Illuminati agenda of the WEF's 2030 plan, that ''no'' entity, commercial or otherwise, will be allowed to legally conduct communications of any sort in private thereafter (if not before). I think some kind of privately managed system is the only choice in the future if security and privacy are concerns as they obviously are for our robowaifus and us.
 
 # 223
->>6364
-I don't think I'm following. When you aren't based in X country, you do not have to follow X country's laws. I don't follow China's laws on censorship and I don't have to because I don't live in China. If I made a website or software I wouldn't have to cater it to the Chinese market. If they hated me it'd just be up to them to ban my shit from being accessed in their country.
-
-As far as keys go, it's end to end and based on the signal protocol and uses double ratchet and elliptic-curve diffie-hellman and they don't have your keys so they can't decrypt your messages, the messages are decrypted by the individual clients. Considering the code is GPLv3 and anyone should be able to verify this fact, I doubt they'd lie about that.
-
+>>6364
+
+I don't think I'm following. When you aren't based in X country, you do not have to follow X country's laws. I don't follow China's laws on censorship and I don't have to because I don't live in China. If I made a website or software I wouldn't have to cater it to the Chinese market. If they hated me it'd just be up to them to ban my shit from being accessed in their country.
+
+
+
+As far as keys go, it's end to end and based on the signal protocol and uses double ratchet and elliptic-curve diffie-hellman and they don't have your keys so they can't decrypt your messages, the messages are decrypted by the individual clients. Considering the code is GPLv3 and anyone should be able to verify this fact, I doubt they'd lie about that.
+
+
+
 If I'm not understanding what you're trying to say I'm sorry.
 
 # 224
@@ -1311,14 +1474,22 @@ And even if what you are saying about unbreakability is accurate (and didn't req
 And this trend will only worsen in the future, as evidenced by extra-governmental, international organizations like the WEF, UN, etc., all pushing the exact same agenda.
 
 # 225
->>6367
->Remember when sites from all over the world suddenly started displaying cookie and privacy warnings all overnight a couple of years ago? All the EU's doing.
-Yeah everyone knows about the EU cookie law. Foreign businesses as far as I know don't have to change anything. You're not going to get extradited to the EU because you made a website in your home country and didn't follow a law in some other country where you don't live. If that were the case we'd all be extradited to China by now.
->The EU's current legislation requires all operators to provide cleartext copies of any transactions for easy government perusal. 
-All I'm saying is that wouldn't apply to any country outside the EU. In the US one of the highest laws of the country is the right to bear arms, but basically every other country has gun bans. It doesn't mean shit outside of the US. I don't really understand what you're saying. The EU does not make sweeping international law that the world must follow. Wire is apparently a Swiss company and the Swiss are notorious for not obliging law enforcement of any other countries. If a foreign subpoena comes in, they ignore it. They're so infamous for it that you should look up Swiss banking secrecy laws.
-
-I think I'm gonna stop making my case here because I'm probably going to start looking like I'm some kind of Wire shill but I don't know of anything else that is end-to-end and open source GPLv3 so that the security can be verified except for Signal which requires you use your phone number. Matrix is the other thing I mentioned but I'm not sure that it's end-to-end by default, I just know it supports end-to-end in some capacity: https://matrix.org/docs/guides/end-to-end-encryption-implementation-guide
-
+>>6367
+
+>Remember when sites from all over the world suddenly started displaying cookie and privacy warnings all overnight a couple of years ago? All the EU's doing.
+
+Yeah everyone knows about the EU cookie law. Foreign businesses as far as I know don't have to change anything. You're not going to get extradited to the EU because you made a website in your home country and didn't follow a law in some other country where you don't live. If that were the case we'd all be extradited to China by now.
+
+>The EU's current legislation requires all operators to provide cleartext copies of any transactions for easy government perusal. 
+
+All I'm saying is that wouldn't apply to any country outside the EU. In the US one of the highest laws of the country is the right to bear arms, but basically every other country has gun bans. It doesn't mean shit outside of the US. I don't really understand what you're saying. The EU does not make sweeping international law that the world must follow. Wire is apparently a Swiss company and the Swiss are notorious for not obliging law enforcement of any other countries. If a foreign subpoena comes in, they ignore it. They're so infamous for it that you should look up Swiss banking secrecy laws.
+
+
+
+I think I'm gonna stop making my case here because I'm probably going to start looking like I'm some kind of Wire shill but I don't know of anything else that is end-to-end and open source GPLv3 so that the security can be verified except for Signal which requires you use your phone number. Matrix is the other thing I mentioned but I'm not sure that it's end-to-end by default, I just know it supports end-to-end in some capacity: https://matrix.org/docs/guides/end-to-end-encryption-implementation-guide
+
+
+
 If you can find anything else that is better I'd honestly really like to know. Good messaging software is practically nonexistant.
 
 # 226
@@ -1329,7 +1500,8 @@ I apologize if I'm not being clear. If any person in (or of EU citizenship) ever
 I'm not sure how to say it more plainly, so I'll just leave it at that Anon.
 
 # 227
->>6369
+>>6369
+
 Oh, okay. So of if someone of EU citizenship were to have worked for Wire you're worried about the project becoming pozzed due to that relationship. In that case probably nothing is safe. I suppose we have to rely on the technology and verify that it is secure so that in the event that attempts are made to seize information, the information is secure.
 
 # 228
@@ -1347,11 +1519,16 @@ Hmm. Interesting, can you explain in some detail how that would work for us as i
 Possibly ''any'' non-distributed system isn't a good choice IMO.
 
 # 230
->>6375
->Not to put too fine a point on it, but why the apparent urgency on your part for promoting Wire Anon?
-As I said I decided to stop talking about wire because I don't want people to think I'm shilling it. We were discussing wire and I was trying to understand the point you were making and that probably looked like shilling or "urgency" as you called it. As other anon mentioned the real drawback is centralization, other than that it seems to have all the other bases covered that I can think of.
-
->>6371
+>>6375
+
+>Not to put too fine a point on it, but why the apparent urgency on your part for promoting Wire Anon?
+
+As I said I decided to stop talking about wire because I don't want people to think I'm shilling it. We were discussing wire and I was trying to understand the point you were making and that probably looked like shilling or "urgency" as you called it. As other anon mentioned the real drawback is centralization, other than that it seems to have all the other bases covered that I can think of.
+
+
+
+>>6371
+
 Tox is a buggy mess but is conceptually great. It's just impractical.
 
 # 231
@@ -1363,7 +1540,8 @@ https://8chan.moe/voxxe/res/1322.html#q1331
 https://twitter.com/elonmusk/status/1321605428963233794
 
 # 233
->>6479
+>>6479
+
 You wouldn't fuck a tesla.
 
 # 234
@@ -1374,20 +1552,34 @@ Please let this be real.
 This is awesome. If Elon Musk is going to give us super hot catgrill meidos, then he has my vote when he runs for President.
 
 # 236
->>6479
->Tesla users claim Tesla force-installed software to cut down on battery range, rather than replace the defective batteries. Tesla did this to avoid having to run their warranty.
-
->Tesla cars allow the company to extract data remotely and determine the car's location at any time. (See Section 2, paragraphs b and c of the privacy statement.) The company says it doesn't store this information, but if the state orders it to get the data and hand it over, the state can store it.
-
->Proprietary software in cars records information about drivers' movements, which is made available to car manufacturers, insurance companies, and others.
-
->Tesla used software to limit the part of the battery that was available to customers in some cars, and a universal back door in the software to temporarily increase this limit.
->While remotely allowing car “owners” to use the whole battery capacity did not do them any harm, the same back door would permit Tesla (perhaps under the command of some government) to remotely order the car to use none of its battery. Or perhaps to drive its passenger to a torture prison.
-
->Bad security in some cars makes it possible to remotely activate the airbags.
-https://www.gnu.org/proprietary/malware-cars.en.html
-Just looked up the research papers on how they remotely hacked into a Tesla, the security token used was '1q3e5t7u' which is common on many password dictionary lists. For detonating the airbags there's only 256 pair keys with no time period needed so a brute force attack is trivial to perform.
-
+>>6479
+
+>Tesla users claim Tesla force-installed software to cut down on battery range, rather than replace the defective batteries. Tesla did this to avoid having to run their warranty.
+
+
+
+>Tesla cars allow the company to extract data remotely and determine the car's location at any time. (See Section 2, paragraphs b and c of the privacy statement.) The company says it doesn't store this information, but if the state orders it to get the data and hand it over, the state can store it.
+
+
+
+>Proprietary software in cars records information about drivers' movements, which is made available to car manufacturers, insurance companies, and others.
+
+
+
+>Tesla used software to limit the part of the battery that was available to customers in some cars, and a universal back door in the software to temporarily increase this limit.
+
+>While remotely allowing car “owners” to use the whole battery capacity did not do them any harm, the same back door would permit Tesla (perhaps under the command of some government) to remotely order the car to use none of its battery. Or perhaps to drive its passenger to a torture prison.
+
+
+
+>Bad security in some cars makes it possible to remotely activate the airbags.
+
+https://www.gnu.org/proprietary/malware-cars.en.html
+
+Just looked up the research papers on how they remotely hacked into a Tesla, the security token used was '1q3e5t7u' which is common on many password dictionary lists. For detonating the airbags there's only 256 pair keys with no time period needed so a brute force attack is trivial to perform.
+
+
+
 If modern cars are any indication the future that's coming at us due to our ongoing loss of computing freedom means that hiring a real woman may potentially be safer, more private and cheaper than using a commercial sex robot.
 
 # 237
@@ -1412,18 +1604,27 @@ The conversations are bland as fuck since they're both made to avoid saying anyt
 That indeed was 'weird shit' and obviously cherry-picked to make the male look like a perverse idiot. I assumed pre-done animations were canned and triggered fairly randomly by the looks of it. The animation leaves much to be desired obviously.
 
 # 241
->>6479
->>6486
->propiertary botnet kot girl from Tesla
-It was discord tire and it was on Tesla, besides I'll prefer fox girls instead tbh.  GNU/Waifu when?   
->>6498
->kuki goes on about feminism not even forty seconds in
->>6368
->Matrix is the other thing I mentioned but I'm not sure that it's end-to-end by default, I just know it supports end-to-end in some capacity: 
+>>6479
+
+>>6486
+
+>propiertary botnet kot girl from Tesla
+
+It was discord tire and it was on Tesla, besides I'll prefer fox girls instead tbh.  GNU/Waifu when?   
+
+>>6498
+
+>kuki goes on about feminism not even forty seconds in
+
+>>6368
+
+>Matrix is the other thing I mentioned but I'm not sure that it's end-to-end by default, I just know it supports end-to-end in some capacity: 
+
 You need to enable it, once enabled it cannot be turned off anymore. I don't know the reason for it but that's how its implemented currently.
 
 # 242
->>39
+>>39
+
 Mods cucked out of exposing roasties' fears. Always beware of traitors among us, who will side with roasties against robowaifus.
 
 # 243
@@ -1471,8 +1672,10 @@ If everyone else here on /robowaifu/ would follow his lead, then none of the rel
 Feel free to make suggestions for better approaches, but I'd suggest you get some experience dealing with the shitfest that is managing boards behind the scenes using Lynxchan first heh. :^)
 
 # 249
-In my opinion (as I've done hot pocketing) the deleting of posts and locking the thread was heavy handed, the locking especially. There's usually never a reason to lock a thread, in this scenario it was used to stop a discussion which is almost always an incredibly poor move. The only times I ever locked threads were due to the thread being a duplicate. I'd lock the thread and then post where to find the thread that people should be using. After a while, even if the person never came back and used the other thread, I'd just delete the thread.
-I usually handled deletions by deleting the rulebreaking content and then posting in the thread explaining the rules that were actively being broken and asking people to stop. That worked to my memory 100% of the time and I never had to take it any further (tempbans etc).
+In my opinion (as I've done hot pocketing) the deleting of posts and locking the thread was heavy handed, the locking especially. There's usually never a reason to lock a thread, in this scenario it was used to stop a discussion which is almost always an incredibly poor move. The only times I ever locked threads were due to the thread being a duplicate. I'd lock the thread and then post where to find the thread that people should be using. After a while, even if the person never came back and used the other thread, I'd just delete the thread.
+
+I usually handled deletions by deleting the rulebreaking content and then posting in the thread explaining the rules that were actively being broken and asking people to stop. That worked to my memory 100% of the time and I never had to take it any further (tempbans etc).
+
 Hope this helps.
 
 # 250
@@ -1498,8 +1701,10 @@ We all get that you're '''really''' angry with women Anon. No one here blames yo
 https://alogs.theГунтretort.com/robowaifu/catalog.html
 
 # 253
->>6608
->We all get that you're really angry with women Anon.
+>>6608
+
+>We all get that you're really angry with women Anon.
+
 I don't recall getting angry at women. I'm just discussing the state of the thread since I decided to come back here and it's locked and someone is complaining.
 
 # 254
@@ -1523,11 +1728,16 @@ My apologies for getting you confused with the other Anon who was the main insti
 No thank you. :^) I hate most rules personally, and certainly have no ambitions to create more. Two are already too many heh. I expect simply locking the thread for now is sufficient.
 
 # 257
->>6613
-Don't sweat it. I've always been of the opinion that there is nothing inherently bad about rules. When I modded there was always that lingering rhetoric that every rule is rulecucking and the only correct way to do anything is to have no rules. I never agreed with that and the people who believed that often ran much less successful boards as a result. Rulecucking is stopping content that is not actually negatively affecting the community. If you ban someone because they forgot to capitalize a sentence (looking at you /a/) you're a fucking idiot. If you ask people to stay on topic you're being reasonable. The former hurts the community, the latter helps. Another problem I witnessed heavily (I'm not even going to mention what board it was, we all know) was that there were few or no real listed rules but there was so much bullshit that was in effect that it caused nonstop drama that ended up engulfing the entire board. Not listing rules is a bad transparency problem IMO. I remember many months ago on old julay when robi decided that it was time to be more transparent about rules since we were not being clear on how we moderated. He made it clear that all of these rules that were added were already in effect, it's just that they were not listed. This caused people to think that there were a bunch of new rules which wasn't actually the case, and it appears robi has basically decided to roll back that decision. I don't personally think he should have, but that's irrelevant. I think that rules should be added in a timely manner to prevent these problems.
-Locking the thread for now comes down to making a board culture decision. I can't stress how important these are. The biggest board culture decision I ever made was too much of a decision for me to make alone and I actually ran a poll to see how people wanted the board to be run. After the poll was done, some people were complaining about a week later so I literally ran a second poll. I stuck with the decision and it worked out great, under my control the board grew significantly despite a few complaints that eventually died out. Right now the decision is more or less about being critical of women. While nobody here is denying that women absolutely deserve criticism (if they didn't this board wouldn't even exist, we'd all be after women instead of robowaifus) the real question is if that should be allowed here, and if so, how much should be allowed. This board is unique in that it is very goal-oriented. Most boards do not have goals and are dedicated to discussing a topic in detail and enjoying the community. Does criticizing women get in the way of our goals and make us less productive? Do the criticisms even need to be said? They are quite obvious after all and are likely preaching to the choir. I doubt anyone here has anything against communities like /r9k/ or anywhere else, but is it good for the board and for the common goals of the board to have these discussions which can potentially detract from what is a goal-oriented board for making 13 fuckin' catgirls? Maybe this is just a necessary part of the culture. Maybe the #1 reason why people are here in the first place needs to be discussed and anons need to get it off their chest because there are so few places where you are allowed to do so. I'm sure all of us here have major issues with women, so why hide it and pretend it's not a problem or it doesn't exist?
-Both are understandable points of view and neither is necessarily wrong at all. Maybe there is a middle ground that should be established. Maybe you could even poll?
-
+>>6613
+
+Don't sweat it. I've always been of the opinion that there is nothing inherently bad about rules. When I modded there was always that lingering rhetoric that every rule is rulecucking and the only correct way to do anything is to have no rules. I never agreed with that and the people who believed that often ran much less successful boards as a result. Rulecucking is stopping content that is not actually negatively affecting the community. If you ban someone because they forgot to capitalize a sentence (looking at you /a/) you're a fucking idiot. If you ask people to stay on topic you're being reasonable. The former hurts the community, the latter helps. Another problem I witnessed heavily (I'm not even going to mention what board it was, we all know) was that there were few or no real listed rules but there was so much bullshit that was in effect that it caused nonstop drama that ended up engulfing the entire board. Not listing rules is a bad transparency problem IMO. I remember many months ago on old julay when robi decided that it was time to be more transparent about rules since we were not being clear on how we moderated. He made it clear that all of these rules that were added were already in effect, it's just that they were not listed. This caused people to think that there were a bunch of new rules which wasn't actually the case, and it appears robi has basically decided to roll back that decision. I don't personally think he should have, but that's irrelevant. I think that rules should be added in a timely manner to prevent these problems.
+
+Locking the thread for now comes down to making a board culture decision. I can't stress how important these are. The biggest board culture decision I ever made was too much of a decision for me to make alone and I actually ran a poll to see how people wanted the board to be run. After the poll was done, some people were complaining about a week later so I literally ran a second poll. I stuck with the decision and it worked out great, under my control the board grew significantly despite a few complaints that eventually died out. Right now the decision is more or less about being critical of women. While nobody here is denying that women absolutely deserve criticism (if they didn't this board wouldn't even exist, we'd all be after women instead of robowaifus) the real question is if that should be allowed here, and if so, how much should be allowed. This board is unique in that it is very goal-oriented. Most boards do not have goals and are dedicated to discussing a topic in detail and enjoying the community. Does criticizing women get in the way of our goals and make us less productive? Do the criticisms even need to be said? They are quite obvious after all and are likely preaching to the choir. I doubt anyone here has anything against communities like /r9k/ or anywhere else, but is it good for the board and for the common goals of the board to have these discussions which can potentially detract from what is a goal-oriented board for making 13 fuckin' catgirls? Maybe this is just a necessary part of the culture. Maybe the #1 reason why people are here in the first place needs to be discussed and anons need to get it off their chest because there are so few places where you are allowed to do so. I'm sure all of us here have major issues with women, so why hide it and pretend it's not a problem or it doesn't exist?
+
+Both are understandable points of view and neither is necessarily wrong at all. Maybe there is a middle ground that should be established. Maybe you could even poll?
+
+
+
 sorry for tl;dr lmao
 
 # 258
@@ -1548,14 +1758,22 @@ would just gaul me to no end. I watched it's disintegration into the decrepit hi
 No, it's actually appreciated.
 
 # 259
->>6620
->As a Christian
-Your beliefs shall not be forced upon the rest of us.
->I can hardly stress enough how evil that is
-Your opinion. Not mine. And not the opinion of many here.
-The so called "hatred for women" is productive by the sheer amount of proofs that many anons compile about the evil that women do. The only real evil that there is.
-You talk about not liking evil, but you don't want to expose the evil that is the female mind.
-As it was explained in the roasties fear thread: all other threads are about improvements in the many fields of robowaifu mass production. That one thread was about raising awareness to the evils of women for the unaware and the newbie anons that might show up. and it was all going fine, with civilized discussion exposing why hatred for women is justifiable.
+>>6620
+
+>As a Christian
+
+Your beliefs shall not be forced upon the rest of us.
+
+>I can hardly stress enough how evil that is
+
+Your opinion. Not mine. And not the opinion of many here.
+
+The so called "hatred for women" is productive by the sheer amount of proofs that many anons compile about the evil that women do. The only real evil that there is.
+
+You talk about not liking evil, but you don't want to expose the evil that is the female mind.
+
+As it was explained in the roasties fear thread: all other threads are about improvements in the many fields of robowaifu mass production. That one thread was about raising awareness to the evils of women for the unaware and the newbie anons that might show up. and it was all going fine, with civilized discussion exposing why hatred for women is justifiable.
+
 Then, you simply locked the thread and said "No. Not here." treating your own personal (and not shared by many) opinion on the hateful women as if it was a fact and a some kind of law that everyone should abide to.
 
 # 260
@@ -1639,8 +1857,10 @@ A lot of imaginary robots are like this. The art is 10/10 don't get me wrong, bu
 Mind you, once we have a basic functional robowaifu frame, who knows what will be possible? With powerful enough servos you could fit all manner of sensor enclosures and plating on top, just so long as it doesn't obstruct joint movement. Although the more powerful the servo motor, the chunkier the joint will look.
 
 # 274
->>6676
->but I can see design problems with her neck, torso, pelvis and ankle joints.
+>>6676
+
+>but I can see design problems with her neck, torso, pelvis and ankle joints.
+
 I wasn't really looking at her neck and ankles tbh but I was looking at her torso and pelvis if you catch my drift :^)
 
 # 275
@@ -1660,7 +1880,8 @@ Kek. I'm not sure what we can do for Baste Brendan, but fortunately we don't hav
 https://www.youtube.com/watch?v=tZVbEntk5G4
 
 # 278
->>6710
+>>6710
+
 Oh well that is some good news, he should be a prime example for any people passing by here of the dangers of paying the alimony. For each alimony being paid there will be less funds available for the development of Robowaifu.
 
 # 279
@@ -1668,7 +1889,8 @@ Oh well that is some good news, he should be a prime example for any people pass
 His alternative was jail time. I'd say that is it's own sober example of the 'dangers of alimony' Anon.
 
 # 280
->>6628
+>>6628
+
 Repeating the point over and over again, to always remind people, as well as to inform newcomers, is a productive task.
 
 # 281
@@ -1677,13 +1899,17 @@ The point has already been made amply. And I haven't deleted the posts nor inten
 >>1061
 
 # 282
->>6710
-Speaking of Fraser, is it time for him to MANimony up and enact his revenge?
+>>6710
+
+Speaking of Fraser, is it time for him to MANimony up and enact his revenge?
+
 https://www.youtube.com/watch?v=uv2tS985Xi0
 
 # 283
->>6766 (checked)
->thots are getting angry about being their turn now to pay up
+>>6766 (checked)
+
+>thots are getting angry about being their turn now to pay up
+
 This needs to be memed tbh.
 
 # 284
@@ -1694,21 +1920,30 @@ On the old topic of chat/messaging: Chobitsu, would you like an IRC channel on a
 Do as you see fit. I'd suggest you have a common standard of full disclosure back here on the main site for any actually important information though.
 
 # 286
->>6870
-Alright, it's done, you can come say hello and register your nick and stuff. Server's run by fatchan. If you didn't notice yet, it's back in the webring.
-irc://irc.fatpeople.lol:+6697
-Join #robowaifu
+>>6870
+
+Alright, it's done, you can come say hello and register your nick and stuff. Server's run by fatchan. If you didn't notice yet, it's back in the webring.
+
+irc://irc.fatpeople.lol:+6697
+
+Join #robowaifu
+
 It'll be run however you see fit, and obviously the board still needs to be the main place for discussion. However IRC might solve the problem of less relevant discussion that doesn't really fit the board (shitposting and board culture)
 
 # 287
 To "Anon10324" if you come back to #robowaifu on irc.fatpeople.lol I can continue helping you set up. No, we're not on freenode lol.
 
 # 288
-%%I guess I should post a quick guide for people who are young enough to have never used IRC before and have no clue what the fuck they're doing.%% If you don't know shit about what you're doing in regards to IRC, just start by getting this: https://hexchat.github.io/
-When you first run hexchat you're gonna see a network list. Choose a nickname and 2 backup nicknames in case your nickname is already taken. Most people on IRC use underscores if their nick is already taken. Example:
-Nickname: nickname
-Second choice: nickname_
-Third choice: nickname__
+%%I guess I should post a quick guide for people who are young enough to have never used IRC before and have no clue what the fuck they're doing.%% If you don't know shit about what you're doing in regards to IRC, just start by getting this: https://hexchat.github.io/
+
+When you first run hexchat you're gonna see a network list. Choose a nickname and 2 backup nicknames in case your nickname is already taken. Most people on IRC use underscores if their nick is already taken. Example:
+
+Nickname: nickname
+
+Second choice: nickname_
+
+Third choice: nickname__
+
 Choose a username, tbh just set it to whatever your nickname is that you chose. In the network list, you're not going to find fatchan so don't bother looking for it. Instead, click "add" and name the new network "fatchan." Once that's done, select it and click "edit." Under "servers" at the top, click "add" and enter "irc.fatpeople.lol" to the server list. Click the box that says "use SSL for all servers on this network." Click close, select fatchan, and click connect. Once you're in, in the menu bar, click "server" and then "join a channel." The channel is #robowaifu. Feel free to ask any questions once you're there.
 
 # 289
@@ -1719,11 +1954,16 @@ Thanks for the update. If I can verify we can use it successfully across Tor, I'
 Good idea, but you forgot the standard warning that IRC servers may cleartext your IP address to everyone in the channel.
 
 # 290
->>6877
->If I can verify we can use it successfully across Tor
-I don't see why you couldn't use Tor.
->IRC servers may cleartext your IP address to everyone in the channel
-The server is running inspircd with atheme and +x is on by default. Nobody can see your IP.
+>>6877
+
+>If I can verify we can use it successfully across Tor
+
+I don't see why you couldn't use Tor.
+
+>IRC servers may cleartext your IP address to everyone in the channel
+
+The server is running inspircd with atheme and +x is on by default. Nobody can see your IP.
+
 Come say hi dude
 
 # 291
@@ -1732,20 +1972,30 @@ Come say hi dude
 I'll drop by.
 
 # 292
->>6877
->>6888
-I just tried to connect with tor, doesn't work.
-
+>>6877
+
+>>6888
+
+I just tried to connect with tor, doesn't work.
+
+
+
 ```cpp
-b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Looking up your hostname...
-b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Found your hostname (tor-exit.dotsrc.org)                                                                                        
-b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< 465 (anon13700): You're banned!                  
-irc.fatpeople.lol: 11/19/20 01:30 >< ERROR (): Closing link: (anon13700@tor-exit.dotsrc.org) [Z-lined: You are listed in the EFnet RBL. Please visit https://rbl.efnetrbl.org/?i=130.225.244.90
- for more information.]                                                                        
+b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Looking up your hostname...
+
+b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Found your hostname (tor-exit.dotsrc.org)                                                                                        
+
+b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< 465 (anon13700): You're banned!                  
+
+irc.fatpeople.lol: 11/19/20 01:30 >< ERROR (): Closing link: (anon13700@tor-exit.dotsrc.org) [Z-lined: You are listed in the EFnet RBL. Please visit https://rbl.efnetrbl.org/?i=130.225.244.90
+
+ for more information.]                                                                        
+
 sic: remote host closed connection```
 
 # 293
->>6893
+>>6893
+
 I'll ask about it, not sure if that's intentional.
 
 # 294
@@ -1755,10 +2005,14 @@ Thanks for the test Anon. Not surprising, it's commonplace with IRC systems to s
 But if it's the same Tom from before that is running the IRC server, he is well aware of everyone's need for extra safety. I'd expect him to switch that block off if he's asked to, it probably comes as a default with the server setup. I recommend good OPSEC for everyone here on /robowaifu/ of course, no real names, etc., etc.
 
 # 295
->>6898
->But if it's the same Tom from before
-It is.
->it probably comes as a default
+>>6898
+
+>But if it's the same Tom from before
+
+It is.
+
+>it probably comes as a default
+
 Not sure if it's a inspircd default or not, it probably is.
 
 # 296
@@ -1776,7 +2030,8 @@ OK, thanks for the update.
 Yes it can. That cuts both ways of course, which is why I don't use IRC w/o Tor, nor can I recommend it to anyone otherwise. Thank you for the effort Anon.
 
 # 299
->>6916
+>>6916
+
 %%The entire server, not just the channel, is run by a webring admin with a good record and is not hosted on some third party like freenode or rizon. IPs are not displayed. You know how lynxchan hashes IPs so that you can't see what someone's IP is but you can still moderate? This is handled the same way and is arguably no different and certainly no worse than using lynxchan sites like julay. Also you can use VPN or proxy. Just wanted to make sure you understand this.%%
 
 # 300
@@ -1819,8 +2074,10 @@ I am seeing a pattern here :^)
 kek. yes, I've thought often about that juxtaposition, it's quite humorous imo. ironically enough, if women had never left their place of honor, then /robowaifu/ would never even needed to exist. life can be an odd thing tbh. :^)
 
 # 309
->>6989
->>6990
+>>6989
+
+>>6990
+
 you can also make an amusing parallel between the forbidden fruit and feminism. and fucking everything up, lmao
 
 # 310
@@ -1835,7 +2092,8 @@ I would very much appreciate if /robowaifu/ would stop to observe both of these 
 It's cute but a bit boring, tbh. This might already have been discussed in >>1 and >>82 and also alternatives mentioned. It's still worth watching for relaxation if you have the time, and for us having a common cultural foundation here.
 
 # 313
->>7002
+>>7002
+
 I'm enjoying it so far, it doesn't seem like it's going to be some great drama but it seems like it'll end up being a perfectly fine slice of life. My dude Hideki really wants to look at some porn and also has some serious restraint, I wouldn't be able to resist not taking Chii to the bone zone.
 
 # 314
@@ -1917,8 +2175,10 @@ Even if she does get hacked or infected with a virus in the end and tear my ribc
  Oops. Sorry, off again.
 
 # 321
->>7039
-And what way would you rather die than by the hands of your own creation?
+>>7039
+
+And what way would you rather die than by the hands of your own creation?
+
 t's a worthy death,I think.
 
 # 322
@@ -2104,7 +2364,8 @@ Hmm. Looks like Stephen Lynx may be making a liar of me. I don't want cyclic thr
 Cheers anon. Have saved a copy in the hopes of producing future robowaifu goodness.
 
 # 355
->>7076
+>>7076
+
 Keep in mind that LynxChan's default bump limit is 500 posts.
 
 # 356
@@ -2127,9 +2388,12 @@ Well, I have some bad newz for you, even if you turn off known backdoors u still
 >pic related
 
 # 360
->>7092
-You could waste your time doing all of that or just keep home automation/electrical appliances/domestic robots from being able to access the internet. The term botnet as you're using it typically refers to being stuck in a state of dependence on services provided by big tech and an always on connection.
-
+>>7092
+
+You could waste your time doing all of that or just keep home automation/electrical appliances/domestic robots from being able to access the internet. The term botnet as you're using it typically refers to being stuck in a state of dependence on services provided by big tech and an always on connection.
+
+
+
 If you can unplug from the internet and still have everything electronic in your life work fine then you've successfully escaped the botnet. It's a state of mind about software rights and digital media ownership not following a security checklist.
 
 # 361
@@ -2148,9 +2412,12 @@ I'm already the botnet. My g/f is one of the bots LOL.
 Thanks for the legitimate post Anon. Can you tell us more about the two documents you posted?
 
 # 364
->want to go to that alogs board
->type in the URL...
->.../retrowaifu/
+>want to go to that alogs board
+
+>type in the URL...
+
+>.../retrowaifu/
+
 I somehow keep joining the names by accident.
 
 # 365
@@ -2166,17 +2433,25 @@ We have at least two topics which could use some infografic. Which is the best o
 Hey there. No, I'm just looking around for artwork collections on forums, etc. I'm not responsible for the art itself.
 
 # 368
->>7097
-Just to reiterate why keeping your devices unconnected from the internet is a good idea these tweets from today are real.
-
->>7100
->In theory you can create a machine that can’t connect to internet but it would be pretty much worthless.
-Do you seriously believe this? I take 4-5 months breaks from the internet when the weather is nice. The internet may seem indispensable to those who were never without it but I remember a time when it didn't exist.
-
+>>7097
+
+Just to reiterate why keeping your devices unconnected from the internet is a good idea these tweets from today are real.
+
+
+
+>>7100
+
+>In theory you can create a machine that can’t connect to internet but it would be pretty much worthless.
+
+Do you seriously believe this? I take 4-5 months breaks from the internet when the weather is nice. The internet may seem indispensable to those who were never without it but I remember a time when it didn't exist.
+
+
+
 We seem to be on the same page regarding the potential threat of nation state actors and their control over technology but I'm not sure what you mean by 'win against the botnet'. I believe I'm doing all I can in this regard by only using/funding freedom respecting software while encouraging others by example or with free technical support and practicing civil disobedience when it comes to ridiculous copyright laws. Whether I have the best operational security possible or none at all makes no difference and seems like an endless time sink.
 
 # 369
->>7139
+>>7139
+
 I pity the fool who ends up with a robowaifu that depends on Google for information or Amazon for processing power.
 
 # 370
@@ -2243,16 +2518,26 @@ What do you mean by all things should be encrypted? I could not understand that 
 Look up the geometric shape of the hebrew bible and the primes of 15*2^n + 1.. They are adjencent. The religious and the "hidden" information of those who are trying to "enxlave" us are encrypted by primes which is sometimes refered as kabballah math. Right now all of our privacy is based on the same principles. If you want to create the perfect encryption system you need to expertise at that field and create your own. And that is what 3301 is trying to achieve I guess, I am not sure but after reading stuff they published I've come to the conclusion that this is what they do. They've been trying to find intellectual individuals to create a safe protocol for people and fight against the ones trying to play the becoming a god game. That's pretty kool actually, we are losing the intellectual people to NSA. Most of those people are working for the NSA right now. We need people who have conscience and ability to work for the good of humanity. I don't know if it's me but I feel like we are getting weaker each yer. Whenever I go to 2+2chan I see everybody became botnet lover cucks. Where did my hacktivist bros go???!!! Universities used to push machine learning and deep learning for the last 5 years heavily. Have you even wondered why? Because they wanted use their expertise systems to have god-like powers and the latest GPT showed that their plan fucking worked. Just imagine what kind of underground researches they are doing right now with all that data and computation power. And for the next 5 years they are going to push quantum-computing and nanotechnology. It's time to boost those fields now. Just wait and observe. Back at 2012 we hardly had good research regarding cybernetics. Only in 8 years it feels like we've been around for more than 30 years. AI is far away from what we predicted. Those cucked and brain-washed botnet lover fags are getting hired by the government for "research" purposes. We need to do the same but for the good.
 
 # 377
->>7216
->Just imagine what kind of underground researches they are doing right now with all that data and computation power.
-It's hard for me to even comprehend. If I had $10,000 right now I could do some absolutely crazy shit with AI let alone $10 million or $10 billion. Something I'm working on with my piece of shit GPU is predicting trends before they happen and it's shocking how much can be predicted without even using AI. People like to think they're unique and special but actually we're quite predictable and people's attention flows to novelty like water down a hill while everything else fades into the memory hole.
-
-Right now the World Economic Forum, Salesforce, McKinsey & Company, the Forum for the Future, Google, Facebook and Twitter are actively coordinating with top companies using AI and big data to reset and reimagine the economy and society into their vision and make all existing forms of government obsolete beyond their technocratic stakeholder capitalist dictatorship. Recently I read an article linked from one of their sites that recommended a textbook called Applied Behavior Analysis and it's basically 1000 pages on how to manipulate and brainwash people: https://b-ok.org/book/2693956/fff6e2 Imagine what they're doing to manipulate people with all that data and processing power they have. All the idiots who think coronavirus is a hoax or that it's the end of the world are all being gamed by simulations to predict their reactions, conflicts and outcomes.
-
-It's so obvious and yet so effective that people can't see it or those who do still use Google, YouTube and Twitter despite being blatantly censored anyway. They think they're redpilled, woke or whatever nonsense and yet still don't understand the immensity what's going on and play straight into the game. Deus Ex warned about everything happening right now and how they will bring in a new age with a pandemic and it will seem sensible and right to eliminate global communication all together once the technology becomes 'too powerful'. Klaus Schwab recently commented on the potential for a cyberattack to wipe out communications:
->We all know, but still pay insufficient attention, to the frightening scenario of a comprehensive cyber attack could bring a complete halt to the power supply, transportation, hospital services, our society as a whole. The COVID-19 crisis would be seen in this respect as a small disturbance in comparison to a major cyberattack. To use the COVID19 crisis as a timely opportunity to reflect on the lessons the cybersecurity community can draw and improve our unpreparedness for a potential cyber-pandemic.
-The Forum of the Future that's collaborating with the World Economic Forum is also teaching kids in schools and openly calling for people to live in heavily-controlled city states they cannot leave, while those protesting for their rights are put into 'Cry Freedom' ghettos where they can be free but have no technology. No exaggeration. And they're being funded by companies like Target, Unilever, Johnson&Johnson, PepsiCo, Hersey's, Kellogg's and many others.
-
+>>7216
+
+>Just imagine what kind of underground researches they are doing right now with all that data and computation power.
+
+It's hard for me to even comprehend. If I had $10,000 right now I could do some absolutely crazy shit with AI let alone $10 million or $10 billion. Something I'm working on with my piece of shit GPU is predicting trends before they happen and it's shocking how much can be predicted without even using AI. People like to think they're unique and special but actually we're quite predictable and people's attention flows to novelty like water down a hill while everything else fades into the memory hole.
+
+
+
+Right now the World Economic Forum, Salesforce, McKinsey & Company, the Forum for the Future, Google, Facebook and Twitter are actively coordinating with top companies using AI and big data to reset and reimagine the economy and society into their vision and make all existing forms of government obsolete beyond their technocratic stakeholder capitalist dictatorship. Recently I read an article linked from one of their sites that recommended a textbook called Applied Behavior Analysis and it's basically 1000 pages on how to manipulate and brainwash people: https://b-ok.org/book/2693956/fff6e2 Imagine what they're doing to manipulate people with all that data and processing power they have. All the idiots who think coronavirus is a hoax or that it's the end of the world are all being gamed by simulations to predict their reactions, conflicts and outcomes.
+
+
+
+It's so obvious and yet so effective that people can't see it or those who do still use Google, YouTube and Twitter despite being blatantly censored anyway. They think they're redpilled, woke or whatever nonsense and yet still don't understand the immensity what's going on and play straight into the game. Deus Ex warned about everything happening right now and how they will bring in a new age with a pandemic and it will seem sensible and right to eliminate global communication all together once the technology becomes 'too powerful'. Klaus Schwab recently commented on the potential for a cyberattack to wipe out communications:
+
+>We all know, but still pay insufficient attention, to the frightening scenario of a comprehensive cyber attack could bring a complete halt to the power supply, transportation, hospital services, our society as a whole. The COVID-19 crisis would be seen in this respect as a small disturbance in comparison to a major cyberattack. To use the COVID19 crisis as a timely opportunity to reflect on the lessons the cybersecurity community can draw and improve our unpreparedness for a potential cyber-pandemic.
+
+The Forum of the Future that's collaborating with the World Economic Forum is also teaching kids in schools and openly calling for people to live in heavily-controlled city states they cannot leave, while those protesting for their rights are put into 'Cry Freedom' ghettos where they can be free but have no technology. No exaggeration. And they're being funded by companies like Target, Unilever, Johnson&Johnson, PepsiCo, Hersey's, Kellogg's and many others.
+
+
+
 Most of the hacktivists got caught and arrested then given plea deals to work for the government, like LulzSec that got busted by an FBI informant, or they got bought up by guys like Epstein. They hook up lonely guys with young women then 16 year olds, 14, 12, until they're hopelessly compromised and can't say a damn word about it or else they and their families end up committing suicide with two bullets in the back of the head like they did with David Crowley. Even for myself if someone offered me a $1,000,000/year salary to come work in their AI research lab it'd be hard to refuse because I'm exhausted from being dirt poor, but this also why there are so few good guys left. The spirit is willing but the flesh weak and money controls the world.
 
 # 378
@@ -2284,15 +2569,24 @@ Applied Behavior Analysis
 Timothy E. Heron, William L. Heward, John O. Cooper```
 
 # 381
->>7270
->Kool, can you give me more information on that one? I am really interested.
-It's nothing fancy, just collecting stats from Danbooru-style imageboards and forecasting how well a particular configuration of tags will do at a certain time and maximizing likes. I'm trying to find ways to earn more money from my art so I can focus on AI.
->If you have more resources like this one please post them too.
-I don't know, man. Their shit's sickening to read. Maybe The Great Reset and The Fourth Industrial Revolution by Klaus Schwab and the Rockefeller Foundation whitepaper from 2010, Scenarios for the Future of Technology and International Development:
-https://web.archive.org/web/20160409094639/http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf
->Damn, I didn't think this way. Makes sense, oh... god. Thanks for sharing anon, seriously.
-Yeah, imagine if they released something like Stuxnet on the public to brick their operating systems. It'd be good to have a backup system with Qubes OS in the event of a global cyberattack.
->do you think a God that created this would watch all of us die while others just laugh?
+>>7270
+
+>Kool, can you give me more information on that one? I am really interested.
+
+It's nothing fancy, just collecting stats from Danbooru-style imageboards and forecasting how well a particular configuration of tags will do at a certain time and maximizing likes. I'm trying to find ways to earn more money from my art so I can focus on AI.
+
+>If you have more resources like this one please post them too.
+
+I don't know, man. Their shit's sickening to read. Maybe The Great Reset and The Fourth Industrial Revolution by Klaus Schwab and the Rockefeller Foundation whitepaper from 2010, Scenarios for the Future of Technology and International Development:
+
+https://web.archive.org/web/20160409094639/http://www.nommeraadio.ee/meedia/pdf/RRS/Rockefeller%20Foundation.pdf
+
+>Damn, I didn't think this way. Makes sense, oh... god. Thanks for sharing anon, seriously.
+
+Yeah, imagine if they released something like Stuxnet on the public to brick their operating systems. It'd be good to have a backup system with Qubes OS in the event of a global cyberattack.
+
+>do you think a God that created this would watch all of us die while others just laugh?
+
 The Bolsheviks tortured, raped and murdered 60 million Christians. The greater their faith, the slower and more brutally they would kill them, no matter whether they were young or old. As far as I can see nobody gets out of here alive or takes an atom with them, so what happens to me now to then makes no real difference in the end. All that will remain for others are my actions.
 
 # 382
@@ -2347,7 +2641,8 @@ There are people in this board RIGHT NOW that will fall for this bait.
 Pathetic.
 
 # 390
->>7306
+>>7306
+
 Sure I'll leave then.
 
 # 391
@@ -2453,14 +2748,19 @@ Do as you see fit, of course. We'll do the same.
 moderation 145 IQ confirmed
 
 # 404
->>7320
->So!? Go ahead... Try attack ideas on the Internet ...Try it, Try it ...Touch me ...Please?!
->...BRING IT ON ?! ?! ?! Come on faggot, I am waiting.....?!
->... sö?! Do I give a MOTHERFUCK 'bout you?!
+>>7320
+
+>So!? Go ahead... Try attack ideas on the Internet ...Try it, Try it ...Touch me ...Please?!
+
+>...BRING IT ON ?! ?! ?! Come on faggot, I am waiting.....?!
+
+>... sö?! Do I give a MOTHERFUCK 'bout you?!
+
 lmfao, what
 
 # 405
->>7320
+>>7320
+
 wat
 
 # 406
@@ -2504,12 +2804,15 @@ Heh, good point. I think it was Kokubunji that promoted the idea here that AI wi
 As long as it helps us to gain control and give us power, I don't see a problem with being evil against them. I want our victory to not even feel like a fight but a massacre. Their souls broken by despair. Their last slither of hope crunched to dust and then incinerated. The cleansing of the body from a parasite.
 
 # 412
->>7304
->Robowaif.us
+>>7304
+
+>Robowaif.us
+
 Is that forum going to be only about Robowaifu or will the admin of that site allows a board for different topic? I haven't seen a anon run forum before.
 
 # 413
->>7400
+>>7400
+
 Look, I don't like doing anything that feels like telling someone how to run their board, but come on. This thread has hit the bump limit. When threads hit bump limits, the normal thing to do is make a new one so discussion can continue. Lock this thread and open the other one if you're going to lock one.
 
 # 414
@@ -2522,7 +2825,8 @@ If they want to engage in the kind of shit here, then this thread is suited for 
 I hope you can understand Anon, and don't unduly take offense. Literally none intended. We have a meta/ thread for legit general posting.
 
 # 415
->>7403
+>>7403
+
 As far as I can tell you've had like one schizophrenic idiot and the community shot him down pretty fast. Moderating idiots is part of the job. If you need to, do it obviously. I don't like to bear bad news but unfortunately there's more than one person that doesn't really agree with how the board is run. I can't speak for everyone, and some people may have genuine bad intentions for the board, but I know plenty do not and care about the board and its success. At the very least I'm somewhat confused with how things are being run. I think there need to be some clarifications if nothing else.
 
 # 416
@@ -2533,7 +2837,8 @@ I've always been open and truthful here, ask away Anon. I would think the very f
 But if I feel a direct attack is being levied against the motivation and psychological state of our board's members then I'll will oppose that with vigor -- as well I should.
 
 # 417
->>7405
+>>7405
+
 My point is not really that at all. In fact, if you wanted this to be a shitpost-free board and you moderated shitposting, that's fine but this kind of thing needs to be clear. It's so unclear to me and evidently some others how things are being run. If you would please drop by the IRC so we can chat, I have a literal text file list of things I would like to discuss with you. I have your best interests and the boards best interests in mind. %%I literally took over for a period while you were gone to prevent this place from being burned to the ground in your absence%%
 
 # 418
@@ -2542,56 +2847,89 @@ My point is not really that at all. In fact, if you wanted this to be a shitpost
 Feel free to drop them here ITT, I'll address them all most likely. For now I'm off, Cheers.
 
 # 419
->>7408
->For now I'm off
+>>7408
+
+>For now I'm off
+
 That's the problem. Me and possibly 2 others would like your undivided attention.
 
 # 420
->>7403
-> People who are intentionally trying to D&C, shill, or perform other kinds of distraction Ops rely on the visibility factor and attention-whoring of thread bumps.
-Well if its all contained on a single thread then the "damage" (for a lack of better word) wouldn't have such a impact? If they are trying to do shitpost ops on other threads then yes it is a concern but for as long it is limited to a single thread then I fail to realize why it would be such a bad thing, /v/ for example had a long tradition of having a lol thread where mostly cringeworthy comics are being posted and other shitposting stuff and it hardly hindered the discussion of other threads, despite there was for a time being multiple lol threads being created as the activity was quite high. 
+>>7403
+
+> People who are intentionally trying to D&C, shill, or perform other kinds of distraction Ops rely on the visibility factor and attention-whoring of thread bumps.
+
+Well if its all contained on a single thread then the "damage" (for a lack of better word) wouldn't have such a impact? If they are trying to do shitpost ops on other threads then yes it is a concern but for as long it is limited to a single thread then I fail to realize why it would be such a bad thing, /v/ for example had a long tradition of having a lol thread where mostly cringeworthy comics are being posted and other shitposting stuff and it hardly hindered the discussion of other threads, despite there was for a time being multiple lol threads being created as the activity was quite high. 
+
 I mean it is quite nice that you allow for a general discussion thread but still I find your choice of moderating this thread a little bit odd.
 
 # 421
->>7408
->Feel free to drop them here ITT
-Fine I'm just gonna do that because I don't know what I'm supposed to do if I need to have a chat with you.
->I'll address them all most likely
-I really hope you do because these are genuine concerns of mine.
-
-- I'm not really sure how to get in contact with you. With a board like this, this seems especially important because as far as I know you're running it yourself, a board dictatorship (or sometimes this place seems more like your personal blog). That's fine, but there are times where I'm confused about where to post something. I've used this "shitposting" thread as QTDDTOT because I don't know where to post shit like that. For talking to you personally, I guess /meta/ would be the most fitting place to do it (but I'm posting here anyway) because that's generally where people discuss anything about the board. The easiest way would be IRC but I can tell you're not going to do that.
-- The locking down of threads, even ones that to my knowledge you made. I can't even wrap my head around it. As far as I can tell, none of the discussions that get locked down are outwardly bad. Examples are "roastie fear general" and lounge thread 2. This thread (lounge 1) is another good example because I posted here not even knowing if you'd see it because unless you constantly lurk the thread you can't tell when this thread is replied to anymore. If the "lounge" thing is allowed on /robowaifu/ as a thread then I don't understand why new threads are not allowed when the bump limit is reached. If there are posts that are in need of moderation that get posted in this thread, you have mod powers so I don't see why this is an issue. Speaking of which:
-- Ridiculously unclear moderation and rules. I looked at the "welcome to /robowaifu/" thread and the meta thread and I can't find a single rule. There's no board message that directs to a list of rules. You don't seem to be opposed to moderation because you seem to do it on stuff you don't approve of, and obviously this board is not /b/, so it's generally a pretty good idea to give clear rules to your userbase. In my experience, users actually like having a nice clear list of rules that are outlined for them to follow and generally will not accuse you of "rulecucking." A few idiots will do that but just ignore them. The vast majority are going to find themselves frustrated by getting moderated despite a lack of clear rules. In fact, this is more likely to get you accused of rulecucking. As far as I can tell, seemingly random shit is being enforced for unspecified reasons in the board's current state. This is the #1 biggest problem with /robowaifu/ and imo needs addressed immediately.
-- Board culture. In my experience, best left unenforced. There are a few cases where board culture NEEDS to be enforced, and I can name a few boards where it is done because that's the entire purpose of the board. I'm not sure if /robowaifu/ is one of those boards. If I make a board, often about an interest, generally speaking I can't enforce anons to adhere to my views and agree with me on things in terms of culture. I can set a board topic and some objective rules to make sure things don't spiral out of control, but the culture is left to anons. Entire boards dedicated to a specific culture (such as a christian board or /r9k/) have culture enforcement and this isn't a problem. However, my biggest problem with the board culture here is that it's somehow less clear than the rules. You claimed to allow shitposting but here we are, I couldn't even make lounge 2 despite making it more of a QTDDTOT thread rather than shitposting. You delegate shitposting to an expired thread which doesn't really seem to conform to what it is you're saying. In the "welcome to /robowaifu/" thread you claim to be open to various people of various communities, including robots (which I presume to mean /r9k/) but killed a thread and deleted a bunch of posts because some robots had the audacity to think current-year women and feminism is shit. This is also despite the fact that your "welcome to /robowaifu/" post specifically names feminism as a societal ill. You also seem to enforce christian culture on the board. If this is a damn christian board then just fucking tell us. If it's not, then I'm sorry but most people are not really going to care about your choice in religion and how you want to use this to enforce certain culture. Also, I'm just gonna throw it in here for good measure: /cuckquean/. They have nothing to do with us but seem to keep coming back and post for attention. The worst part is they seem to be getting some attention and it's reminding me of some orbiting shit. They have admitted themselves that their board is dedicated to nothing more than a fetish for infidelity (which I'm suprised you approve of as a christian) and they don't actually care about us. They just want us to build robowaifus so they can watch their boyfriends fuck them. You have said yourself this board is not about sexbots. So yeah, there's that too.
-
+>>7408
+
+>Feel free to drop them here ITT
+
+Fine I'm just gonna do that because I don't know what I'm supposed to do if I need to have a chat with you.
+
+>I'll address them all most likely
+
+I really hope you do because these are genuine concerns of mine.
+
+
+
+- I'm not really sure how to get in contact with you. With a board like this, this seems especially important because as far as I know you're running it yourself, a board dictatorship (or sometimes this place seems more like your personal blog). That's fine, but there are times where I'm confused about where to post something. I've used this "shitposting" thread as QTDDTOT because I don't know where to post shit like that. For talking to you personally, I guess /meta/ would be the most fitting place to do it (but I'm posting here anyway) because that's generally where people discuss anything about the board. The easiest way would be IRC but I can tell you're not going to do that.
+
+- The locking down of threads, even ones that to my knowledge you made. I can't even wrap my head around it. As far as I can tell, none of the discussions that get locked down are outwardly bad. Examples are "roastie fear general" and lounge thread 2. This thread (lounge 1) is another good example because I posted here not even knowing if you'd see it because unless you constantly lurk the thread you can't tell when this thread is replied to anymore. If the "lounge" thing is allowed on /robowaifu/ as a thread then I don't understand why new threads are not allowed when the bump limit is reached. If there are posts that are in need of moderation that get posted in this thread, you have mod powers so I don't see why this is an issue. Speaking of which:
+
+- Ridiculously unclear moderation and rules. I looked at the "welcome to /robowaifu/" thread and the meta thread and I can't find a single rule. There's no board message that directs to a list of rules. You don't seem to be opposed to moderation because you seem to do it on stuff you don't approve of, and obviously this board is not /b/, so it's generally a pretty good idea to give clear rules to your userbase. In my experience, users actually like having a nice clear list of rules that are outlined for them to follow and generally will not accuse you of "rulecucking." A few idiots will do that but just ignore them. The vast majority are going to find themselves frustrated by getting moderated despite a lack of clear rules. In fact, this is more likely to get you accused of rulecucking. As far as I can tell, seemingly random shit is being enforced for unspecified reasons in the board's current state. This is the #1 biggest problem with /robowaifu/ and imo needs addressed immediately.
+
+- Board culture. In my experience, best left unenforced. There are a few cases where board culture NEEDS to be enforced, and I can name a few boards where it is done because that's the entire purpose of the board. I'm not sure if /robowaifu/ is one of those boards. If I make a board, often about an interest, generally speaking I can't enforce anons to adhere to my views and agree with me on things in terms of culture. I can set a board topic and some objective rules to make sure things don't spiral out of control, but the culture is left to anons. Entire boards dedicated to a specific culture (such as a christian board or /r9k/) have culture enforcement and this isn't a problem. However, my biggest problem with the board culture here is that it's somehow less clear than the rules. You claimed to allow shitposting but here we are, I couldn't even make lounge 2 despite making it more of a QTDDTOT thread rather than shitposting. You delegate shitposting to an expired thread which doesn't really seem to conform to what it is you're saying. In the "welcome to /robowaifu/" thread you claim to be open to various people of various communities, including robots (which I presume to mean /r9k/) but killed a thread and deleted a bunch of posts because some robots had the audacity to think current-year women and feminism is shit. This is also despite the fact that your "welcome to /robowaifu/" post specifically names feminism as a societal ill. You also seem to enforce christian culture on the board. If this is a damn christian board then just fucking tell us. If it's not, then I'm sorry but most people are not really going to care about your choice in religion and how you want to use this to enforce certain culture. Also, I'm just gonna throw it in here for good measure: /cuckquean/. They have nothing to do with us but seem to keep coming back and post for attention. The worst part is they seem to be getting some attention and it's reminding me of some orbiting shit. They have admitted themselves that their board is dedicated to nothing more than a fetish for infidelity (which I'm suprised you approve of as a christian) and they don't actually care about us. They just want us to build robowaifus so they can watch their boyfriends fuck them. You have said yourself this board is not about sexbots. So yeah, there's that too.
+
+
+
 I could keep going but this is getting long enough. I really wish you would have just joined IRC so we could have hashed this out. I don't think a lot of what goes on in this board appeals to a wider imageboard audience and if you want more anons to enjoy the board and contribute to /robowaifu/ I think you'd be doing yourself a service by changing how things operate here in order to attract more people and get more contributions to robowaifu development.
 
 # 422
->>7412
->- Ridiculously unclear moderation and rules. I looked at the "welcome to /robowaifu/" thread and the meta thread and I can't find a single rule.
-This part concerns me as well, I'm mostly a lurker so I rarely have a thing or two to say there, but this is something should be clearly define as rules enforcement based on unknown standards makes it a little bit hard to know what is allowed and what not. Luckily bans and post deletion is relative rare and not to the same extend compared to the place moderated by a certain individual with a affection for cakes. 
-
->/cuckquean/. They have nothing to do with us but seem to keep coming back and post for attention. The worst part is they seem to be getting some attention and it's reminding me of some orbiting shit.
-In my opinion they shouldn't have a place here, there should be a limit what individuals are allowed here and what not, making a board that becomes too open will soon have a board full of individuals each with greatly different opinion how a board should be run, what topics should get the most attention, what cultures are more apporpiate and what not et cetera will make the water more muddified, see for example what happened to occupy wallstreet movement I know this particular part is about politics but my point here is that its about who is going to run the show at the end, at occupy wallstreet movement it was originally a protest against (jewish-) owned bankers but later as more people showed up they just switched the topics completely unrelated to occupy wallstreet and now look what brought them there, those infiltrators successfully thrown their goal off the charts and now their issues is more about leftist enforced brain washing morals with no base in human rationality. So when nothing is going to be done about those individuals then /robowaifu/ could share the same faith. It is up to you Chobitsu how you want to run this board but I warn you should be more careful  what individuals are allowed to be posted here. 
-
-> If this is a damn christian board then just fucking tell us. If it's not, then I'm sorry but most people are not really going to care about your choice in religion and how you want to use this to enforce certain culture.
-It is nice if you have settled to a certain religion world view, but considering the nature of robowaifus I hope your religious affairs will not have too much of a heavy impact how this board gets run, I do not want or seek to start another religion flamewars, there is more than enough happening to that between various white people bashing each other and thus causing more brothers wars which is something I don't want to see more of it happening. It is already bad enough that the white race is a absolute minority today. So to in regards to religion, it's fine and I don't want to bash your religious view just to stress it again.
-
->The locking down of threads, even ones that to my knowledge you made. I can't even wrap my head around it. As far as I can tell, none of the discussions that get locked down are outwardly bad. Examples are "roastie fear general" and lounge thread 2. This thread (lounge 1) is another good example because I posted here not even knowing if you'd see it because unless you constantly lurk the thread you can't tell when this thread is replied to anymore
-It confuses me greatly as well, I mean this is one of the place where I think it is justified that other anons just want to absolutely vent off their rage and fury against females and other whores that are betraying their people, as far as I can see, most anons here are very very productive in either discussion or in making progress and I barely see that despite 2 shitposting threads being made that it hindered their discussion in a way or another, it is not like the situation that happened not so long ago to julay /v/ or to prolikewoah /v/ board where it got absolutely destroyed with spam and had to be rebuilt again. So I would greatly appreciate if there is already a shitposting thread on /robowaifu/ that all post that are more suitable to this thread should be moved over here instead when they cause trouble somewhere else.
-
+>>7412
+
+>- Ridiculously unclear moderation and rules. I looked at the "welcome to /robowaifu/" thread and the meta thread and I can't find a single rule.
+
+This part concerns me as well, I'm mostly a lurker so I rarely have a thing or two to say there, but this is something should be clearly define as rules enforcement based on unknown standards makes it a little bit hard to know what is allowed and what not. Luckily bans and post deletion is relative rare and not to the same extend compared to the place moderated by a certain individual with a affection for cakes. 
+
+
+
+>/cuckquean/. They have nothing to do with us but seem to keep coming back and post for attention. The worst part is they seem to be getting some attention and it's reminding me of some orbiting shit.
+
+In my opinion they shouldn't have a place here, there should be a limit what individuals are allowed here and what not, making a board that becomes too open will soon have a board full of individuals each with greatly different opinion how a board should be run, what topics should get the most attention, what cultures are more apporpiate and what not et cetera will make the water more muddified, see for example what happened to occupy wallstreet movement I know this particular part is about politics but my point here is that its about who is going to run the show at the end, at occupy wallstreet movement it was originally a protest against (jewish-) owned bankers but later as more people showed up they just switched the topics completely unrelated to occupy wallstreet and now look what brought them there, those infiltrators successfully thrown their goal off the charts and now their issues is more about leftist enforced brain washing morals with no base in human rationality. So when nothing is going to be done about those individuals then /robowaifu/ could share the same faith. It is up to you Chobitsu how you want to run this board but I warn you should be more careful  what individuals are allowed to be posted here. 
+
+
+
+> If this is a damn christian board then just fucking tell us. If it's not, then I'm sorry but most people are not really going to care about your choice in religion and how you want to use this to enforce certain culture.
+
+It is nice if you have settled to a certain religion world view, but considering the nature of robowaifus I hope your religious affairs will not have too much of a heavy impact how this board gets run, I do not want or seek to start another religion flamewars, there is more than enough happening to that between various white people bashing each other and thus causing more brothers wars which is something I don't want to see more of it happening. It is already bad enough that the white race is a absolute minority today. So to in regards to religion, it's fine and I don't want to bash your religious view just to stress it again.
+
+
+
+>The locking down of threads, even ones that to my knowledge you made. I can't even wrap my head around it. As far as I can tell, none of the discussions that get locked down are outwardly bad. Examples are "roastie fear general" and lounge thread 2. This thread (lounge 1) is another good example because I posted here not even knowing if you'd see it because unless you constantly lurk the thread you can't tell when this thread is replied to anymore
+
+It confuses me greatly as well, I mean this is one of the place where I think it is justified that other anons just want to absolutely vent off their rage and fury against females and other whores that are betraying their people, as far as I can see, most anons here are very very productive in either discussion or in making progress and I barely see that despite 2 shitposting threads being made that it hindered their discussion in a way or another, it is not like the situation that happened not so long ago to julay /v/ or to prolikewoah /v/ board where it got absolutely destroyed with spam and had to be rebuilt again. So I would greatly appreciate if there is already a shitposting thread on /robowaifu/ that all post that are more suitable to this thread should be moved over here instead when they cause trouble somewhere else.
+
+
+
 Well what you are going to do is absolutely up to you Chobitsu, I hope at the very least that you are going to address a few points here that is being made with appropriate action, if you don't want to change how this place is run then its fine then one will shall observe the future of this board if its going to be for the better or not.
 
 # 423
->>7413
->most anons here are very very productive in either discussion or in making progress and I barely see that despite 2 shitposting threads being made that it hindered their discussion in a way or another
-I feel the same, one schizo idiot does not mean the board is under attack. I haven't seen any hindrance of progress.
-
+>>7413
+
+>most anons here are very very productive in either discussion or in making progress and I barely see that despite 2 shitposting threads being made that it hindered their discussion in a way or another
+
+I feel the same, one schizo idiot does not mean the board is under attack. I haven't seen any hindrance of progress.
+
+
+
 I'm even willing to propose rules that I think would help the board. #1 would be topical discussion. Direct contributions to robowaifu development is good. An article showing politicians wanting to pass robowaifu legislation is good. A thread about chairs because you want to be comfortable while you develop robowaifu software is bad. You could even allow genuine diarrhea on the board if you want it but contain it. I don't think genuine diarrhea has a place on here, but I do think QTDDTOT is absolutely needed. #2 could be for stopping FUD and concern-trolling. Genuine concern allowed, "you will die alone and never have a robowaifu" is not.
 
 # 424
 >>7410
-<my undivided attention
+< my undivided attention
 Kek that's just what you won't get, except on an exceptionally relaxed day. I have a lot on my plate atm Anon.
 
 >You claimed to allow shitposting but here we are
@@ -2625,20 +2963,31 @@ Good advice, and to some degree we've already been doing so. Once the bumplocked
 Thanks for the inputs Anon. I'll certainly consider them, and since the meta2/ is nearing the end-of-life, it will soon be converted over to join the underworld here, a new one started, and 'QTDDTOT' clearly marked for that thread.
 
 # 427
->>7419
->you're shitposting just fine atm
-So anything you disagree with is just a shitpost?
->Since you've decided to portray me as a 'dictator', then I'll wear it
-dictator - n. an absolute ruler
-Yes, as far as I know you're board dictator. I've never talked to any other /robowaifu/ staff.
->>7421
+>>7419
+
+>you're shitposting just fine atm
+
+So anything you disagree with is just a shitpost?
+
+>Since you've decided to portray me as a 'dictator', then I'll wear it
+
+dictator - n. an absolute ruler
+
+Yes, as far as I know you're board dictator. I've never talked to any other /robowaifu/ staff.
+
+>>7421
+
 So you're just going to turn meta thread into qtddtot?
 
 # 428
->>7419
->As far as rules go, we only have two:
-Also this is not true. You moderated me for basically making QTDDTOT/general general but that's not against the rules. You moderated the roastie thread but that's not breaking rules either. This is the point I'm making about unclear rules, but I don't think you're going to listen so it doesn't matter. You're just going to say my genuine complaint is shitposting.
-
+>>7419
+
+>As far as rules go, we only have two:
+
+Also this is not true. You moderated me for basically making QTDDTOT/general general but that's not against the rules. You moderated the roastie thread but that's not breaking rules either. This is the point I'm making about unclear rules, but I don't think you're going to listen so it doesn't matter. You're just going to say my genuine complaint is shitposting.
+
+
+
 Anyone who is tired of random shit (roastie thread, qtddtot, etc) getting moderated and everything being unclear are welcome to post anything that chobitsu doesn't seem to want to allow here: fatchan.org/robotwives Treat it as a fallback for things Chobitsu doesn't like but deserves a home anyway. Also only rule violations will be moderated.
 
 # 429
@@ -2653,10 +3002,14 @@ https://anonfiles.com/hbId58K1o7/robowaifu_7z
 I can post the entire current archives for your benefit if you'd like as well?
 
 # 430
->>7432
->Is that a problem?
-No.
->as far as I know you're running it yourself, a board dictatorship (or sometimes this place seems more like your personal blog). That's fine
+>>7432
+
+>Is that a problem?
+
+No.
+
+>as far as I know you're running it yourself, a board dictatorship (or sometimes this place seems more like your personal blog). That's fine
+
 I outlined what I think the problems are. If you're going moderate more than the two rules that you have proposed for the board, I'd like you to add rules to avoid confusion. Also, I don't even know where to find those rules. They should be on the front page. That's the biggest problem I have. I don't need any archives of content, the board is specifically a place for anons to post stuff that you don't seem to want here. There are people who seem to want to discuss these topics but there's no place for them to be posted. As far as robowaifu development goes, this is obviously the best place for that. /robotwives/ will be free DLC (or maybe more like a modpack)
 
 # 431
@@ -2670,8 +3023,10 @@ Great!
 I think the word you're looking for is ''rules'', Anon. And I hate rules, don't you? Only filthy Commies want to load on rule after rule.
 
 # 432
->>7435
->And I hate rules, don't you?
+>>7435
+
+>And I hate rules, don't you?
+
 No. I don't. What I didn't like is getting my topic locked, being redirected to a bumplocked thread where probably nobody will be able to see even if genuine discussion is happening, and then searching the board unable to find a single rule. It's frustrating.
 
 # 433
@@ -2687,9 +3042,12 @@ Also having my complaints dismissed as shitposting when you said you would (most
 I did respond. Your aggressive manner made me feel disinclined to create a checklist such as yours and tick off responses one-by-one. I'm more of a tl;dr synopsis kind of guy anyway.
 
 # 436
->>7439
-So if I'm frustrated, my complaints are less worthy of serious consideration?
-
+>>7439
+
+So if I'm frustrated, my complaints are less worthy of serious consideration?
+
+
+
 I don't hate you, nothing I said was a personal attack, but your moderation is abysmal. Sorry.
 
 # 437
@@ -2697,9 +3055,12 @@ I don't hate you, nothing I said was a personal attack, but your moderation is a
 I did give serious consideration to your complaints. I devised a plan to address both them and the board's interests in one go. Should be workable afaict.
 
 # 438
->>7435
-If you hate rules then the way you would run this board would be just end up becoming a flavored /b/ board. There is almost nothing wrong with having rules but they need to be clearly visible for everyone to be seen so that anons can understand when that rules is going to take effect when a particular post is breaking it.
->>7439
+>>7435
+
+If you hate rules then the way you would run this board would be just end up becoming a flavored /b/ board. There is almost nothing wrong with having rules but they need to be clearly visible for everyone to be seen so that anons can understand when that rules is going to take effect when a particular post is breaking it.
+
+>>7439
+
 Your style of responding to the concerns of anons here is becoming concerning, Chobitsu. Honestly at this point I don't even know where I should begin now, I hope it just means you are just being busy at the moment, if you are that busy running a board then I think it would be wise if you get a volunteer that has more free time that is looking over this board which can act sort of a "secretary" or something of this sort.
 
 # 439
@@ -2709,8 +3070,10 @@ Sorry for your **~~seethe~~** concerns friend. I rather '''like''' old-bee tbh s
 **This '''is''' the shitposting thread. :^)**
 
 # 440
->>7443
->This is the shitposting thread. :^)
+>>7443
+
+>This is the shitposting thread. :^)
+
 Yeah, it's the thread you delegated this discussion to.
 
 # 441
@@ -2724,12 +3087,15 @@ Hmm, don't think that was me tbh.
 Well, it's been fun guys but I have things calling for my attention again. See you later, Cheers!
 
 # 442
->>7443
+>>7443
+
 Yeah whatever ~~dude~~ king.
 
 # 443
->>7445
->Hmm, don't think that was me tbh.
+>>7445
+
+>Hmm, don't think that was me tbh.
+
 You asked me to post my complaints here. Where do you want them then? Should I post them on the meta thread instead of this low-visibility bumplocked shit?
 
 # 444
@@ -2773,8 +3139,10 @@ Exactly, why is this so hard to understand: OT shouldn't dominate the forum, esp
 After reading through this stuff here, I think the basic conflict is about guys having a ideology and culture to reform society, while the idea of having robowaifus is, that we work around the problems and changing things in a way that going back to the old ways isn't necessary. We don't need to fight women/feminists other than developing an alternative. We don't need the details on what might be going on, nor the ideology to fight it. We also don't need to be angry with chads having a girlfriend that is open for him fucking other woman in front of her, and then finding other woman being okay with that. If the development goes forward, then there will be more.
 
 # 446
-Saw this video about several boards in the webring(also 8moe for some reason) and early on I knew that /robowaifu/ wasn't going to make the cut. Put yourself into the shoes of the guy who made it taking a look at this board in that light, even if several projects here were successful and he had some cool footage of robots to include this board would be an odd one out due to its serious nature and lack of fun/identity.
-
+Saw this video about several boards in the webring(also 8moe for some reason) and early on I knew that /robowaifu/ wasn't going to make the cut. Put yourself into the shoes of the guy who made it taking a look at this board in that light, even if several projects here were successful and he had some cool footage of robots to include this board would be an odd one out due to its serious nature and lack of fun/identity.
+
+
+
 I don't have any complaints about the moderation or the way the owner wants to run his board I'm just pointing out that it isn't structured and ran the way most image boards are. That will be off putting to most people who expect a more laid back atmosphere and more leniency.
 
 # 447
@@ -2808,25 +3176,44 @@ And that's pretty much all I have to say on those topics in general Anons, hope 
 Cheers.
 
 # 448
->>7454
->is that we don't have more people trying to build on-topic stuff
-The problem was cracking down on stuff that was once much more allowed without clear rules about this. If you want everything to be on topic, then I don't see the problem with making a clear rule for that. For the record, QTDDTOT wasn't off-topic at all imo.
->I think the idea is that people from other places should come here to discuss robowaifus and push development.
-Again, it became unclear because the thread was allowed and then suddenly was not.
->It's about submissive woman. Men who like that are one of the guys who might want robowaifus, same like /monster/. Neither of them preaches their ideas to others like it was some cult.
-/cuckquean/ came here again recently in the birthday thread and stated their board is just for infidelity fetish. Sorry but you're wrong.
->People can have their own motivations for getting robowaifus. This is the topic of the board, or not?
-It really doesn't align with what the welcome message says and it's also completely off-topic. Thought you wanted things to be very on-topic. Chobitsu has accused lesser things of being "sex doll" focused as well, and /cuckquean/ treats this as a sex doll board so their boyfriends can fuck whatever it is we make. There's no reason for them to be here other than them probably liking the attention. If you're going to argue that certain shit distracts from robowaifu development, then this should be on your list of one of those things.
->How can this be a problem, when bans and deletions are rare?
-Because I made a thread that wasn't even dedicated to off-topic discussion and it got locked in minutes. It's unclear.
->In that case, you even want more moderation.
-You're the person who was just arguing that other topics have plenty of other places on the webring where they can post this stuff. /cuckquean/ literally has their own board. They should stay according to your own logic.
->This would dominate the board over on-topic stuff and being a distraction.
-You don't know that. I've never seen /robowaifu/ flooded and I've never seen progress get hindered in my time using the board.
->I think the basic conflict is about guys having a ideology and culture to reform society, while the idea of having robowaifus is, that we work around the problems and changing things in a way that going back to the old ways isn't necessary
-No I just asked for clarity and transparency. To reiterate, you can't find a single rule but can still find yourself getting moderated. Once this happens people are naturally going to to start asking why the fuck that happened.
->>7475
->it isn't structured and ran the way most image boards are
+>>7454
+
+>is that we don't have more people trying to build on-topic stuff
+
+The problem was cracking down on stuff that was once much more allowed without clear rules about this. If you want everything to be on topic, then I don't see the problem with making a clear rule for that. For the record, QTDDTOT wasn't off-topic at all imo.
+
+>I think the idea is that people from other places should come here to discuss robowaifus and push development.
+
+Again, it became unclear because the thread was allowed and then suddenly was not.
+
+>It's about submissive woman. Men who like that are one of the guys who might want robowaifus, same like /monster/. Neither of them preaches their ideas to others like it was some cult.
+
+/cuckquean/ came here again recently in the birthday thread and stated their board is just for infidelity fetish. Sorry but you're wrong.
+
+>People can have their own motivations for getting robowaifus. This is the topic of the board, or not?
+
+It really doesn't align with what the welcome message says and it's also completely off-topic. Thought you wanted things to be very on-topic. Chobitsu has accused lesser things of being "sex doll" focused as well, and /cuckquean/ treats this as a sex doll board so their boyfriends can fuck whatever it is we make. There's no reason for them to be here other than them probably liking the attention. If you're going to argue that certain shit distracts from robowaifu development, then this should be on your list of one of those things.
+
+>How can this be a problem, when bans and deletions are rare?
+
+Because I made a thread that wasn't even dedicated to off-topic discussion and it got locked in minutes. It's unclear.
+
+>In that case, you even want more moderation.
+
+You're the person who was just arguing that other topics have plenty of other places on the webring where they can post this stuff. /cuckquean/ literally has their own board. They should stay according to your own logic.
+
+>This would dominate the board over on-topic stuff and being a distraction.
+
+You don't know that. I've never seen /robowaifu/ flooded and I've never seen progress get hindered in my time using the board.
+
+>I think the basic conflict is about guys having a ideology and culture to reform society, while the idea of having robowaifus is, that we work around the problems and changing things in a way that going back to the old ways isn't necessary
+
+No I just asked for clarity and transparency. To reiterate, you can't find a single rule but can still find yourself getting moderated. Once this happens people are naturally going to to start asking why the fuck that happened.
+
+>>7475
+
+>it isn't structured and ran the way most image boards are
+
 Correct. And I don't think it's to the benefit of the board.
 
 # 449
@@ -2881,21 +3268,33 @@ If this is true then it's as big as when the internet was being invented by Arpa
 I couldn't find much more information about it than that one paper though. MSM in the U.K. haven't even acknowledged it, and the BBC news this morning was just full of the same old anti-racism, anti-Semitism leftist nonsense. (After 30+ years of growing Cultural Marxism we wonder why China suddenly appears to be overtaking us in certain critical technological fields).
 
 # 455
->>7596
-Saw this over on 4chan's /g/ awhile back which might fuel your amazement at China's accomplishments but I'm not convinced. 
-
-At first I felt dumb for not understanding quantum computing at all but then I listened to a podcast from InsideHPC where they talked about how there's over a dozen different types of quantum computers and went into the differences between them and why some companies/nations choose one type over another. An easy record breaking win for propaganda purposes seems like the sort of quantum computer China would build for various reasons and it might be a legitimate form of quantum computing supremacy. There's also a link to a recent podcast from ORNL where the people who are going to be using one talk about what they expect from it, haven't listened to that one yet.
+>>7596
+
+Saw this over on 4chan's /g/ awhile back which might fuel your amazement at China's accomplishments but I'm not convinced. 
+
+
+
+At first I felt dumb for not understanding quantum computing at all but then I listened to a podcast from InsideHPC where they talked about how there's over a dozen different types of quantum computers and went into the differences between them and why some companies/nations choose one type over another. An easy record breaking win for propaganda purposes seems like the sort of quantum computer China would build for various reasons and it might be a legitimate form of quantum computing supremacy. There's also a link to a recent podcast from ORNL where the people who are going to be using one talk about what they expect from it, haven't listened to that one yet.
+
 https://insidehpc.com/category/resources/podcast/
 
 # 456
->>7597
->As you say in Yiddish
-Hmm
-
->Well [chuckles]
-''Wew'' lad
-
->And don't you prefer having the Americans steal your data?
+>>7597
+
+>As you say in Yiddish
+
+Hmm
+
+
+
+>Well [chuckles]
+
+''Wew'' lad
+
+
+
+>And don't you prefer having the Americans steal your data?
+
 As an American, no. I would much rather have my data end up in the hands of people who are halfway across the world, and have no reason to use said data against me.
 
 # 457
@@ -2982,7 +3381,8 @@ Heh, there's a lot of topics here Anon. :^)
 Nice list Anon. Thanks for taking the time to make it for us complete with brief synopsis, and also ''especially'' for giving thought to refining the selection quality for us too. I'll try to make some time before long to pick up the ones that are new to me. Cheers.
 
 # 471
->>7476
+>>7476
+
 /robotwives/ seems to have been baleeted, unfortunately.
 
 # 472
@@ -3069,10 +3469,14 @@ I'm not mentally ill and I don't want to fuck a doll.
 www.nature.com/articles/s41467-017-00685-3
 
 # 488
->>8473
-You got my hopes up that they'd give the condition of wanting to have sex with a sex doll or robot a fancy name as they did back in the 1800's with drapetomania.
-
-For soft robotics this site explains all the basics and has good examples with in depth tutorials. The only problem is the hardware to control it precisely and with enough force to manipulate large muscles on a human sized robot are both expensive and bulky. This small starter kit on crowd supply costs $200.
+>>8473
+
+You got my hopes up that they'd give the condition of wanting to have sex with a sex doll or robot a fancy name as they did back in the 1800's with drapetomania.
+
+
+
+For soft robotics this site explains all the basics and has good examples with in depth tutorials. The only problem is the hardware to control it precisely and with enough force to manipulate large muscles on a human sized robot are both expensive and bulky. This small starter kit on crowd supply costs $200.
+
 https://softroboticstoolkit.com/
 
 # 489
@@ -3278,9 +3682,12 @@ Anime catgrill meidos in tiny miniskirts are well and good and all, but where's 
 What happened to nanochan?
 
 # 510
->>8187
->in our path to victory in the %%gynocentric%% world we're in cannot be a straight line
-
+>>8187
+
+>in our path to victory in the %%gynocentric%% world we're in cannot be a straight line
+
+
+
 bingo
 
 # 511
@@ -3302,7 +3709,8 @@ seems ok. did it go down?
 schizophrenia is one hell of a drug
 
 # 516
->>9303
+>>9303
+
 >tfw too much of a poorfag to get a wuffgrill
 
 # 517
@@ -3490,7 +3898,7 @@ When did I say he was a hero? How is a humble and meek man a hero?
 >If you want Hero Richard Stallman that guy is the epitome if your ideology.
 Doubt, oh wait, are you saying that as some sort of snub? Agitated are we?
 
-<NB4 online comments are brought up late
+< NB4 online comments are brought up late
 
 >>12071
 >Mostly it's about pointing people to resources to start learning how to do something, often from the scratch, so be more patient with us.
@@ -3540,67 +3948,104 @@ the other stuff might be less embarrassing
 https://www.youtube.com/watch?v=j0z4FweCy4M
 
 # 547
-Its the 21st century guys, get with the times
-realistically, why would you even bother trying to replicate the human body mechanically when it already exists,
-all you would need to do is replace the brain ( just the frontal lobe really ) with an ai, everything is already there its just a question of interface
-you dont even need to put any high tech equipment in there, you can just chemically lobotomize a person and put a transceiver into the brain, all you need is a wireless connection that connects the body to the ai center at some giant remote facility 
-
-Since so little tech is needed for this ( in the body ) it can be done by the host body on its own by abusing endocytosis in the brain, no intrusive surgery or major modifications needed, just inject the lobotomizer and after a while inject nanoparticles that are targeted to specific receptors in the brain and let the body assemble everything for you, this way you could build an entire network in the brain to interface with the ai, seems infinitely simpler than  trying to recreating an artificial body if the goal is to create a perfect imitation 
-
+Its the 21st century guys, get with the times
+
+realistically, why would you even bother trying to replicate the human body mechanically when it already exists,
+
+all you would need to do is replace the brain ( just the frontal lobe really ) with an ai, everything is already there its just a question of interface
+
+you dont even need to put any high tech equipment in there, you can just chemically lobotomize a person and put a transceiver into the brain, all you need is a wireless connection that connects the body to the ai center at some giant remote facility 
+
+
+
+Since so little tech is needed for this ( in the body ) it can be done by the host body on its own by abusing endocytosis in the brain, no intrusive surgery or major modifications needed, just inject the lobotomizer and after a while inject nanoparticles that are targeted to specific receptors in the brain and let the body assemble everything for you, this way you could build an entire network in the brain to interface with the ai, seems infinitely simpler than  trying to recreating an artificial body if the goal is to create a perfect imitation 
+
+
+
 also the lobotomy can be optional, depends on whether you want a fully ai body or just just a real person with a remote control, so if someone wont shut up you just mute them and they cant open their mouth anymore, only real problem is how to inject people...
 
 # 548
->>13464
-there's a lot of reasons why while this an an interesting idea - it's a little to gross/evil for even us
-- where do you get the human body (Actually I don't want to know)
-- organic body will have all the needs and expenses and vulerabilities (and problems) of a human body, kind of defeats the point of robowaifus as a concept
-- human body is moral and will age and die
-
+>>13464
+
+there's a lot of reasons why while this an an interesting idea - it's a little to gross/evil for even us
+
+- where do you get the human body (Actually I don't want to know)
+
+- organic body will have all the needs and expenses and vulerabilities (and problems) of a human body, kind of defeats the point of robowaifus as a concept
+
+- human body is moral and will age and die
+
+
+
 The direction you're going would eventually lead to an Android18 type waifu if every cell could be replaced (with nanotech). That's a thing I suppose but probably 1000+ years from where we are now assuming we even last that long.
 
 # 549
->>13466
-*human body is mortal
+>>13466
+
+*human body is mortal
+
 sorry I'm also on a conference call trying to juggle two trains of thought at once
 
 # 550
->>13466
->where do you get the human body
-we trick stupid people into voluntarily injecting the mystery serum into themselves
->organic body will have all the needs and expenses and vulerabilities
-yes, but now the body is just a body, they are disposable, you can change them like a pair of shoes, the ai will just connect to a new body
->will age and die
-again, its just a body now and disposable
-
+>>13466
+
+>where do you get the human body
+
+we trick stupid people into voluntarily injecting the mystery serum into themselves
+
+>organic body will have all the needs and expenses and vulerabilities
+
+yes, but now the body is just a body, they are disposable, you can change them like a pair of shoes, the ai will just connect to a new body
+
+>will age and die
+
+again, its just a body now and disposable
+
+
+
 for wealthy individuals you will be able to order designer bodies that are made invitro and genetically engineered to your preference
 
 # 551
->>13468
->we trick stupid people into voluntarily injecting the mystery serum into themselves
+>>13468
+
+>we trick stupid people into voluntarily injecting the mystery serum into themselves
+
 This would never work. no one is stupid enough to just inject something  in their body that they dont even know the contents of let alone the effects it will do to them
 
 # 552
->>13478
+>>13478
+
 are you even trying to argue logic with this fellow
 
 # 553
->>13478
-this is sarcasm right
+>>13478
+
+this is sarcasm right
+
 I cant imagine someone being this blind and yet I can totally imagine someone being this blind  for the same reason of what is obvious ( but not to you (maybe) )
 
 # 554
 so, i decidated to make a paper torso just because "why not?", and the results are pretty obvious, it weight like a paper leaf, too weak for sex and almost anything. but is a interesting concept has a way to plan designs and has a mold. posting in this thread because is kinda of a shitpost
 
 # 555
->>13464
-Ugh, you don't get the point of this board.
-You're suggesting cyborgs -- humans expanded through additions.
-What we're suggesting are non carbon-based automatons created for the sole purpose of wife-ing and fucking.
-
-How do we get biological human hosts for your cyborg experiments?  Why, through kidnapping, of course!  What the kikes and chinks do all the time to feed their organ trade.
-
-Secondly, if carbon-based biological experiments were that easy and legal, then we would just get to making genetically engineered catgirls.
-
+>>13464
+
+Ugh, you don't get the point of this board.
+
+You're suggesting cyborgs -- humans expanded through additions.
+
+What we're suggesting are non carbon-based automatons created for the sole purpose of wife-ing and fucking.
+
+
+
+How do we get biological human hosts for your cyborg experiments?  Why, through kidnapping, of course!  What the kikes and chinks do all the time to feed their organ trade.
+
+
+
+Secondly, if carbon-based biological experiments were that easy and legal, then we would just get to making genetically engineered catgirls.
+
+
+
 The whole point of robotics is mass production of high quality females -- artificial or otherwise --, which unless you're a patriarch of a Mormon polygamous sect, is pretty much hard to do naturally.  This is a major undertaking for the men of the world, not for the few rich elites who want to be transhumans.
 
 # 556
@@ -3616,37 +4061,53 @@ people in the past knew about the huge benefits that robots can provide to socie
 This idea is Elon Musk-tier of stupidity and this thread is problably bait.
 
 # 558
->>13464
->>13512
->thread is problably bait.
+>>13464
+
+>>13512
+
+>thread is problably bait.
+
 I too have been waiting for the punchline or for this thread to be moved/deleted
 
 # 559
->>13512
->fourth industrial revolution
-funny how people are now using that word without actually reading or knowing anything about schwabs manifesto or agenda21 / agenda2030
-stay safe
-novel
+>>13512
+
+>fourth industrial revolution
+
+funny how people are now using that word without actually reading or knowing anything about schwabs manifesto or agenda21 / agenda2030
+
+stay safe
+
+novel
+
 safe and effective
 
 # 560
-I wonder if the Japanese could help us here? Their situation actually seems bleaker than us in the Western sphere, which is really unfortunate. Posting here b/c no other aaplicable thread that I could find - re: the problem requiring this "solution" ; )
-
-%% also amazes me how some deluded wannabe "alphas" will support this as eugenics, when forgetting that the bottom % of females still breed. Not to mention that evolutionary drives for women are irrational and counterproductive to a eugenic population. Sociopaths and criminals will get a disproportionate share whereas the intelligent and those with conscientiousness will be biased against. IMO, I don't have the data points to based this on but I'm sure they're out there in some form %%
-
+I wonder if the Japanese could help us here? Their situation actually seems bleaker than us in the Western sphere, which is really unfortunate. Posting here b/c no other aaplicable thread that I could find - re: the problem requiring this "solution" ; )
+
+
+
+%% also amazes me how some deluded wannabe "alphas" will support this as eugenics, when forgetting that the bottom % of females still breed. Not to mention that evolutionary drives for women are irrational and counterproductive to a eugenic population. Sociopaths and criminals will get a disproportionate share whereas the intelligent and those with conscientiousness will be biased against. IMO, I don't have the data points to based this on but I'm sure they're out there in some form %%
+
+
+
 we give the lower 90% back their autonomy and self worth and we'll be that much closer to technological singularity and ardishev type II civ
 
 # 561
->>13574
-* Kardishev Type II civ
+>>13574
+
+* Kardishev Type II civ
+
 that being said the converse is also true: if we only work on making ourselves more "desirable" to bioc*nts then we allow our mental, monetary and temporal resources to be drained when they should allocated to furthering ourselves to overcome the Great Filter. This dooms our species to remain stuck as biological slime on this planet. The earth was only meant as a womb for a greater being that is our potential destiny if we're bold enough to seize it.
 
 # 562
 crude but sums it up nicely
 
 # 563
-Herr Frankenstein, I know all the girls are just clamoring to be a part of your experiments, but tbh it's a little outside our bailiwick here on /robowaifu/. 
-
+Herr Frankenstein, I know all the girls are just clamoring to be a part of your experiments, but tbh it's a little outside our bailiwick here on /robowaifu/. 
+
+
+
 I'll be merging this thread over into shitpost central soon, so grab it if you want it. :^)
 
 # 564

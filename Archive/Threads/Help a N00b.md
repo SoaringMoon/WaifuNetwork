@@ -24,19 +24,32 @@ Yes, you'll need some basic tools like a drill and jigsaw or something. For the 
 Welcome to /robowaifu/ Anon. Hey we've all been there, you'll get it, just don't stop and be patient with yourself. This takes time.
 
 # 3
->>2644
-Thanks for the welcome and input. I will be getting familiar with the text to speech thread. But the library I linked has options for a custom tts voice.
-
-github.com/Гунтhercox/chatterbot-voice 
-
-github.com/festvox/festival
-
-festvox.org/festvox/festvox_toc.html
-
-I pretty much just want something simple that can be upgraded over time and I only want to focus on the head for now. Later I want to add digital screen eyes. Since my drawings are the artistic equivalant of a doctor's handwriting, here is a quick and sloppy ms paint diagram of how I want to start. I used the Aotume Chii love doll as the base to stay in spirit of this board.
-
-As for the actual construction of the shell, I am thinking of trying to 3d print something. I would welcome a plastics fabrication thread personally. I just want something not sloppy looking inside if it can be avoided.
-
+>>2644
+
+Thanks for the welcome and input. I will be getting familiar with the text to speech thread. But the library I linked has options for a custom tts voice.
+
+
+
+github.com/Гунтhercox/chatterbot-voice 
+
+
+
+github.com/festvox/festival
+
+
+
+festvox.org/festvox/festvox_toc.html
+
+
+
+I pretty much just want something simple that can be upgraded over time and I only want to focus on the head for now. Later I want to add digital screen eyes. Since my drawings are the artistic equivalant of a doctor's handwriting, here is a quick and sloppy ms paint diagram of how I want to start. I used the Aotume Chii love doll as the base to stay in spirit of this board.
+
+
+
+As for the actual construction of the shell, I am thinking of trying to 3d print something. I would welcome a plastics fabrication thread personally. I just want something not sloppy looking inside if it can be avoided.
+
+
+
 Also not decided on a speaker yet. I want something small and I don't mind making a sound amplifier to move the sound where it needs to be. Isn't it possible to shape pvc pipes with a heat gun for that?
 
 # 4
@@ -58,7 +71,8 @@ Nice. You could do far worse, but ofc cater to your own tastes Anon. :^)
 m-mind sharing that base reference pic alone? i need it for, umm, science-y reasons tbh.
 
 # 5
->>2646
+>>2646
+
 OP here, btw. For science! https://www.dollter.com/product/aotume-doll-143cm-head-14305/
 
 # 6
@@ -71,11 +85,13 @@ BTW, when I was searching for the images myself, I found this faceup video for a
 https://www.youtube.com/watch?v=KedU00MYvTQ
 
 # 8
->>2649
+>>2649
+
 Here is the original image. Brand is Aotume Dolls.
 
 # 9
->>2646
+>>2646
+
 Posted a little soon. Could you give me a recap on what was in that thread?
 
 # 10

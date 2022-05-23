@@ -1,30 +1,50 @@
 # 1
-==OPEN AI/ GPT-2==
-This has to be one of the biggest breakthroughs in deep learning and AI so far. 
-It's extremely skilled in developing coherent humanlike responses that make sense and I believe it has massive potential, it also never gives the same answer twice. 
->GPT-2 generates synthetic text samples in response to the model being primed with an arbitrary input. The model is chameleon-like—it adapts to the style and content of the conditioning text. This allows the user to generate realistic and coherent continuations about a topic of their choosing
-
->GPT-2 displays a broad set of capabilities, including the ability to generate conditional synthetic text samples of unprecedented quality, where we prime the model with an input and have it generate a lengthy continuation. In addition, GPT-2 outperforms other language models trained on specific domains (like Wikipedia, news, or books) without needing to use these domain-specific training datasets.
-Also the current public model shown here only uses 345 million parameters, the "full" AI (which has over 4x as many parameters) is being witheld from the public because of it's "Potential for abuse".
-
-That is to say the full model is so proficient in mimicking human communication that it could be abused to create new articles, posts, advertisements, even books; and nobody would be be able to tell that there was a bot behind it all. 
-
-<AI demo:
-talktotransformer.com/
-
-<Other Links:
-github.com/openai/gpt-2
-openai.com/blog/better-language-models/
-huggingface.co/
-
-My idea is to find a way to integrate this AI as a standalone unit and add voice-to-text for processing the questions and TTS for responses much like an amazon alexa- but instead of just reading google results- it actually provides a sort of discussion with the user.
+==OPEN AI/ GPT-2==
+
+This has to be one of the biggest breakthroughs in deep learning and AI so far. 
+
+It's extremely skilled in developing coherent humanlike responses that make sense and I believe it has massive potential, it also never gives the same answer twice. 
+
+>GPT-2 generates synthetic text samples in response to the model being primed with an arbitrary input. The model is chameleon-like—it adapts to the style and content of the conditioning text. This allows the user to generate realistic and coherent continuations about a topic of their choosing
+
+
+
+>GPT-2 displays a broad set of capabilities, including the ability to generate conditional synthetic text samples of unprecedented quality, where we prime the model with an input and have it generate a lengthy continuation. In addition, GPT-2 outperforms other language models trained on specific domains (like Wikipedia, news, or books) without needing to use these domain-specific training datasets.
+
+Also the current public model shown here only uses 345 million parameters, the "full" AI (which has over 4x as many parameters) is being witheld from the public because of it's "Potential for abuse".
+
+
+
+That is to say the full model is so proficient in mimicking human communication that it could be abused to create new articles, posts, advertisements, even books; and nobody would be be able to tell that there was a bot behind it all. 
+
+
+
+<AI demo:
+
+talktotransformer.com/
+
+
+
+<Other Links:
+
+github.com/openai/gpt-2
+
+openai.com/blog/better-language-models/
+
+huggingface.co/
+
+
+
+My idea is to find a way to integrate this AI as a standalone unit and add voice-to-text for processing the questions and TTS for responses much like an amazon alexa- but instead of just reading google results- it actually provides a sort of discussion with the user.
+
 (Edited to fix the newlines.)
 
 # 2
 kek
 
 # 3
-I don't know if it's my typing style, but I only seem to get weird results out of this thing.
+I don't know if it's my typing style, but I only seem to get weird results out of this thing.
+
 Here are the three most coherent and noteworthy interactions I got.
 
 # 4
@@ -76,8 +96,10 @@ I might push some early code on GitHub in a few days. Before making a thread I'd
 Please take your time anon whenever you're ready ofc.
 
 # 14
->>250
->3DPD men are oppressed.
+>>250
+
+>3DPD men are oppressed.
+
 The future, ladies and gentlemen.
 
 # 15
@@ -87,9 +109,12 @@ kekd. yeah, the group behind the corpus are a bunch of cock-mongling commies, so
 :^)
 
 # 16
->>250
-Deplorable.
->>691
+>>250
+
+Deplorable.
+
+>>691
+
 One step closer.
 
 # 17
@@ -97,8 +122,10 @@ One step closer.
 make sure you copypaste the first one before every guntstream airing anon, it will help everyone remember why they came in the first place. :^)
 
 # 18
->>724
-So I tried to check if it would give me the same completions if I typed the same prompt and....
+>>724
+
+So I tried to check if it would give me the same completions if I typed the same prompt and....
+
 the fuck?
 
 # 19
@@ -118,8 +145,10 @@ I remember messing with it few months ago. Mostly it generated gibberish and had
 yeah, it's the lobotomized version. the team that created it 'feared to release it to the public because of the potential for abuse'. i'm sure what they are really plan it for is to gaslight and astroturf as many communities as they can with it prior to Trump getting reelected in November next year.
 
 # 23
-Transformer returns alot of stuff which appear to be 100% copypasta. It's like someone entered the user text into a search engine, pulled out the relevant lines, threw it into a POS tagger and string replaced the NNs/VBs/JJs/etc. I entered a sentence that started with "The lack of versioning." and got an IGN interview with some studio. It gets more obvious as you enter code in any programming language (it comes out workable or you get copypasta from documentation).
-
+Transformer returns alot of stuff which appear to be 100% copypasta. It's like someone entered the user text into a search engine, pulled out the relevant lines, threw it into a POS tagger and string replaced the NNs/VBs/JJs/etc. I entered a sentence that started with "The lack of versioning." and got an IGN interview with some studio. It gets more obvious as you enter code in any programming language (it comes out workable or you get copypasta from documentation).
+
+
+
 Hell I wouldn't use it to generate white papers. It would flag plagarism checkers.
 
 # 24
@@ -130,8 +159,10 @@ Hell I wouldn't use it to generate white papers. It would flag plagarism checker
 I imagine the full system using the entire corpus is much more capable.
 
 # 25
->>250
->>691
+>>250
+
+>>691
+
 Is it possible to have an AI poster on this webring imageboard? or maybe her own AI board where she can post on.
 
 # 26
@@ -139,8 +170,10 @@ Is it possible to have an AI poster on this webring imageboard? or maybe her own
 I certainly don't think it's impossible anon. Did you have some ideas?
 
 # 27
->>1470
->Did you have some ideas?
+>>1470
+
+>Did you have some ideas?
+
 You need to write a bot script that fetches post and reply on imageboard. But more importantly, how good is this thing anyway?. I don't wan't it to be in lobotomized stage, like repeating itself despite having huge input of learning curve.
 
 # 28
@@ -156,8 +189,10 @@ It's still pretty non-sensical much of the time, but it seems to be better with 
 Actually you might want to checkout https://github.com/AIDungeon/AIDungeon with fun results like https://aidungeonpastes.github.io/AID2-Art/
 
 # 31
->>250
-Remember: GPT-2 is weak, you need something stronger like ERNIE, XLNet or MT-DNN
+>>250
+
+Remember: GPT-2 is weak, you need something stronger like ERNIE, XLNet or MT-DNN
+
 find out more at https://github.com/thunlp/PLMpapers
 
 # 32
@@ -187,12 +222,18 @@ thanks for the tip anon. what could be better than training your robowaifu on se
 can someone explain in some detail what these are/how they are important to robowaifus? how would you use them to make a chatbot for example?
 
 # 37
->>2036
-> More Data
-Can handle a bigger corpus of knowledge, thus smarter
-> Knowledge Graph
-Tay-style learning of /pol/ content (or /tech/, whatever)
-> Knowledge Distillation
+>>2036
+
+> More Data
+
+Can handle a bigger corpus of knowledge, thus smarter
+
+> Knowledge Graph
+
+Tay-style learning of /pol/ content (or /tech/, whatever)
+
+> Knowledge Distillation
+
 More efficient neural networks, reducing resource requirements
 
 # 38
@@ -200,18 +241,30 @@ More efficient neural networks, reducing resource requirements
 it was just ironic shitposting anon. we appreciate the input. i was merely poking fun at their choice of names and thematics.
 
 # 39
->>2037
->Textual Entailment
-A human reading some text inferring that a hypothesis is most likely true is textual entailment. It's different from logical consequence in that it's just a hypothesis. If an anon was working on a robowaifu with big tiddies, you might hypothesize he's a tiddie man. Robowaifus need this to gain insight from text and process it to summarize information and answer questions. Typically chatbots emulate this by predicting things from the semantics they've been trained on but this is not true textual entailment. People have the ability to imagine and hypothesize things they've never seen or even thought about before. Progress in curious AI that can imagine possibilities will help with this.
->Semantic Similarity
-This is the meaningful relationships between concepts. Steering wheel and car are closer together physically than cat and car, but cat and car are much more similar in spelling. Robowaifus need this for understanding context, metaphors and euphemisms. Usually this is implemented by creating embeddings for words, giving each a vector of continuous values. Each dimension in the vector separates words by their most gross common differences first and moves towards learning the more subtle and uncommon nuances. In my opinion this is going to be a dead end though because it isn't really how the brain connects concepts. We can invent completely new concepts with original differences and already know how similar other concepts are to it because our brains our densely connected in intricate interrelated networks where not only the connections are important but also the timing of firings. I expect progress to come in this from applying spiking neural networks to natural language processing.
->Reading Comprehension
-Is the ability to read text and integrate it with what you already know to grasp its meaning. It requires being able to know the meaning of the words and understand all the relations between them. If you read a book when you're young and enjoy it one way then read it when you're older and enjoy it on a much deeper level, that's increased reading comprehension. This is important for robowaifus to grasp deeper meanings, such as for a research assistant reading difficult texts to gain insights. Most chatbots have no reading comprehension. They're just making statistical predictions instead of processing and reasoning about what they're reading. I feel this could be improved in the short-term by giving algorithms some agency over the text it chooses to read and time to process and lower its uncertainty before outputting a prediction. Unfortunately most NLP approaches are trained in a way that makes them extremely fragile to small changes and they aren't capable of doing online learning to quickly absorb information in one shot. Online learning in NLP hasn't received much research attention yet because large-scale differentiable memory hasn't been feasible until recently, so there should be some exciting progress in this coming in the next few years.
->Commonsense Reasoning
-Similar to textual entailment. It's based on common experience. If you're holding an object and let go of it, it's common sense that it's going to fall. Robowaifus need this to make predictions about the world from their experiences. A robowaifu playing and learning about the world needs to be able to intuit that letting go of a grasped object causes it to fall. Very little AI research has gone into this but a major breakthough was made with hindsight experience replay that can continuously learn from all its experiences.
->Sentiment Analysis
-This is being able to grasp the emotion of text and understand if it's positive, neutral or negative, or if it's angry, sad, ironic, happy, excited, etc. Troll farms use this to find sites and posts speaking against the things they're being paid to defend and to discover tensions within a community to split it apart. Social 'scientists' also use it to study and critique internet communities. With sentiment analysis robowaifus can understand the emotional context of what you're saying and respond appropriately, knowing when to give you hugs and when to tell you you're being a wimp.
->Linguistic Acceptability
+>>2037
+
+>Textual Entailment
+
+A human reading some text inferring that a hypothesis is most likely true is textual entailment. It's different from logical consequence in that it's just a hypothesis. If an anon was working on a robowaifu with big tiddies, you might hypothesize he's a tiddie man. Robowaifus need this to gain insight from text and process it to summarize information and answer questions. Typically chatbots emulate this by predicting things from the semantics they've been trained on but this is not true textual entailment. People have the ability to imagine and hypothesize things they've never seen or even thought about before. Progress in curious AI that can imagine possibilities will help with this.
+
+>Semantic Similarity
+
+This is the meaningful relationships between concepts. Steering wheel and car are closer together physically than cat and car, but cat and car are much more similar in spelling. Robowaifus need this for understanding context, metaphors and euphemisms. Usually this is implemented by creating embeddings for words, giving each a vector of continuous values. Each dimension in the vector separates words by their most gross common differences first and moves towards learning the more subtle and uncommon nuances. In my opinion this is going to be a dead end though because it isn't really how the brain connects concepts. We can invent completely new concepts with original differences and already know how similar other concepts are to it because our brains our densely connected in intricate interrelated networks where not only the connections are important but also the timing of firings. I expect progress to come in this from applying spiking neural networks to natural language processing.
+
+>Reading Comprehension
+
+Is the ability to read text and integrate it with what you already know to grasp its meaning. It requires being able to know the meaning of the words and understand all the relations between them. If you read a book when you're young and enjoy it one way then read it when you're older and enjoy it on a much deeper level, that's increased reading comprehension. This is important for robowaifus to grasp deeper meanings, such as for a research assistant reading difficult texts to gain insights. Most chatbots have no reading comprehension. They're just making statistical predictions instead of processing and reasoning about what they're reading. I feel this could be improved in the short-term by giving algorithms some agency over the text it chooses to read and time to process and lower its uncertainty before outputting a prediction. Unfortunately most NLP approaches are trained in a way that makes them extremely fragile to small changes and they aren't capable of doing online learning to quickly absorb information in one shot. Online learning in NLP hasn't received much research attention yet because large-scale differentiable memory hasn't been feasible until recently, so there should be some exciting progress in this coming in the next few years.
+
+>Commonsense Reasoning
+
+Similar to textual entailment. It's based on common experience. If you're holding an object and let go of it, it's common sense that it's going to fall. Robowaifus need this to make predictions about the world from their experiences. A robowaifu playing and learning about the world needs to be able to intuit that letting go of a grasped object causes it to fall. Very little AI research has gone into this but a major breakthough was made with hindsight experience replay that can continuously learn from all its experiences.
+
+>Sentiment Analysis
+
+This is being able to grasp the emotion of text and understand if it's positive, neutral or negative, or if it's angry, sad, ironic, happy, excited, etc. Troll farms use this to find sites and posts speaking against the things they're being paid to defend and to discover tensions within a community to split it apart. Social 'scientists' also use it to study and critique internet communities. With sentiment analysis robowaifus can understand the emotional context of what you're saying and respond appropriately, knowing when to give you hugs and when to tell you you're being a wimp.
+
+>Linguistic Acceptability
+
 Just a fancy term for grammaticality. Robowaifus have to understand the rules of a language to construct grammatically correct sentences for communicating clearly with others. Most sentences people write are completely new but we can make sense of what others are saying because we follow agreed upon rules. Like this if talking started I did. It becomes much more difficult to understand what I'm trying to say. A symbolic approach to this is identifying the parts being said, deconstructing it into a sentence tree and checking that structure is following grammar rules. Most approaches don't even care about this. They just leave it to the language model to figure out what to pay attention to and estimate what should be the next word.
 
 # 40
@@ -223,8 +276,10 @@ Obviously this was rude of me, and even though I ''still'' don't have  a cogent 
 Cheers.
 
 # 41
->>2220
->>4084
+>>2220
+
+>>4084
+
 Well I guess it can be screencapped at least for posterity purpose, when other anons are coming in and asking a similar question.
 
 # 42
@@ -620,40 +675,74 @@ kekd at these
 Found a C implementation of GPT-2 using LibNC: https://bellard.org/libnc/gpt2tc.html
 
 # 97
-I've discovered two interesting things about prompt tuning: https://arxiv.org/abs/2104.08691
-For anyone new or living under a rock, NovelAI has been using prompt tuning to create modules that let users essentially finetune their massive language model without changing its parameters. A module is basically tokens with trainable embeddings that are prefixed to the input to steer its generation. You freeze all the weights of the language model and then only train the module tokens on a dataset like you would normally do finetuning. By doing this you can achieve the same results as model finetuning, without changing any of the language model weights. You can train hundreds of these modules for different characters, moods or writing styles and it'll only cost a few MB rather than duplicating a 6 GB model 100s of times.
-
-It's similar to the vision encoder tokens in the paper mentioned here (it was actually motivated by prompt tuning): >>11731
-https://arxiv.org/abs/2106.13884
-
-So here's what I've found so far:
-1) Taking inspiration from MMD-VAE transformers, you can use an autoencoding transformer like T5-v1_1-base to encode the input tokens[..., :-1] into a prefix, then set all the labels to -100 (to be ignored during training using Hugging Face) except the last one you're trying to predict. The performance of GPT-2 becomes super enhanced (8 to 40 perplexity point improvement after an hour of training).
-
-I have no idea yet why this is so effective. The weights of GPT-2 are frozen during training and GPT-2 still generates fine with the prefix even when not using this specific token position trained on. Vanilla GPT-2 without the prefix often gets stuck looping but with the prefix it continues generating as well as the large GPT-2 model. Training on all the tokens also seems to work but is much slower and only slightly improves so I didn't explore this too much.
-
-I also tried testing how it did on an additional 32 tokens after the single token it was training on and the perplexity still had an improvement of 8 without training. I increased this to 256 and it was still 2 perplexity better without training and quickly improved to 5 after a few optimizer steps, and by 7 after 20 steps and 10 after 35 steps, and 11 by 56 steps. The T5 encoder did not see these additional tokens at all, so it seems the GPT-2 tranformer is performing some sort of calculation with the initial tokens in the prompt but then is able to stabilize itself.'''*'''
-
-I'm really curious what's actually going on in the transformer that causes it to forget how to generate the initial prompt (~7 points worse in perplexity) but then suddenly get the generated tokens after that to be so good and remain stable and interesting without repeating itself.
-
-2) You can do a similar thing encoding the previous context into a prefix, using it as a compressed memory of the previous context. This also improves GPT-2's performance by about 5 points when training on all tokens for a few hours and it will include information from the previous context during generation. It also seems to benefit from training only the last token. Planning to explore this more later.
-
-While doing these experiments I used a memory length of 32 tokens, an input size of 256 tokens (not including the memory), using a total batch size of 1024 with gradient accumulation.
-
-'''Future Work'''
-What if previously generated prefixes are included in the prefix generation too? This could potentially allow information to flow from tens of thousands of tokens ago.
-
-What if a second prefix is added that compresses all the previous prefixes concatenated together? This could function like a summary of the past 32k tokens. Modules are generally incompatible but these two prefixes would be trained together.
-
-Is it possible to add a memory controller so the transformer can read and write these memories?
-
-What is actually going on with prompt tuning, memory prefixes and vision encoder tokens? Where do they exist in the embedding space relative to the actual vocabulary embeddings and each other?
-
-What do the individual losses for additional tokens and the inital prompt look like after training on only the last token for a long time? Which dimensions of the embeddings are causing the improvements? Graphing these might provide some insight into the calculations the transformer is doing.
-
-Do these performance gains scale to larger models, such as gpt2-medium that can run on a consumer GPU? Could it help with distilled GPT-2 which has a major problem with looping?
-
-'''*''': If the transformer is performing a useful calculation with the initial prompt, is it possible to create some sort of wormhole with a token that continues doing this calculation for a few tokens then returns back, replacing the real token embedding with the calculated output?
-
+I've discovered two interesting things about prompt tuning: https://arxiv.org/abs/2104.08691
+
+For anyone new or living under a rock, NovelAI has been using prompt tuning to create modules that let users essentially finetune their massive language model without changing its parameters. A module is basically tokens with trainable embeddings that are prefixed to the input to steer its generation. You freeze all the weights of the language model and then only train the module tokens on a dataset like you would normally do finetuning. By doing this you can achieve the same results as model finetuning, without changing any of the language model weights. You can train hundreds of these modules for different characters, moods or writing styles and it'll only cost a few MB rather than duplicating a 6 GB model 100s of times.
+
+
+
+It's similar to the vision encoder tokens in the paper mentioned here (it was actually motivated by prompt tuning): >>11731
+
+https://arxiv.org/abs/2106.13884
+
+
+
+So here's what I've found so far:
+
+1) Taking inspiration from MMD-VAE transformers, you can use an autoencoding transformer like T5-v1_1-base to encode the input tokens[..., :-1] into a prefix, then set all the labels to -100 (to be ignored during training using Hugging Face) except the last one you're trying to predict. The performance of GPT-2 becomes super enhanced (8 to 40 perplexity point improvement after an hour of training).
+
+
+
+I have no idea yet why this is so effective. The weights of GPT-2 are frozen during training and GPT-2 still generates fine with the prefix even when not using this specific token position trained on. Vanilla GPT-2 without the prefix often gets stuck looping but with the prefix it continues generating as well as the large GPT-2 model. Training on all the tokens also seems to work but is much slower and only slightly improves so I didn't explore this too much.
+
+
+
+I also tried testing how it did on an additional 32 tokens after the single token it was training on and the perplexity still had an improvement of 8 without training. I increased this to 256 and it was still 2 perplexity better without training and quickly improved to 5 after a few optimizer steps, and by 7 after 20 steps and 10 after 35 steps, and 11 by 56 steps. The T5 encoder did not see these additional tokens at all, so it seems the GPT-2 tranformer is performing some sort of calculation with the initial tokens in the prompt but then is able to stabilize itself.'''*'''
+
+
+
+I'm really curious what's actually going on in the transformer that causes it to forget how to generate the initial prompt (~7 points worse in perplexity) but then suddenly get the generated tokens after that to be so good and remain stable and interesting without repeating itself.
+
+
+
+2) You can do a similar thing encoding the previous context into a prefix, using it as a compressed memory of the previous context. This also improves GPT-2's performance by about 5 points when training on all tokens for a few hours and it will include information from the previous context during generation. It also seems to benefit from training only the last token. Planning to explore this more later.
+
+
+
+While doing these experiments I used a memory length of 32 tokens, an input size of 256 tokens (not including the memory), using a total batch size of 1024 with gradient accumulation.
+
+
+
+'''Future Work'''
+
+What if previously generated prefixes are included in the prefix generation too? This could potentially allow information to flow from tens of thousands of tokens ago.
+
+
+
+What if a second prefix is added that compresses all the previous prefixes concatenated together? This could function like a summary of the past 32k tokens. Modules are generally incompatible but these two prefixes would be trained together.
+
+
+
+Is it possible to add a memory controller so the transformer can read and write these memories?
+
+
+
+What is actually going on with prompt tuning, memory prefixes and vision encoder tokens? Where do they exist in the embedding space relative to the actual vocabulary embeddings and each other?
+
+
+
+What do the individual losses for additional tokens and the inital prompt look like after training on only the last token for a long time? Which dimensions of the embeddings are causing the improvements? Graphing these might provide some insight into the calculations the transformer is doing.
+
+
+
+Do these performance gains scale to larger models, such as gpt2-medium that can run on a consumer GPU? Could it help with distilled GPT-2 which has a major problem with looping?
+
+
+
+'''*''': If the transformer is performing a useful calculation with the initial prompt, is it possible to create some sort of wormhole with a token that continues doing this calculation for a few tokens then returns back, replacing the real token embedding with the calculated output?
+
+
+
 So many questions, I feel like a huge breakthrough is around the corner.
 
 # 98
@@ -664,25 +753,44 @@ Pretty exciting stuff Anon. You encourage me.
 That sounds like it could turn into a major advance for the field as a whole if it comes off Anon. Godspeed.
 
 # 99
-Learning from human feedback has been proven so good that OpenAI has scrapped GPT-3 and replaced it with InstructGPT:
-https://openai.com/blog/instruction-following/
-
-Highlights
->Labelers prefer outputs from the 1.3B InstructGPT model over outputs from a 175B GPT-3 model, despite having more than 100x fewer parameters. For comparison GPT-2 XL is 1.5B parameters and can be finetuned the same way.
->Doubled performance in question answering. Over 200% increase in quality according to ratings from users.
->Toxicity, hallucinations and undesirable facts are now filtered from the model according to user preferences. '''This is a huge turning point for corporations to subdue AI wrongthink.'''
->Aligning the models only on customer tasks can make their performance worse on some other academic NLP tasks. OpenAI surprised garbage in is garbage out.
-
-I always knew this was going to be a promising direction for research but had no idea it would become this big of a deal. All this time we could've been outperforming GPT-3 with a shitty 300M model on a fucking Raspberry Pi!
-
-I implemented RL in GPT-2 back in 2019 and had some mild success with it but quickly ran into issues with catastrophic forgetting and stability. I tried to re-finetune the model but could never recover the better perplexity scores without spending months training and gave up on the idea.
-
-They solved these issues though by using a reward model like they did in their learning to summarize with human feedback paper and combining it with the regular training loss. The reason a reward model is so effective is because without one you only have a few feedback examples to train on relative to a 800GB dataset like The Pile. If you keep repeating the same example over and over again, even alongside regular training, the model gets overtrained towards the examples, becomes unstable and breaks down. Using a reward model overcomes this by learning to determine how good any response is and using that as a reward signal for the language model so it has a continual fresh stream of training data.
-
-I'm working on an open-source implementation since "Open"AI doesn't want to release their source code or models and it doesn't seem like anyone on GitHub is working on it either.
-
-Related papers
-https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+Learning from human feedback has been proven so good that OpenAI has scrapped GPT-3 and replaced it with InstructGPT:
+
+https://openai.com/blog/instruction-following/
+
+
+
+Highlights
+
+>Labelers prefer outputs from the 1.3B InstructGPT model over outputs from a 175B GPT-3 model, despite having more than 100x fewer parameters. For comparison GPT-2 XL is 1.5B parameters and can be finetuned the same way.
+
+>Doubled performance in question answering. Over 200% increase in quality according to ratings from users.
+
+>Toxicity, hallucinations and undesirable facts are now filtered from the model according to user preferences. '''This is a huge turning point for corporations to subdue AI wrongthink.'''
+
+>Aligning the models only on customer tasks can make their performance worse on some other academic NLP tasks. OpenAI surprised garbage in is garbage out.
+
+
+
+I always knew this was going to be a promising direction for research but had no idea it would become this big of a deal. All this time we could've been outperforming GPT-3 with a shitty 300M model on a fucking Raspberry Pi!
+
+
+
+I implemented RL in GPT-2 back in 2019 and had some mild success with it but quickly ran into issues with catastrophic forgetting and stability. I tried to re-finetune the model but could never recover the better perplexity scores without spending months training and gave up on the idea.
+
+
+
+They solved these issues though by using a reward model like they did in their learning to summarize with human feedback paper and combining it with the regular training loss. The reason a reward model is so effective is because without one you only have a few feedback examples to train on relative to a 800GB dataset like The Pile. If you keep repeating the same example over and over again, even alongside regular training, the model gets overtrained towards the examples, becomes unstable and breaks down. Using a reward model overcomes this by learning to determine how good any response is and using that as a reward signal for the language model so it has a continual fresh stream of training data.
+
+
+
+I'm working on an open-source implementation since "Open"AI doesn't want to release their source code or models and it doesn't seem like anyone on GitHub is working on it either.
+
+
+
+Related papers
+
+https://openai.com/blog/deep-reinforcement-learning-from-human-preferences/
+
 https://openai.com/blog/learning-to-summarize-with-human-feedback/
 
 # 100
@@ -695,28 +803,41 @@ Again, super exciting. If you decide to do anything with C or C++ with that, the
 Godspeed.
 
 # 101
->>15302
-PyTorch has an undocumented transformer implementation in C++ that isn't exposed to the Python library: https://github.com/pytorch/pytorch/pull/44333
-When I'm done with this I'll see if I can get GPT-2 working in C++. Most Python models can also be directly converted to TorchScript and ran in C++ for about a 20% speedup on CPU: https://pytorch.org/tutorials/recipes/torchscript_inference.html
+>>15302
+
+PyTorch has an undocumented transformer implementation in C++ that isn't exposed to the Python library: https://github.com/pytorch/pytorch/pull/44333
+
+When I'm done with this I'll see if I can get GPT-2 working in C++. Most Python models can also be directly converted to TorchScript and ran in C++ for about a 20% speedup on CPU: https://pytorch.org/tutorials/recipes/torchscript_inference.html
+
 Model parameters can be pruned too and a smaller context size used to get models running fast as possible on the Raspberry Pi.
 
 # 102
->>15289
->I'm working on an open-source implementation since "Open"AI doesn't want to release their source code or models and it doesn't seem like anyone on GitHub is working on it either.
-
+>>15289
+
+>I'm working on an open-source implementation since "Open"AI doesn't want to release their source code or models and it doesn't seem like anyone on GitHub is working on it either.
+
+
+
 If you ask me, the best way to go about this is to create something with a similar design to GPT-3 and further refine it for use in an RTOS. From there, you could begin working on the parallel computing part for task completion. That would require using and ARM cortex R CPU that breaks up tasks into smaller ones and sends them to a number of processor cards that use an array of ASICS. The ASICS should have instruction sets that are capable of solving the tasks simultaneously alongside the other cards so that tasks are solved much more quickly rather than with the conventional method.
 
 # 103
->>15345
->and ARM cortex R CPU
+>>15345
+
+>and ARM cortex R CPU
+
 *an
 
 # 104
->>15345
-Doing parallel processing with language models at inference time is really difficult. You can ensemble models to run in parallel but they provide very little gains and sometimes perform even worse.
-
-In the case of splitting models into smaller tasks, most of those tasks are going to depend on previous ones finishing first. The main benefit of having a cluster of SBCs would be the additional memory and being able to route data between models of different expertise and for doing other tasks that can be parallelized like voice recognition, speech generation, face recognition and such.
-
+>>15345
+
+Doing parallel processing with language models at inference time is really difficult. You can ensemble models to run in parallel but they provide very little gains and sometimes perform even worse.
+
+
+
+In the case of splitting models into smaller tasks, most of those tasks are going to depend on previous ones finishing first. The main benefit of having a cluster of SBCs would be the additional memory and being able to route data between models of different expertise and for doing other tasks that can be parallelized like voice recognition, speech generation, face recognition and such.
+
+
+
 Pushing matrix multiplications to ASICs or FPGAs could greatly accelerate models, especially using an approximation instead like fixed-point arithmetic, but I don't see an easy way to do this with existing libraries. I could implement the forward pass of a finished model in pure C without all the bloat. However, my guess is ASICs and FPGAs with enough logic gates to do matrix multiplication at a significant advantage to a CPU would be far too expensive to be worth the effort. If it was cost effective the market would be flooded with AI accelerators instead of GPUs.
 
 # 105
@@ -732,13 +853,20 @@ For example, you could have different models running in unison but coordinating 
 Thank you Anon! We look forward to seeing your progress in this critical area.
 
 # 108
->>15289
-Discovered a neat trick today. Once you have a value model that can gauge how good a response is then you can generate multiple responses and choose the best attempt. When a response meets a satisfactory threshold then it can stop generating and return, otherwise continue trying until reaching a maximum amount of time to respond. So now there's bit of a guarantee you're getting the best response the model can produce instead of just pulling a lever on a slot machine.
-
-Building a good general dataset for the value model is going to be a pain in the ass to make though. It's unavoidable the preferences of labellers are going to shape model behavior in ways other people don't like. I'd like to create some sort of factory default people can start from to finetune their waifu and have a good first experience, maybe by asking a few questions first to seed the context with a starting personality.
-
-Also some improved T5 models were recently released that use half as many parameters, plus a tiny model that uses only 16M. This will be a big help with making a memory controller that runs fast.
-Models: https://huggingface.co/models?arxiv=arxiv:2109.10686
+>>15289
+
+Discovered a neat trick today. Once you have a value model that can gauge how good a response is then you can generate multiple responses and choose the best attempt. When a response meets a satisfactory threshold then it can stop generating and return, otherwise continue trying until reaching a maximum amount of time to respond. So now there's bit of a guarantee you're getting the best response the model can produce instead of just pulling a lever on a slot machine.
+
+
+
+Building a good general dataset for the value model is going to be a pain in the ass to make though. It's unavoidable the preferences of labellers are going to shape model behavior in ways other people don't like. I'd like to create some sort of factory default people can start from to finetune their waifu and have a good first experience, maybe by asking a few questions first to seed the context with a starting personality.
+
+
+
+Also some improved T5 models were recently released that use half as many parameters, plus a tiny model that uses only 16M. This will be a big help with making a memory controller that runs fast.
+
+Models: https://huggingface.co/models?arxiv=arxiv:2109.10686
+
 Paper: https://arxiv.org/pdf/2109.10686.pdf
 
 # 109
@@ -749,18 +877,30 @@ Thank you Anon.
 Perfect. We need this for inexpensive-to-build-and-to-operate robowaifus!
 
 # 110
->>15289
-Shelving this project for now to work on more important things but I've had success with using the reward model for modeling image ratings. If anyone wants to pick it up in the meantime I've made my code for the reward model available here: https://gitlab.com/robowaifudev/human-feedback
-
-There's a simple PPO implementation here: https://github.com/nikhilbarhate99/PPO-PyTorch
-And OpenAI explained their reward model implementation for GPT-3 here on page 8: https://arxiv.org/pdf/2203.02155.pdf
-We should be able to use albert-base-v2 (only 11M parameters) and just attach the reward model straight onto its pooled output, keeping in mind its max context length is 512 tokens whereas GPT-2's is 1024: https://huggingface.co/albert-base-v2
-All we need for it is a dataset. Then finetune GPT-2 with the trained reward model.
-
-And if anyone wants to help with creating the dataset I'll see to finishing the dataset software as soon as I can so we can work on the dataset for a few months in the meantime. It's also possible to use Write with Transformer or Eleuther.ai's 6B to generate at least two responses and sort them to preference. Ideally the context and response pairs should be around 512 tokens/words together but it's okay if the context is short or too long. It's just less efficient to train. If you're creative you can also make up your own responses.
-https://transformer.huggingface.co/doc/gpt2-large
-https://6b.eleuther.ai
-
+>>15289
+
+Shelving this project for now to work on more important things but I've had success with using the reward model for modeling image ratings. If anyone wants to pick it up in the meantime I've made my code for the reward model available here: https://gitlab.com/robowaifudev/human-feedback
+
+
+
+There's a simple PPO implementation here: https://github.com/nikhilbarhate99/PPO-PyTorch
+
+And OpenAI explained their reward model implementation for GPT-3 here on page 8: https://arxiv.org/pdf/2203.02155.pdf
+
+We should be able to use albert-base-v2 (only 11M parameters) and just attach the reward model straight onto its pooled output, keeping in mind its max context length is 512 tokens whereas GPT-2's is 1024: https://huggingface.co/albert-base-v2
+
+All we need for it is a dataset. Then finetune GPT-2 with the trained reward model.
+
+
+
+And if anyone wants to help with creating the dataset I'll see to finishing the dataset software as soon as I can so we can work on the dataset for a few months in the meantime. It's also possible to use Write with Transformer or Eleuther.ai's 6B to generate at least two responses and sort them to preference. Ideally the context and response pairs should be around 512 tokens/words together but it's okay if the context is short or too long. It's just less efficient to train. If you're creative you can also make up your own responses.
+
+https://transformer.huggingface.co/doc/gpt2-large
+
+https://6b.eleuther.ai
+
+
+
 I imagine the reward model could also be used to train the memory controller and for doing many other things like a Monte Carlo tree search to ponder the best response possible. A lot of cool ideas to explore if we ever reach there, along with being able to respond to images and using prefix tuning to tune waifu personality.
 
 # 111
@@ -769,13 +909,20 @@ I imagine the reward model could also be used to train the memory controller and
 Is it possible for someone with low bandwidth to help out with the task? I'd like to help you out with it if so Anon.
 
 # 112
->>15795
-Thanks for wanting to help. Using Write with Transformer would be the easiest method but you have to do it a bit differently. The dataset software requires running the language model locally to generate samples and it's 700 MB.
-
-My method is to have a conversation with GPT-2, generating 2-5 responses, then respond to the best one and go to the next entry, but this might be too much of a hassle to do without the software. However, teaching models how to start a conversation is really important too. Models that haven't been finetuned get really confused on small prompts and just spit out random nonsense from pretraining.
-
-Always start new prompts at the top of the document since GPT-2 only reads past tokens, and always press Tab directly after a colon, not a colon and a space because that can lead to undefined behaviour due to the way GPT-2 tokenizes text and not seeing such token sequences in its training data before. You can use any symbol to indicate the responses after a prompt. I find = easiest to use. The only thing that's important is their order, from best to worst. And feel free to deviate from the chat log format. You can add whatever you would prefer the model to do, such as text adventures, storytelling, making LaTeX equations, etc. Multi-line responses are fine too since I will be adding end of response tokens to support them.
-
+>>15795
+
+Thanks for wanting to help. Using Write with Transformer would be the easiest method but you have to do it a bit differently. The dataset software requires running the language model locally to generate samples and it's 700 MB.
+
+
+
+My method is to have a conversation with GPT-2, generating 2-5 responses, then respond to the best one and go to the next entry, but this might be too much of a hassle to do without the software. However, teaching models how to start a conversation is really important too. Models that haven't been finetuned get really confused on small prompts and just spit out random nonsense from pretraining.
+
+
+
+Always start new prompts at the top of the document since GPT-2 only reads past tokens, and always press Tab directly after a colon, not a colon and a space because that can lead to undefined behaviour due to the way GPT-2 tokenizes text and not seeing such token sequences in its training data before. You can use any symbol to indicate the responses after a prompt. I find = easiest to use. The only thing that's important is their order, from best to worst. And feel free to deviate from the chat log format. You can add whatever you would prefer the model to do, such as text adventures, storytelling, making LaTeX equations, etc. Multi-line responses are fine too since I will be adding end of response tokens to support them.
+
+
+
 Datasets from different anons can be weighted so that people can finetune models to their specific preferences and still benefit from having a large sum of data to train on. People will be able to finetune models for others too if necessary since it only takes a few hours.
 
 # 113
@@ -788,7 +935,8 @@ https://transformer.huggingface.co/
 OK that's fine, 700MB I can handle. It would take me a few days to download, but some like 10's of GB is way too much. Please let me know in baby-steps what to do to help, and I'll try to dedicate several hours each week when I'm working.
 
 # 114
->>15815
+>>15815
+
 Yeah that's it. I just realized though you probably need to download PyTorch which is around 4 GB. I could rig up a quick and dirty C++ implementation but it would take me a week or two at least. Libtorch is 300 MB CPU-only or 1.2 GB with CUDA.
 
 # 115
@@ -796,7 +944,8 @@ Yeah that's it. I just realized though you probably need to download PyTorch whi
 I guess the quick and dirty CPU then?
 
 # 116
->>15817
+>>15817
+
 Sure, working on it now. I've been meaning to do it anyway to run language models on my Raspberry Pi. I'll post back in a week with an update.
 
 # 117
@@ -804,16 +953,23 @@ Sure, working on it now. I've been meaning to do it anyway to run language model
 Good, I look forward to helping you Anon.
 
 # 118
->>11924
->gpt2tc
-Seems like a good utility, potentially lowering some of the hardware requirements for a successful model.
+>>11924
+
+>gpt2tc
+
+Seems like a good utility, potentially lowering some of the hardware requirements for a successful model.
+
 However, its underlying tensor library (LibNC) has its source withheld by the author. This might be a complication, depending on what strings he decides to attach to its release.
 
 # 119
->>15837
-I'm pretty rusty and wasted a lot of time this week trying to figure out a confusing bug that turned out to be a stack buffer overflow, but I hunted it down and got it fixed. I have half of GPT-2's tokenizer done, a basic tensor library, did some of the simpler model layers and have all the basic functions I need now to complete the rest. I'm hoping it'll be done by Friday.
-
->>15838
+>>15837
+
+I'm pretty rusty and wasted a lot of time this week trying to figure out a confusing bug that turned out to be a stack buffer overflow, but I hunted it down and got it fixed. I have half of GPT-2's tokenizer done, a basic tensor library, did some of the simpler model layers and have all the basic functions I need now to complete the rest. I'm hoping it'll be done by Friday.
+
+
+
+>>15838
+
 Yeah that's a real bummer. It doesn't include a license either. Implementing GPT-2 from scratch has been a fun learning experience though. I'm looking forward to implementing other models so they can be run on an SBC or inside a game with minimal requirements.
 
 # 120
@@ -825,8 +981,10 @@ That sounds awesome, actually.
 I look forward to it. Anything else I could be downloading in the meantime?
 
 # 121
->>15912
-Good idea, I hadn't even made a model file format for it yet. The model is ready for download now (640 MB): https://mega.nz/file/ymhWxCLA#rAQCRy1ouJZSsMBEPbFTq9AJOIrmJtm45nQfUZMIh5g
+>>15912
+
+Good idea, I hadn't even made a model file format for it yet. The model is ready for download now (640 MB): https://mega.nz/file/ymhWxCLA#rAQCRy1ouJZSsMBEPbFTq9AJOIrmJtm45nQfUZMIh5g
+
 Might take a few mins to decompress since I compressed the hell out of it with xz.
 
 # 122
@@ -834,9 +992,12 @@ Might take a few mins to decompress since I compressed the hell out of it with x
 I have it, thanks.
 
 # 123
->>15989
-I got pretty burnt out from memory debugging and took a break from this but I'm gonna take another run at it this week.
-
+>>15989
+
+I got pretty burnt out from memory debugging and took a break from this but I'm gonna take another run at it this week.
+
+
+
 I made some advances in the meantime with training the full context size of GPT-2 medium on a 6 GB GPU by using a new optimizer and have most of the human feedback training code implemented in the new training method. So I'm revved up again to get this working.
 
 # 124

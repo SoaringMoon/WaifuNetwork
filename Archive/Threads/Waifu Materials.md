@@ -51,13 +51,20 @@ https://biofabforum.org/t/method-of-making-mycelium-leather/218
 It could potentially be made into a fabric or foam like substance as well.  If we play around with it maybe we could replace the need for silicon.  This stuff has antimicrobial properties and it is waterproof.
 
 # 7
-The properties of our waifu will depend on the species of fungus used.  Here are the ones being used in industry right now.
-Trametes ochracea
-Schizophyllum commune
-Ganoderma lucidum
-pleurotus ostreatus
-Irpex lacteus
-Ganoderma oregonense
+The properties of our waifu will depend on the species of fungus used.  Here are the ones being used in industry right now.
+
+Trametes ochracea
+
+Schizophyllum commune
+
+Ganoderma lucidum
+
+pleurotus ostreatus
+
+Irpex lacteus
+
+Ganoderma oregonense
+
 Piptoporus betulinus
 
 # 8
@@ -66,7 +73,8 @@ Piptoporus betulinus
 Just the the kind of info we need, thanks.
 
 # 9
->>3066
+>>3066
+
 Oh did I mention how easy it is to repair?  Just take a live piece of mycelium and it will grow to the rest of the body.  Heat up the area and kill it then you are good to go.
 
 # 10
@@ -74,7 +82,8 @@ Oh did I mention how easy it is to repair?  Just take a live piece of mycelium a
 That sounds remarkable, Anon. In engineering there are '''always''' trade-offs. Can you spell them out for us concerning this material, as you see it for the moment?
 
 # 11
->>3071
+>>3071
+
 Maintaining a store of living material that needs to be fed and watered and so on sounds like it'd be pretty significant.
 
 # 12
@@ -107,7 +116,8 @@ I can't speak to that from experience **can ''anyone'' yet?** but I admit I basi
 It's good stuff Anon, much appreciated.
 
 # 17
->>3112
+>>3112
+
 I was thinking about the nervous system and how you could make something that can detect cold, heat, pain and pressure. A 3-d printer capable of printing something on the same scale as the smallest nerves is at least $2000. I found an article on artifical nerves that resemble circuits, but to produce them they needed a spin-coater among other things. A lower budget one is around $400 dollars and who knows if it's good enough for that. The human body doesn't need large pieces of machinery to make its tiny parts and fit them together. What's your time-frame? 20 years sounds pretty good to me.
 
 # 18
@@ -124,11 +134,13 @@ After the mycelium is done drying you rub a little bit of wood tar (preferably p
 thanks anon, that sounds like a good idea. any recommendations where to pick up the wood tar?
 
 # 21
->>3118
+>>3118
+
 You can make it yourself through the destructive distillation of wood or you can buy it at a farm supply/feed store.  Some hardware stores carry it too.
 
 # 22
->>3071
+>>3071
+
 Oh another draw back I forgot to mention is that it takes about 1 and 1/2 to 4 weeks to grow depending on the species of mushroom and nutrient used.
 
 # 23
@@ -160,7 +172,7 @@ Any ideas?
 # 26
 >>4224
 >I'm partial to endoskeletons as I find exoskeletons to be somewhat unnatural and not human enough for my tastes, but to each their own.
-<not loving toasters smh fam
+< not loving toasters smh fam
 /clang/ would like a word with you.
 
 >If we are basing the general frame of the robot on the human skeletal system, the entire skeleton would still cost about $80-100 which is somewhat high, but not prohibitively high.
@@ -275,15 +287,21 @@ Neat. I'm actually a much better sculptor than I am a 3D modeler. I'd like to fi
 Thanks for the tip Anon!
 
 # 41
->>4224
-I'm very skeptical about the mycelium, it just sounds like another unproven idea that gets hyped because it seems like it would be good for the environment.
-I've grown oyster mushrooms before (pleurotus ostreatus) and while a sawdust block can maintain its shape when fully colonized it breaks apart very easily. I didn't try cooking it like in the video, but I can't imagine it making much of a difference.
-
->>5154
+>>4224
+
+I'm very skeptical about the mycelium, it just sounds like another unproven idea that gets hyped because it seems like it would be good for the environment.
+
+I've grown oyster mushrooms before (pleurotus ostreatus) and while a sawdust block can maintain its shape when fully colonized it breaks apart very easily. I didn't try cooking it like in the video, but I can't imagine it making much of a difference.
+
+
+
+>>5154
+
 this one is very interesting, maybe it can be used to make cheap and easy to mend skin by coating some elastic fabric like lycra with it
 
 # 42
->>154
+>>154
+
 Ever look closely at cosplay EVA foamcraft? Easy to work, tough, lite weight, flexible and can be coated and sealed in many types of "skin". Better for the robo than the waifu depending on personal preference. Bet a life sized Jenny could be built like foam armor with lots of space inside for robo-gubbins.
 
 # 43
@@ -293,10 +311,14 @@ That's not a bad idea Anon. I've been toying around with different ideas to skin
 Have any particular brand/source recommendations? Less expensive is better tbh.
 
 # 44
->>6507
-No expert advise but I am soon able to network with a cosplay designer for a brain picking. I'm just an armchair casual for now but I am keeping my eyes and ears open.
-
-Take soft sculpture for example. Picrelated is made from nylons, fluff and wire. Mind you it's only painted nylon and quite porous. However I have been experimenting with coating cloth in TPE rubber skin by thinning it out with xylene and painting it on (in a very ventilated area with mask). Heat gun can smooth and blend layers later. Turns out you don't need molds necessarily to work rubber skin. Hot sculpting and wet sculpting takes patience but is doable. This technique works best in modular sections at least until I have a full body paint booth. 
+>>6507
+
+No expert advise but I am soon able to network with a cosplay designer for a brain picking. I'm just an armchair casual for now but I am keeping my eyes and ears open.
+
+
+
+Take soft sculpture for example. Picrelated is made from nylons, fluff and wire. Mind you it's only painted nylon and quite porous. However I have been experimenting with coating cloth in TPE rubber skin by thinning it out with xylene and painting it on (in a very ventilated area with mask). Heat gun can smooth and blend layers later. Turns out you don't need molds necessarily to work rubber skin. Hot sculpting and wet sculpting takes patience but is doable. This technique works best in modular sections at least until I have a full body paint booth. 
+
 Tempted to do full skin in separate patches of different skin tones like the super soldier skin from Sea Quest.
 
 # 45
@@ -306,7 +328,8 @@ Thanks for the advice. I certainly would be cheaper for one-off work to just do 
 Pretty nice work so far, definitely a good-looking form. Keep it up Anon.
 
 # 46
->>6513
+>>6513
+
 God I wish that was my work. That's a Lichtenfeis doll. She is a retired Henson puppet maker. Considered the master and inventor of the art form. My experiments so far belong in jars whispering "please...kill...me" for now but proves to me it can work. LOL
 
 # 47
@@ -316,9 +339,12 @@ Oh, haha my mistake. Still, I think /robowaifu/ eventually will be producing thi
 Thanks for all the hard work Anon, we'll all get there!
 
 # 48
->>6579
-Seconded! The valley is all about casting an illusion based on expectations. Something looks picture perfect and has one flaw it you will be subconsciously repulsed. My opinion isn't to reproduce people but to create a personal accessory companion/assistant. Domestic robotics are coming. I like this community. It is focusing on a specific style ascetic that I appreciate more than a self propelled trashcan (*cough roomba or R2D2 style).
-
+>>6579
+
+Seconded! The valley is all about casting an illusion based on expectations. Something looks picture perfect and has one flaw it you will be subconsciously repulsed. My opinion isn't to reproduce people but to create a personal accessory companion/assistant. Domestic robotics are coming. I like this community. It is focusing on a specific style ascetic that I appreciate more than a self propelled trashcan (*cough roomba or R2D2 style).
+
+
+
 An electric Geisha can serve many roles from hat rack or teddy bear to tele-presence interface or friendly home automation front end. Frankly these roles would be weird going through a lifelike reproduction as apposed to a proper robowaifu style. I might be in the minority dreaming of waifu as device and not people. But I think devices are getting complicated enough to require rights soon. Just because the critter is built don't mean you don't need to be kind to it. After all, we're all stardust, man and bot. Devices that inspired empathy could be good for humanity.
 
 # 49
@@ -335,9 +361,12 @@ Thanks, but a term or name for the method for searching on Youtube or for papers
 Holy F... that's a doll? I didn't expand the picture bc the text was about the cloths. I thought this was a human model. But yeah, the the typical crap fingers give it away, and after expanding the pic, the face also tells me "not human" and also not so great anymore.
 
 # 50
->>6785
-The term is "soft sculpture" the name of the artist is " Lisa Lichtenfeis". Forgive me if I didn't communicate clearly. The idea is to blend techniques, soft sculpting over a robotic frame then painting/ hot sculpting the skin on top. Casting a whole body at once is so crude and mass produced. We are artisans.
-
+>>6785
+
+The term is "soft sculpture" the name of the artist is " Lisa Lichtenfeis". Forgive me if I didn't communicate clearly. The idea is to blend techniques, soft sculpting over a robotic frame then painting/ hot sculpting the skin on top. Casting a whole body at once is so crude and mass produced. We are artisans.
+
+
+
 When it comes to the "TPE" that is a good question. In all the doll forums it's always "TPE vs silicone" then they wax poetic about platinum cured etc silicones and TPE is just generalized lump. So sex doll "TPE" that is an oil based synthetic flesh matrix that can be thermal molded or chemically dissolved, painted wet, hot molded warm and cast molten. IE: been butchering 20 lbs of ass in the name of science for a while.
 
 # 51
@@ -345,10 +374,14 @@ When it comes to the "TPE" that is a good question. In all the doll forums it's 
 Yeah, thanks I will look into her work. Obviously this is much closer to what we need to do than casting a whole doll body. My thinking for a while now is that there will be something like a upper skin layer out of Spandex/Powermesh or other textile, then putting thin silicone onto it, so it soaks in or run down. Haven't tried that though, it's just a idea so far. I also bought some very thin silicone sheet which is pressed in a machine.
 
 # 52
->>6883
-I have done exactly what you are thinking about. Skinning cloth. It works! But I use the mentioned "sex doll TPE" not silicone. Unlike silicone it can be reworked and salvaged from premade sources making it a much more versatile and cheap option. Using TPE lets you skin chunks of cloth, stitch them together and melt and blend the seams together. You can also paint as much as your work area allows like a full body. You can use it as a glue so you can combine parts into complex shapes (like eye lids or lady bits).
-I'm working on techniques by first sewing, then painting with xylene thinned rubber. Then once cured, using a heat gun to rework the skin using patterned rollers and sponges for skin textures
-.
+>>6883
+
+I have done exactly what you are thinking about. Skinning cloth. It works! But I use the mentioned "sex doll TPE" not silicone. Unlike silicone it can be reworked and salvaged from premade sources making it a much more versatile and cheap option. Using TPE lets you skin chunks of cloth, stitch them together and melt and blend the seams together. You can also paint as much as your work area allows like a full body. You can use it as a glue so you can combine parts into complex shapes (like eye lids or lady bits).
+
+I'm working on techniques by first sewing, then painting with xylene thinned rubber. Then once cured, using a heat gun to rework the skin using patterned rollers and sponges for skin textures
+
+.
+
 This style will work fantastic for modular body styles. Allowing a creator to make smaller individual parts that can be upgraded or swapped later. Using the cosplay foamcraft as a shape holding scaffolding for a soft sculpt-able layer that can then be skinned makes a cheap and easy way to make some (moving part accommodating) curves!
 
 # 53
@@ -356,10 +389,14 @@ This style will work fantastic for modular body styles. Allowing a creator to ma
 What about the toxic fumes? TPE from dolls is toxic when heated...
 
 # 54
->>6892
-If you heat it too fast the oil will vaporize. Go slow, wear the same mask you would for epoxy. Don't put your face in oil smoke. I have a specific painting room with two fans (soon a proper hood and airbrush set up). It's the xylene fumes that require more care.
-It can make smoke with heat, it's not good for you but it's not a chemical plume. Just smokes like fake bacon a bit. Still wear a mask with filters.
-
+>>6892
+
+If you heat it too fast the oil will vaporize. Go slow, wear the same mask you would for epoxy. Don't put your face in oil smoke. I have a specific painting room with two fans (soon a proper hood and airbrush set up). It's the xylene fumes that require more care.
+
+It can make smoke with heat, it's not good for you but it's not a chemical plume. Just smokes like fake bacon a bit. Still wear a mask with filters.
+
+
+
 You will need the same kind of set up for silicone too. None of this is play dough.
 
 # 55
@@ -368,9 +405,12 @@ You will need the same kind of set up for silicone too. None of this is play dou
 Thanks for the warning. Anons should take care with safety during manufacture ofc.
 
 # 56
-https://hackaday.com/2020/11/19/circuit-boards-you-can-stretch-liquid-metal-nanomaterials-make-a-strange-flex/
-
-https://en.wikipedia.org/wiki/Gallium
+https://hackaday.com/2020/11/19/circuit-boards-you-can-stretch-liquid-metal-nanomaterials-make-a-strange-flex/
+
+
+
+https://en.wikipedia.org/wiki/Gallium
+
 https://en.wikipedia.org/wiki/Indium
 
 # 57
@@ -574,9 +614,12 @@ The other thing is, robowaifus are for poor to wealthy guys. Broad spectrum. If 
 Endocrine-disrupting microplastics are found everywhere now. Literally in snow in mountaintops and inside amniotic fluid. It's nearly inescapable. Your robowaifu's hair is an incredibly insignificant role. Fixing the problem requires replacing plastic on a giant scale, not just finding small, specialized substitutes that won't matter in a grand scheme.
 
 # 94
->>13907
->in snow in mountaintops
-typical envirotard warmist propaganda
+>>13907
+
+>in snow in mountaintops
+
+typical envirotard warmist propaganda
+
 its physically impossible to carry solids in evaporated liquids, theres 0 chance snow has any microplastics
 
 # 95
@@ -596,9 +639,12 @@ My point was that little things like alternative materials for wigs are like try
 This is just really annoying for me, because I was thinking a lot about how to make a plastic-free alternative for food packaging from food-safe ingredients, and had a plan to do so. The idea is to make something cheaper and lighter than plastic and open-source, to curb plastic use at an industrial scale, not just a few niche applications that relying on hoping some people might adopt. Then I lost my job, so I can't really afford to experiment until I get a new one, because it's a big money-sink. The biggest would be getting a Yeast Estrogen Screening to see if any of the ingredients are estrogenic individually or when combined. It only recently occurred to me that I could post all about it here, but didn't want to make a thread until I actually started testing. (And I need to figure out how to use Open Office spreadsheets to help with the trial-and-error.)
 
 # 98
-It is possible if the plastics are essentially atomized not literal atoms (because obviously a plastic is composed of chains of atoms, called polymers), but the term "atomized" meaning
->convert (a substance) into very fine particles or droplets. "the CO2 depressurized, atomizing the paint into a mist of even-size particles"
-
+It is possible if the plastics are essentially atomized not literal atoms (because obviously a plastic is composed of chains of atoms, called polymers), but the term "atomized" meaning
+
+>convert (a substance) into very fine particles or droplets. "the CO2 depressurized, atomizing the paint into a mist of even-size particles"
+
+
+
 It is quite possible these are carried everywhere peppering the entire planet. Its not the end of the world, depending on the amount of cumulative consumption necessary to cause significant endocrine disruption. But it's worth noting.
 
 # 99
@@ -627,15 +673,18 @@ That sounds really interesting Anon. I assume the baking soda has some kind of f
 Yes, it is activated at the boiling point of water. Normal solid silicone castings are firm and rubbery, not at all what someone would want in a synth-butt or even synth-skin. Casting it solid isn't even perfect for sex toys that are best made with a firm shell and much softer core. Variable stiffness silicone would be right to make soft parts, and the stiffness can be tuned via adding more or less baking soda, in theory. Anyone can obtain silicone and baking soda.
 
 # 104
->>15225
+>>15225
+
 To add to this, silicone cured with a powder has lowered density, has a matte finish, releases easily, and cures significantly faster. It does lose much of its ability to stretch and some durability is lost.https://www.solidsmack.com/fabrication/oogoo-make-your-very-own-diy-sugru-substitute-with-silicone-and-corn-starch/
 
 # 105
->>154
+>>154
+
 I think that the only real way we can build our robowaifus is with a 3d printer so we should look into the best 3d printable materials for the task. PLA seemed like a sure bet due to how easy it is to print and also how cheap the material is.
 
 # 106
->>15278
+>>15278
+
 For one offs yes, 3D printing is the only truly viable method. PLA is a great material but suffers from a low glass transition temperature. What this means is that if left out in a hot car or in the sun, parts of her can become soft and deform. Some PLA+ filaments don't suffer from this and PETG is about the same cost though, they are harder to print. PETG is currently my recommended filament if you're willing to take the time to set it up correctly.
 
 # 107
@@ -647,7 +696,8 @@ Thanks for the information Anon!
 Dragon skin or ecoflex with ecoflex gel 2 is recommended for encapsulated devices requiring a very soft silicone material by the ecoflex tech support. Going to say that ecoflex 00-20 to 00-50 is the best to use as a soft silicone from research, and dragon skin 10 for a much firmer and stronger silicone. Expect the dragon skin and most silicones to whiten a bit from clear when fully cured. Will come back with an answer as to if these are food safe, and I'm guessing yes with the sex toy makers that use these items.
 
 # 109
->>15518
+>>15518
+
 Thanks for the recommondations. Any chance you could make a diy onahole tutorial?
 
 # 110
@@ -710,13 +760,17 @@ Welcome Anon, thanks for stopping by!
 -''minor grammar edit''
 
 # 116
->>15648
->BTW, yuge mammaries would in fact be very heavy. I can warn you in advance that an inordinate amount of mass is an enemy of the diligent engineer
+>>15648
+
+>BTW, yuge mammaries would in fact be very heavy. I can warn you in advance that an inordinate amount of mass is an enemy of the diligent engineer
+
 If they're hard and made out of plastic they can be hollow to save on mass. You can also fit batteries in the robowaifus chest to give her a longer operating time. I don't think we should be that quick to dismiss breasts in order to save weight.
 
 # 117
->>15675
->Hard plastic tiddies filled with battery 
+>>15675
+
+>Hard plastic tiddies filled with battery 
+
 There's several reasons why you really shouldn't do that. But, you're thinking about solutions which are an important part of problem solving. I prefer pettanko myself but, my idea for oppai would be silicone balloons that would act as a safety cushion for her. This way they can remain light while providing fun bags to play with. What do you think?
 
 # 118
@@ -730,7 +784,7 @@ Nice idea. I'm not sure how good a hollow breast would feel, but a good answer t
 # 119
 >>15675
 >I don't think we should be that quick to dismiss breasts in order to save weight.
-<dismiss such delights
+< dismiss such delights
 Lolwut? :^) No, not at all Anon. I'm simply pointing out that mass is a serious issue which we all here have to contend with. Given Anon's post, my understanding was that the proposition was for a solid-silicone casting of the desired ginormous teats. This would be quite heavy is all.
 '''Everybody loves bewbs!'''
 >
@@ -747,13 +801,17 @@ Nprb. I really like the idea of the foamed-silicone 'filling' Anon. Perhaps some
 So what are /robowaifu/'s thoughts on Nylon 12 CF for structural and mechanical components as opposed to say PLA or ABS? N12CF is stronger, more durable, less heat sensitive, and less hygroscopic than PLA or ABS, but allegedly is more difficult to print than either.. Has anyone had experience working with this filament?
 
 # 121
->>15694
+>>15694
+
 I have never been able to get nylon with enhancements to print on anything that wasn't a high end enclosed 3D printer. Nylon also needs to be kept dry, vacuum sealing is highly recommended as it will suck up moisture. This being said, it is one of the toughest and best plastics you can use if you have the proper equipment to print with it. I actually highly recommend it if you can afford it and will be careful. I also recommend using an abrasion resistant nozzle like a ruby because carbon fibers will shred through bronze and many other nozzle materials. Otherwise, PETG is almost as good and can be printed on cheap printers with filament that is less prone to soak up moisture from my experience. Good luck Anon, if you do use CF Nylon, please report your findings and results.
 
 # 122
->>15696
-From some of the tests I have been reading Nylon 12 was superior to previous Nylon filaments in regards to lower moisture absorption with Nylon 12 CF improving upon that by being 20% less hygroscopic than standard Nylon 12. My concerns being the introduction of brittleness that could potentially come with N12CF months or years down the road. The medical industry uses a polymide resin derived from castor oil called Rilsan on CF Nylon implants that I might end up testing as a possible solution to this issue. As for the issue of production I was already aware of the mechanical requirements, and was more interested in the temperament of the filament. How it handles, what the idiosyncrasies are, the types of quality issues you run into. Basically the kind of stuff you figure out as you experience a new material.
-
+>>15696
+
+From some of the tests I have been reading Nylon 12 was superior to previous Nylon filaments in regards to lower moisture absorption with Nylon 12 CF improving upon that by being 20% less hygroscopic than standard Nylon 12. My concerns being the introduction of brittleness that could potentially come with N12CF months or years down the road. The medical industry uses a polymide resin derived from castor oil called Rilsan on CF Nylon implants that I might end up testing as a possible solution to this issue. As for the issue of production I was already aware of the mechanical requirements, and was more interested in the temperament of the filament. How it handles, what the idiosyncrasies are, the types of quality issues you run into. Basically the kind of stuff you figure out as you experience a new material.
+
+
+
 Technically it looks like the ideal solution with the material's weight, hardness, and strength to weight ratios striking a perfect balance for something like a skeletal frame. I guess I will just have to test it out and see what I can do. It may take a while to complete my testing as I am busy upgrading my whole set up at the moment, but I will report back on my findings whenever that may be.
 
 # 123
@@ -795,9 +853,12 @@ Especially once we reach the 'garage factory' stage, we'll __all__ be needing/lo
 Also, thanks for the files Anon.
 
 # 125
->>15705
-The image came from some filament company's tests on their own filament. For the life of me I can't remember which company but that was their results. If I find the page again I will link it.
-
+>>15705
+
+The image came from some filament company's tests on their own filament. For the life of me I can't remember which company but that was their results. If I find the page again I will link it.
+
+
+
 I have stuff coming in next week, but I just realized that I might need to upgrade from thermistors to thermocouplers if I plan on working in the 300C range.
 
 # 126
@@ -810,14 +871,19 @@ Let's keep the 3d printing questions to the 3d printing resources thread:
 >>94
 
 # 127
->>15716
+>>15716
+
 But it wasn't a question. I was responding with a statement regarding the source of the image relevant to the discussion of materials. I then included a statement about a delay which could impact the testing of said materials.
 
 # 128
->>15708
-
->we'll all be needing/looking for ways to keep costs down.
-
+>>15708
+
+
+
+>we'll all be needing/looking for ways to keep costs down.
+
+
+
 Who is "we"?
 
 # 129
@@ -826,34 +892,62 @@ Who is "we"?
 Ahh, got it! So, I wonder if something like a kitchen blender would work well?
 
 # 130
->>15742
-That would work to mix it, but it would splatter liquid silicone everywhere and may cure inside of the machine. Maybe a paint stirrer and drill would be more appropriate. 
-
-The initial testing of the silicone is done, and here is what I've found:
->Dragonskin 20
-Stiff and hard silicone, useful for making molds or firm bits. Dry to the touch.
->Ecoflex 30
-Floppy like a wet noodle. Very elastic, just a bit tacky to the touch with resistance to squish. Good for making capsule outside layers. 
->1:1:1 Deadened Ecoflex 30
-A soft, squishy gel with slow spring-back. Cures to be absolutely nasty shit that you do not want to get on yourself because it will stick to your hands really well. You need to put this inside of a harder silicone to make the part.
->Conclusions
-The Ecoflex and Dragonskin are both incredibly strong, even on the thin layer of what was on the cup when mixed. Everything cures on everything (tested superglue, ASA, paper, wood) no matter what. Just don't wear latex gloves when you handle the silicones. Letting the silicone cure before doing layers is only important to maintain wall thicknesses of each part. The most promising skin/toy/ect. combination so far seems to be:
->get on gloves
->put on a mask and use ventilation if you are spraying aerosols
->coat every part in silicone release (I use universal mold release) spray
->wait 5 minutes
->spray again
->paint/spread on a thin layer of dragonskin 10 NV (or any non-tacky outer layer material)
->let it set for 15 minutes
->vacuum the bubbles out of each thing you are pouring into the mold before you pour them in
->cast in ecoflex 30 or lower into the mold cavity under a spacer that makes room for the gel
->wait out pot life time
->remove spacer 
->mix deadened Ecoflex at a 0.5-0.75 deadener:1 Part A:1 Part B ratio to give the gel some squish resistance and spring-action (1:1:1 was too "dead")
->pour in ecoflex to the silicone cavity created by the removed spacer
->wait out pot life time
->pour layer of ecoflex on top of the gel capsule to make a flat base of the part
->spread on a thin layer of Dragonskin 10 NV to make it dry (not-tacky) to the touch
+>>15742
+
+That would work to mix it, but it would splatter liquid silicone everywhere and may cure inside of the machine. Maybe a paint stirrer and drill would be more appropriate. 
+
+
+
+The initial testing of the silicone is done, and here is what I've found:
+
+>Dragonskin 20
+
+Stiff and hard silicone, useful for making molds or firm bits. Dry to the touch.
+
+>Ecoflex 30
+
+Floppy like a wet noodle. Very elastic, just a bit tacky to the touch with resistance to squish. Good for making capsule outside layers. 
+
+>1:1:1 Deadened Ecoflex 30
+
+A soft, squishy gel with slow spring-back. Cures to be absolutely nasty shit that you do not want to get on yourself because it will stick to your hands really well. You need to put this inside of a harder silicone to make the part.
+
+>Conclusions
+
+The Ecoflex and Dragonskin are both incredibly strong, even on the thin layer of what was on the cup when mixed. Everything cures on everything (tested superglue, ASA, paper, wood) no matter what. Just don't wear latex gloves when you handle the silicones. Letting the silicone cure before doing layers is only important to maintain wall thicknesses of each part. The most promising skin/toy/ect. combination so far seems to be:
+
+>get on gloves
+
+>put on a mask and use ventilation if you are spraying aerosols
+
+>coat every part in silicone release (I use universal mold release) spray
+
+>wait 5 minutes
+
+>spray again
+
+>paint/spread on a thin layer of dragonskin 10 NV (or any non-tacky outer layer material)
+
+>let it set for 15 minutes
+
+>vacuum the bubbles out of each thing you are pouring into the mold before you pour them in
+
+>cast in ecoflex 30 or lower into the mold cavity under a spacer that makes room for the gel
+
+>wait out pot life time
+
+>remove spacer 
+
+>mix deadened Ecoflex at a 0.5-0.75 deadener:1 Part A:1 Part B ratio to give the gel some squish resistance and spring-action (1:1:1 was too "dead")
+
+>pour in ecoflex to the silicone cavity created by the removed spacer
+
+>wait out pot life time
+
+>pour layer of ecoflex on top of the gel capsule to make a flat base of the part
+
+>spread on a thin layer of Dragonskin 10 NV to make it dry (not-tacky) to the touch
+
 You could vacuum out the bubbles after you pour into the mold, and that may or may not degrade the mold release layer. The dragonskin outer capsule layer is only needed according to your preference. The dragon skin might slide off if you try to apply it to an uncoated ecoflex part, and vice versa. The end result is you can take a 3d model of your boobie parts, make a mold to cast the part into, and have it come out feeling the desired texture. There's research on human skin having layers of different hardness and thickness depending on where it’s located on the body, so varying the thickness of these three silicones of different hardness can produce exactly what you imagine the feeling to be. The attached file contains a diagram of the skin layers
 
 # 131
@@ -877,6 +971,7 @@ I'd suggest you use the catalog view to look around for topics you're interested
 Cheers! :^)
 
 # 135
->>15809
+>>15809
+
 Engineering tip: When working with a silicone skin, it's best to include holes in the inner body to provide the silicone with surface area to properly mate to the part.
 

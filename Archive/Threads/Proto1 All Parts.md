@@ -1,9 +1,14 @@
 # 1
-Fully printed, it is quite the chonker.
-
-Two heavy duty servos (110kg.cm torque or greater. 12 to 24 volt) in the shoulder.
-Two 60kg.cm servos (DS5160SSG) in the bicep
-Five 20kg.cm servos (PDI-6221MG) to move the forearm and fingers.
+Fully printed, it is quite the chonker.
+
+
+
+Two heavy duty servos (110kg.cm torque or greater. 12 to 24 volt) in the shoulder.
+
+Two 60kg.cm servos (DS5160SSG) in the bicep
+
+Five 20kg.cm servos (PDI-6221MG) to move the forearm and fingers.
+
 One micro-servo in the palm to drive the thumb.
 
 # 2
@@ -54,8 +59,10 @@ Correction, sorry. I have finished DESIGNING the Protolite v1. Now I just have t
 That's very good news to hear, thanks Anon! We hope the printing and other fabrication steps go very smoothly for you. Please keep us updated.
 
 # 11
-I have considered getting a CNC machine for a while now which would really open a lot of doors for me in designing and fabricating parts out of stronger materials. Upfront cost would be worse (and I'd want something quality) but the durability would be especially helpful especially with things like joints. If I ever get one I'll take pictures of it and cut parts with design advice from anons.
-
+I have considered getting a CNC machine for a while now which would really open a lot of doors for me in designing and fabricating parts out of stronger materials. Upfront cost would be worse (and I'd want something quality) but the durability would be especially helpful especially with things like joints. If I ever get one I'll take pictures of it and cut parts with design advice from anons.
+
+
+
 Good luck on your work anon, hoping to see more news drop from you, it's inspiring.
 
 # 12
@@ -71,7 +78,8 @@ However, this would most likely the better route compared to using a CNC machine
 Well done, progress much appreciated.
 
 # 14
->>6495
+>>6495
+
 Nylon is not much more expensive than PLA, but when I said nylon-based I meant the ones that mix in other materials like carbon fiber for strength. Just checked price on one website and the material is about twice the price of PLA. I'm not sure how it would hold up against metal for smaller parts that need high durability but it's worth a try. I have heavily considered getting a CNC machine so if I actually owned one, I personally can't see not using it. Obviously it wouldn't be used for everything, but I can see a lot of value in metal joints. %%Not trying to break my waifu's legs during sex after all.%%
 
 # 15
@@ -92,9 +100,12 @@ I wonder if some kind of sheet aluminum (spun aluminum is best) might be a bette
 Interesting. Thanks, anon! I may just leave vent holes over any servo areas that get especially hot...as long as the arm structure remains strong enough not to snap. Plus this has the added benefit of reducing weight and material use even further. We'll see...
 
 # 18
->>6500
-Considering CNC is also used heavily for making wood parts I was wondering if there would be any use for wood as a material in building.
->>6501
+>>6500
+
+Considering CNC is also used heavily for making wood parts I was wondering if there would be any use for wood as a material in building.
+
+>>6501
+
 Copper would conduct heat better. This would also be interesting for discussion about using the heat generated from batteries, processors, any and all electronics in order to warm the robowaifu up. %%After all you'd especially want the pussy to be warm, so conserving at least some of this heat and reusing it would be smart%%
 
 # 19

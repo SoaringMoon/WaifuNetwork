@@ -12,15 +12,21 @@ What level of robot would you clang robowaifuists? (Thread for providing referen
 ==Does anyone know where /clang/ went?==
 
 # 5
->>441
-No idea. I haven't been able to find their bunker. I never browsed /clang/ but if I could share it with other anons I would. Sadly, I haven't found anything related to them after 8chan went down. It's unfortunate because /just/ is dead too.
-
-
+>>441
+
+No idea. I haven't been able to find their bunker. I never browsed /clang/ but if I could share it with other anons I would. Sadly, I haven't found anything related to them after 8chan went down. It's unfortunate because /just/ is dead too.
+
+
+
+
+
 %% Don't give up hope anon. I'm certain they'll appear somewhere on the Webring. To give you an idea, I thought /robowaifu/ was dead but here we are. %%
 
 # 6
->>443
->It's unfortunate because /just/ is dead too.
+>>443
+
+>It's unfortunate because /just/ is dead too.
+
 Excuse me, I meant /just/ is MIA not that they are dead. Saying that would be a little hypocritical.
 
 # 7
@@ -32,10 +38,14 @@ OK thanks for the info anon.
 Did you JUST their shit up?
 
 # 8
->>445
->>445
-Maybe a little bit. If you happen to uncover anything related to /clang/ I'd like to hear about it.
-
+>>445
+
+>>445
+
+Maybe a little bit. If you happen to uncover anything related to /clang/ I'd like to hear about it.
+
+
+
 Did anyone have comms with any management staff at /clang/? Did the BO have a name? I know they were allied with /monster/, /robowaifu/, and I think even with /cuckquean/. Someone has to have contact with them.
 
 # 9
@@ -44,8 +54,10 @@ Did anyone have comms with any management staff at /clang/? Did the BO have a na
 I'll link it in the welcome pasta. I have no direct contact with them, but a couple of our guys were denizens.
 
 # 10
->>448
-Thanks. In times as dark as these, we need all the allies we can get. 
+>>448
+
+Thanks. In times as dark as these, we need all the allies we can get. 
+
 Sage for off topic.
 
 # 11

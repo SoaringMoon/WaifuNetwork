@@ -76,19 +76,32 @@ Creating modular and interchangeable designs is a great idea. I'm thinking we sh
 I think we will all likely look back on this post and this design phase of your robowaifu career as epochal Anon. Godspeed.
 
 # 18
->>14855
->*Random anon wanders by*
-If this is of interest to you look at the engineering of '''snap fittings''', which is what such "clips" are called.
-
-There's a lot more to it. For example, your snap fit uses a return angle of 90 deg, which locks the snap fit. Using a larger return angle makes it possible to pull out the snap fit (i.e. you can tailor the amount of force needed).
-The material, and fabrication method (e.g. FDM as in your example, or injection molded) all make significant differences to the design and how it functions.
-
-Useful resources:
-2 books attached +
-https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/
-
-You may also be interested in things like "living hinges" and "compliant mechanisms" in the future. 
-Best wishes
+>>14855
+
+>*Random anon wanders by*
+
+If this is of interest to you look at the engineering of '''snap fittings''', which is what such "clips" are called.
+
+
+
+There's a lot more to it. For example, your snap fit uses a return angle of 90 deg, which locks the snap fit. Using a larger return angle makes it possible to pull out the snap fit (i.e. you can tailor the amount of force needed).
+
+The material, and fabrication method (e.g. FDM as in your example, or injection molded) all make significant differences to the design and how it functions.
+
+
+
+Useful resources:
+
+2 books attached +
+
+https://www.hubs.com/knowledge-base/how-design-snap-fit-joints-3d-printing/
+
+
+
+You may also be interested in things like "living hinges" and "compliant mechanisms" in the future. 
+
+Best wishes
+
 t. engineer
 
 # 19
@@ -98,23 +111,38 @@ Thanks kindly, Anon. I hope you'll have a look around the board while you're her
 Please stop by again!
 
 # 20
->>15095
->Living hinges
->Hobbyist FDM printing
-Kekw
-
-Thanks for the link, I'm sure it will help the other Anons that are learning. I'm fairly certain compliant mechanisms have been mentioned previously, you may learn a thing or two looking around this board.  We are lacking in Anons with technical knowledge so, feel free to stay.
-
-t. Kiwi :^) 
-
+>>15095
+
+>Living hinges
+
+>Hobbyist FDM printing
+
+Kekw
+
+
+
+Thanks for the link, I'm sure it will help the other Anons that are learning. I'm fairly certain compliant mechanisms have been mentioned previously, you may learn a thing or two looking around this board.  We are lacking in Anons with technical knowledge so, feel free to stay.
+
+
+
+t. Kiwi :^) 
+
+
+
 (Can someone verify if the pdf's are safe?)
 
 # 21
->snap fittings
-
-Oh hey, the concept I've been alluding to for the past month.
-
-
->>15097
+>snap fittings
+
+
+
+Oh hey, the concept I've been alluding to for the past month.
+
+
+
+
+
+>>15097
+
 They are safe kiwi and illustrate some of the various designs that can be used with snap fittings.
 

@@ -95,12 +95,18 @@ Eye patch is beauty
 >>1122
 
 # 18
-I'm not really a fan of this eye mechanism since it doesn't support a camera but it could be redesigned to support one. The eyes look pretty good and the process could be adapted to creating anime doll eyes too.
-
->How to Make Realistic Eyes Using 3D Printing for Animatronic Eye Mechanisms
-https://www.youtube.com/watch?v=RqZRKUbA_p0
-
->How to Build a Simple 3D Printed Arduino Animatronic Eye Mechanism
+I'm not really a fan of this eye mechanism since it doesn't support a camera but it could be redesigned to support one. The eyes look pretty good and the process could be adapted to creating anime doll eyes too.
+
+
+
+>How to Make Realistic Eyes Using 3D Printing for Animatronic Eye Mechanisms
+
+https://www.youtube.com/watch?v=RqZRKUbA_p0
+
+
+
+>How to Build a Simple 3D Printed Arduino Animatronic Eye Mechanism
+
 https://www.youtube.com/watch?v=Ftt9e8xnKE4
 
 # 19
@@ -315,30 +321,51 @@ I presume this is the link of interest here, Anon?
 https://web.archive.org/web/20201028001740/https://docs.opencv.org/master/d3/d05/tutorial_py_table_of_contents_contours.html
 
 # 52
-I just want to summarize my observations so far regarding this topic.  I've been looking at various self-driving robot/rc car projects by students on youtube.  They usually fall into the following:
-
-1. Raspberry Pi + OpenCV.   The video from the camera has to be segmented... i.e. turned into grayscale, edge-detected, and lane markers drawn.  You then just need to draw a line right through the center of the road, that will be the steering vector which you then command the steering servo.  I haven't touched OpenCV yet though, and I might just bypass the raspberry pi entirely since the trend is to use Nvidia Jetson boards now which have their own preinstalled things.
-
-2. Nvidia Jetson (Nano or other boards).  There's the Jetracer:  https://github.com/NVIDIA-AI-IOT/jetracer  which comes with its own precompiled software as a Jetcard image.  (I was able to secure a TT02 chassis for only 90 bucks, it's going to be delivered any day now so i can't wait to start on this.  I find it easier to customize hobby kits as you're building it rather than risk destroying a ready to run with irreversible changes.)
-
-Now does this apply to robowaifus?  Well if she is on wheels at least, the steering vector would be fed into a differential H-bridge DC motor driver.
-
-Now that's just one side of robot vision -- the ability to navigate.  How about FPV?  Though I don't have a drone (I don't want to start a hobby where EVERYTHING comes from China, unlike RC cars at least), I've been looking at various FPV setups.  They usually go like this:
-
-1. 1000TVL type of analog FPV camera + OSD (onscreen display board, usually based on MAX7456) + VTX (video transmitter, usually an Eachine or whatever is compatible with the 5.8Ghz headset).  So yeah, apparently analog is still applicable since it has low latency.  If you want to record video, best practice is to just attach a second HD lens and make sure it is pointing at the same direction as the analog camera, they usually call this hybrid cameras.
-
-2.  Wifi FPV -- I actually tried this with my RC cars, it's blegh... you would have to drive really, really slow for it to be usable, but for slow H-bridge DC motor robots it would be perfect.  The advantage is that if you are viewing through a high spec machine such as a laptop you can have a fancy overlay for your onscreen display (cue the awesome video game style HUDs) and just record your stream directly to your disk.
-
+I just want to summarize my observations so far regarding this topic.  I've been looking at various self-driving robot/rc car projects by students on youtube.  They usually fall into the following:
+
+
+
+1. Raspberry Pi + OpenCV.   The video from the camera has to be segmented... i.e. turned into grayscale, edge-detected, and lane markers drawn.  You then just need to draw a line right through the center of the road, that will be the steering vector which you then command the steering servo.  I haven't touched OpenCV yet though, and I might just bypass the raspberry pi entirely since the trend is to use Nvidia Jetson boards now which have their own preinstalled things.
+
+
+
+2. Nvidia Jetson (Nano or other boards).  There's the Jetracer:  https://github.com/NVIDIA-AI-IOT/jetracer  which comes with its own precompiled software as a Jetcard image.  (I was able to secure a TT02 chassis for only 90 bucks, it's going to be delivered any day now so i can't wait to start on this.  I find it easier to customize hobby kits as you're building it rather than risk destroying a ready to run with irreversible changes.)
+
+
+
+Now does this apply to robowaifus?  Well if she is on wheels at least, the steering vector would be fed into a differential H-bridge DC motor driver.
+
+
+
+Now that's just one side of robot vision -- the ability to navigate.  How about FPV?  Though I don't have a drone (I don't want to start a hobby where EVERYTHING comes from China, unlike RC cars at least), I've been looking at various FPV setups.  They usually go like this:
+
+
+
+1. 1000TVL type of analog FPV camera + OSD (onscreen display board, usually based on MAX7456) + VTX (video transmitter, usually an Eachine or whatever is compatible with the 5.8Ghz headset).  So yeah, apparently analog is still applicable since it has low latency.  If you want to record video, best practice is to just attach a second HD lens and make sure it is pointing at the same direction as the analog camera, they usually call this hybrid cameras.
+
+
+
+2.  Wifi FPV -- I actually tried this with my RC cars, it's blegh... you would have to drive really, really slow for it to be usable, but for slow H-bridge DC motor robots it would be perfect.  The advantage is that if you are viewing through a high spec machine such as a laptop you can have a fancy overlay for your onscreen display (cue the awesome video game style HUDs) and just record your stream directly to your disk.
+
+
+
 So first I have to actually make one of those self driving robots, then I can prove if its practical to just use the camera input (usually a raspberry pi class of camera), Y-split that into an FPV feed and a navigation feed.  The navigation feed will be turned into grayscale or color segmented blocks and lines, while the FPV feed will be wi-fied to the client machine which will handle most of the OSD processing.
 
 # 53
-Oh by the way, a few weeks back I was looking at the cheapest way to get into camera robots.  Apparently an ESP32 has just barely enough capability to capture and stream images, previously they paired discrete ESP32s with OV-series basic cameras, until they decided to directly sell combos such as this ESP32-cam.  It is too slow to be used for RC-speed vehicles, but for slow indoor robots such as this:
-
-https://github.com/gitnabeshin/ESP32CamRobot
-
-it is fine.
-
-I'm posting this since it's what go my feet wet with non-AI computer vision and control, so now I have enough confidence to actually try
+Oh by the way, a few weeks back I was looking at the cheapest way to get into camera robots.  Apparently an ESP32 has just barely enough capability to capture and stream images, previously they paired discrete ESP32s with OV-series basic cameras, until they decided to directly sell combos such as this ESP32-cam.  It is too slow to be used for RC-speed vehicles, but for slow indoor robots such as this:
+
+
+
+https://github.com/gitnabeshin/ESP32CamRobot
+
+
+
+it is fine.
+
+
+
+I'm posting this since it's what go my feet wet with non-AI computer vision and control, so now I have enough confidence to actually try
+
 AI self-driving as the next step.
 
 # 54
@@ -481,7 +508,8 @@ It's gratifying seeing a small cadre of researchers seeming to be breaking off f
 We'll never achieve an AI/Robowaifu Renaissance if we every one have to be beholden to the Globohomo cloud, hat in hand, begging ''"Please sir, may I have some more?"''
 
 # 68
->>10761
+>>10761
+
 test
 
 # 69
@@ -552,16 +580,26 @@ As for hardware, I was thinking simple solid black camera eyes if I couldn't get
 That's an interesting concept Anon, thanks. Yes, I think cameras and image analysis have '''very''' long legs yet, and we still have several orders of magnitude improvements yet to come in the future. It would be nice if our robowaifus (and not just our enemies) can take advantage of this for us. We need to really be thinking ahead in this area tbh.
 
 # 76
-It seems like CMOS is the default sensor for most CV applications due to cost. But seeing all these beautiful eye designs makes me consider carefully how those photons get processed into signal for the robowaifus.
-Cost aside, CCD as a technology seems better because the entire image is processed monolithically, as one crisp frame, instead of a huge array of individual pixel sensors, which I think causes noise which has to be dealt with in post image processing.  CCD looks like its still the go-to for scientific instruments today. 
-
-In astrophotography everyone drools over cameras with CCD, while CMOS is -ok- and fits most amateur needs, the pros use CCD. 
-
-Astrophotography / scientific
-www.atik-cameras(dot)com/news/difference-between-ccd-cmos-sensors/
-
-This article breaks it down pretty well from a strictly CV standpoint. 
-
+It seems like CMOS is the default sensor for most CV applications due to cost. But seeing all these beautiful eye designs makes me consider carefully how those photons get processed into signal for the robowaifus.
+
+Cost aside, CCD as a technology seems better because the entire image is processed monolithically, as one crisp frame, instead of a huge array of individual pixel sensors, which I think causes noise which has to be dealt with in post image processing.  CCD looks like its still the go-to for scientific instruments today. 
+
+
+
+In astrophotography everyone drools over cameras with CCD, while CMOS is -ok- and fits most amateur needs, the pros use CCD. 
+
+
+
+Astrophotography / scientific
+
+www.atik-cameras(dot)com/news/difference-between-ccd-cmos-sensors/
+
+
+
+This article breaks it down pretty well from a strictly CV standpoint. 
+
+
+
 www.adimec(dot)com/ccd-vs-cmos-image-sensors-in-machine-vision-cameras/
 
 # 77

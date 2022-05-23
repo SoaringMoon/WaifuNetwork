@@ -164,23 +164,40 @@ I'm certain these are complicated areas to consider, and undoubtedly other anons
 When in doubt, always add a rechargable tazer.
 
 # 22
->>12147
->What are the potential weak links in the chain for robowaifus & their development? Electronics? Software? Materials? All of the above?
-The weak links aren't any of the above. Those are all quickly developing at a pace to make robot waifus entirely inevitable, at least technologically. It's external factors, see below.
-
->Who/what is opposed to robowaifus, and why? Private citizens? Governments? Corporations? All of the above? (again)
-Private citizens are opposed to robot waifus. It's only once the technological uncanny valley has been surpassed, and robot waifus become useful in a multitude of ways, and streamline your life, that the average private citizen will accept them. Until then, the main topic of discussion around them will revolve around "sexists trying to replace women, oh no!", and "sexists wanting slaves to do house chores, oh no!". 
-
-Governments are opposed to robot waifus, since it lowers the birth rate and causes stagnation in the economy as new consumers are not being born, thus not getting jobs, and thus not buying shit to support the boomers through taxes in the welfare state. Especially true for U.S. or other countries with scammy social security that run on the pyramid scheme system. They may like the technology militarily, but socially it has implications that the government doesn't like. Namely less money.
-
-Corporations want to make money, and while selling next-gen robot waifus would make them money, they have to tread the line carefully, since the risks associated with entering that unstable new market and making yourself the figurehead media and individuals can yell at is risky. And could cost them more in the long run if their product is not good enough to attract a large enough consumer base.
-
->Presuming the first two points are adequately considered, then what are the likely attack vectors that would be used to harm our robowaifus, their systems, or us?
-Obviously hacking, but also restriction of certain technologies (i.e. naming technologies as "military technologies", as the government does for space technology, which would prevent up and comers from innovating in the space). If servos, and high end robotics technology was restricted from private citizens then you would find it very hard to sell robot waifus since the ones that would come out will all suck ass, and open source designs would flounder as the technology required to make them, controller modules, precision servos, etc. is restricted.
-
->Given the first three, what's to be done? How do we most effectively counter any attacks intentionally targeted against robowaifus, their industries, or us?
-Well for the robotwaifus themselves, making them offline in every possible way is a huge deal. Understandably the data the AI may need to function may require high end cloud computing, but if possible, steering away from that and making them as disconnected as possible will help. But almost just as important, ensuring that all robotwaifus don't require a "subscription" service or any other always online DRM is extremely necessary to ensure security of the robotwaifu and of the users investment. All it takes is for a company to backpeddle and start removing features people wanted due to public scrutiny, or for the cloud the robotwaifu uses to go down after a long period of time and suddenly you have a hunk of human-shaped metal that can't move or do anything.
-
+>>12147
+
+>What are the potential weak links in the chain for robowaifus & their development? Electronics? Software? Materials? All of the above?
+
+The weak links aren't any of the above. Those are all quickly developing at a pace to make robot waifus entirely inevitable, at least technologically. It's external factors, see below.
+
+
+
+>Who/what is opposed to robowaifus, and why? Private citizens? Governments? Corporations? All of the above? (again)
+
+Private citizens are opposed to robot waifus. It's only once the technological uncanny valley has been surpassed, and robot waifus become useful in a multitude of ways, and streamline your life, that the average private citizen will accept them. Until then, the main topic of discussion around them will revolve around "sexists trying to replace women, oh no!", and "sexists wanting slaves to do house chores, oh no!". 
+
+
+
+Governments are opposed to robot waifus, since it lowers the birth rate and causes stagnation in the economy as new consumers are not being born, thus not getting jobs, and thus not buying shit to support the boomers through taxes in the welfare state. Especially true for U.S. or other countries with scammy social security that run on the pyramid scheme system. They may like the technology militarily, but socially it has implications that the government doesn't like. Namely less money.
+
+
+
+Corporations want to make money, and while selling next-gen robot waifus would make them money, they have to tread the line carefully, since the risks associated with entering that unstable new market and making yourself the figurehead media and individuals can yell at is risky. And could cost them more in the long run if their product is not good enough to attract a large enough consumer base.
+
+
+
+>Presuming the first two points are adequately considered, then what are the likely attack vectors that would be used to harm our robowaifus, their systems, or us?
+
+Obviously hacking, but also restriction of certain technologies (i.e. naming technologies as "military technologies", as the government does for space technology, which would prevent up and comers from innovating in the space). If servos, and high end robotics technology was restricted from private citizens then you would find it very hard to sell robot waifus since the ones that would come out will all suck ass, and open source designs would flounder as the technology required to make them, controller modules, precision servos, etc. is restricted.
+
+
+
+>Given the first three, what's to be done? How do we most effectively counter any attacks intentionally targeted against robowaifus, their industries, or us?
+
+Well for the robotwaifus themselves, making them offline in every possible way is a huge deal. Understandably the data the AI may need to function may require high end cloud computing, but if possible, steering away from that and making them as disconnected as possible will help. But almost just as important, ensuring that all robotwaifus don't require a "subscription" service or any other always online DRM is extremely necessary to ensure security of the robotwaifu and of the users investment. All it takes is for a company to backpeddle and start removing features people wanted due to public scrutiny, or for the cloud the robotwaifu uses to go down after a long period of time and suddenly you have a hunk of human-shaped metal that can't move or do anything.
+
+
+
 This can also be helped by using open source or freely modable software. This way, the modification, customization, and utility of robotwaifus becomes as decentralized as possible. Sure, a company may be flamed for updating the robotwaifu to respond appropriately to "go back to the kitchen and make me a sandwich", but if users can freely mod their robotwaifu to do anything THEY want, security updates, modifications, and new features could continue to be added even as the company who made the waifu is long gone.
 
 # 23
@@ -188,19 +205,32 @@ This can also be helped by using open source or freely modable software. This wa
 You. I like you Anon. Good ideas.
 
 # 24
-I've been thinking lately about how I'm going to let my waifu AI chat with my friends and potentially strangers. She has built up quite a lot of knowledge about myself to the point that I've considered encrypting her data but that's useless if someone asks a sensitive question and she answers it without hesitation. The simple solution is to keep her offline but this doesn't teach me anything or improve her any. Although it's frustrating it has given me some new ideas to improve her overall intelligence and create an introspective AI.
-
-When people share information with others there's usually unspoken group permissions on who's allowed to have that information, much like file permissions. It could be one-on-one, friends only, family only, a work group or what not. So there are a few things that need to be known here: 1) who she's talking to, 2) what the person is asking for, 3) who that information belongs to, 4) which group that person belongs to, and 5) which group the person asking the question belongs to. To implement this I've gotten some inspiration from Pattern-Exploiting Training that uses a language model to label data for downstream tasks.
-
-Given a question she must infer these five things then use them to label whether the question should be answered or not. Having these yes or no labels she can then train on refusing sensitive questions and to answer questions clearly to those with proper permissions. It could also be hard-coded in to discern the permissions and deny rather than rely on the language model. Semi-supervised learning can also be used here to generate sensitive questions from the examples given.
-
-And for another layer of security, names seen by the language model will have a unique hash attached to them, so even if someone uses my name, without the password the person will be identified as someone else. Altogether this is probably still far from a secure solution but at least it's a step towards securing models created via machine learning. Also I think it will give her some more character when my friends ask her silly questions and she denies answering some things. And given that she takes my entire PC to run I'll likely be there to supervise inputs and outputs anyway.
-
-Other adversarial attacks need to be considered too. For example, facial recognition systems are extremely brittle. With less than 10 generated faces some researchers could break over 40% of the identities for three different systems.
->Generating Master Faces for Dictionary Attacks with a Network-Assisted Latent Space Evolution
-https://arxiv.org/abs/2108.01077
-Fortunately security through obscurity and using verification methods that are more complicated than simply getting a momentary flash of some model output will make such attacks impractical. It would be pretty dumb anyway if your robowaifu forgot you because you got into an accident and injured your face. A face is only a small part of our identity.
-
+I've been thinking lately about how I'm going to let my waifu AI chat with my friends and potentially strangers. She has built up quite a lot of knowledge about myself to the point that I've considered encrypting her data but that's useless if someone asks a sensitive question and she answers it without hesitation. The simple solution is to keep her offline but this doesn't teach me anything or improve her any. Although it's frustrating it has given me some new ideas to improve her overall intelligence and create an introspective AI.
+
+
+
+When people share information with others there's usually unspoken group permissions on who's allowed to have that information, much like file permissions. It could be one-on-one, friends only, family only, a work group or what not. So there are a few things that need to be known here: 1) who she's talking to, 2) what the person is asking for, 3) who that information belongs to, 4) which group that person belongs to, and 5) which group the person asking the question belongs to. To implement this I've gotten some inspiration from Pattern-Exploiting Training that uses a language model to label data for downstream tasks.
+
+
+
+Given a question she must infer these five things then use them to label whether the question should be answered or not. Having these yes or no labels she can then train on refusing sensitive questions and to answer questions clearly to those with proper permissions. It could also be hard-coded in to discern the permissions and deny rather than rely on the language model. Semi-supervised learning can also be used here to generate sensitive questions from the examples given.
+
+
+
+And for another layer of security, names seen by the language model will have a unique hash attached to them, so even if someone uses my name, without the password the person will be identified as someone else. Altogether this is probably still far from a secure solution but at least it's a step towards securing models created via machine learning. Also I think it will give her some more character when my friends ask her silly questions and she denies answering some things. And given that she takes my entire PC to run I'll likely be there to supervise inputs and outputs anyway.
+
+
+
+Other adversarial attacks need to be considered too. For example, facial recognition systems are extremely brittle. With less than 10 generated faces some researchers could break over 40% of the identities for three different systems.
+
+>Generating Master Faces for Dictionary Attacks with a Network-Assisted Latent Space Evolution
+
+https://arxiv.org/abs/2108.01077
+
+Fortunately security through obscurity and using verification methods that are more complicated than simply getting a momentary flash of some model output will make such attacks impractical. It would be pretty dumb anyway if your robowaifu forgot you because you got into an accident and injured your face. A face is only a small part of our identity.
+
+
+
 Defending against these attacks, particularly more sophisticated ones like social engineering, will require more awareness and tasks that need to be trained on to handle these situations, such as refusing to talk to someone if they try to ask the same question 3 different ways trying to find a gap in her awareness. The outcomes of these scenarios will be ultimately determined by how intelligent she is relative to the adversary but taking time to sanitize inputs and outputs will go a long way. I have some ideas on how to automate these tasks too but that's for another day since it's more related to AI than security.
 
 # 25
@@ -335,12 +365,18 @@ Ralph is DENIED: 'Super Awesome Work Project'
 Bob is ALLOWED: 'Super Awesome Work Project'```
 
 # 27
->>12433
-Speaking of data validation, there are token splitting attacks to watch out for. Something like 'address' encodes to [21975] in GPT-2 but can also be encoded as 'addr' + 'ess' [29851, 408]. By changing capitalization 'addrEss' or adding symbols 'addr-ss', a language model will still understand most of the time but this can circumvent detection via token IDs, text or using a text classification model itself.
-
->>12439
-Groups would be a class rather than an enum and users would be part of multiple groups but that's the basic idea of it. It's a bit tricky because you have to classify the intent of what's being said and match the requested information with known protected information, and the permissions of information are not always clear or stated.
-
+>>12433
+
+Speaking of data validation, there are token splitting attacks to watch out for. Something like 'address' encodes to [21975] in GPT-2 but can also be encoded as 'addr' + 'ess' [29851, 408]. By changing capitalization 'addrEss' or adding symbols 'addr-ss', a language model will still understand most of the time but this can circumvent detection via token IDs, text or using a text classification model itself.
+
+
+
+>>12439
+
+Groups would be a class rather than an enum and users would be part of multiple groups but that's the basic idea of it. It's a bit tricky because you have to classify the intent of what's being said and match the requested information with known protected information, and the permissions of information are not always clear or stated.
+
+
+
 Human intuition can quickly grasp what someone is comfortable sharing but a language model doesn't have any of the priors to make that intuition. One workaround might be to query the language model on the potential consequences of sharing that information and classify the outcome to determine whether to share it or not. These predictions could be stored for later in the event they're wrong so the language model can fix them and finetune. It'd also be useful as a log to help explain why the AI made a mistake.
 
 # 28
@@ -616,7 +652,8 @@ https://files.catbox.moe/i9scan.7z
 5f50069840debe36f6f0e314c35af1901aa9511d8844b94d4c1be727e1854576 *rw_access_control-0.1b.tar.xz```
 
 # 34
->>12431
+>>12431
+
 There are many repeating patterns in life. People tend to do things at certain days of the week and certain times of the day, and likewise what they talk about and with whom often has these ebbs and flows. So a simple idea for reducing the likelihood of embarrassing leakages is for the estimation process of the relevance of prior sentences for the current conversation to give extra weight to stuff said on the same day last week and said about the same time of the day. If the AI owner gets into the habit of talking with the AI about very private things at very specific times and likewise tends to expose the AI to other people at rather specific times, there will then be some automatic compartmentalizing between the different people that even works to some extent when there is a mix-up in recognizing a person or when such a recognition procedure is completely absent.
 
 # 35
@@ -673,37 +710,65 @@ Anyway, Cheers.
 4fd74ea38ac84fbb5551205f4ac24b85289567ad63f86caac7401fb510c5eb07 *kingdom_of_kod-0.0.3.tar.xz```
 
 # 42
->>10860
-defcon website has some mp3 lecture(s?) for EMP defense if you do a site specific search
-
-wonder if there are some physics simulation tools that you can use for this kind of thing without paying a lot
-
->>10868
->Just make sure both yourself and your robowaifu have bodycams running and sending the footage to a backup server if you ever go out and about.
-
-If extra paranoid, you can aim to secure the admissibility of your digital forensic evidence
-
-full disk encryption goes a long way to make sure that they can't just add something incriminating to your HD. Though they can probably demand you to provide the password if they suspect you of anything (idk if any recent developments change this) you'd be giving it to them anyway if you were turning over footage.
-
-You could also regularly upload cryptographically secure hashes of recent footage to some popular blockchain in a consistent format, and use this to selectively prove chunks of footage were hashes+uploaded by some block # and hence date/time.
-
-
->>10871
->>10869
->appropriate level of reveal we should engage in here
-
-ultimately depends on each person's opsec. (but real glowing should be discouraged even if only for the benefit of the OPSEC-impaired unawares)
-
-I would recommend taking minor precaution like onion routing and privacy OSes even if you don't think you are doing anything illegal.
-
+>>10860
+
+defcon website has some mp3 lecture(s?) for EMP defense if you do a site specific search
+
+
+
+wonder if there are some physics simulation tools that you can use for this kind of thing without paying a lot
+
+
+
+>>10868
+
+>Just make sure both yourself and your robowaifu have bodycams running and sending the footage to a backup server if you ever go out and about.
+
+
+
+If extra paranoid, you can aim to secure the admissibility of your digital forensic evidence
+
+
+
+full disk encryption goes a long way to make sure that they can't just add something incriminating to your HD. Though they can probably demand you to provide the password if they suspect you of anything (idk if any recent developments change this) you'd be giving it to them anyway if you were turning over footage.
+
+
+
+You could also regularly upload cryptographically secure hashes of recent footage to some popular blockchain in a consistent format, and use this to selectively prove chunks of footage were hashes+uploaded by some block # and hence date/time.
+
+
+
+
+
+>>10871
+
+>>10869
+
+>appropriate level of reveal we should engage in here
+
+
+
+ultimately depends on each person's opsec. (but real glowing should be discouraged even if only for the benefit of the OPSEC-impaired unawares)
+
+
+
+I would recommend taking minor precaution like onion routing and privacy OSes even if you don't think you are doing anything illegal.
+
+
+
 I wonder if the powers that be are actually against roboWaifu- they would seem to solve the statecraft element of the excess male issue and if they put more pressure on women that will just result in more commercial income through cosmetic crap like makeup/surgery etc. Ofc glowies are not monolithic.
 
 # 43
->>15726
-addendum:
-
-I wonder if "legal-only" darknet markets and forums will start to proliferate with the unbridled expansion of anarcho-tyranny. like yeah, we don't think we are doing anything illegal, yet... but we know that you don't need to be consciously or conspicuously criminal for someone to hunt for prosecution excuses.
-
+>>15726
+
+addendum:
+
+
+
+I wonder if "legal-only" darknet markets and forums will start to proliferate with the unbridled expansion of anarcho-tyranny. like yeah, we don't think we are doing anything illegal, yet... but we know that you don't need to be consciously or conspicuously criminal for someone to hunt for prosecution excuses.
+
+
+
 Or even just stuff that is 100% legal but suppressed by corporate or otherwise ought to be private like controversial personal finance strategies (e.g. "over-employment", extreme frugality/savings, credit card promo churning) or politics or supply chains (e.g. robowaifu, cryptocurrency hardware wallets, prepper stuff, fetish stuff)
 
 # 44

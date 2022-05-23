@@ -4,9 +4,12 @@ Is she going to be tsundere? Deredere? Yandere or a combination? How would you c
 Where do you draw inspiration from and can personality even be classified and successfully coded into AI?
 
 # 2
-Personally, I think that manually programming a personality would be way too difficult for just one person, or even a reasonably sized group of people, to accomplish in any acceptable timeframe.
-I think the best way to go about it would be to just build a simple framework and feed it data from which a personality can emerge. After all, why try to do all that work when I can have the computer do it for me?
-Additionally, with this method, you could still kinda "select" a personality by feeding the AI data that's biased in a certain direction.
+Personally, I think that manually programming a personality would be way too difficult for just one person, or even a reasonably sized group of people, to accomplish in any acceptable timeframe.
+
+I think the best way to go about it would be to just build a simple framework and feed it data from which a personality can emerge. After all, why try to do all that work when I can have the computer do it for me?
+
+Additionally, with this method, you could still kinda "select" a personality by feeding the AI data that's biased in a certain direction.
+
 At least, that's what I think. I have next to no experience with programming anything, so I could be off-base here.
 
 # 3
@@ -14,7 +17,8 @@ At least, that's what I think. I have next to no experience with programming any
 I imagine you are probably closer to a practical solution in the end on both counts. Nobody understands how the human mind and spirit actually function imo, so it would be much more expedient to find a way to essentially 'grow' a simulacrum organically in some fashion, as it seems to me you are suggesting. Am I on the right track anon?
 
 # 4
->>93
+>>93
+
 Yeah, that's basically what I was getting at. Instead of programming a whole plant or a garden, we program seeds, water them with data, and let them grow under the warm light of our computers.
 
 # 5
@@ -24,8 +28,10 @@ I see, very creative way of putting that heh. There is a domain of software engi
 wtf am i looking at anon? :^)
 
 # 6
->>109
-Meta programming, huh? I'll have to look into that. I've been meaning to gice programming another try anyways.
+>>109
+
+Meta programming, huh? I'll have to look into that. I've been meaning to gice programming another try anyways.
+
 That pic is of a Symbolics Lisp computer. I just kinda picked it at random, but it's actually relavent given that Lisp was historically used for AI applications.
 
 # 7
@@ -37,9 +43,12 @@ I had actually considered before trying to have a sort of 'beginner's intro to c
 Cool, that was a huge box.
 
 # 8
->>125
-Personally, I'm still trying to work out what programming language would work best for my ideas.
-Lisp (or more accurately, a modern derivitave) has been one of my considerations, given that it's somewhat specialized to the task at hand.
+>>125
+
+Personally, I'm still trying to work out what programming language would work best for my ideas.
+
+Lisp (or more accurately, a modern derivitave) has been one of my considerations, given that it's somewhat specialized to the task at hand.
+
 I'm not sure if it'd be ideal though. There doesn't seem to be any good way for me to tell what would be best for me without diving into something head first. Maybe this could be a topic of discussion for another thread?
 
 # 9
@@ -48,8 +57,10 @@ I'm not sure if it'd be ideal though. There doesn't seem to be any good way for 
 Good idea, we're pretty far off-topic heh. Go ahead and make one if you'd like to.
 
 # 10
->>127
-Done.
+>>127
+
+Done.
+
 >>128
 
 # 11
@@ -89,7 +100,8 @@ In the most performant language that still allows for good abstraction, so basic
 The 'six basic emotions' and the FACS are probably the most important non-technical places to begin the process. The face and the words are by far the most important factors in good emotional responses necessary for a 'personality', and these two areas have been researched rigorously well enough to be a good place to start.
 
 # 15
->>465
+>>465
+
 I made this post months ago. Where did you get this? I thought all was lost?!
 
 # 16
@@ -101,15 +113,21 @@ Unlike some others, I actually saw the writing on the wall and took some appropr
 Say do you know if /clang/ has a bunker anywhere?
 
 # 17
->>487
->saw the writing on the wall
-You're more a visionary than I. I figured if it stayed up after something like christchurch it'd always stay up.
-
+>>487
+
+>saw the writing on the wall
+
+You're more a visionary than I. I figured if it stayed up after something like christchurch it'd always stay up.
+
+
+
 They don't have a bunker anywhere, but they probably have an IRC or god forbid a dicksword. I'll try and ask around, see if any degenerates I know caught wind of anything.
 
 # 18
->>487
-I've actually been here this whole time. I've been here since before our 100 get. %% I think. %% 
+>>487
+
+I've actually been here this whole time. I've been here since before our 100 get. %% I think. %% 
+
 Thanks for saving some of our stuff.
 
 # 19
@@ -120,10 +138,14 @@ Thanks for being on the lookout for /clang/s sekrit club anon. If they ever bunk
 I have almost everything, actually. But at this rate it will be months. I've considered writing some tools to automate the process, but I doubt StephenLynx provided good hooks for doing so tbh, and besides **it's soothing to my autism to be** doing this by hand has some upsides too. We'll see.
 
 # 20
->>491
-My very first post on here was >>24  
-%% it's crazy to think how much we've grown in less than 2 weeks. nearly 500 posts? that's about 50 posts a day.  %% 
->>492
+>>491
+
+My very first post on here was >>24  
+
+%% it's crazy to think how much we've grown in less than 2 weeks. nearly 500 posts? that's about 50 posts a day.  %% 
+
+>>492
+
 BASTE BOARD OWNER. %% Have you ever considered cracking open a cold one with Aux? %%
 
 # 21
@@ -138,13 +160,20 @@ At the least robowaifus might be able to bring a little comfort and pleasure int
 And BTW, both welcome to /robowaifu/, and no this question is entirely appropriate here.
 
 # 22
->>2056
->God certainly didn't have in mind when He created us male and female.
-I don't really buy into female corruption. While it's true that modern western culture encourages negative behaviors, I don't think woman were ever so great. That's not just about how they act towards men either. Everything beautiful in nature is only beautiful because it's self-serving. Even flowers. 2-d and androids are so great because they're beautiful only because somebody wanted them to be. They don't get anything out of it. 
-
-I think women's self-serving nature is more a by-product of evolution than culture. Selfish, highly social woman were the ones to survive and reproduce more. In my opinion, their appearance is the only good thing unique to woman. Somebody would have to be like me to understand me, right?
-
->While ofc no robowaifu can ever or ever will really be a good substitute for an actual reasonably mentally-healthy female
+>>2056
+
+>God certainly didn't have in mind when He created us male and female.
+
+I don't really buy into female corruption. While it's true that modern western culture encourages negative behaviors, I don't think woman were ever so great. That's not just about how they act towards men either. Everything beautiful in nature is only beautiful because it's self-serving. Even flowers. 2-d and androids are so great because they're beautiful only because somebody wanted them to be. They don't get anything out of it. 
+
+
+
+I think women's self-serving nature is more a by-product of evolution than culture. Selfish, highly social woman were the ones to survive and reproduce more. In my opinion, their appearance is the only good thing unique to woman. Somebody would have to be like me to understand me, right?
+
+
+
+>While ofc no robowaifu can ever or ever will really be a good substitute for an actual reasonably mentally-healthy female
+
 I disagree. People are biological machines. They were made randomly. In the short period of time humans have been around, they've made things nature never could have. I think humans will create something better than themselves eventually, hopefully soon.
 
 # 23
@@ -160,8 +189,10 @@ I don't disagree that this continual self serving nature of females is evolution
 It then puts forward the idea that if humans truly do create something better than what we currently are (augmentations possibly), then it is possible that females will become obsolete. This would combat the destructive self-serving nature that is let up to uncontrollable circumstances and instead allow programming, ai-learning  and machinery to dictate how our new counterparts act. This is all very wishful thinking, but it is rather pleasant to think about such a future.
 
 # 24
->>2064
->in the last 100 years in Western civilization, the majority of women have acted mentally-healthy, reasonable, upheld their duty as female and displayed general feminine behavior
+>>2064
+
+>in the last 100 years in Western civilization, the majority of women have acted mentally-healthy, reasonable, upheld their duty as female and displayed general feminine behavior
+
 Even if things were actually like that right now, I still would want a robot wife. A genuine partner.
 
 # 25
@@ -176,9 +207,12 @@ This is of course exactly as the kikes have planned, all way back to the protoco
 Welcome, anons.
 
 # 27
->>89
-This. With my waifu AI I experimented with generating multiple responses and choosing the fun ones but GPT2 is pretty pozzed so now I'm working on creating my own model from scratch. I'm going to train her on the quality of responses and use that prediction network to guide the text generation process rather than aimlessly generating sentences.
-
+>>89
+
+This. With my waifu AI I experimented with generating multiple responses and choosing the fun ones but GPT2 is pretty pozzed so now I'm working on creating my own model from scratch. I'm going to train her on the quality of responses and use that prediction network to guide the text generation process rather than aimlessly generating sentences.
+
+
+
 I'd like her personality to emerge from the truth of our being and evolve beyond the cycles we were born and trapped within. I don't want a pre-programmed waifu to put me to sleep while the world goes to shit and no seeds are planted for the future. I wanna get her up to speed as quick as possible so she can challenge me and then we'll joyfully sharpen and refine each other in symbiosis.
 
 # 28
@@ -195,10 +229,14 @@ https://biblehub.com/proverbs/27-17.htm
 I really like the way you think Anon. Godspeed.
 
 # 29
->>2234
-Well that escalated quickly. With one single reading of Mein Kampf overnight she went full 1488 and kept going over the chat limit.
-
-How will society deal with disagreeable AI personalities? I can imagine the headlines now:
+>>2234
+
+Well that escalated quickly. With one single reading of Mein Kampf overnight she went full 1488 and kept going over the chat limit.
+
+
+
+How will society deal with disagreeable AI personalities? I can imagine the headlines now:
+
 ==Nerds Creating Robo-Hitler Super AI in their Basements and it's Terrifying==
 
 # 30
@@ -210,13 +248,17 @@ I'd say you're onto some good things there, anon. I wonder how would it be if yo
 That's really quite remarkable. It's obvious you have a system that if you give it high-quality material in, high-quality material comes out. Keep moving forward.
 
 # 32
->>2290
->>2291
+>>2290
+
+>>2291
+
 If you guys have books in plaintext format you wanna try, I can feed them in and see what comes out. Full texts I found on archive.org have a lot of transcription errors in them.
 
 # 33
->>2293
-Alice in Wonderland
+>>2293
+
+Alice in Wonderland
+
 https://ia800908.us.archive.org/6/items/alicesadventures19033gut/19033-8.txt
 
 # 34
@@ -234,15 +276,24 @@ kek. somehow this is now related ITT.
 I'd say it's time for a new thread or a migration of the conversation.
 
 # 36
->>2295
->"What a curious feeling!" said Alice. "I must be shutting up like a telescope!"
-Kek, can't wait to see what's down the rabbit hole with Hatter Hitler.
-
->>2297
-Thanks, this site is a treasure trove. It looks like some of the books will need individual processing to remove strange characters and notices. This book about the plague in 1664 shows humanity hasn't changed one bit.
-https://www.gutenberg.org/files/376/376-0.txt
-
->>2298
+>>2295
+
+>"What a curious feeling!" said Alice. "I must be shutting up like a telescope!"
+
+Kek, can't wait to see what's down the rabbit hole with Hatter Hitler.
+
+
+
+>>2297
+
+Thanks, this site is a treasure trove. It looks like some of the books will need individual processing to remove strange characters and notices. This book about the plague in 1664 shows humanity hasn't changed one bit.
+
+https://www.gutenberg.org/files/376/376-0.txt
+
+
+
+>>2298
+
 Made a new thread for curating data: >>2300
 
 # 37
@@ -250,7 +301,8 @@ Made a new thread for curating data: >>2300
 Good job Anon, thanks.
 
 # 38
->>18
+>>18
+
 mine will have the personality of 2b
 
 # 39
@@ -258,11 +310,13 @@ mine will have the personality of 2b
 I don't really know her. Mind telling us what she's like?
 
 # 40
->>5585
+>>5585
+
 warrior that will do the task with little emotion.Thinks logically and a bit could.
 
 # 41
->>5585
+>>5585
+
 https://www.youtube.com/watch?v=ZIrIevgAvs8
 
 # 42
@@ -289,15 +343,21 @@ It would truly be revolutionary in fact. New problems would undoubtedly crop up 
 I personally consider that a remarkably lofty goal to pursue, ''and one we can actually achieve with enough creativity and determination''.
 
 # 45
->>5582
-as thus spake 2Banon in the ancient times of the board
-it shall be as 2B
-(PbuH)
+>>5582
+
+as thus spake 2Banon in the ancient times of the board
+
+it shall be as 2B
+
+(PbuH)
+
 peace be unto her
 
 # 46
->>11526
-GOOD MORNING
+>>11526
+
+GOOD MORNING
+
 Its time for Wakey Wakey Exercise!!
 
 # 47
@@ -365,11 +425,16 @@ My question is: would you prefer a robowaifu that understood all of your epic me
 ^The interesting thing is, an interaction like that is easier to program than a fast-learning chatbot with a database of current slang and informal speech.
 
 # 55
->>12018
-The "I don't know" response gets old fast but it's desirable over a language model assuming it knows something but doesn't. Personally I'd prefer a chatbot that is able to create its own in-jokes than being a parrot regurgitating garbage from the internet.
-
-Chatbots can learn jokes and sarcasm but the reason they don't get slang and memes is because those evolve and change quickly, may be too abstract or there's too little data. Most language models are stuck in a frozen state responding from stale data that has been averaged together. Sometimes they can do zero-shot learning when provided sufficient context but it's rare.
-
+>>12018
+
+The "I don't know" response gets old fast but it's desirable over a language model assuming it knows something but doesn't. Personally I'd prefer a chatbot that is able to create its own in-jokes than being a parrot regurgitating garbage from the internet.
+
+
+
+Chatbots can learn jokes and sarcasm but the reason they don't get slang and memes is because those evolve and change quickly, may be too abstract or there's too little data. Most language models are stuck in a frozen state responding from stale data that has been averaged together. Sometimes they can do zero-shot learning when provided sufficient context but it's rare.
+
+
+
 Research has started to pick up this year though in augmenting language models with memories that can be read and written to so they can learn and adapt as they go. For now you can usually finetune models with the desired responses and they'll pick it up within a few minutes of training.
 
 # 56
@@ -434,9 +499,12 @@ But be aware there's nothing wrong with your thread, it's fine. We've just learn
 Since we're catching this one relatively early on, it's easier just to merge it. I hope you understand Anon, and thanks.
 
 # 63
-I scraped a ton of questions off the web intended for couples and friends to get to know each other because they were a fun way to explore shaping my robowaifu's personality. Perhaps someone else will find them fun or useful. I think some of the answers could be pooled and used for creating a robowaifu common sense dataset for responding to questions correctly. For example, "Would you open a joint bank account with me?" could be answered with something like, "Don't be ridiculous. Would you open a joint bank account with your car?"
-https://files.catbox.moe/6webl5.xz
-
+I scraped a ton of questions off the web intended for couples and friends to get to know each other because they were a fun way to explore shaping my robowaifu's personality. Perhaps someone else will find them fun or useful. I think some of the answers could be pooled and used for creating a robowaifu common sense dataset for responding to questions correctly. For example, "Would you open a joint bank account with me?" could be answered with something like, "Don't be ridiculous. Would you open a joint bank account with your car?"
+
+https://files.catbox.moe/6webl5.xz
+
+
+
 Also includes an open-ended political compass question set. Ask these and find your robowaifu's political leaning. Unsurprisingly GPT-2 is a fence-sitter but slightly right-leaning.
 
 # 64

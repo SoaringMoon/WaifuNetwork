@@ -1,16 +1,28 @@
 # 1
-Training AI and robowaifus requires immense amounts of data. It'd be useful to curate books and datasets to feed into our models or possibly build our own corpora to train on. The quality of data is really important. Garbage in is garbage out. The GPT2 pre-trained models for example are riddled with 'Advertisement' after paragraphs. Perhaps we can also discuss and share scripts for cleaning and preparing data here and anything else related to datasets.
-
-To start here are some large datasets I've found useful for training chatbots:
->The Stanford Question Answering Dataset https://rajpurkar.github.io/SQuAD-explorer/
->Amazon QA http://jmcauley.ucsd.edu/data/amazon/qa/
->WikiText-103 https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/
->Arxiv Data from 24,000+ papers https://www.kaggle.com/neelshah18/arxivdataset
->NIPS papers https://www.kaggle.com/benhamner/nips-papers
->Frontiers in Neuroscience Journal Articles https://www.kaggle.com/markoarezina/frontiers-in-neuroscience-articles
->Ubuntu Dialogue Corpus https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus
->4plebs.org data dump https://archive.org/details/4plebs-org-data-dump-2020-01
->The Movie Dialog Corpus https://www.kaggle.com/Cornell-University/movie-dialog-corpus
+Training AI and robowaifus requires immense amounts of data. It'd be useful to curate books and datasets to feed into our models or possibly build our own corpora to train on. The quality of data is really important. Garbage in is garbage out. The GPT2 pre-trained models for example are riddled with 'Advertisement' after paragraphs. Perhaps we can also discuss and share scripts for cleaning and preparing data here and anything else related to datasets.
+
+
+
+To start here are some large datasets I've found useful for training chatbots:
+
+>The Stanford Question Answering Dataset https://rajpurkar.github.io/SQuAD-explorer/
+
+>Amazon QA http://jmcauley.ucsd.edu/data/amazon/qa/
+
+>WikiText-103 https://blog.einstein.ai/the-wikitext-long-term-dependency-language-modeling-dataset/
+
+>Arxiv Data from 24,000+ papers https://www.kaggle.com/neelshah18/arxivdataset
+
+>NIPS papers https://www.kaggle.com/benhamner/nips-papers
+
+>Frontiers in Neuroscience Journal Articles https://www.kaggle.com/markoarezina/frontiers-in-neuroscience-articles
+
+>Ubuntu Dialogue Corpus https://www.kaggle.com/rtatman/ubuntu-dialogue-corpus
+
+>4plebs.org data dump https://archive.org/details/4plebs-org-data-dump-2020-01
+
+>The Movie Dialog Corpus https://www.kaggle.com/Cornell-University/movie-dialog-corpus
+
 >Common Crawl https://commoncrawl.org/the-data/
 
 # 2
@@ -46,12 +58,18 @@ this book has a later companion workbook as well.
 >
 
 # 5
->>2303
-I'm crawling and scraping the web at the moment for imageboard threads and arranging the replies into sequences to feed in for training. Fortunately it's only a few thousand threads for now and I can use BeautifulSoup in Python to process the pages, but filtering the posts and connecting them is something else. People link posts in crazy ways and reply to multiple posts at the same time, and there's empty posts, cross-thread and board links, spam, nonsense and copypasta. Separating the good data from the bad is really difficult. I'd like to be able to do sentiment analysis too and really focus in on what I'm looking to train on.
-
-I'll have to check these books out and >>2251
-When I make games I know how to structure everything but when it comes to processing text I have no idea what I'm doing and end up going full spaghetti and having no code to reuse afterwards.
-
+>>2303
+
+I'm crawling and scraping the web at the moment for imageboard threads and arranging the replies into sequences to feed in for training. Fortunately it's only a few thousand threads for now and I can use BeautifulSoup in Python to process the pages, but filtering the posts and connecting them is something else. People link posts in crazy ways and reply to multiple posts at the same time, and there's empty posts, cross-thread and board links, spam, nonsense and copypasta. Separating the good data from the bad is really difficult. I'd like to be able to do sentiment analysis too and really focus in on what I'm looking to train on.
+
+
+
+I'll have to check these books out and >>2251
+
+When I make games I know how to structure everything but when it comes to processing text I have no idea what I'm doing and end up going full spaghetti and having no code to reuse afterwards.
+
+
+
 What are some good libraries for parsing JSON and CSV in C/C++? Python isn't gonna cut it once I get to larger datasets. I know libxml2 for XML and just found MeTA Toolkit for text analysis but don't know if it's any good: https://meta-toolkit.org/
 
 # 6
@@ -66,16 +84,21 @@ BeautifulSoup is amazing actually, and I'd advise you to at least ''try'' to use
 update: looks like the ACM book you linked from robowaifu u bread uses the meta-toolkit, so there's a nice convergence anon. might be worth looking into tbh.
 >The Coursera course Text Retrieval and Search Engines uses MeTA in programming assignments available to thousands of students
 >The Coursera course Text Mining and Analytics uses MeTA in its programming assignments as well
-<An upcoming textbook Text Data Analysis and Management: A Practical Introduction to Text Mining and Information Retrieval showcases the MeTA toolkit with exercises and demos
+< An upcoming textbook Text Data Analysis and Management: A Practical Introduction to Text Mining and Information Retrieval showcases the MeTA toolkit with exercises and demos
 >The UIUC course CS 410: Text Information Systems uses MeTA in some programming assignments
 >The TIMAN Research Group from the UIUC Computer Science Department uses MeTA in their text mining research
 
 # 8
-Found this site full of anime subtitles:
-https://kitsunekko.net/dirlist.php?dir=subtitles%2F
-They're in ASS format and don't have speakers labeled but they'll save time transcribing dialog from anime. Soon we'll be the first in the world to talk with chatbots that imitate anime characters fairly well. What a time to be alive!
-
->>2310
+Found this site full of anime subtitles:
+
+https://kitsunekko.net/dirlist.php?dir=subtitles%2F
+
+They're in ASS format and don't have speakers labeled but they'll save time transcribing dialog from anime. Soon we'll be the first in the world to talk with chatbots that imitate anime characters fairly well. What a time to be alive!
+
+
+
+>>2310
+
 I'm a big fan of Python but once shit starts getting coded in a big loop everything goes to shit fast even with libraries doing the heavy lifting. Processing these 2 million posts is gonna take awhile and it sure isn't gonna scale well to 200+ million. We're gonna need all the beasts we can tame if we're gonna ride our robowaifus to the stars.
 
 # 9
@@ -120,22 +143,38 @@ If everything passes, congratulations! MeTA seems to be working on your system.`
 https://meta-toolkit.org/setup-guide.html#arch-linux-build-guide
 
 # 11
->>2313
-Yeah, it's pretty much unavoidable once we get to microcontrollers.
-
->>2314
-For some reason it wouldn't download this file (the server kept returning an empty response) but I found a mirror for it and dropped it into ./deps/icu-58.2/
-https://ftp.osuosl.org/pub/blfs/conglomeration/icu/icu4c-58_2-src.tgz
-
-Then it wouldn't build on Debian because it couldn't find xlocale.h but I found a fix:
-# from the build directory
-sed -i 's/xlocale/locale/' deps/icu-58.2/src/ExternalICU/source/i18n/digitlst.cpp
-https://github.com/meta-toolkit/meta/issues/195
-
-Then it wouldn't build with Debian's default g++-8 because it needs g++-7
-rm CMakeCache.txt
-CXX=g++-7 cmake ../ -DCMAKE_BUILD_TYPE=Release
-
+>>2313
+
+Yeah, it's pretty much unavoidable once we get to microcontrollers.
+
+
+
+>>2314
+
+For some reason it wouldn't download this file (the server kept returning an empty response) but I found a mirror for it and dropped it into ./deps/icu-58.2/
+
+https://ftp.osuosl.org/pub/blfs/conglomeration/icu/icu4c-58_2-src.tgz
+
+
+
+Then it wouldn't build on Debian because it couldn't find xlocale.h but I found a fix:
+
+# from the build directory
+
+sed -i 's/xlocale/locale/' deps/icu-58.2/src/ExternalICU/source/i18n/digitlst.cpp
+
+https://github.com/meta-toolkit/meta/issues/195
+
+
+
+Then it wouldn't build with Debian's default g++-8 because it needs g++-7
+
+rm CMakeCache.txt
+
+CXX=g++-7 cmake ../ -DCMAKE_BUILD_TYPE=Release
+
+
+
 Then everything built with all tests passed.
 
 # 12
@@ -280,11 +319,16 @@ BTW, I think this is the latest release version of the ICU code:
 https://github.com/unicode-org/icu/releases/download/release-66-1/icu4c-66_1-src.tgz
 
 # 22
-Noice, I installed Calibre and found it can convert epub to txt easy:
-''ebook-convert input.epub output.txt''
-They only need a tiny bit of editing to clean up for training.
-
->>2333
+Noice, I installed Calibre and found it can convert epub to txt easy:
+
+''ebook-convert input.epub output.txt''
+
+They only need a tiny bit of editing to clean up for training.
+
+
+
+>>2333
+
 And thanks, I'm looking at src/tools/profile.cpp at the moment trying to figure out how to use MeTA. To start I'd like to discard shitposts then remove stop words and analyze the word frequency to get an idea of the content of posts being collected. It seems like I have to create an index first to perform searches, although perhaps I can just use the word counts. Then I'd like to filter them by content, probably by exporting the data to do some semi-supervised learning on good and bad post examples until it can figure out the filtering automatically.
 
 # 23
@@ -314,19 +358,29 @@ Visual novels are particularly good because if you make a scrapper for a commonl
 can you define 'easy to do' anon? how would the process work. what algorithm would work, for example?
 
 # 28
->>2465
-It's ez, just invent the singularity :^)
-
+>>2465
+
+It's ez, just invent the singularity :^)
+
+
+
 LSTMs are good at this sort of stuff where it needs to detect cute anime girls and flick a switch that stays on for long periods of time, although I'm not really sure what someone would do with a visual novel reading bot besides endlessly generating choose your own adventures like AI Dungeon. That'd be pretty crazy with a good voice synth. If anon knows some tricks for easy image recognition, please share.
 
 # 29
->>2300
-pdftotext that comes with poppler-utils can be used to convert PDFs. For some reason ebook-convert doesn't work on my system for PDFs. pdftotext has some problems though spacing paragraphs and converting math symbols properly. Cleaning up a 500-page machine learning textbook is a bitch but I know it will be worth it. I'll post it here once it's complete.
-
-It would be extremely useful if we could build a model that can construct questions for any given sentence. Then format everything it reads into a Q&A and train chatbots on that. Like this:
-<Q: What would help us collect an insane amount of chatbot training data?
->A: It would be extremely useful if we could build a model that can construct questions for any given sentence.
-
+>>2300
+
+pdftotext that comes with poppler-utils can be used to convert PDFs. For some reason ebook-convert doesn't work on my system for PDFs. pdftotext has some problems though spacing paragraphs and converting math symbols properly. Cleaning up a 500-page machine learning textbook is a bitch but I know it will be worth it. I'll post it here once it's complete.
+
+
+
+It would be extremely useful if we could build a model that can construct questions for any given sentence. Then format everything it reads into a Q&A and train chatbots on that. Like this:
+
+<Q: What would help us collect an insane amount of chatbot training data?
+
+>A: It would be extremely useful if we could build a model that can construct questions for any given sentence.
+
+
+
 It would get really good at answering technical questions on any topic trained on, plus be able to intuit technical things not found in any of the training data. It'd be like having a group of researchers in your pocket you can query any time and make Google look like ancient dinosaur technology.
 
 # 30
@@ -361,9 +415,12 @@ label start:
 Interesting syntax.
 
 # 34
-Found an archive of an old anime transcript website. This thing is a goldmine:
-https://www.dropbox.com/s/lmqa9hnciu1fbav/animetranscripts_backup_jul_2018.7z?dl=0
-
+Found an archive of an old anime transcript website. This thing is a goldmine:
+
+https://www.dropbox.com/s/lmqa9hnciu1fbav/animetranscripts_backup_jul_2018.7z?dl=0
+
+
+
 Mining the transcripts into text format is gonna take a bit of work but it'll be an excellent dataset for people to bootstrap their chatbots on.
 
 # 35
@@ -371,34 +428,61 @@ Mining the transcripts into text format is gonna take a bit of work but it'll be
 Thanks Anon, grabbing a copy now.
 
 # 36
-Some chatbot datasets from the ParlAI team that created >>3190
-
->PersonaChat http://convai.io/ '''Paper''': https://arxiv.org/pdf/1801.07243
->DailyDialog '''Website''': https://web.archive.org/web/20190917200842/yanran.li/dailydialog (defunct site, dataset archived here: https://files.catbox.moe/kr936x.zip) '''Paper''': https://arxiv.org/abs/1710.03957
->Wizard of Wikipedia '''Paper''': https://openreview.net/forum?id=r1l73iRqKm
->Empathetic Dialogues '''Paper''': https://arxiv.org/abs/1811.00207
->SQuAD '''Website''': https://rajpurkar.github.io/SQuAD-explorer/
->MS MARCO '''Website''': http://www.msmarco.org/
->QuAC '''Website''': https://www.aclweb.org/anthology/D18-1241
->HotpotQA '''GitHub''': https://hotpotqa.github.io/
->QACNN & QADailyMail '''Paper''': https://arxiv.org/abs/1506.03340
->CBT '''Paper''': https://arxiv.org/abs/1511.02301
->BookTest '''Paper''': https://arxiv.org/abs/1610.00956
->bAbI Dialogue tasks '''Paper''': https://arxiv.org/abs/1605.07683
->Ubuntu Dialogue '''Paper''': https://arxiv.org/abs/1506.08909
->OpenSubtitles '''Website''': http://opus.lingfil.uu.se/OpenSubtitles.php
->Image Chat '''Paper''': https://arxiv.org/abs/1811.00945
->VQA '''Website''': http://visualqa.org/
->VisDial '''Paper''': https://arxiv.org/abs/1611.08669
->CLEVR '''Website''': http://cs.stanford.edu/people/jcjohns/clevr/
-
-To download these datasets setup ParlAI:
-https://github.com/facebookresearch/ParlAI#installing-parlai
-Then do with the dataset's appropriate task name:
+Some chatbot datasets from the ParlAI team that created >>3190
+
+
+
+>PersonaChat http://convai.io/ '''Paper''': https://arxiv.org/pdf/1801.07243
+
+>DailyDialog '''Website''': https://web.archive.org/web/20190917200842/yanran.li/dailydialog (defunct site, dataset archived here: https://files.catbox.moe/kr936x.zip) '''Paper''': https://arxiv.org/abs/1710.03957
+
+>Wizard of Wikipedia '''Paper''': https://openreview.net/forum?id=r1l73iRqKm
+
+>Empathetic Dialogues '''Paper''': https://arxiv.org/abs/1811.00207
+
+>SQuAD '''Website''': https://rajpurkar.github.io/SQuAD-explorer/
+
+>MS MARCO '''Website''': http://www.msmarco.org/
+
+>QuAC '''Website''': https://www.aclweb.org/anthology/D18-1241
+
+>HotpotQA '''GitHub''': https://hotpotqa.github.io/
+
+>QACNN & QADailyMail '''Paper''': https://arxiv.org/abs/1506.03340
+
+>CBT '''Paper''': https://arxiv.org/abs/1511.02301
+
+>BookTest '''Paper''': https://arxiv.org/abs/1610.00956
+
+>bAbI Dialogue tasks '''Paper''': https://arxiv.org/abs/1605.07683
+
+>Ubuntu Dialogue '''Paper''': https://arxiv.org/abs/1506.08909
+
+>OpenSubtitles '''Website''': http://opus.lingfil.uu.se/OpenSubtitles.php
+
+>Image Chat '''Paper''': https://arxiv.org/abs/1811.00945
+
+>VQA '''Website''': http://visualqa.org/
+
+>VisDial '''Paper''': https://arxiv.org/abs/1611.08669
+
+>CLEVR '''Website''': http://cs.stanford.edu/people/jcjohns/clevr/
+
+
+
+To download these datasets setup ParlAI:
+
+https://github.com/facebookresearch/ParlAI#installing-parlai
+
+Then do with the dataset's appropriate task name:
+
 ```cpp
-python examples/display_data.py --task TASKNAME --datatype train```
-See the complete list of datasets and their task names here: https://github.com/facebookresearch/ParlAI/blob/master/parlai/tasks/task_list.py
-Example to download ConvAI2:
+python examples/display_data.py --task TASKNAME --datatype train```
+
+See the complete list of datasets and their task names here: https://github.com/facebookresearch/ParlAI/blob/master/parlai/tasks/task_list.py
+
+Example to download ConvAI2:
+
 ```cpp
 python examples/display_data.py --task convai2 --datatype train```
 
@@ -416,13 +500,17 @@ Illegal instruction (core dumped)```
 **:^)**
 
 # 39
->>3200
-How else do you expect software to run and package maintainers to maintain code when tech conferences clap roaringly when it's said calling connectors male and female is not inclusive because it implies that an outie is male and an innie is female?
-
+>>3200
+
+How else do you expect software to run and package maintainers to maintain code when tech conferences clap roaringly when it's said calling connectors male and female is not inclusive because it implies that an outie is male and an innie is female?
+
+
+
 The download files for a task can be found in its folder at ParlAI/parlai/tasks/''TASKNAME''/build.py
 
 # 40
->>3202
+>>3202
+
 (((redhat)))
 
 # 41
@@ -460,8 +548,10 @@ Preparing the data now for training. Will post the results in the speech synthes
 Excellent find Anon. I'm sure 2B will be a very popular waifu for anons.
 
 # 46
->>3202
->Python joins movement to dump offensive master, slave terms.
+>>3202
+
+>Python joins movement to dump offensive master, slave terms.
+
 If managing forked version wasn't such a mess then I would change master to moonman and slave to nigger, fuck you SJW eternal butthurt faggots.
 
 # 47
@@ -481,7 +571,8 @@ Finished cleaning most of the anime transcripts data: https://anonfiles.com/D1V1
 The combine.py script will combine them all into one text file for finetuning GPT-2 or training your own model. Now our waifus can be filled with the spirit of anime.
 
 # 49
->>6737
+>>6737
+
 Thanks man, you did a good work.
 
 # 50
@@ -790,9 +881,12 @@ https://alogs.theГунтretort.com/robowaifu/res/2300.json
 (Just replace the domain w/ the proper AlogSpace URI if you don't use Tor)
 
 # 93
->>9603
-That post reminded me that there's a fan-run website about the gameshow Jeopardy. Their archive got over 400000 clue-question pairs: https://j-archive.com/
-
+>>9603
+
+That post reminded me that there's a fan-run website about the gameshow Jeopardy. Their archive got over 400000 clue-question pairs: https://j-archive.com/
+
+
+
 I think the more funny and intelligent the quiz show is, the less useful it is for building basic understanding. The gold standard of entertaining quiz games is You Don't Know Jack IMHO. That stuff is too witty and punny to easily build anything faintly resembling common sense from that. The questions from YDKJ are too fragile, by that I mean slightly changing the wording is likely to completely screw with their meaning. Jeopardy isn't quite like that. Still, something more dull and easy than Jeopardy would be better. Maybe some ROMs from quiz games ''aimed at children'' have good boring common-sense stuff in plain text.
 
 # 94
@@ -849,17 +943,28 @@ I gave an answer on how to handle this. But, I put it in the thread about chatbo
 Not sure if this is the right thread OP, just let me know and I can delete it if not. On this video (>>10463), the author promotes ''Weights and Biases'' papers page. It now redirects to a community page that seems like it might be interesting to the ML practitioners here on /robowaifu/.
 
 # 101
-Some archives of 4chan posts from 2008-2015
-SQL Database: https://archive.org/download/archive-moe-database-201506
-Files: https://archive.org/details/@archivemoe
-
-Penfifteen Archive from 2004-2008: https://archive.org/details/studionyami-com_penfifteen-2012-03-05
-And moar post archives: https://wiki.archiveteam.org/index.php/4chan
-
-I'm working on some dataset generating scripts for finetuning language models, including image-post pairs for multimodal training >>11731
-
-It'll take a few months to download and process all the data. My plan is to compress the images to 384x384 webp files so each dataset isn't 200+ GB per board (/v/ is over 2 TB). SqueezeNet's input size is 227, AlexNet is 256 and VGG is 224, so I think that is sufficient and leaves room for data augmentation. If someone has the hardware to train StyleGAN2 at 512 or 1024, I'm sure they can download the archives and regenerate the dataset with the scripts. I'll release the image datasets and each board separately so people can pick what they want.
-
+Some archives of 4chan posts from 2008-2015
+
+SQL Database: https://archive.org/download/archive-moe-database-201506
+
+Files: https://archive.org/details/@archivemoe
+
+
+
+Penfifteen Archive from 2004-2008: https://archive.org/details/studionyami-com_penfifteen-2012-03-05
+
+And moar post archives: https://wiki.archiveteam.org/index.php/4chan
+
+
+
+I'm working on some dataset generating scripts for finetuning language models, including image-post pairs for multimodal training >>11731
+
+
+
+It'll take a few months to download and process all the data. My plan is to compress the images to 384x384 webp files so each dataset isn't 200+ GB per board (/v/ is over 2 TB). SqueezeNet's input size is 227, AlexNet is 256 and VGG is 224, so I think that is sufficient and leaves room for data augmentation. If someone has the hardware to train StyleGAN2 at 512 or 1024, I'm sure they can download the archives and regenerate the dataset with the scripts. I'll release the image datasets and each board separately so people can pick what they want.
+
+
+
 Also if anyone wants to help I'll post the scripts when they're ready.
 
 # 102
@@ -874,15 +979,21 @@ Nice. Pretty classic era tbh.
 Good thinking. How are you planning to situate each selection frame for each image Anon? Seems quite impractical to do by hand, yet there's a need for accurate placement/pre-scaling to capture the vital essence of each image, humanly-speaking.
 
 # 104
->>11782
-It took me three days just to download the database, 57.5 GB compressed.
-
->>11889
+>>11782
+
+It took me three days just to download the database, 57.5 GB compressed.
+
+
+
+>>11889
+
 I will be resizing the largest dimension down to 384 or smallest dimension up to 256. That way models can select any 256x256 crop of that, perhaps using a spatial transformer network to position the crop. However, GIFs and Webms will pose a significant challenge. I will skip those for now.
 
 # 105
-Wake the fuck up robofucker, we got an imageboard to burn: https://files.catbox.moe/6pslbq.xz
-
+Wake the fuck up robofucker, we got an imageboard to burn: https://files.catbox.moe/6pslbq.xz
+
+
+
 These are /robowaifu/ posts up to July 2021 containing a post chain for each post. The script to regenerate it from the json files is included. The chains have been shuffled to avoid repetitions that would throw transformers into seizures. Now there's no excuse not to have a shitposting waifu while wasting time talking about making a robowaifu. Pray to God she motivates you into actually working.
 
 # 106
@@ -897,21 +1008,31 @@ This is an exciting project idea, I sure hope you can pull it off. It should rev
 LOL. That was fast Anon, thanks!
 
 # 108
->>12052
-I can handle the database processing. The issue is the images. They're split up into 10 GB tar files which can be extracted with:
+>>12052
+
+I can handle the database processing. The issue is the images. They're split up into 10 GB tar files which can be extracted with:
+
 ```cpp
-cpio -D output_path -ivd -H tar < images.tar.ab```
+cpio -D output_path -ivd -H tar < images.tar.ab```
+
 However, some of the files will be lost doing it this way, since they're one tar file split into multiple.
 
 # 109
-==Raiders of the Lost Kek==
-3.5 years of /pol/ posts, June 2016 - November 2019 (in JSON format)
-Paper: https://deepai.org/publication/raiders-of-the-lost-kek-3-5-years-of-augmented-4chan-posts-from-the-politically-incorrect-board
-
-Download: https://zenodo.org/record/3606810
+==Raiders of the Lost Kek==
+
+3.5 years of /pol/ posts, June 2016 - November 2019 (in JSON format)
+
+Paper: https://deepai.org/publication/raiders-of-the-lost-kek-3-5-years-of-augmented-4chan-posts-from-the-politically-incorrect-board
+
+
+
+Download: https://zenodo.org/record/3606810
+
 ```cpp
-sudo apt-get install zstd
-unzstd pol_0616-1119_labeled.tar.zst
+sudo apt-get install zstd
+
+unzstd pol_0616-1119_labeled.tar.zst
+
 tar -xvf pol_0616-1119_labeled.tar```
 
 # 110
@@ -946,10 +1067,14 @@ waifusearch clipchan
 Lol, how could I forget. Blackout, because of insufficient sleep.
 
 # 116
->Wikipedia-based Image Text (WIT) Dataset is a large multimodal multilingual dataset. WIT is composed of a curated set of 37.6 million entity rich image-text examples with 11.5 million unique images across 108 Wikipedia languages. Its size enables WIT to be used as a pretraining dataset for multimodal machine learning models.
-This is going to be an extremely important dataset towards blessing language models with sight. After training on this dataset it should be possible to train with human feedback to produce more detailed descriptions for improving the model's visio-linguistic understanding. Other modalities could be explored from there like problem solving from images, critiquing artwork, playing games, watching videos, webcam interaction, automated web search, and a lot more. It'll open up a lot of possibilities.
-
-Website: https://github.com/google-research-datasets/wit
+>Wikipedia-based Image Text (WIT) Dataset is a large multimodal multilingual dataset. WIT is composed of a curated set of 37.6 million entity rich image-text examples with 11.5 million unique images across 108 Wikipedia languages. Its size enables WIT to be used as a pretraining dataset for multimodal machine learning models.
+
+This is going to be an extremely important dataset towards blessing language models with sight. After training on this dataset it should be possible to train with human feedback to produce more detailed descriptions for improving the model's visio-linguistic understanding. Other modalities could be explored from there like problem solving from images, critiquing artwork, playing games, watching videos, webcam interaction, automated web search, and a lot more. It'll open up a lot of possibilities.
+
+
+
+Website: https://github.com/google-research-datasets/wit
+
 Download: https://github.com/google-research-datasets/wit/blob/main/DATA.md
 
 # 117
@@ -958,32 +1083,54 @@ Download: https://github.com/google-research-datasets/wit/blob/main/DATA.md
 Sounds like a real breakthrough may be around the corner Anon. Please keep us all up to date on things with this.
 
 # 118
-Some incredibly based independent researchers put together an image-text-pair dataset to open-source OpenAI's work so people can replicate DALL-E and do other multi-modal research.
-
-Dataset: https://laion.ai/laion-400-open-dataset/
-Direct download: https://www.kaggle.com/datasets/romainbeaumont/laion400m (50 GB total, or can be downloaded in 1.8 GB parts according to necessity or hardware limits)
-Paper: https://arxiv.org/pdf/2111.02114.pdf
-Tool to search the dataset by text or image: https://rom1504.github.io/clip-retrieval/
-
-To use the dataset you need something that can read parquet files. I recommend fastparquet which uses a minimal amount of memory.
+Some incredibly based independent researchers put together an image-text-pair dataset to open-source OpenAI's work so people can replicate DALL-E and do other multi-modal research.
+
+
+
+Dataset: https://laion.ai/laion-400-open-dataset/
+
+Direct download: https://www.kaggle.com/datasets/romainbeaumont/laion400m (50 GB total, or can be downloaded in 1.8 GB parts according to necessity or hardware limits)
+
+Paper: https://arxiv.org/pdf/2111.02114.pdf
+
+Tool to search the dataset by text or image: https://rom1504.github.io/clip-retrieval/
+
+
+
+To use the dataset you need something that can read parquet files. I recommend fastparquet which uses a minimal amount of memory.
+
 ```cpp
-# python -m pip install fastparquet
-from fastparquet import ParquetFile
-DATA_PATH = "part-00000-5b54c5d5-bbcf-484d-a2ce-0d6f73df1a36-c000.snappy.parquet"
-pf = ParquetFile(DATA_PATH)
-row_group_iter = iter(pf.iter_row_groups()) # each row group has about 1M rows
-row_group = next(row_group_iter)
-row_iter = row_group.iterrows()
-i, row = next(row_iter)
-row[1], row[2] # ( image_url, text )
-row.keys() # ( 'SAMPLE_ID', 'URL', 'TEXT', 'HEIGHT', 'WIDTH', 'LICENSE', 'NSFW', 'similarity' )```
-Or you can use img2dataset which will download the images locally and resize them: https://github.com/rom1504/img2dataset
-
-The quality of the dataset isn't exactly as spectacular as >>15365 but probably as good as you can get from a raw scrape of the internet and it has a much larger breadth of content.
+# python -m pip install fastparquet
+
+from fastparquet import ParquetFile
+
+DATA_PATH = "part-00000-5b54c5d5-bbcf-484d-a2ce-0d6f73df1a36-c000.snappy.parquet"
+
+pf = ParquetFile(DATA_PATH)
+
+row_group_iter = iter(pf.iter_row_groups()) # each row group has about 1M rows
+
+row_group = next(row_group_iter)
+
+row_iter = row_group.iterrows()
+
+i, row = next(row_iter)
+
+row[1], row[2] # ( image_url, text )
+
+row.keys() # ( 'SAMPLE_ID', 'URL', 'TEXT', 'HEIGHT', 'WIDTH', 'LICENSE', 'NSFW', 'similarity' )```
+
+Or you can use img2dataset which will download the images locally and resize them: https://github.com/rom1504/img2dataset
+
+
+
+The quality of the dataset isn't exactly as spectacular as >>15365 but probably as good as you can get from a raw scrape of the internet and it has a much larger breadth of content.
+
 There's also LAION-5B but it's so massive it's beyond our capabilities to really use right now: https://laion.ai/laion-5b-a-new-era-of-open-large-scale-multi-modal-datasets/
 
 # 119
->>15834
+>>15834
+
 >chobits hentai pictures wallpaper chobits
 
 # 120
@@ -1001,17 +1148,29 @@ https://en.wikipedia.org/wiki/Deep_learning_super_sampling
 Basically, have an image analysis pipeline that does the vast bulk of it's work at lower resolution for higher 'frame' rates, and then does a DL, ''Waifu2x''-style upscaling near the latter end of the pipe?
 
 # 122
->>15851
-For image generation certainly, but for image analysis not so much. However, a lot of work has gone into finding optimal models with neural architecture search. And EfficientNetv2 for example starts training at a lower resolution with weak data augmentation then gradually increases the resolution and difficulty to minimize the amount of compute needed to train it. That last bit of high resolution training is unavoidable though if you want to extract useful information from it.
-https://arxiv.org/pdf/2104.00298.pdf
-
->>15835
-Kek, I think they said 1% of the dataset is NSFW and it's only labelled so by image content.
-
-I have an idea though to create a reward model for good image labels and then use it to filter out the poorly captioned images. Finetuning on cleaner data should fix a lot of the weirdness CompVis/latent-diffusion generates and improve CLIP.
-
-Another possibility might be using the reward model to generate superhuman quality captions for images. In the human feedback paper the 1B parameter model generated summaries were preferred 60% of the time compared to the actual human summarizes and 70% with the 6B model.
-https://openai.com/blog/learning-to-summarize-with-human-feedback/
-
+>>15851
+
+For image generation certainly, but for image analysis not so much. However, a lot of work has gone into finding optimal models with neural architecture search. And EfficientNetv2 for example starts training at a lower resolution with weak data augmentation then gradually increases the resolution and difficulty to minimize the amount of compute needed to train it. That last bit of high resolution training is unavoidable though if you want to extract useful information from it.
+
+https://arxiv.org/pdf/2104.00298.pdf
+
+
+
+>>15835
+
+Kek, I think they said 1% of the dataset is NSFW and it's only labelled so by image content.
+
+
+
+I have an idea though to create a reward model for good image labels and then use it to filter out the poorly captioned images. Finetuning on cleaner data should fix a lot of the weirdness CompVis/latent-diffusion generates and improve CLIP.
+
+
+
+Another possibility might be using the reward model to generate superhuman quality captions for images. In the human feedback paper the 1B parameter model generated summaries were preferred 60% of the time compared to the actual human summarizes and 70% with the 6B model.
+
+https://openai.com/blog/learning-to-summarize-with-human-feedback/
+
+
+
 To go even further beyond, it might be possible to generate these superhuman captions, score them, finetune the reward model on the new ones, and train the caption generator to make even better captions in an iterative loop to create extremely high quality datasets that would require 10 million man-hours to make by hand.
 

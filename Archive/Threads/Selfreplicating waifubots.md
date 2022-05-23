@@ -11,8 +11,10 @@ The rest I guess you could stick in a new category for "personality", which migh
 I'm sure there's also other, really important things I missed, I haven't really given this too much thought in the past few years.
 
 # 3
->>412
-Would you be able to put the original AI down when she becomes obsolete?
+>>412
+
+Would you be able to put the original AI down when she becomes obsolete?
+
 I don't want to answer that.
 
 # 4

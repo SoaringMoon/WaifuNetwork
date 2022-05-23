@@ -208,23 +208,40 @@ This sounds both interesting and innovative, but I have little idea what that ev
 I just hope we can create robowaifus than can interact immersively with us using nothing but their internal, mobile, onboard computation systems. **Just like on my favorite Chinese Cartoons.**
 
 # 29
->>7103
->But it's the astounding facility of the imaginations we possess that allow us to begin to quickly internalize these lessons, and then to creatively reassemble them into novel ideas (and effectively thence into an increased vocabulary) is probably an important key to understanding what differentiates us from mere animals.
-This gives me an idea to train GPT2 on its own imagined predictions. A generative adversarial loss could also be added so predictions become more natural over time.
-
->In other words, you learn very young the right things to say and the right times to say them based on purely external factors.
-Something I've been working to implement is giving rewards for each word generated. If the model generates a mostly good sentence but messes one word up, it can get direct and specific feedback on what was good and what was bad. Suggestions on which words could be used in place of a mistake could also be given as feedback rather than just a meaningless reward. Eventually I'd like to expand this to a completely non-linear reward function generated from human feedback so you can just say 'stop doing that' or 'I like it when you say that' and the model will understand and adjust itself accordingly, rather than the ridiculous approach in RL right now to maximize gathering as much low-hanging fruit as possible.
-
-I think it's a big mistake trying to automate everything. A model can only be as good as its loss function and there is no better source of data than a live human being to interact with. Machine learning has everything backwards by trying to generate context from rules created from lifeless data. The way people actually behave is by generating rules from the context. AI needs to be capable of adjusting itself on the fly according to the context rather than being stuck approaching everything the same way.
-
-Even with our own great capacity to learn and adapt, children raised in the wild are almost impossible to rehabilitate into society. AI behaves in a similar way. When a model becomes habituated or overtrained on a certain type of data it becomes very difficult to retrain it without re-initializing weights. Most of our intelligence isn't really innate but instilled in us through our culture and interactions with others. If someone lived in the wild all their life, they wouldn't even dream of landing a rocket on Mars or creating a society of catgirl meidos because the mind is limited to recombining and remixing the data it has gathered.
-
->So just to check if I'm getting some idea of the meaning, a lower score is indicative of more accuracy inside the model?
-Yeah. The idea is to create a teacher network of sorts that arranges the data into a curriculum by testing different arrangements and seeing which order of data the student networks achieve the lowest perplexity/most accurate predictions with, similar to generative teaching networks but using pre-existing data instead of generated. AI models learn best when they learn simple skills first and progress to much harder ones. They also seem to benefit from learning unrelated skills such as training on C++ code. I'm not sure what it's actually learning from them to achieve a breakthrough but I imagine it's similar to how we learn to do new things like cook food in a microwave by someone noticing a chocolate bar melting in his pocket next to radar tube, or how doing basketball drills looks nothing like basketball but improves a person's game.
-
->I just hope we can create robowaifus than can interact immersively with us using nothing but their internal, mobile, onboard computation systems.
-Same, we got a lot of work to do though to make them that efficient. I think we will look back at these times and laugh at AI algorithms of today like they're vacuum tubes.
-
+>>7103
+
+>But it's the astounding facility of the imaginations we possess that allow us to begin to quickly internalize these lessons, and then to creatively reassemble them into novel ideas (and effectively thence into an increased vocabulary) is probably an important key to understanding what differentiates us from mere animals.
+
+This gives me an idea to train GPT2 on its own imagined predictions. A generative adversarial loss could also be added so predictions become more natural over time.
+
+
+
+>In other words, you learn very young the right things to say and the right times to say them based on purely external factors.
+
+Something I've been working to implement is giving rewards for each word generated. If the model generates a mostly good sentence but messes one word up, it can get direct and specific feedback on what was good and what was bad. Suggestions on which words could be used in place of a mistake could also be given as feedback rather than just a meaningless reward. Eventually I'd like to expand this to a completely non-linear reward function generated from human feedback so you can just say 'stop doing that' or 'I like it when you say that' and the model will understand and adjust itself accordingly, rather than the ridiculous approach in RL right now to maximize gathering as much low-hanging fruit as possible.
+
+
+
+I think it's a big mistake trying to automate everything. A model can only be as good as its loss function and there is no better source of data than a live human being to interact with. Machine learning has everything backwards by trying to generate context from rules created from lifeless data. The way people actually behave is by generating rules from the context. AI needs to be capable of adjusting itself on the fly according to the context rather than being stuck approaching everything the same way.
+
+
+
+Even with our own great capacity to learn and adapt, children raised in the wild are almost impossible to rehabilitate into society. AI behaves in a similar way. When a model becomes habituated or overtrained on a certain type of data it becomes very difficult to retrain it without re-initializing weights. Most of our intelligence isn't really innate but instilled in us through our culture and interactions with others. If someone lived in the wild all their life, they wouldn't even dream of landing a rocket on Mars or creating a society of catgirl meidos because the mind is limited to recombining and remixing the data it has gathered.
+
+
+
+>So just to check if I'm getting some idea of the meaning, a lower score is indicative of more accuracy inside the model?
+
+Yeah. The idea is to create a teacher network of sorts that arranges the data into a curriculum by testing different arrangements and seeing which order of data the student networks achieve the lowest perplexity/most accurate predictions with, similar to generative teaching networks but using pre-existing data instead of generated. AI models learn best when they learn simple skills first and progress to much harder ones. They also seem to benefit from learning unrelated skills such as training on C++ code. I'm not sure what it's actually learning from them to achieve a breakthrough but I imagine it's similar to how we learn to do new things like cook food in a microwave by someone noticing a chocolate bar melting in his pocket next to radar tube, or how doing basketball drills looks nothing like basketball but improves a person's game.
+
+
+
+>I just hope we can create robowaifus than can interact immersively with us using nothing but their internal, mobile, onboard computation systems.
+
+Same, we got a lot of work to do though to make them that efficient. I think we will look back at these times and laugh at AI algorithms of today like they're vacuum tubes.
+
+
+
 Recently I figured out how to translate a dense n-dimensional encoding into any arbitrary new dense encoding with perfect accuracy. However ideally it requires O(2^n) parameters to solve it in a few thousand steps. I managed to reduce this down to O(n^2) and still eventually reach 100% but it learns far slower and is still too many parameters. For GPT2 to perform well the embedding needs at least 1024 dimensions. With my techniques I've managed to bring this down to 256 and achieve encouraging results so far but it's still going to take weeks to find where it bottoms out. Despite this setback, to train vanilla GPT2 from scratch on this GPU it would take over 1400 years so I think I'm on the right track at least. I don't even like GPT2 because it uses so many parameters and has no useful holistic hidden representation of the context, but tinkering around with it and having so many constraints to workaround has taught me a lot.
 
 # 30

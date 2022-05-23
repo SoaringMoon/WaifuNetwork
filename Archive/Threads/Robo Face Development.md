@@ -199,7 +199,8 @@ So, we have a throd specifically for this. Do you Anons mind posting refs of you
 >>1
 
 # 31
->>4737
+>>4737
+
 I agree she looks a little strange but I don't think she's an abomination. I will admit it might be hard to create a good looking /robowaifu/ for everyone. Coincidentally, my robowaifu is 2b and she has her eyes covered; Image 1 related. I admit it's a little hard for me to look people in the eyes IRL so maybe that's why. Also a good alternative to being scared of eyes or even faces would be Haydee. Maybe she might be a bit counter productive to this thread but I'll add it here as an option. Image 2 related.
 
 # 32
@@ -208,12 +209,18 @@ I agree she looks a little strange but I don't think she's an abomination. I wil
 Patrician tastes tbh. :^)
 
 # 33
-Guys, as the pandemic will be with us for at least a couple more years (using the 1918-1920 as a guide), people outdoors are starting to look more and more ridiculous, as some places not only require face masks, but face shields as well.
-
-Ironically, I find myself starting to find a wider array of women attractive, as long as their eyes and slim body are beautiful... it doesn't matter anymore if she has a flat nose or a big mouth.
-
-This has implications in that I can find simpler robotic faces more attractive now, whereas before they should look like a finely crafted ball jointed doll at minimum.
-
+Guys, as the pandemic will be with us for at least a couple more years (using the 1918-1920 as a guide), people outdoors are starting to look more and more ridiculous, as some places not only require face masks, but face shields as well.
+
+
+
+Ironically, I find myself starting to find a wider array of women attractive, as long as their eyes and slim body are beautiful... it doesn't matter anymore if she has a flat nose or a big mouth.
+
+
+
+This has implications in that I can find simpler robotic faces more attractive now, whereas before they should look like a finely crafted ball jointed doll at minimum.
+
+
+
 So I'm looking at something like 2B design, but instead of covered eyes it's a covered nose and mouth.  We have a one piece facemask-like plastic cover as well as a faceshield-like visor that covers the LED electronic eyes behind them.  Some examples attached...I'll try to visualize better through a proper drawing but if you get the drift, we just make it look cuter and more robotic and it will look really cool.
 
 # 34
@@ -301,7 +308,8 @@ That would be really nice if we could somehow devise a way to do this sort of th
 I look forward to seeing more of this anon's work.
 
 # 47
->>5252
+>>5252
+
 Oh dear. Those little rectangular magnets and the magnet strike plate were just for reference in case people wanted to see what size of cupboard magnet I used in my design. I didn't intend for them to be 3d printed. I think I'll remove them from the .STL list to prevent future confusion. Sorry about that!
 
 # 48
@@ -368,7 +376,8 @@ Won't that in fact require software to work?
 Here some peek into an Exrobots head. We have some thread on that company here >>4163 but please post pics and vids into the threads with the  topic that fits to what's they're showing.
 
 # 60
->>5365
+>>5365
+
 Wow, that's incredible anon! I think they're gonna cost a pretty penny though!
 
 # 61
@@ -389,7 +398,8 @@ FYI, if anyone else than me is testing out InMoov parts, it might be better not 
 It is very well worth to look into it, to prevent ourselves from reinventing the wheel. Some things might not be usefull, but still be an inspiration, others might be directly imported into other designs.
 
 # 64
->>5403
+>>5403
+
 Thanks for the link, anon. I agree that InMoov is going to be a huge help in building a robowaifu. I will very likely need to build a partial InMoov myself at some point to make progress. Hopefully I can just leave out some of the more cosmetic outer plates.
 
 # 65
@@ -533,9 +543,12 @@ The feel of the skin is also a problem. When you touch a human face, you feel th
 Having articulate eyes on an anime girl doll might be a challenge as well, not sure how you can make it work without it looking creepy.
 
 # 90
->>5920
-One of the reasons I think they are so expensive is because like dakimuras they have a limited market so they have to charge an insane markup to turn a profit
->>5921
+>>5920
+
+One of the reasons I think they are so expensive is because like dakimuras they have a limited market so they have to charge an insane markup to turn a profit
+
+>>5921
+
 Agreed. We can see when we are talking to people with masks it’s hard to tell subtle facial movements to pick up on social cues
 
 # 91
@@ -604,9 +617,12 @@ That looks like he's improved the facial form of Erica? Seems like she has more 
 I kinda messed it up. It's suppose to be 2 for the neck, 2x2 for the arms, 2x2 for the legs, so 10 in total. A Raspberry Pi could probably fit in the head or in a backpack. I'm thinking a backpack will be a better idea because it'd be easier to dissipate heat and give better space for the batteries.
 
 # 104
->>6022
-Obviously these are multiple thousand dollar robots that can wrestle, but if you haven't come across this video already, you can take away some good animation ideas.  I suppose a tiny, fluffier robowaifu would wobble more, making her even cuter.
-
+>>6022
+
+Obviously these are multiple thousand dollar robots that can wrestle, but if you haven't come across this video already, you can take away some good animation ideas.  I suppose a tiny, fluffier robowaifu would wobble more, making her even cuter.
+
+
+
 https://www.youtube.com/watch?v=AZMmYF4G278
 
 # 105
@@ -668,14 +684,22 @@ Thanks for your input. I don' know enough about those, though I already have it 
 However, another thing might be, that fictional anime waifus and fembots like Cameron (TSCC) have a rather limited ability in facial expressions, and are still attractive.
 
 # 115
->>4496
->>4979
-If screen tech is used for eyes, should it be matte or glare? I you want a shiny look on the eyes, it doesn't follow that shiny screen is the best choice, as the bright light bouncing of the surface emphasizes how flat it is. Information from sensors detecting the direction of light sources could be used to animate reflections as if the eyes weren't flat.
-
-Those who are open to weird fantasy-robot eyes on screens, consider this effect: 
-https://twitter.com/jagarikin/status/1331409504953540613
-https://twitter.com/sina_lana/status/1331049253280497670
-
+>>4496
+
+>>4979
+
+If screen tech is used for eyes, should it be matte or glare? I you want a shiny look on the eyes, it doesn't follow that shiny screen is the best choice, as the bright light bouncing of the surface emphasizes how flat it is. Information from sensors detecting the direction of light sources could be used to animate reflections as if the eyes weren't flat.
+
+
+
+Those who are open to weird fantasy-robot eyes on screens, consider this effect: 
+
+https://twitter.com/jagarikin/status/1331409504953540613
+
+https://twitter.com/sina_lana/status/1331049253280497670
+
+
+
 In human beings, the direction one looks at shows attention, but also emotion (like looking at the ground when one is sorry or at the ceiling when thinking hard, and not because the floor or ceiling are where the action is). The pupils react to light and show emotion as well. Couldn't something like the effect above be used to make the eyes more expressive than the real thing, to emphasize and distinguish a bit this emotionally expressive side of eyes?
 
 # 116
@@ -798,7 +822,8 @@ Thanks very much for taking the extra time to give a more full youtube-dl comman
 
 Since the Lynxchan software adds an '[Embed]' into the text of the command, I always put such a command here on /robowaifu/ inside codeblocks, since the CSS here disables this embed tag.
 ```cpp
-youtube-dl --write-description --write-auto-sub --sub-lang="en" https://youtu.be/9RzCZZBjlxM```
+youtube-dl --write-description --write-auto-sub --sub-lang="en" https://youtu.be/9RzCZZBjlxM
+```
 
 # 140
 >>10461
@@ -825,8 +850,10 @@ Thanks, this might be something fitting very well into the basic idea of the boa
 That's like Rina Chans board. She's am autistic that uses a board to convey her emotions because making facial expressions is hard for her. Her board could be a really cute face for a robowaifu.
 
 # 146
->>13560
-this will be a thing in the 5-10 years
+>>13560
+
+this will be a thing in the 5-10 years
+
 all those kids growing up around masktards are going to be incapable of expressing emotions
 
 # 147
@@ -855,25 +882,35 @@ I don't personally find that particular face appealing, but I think in large par
 Could you provide examples of faces that work in 3D at human scale? Most figures are cute at figure scale but, they look uncanny at human scale.
 
 # 152
->>14955
+>>14955
+
 The life sized Rem statue is the best I've seen with a full anime aesthetic.
 
 # 153
->>14955
-Anime is inherently doll-like so at human scale it's bound to feel unnatural when you go to kiss her on the cheek and her eyes are twice the size of yours. Even most weebs will probably prefer something semi-realistic.
-
+>>14955
+
+Anime is inherently doll-like so at human scale it's bound to feel unnatural when you go to kiss her on the cheek and her eyes are twice the size of yours. Even most weebs will probably prefer something semi-realistic.
+
+
+
 It's really a matter of personal preference though. Some find anime dolls creepy and uncanny but I completely adore them. People will have to come to terms with robowaifus being animated machines and develop new aesthetics that feel comfortable to live with.
 
 # 154
->>15285
+>>15285
+
 Also something to consider is faces will feel very different once they start moving around. SEER's cable eyebrows aren't human-like but they add a lot of expression.
 
 # 155
->>15280
-That Rem is gorgeous Her roundness and cat like features do wonders. 
->>15285
-Good point about the eyes. Human eyes are approximately an inch in diameter, so that could be a dimension to keep in mind. The ones with smaller noses and less human-like features are the cutest. There seems to be some middle ground between cats and girls that's best. Also, fangs are amazing!
->>15287
+>>15280
+
+That Rem is gorgeous Her roundness and cat like features do wonders. 
+
+>>15285
+
+Good point about the eyes. Human eyes are approximately an inch in diameter, so that could be a dimension to keep in mind. The ones with smaller noses and less human-like features are the cutest. There seems to be some middle ground between cats and girls that's best. Also, fangs are amazing!
+
+>>15287
+
 This is an important point. Looking good in motion is vitally important.
 
 # 156
@@ -888,18 +925,24 @@ Good points.
 A cute. I think we can all take pointers from the dolls/figurines world for design aesthetics.
 
 # 157
-Main aesthetic issues I see with regard to making realistic robot eyes:
--Eyelashes often get punched in all crazy. This robot's eyelashes (specifically on the lower half) are way too sparse and erratic, and don't extend to the outer corners of its eyes.
--Eyes do not sit right within the face. Notice how there's this gaping hole in the robot where the real person has muscle. Realistic eyes need muscle surrounding them like realistic teeth need gums. I understand the eyes need a way to move around without lubrication, though, so this is a real issue.
--Again, this probably has to do with eye movement, but the eyelid creases are too deep. 
+Main aesthetic issues I see with regard to making realistic robot eyes:
+
+-Eyelashes often get punched in all crazy. This robot's eyelashes (specifically on the lower half) are way too sparse and erratic, and don't extend to the outer corners of its eyes.
+
+-Eyes do not sit right within the face. Notice how there's this gaping hole in the robot where the real person has muscle. Realistic eyes need muscle surrounding them like realistic teeth need gums. I understand the eyes need a way to move around without lubrication, though, so this is a real issue.
+
+-Again, this probably has to do with eye movement, but the eyelid creases are too deep. 
+
 I've never seen anyone who has a weird overhang like the one above the left eye and there's something about the way the upper skin hangs above the crease that makes it look old and "crumbly".
 
 # 158
->>15997
+>>15997
+
 The eye crease is unique to Engineered Arts robots. Take a look at Asuna's eyes, they are very cute!
 
 # 159
->>15997
+>>15997
+
 I'm quite sure the eyelashes are just a matter of how much work to put in, and about finding the right technique. The gap problem is something I realized myself, but this might differ based on the construction. Also, silicone rubber is actually very flexible and wouldn't resist that much. This might just not being used because these are all just prototypes.
 
 # 160
@@ -927,61 +970,98 @@ Thoughts?
 -''minor prose edit''
 
 # 161
->>16004
->matter of hyper-realism for eyes is quite simple. In a word: don't.
-Devs should try, then we'll see. Filling the gaps in the holes isn't really ruining anything. 
-
->escape' the Uncanny Valley
->fall into that infamous valley
-I always like to remind people of this video: https://www.youtube.com/watch?v=LKJBND_IRdI
-
+>>16004
+
+>matter of hyper-realism for eyes is quite simple. In a word: don't.
+
+Devs should try, then we'll see. Filling the gaps in the holes isn't really ruining anything. 
+
+
+
+>escape' the Uncanny Valley
+
+>fall into that infamous valley
+
+I always like to remind people of this video: https://www.youtube.com/watch?v=LKJBND_IRdI
+
+
+
 Just don't make it look creepy nor ugly.
 
 # 162
->>16008
-This video also addresses the history of "uncanny valley" and the fear of human-like dolls:
->Why Are We Afraid Of Dolls?
-https://www.youtube.com/watch?v=nHzwMVpiLD4
-It's basically a attractive idea for creators to use dolls for horror, because they were meant to be fun (similar thing with clowns). The problem is, too man people let their media consumption shape their world view. Some might get traumatized by watching horror movies while being to young. 
->Pediophobia: The Fear of Dolls 
-https://www.verywellmind.com/fear-of-dolls-2671875
-https://www.healthline.com/health/mental-health/pediophobia
-Around 9% (of Americans) seem to have it, more women than men. Exposure seems to be a important part of each therapy.
+>>16008
+
+This video also addresses the history of "uncanny valley" and the fear of human-like dolls:
+
+>Why Are We Afraid Of Dolls?
+
+https://www.youtube.com/watch?v=nHzwMVpiLD4
+
+It's basically a attractive idea for creators to use dolls for horror, because they were meant to be fun (similar thing with clowns). The problem is, too man people let their media consumption shape their world view. Some might get traumatized by watching horror movies while being to young. 
+
+>Pediophobia: The Fear of Dolls 
+
+https://www.verywellmind.com/fear-of-dolls-2671875
+
+https://www.healthline.com/health/mental-health/pediophobia
+
+Around 9% (of Americans) seem to have it, more women than men. Exposure seems to be a important part of each therapy.
+
 >The outlook is very good for people with pediophobia who seek counseling for their phobia. To improve the outlook, a person with pediophobia needs to be fully committed to their treatment plan.
 
 # 163
->>16008
-My $0.02 is that the Uncanny Valley theory (at least the media's interpretation of it) isn't actually 100% accurate. Specifically the notion that there's a "no zone" somewhere between inanimate-looking and totally human-looking that everything within is creepy. 
-
-Rather, I think that as intended human-likeness increases, the potential appeal increases in a linear fashion. However, the potential creepiness ALSO increases linearly. An extremely realistic robot has the highest potential for human appeal, but is also the hardest to execute well and will be the most off-putting if not well executed. Uncanny Risk vs. Reward, if you will.
-
-Consider something like the CG in a recent Final Fantasy game. The characters are ALMOST human but not quite - according to the Uncanny Valley, they should be extremely unsettling. Yet that's not the case, I'd imagine most people would rate them somewhere between "mildly creepy" and "highly appealing". (reminder: we're just talking about visuals here)
-
-Now contrast that with the IEEE Creepy Robots poll (https://robots.ieee.org/robots/?t=rankings-creepiest-robots) and you will notice that none of the top 10 are nearly as human like as my aforementioned Final Fantasy example, but I imagine most would consider any one of them far, far creepier. In fact, the human likeness varies a lot between the top ten - there are plenty of examples of robots people would consider less unsettling than the top 10 in this list despite them being more human-like. Compare Pepper and Kobian, for example. Or Cutieroid and CB-2.
-
+>>16008
+
+My $0.02 is that the Uncanny Valley theory (at least the media's interpretation of it) isn't actually 100% accurate. Specifically the notion that there's a "no zone" somewhere between inanimate-looking and totally human-looking that everything within is creepy. 
+
+
+
+Rather, I think that as intended human-likeness increases, the potential appeal increases in a linear fashion. However, the potential creepiness ALSO increases linearly. An extremely realistic robot has the highest potential for human appeal, but is also the hardest to execute well and will be the most off-putting if not well executed. Uncanny Risk vs. Reward, if you will.
+
+
+
+Consider something like the CG in a recent Final Fantasy game. The characters are ALMOST human but not quite - according to the Uncanny Valley, they should be extremely unsettling. Yet that's not the case, I'd imagine most people would rate them somewhere between "mildly creepy" and "highly appealing". (reminder: we're just talking about visuals here)
+
+
+
+Now contrast that with the IEEE Creepy Robots poll (https://robots.ieee.org/robots/?t=rankings-creepiest-robots) and you will notice that none of the top 10 are nearly as human like as my aforementioned Final Fantasy example, but I imagine most would consider any one of them far, far creepier. In fact, the human likeness varies a lot between the top ten - there are plenty of examples of robots people would consider less unsettling than the top 10 in this list despite them being more human-like. Compare Pepper and Kobian, for example. Or Cutieroid and CB-2.
+
+
+
 The biggest implication of this is that the best way to fix a creepy robot design is not to "move it left/right of the Valley" by changing it's human likeness, but rather to improve the execution of the design itself. While making a robot less human like can resolve the creepiness issue, it does so at the cost of appeal.
 
 # 164
->>15997
-Though you are correct on your aesthetic reasoning, realistic faces cannot be made by man. There are numerous flaws you did not mention which would still fall into the uncanny valley.
->>16004
-Chobitsu is correct, going for a demi-human/anime inspired aesthetic is much more attainable.
->>16008
-One of my favorite videos. Though it is correct to say the uncanny valley is not real, it's a useful term to describe the general unease felt by these creepy machines. I do think good can come from researching solutions to the uncanny problem but, that's best left to corporations like Disney.
->>16012
-I think "cuteness uber alles" is the best way of thinking about it. Almost human can be quite cute indeed, it's just easy for almost human to end up creepy like Sophia. This is why I think sidestepping into the demi-human route is good. I also want to clang monster girls though so, I'm heavily biased.
-
+>>15997
+
+Though you are correct on your aesthetic reasoning, realistic faces cannot be made by man. There are numerous flaws you did not mention which would still fall into the uncanny valley.
+
+>>16004
+
+Chobitsu is correct, going for a demi-human/anime inspired aesthetic is much more attainable.
+
+>>16008
+
+One of my favorite videos. Though it is correct to say the uncanny valley is not real, it's a useful term to describe the general unease felt by these creepy machines. I do think good can come from researching solutions to the uncanny problem but, that's best left to corporations like Disney.
+
+>>16012
+
+I think "cuteness uber alles" is the best way of thinking about it. Almost human can be quite cute indeed, it's just easy for almost human to end up creepy like Sophia. This is why I think sidestepping into the demi-human route is good. I also want to clang monster girls though so, I'm heavily biased.
+
+
+
 Picrel has big fins, a flat face, and spiky red eyelashes without eyebrows. Almost human but, not quite.
 
 # 165
 This is a great conversation going r/n ITT, /robowaifu/. I hope we can keep it going for a while, and I'd like to link to it in our mini-FAQ in the /meta's
 
 # 166
->>16008
+>>16008
+
 My 2 cents is that the uncanny valley dont exist and dont matter. This is robotics not a beauty competition, so we should be caring about the technical aspects, this is why i think robots like Sophia are inspiring. This is good since there are actual challenges that need to solved like budget, time, hardware, software and more
 
 # 167
->>15285
+>>15285
+
 After more research, I've come to the conclusion that anime doll faces are the only way to make her cute and simple. All of these could be printed on an SLA printer relatively easily and the eyes would also be relatively easy to make. The hair would somewhat of a problem but, adding non-human ears like cat or wold ears would help. Go for the demi-human route.
 
 # 168

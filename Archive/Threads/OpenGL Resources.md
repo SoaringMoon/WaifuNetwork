@@ -188,10 +188,13 @@ tree GL```
 
 -I'll copy the two include directories into the /usr/include/ directory for access by my own OpenGL code.
 ```cpp
-sudo cp -r GL/include/* /usr/include/```
+sudo cp -r GL/include/* /usr/include/
+```
+
 -I can confirm the new directories are in place now.
 ```cpp
-ls /usr/include/ | grep -e KHR -e glad```
+ls /usr/include/ | grep -e KHR -e glad
+```
 >4
 
 -The third file is under the GL/src directory, and is named 'glad.c' . It should be a little under 9'000 lines long. I'll copy this file into whatever directory where my own source code is located for each of my projects. 
@@ -220,13 +223,15 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1z -Wall -Wextra -Wno-unused-par
 add_executable(muh_ogl_test hellowindow2.cpp glad.c)
 
 find_package(glfw3 3.3 REQUIRED)
-target_link_libraries(muh_ogl_test glfw dl)```
+target_link_libraries(muh_ogl_test glfw dl)
+	```
 -Now, just pressing Ctrl+Return in Juci saves, builds and runs the OpenGL sample.
 >5
 
 -Or, build and run from the terminal:
 ```cpp
-g++ hellowindow2.cpp glad.c -lglfw -ldl && ./a.out```
+g++ hellowindow2.cpp glad.c -lglfw -ldl && ./a.out
+```
 -I made a zip for you to look at.
 https://files.catbox.moe/s54kmo.gz
 
@@ -351,7 +356,8 @@ void key_cb(GLFWwindow* win, int key, int scancode, int action, int mode)
     cout << "GLFW key code: " << key << " pressed." << std::endl;
     if (key == GLFW_KEY_ESCAPE) glfwSetWindowShouldClose(win, GL_TRUE);
   }
-}```
+}
+```
 
 >//------------------------------
 edit: added an over-abundance of diagnostic output.
@@ -402,7 +408,8 @@ int main()
   // Clean up
   glfwDestroyWindow(win);
   glfwTerminate();
-}```
+}
+```
 
 # 19
 ==TBH SMH FAM==
@@ -449,7 +456,8 @@ int main()
 }
 
 // Copyright (2019)
-// License (MIT)  https://opensource.org/licenses/MIT```
+// License (MIT)  https://opensource.org/licenses/MIT
+```
 **:^)**
 
 # 20

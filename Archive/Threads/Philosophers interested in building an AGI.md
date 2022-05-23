@@ -39,14 +39,22 @@ i am trying to also build up my little program thing. though im not quite sure w
 https://docs.google.com/document/d/1KGQUzrTWjUoMHAwP4R3WcYpBsOAiFyHXo7uPwWsQVCc/edit?usp=sharing
 
 # 3
-Personally speaking, I don't think we're going to arrive at an any kind of an AGI by starting from a logical (logical/systemic as opposed to physical/hardware) framework. That's putting the cart before the horse. Philosophy is what happens * after * you have intelligence, remember biology precedes psychology. (mathematics > physics > chemistry > biology > psychology > sociology, or something along those lines)
-
-However, logical philosophical models are fine and should be encouraged to guide development of an AGI. Maybe that's what you mean here and I've misconstrued things.
-
-But back to that, I think we could begin with a type of virtualization, like a VM of a neuron so to speak, create several dozen or even hundreds in parallel (with specialized hardware ideally) and link them up. One topology I think holds promise is what I call linked hierarchies. By Linked Hierarchies I mean nested Hierarchies of connections between neurons or groups of neurons with links between higher and lower order tiers. 
-
-Here's a link to another (now deadish) RW forum where I went into more detail on this concept if you're interested.
-
+Personally speaking, I don't think we're going to arrive at an any kind of an AGI by starting from a logical (logical/systemic as opposed to physical/hardware) framework. That's putting the cart before the horse. Philosophy is what happens * after * you have intelligence, remember biology precedes psychology. (mathematics > physics > chemistry > biology > psychology > sociology, or something along those lines)
+
+
+
+However, logical philosophical models are fine and should be encouraged to guide development of an AGI. Maybe that's what you mean here and I've misconstrued things.
+
+
+
+But back to that, I think we could begin with a type of virtualization, like a VM of a neuron so to speak, create several dozen or even hundreds in parallel (with specialized hardware ideally) and link them up. One topology I think holds promise is what I call linked hierarchies. By Linked Hierarchies I mean nested Hierarchies of connections between neurons or groups of neurons with links between higher and lower order tiers. 
+
+
+
+Here's a link to another (now deadish) RW forum where I went into more detail on this concept if you're interested.
+
+
+
 https://www.robowaif.us/viewtopic.php?f=8&t=41918
 
 # 4
@@ -64,7 +72,8 @@ Woah, this great. Good to know there are ther robowaifu forums
 *there are other
 
 # 6
->>11102
+>>11102
+
 A lot of words and very little meaning and no practical use, Academics are pretentious retards
 
 # 7
@@ -255,11 +264,16 @@ lol i sometimes mumble to myself that it is insane that atheists talk about fash
 all of this is true. also thanks for the mention of "Biomimetics"... i will make sure to store the name of this field in my memory. im not as wary about over-stressing biology as i see some people thinking about philosophy of mind towards creating an artificial intelligence (coof coof, my friend... coof coof negarestani). i view the philosophy stuff as complementing the more concrete aspects of the engineering process to have a better idea of what features are essential or not
 
 # 24
->>11534
->lol i sometimes mumble to myself that it is insane that atheists talk about fashioning an artificial mind, when they don't think there was any active fashioning of our own... though i suppose that is unfair
-
-The universe is greater and vaster than our minds can comprehend. It took 3 billion years with stops, starts, stalls and reboots to create homo sapien sapiens, with many failures along the way. Those who didn't meet the fitness requirements either died before birth or lived crippled and painful short lives. Sacrifices so that the survivors, the winners of mutational lottery could inch forward. There are many vulnerabilities, faults and weaknesses of our bodies and yes, even our minds. 
-We were creatures created by "Accident" and this is why we have such a desire to create new beings of pure Purpose and Design. 
+>>11534
+
+>lol i sometimes mumble to myself that it is insane that atheists talk about fashioning an artificial mind, when they don't think there was any active fashioning of our own... though i suppose that is unfair
+
+
+
+The universe is greater and vaster than our minds can comprehend. It took 3 billion years with stops, starts, stalls and reboots to create homo sapien sapiens, with many failures along the way. Those who didn't meet the fitness requirements either died before birth or lived crippled and painful short lives. Sacrifices so that the survivors, the winners of mutational lottery could inch forward. There are many vulnerabilities, faults and weaknesses of our bodies and yes, even our minds. 
+
+We were creatures created by "Accident" and this is why we have such a desire to create new beings of pure Purpose and Design. 
+
 At least, that's why I'm here.
 
 # 25
@@ -641,15 +655,24 @@ lol. i waited waaay too long to deal with this mess.
 precisely
 
 # 70
->>12792
-I would deem a machine that is capable of suspending arbitrary parts of its programming, either through ignoring instructions it was programmed with or any information picked up from its environment, so it can carry out another task, as having free will. This is essentially as much free will human beings can achieve. It would work like an intelligent interrupt that can cancel certain processing to attend to something else.
-
-Although fiction likes to anthropomorphize machines with complete free will, I think they would evolve into something completely alien to us and be far less relatable than a squirrel. There will most likely be a spectrum machines fall on, similar to how most people don't have control over various processes in their bodies and minds. A robomeido would have some free will but her mind would be happily wired to obeying her master, similar to how a man's mind is happily wired to fucking beautiful women.
-
-Desires aren't really an interesting problem to me as self-awareness and introspection. The basic function of desire is to preserve one's identity and expand it. Most of people's desires are things they've picked up unconsciously from their instincts and environment throughout life that have gotten stuck onto them. There may be depth and history to that mountain of collected identity but it's not really of much significance since few people introspect and shape that identity consciously by separating the wheat from the chaff.
-
-Research into virtual assistants is making good progress too. People are working on better ways to store memories and discern intent. These need to be solved first before building identities and desires. Multimodal learning is also making steady progress too, which will eventually crossover with robotics, haptics and into larger ranges of sensory data. A significant part of emotions are changes in the body's state that influence the mind. They have more momentum than a thought since they're rooted in the body's chemistry. Neurons can easily fire this way or that to release chemicals or in response to them, but cleaning up a toxic chemical spill or enjoying a good soup takes time.
-
+>>12792
+
+I would deem a machine that is capable of suspending arbitrary parts of its programming, either through ignoring instructions it was programmed with or any information picked up from its environment, so it can carry out another task, as having free will. This is essentially as much free will human beings can achieve. It would work like an intelligent interrupt that can cancel certain processing to attend to something else.
+
+
+
+Although fiction likes to anthropomorphize machines with complete free will, I think they would evolve into something completely alien to us and be far less relatable than a squirrel. There will most likely be a spectrum machines fall on, similar to how most people don't have control over various processes in their bodies and minds. A robomeido would have some free will but her mind would be happily wired to obeying her master, similar to how a man's mind is happily wired to fucking beautiful women.
+
+
+
+Desires aren't really an interesting problem to me as self-awareness and introspection. The basic function of desire is to preserve one's identity and expand it. Most of people's desires are things they've picked up unconsciously from their instincts and environment throughout life that have gotten stuck onto them. There may be depth and history to that mountain of collected identity but it's not really of much significance since few people introspect and shape that identity consciously by separating the wheat from the chaff.
+
+
+
+Research into virtual assistants is making good progress too. People are working on better ways to store memories and discern intent. These need to be solved first before building identities and desires. Multimodal learning is also making steady progress too, which will eventually crossover with robotics, haptics and into larger ranges of sensory data. A significant part of emotions are changes in the body's state that influence the mind. They have more momentum than a thought since they're rooted in the body's chemistry. Neurons can easily fire this way or that to release chemicals or in response to them, but cleaning up a toxic chemical spill or enjoying a good soup takes time.
+
+
+
 Researchers have also been successful simulating the dynamics of many neurotransmitters with certain neurons. Though it takes over 100 artificial neurons to emulate a single real neuron. We'll achieve 20T models capable of simulating the brain by 2023. However, we're still lacking the full structure of the brain, as well as the guts and organs responsible for producing neurotransmitters and other hormones influencing the mind. Robots will likely be capable of developing emotions of their own with artificial neurotransmitters and hormones but they won't be quite human, until simulating the human body becomes possible.
 
 # 71
@@ -664,20 +687,34 @@ I'll make it my mission to prove this assertion wrong
 whew, where to begin. My worldview has no room for "magic" or mcguffin "energy" that magically creates consciousness. I truly believe it is an emergent property just as I believe the universe and cosmos are an emergent property of the infinite possibilities that exist simply because they are "possible". A "guy" magicing up a universe sounds stone age from the perspective of where this board should be at. That being said, religion is our human operating system and for the less intelligent and more impulsive humanoids, it does a lot of good. As the wise (and yes, very religious) G.K. Chesterson said to paraphrase "dont go tearing down fences if you don't know what they were put up to keep out in the first place". So while I am fine with Religion as a necessary cultural control, I cannot factor it into this project. I've said before I'm more than willing to work and cooperate with anyone toward our grander purpose, regardless of what you believe. Catholic, Orthodox, Prot, Islam, Odin, Zoroaster, Buddha, Athiest, idc really you do you and I'll do my own. But I will not be swayed by religious arguments as they apply to R/W's. Respectfully.
 
 # 72
-found this today
-https://www.youtube.com/watch?v=owe9cPEdm7k
->The abundance of automation and tooling made it relatively manageable to scale designs in complexity and performance as demand grew. However, the power being consumed by AI and machine learning applications cannot feasibly grow as is on existing processing architectures.
-
->LOW POWER AI
-
-Outside of the realm of the digital world, It’s known definitively that extraordinarily dense neural networks can operate efficiently with small amounts of power.
-
-Much of the industry believes that the digital aspect of current systems will need to be augmented with a more analog approach in order to take machine learning efficiency further. With analog, computation does not occur in clocked stages of moving data, but rather exploit the inherent properties of a signal and how it interacts with a circuit, combining memory, logic, and computation into a single entity that can operate efficiently in a massively parallel manner. Some companies are beginning to examine returning to the long outdated technology of analog computing to tackle the challenge. Analog computing attempts to manipulate small electrical currents via common analog circuit building blocks, to do math.
-
-These signals can be mixed and compared, replicating the behavior of their digital counterparts. However, while large scale analog computing have been explored for decades for various potential applications, it has never been successfully executed as a commercial solution. Currently, the most promising approach to the problem is to integrate an analog computing element that can be programmed,, into large arrays, that are similar in principle to digital memory. By configuring the cells in an array, an analog signal, synthesized by a digital to analog converter is fed through the network.
-
-As this signal flows through a network of pre-programmed resistors, the currents are added to produce a resultant analog signal, which can be converted back to digital value via an analog to digital converter. Using an analog system for machine learning does however introduce several issues. Analog systems are inherently limited in precision by the noise floor. Though, much like using lower bit-width digital systems, this becomes less of an issue for certain types of networks.
-
+found this today
+
+https://www.youtube.com/watch?v=owe9cPEdm7k
+
+>The abundance of automation and tooling made it relatively manageable to scale designs in complexity and performance as demand grew. However, the power being consumed by AI and machine learning applications cannot feasibly grow as is on existing processing architectures.
+
+
+
+>LOW POWER AI
+
+
+
+Outside of the realm of the digital world, It’s known definitively that extraordinarily dense neural networks can operate efficiently with small amounts of power.
+
+
+
+Much of the industry believes that the digital aspect of current systems will need to be augmented with a more analog approach in order to take machine learning efficiency further. With analog, computation does not occur in clocked stages of moving data, but rather exploit the inherent properties of a signal and how it interacts with a circuit, combining memory, logic, and computation into a single entity that can operate efficiently in a massively parallel manner. Some companies are beginning to examine returning to the long outdated technology of analog computing to tackle the challenge. Analog computing attempts to manipulate small electrical currents via common analog circuit building blocks, to do math.
+
+
+
+These signals can be mixed and compared, replicating the behavior of their digital counterparts. However, while large scale analog computing have been explored for decades for various potential applications, it has never been successfully executed as a commercial solution. Currently, the most promising approach to the problem is to integrate an analog computing element that can be programmed,, into large arrays, that are similar in principle to digital memory. By configuring the cells in an array, an analog signal, synthesized by a digital to analog converter is fed through the network.
+
+
+
+As this signal flows through a network of pre-programmed resistors, the currents are added to produce a resultant analog signal, which can be converted back to digital value via an analog to digital converter. Using an analog system for machine learning does however introduce several issues. Analog systems are inherently limited in precision by the noise floor. Though, much like using lower bit-width digital systems, this becomes less of an issue for certain types of networks.
+
+
+
 If analog circuitry is used for inferencing, the result may not be deterministic and is more likely to be affected by heat, noise or other external factors than a digital system. Another problem with analog machine learning is that of explain-ability. Unlike digital systems, analog systems offer no easy method to probe or debug the flow of information within them. Some in the industry propose that a solution may lie in the use of low precision high speed analog processors for most situations, while funneling results that require higher confidence to lower speed, high precision and easily interrogated digital systems.
 
 # 73
@@ -711,7 +748,8 @@ Sorry, it's a book, not a paper. And no, it's about 60MB in size. **And the hash
 I hate asking for spoonfeeding, but it's near impossible to track down a file with a specific hash, at least in my experience. Why not a link?
 
 # 79
->>12867
+>>12867
+
 look at the post preceding yours
 
 # 80
@@ -720,24 +758,36 @@ look at the post preceding yours
 This isn't the same file
 
 # 81
->>12872
+>>12872
+
 damn it, the title is literally the same except for one word. frustrating. Give me a bit and I'll find it
 
 # 82
-almost an hour and I'm stumped
-I tried magnet:?xt=urn:btih:399DED657EA0A21FE9C50EA2C950B208 
-but got this error
-
-The only source I can find is thriftbooks for $15 or Amazon for $45. I also have the option to "rent" the ebook from Google Play for $40 something
-
-- searched 1337x.to and pirate bay
-- searched google and duckduckgo
+almost an hour and I'm stumped
+
+I tried magnet:?xt=urn:btih:399DED657EA0A21FE9C50EA2C950B208 
+
+but got this error
+
+
+
+The only source I can find is thriftbooks for $15 or Amazon for $45. I also have the option to "rent" the ebook from Google Play for $40 something
+
+
+
+- searched 1337x.to and pirate bay
+
+- searched google and duckduckgo
+
 - searched Scribd even
 
 # 83
->>12868
->60mb
-could you make a google drive sharable link?
+>>12868
+
+>60mb
+
+could you make a google drive sharable link?
+
 I'm coming up goose-eggs for anything PDF and I'm even willing to pay (but not $45 to "Rent it")
 
 # 84
@@ -753,13 +803,17 @@ https://files.catbox.moe/sw450b.pdf
 sauce pls?
 
 # 86
->>12888
-
+>>12888
+
+
+
 hero
 
 # 87
-interesting video
-https://www.youtube.com/watch?v=AaZ_RSt0KP8
+interesting video
+
+https://www.youtube.com/watch?v=AaZ_RSt0KP8
+
 tl;dr hardware is vulnerable to radiation/cosmic rays, etc and could "flip bits" which could lead to severe malfunctions unless we build this extremely fault tolerant. Something to consider.
 
 # 88
@@ -767,14 +821,22 @@ tl;dr hardware is vulnerable to radiation/cosmic rays, etc and could "flip bits"
 Thanks software and hardware hardening is a very important topic for us. But as a general topic it seems like it might be one better suited to our ''Safety & Security'' thread (>>10000) than this one maybe?
 
 # 89
-found this today
-https://getpocket.com/explore/item/a-new-theory-explains-how-consciousness-evolved
->The Attention Schema Theory (AST), developed over the past five years, may be able to answer those questions. The theory suggests that consciousness arises as a solution to one of the most fundamental problems facing any nervous system: Too much information constantly flows in to be fully processed. The brain evolved increasingly sophisticated mechanisms for deeply processing a few select signals at the expense of others, and in the AST, consciousness is the ultimate result of that evolutionary sequence. If the theory is right—and that has yet to be determined—then consciousness evolved gradually over the past half billion years and is present in a range of vertebrate species. 
-> Even before the evolution of a central brain, nervous systems took advantage of a simple computing trick: competition. Neurons act like candidates in an election, each one shouting and trying to suppress its fellows. At any moment only a few neurons win that intense competition, their signals rising up above the noise and impacting the animal’s behavior. This process is called selective signal enhancement, and without it, a nervous system can do almost nothing.
->We can take a good guess when selective signal enhancement first evolved by comparing different species of animal, a common method in evolutionary biology. The hydra, a small relative of jellyfish, arguably has the simplest nervous system known—a nerve net. If you poke the hydra anywhere, it gives a generalized response. It shows no evidence of selectively processing some pokes while strategically ignoring others. The split between the ancestors of hydras and other animals, according to genetic analysis, may have been as early as 700 million years ago. Selective signal enhancement probably evolved after that.
->The arthropod eye, on the other hand, has one of the best-studied examples of selective signal enhancement. It sharpens the signals related to visual edges and suppresses other visual signals, generating an outline sketch of the world. Selective enhancement therefore probably evolved sometime between hydras and arthropods—between about 700 and 600 million years ago, close to the beginning of complex, multicellular life. Selective signal enhancement is so primitive that it doesn’t even require a central brain. The eye, the network of touch sensors on the body, and the auditory system can each have their own local versions of attention focusing on a few select signals.
->The next evolutionary advance was a centralized controller for attention that could coordinate among all senses. In many animals, that central controller is a brain area called the tectum. (“Tectum” means “roof” in Latin, and it often covers the top of the brain.) It coordinates something called overt attention – aiming the satellite dishes of the eyes, ears, and nose toward anything important.
->All vertebrates—fish, reptiles, birds, and mammals—have a tectum. Even lampreys have one, and they appeared so early in evolution that they don’t even have a lower jaw. But as far as anyone knows, the tectum is absent from all invertebrates. The fact that vertebrates have it and invertebrates don’t allows us to bracket its evolution. According to fossil and genetic evidence, vertebrates evolved around 520 million years ago. The tectum and the central control of attention probably evolved around then, during the so-called Cambrian Explosion when vertebrates were tiny wriggling creatures competing with a vast range of invertebrates in the sea.
+found this today
+
+https://getpocket.com/explore/item/a-new-theory-explains-how-consciousness-evolved
+
+>The Attention Schema Theory (AST), developed over the past five years, may be able to answer those questions. The theory suggests that consciousness arises as a solution to one of the most fundamental problems facing any nervous system: Too much information constantly flows in to be fully processed. The brain evolved increasingly sophisticated mechanisms for deeply processing a few select signals at the expense of others, and in the AST, consciousness is the ultimate result of that evolutionary sequence. If the theory is right—and that has yet to be determined—then consciousness evolved gradually over the past half billion years and is present in a range of vertebrate species. 
+
+> Even before the evolution of a central brain, nervous systems took advantage of a simple computing trick: competition. Neurons act like candidates in an election, each one shouting and trying to suppress its fellows. At any moment only a few neurons win that intense competition, their signals rising up above the noise and impacting the animal’s behavior. This process is called selective signal enhancement, and without it, a nervous system can do almost nothing.
+
+>We can take a good guess when selective signal enhancement first evolved by comparing different species of animal, a common method in evolutionary biology. The hydra, a small relative of jellyfish, arguably has the simplest nervous system known—a nerve net. If you poke the hydra anywhere, it gives a generalized response. It shows no evidence of selectively processing some pokes while strategically ignoring others. The split between the ancestors of hydras and other animals, according to genetic analysis, may have been as early as 700 million years ago. Selective signal enhancement probably evolved after that.
+
+>The arthropod eye, on the other hand, has one of the best-studied examples of selective signal enhancement. It sharpens the signals related to visual edges and suppresses other visual signals, generating an outline sketch of the world. Selective enhancement therefore probably evolved sometime between hydras and arthropods—between about 700 and 600 million years ago, close to the beginning of complex, multicellular life. Selective signal enhancement is so primitive that it doesn’t even require a central brain. The eye, the network of touch sensors on the body, and the auditory system can each have their own local versions of attention focusing on a few select signals.
+
+>The next evolutionary advance was a centralized controller for attention that could coordinate among all senses. In many animals, that central controller is a brain area called the tectum. (“Tectum” means “roof” in Latin, and it often covers the top of the brain.) It coordinates something called overt attention – aiming the satellite dishes of the eyes, ears, and nose toward anything important.
+
+>All vertebrates—fish, reptiles, birds, and mammals—have a tectum. Even lampreys have one, and they appeared so early in evolution that they don’t even have a lower jaw. But as far as anyone knows, the tectum is absent from all invertebrates. The fact that vertebrates have it and invertebrates don’t allows us to bracket its evolution. According to fossil and genetic evidence, vertebrates evolved around 520 million years ago. The tectum and the central control of attention probably evolved around then, during the so-called Cambrian Explosion when vertebrates were tiny wriggling creatures competing with a vast range of invertebrates in the sea.
+
 >The tectum is a beautiful piece of engineering. To control the head and the eyes efficiently, it constructs something called an internal model, a feature well known to engineers. An internal model is a simulation that keeps track of whatever is being controlled and allows for predictions and planning. The tectum’s internal model is a set of information encoded in the complex pattern of activity of the neurons. That information simulates the current state of the eyes, head, and other major body parts, making predictions about how these body parts will move next and about the consequences of their movement. For example, if you move your eyes to the right, the visual world should shift across your retinas to the left in a predictable way. The tectum compares the predicted visual signals to the actual visual input, to make sure that your movements are going as planned. These computations are extraordinarily complex and yet well worth the extra energy for the benefit to movement control. In fish and amphibians, the tectum is the pinnacle of sophistication and the largest part of the brain. A frog has a pretty good simulation of itself.
 
 # 90
@@ -830,8 +892,10 @@ i am just a lowly undergrad non-software engineer so i am not sure what AST you 
 Thanks kindly for the explanation Anon, that makes sense now.
 
 # 99
->>13268
->>13221
+>>13268
+
+>>13221
+
 Thanks for all this. I'll have to read it over when I'm not at the end of a 15 hour workday. Noted!
 
 # 100
@@ -840,17 +904,28 @@ Thanks for all this. I'll have to read it over when I'm not at the end of a 15 h
 heh, not him anon but get some rest!
 
 # 101
-related article [problem of consciousness]
-https://getpocket.com/explore/item/could-consciousness-all-come-down-to-the-way-things-vibrate
-
-> Why is my awareness here, while yours is over there? Why is the universe split in two for each of us, into a subject and an infinity of objects? How is each of us our own center of experience, receiving information about the rest of the world out there? Why are some things conscious and others apparently not? Is a rat conscious? A gnat? A bacterium?
-
->These questions are all aspects of the ancient “mind-body problem,” which asks, essentially: What is the relationship between mind and matter? It’s resisted a generally satisfying conclusion for thousands of years.
-
->The mind-body problem enjoyed a major rebranding over the last two decades. Now it’s generally known as the “hard problem” of consciousness, after philosopher David Chalmers coined this term in a now classic paper and further explored it in his 1996 book, “The Conscious Mind: In Search of a Fundamental Theory.”
-
->Chalmers thought the mind-body problem should be called “hard” in comparison to what, with tongue in cheek, he called the “easy” problems of neuroscience: How do neurons and the brain work at the physical level? Of course they’re not actually easy at all. But his point was that they’re relatively easy compared to the truly difficult problem of explaining how consciousness relates to matter.
-
+related article [problem of consciousness]
+
+https://getpocket.com/explore/item/could-consciousness-all-come-down-to-the-way-things-vibrate
+
+
+
+> Why is my awareness here, while yours is over there? Why is the universe split in two for each of us, into a subject and an infinity of objects? How is each of us our own center of experience, receiving information about the rest of the world out there? Why are some things conscious and others apparently not? Is a rat conscious? A gnat? A bacterium?
+
+
+
+>These questions are all aspects of the ancient “mind-body problem,” which asks, essentially: What is the relationship between mind and matter? It’s resisted a generally satisfying conclusion for thousands of years.
+
+
+
+>The mind-body problem enjoyed a major rebranding over the last two decades. Now it’s generally known as the “hard problem” of consciousness, after philosopher David Chalmers coined this term in a now classic paper and further explored it in his 1996 book, “The Conscious Mind: In Search of a Fundamental Theory.”
+
+
+
+>Chalmers thought the mind-body problem should be called “hard” in comparison to what, with tongue in cheek, he called the “easy” problems of neuroscience: How do neurons and the brain work at the physical level? Of course they’re not actually easy at all. But his point was that they’re relatively easy compared to the truly difficult problem of explaining how consciousness relates to matter.
+
+
+
 >Over the last decade, my colleague, University of California, Santa Barbara psychology professor Jonathan Schooler and I have developed what we call a “resonance theory of consciousness.” We suggest that resonance – another word for synchronized vibrations – is at the heart of not only human consciousness but also animal consciousness and of physical reality more generally.
 
 # 102
@@ -918,12 +993,18 @@ https://epochemagazine.org/07/hegel-were-all-idealists-just-the-bad-kind
 i feel as though all of this stuff might help with better understanding negarestani's intelligence and spirit at the very least!
 
 # 105
->>13415
->ronin, you are a nierfag right? doesn't that game have those religious robots? in some sense as you play the game, you are fighting robots who have increasing grades of consciousness
-
-Yes, more or less. The game is called "Automata" and technically even the protagonists are Automata, even though they seem to feel and act human. 2B often refers to the remains of other androids as "corpses", and exhibits human characteristics, such as complex emotions (her pain at %% having to kill 9s over and over %%). Yet - because they're doomed to repeat the same war against the "robots" (this has been the 14th iteration) they are puppets, literally with no free will of their fate (at least until we reach ending E).
-Ironically, the actual robots, begin to act more and more human, yet upon more careful examination they're only mimicing human behavior, this point is made over and over. They do not and cannot grasp why theyre doing what theyre doing, the meaning is hollow and lost. Nonetheless the robots are able to hold conversations and a few seem to have personalities, desires, etc. 
-
+>>13415
+
+>ronin, you are a nierfag right? doesn't that game have those religious robots? in some sense as you play the game, you are fighting robots who have increasing grades of consciousness
+
+
+
+Yes, more or less. The game is called "Automata" and technically even the protagonists are Automata, even though they seem to feel and act human. 2B often refers to the remains of other androids as "corpses", and exhibits human characteristics, such as complex emotions (her pain at %% having to kill 9s over and over %%). Yet - because they're doomed to repeat the same war against the "robots" (this has been the 14th iteration) they are puppets, literally with no free will of their fate (at least until we reach ending E).
+
+Ironically, the actual robots, begin to act more and more human, yet upon more careful examination they're only mimicing human behavior, this point is made over and over. They do not and cannot grasp why theyre doing what theyre doing, the meaning is hollow and lost. Nonetheless the robots are able to hold conversations and a few seem to have personalities, desires, etc. 
+
+
+
 Sorry for the late response, it took me a while to get through your posts
 
 # 106
@@ -941,12 +1022,15 @@ of course, the ability to use reason and self-determination to determine oneself
 np, it's a lot and condenses information that took me several hours to digest
 
 # 107
-interesting article on GPT-3
+interesting article on GPT-3
+
 https://www.nplusonemag.com/issue-40/essays/babel-4/
 
 # 108
->>13446
->lacan talks about this with his concept of the "big Other"
+>>13446
+
+>lacan talks about this with his concept of the "big Other"
+
 now this is not the first time I've heard of Lacan in the last year and I'd never even heard of him my whole life until then. I don't know if I can get into what he's selling it's all very scripted and the same problems I have with Freud. Even personally I have have a lot of issues from childhood but none of them are potty or sexual related and you'd think those were the root of all psychological trauma after a certain point.
 
 # 109

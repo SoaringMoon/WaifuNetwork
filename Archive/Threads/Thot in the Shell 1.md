@@ -42,7 +42,7 @@ Since I have personally taken over OP's thread entirely, I'm going to repost his
 > - Thanks to on the fly translation they could be some women abroad, to cut down on costs. So some nice Philippina wouldn't need to get into the west, but also get no chance to do so, and exploit the situation. Men wouldn't need to travel to such countries, especially those which mainly want to talk and get some validation.
 > - Customer and imaginator shouldn't know each other. Then this wouldn't be about tricking men into sending money to a particular woman.
 > - Security would be crucial. Only sanitized inputs of text should go through from the remote imaginator to the client. 
-> - Questions for personal information might get filtered out the same way. There could be masks like <country> for where someone lives, which would replace the real data before it is show to the imaginator.
+> - Questions for personal information might get filtered out the same way. There could be masks like < country> for where someone lives, which would replace the real data before it is show to the imaginator.
 > - They would not be able to control the robot however they want. Software comes first. Pre-defined movement patterns, checks for safety, like if something is in the way, would limit what they could do. 
 > - Only text would be exchanged. No audio, no pictures. But descriptions of the changes in the environment.
 > - Ideally the imaginators would be pretty replaceable, but somehow the argumentation of the bot would need to be consistent, especially if she is meant to have a identity.  

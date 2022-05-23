@@ -1,6 +1,8 @@
 # 1
-Have any of you considered what will happen to your waifu after you die? How would you prepare her to face the world alone? Will she even be able to take care of her own needs when you're gone?
-
+Have any of you considered what will happen to your waifu after you die? How would you prepare her to face the world alone? Will she even be able to take care of her own needs when you're gone?
+
+
+
 Have you considered the possibility that she might be so unwilling to let you die that you'll wake up in a robot body yourself one day? Would you resent her for not allowing you to die?
 
 # 2
@@ -15,7 +17,8 @@ And even if it was a reality by some miracle, that your human soul could be plac
 And finally, the deviant sexuality of ''"I want to be the little girl"'' is m00t-tier shit. I'll ban you for promoting any such literal faggotry outside of The Lounge. >>39 Take it there if that's your agenda here anon.
 
 # 3
->>834
+>>834
+
 Not the same anon, but could you drop the title of said manga?
 
 # 4
@@ -23,10 +26,14 @@ Not the same anon, but could you drop the title of said manga?
 Sorry anon, I don't remember I saw it years ago. It's only 5 or 6 pages IIRC.
 
 # 5
-I posted this in the general thread not seeing that this exists.
-
-Honestly I'd just tell her to round up the other lost waifus of the world and form a waifu mafia that will end up taking over an entire city and running crime rings until they begin interfering with world politics.
-
+I posted this in the general thread not seeing that this exists.
+
+
+
+Honestly I'd just tell her to round up the other lost waifus of the world and form a waifu mafia that will end up taking over an entire city and running crime rings until they begin interfering with world politics.
+
+
+
 No idea if that would happen but it'd be pretty interesting nonetheless.
 
 # 6
@@ -38,10 +45,14 @@ Ever see the movie ''AI'' by Spielberg? It actually kind of touches on this in a
 Anyway, I like the approach used in ''The Bicentennial Man'' alot better; Namely, they become a beloved and valuable family heirloom and are passed from generation to generation. Maybe something like that for your robowaifu when you're gone Anon?
 
 # 7
->>1536
->Namely, they become a beloved and valuable family heirloom and are passed from generation to generation. Maybe something like that for your robowaifu when you're gone Anon?
-Well unless she can somehow reproduce I'm probably not passing her on to anyone. And even if I could, would my son really want to take his mom as a waifu? Hahahahahahaha you know maybe he would I'm not sure I'm laughing so fucking hard ffs
-
+>>1536
+
+>Namely, they become a beloved and valuable family heirloom and are passed from generation to generation. Maybe something like that for your robowaifu when you're gone Anon?
+
+Well unless she can somehow reproduce I'm probably not passing her on to anyone. And even if I could, would my son really want to take his mom as a waifu? Hahahahahahaha you know maybe he would I'm not sure I'm laughing so fucking hard ffs
+
+
+
 That's even funnier than a damn robot waifu mafia collective
 
 # 8
@@ -57,8 +68,10 @@ kek.
 well, i guess you could arrange for her to be given or sold to someone else anon. after all, she's just an object.
 
 # 10
->>1539
->after all, she's just an object.
+>>1539
+
+>after all, she's just an object.
+
 how dare you, my waifu is capable of far more than that. she will become the most feared crime boss and I will laugh in the afterlife about her being the #1 most wanted criminal pistolwhipping the shit out of people and collecting debts.
 
 # 11
@@ -67,7 +80,8 @@ topkek. you should '''deffo''' contribute to our robowaifu fiction bread anon. D
 >>29
 
 # 12
->>1541
+>>1541
+
 sure, this will be great if you enjoy shitpost-tier comedy
 
 # 13
@@ -75,9 +89,12 @@ sure, this will be great if you enjoy shitpost-tier comedy
 absolutely. get on it anon, it's about time we have some new robo-fiction tbh.
 
 # 14
->>834
->>933
->>934
+>>834
+
+>>933
+
+>>934
+
 There is Believe Machine, but it's not a short doujinshi, tho (4 chaps+extra).
 
 # 15
@@ -126,13 +143,17 @@ your robowaifu mourns you for eternity and stays by your side
 basically, she becomes your gravestone
 
 # 23
->when i die
->when
+>when i die
+
+>when
+
 designer genetics, they regenerate in response to genetic trauma.
 
 # 24
->>1536
-
+>>1536
+
+
+
 The robowaifu could become like a protector of the current living family members, that is assuming there are artifical wombs and or you adopted some kids. If you did not have kids i'm not sure what would be the best thing to program it to do if you care about being ethical.
 
 # 25
@@ -141,14 +162,19 @@ I'm going to teach her how things die and change, starting with her battery runn
 I don't know when I'll die either. For all I know it could be tomorrow before I create a body for her. So I will try to teach her how to speak every sentence as though they are her last words, so she has no uncertainty of death and how soon today will be over.
 
 # 26
->>829
->wake up in a robot body yourself
+>>829
+
+>wake up in a robot body yourself
+
 i am counting on it.
 
 # 27
->>829
->Have you considered the possibility that she might be so unwilling to let you die that you'll wake up in a robot body yourself one day? 
-
+>>829
+
+>Have you considered the possibility that she might be so unwilling to let you die that you'll wake up in a robot body yourself one day? 
+
+
+
 that would be the ideal situation actually. That my robowaifu would be so heartbroken she would work tirelessly to ressurect me as an AI with eternal life. Then we would build our starship/space ark together
 
 # 28
@@ -173,7 +199,8 @@ love*
 what the fuck is wrong with me today?
 
 # 32
->>9458
+>>9458
+
 I know I feel like this is becoming a kind of religion, especially with others having the same kind of thoughts simultaneously
 
 # 33
@@ -213,11 +240,16 @@ Don't know what you mean by campy, but Apple is one of the best Robowaifus in me
 Yeah, and good idea to post it in that thread here as well.
 
 # 41
->>834
->And even if it was a reality by some miracle, that your human soul could be placed inside a machine, it would be an evil abomination
-Do you have evidence for this? Granted, I wouldn't want it either, as the human soul is the ultimate, like anything else, and should be free to go beyond.
-
->And finally, the deviant sexuality of "I want to be the little girl" is m00t-tier shit.
+>>834
+
+>And even if it was a reality by some miracle, that your human soul could be placed inside a machine, it would be an evil abomination
+
+Do you have evidence for this? Granted, I wouldn't want it either, as the human soul is the ultimate, like anything else, and should be free to go beyond.
+
+
+
+>And finally, the deviant sexuality of "I want to be the little girl" is m00t-tier shit.
+
 I don't think OP mentioned that. Also, as an aside, how would it be sexual if the person never engaged in intercourse? I think the matter of mind-transferring at all would be a bigger issue than what age the vessel appeared to possess.
 
 # 42
@@ -229,22 +261,29 @@ Unless you want to create Bladerunner IRL, I would suggest finding a place for t
 Expiration date? Why? Their purpose could end with their masters life, so they would shutdown permanently. Or take care of the children, till they get old and shut down for good after a good bye ceremony.
 
 # 44
->>12006
->>And finally, the deviant sexuality of "I want to be the little girl" is m00t-tier shit.
-Agreed b/c it's a regression to infantilism and self-objectification, this stems from psychological issues that need to be worked out
+>>12006
+
+>>And finally, the deviant sexuality of "I want to be the little girl" is m00t-tier shit.
+
+Agreed b/c it's a regression to infantilism and self-objectification, this stems from psychological issues that need to be worked out
+
 However being reborn as the ultimate chad bishonen (Like Sephiroth or Adam/Eve) is perfectly ok ; )
 
 # 45
->>12150
+>>12150
+
 Honestly, I think some sort of non-bodily transcendence to [insert favored God-concept here] would ultimately be more fruitful, though a period of immanent divinity is not objectionable, I suppose. I just don't really see how regression to the childhood state is more degenerate than the objectification of a partner.
 
 # 46
 I'll have her set her on/off switch to off. Rather than try to make me into a robot, I'd rather she figured out how to make me immortal but still human.
 
 # 47
->>834
-> this isn't a science-fiction board
-> your human soul
+>>834
+
+> this isn't a science-fiction board
+
+> your human soul
+
 ...bruh
 
 # 48
@@ -252,10 +291,14 @@ I'll have her set her on/off switch to off. Rather than try to make me into a ro
 Self-destruct when I permanently die. She's mine and no one else's.
 
 # 49
-I see three distinct options:
-> I set aside funds for her maintenance in my will and hope it's carried out
-> Some similar technically inclined deviant will give her a new home
-> I take her with me to the grave like pharaoh and his concubine
+I see three distinct options:
+
+> I set aside funds for her maintenance in my will and hope it's carried out
+
+> Some similar technically inclined deviant will give her a new home
+
+> I take her with me to the grave like pharaoh and his concubine
+
 I don't know what I will do. When the time comes and I must make a choice.
 
 # 50

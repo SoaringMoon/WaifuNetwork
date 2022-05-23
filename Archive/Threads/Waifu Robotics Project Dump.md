@@ -484,16 +484,26 @@ We have at least one daki bread and the notion is fairly popular here and elsewh
 https://www.invidio.us/playlist?list=PLAtoHywa4Q2Nc_-r5g1bHlHdcnGJ3oM-4
 
 # 91
-'''How to Program Speech Synthesis in an Animatronic Mouth Using Python and Arduino'''
-https://www.youtube.com/watch?v=Mva6MkP_Bco
-
-'''DIY Animatronic 3D Printed Mouth using Arduino and Python'''
-https://www.youtube.com/watch?v=lY83q531gHk
-
-'''Testing Out a 3D Printed Animatronic Mouth'''
-https://www.youtube.com/watch?v=w4j_ifZIUBQ
-
-Open source animatronic mouth design: http://www.nilheim.co.uk/latest-projects-and-blog/how-to-build-the-mouth-mechanism
+'''How to Program Speech Synthesis in an Animatronic Mouth Using Python and Arduino'''
+
+https://www.youtube.com/watch?v=Mva6MkP_Bco
+
+
+
+'''DIY Animatronic 3D Printed Mouth using Arduino and Python'''
+
+https://www.youtube.com/watch?v=lY83q531gHk
+
+
+
+'''Testing Out a 3D Printed Animatronic Mouth'''
+
+https://www.youtube.com/watch?v=w4j_ifZIUBQ
+
+
+
+Open source animatronic mouth design: http://www.nilheim.co.uk/latest-projects-and-blog/how-to-build-the-mouth-mechanism
+
 Instructable: https://www.instructables.com/id/Simple-Animatronic-Mouth-Using-3D-Printing-Arduino/
 
 # 92
@@ -767,7 +777,8 @@ And also with more pics: https://camp-fire.jp/projects/12475/activities/132053?s
 Wow that's impressive actually. Obviously a mad-scientist at work Terry would be proud. :^)
 
 # 141
->>5361
+>>5361
+
 I remember when this guy built a life-size singing Hatsune Miku using what looked like some kind of high-density styrofoam attached to servos and steel hinges. Good to see he has adopted 3D printing now as well. Inspirational stuff!
 
 # 142
@@ -804,13 +815,20 @@ Thanks for the update Anon, please keep us posted about her.
 I sort of hope not, tbh. What Hanson is doing with her is pretty sketchy IMO, and she isn't particularly appealing either.
 
 # 148
->>5413
-Segawa is selling STL files for Handmade Kibo-chan (link in video description)
-
-https://www.youtube.com/watch?v=dJYUOxxDW4k
-
-Apparently it's been out for a month already (I was too busy being distracted by Vtubers to notice).
-
+>>5413
+
+Segawa is selling STL files for Handmade Kibo-chan (link in video description)
+
+
+
+https://www.youtube.com/watch?v=dJYUOxxDW4k
+
+
+
+Apparently it's been out for a month already (I was too busy being distracted by Vtubers to notice).
+
+
+
 Once I understand the mechanism -- part of why his animations are so smooth and lifelike -- I'm going to merge it with one of my wheeled or tank tread projects to make a wheeled Kibo-chan.
 
 # 149
@@ -823,18 +841,30 @@ You must post videos of such cuteness here when you do!
 That is an interesting neck mechanism he's got there!
 
 # 151
-hamcat_mqq just updated after a yearlong hiatus on twitter.
-
-[machine-translated]"It's been a while, but it's completed!
- Wow Wow (Wow Wow ⌒▽⌒ )
- Before I knew it, I forgot Twitter,
- Before I knew it, the cat that had been a year old was fine. To be honest, I can't see anything when I'm absorbed in it.
-
- Specifications Whole body seamless life-size doll Silicone skin / soft urethane foam Aluminum base Metal frame
- 150cm 12kg"
-
-More pics on his account, the nude pic there you can see his workshop.
-
+hamcat_mqq just updated after a yearlong hiatus on twitter.
+
+
+
+[machine-translated]"It's been a while, but it's completed!
+
+ Wow Wow (Wow Wow ⌒▽⌒ )
+
+ Before I knew it, I forgot Twitter,
+
+ Before I knew it, the cat that had been a year old was fine. To be honest, I can't see anything when I'm absorbed in it.
+
+
+
+ Specifications Whole body seamless life-size doll Silicone skin / soft urethane foam Aluminum base Metal frame
+
+ 150cm 12kg"
+
+
+
+More pics on his account, the nude pic there you can see his workshop.
+
+
+
 There have been 1/3 scale silicone animedolls before, as well as near-full-scale 90cm-100cm "stylized" sexdolls, as well as hard as rock fullscale waifu statues.  IMHO this is actually the first time I've seen a fullscale silicone waifudoll.
 
 # 152
@@ -963,10 +993,14 @@ So many cool ideas here! That headband sensor on Masiro chan. Those eyebrows on 
 Yes, it's quite amazing. I'm going to look more into it. Google Translate might also help.
 
 # 174
->>8811
->A shame some of the photos on his website aren't larger/higher res
-Try running them through Waifu2x maybe?
-http://waifu2x.udp.jp/
+>>8811
+
+>A shame some of the photos on his website aren't larger/higher res
+
+Try running them through Waifu2x maybe?
+
+http://waifu2x.udp.jp/
+
 https://github.com/nagadomi/waifu2x
 
 # 175
@@ -1126,7 +1160,8 @@ BTW, please post any more pics you obtain of this anon's project, Anon. As you s
 The creator says the small, powerful servos she needs to walk are too expensive. I looked up the cost and they're only $2500 each. :^)
 
 # 206
->>10119
+>>10119
+
 I wonder if those could be replaced with brushless motors with cycloidal gearboxes, with something like an Odrive you can get servo or stepper motor like accuracy out of them. Materials for the gearboxes would be the biggest problem, the designs I've seen for 3D-printable ones tend to be somewhat large, but could be hidden in the design.
 
 # 207
@@ -1229,9 +1264,12 @@ Thanks for bringing her up Anon.
 Neat. I didn't even know about him Anon, thanks.
 
 # 224
->>10245
-Wow, his original robot had a duckface for me, but her companions are much cuter in my opinion.
-
+>>10245
+
+Wow, his original robot had a duckface for me, but her companions are much cuter in my opinion.
+
+
+
 Time to invest in large OLED displays I guess.  I've tried plain LCDs since they were cheap but you can't see anything and the backlight is uneven.
 
 # 225
@@ -1252,14 +1290,19 @@ I like her. Better than I can do, though also not really what I want.
 She's cute and obviously a robot.
 
 # 229
->>3432
->invidio.us link
+>>3432
+
+>invidio.us link
+
 >404s
 
 # 230
->>14420
->creepy 
->height
+>>14420
+
+>creepy 
+
+>height
+
 Where I live they banned all sex dolls with faces or hands or feet to even avoid the question of 'is it too cute in the face' so you're wasting your time due to the fact that normal people will be guilty of witch hunting with a very slippery slope to guide them.
 
 # 231
@@ -1276,11 +1319,13 @@ lol, hardly. let the seethers seethe on friend.
 Awesome work! Would love to see her electronics in more detail...sorry if that's lewd ;D
 
 # 233
-https://www.thingiverse.com/thing:4928596/files
+https://www.thingiverse.com/thing:4928596/files
+
 Does he browse here?
 
 # 234
->>15542
+>>15542
+
 Huh, a puppet on a platform is an interesting approach. Lapis Anon was on a similar track with his mini waifu long ago. Nice find Gobi. I do not see much evidence that they do browse here but, if they do, they are welcome here.
 
 # 235
@@ -1288,7 +1333,8 @@ Huh, a puppet on a platform is an interesting approach. Lapis Anon was on a simi
 Neat! No I'm not aware that Anon frequents /robowaifu/. But as Kiwi said, he'd be welcome here.
 
 # 236
-A good intro to omni-wheels for those who wish to use them in their waifus.
+A good intro to omni-wheels for those who wish to use them in their waifus.
+
 https://www.youtube.com/watch?v=ktcuBLA3Www
 
 # 237
@@ -1296,17 +1342,25 @@ https://www.youtube.com/watch?v=ktcuBLA3Www
 Neat! Reminds me of AllieDev's ''Mechanum'' wheels.
 
 # 238
-https://www.youtube.com/watch?v=yXA_KeuYpCY
-
->steal robotdog/generic robot base
->slap a waifu and sexy bits on top of it
->???
+https://www.youtube.com/watch?v=yXA_KeuYpCY
+
+
+
+>steal robotdog/generic robot base
+
+>slap a waifu and sexy bits on top of it
+
+>???
+
 >Profit?
 
 # 239
-Highlights from: https://www.youtube.com/watch?v=XpkVhmbLVTo
->mentioned inmoov: inmoov.fr (an opensource, life-size humanoid)
->Miniature Johnny 5 clone
+Highlights from: https://www.youtube.com/watch?v=XpkVhmbLVTo
+
+>mentioned inmoov: inmoov.fr (an opensource, life-size humanoid)
+
+>Miniature Johnny 5 clone
+
 >a couple Human sized bipedal robots
 
 # 240
@@ -1320,9 +1374,12 @@ Highlights from: https://www.youtube.com/watch?v=XpkVhmbLVTo
 Some anons wouldn't even need to strap anything onto one. Consider a centaur or spidergirl robot base if you prefer any human features but still want a quadruped or hexapod base.
 
 # 241
->>15731
-Link to the sweetiebot project? Could provide valuable information to the waifuneers here.
->Spidergirl
+>>15731
+
+Link to the sweetiebot project? Could provide valuable information to the waifuneers here.
+
+>Spidergirl
+
 Kani (Japanese for crab) is where it's at!
 
 # 242
@@ -1333,8 +1390,10 @@ https://sweetiebot.net/
 From what I understand they want to keep things rated PG. The voice generator (community talknet project) is unrelated and based in the /ppp/ thread on 4chan.org/mlp/. Enter if you dare ^:)
 
 # 243
->>15731
->ponies
+>>15731
+
+>ponies
+
 I was thinking more >>15733 or picrel, but a cute robot horse has the PR advantage because it could easily be a children's toy.
 
 # 244
@@ -1349,8 +1408,10 @@ A hexapod waifu is actually a really good idea for a special-service meido 'waif
 Yep. I immediately came to a similar conclusion. But it's obvious they are going for police force service with the push for that bot, and the price tag shows it. Shame, tbh.
 
 # 245
-are you people serious?
-all the videos are hosted offsite what the hell am I going to do with a filename put it in yandex? fucking yahoo.jp??? tor search???
+are you people serious?
+
+all the videos are hosted offsite what the hell am I going to do with a filename put it in yandex? fucking yahoo.jp??? tor search???
+
 why do this?
 
 # 246

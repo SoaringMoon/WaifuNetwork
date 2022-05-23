@@ -32,7 +32,8 @@ I want as many of us as possible in on this. Really, I'd like everyone on the bo
 Greetings, anon. Art thou still out there? I'm interested in this group learning & have been wanting to fiddle with embedded programming for a while. Will periodically check back. If you're no longer here, take care friend.
 
 # 4
->>1936
+>>1936
+
 Hi. Can't say I've been active but, I'm here. I see the first couple of posts from the old 8chan thread were copied over minus newlines. Wew. Not sure if I'd make another thread but at least I'm down to talk to anyone.
 
 # 5
@@ -41,7 +42,8 @@ hi there notsojapanon, glad to see you found us. i still have all the old thread
 >t. chobitsu
 
 # 6
->>2006
+>>2006
+
 Oh hey, it's the old BO. Good to see you're still alive and waifu'ing it up. What's the userbase like right now? Any discussion going on anywhere?
 
 # 7
@@ -56,8 +58,10 @@ https://fatpeople.lol/tech/thread/76.html#270
 i did get some nanos to work on projects with your thread, i may have shown you already?
 
 # 8
->>2008
->nano 5-pack
+>>2008
+
+>nano 5-pack
+
 Can't remember if I saw that, sorry. I wouldn't mind trying my hand at another thread, since my skills have progressed a lot since last time, with a few commercial products under my belt too. That said though, right now the timing isn't the best for me. I have two major projects I'm heading up and  I'm working on a lateral career move that will, at the very least, let me die from the corona virus in my home country.
 
 # 9
@@ -66,7 +70,8 @@ haha, ok fine then. **don't die bro**
 i've been progressing in my skills with programming, so i hope i can devise some very simple-to-use library code we can all use from C/C++/Python/JS , at least that's my goal. keep us up to date here with everything going on with you anon.
 
 # 10
->>2014
+>>2014
+
 Will do.
 
 # 11
@@ -1348,7 +1353,7 @@ What is the ohms of the resistors you are using? Mine are blue and use the 5 ban
 Another thing that would be valuable to learn is communication between the board and the PC. I'd probably want a wireless connection, and I'd want the PC to be running python (so as to interface with tensorflow).
 
 # 97
-> '''<archive ends>'''
+> '''< archive ends>'''
 
 # 98
 Are you still with us, OP? Your thread convinced me to read the K&R 2e book.
@@ -1401,20 +1406,34 @@ I don't think OP is with us lately Anon. While I can't personally speak with the
 It's a great place to start, but don't camp there?
 
 # 102
->>14495
-
-Arduino themselvs have a nice explanation on port manipulation vs digialWrite: https://www.arduino.cc/en/Reference/PortManipulation
-
-As for setup()/loop(): They are kind of redundant, you can achieve largely the same functionality with
+>>14495
+
+
+
+Arduino themselvs have a nice explanation on port manipulation vs digialWrite: https://www.arduino.cc/en/Reference/PortManipulation
+
+
+
+As for setup()/loop(): They are kind of redundant, you can achieve largely the same functionality with
+
 ```cpp
-
-int main() {
-    // "setup" here
-    while (1) {
-        // "loop" here
-    }
-}
-```
-
+
+
+int main() {
+
+    // "setup" here
+
+    while (1) {
+
+        // "loop" here
+
+    }
+
+}
+
+```
+
+
+
 If you haven't already, spend some time familiarizing yourself with the bitwise operators in c++. They are used a lot in microcontroller programming.
 

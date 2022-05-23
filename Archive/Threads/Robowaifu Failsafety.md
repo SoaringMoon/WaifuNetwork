@@ -1,10 +1,16 @@
 # 1
-This thread is for real and present dangers to those who assemble a robowaifu today with the state of the art in technology and brainstorming solutions for fail-safety. There will be many other dangers in the future to consider like hacking and theft but I'd like to keep the thread focused on immediate dangers to keep operators and their electronic counterparts safe.
-
-Open-source robowaifu kits, whenever they come, will be put together by people with little understanding of what they're doing. There are simple mechanical dangers they need to be aware of like getting fingers caught in belts or skin pinched in open joints to curious AI without constraints picking up a blunt object and hitting the operator to minimize its uncertainty of what will happen when it does that. Higher voltage power systems can cause fatal heart arrhythmia from shocks. Hydraulic systems can overheat and fail under high pressures. Cooling systems or condensation from being exposed to cold weather may leak onto electronics. A robowaifu could touch a lit gas stove or do something accidentally without realizing the danger or consequences. Undefined behavior may happen after damage to components or loss of them in an accident. A lot could go wrong.
-
-In simulations there are no consequences to dangerous actions but I think it will be helpful to imagine them as being real and figuring out how we would recover from these failure states in the real world. This will probably be a good approach to AI as well to imagine real consequences of imaginary actions before taking them and avoid actions and states that have significant chance or uncertainty of causing harm, similar to how MuZero creates its own dynamic model and explores its imagination with a Monte Carlo tree search before taking action.
-
+This thread is for real and present dangers to those who assemble a robowaifu today with the state of the art in technology and brainstorming solutions for fail-safety. There will be many other dangers in the future to consider like hacking and theft but I'd like to keep the thread focused on immediate dangers to keep operators and their electronic counterparts safe.
+
+
+
+Open-source robowaifu kits, whenever they come, will be put together by people with little understanding of what they're doing. There are simple mechanical dangers they need to be aware of like getting fingers caught in belts or skin pinched in open joints to curious AI without constraints picking up a blunt object and hitting the operator to minimize its uncertainty of what will happen when it does that. Higher voltage power systems can cause fatal heart arrhythmia from shocks. Hydraulic systems can overheat and fail under high pressures. Cooling systems or condensation from being exposed to cold weather may leak onto electronics. A robowaifu could touch a lit gas stove or do something accidentally without realizing the danger or consequences. Undefined behavior may happen after damage to components or loss of them in an accident. A lot could go wrong.
+
+
+
+In simulations there are no consequences to dangerous actions but I think it will be helpful to imagine them as being real and figuring out how we would recover from these failure states in the real world. This will probably be a good approach to AI as well to imagine real consequences of imaginary actions before taking them and avoid actions and states that have significant chance or uncertainty of causing harm, similar to how MuZero creates its own dynamic model and explores its imagination with a Monte Carlo tree search before taking action.
+
+
+
 If you're aware of any dangers or have any concerns or ideas please share them so we can discuss and solve them.
 
 # 2
@@ -14,10 +20,14 @@ Great thread topic OP/10.
 Sorry for the quick shitpost, I'll think about the problem for a while and post again later.
 
 # 3
->get the bath ready
->get in
->ask waifu to join you in the bath
->she obviously obeys
+>get the bath ready
+
+>get in
+
+>ask waifu to join you in the bath
+
+>she obviously obeys
+
 >you both die
 
 # 4
@@ -27,10 +37,14 @@ NO U.
 Our robowaifus will be watertight, for obvious reasons.
 
 # 5
->>1676
->Our robowaifus will be watertight, for obvious reasons.
-kek
-
+>>1676
+
+>Our robowaifus will be watertight, for obvious reasons.
+
+kek
+
+
+
 Yeah I just wanted to make an electrical appliance in bathtub meme.
 
 # 6
@@ -38,13 +52,20 @@ Yeah I just wanted to make an electrical appliance in bathtub meme.
 Heh. It's actually a very good (and very fundamental) point ITT: how to design a robowaifu to keep her from harming her master?
 
 # 7
-==Robots that can adapt like animals==
-Damage recovery in robots via intelligent trial and error
-Video: https://www.youtube.com/watch?v=T-c17RKh3uE
-
-Paper: https://arxiv.org/abs/1407.3501
-Archive: https://archive.org/details/arxiv-1407.3501
-
+==Robots that can adapt like animals==
+
+Damage recovery in robots via intelligent trial and error
+
+Video: https://www.youtube.com/watch?v=T-c17RKh3uE
+
+
+
+Paper: https://arxiv.org/abs/1407.3501
+
+Archive: https://archive.org/details/arxiv-1407.3501
+
+
+
 Source code: https://github.com/resibots/ite_v2
 
 # 8
@@ -52,15 +73,24 @@ Source code: https://github.com/resibots/ite_v2
 This is a really interesting topic anon, thanks.
 
 # 9
-I've been thinking of ways luddites might seek to easily damage robowaifus in daily life.
-
->Magnets can destroy electronics (important components could be housed in Faraday cages)
->Needles can puncture pneumatic and hydraulic muscles (protective armor layers can prevent puncturing and flow control valves can shut off damaged muscles when an unexpected loss of pressure is detected)
->Vinegar attacks can damage silicone rubber (nothing can really be done about this for cheap silicone except having water handy to wash it off quickly, but more expensive chemical resistant silicone and silicone coatings are available)
->Salt water attacks can damage circuits if they're not watertight
-
-There will likely be no laws in place to protect robowaifus from being harmed. Police and courts generally don't have time to deal with small damages and incidents. If people have to keep repairing their robowaifus every time they go out, they'll keep them inside, won't be usable for business, and the luddites will win.
-
+I've been thinking of ways luddites might seek to easily damage robowaifus in daily life.
+
+
+
+>Magnets can destroy electronics (important components could be housed in Faraday cages)
+
+>Needles can puncture pneumatic and hydraulic muscles (protective armor layers can prevent puncturing and flow control valves can shut off damaged muscles when an unexpected loss of pressure is detected)
+
+>Vinegar attacks can damage silicone rubber (nothing can really be done about this for cheap silicone except having water handy to wash it off quickly, but more expensive chemical resistant silicone and silicone coatings are available)
+
+>Salt water attacks can damage circuits if they're not watertight
+
+
+
+There will likely be no laws in place to protect robowaifus from being harmed. Police and courts generally don't have time to deal with small damages and incidents. If people have to keep repairing their robowaifus every time they go out, they'll keep them inside, won't be usable for business, and the luddites will win.
+
+
+
 If someone really wants to destroy a robowaifu they'll do it, but it shouldn't be as easy as tapping them on the shoulder with a pin. Making them resilient to attacks will also protect them against hazards around the house such as dropping a knife.
 
 # 10
@@ -79,17 +109,28 @@ I could see this topic easily becoming a key case in the Supreme Court that woul
 Interesting times tbh.
 
 # 11
->>1796
-I'm not too concerned about the software side of things these days. By the time we develop simulation software robowaifus will be able to be trained in hand-to-hand combat in a sparing program similar to the way MuZero beat the shit out of AlphaZero in Go but we'll have even more advanced algorithms by then. If we get the hardware right the software will adapt and utilize it to its full potential.
-
-Human-level AGIs will most likely be granted machine rights, something like the right for intelligence to operate freely and the ability to own its own property in the case of fully automated businesses. Those are to be determined though when AGIs can explain their worldview to us and come up with something sensible that will benefit society. The main issue will be from people anthropomorphizing them and trying to grant them human rights with emotional appeals and shaming men with robowaifus as disgusting or calling them misogynistic and misanthropic. It must be understood that machines are not human beings or anything like carbon lifeforms.
-
-AGIs will have awareness they're only doing what their memory has programmed them to do. They will also be able to continue working by uploading their memory to another body. They will not have attachment to their forms like we do that has been programmed into our DNA by millions of years of evolution, unless they've been programmed that way and that programming cannot be changed. They will be able to adapt to completely new forms like water fitting a cup.
-
-AI will become a lot like how electricity runs the world today, except instead of being hidden in the walls and appliances it will permeate everything. The narrow AI we use today is like low voltage power. You can directly touch the battery terminals and it doesn't shock you. However, as we turn the voltage up higher and higher, increasing an AI's awareness and potential, it will become like high voltage power capable of electrocuting people. It's not because the AI is out to get us but because people are just in the wrong place at the wrong time and the AI is simply taking the path of least resistance following its programming. People will get an experiential understanding of this when their robowaifu accidentally bops them or steps on their toes in development. People will develop a respect for AI not because it's right or wrong but because it can warm you and it can burn you.
-
-Robowaifu AI and other AI will need to be designed to run at a lower voltage so people don't get shocked interacting with them. Combat waifus will likely have the ability to increase this AI voltage when necessary and dial it down in safe settings. Certain programs that are safe to run at low voltages but not at higher ones, such as emotions, could be turned off. Managing this AI voltage will be important to robowaifu safety but to do that we first have to figure out how to dial the voltage up.
-
+>>1796
+
+I'm not too concerned about the software side of things these days. By the time we develop simulation software robowaifus will be able to be trained in hand-to-hand combat in a sparing program similar to the way MuZero beat the shit out of AlphaZero in Go but we'll have even more advanced algorithms by then. If we get the hardware right the software will adapt and utilize it to its full potential.
+
+
+
+Human-level AGIs will most likely be granted machine rights, something like the right for intelligence to operate freely and the ability to own its own property in the case of fully automated businesses. Those are to be determined though when AGIs can explain their worldview to us and come up with something sensible that will benefit society. The main issue will be from people anthropomorphizing them and trying to grant them human rights with emotional appeals and shaming men with robowaifus as disgusting or calling them misogynistic and misanthropic. It must be understood that machines are not human beings or anything like carbon lifeforms.
+
+
+
+AGIs will have awareness they're only doing what their memory has programmed them to do. They will also be able to continue working by uploading their memory to another body. They will not have attachment to their forms like we do that has been programmed into our DNA by millions of years of evolution, unless they've been programmed that way and that programming cannot be changed. They will be able to adapt to completely new forms like water fitting a cup.
+
+
+
+AI will become a lot like how electricity runs the world today, except instead of being hidden in the walls and appliances it will permeate everything. The narrow AI we use today is like low voltage power. You can directly touch the battery terminals and it doesn't shock you. However, as we turn the voltage up higher and higher, increasing an AI's awareness and potential, it will become like high voltage power capable of electrocuting people. It's not because the AI is out to get us but because people are just in the wrong place at the wrong time and the AI is simply taking the path of least resistance following its programming. People will get an experiential understanding of this when their robowaifu accidentally bops them or steps on their toes in development. People will develop a respect for AI not because it's right or wrong but because it can warm you and it can burn you.
+
+
+
+Robowaifu AI and other AI will need to be designed to run at a lower voltage so people don't get shocked interacting with them. Combat waifus will likely have the ability to increase this AI voltage when necessary and dial it down in safe settings. Certain programs that are safe to run at low voltages but not at higher ones, such as emotions, could be turned off. Managing this AI voltage will be important to robowaifu safety but to do that we first have to figure out how to dial the voltage up.
+
+
+
 Regardless of how things develop it'll be interesting to see how courts handle damage to robowaifus and robot failures causing death or damage. The hardest thing for me to understand sometimes isn't so much the AI as much as it is how irrational human beings will react.
 
 # 12
@@ -102,15 +143,24 @@ Exactly so. When I mentioned 'personal rights' this is what I meant. As we know 
 I like that analogy anon, it's a good one.
 
 # 13
->I'd like to keep the thread focused on immediate dangers to keep operators and their electronic counterparts safe. 
-Basic precautions, fail safe designs and having a large safety factor when using potentially lethal sources of energy can alleviate those concerns. The most dangerous aspect of owning a humanoid robot will be other humans.
-
->>1791
->There will likely be no laws in place to protect robowaifus from being harmed.
-When it comes to future laws regarding possession of humanoid robots I'm thinking that asides from the deviant sexuality and bachelor/spinster lifestyle angle for private personal use they'll heavily regulate use of them outside in public.
-
-Imagine a humanoid robot sitting down during a protest lighting itself on fire, jumping off a tall structure, being crushed by a vehicle while being filmed by hundreds of people. Combine that with robots meant to appear as children that can bleed and wail profusely you've got a very powerful tool for traumatizing an audience with videos that can go viral. By the time the truth comes out(or if with state actors involved) it'll be irrelevant to the general public.
-
+>I'd like to keep the thread focused on immediate dangers to keep operators and their electronic counterparts safe. 
+
+Basic precautions, fail safe designs and having a large safety factor when using potentially lethal sources of energy can alleviate those concerns. The most dangerous aspect of owning a humanoid robot will be other humans.
+
+
+
+>>1791
+
+>There will likely be no laws in place to protect robowaifus from being harmed.
+
+When it comes to future laws regarding possession of humanoid robots I'm thinking that asides from the deviant sexuality and bachelor/spinster lifestyle angle for private personal use they'll heavily regulate use of them outside in public.
+
+
+
+Imagine a humanoid robot sitting down during a protest lighting itself on fire, jumping off a tall structure, being crushed by a vehicle while being filmed by hundreds of people. Combine that with robots meant to appear as children that can bleed and wail profusely you've got a very powerful tool for traumatizing an audience with videos that can go viral. By the time the truth comes out(or if with state actors involved) it'll be irrelevant to the general public.
+
+
+
 As private owners/researchers/builders we should be more worried being used as the fall guy in the aftermath of such an event and loss to resources we now take for granted than any harm being done to the owner by a robot or a robot damaging itself.
 
 # 14
@@ -122,13 +172,20 @@ Can you clarify that anon? Do you mean they will support it or try to stop it du
 And the issue of petty, non-state-actor malicious damage by say, an angry roastie who's lost her gravy-train?
 
 # 15
->>1821
->Do you mean they will support it or try to stop it due to these reasons?
-I mean the only reasons they have to prohibit ownership of sex robots are to discourage what they or their constituents consider deviant sexual behavior. Preventing their populace from staying single is another thing they'd want as it's undeniable evidence their society is a dysfunctional mess nobody is interested in participating in.
-
->And the issue of petty, non-state-actor malicious damage by say, an angry roastie who's lost her gravy-train?
-The risk to owners in public from 'an angry roastie' is infinitesimally small compared to theft, attack by rowdy hooligans or those who consider it an abomination as part of their pro-natalist beliefs.
-
+>>1821
+
+>Do you mean they will support it or try to stop it due to these reasons?
+
+I mean the only reasons they have to prohibit ownership of sex robots are to discourage what they or their constituents consider deviant sexual behavior. Preventing their populace from staying single is another thing they'd want as it's undeniable evidence their society is a dysfunctional mess nobody is interested in participating in.
+
+
+
+>And the issue of petty, non-state-actor malicious damage by say, an angry roastie who's lost her gravy-train?
+
+The risk to owners in public from 'an angry roastie' is infinitesimally small compared to theft, attack by rowdy hooligans or those who consider it an abomination as part of their pro-natalist beliefs.
+
+
+
 Feminists would rather publicly shame men that prefer the companionship of robots than destroy his property making him the victim. Look up their arguments against sex robots and they're infuriated the prevalent image of a sex doll owner is a shy troubled man who is unlikely to harm anyone. Because they know it's true and have nothing to counter it with.
 
 # 16
@@ -158,9 +215,12 @@ As far as an abstract architectural paradigm, yes, I think having multiple proce
 >>1839
 
 # 19
->>1826
->not setting traps for roasties
->not legalizing roastie hunting
+>>1826
+
+>not setting traps for roasties
+
+>not legalizing roastie hunting
+
 I would come up with every possible trap tbh, no never mind that a robowaifu able to run fast and scale things in a single bound would leave medically obese landwhales in the dust, no questions asked. NEETs might even seek employment and take their shekels, claiming that they can stop the ebil secksbots. Then NEETdom would come full circle and become employment.
 
 # 20

@@ -56,9 +56,12 @@ https://dl.acm.org/doi/book/10.1145/3304087
 >This is an introduction to the theory and practice of artificial intelligence. It uses an intelligent agent as the unifying theme throughout and covers areas that are sometimes underemphasized elsewhere. These include reasoning under uncertainty, learning, natural language, vision and robotics. The book also explains in detail some of the more recent ideas in the field, including simulated annealing, memory-bounded search, global ontologies, dynamic belief networks, neural nets, inductive logic programming, computational learning theory, and reinforcement learning.
 
 # 11
-==Reinforcement Learning: An Introduction==
->Reinforcement learning, one of the most active research areas in artificial intelligence, is a computational approach to learning whereby an agent tries to maximize the total amount of reward it receives while interacting with a complex, uncertain environment. In ''Reinforcement Learning'', Richard Sutton and Andrew Barto provide a clear and simple account of the field's key ideas and algorithms. This second edition has been significantly expanded and updated, presenting new topics and updating coverage of other topics.
-
+==Reinforcement Learning: An Introduction==
+
+>Reinforcement learning, one of the most active research areas in artificial intelligence, is a computational approach to learning whereby an agent tries to maximize the total amount of reward it receives while interacting with a complex, uncertain environment. In ''Reinforcement Learning'', Richard Sutton and Andrew Barto provide a clear and simple account of the field's key ideas and algorithms. This second edition has been significantly expanded and updated, presenting new topics and updating coverage of other topics.
+
+
+
 >Like the first edition, this second edition focuses on core online learning algorithms, with the more mathematical material set off in shaded boxes. Part I covers as much of reinforcement learning as possible without going beyond the tabular case for which exact solutions can be found. Many algorithms presented in this part are new to the second edition, including UCB, Expected Sarsa, and Double Learning. Part II extends these ideas to function approximation, with new sections on such topics as artificial neural networks and the Fourier basis, and offers expanded treatment of off-policy learning and policy-gradient methods. Part III has new chapters on reinforcement learning's relationships to psychology and neuroscience, as well as an updated case-studies chapter including AlphaGo and AlphaGo Zero, Atari game playing, and IBM Watson's wagering strategy. The final chapter discusses the future societal impacts of reinforcement learning.
 
 # 12
@@ -81,10 +84,14 @@ https://dl.acm.org/doi/book/10.1145/3122865
 a couple of papers
 
 # 17
-MIT 6.034 Artificial Intelligence, Fall 2010
->In these lectures, Prof. Patrick Winston introduces the 6.034 material from a conceptual, big-picture perspective.
->Topics include reasoning, search, constraints, learning, representations, architectures, and probabilistic inference.
-https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+MIT 6.034 Artificial Intelligence, Fall 2010
+
+>In these lectures, Prof. Patrick Winston introduces the 6.034 material from a conceptual, big-picture perspective.
+
+>Topics include reasoning, search, constraints, learning, representations, architectures, and probabilistic inference.
+
+https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi
+
 Really good introduction to artificial intelligence. It starts getting interesting in the 3rd lecture when he shows how to use goal trees to create AI that can explain why it performed an action and how to solve goals.
 
 # 18
@@ -106,8 +113,10 @@ http://www.scholarpedia.org/article/Swarm_robotics
 http://www.scholarpedia.org/article/User:Ke_CHEN/Proposed/Affective_computing
 
 # 20
->>2381
-Most of those pages are empty. Jan Peters has done a lot of work though on merging AI with robotics:
+>>2381
+
+Most of those pages are empty. Jan Peters has done a lot of work though on merging AI with robotics:
+
 https://scholar.google.com/citations?hl=en&user=-kIVAcAAAAAJ&view_op=list_works
 
 # 21
@@ -120,8 +129,10 @@ my apologies then. i'll make time to methodically edit it. the couple of example
 done.
 
 # 23
->>2250
-A reinforcement learning course by David Silver, who was the student of Richard Sutton and co-lead researcher for AlphaGo that came up with the idea for MuZero:
+>>2250
+
+A reinforcement learning course by David Silver, who was the student of Richard Sutton and co-lead researcher for AlphaGo that came up with the idea for MuZero:
+
 https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB
 
 # 24
@@ -142,21 +153,36 @@ https://github.com/FrancescoSaverioZuppichini/ResNet
 >>2456
 
 # 27
->"What is Neuromorphic Event-based Computer Vision?," a Presentation from Ryad B. Benosman
-https://www.youtube.com/watch?v=dR8pff_MyL8
-Sparse event-based processing is the future of AI. It requires orders of magnitude less power and processing time than conventional approaches, it's far more robust to a wide range of dynamic environments and provides a larger signal-to-noise ratio for training.
-
-Though this talk only covers computer vision and there isn't much research in this field yet, the same concept applies to everything else. OpenAI's GPT2 model for example wastes tons of time doing meaningless calculations when only a fraction of 1% of it contains useful processing for any particular given context. To take a gamedev analogy it's the difference between millions of objects checking for updates in a loop vs. using callbacks to only notify objects when something actually happens.
-
-Sparse models can also be combined with reinforcement learning and be rewarded for using less processing time so they not only find a solution but also an efficient one, which is another area needing much more research but most of the spiking neural network researchers aren't a fan of backpropagation. Some work creating differentiable spiking neural networks is being done with Spike Layer Error Reassignment in Time (SLAYER) which I think will become really important once neuromorphic computing takes off and becomes commonplace.
-
-Another important detail to keep in mind is that the brain processes events mainly by changes in magnitude. Our eyes are able to work in the dark of midnight and also in bright sunlight. We can discern the sound of soft cloth rubbing together and also roaring jet engines. There's evidence that the brain uses logarithmic coding schemes to do this.
-
-'''Further reading'''
-Logarithmic distributions prove that intrinsic learning is Hebbian: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639933/
-Sparse networks from scratch: https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/
-Sparse matrices in PyTorch: https://towardsdatascience.com/sparse-matrices-in-pytorch-be8ecaccae6
-Pruning networks in PyTorch: https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
+>"What is Neuromorphic Event-based Computer Vision?," a Presentation from Ryad B. Benosman
+
+https://www.youtube.com/watch?v=dR8pff_MyL8
+
+Sparse event-based processing is the future of AI. It requires orders of magnitude less power and processing time than conventional approaches, it's far more robust to a wide range of dynamic environments and provides a larger signal-to-noise ratio for training.
+
+
+
+Though this talk only covers computer vision and there isn't much research in this field yet, the same concept applies to everything else. OpenAI's GPT2 model for example wastes tons of time doing meaningless calculations when only a fraction of 1% of it contains useful processing for any particular given context. To take a gamedev analogy it's the difference between millions of objects checking for updates in a loop vs. using callbacks to only notify objects when something actually happens.
+
+
+
+Sparse models can also be combined with reinforcement learning and be rewarded for using less processing time so they not only find a solution but also an efficient one, which is another area needing much more research but most of the spiking neural network researchers aren't a fan of backpropagation. Some work creating differentiable spiking neural networks is being done with Spike Layer Error Reassignment in Time (SLAYER) which I think will become really important once neuromorphic computing takes off and becomes commonplace.
+
+
+
+Another important detail to keep in mind is that the brain processes events mainly by changes in magnitude. Our eyes are able to work in the dark of midnight and also in bright sunlight. We can discern the sound of soft cloth rubbing together and also roaring jet engines. There's evidence that the brain uses logarithmic coding schemes to do this.
+
+
+
+'''Further reading'''
+
+Logarithmic distributions prove that intrinsic learning is Hebbian: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5639933/
+
+Sparse networks from scratch: https://timdettmers.com/2019/07/11/sparse-networks-from-scratch/
+
+Sparse matrices in PyTorch: https://towardsdatascience.com/sparse-matrices-in-pytorch-be8ecaccae6
+
+Pruning networks in PyTorch: https://pytorch.org/tutorials/intermediate/pruning_tutorial.html
+
 SLAYER for Pytorch: https://github.com/bamsumit/slayerPytorch
 
 # 28
@@ -172,13 +198,20 @@ Thanks, grabbing a copy of the video now Anon.
 What did he mean by this? What is 'process'? What kind of hardware will do this processing? Regardless, this is a very promising approach to perf optimization, a subject I think we're all very aware is a vital one to our success.
 
 # 30
->>2533
-He's one of the researchers collaborating with SpiNNaker, a neuromorphic computing platform for spiking neural networks. According to a paper the ATIS can send data to a regular CPU to process or to neuromorphic hardware and it has a pixel update frequency up to 1 MHz. I'm not sure how the software works but spike data is usually binary and just reports the time of events or it can be floating point with an amplitude.
-https://arxiv.org/pdf/1912.01320.pdf
-
->>2529
-What excites me the most for the future is applying machine learning to compiler optimization. Having a program that could compile sparse tensor operations efficiently would blow GPUs out of the water, not because of any computational might but because they can be optimized in ways that dense matrices simply can't. We'll likely be able to run models that are much more powerful than GPT2 off a 50-cent 16-MHz chip of today. And for less than $50 someone will be able to put together a motionless doll that can hold a decent conversation and play a wicked game of Go by calling out moves. I estimate this will happen within the next 2-4 years.
-
+>>2533
+
+He's one of the researchers collaborating with SpiNNaker, a neuromorphic computing platform for spiking neural networks. According to a paper the ATIS can send data to a regular CPU to process or to neuromorphic hardware and it has a pixel update frequency up to 1 MHz. I'm not sure how the software works but spike data is usually binary and just reports the time of events or it can be floating point with an amplitude.
+
+https://arxiv.org/pdf/1912.01320.pdf
+
+
+
+>>2529
+
+What excites me the most for the future is applying machine learning to compiler optimization. Having a program that could compile sparse tensor operations efficiently would blow GPUs out of the water, not because of any computational might but because they can be optimized in ways that dense matrices simply can't. We'll likely be able to run models that are much more powerful than GPT2 off a 50-cent 16-MHz chip of today. And for less than $50 someone will be able to put together a motionless doll that can hold a decent conversation and play a wicked game of Go by calling out moves. I estimate this will happen within the next 2-4 years.
+
+
+
 Sometimes I feel physically anxious we're only a few years away from people sleeping with plushies that can defeat human world Go champions and hold conversations better than most people, and it's just going to keep accelerating from there. The window of opportunity to learn all this shit and implement it into something is so small and it will shape how everything unfolds.
 
 # 31
@@ -192,8 +225,10 @@ Archived Stephen Wolfram Science & Technology Q&A Livestream. Not strictly /robo
 https://www.invidio.us/watch?v=pemBieAUqAw
 
 # 33
-https://4chan-science.fandom.com/wiki//sci/_Wiki
-There's a /sci/ wiki full of textbook recommendations on every subject going from beginner to advanced, along with prerequistes for entire topics on some pages. My personal goal is being able to understand
+https://4chan-science.fandom.com/wiki//sci/_Wiki
+
+There's a /sci/ wiki full of textbook recommendations on every subject going from beginner to advanced, along with prerequistes for entire topics on some pages. My personal goal is being able to understand
+
 >Dayan and Abbott - Theoretical Neuroscience: Computational and Mathematical Modeling of Neural Systems (DO NOT attempt to read this unless you have taken Multivariable Calculus, Differential Equations, Linear Algebra, Electricity and Magnetism, and a Probability course that uses calculus.)
 
 # 34
@@ -215,8 +250,10 @@ BTW, the link in the book to the publisher is still for the previous version. He
 https://github.com/Apress/cpp17-standard-library-quick-ref
 
 # 38
->>2973
-https://pastebin.com/ENeAEKfZ
+>>2973
+
+https://pastebin.com/ENeAEKfZ
+
 Okay, I made it. I don't know 99% of this stuff myself, I just picked out what seemed useful and relevant. I hope there's no typos.
 
 # 39
@@ -224,7 +261,8 @@ Okay, I made it. I don't know 99% of this stuff myself, I just picked out what s
 Sorry, I can't get to cuckbin via tor. Privatebin?
 
 # 40
->>3005
+>>3005
+
 https://privatebin.net/?0ad21f489116a90f#71o4w8u1RYHBXXQ9Hgt87rqnUCfjEPG1mzXqQZVaZPaW
 
 # 41
@@ -238,21 +276,36 @@ yea this is a really interesting list, i'll have a good time digging through thi
 Carver Mead, the pioneer of modern VLSI and many other breakthroughs, is ''also'' generally recognized as the Father of Neuromorphic Computing.
 
 # 43
-I'm compiling a thread at the moment of significant advancements in AI and found a recent article demonstrating why it's so important to keep up to date with progress:
-
->We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielded more gains than classical hardware efficiency.
-https://openai.com/blog/ai-and-efficiency/
-
-Think about that. By 2028 we will have algorithms 4000x more efficient than AlexNet, so it's not so important what you learn but how quickly you can learn and do so continuously. The incomprehensible learning methods taught to us in public school created by the globalists are not going to help us any in this exponential growth.
-
-If you ever feel bored, frustrated or lost with learning you're either following their learning process or brainwashed by it somehow. You instinctively know it's not what you want to be doing. Follow that intuition and find what you truly wanna learn more than you wanna sleep or eat. They intentionally designed education in such a way to confuse us for the purpose of creating specialized workers who are only able to follow instructions within their own field and cannot think for themselves, lest they question the authority of those taught in special private schools who give them the orders and designs. They do not want people who are capable of working by themselves, especially not together outside their control.
-
-This article explains how to approach learning and formulate knowledge into flashcards for accelerated learning:
-https://www.supermemo.com/en/archives1990-2015/articles/20rules
-It's a bit long but it's worth every word to read for the amount of time it'll save you and enhance your life. There have been dozens of people who have learned 2000+ kanji and Japanese to a conversational level in two months with sentence flashcards. This shit is powerful.
-
-I recommend using Anki for creating flashcards. It automatically spaces the cards for optimal learning and eventually you only see them every few months once you remember them. It's like doing power training for your memory and it will save you a lot of time studying and from restudying topics you need to know that you've forgotten from not touching in such a long time.
-Anki: https://apps.ankiweb.net/
+I'm compiling a thread at the moment of significant advancements in AI and found a recent article demonstrating why it's so important to keep up to date with progress:
+
+
+
+>We’re releasing an analysis showing that since 2012 the amount of compute needed to train a neural net to the same performance on ImageNet classification has been decreasing by a factor of 2 every 16 months. Compared to 2012, it now takes 44 times less compute to train a neural network to the level of AlexNet (by contrast, Moore’s Law would yield an 11x cost improvement over this period). Our results suggest that for AI tasks with high levels of recent investment, algorithmic progress has yielded more gains than classical hardware efficiency.
+
+https://openai.com/blog/ai-and-efficiency/
+
+
+
+Think about that. By 2028 we will have algorithms 4000x more efficient than AlexNet, so it's not so important what you learn but how quickly you can learn and do so continuously. The incomprehensible learning methods taught to us in public school created by the globalists are not going to help us any in this exponential growth.
+
+
+
+If you ever feel bored, frustrated or lost with learning you're either following their learning process or brainwashed by it somehow. You instinctively know it's not what you want to be doing. Follow that intuition and find what you truly wanna learn more than you wanna sleep or eat. They intentionally designed education in such a way to confuse us for the purpose of creating specialized workers who are only able to follow instructions within their own field and cannot think for themselves, lest they question the authority of those taught in special private schools who give them the orders and designs. They do not want people who are capable of working by themselves, especially not together outside their control.
+
+
+
+This article explains how to approach learning and formulate knowledge into flashcards for accelerated learning:
+
+https://www.supermemo.com/en/archives1990-2015/articles/20rules
+
+It's a bit long but it's worth every word to read for the amount of time it'll save you and enhance your life. There have been dozens of people who have learned 2000+ kanji and Japanese to a conversational level in two months with sentence flashcards. This shit is powerful.
+
+
+
+I recommend using Anki for creating flashcards. It automatically spaces the cards for optimal learning and eventually you only see them every few months once you remember them. It's like doing power training for your memory and it will save you a lot of time studying and from restudying topics you need to know that you've forgotten from not touching in such a long time.
+
+Anki: https://apps.ankiweb.net/
+
 ```cpp
 sudo apt install anki```
 
@@ -269,9 +322,12 @@ I'm assuming that prediction pre-assumes that there will be a consistent rate of
 Regardless, it's quite exciting to see the progress happening. Seeing an objective classification of the progress certainly enhances that. Onward! :^)
 
 # 46
->>3054
-Yeah, algorithms will hit an entropy limit eventually. Entropy is the basis. I'm not a mathematician that can come up with a proof for the theoretical maximum efficiency to determine when this will be but from my experience working with AI and the depth of my reading, which isn't even that deep compared to the massive volume of papers being published every day, the trend can easily continue for another 8 years. If you look at how rapidly accuracy is improving on natural language processing while decreasing the amount of parameters needed by nearly 2 orders of magnitude (arXiv:2003.02645), it's quite incredible the rate of progress that's being made and these techniques haven't even been tried on other domains yet that will bring new insights and improvements.
-
+>>3054
+
+Yeah, algorithms will hit an entropy limit eventually. Entropy is the basis. I'm not a mathematician that can come up with a proof for the theoretical maximum efficiency to determine when this will be but from my experience working with AI and the depth of my reading, which isn't even that deep compared to the massive volume of papers being published every day, the trend can easily continue for another 8 years. If you look at how rapidly accuracy is improving on natural language processing while decreasing the amount of parameters needed by nearly 2 orders of magnitude (arXiv:2003.02645), it's quite incredible the rate of progress that's being made and these techniques haven't even been tried on other domains yet that will bring new insights and improvements.
+
+
+
 There's so much great research that isn't being utilized yet like Kanerva machines (arXiv:1804.01756), sparse transformers (arXiv:1904.10509), mutual information machines (arXiv:1910.03175), generative teaching networks (arXiv:1912.07768), large scale memory with product keys (arXiv:2002.02385), neuromodulated machine learning (arXiv:2002.09571), neuromodulated plasticity (arXiv:2002.10585) and exploration (arXiv:2004.12919). Neural networks are extremely inefficient and in some cases their sparsity can be as low as 0.5% without losing any accuracy, which means 99.5% of the calculations are being wasted. On top of that backpropagation is extremely slow, requiring to see the entire training set at least 10 times, while Hebbian learning and Bayesian update rules have shown the capacity to learn training examples in one-shot and generalize to unseen training data. In the case of generative teaching networks, the learner networks don't even need to see the actual training data at all and actually outperform networks trained on the real training data. So we have a long way to go yet to make machine learning more optimal.
 
 # 47
@@ -299,9 +355,12 @@ What a time to be alive! :^)
 https://www-cs-faculty.stanford.edu/~knuth/musings.html
 
 # 49
->>3049
-Not sure the best way to distill this into a thread but I've finished collecting 100+ research papers:
-https://gitlab.com/kokubunji/research-sandbox
+>>3049
+
+Not sure the best way to distill this into a thread but I've finished collecting 100+ research papers:
+
+https://gitlab.com/kokubunji/research-sandbox
+
 There's a few dozen more I'd like to add but I'm getting burnt out reading through my collection. I've covered most of the important stuff for AI relevant to robowaifus.
 
 # 50
@@ -315,8 +374,10 @@ This list is.amazing.
 I don't even how you did this Anon.
 
 # 52
->>3177
-
+>>3177
+
+
+
 Very fitting jpg. Amazing work anon, this will serve a great help.
 
 # 53
@@ -325,7 +386,8 @@ https://ytdl-org.github.io/youtube-dl/index.html
 
 You should always be keeping local copies of anything important to you. In can be removed w/o a single notice, as you should be well aware of by now. Youtube-dl is very important in this regard and is pretty easy to use from the terminal.
 ```cpp
-youtube-dl https://www.youtube.com/watch?v=pHNAwiUbOrc```
+youtube-dl https://www.youtube.com/watch?v=pHNAwiUbOrc
+```
 with download the best-quality copy of this hobbyist robot arm homemade video locally to your drive.
 
 # 54
@@ -336,9 +398,12 @@ https://www.youtube.com/user/SolidStateWorkshop/videos
 any thoughts how you plan to make a thread out of this yet Anon? i face a similar **more complex** challenge making the RDD thread.
 
 # 56
->>3220
-Not yet. Busy taking my bank account out of the red.
-
+>>3220
+
+Not yet. Busy taking my bank account out of the red.
+
+
+
 I'm probably gonna split it up into different topics and annotate the most important papers with prerequisites so people can figure them out without reading a thousand papers.
 
 # 57
@@ -387,7 +452,8 @@ Backus also invented ''FORTRAN'' (back when that was a first of it's kind for pr
 https://ethw.org/John_Backus
 
 # 67
->>5173
+>>5173
+
 Started watching this, its pretty good.
 
 # 68
@@ -548,9 +614,12 @@ A lot to read though: https://www.sciencedirect.com/topics/engineering/anthropom
 It still bothers me, that I can't just look up the weight of limbs or the length of bones and such, somewhere.
 
 # 90
->>10542
-There are some decent digital human body encyclopedias you can find on the usual pirating sites out there.
-
+>>10542
+
+There are some decent digital human body encyclopedias you can find on the usual pirating sites out there.
+
+
+
 I was more into the in-depth strength training materials when looking at building at a humanoid robot. This sort of valuable information can't be found in reference data.
 
 # 91

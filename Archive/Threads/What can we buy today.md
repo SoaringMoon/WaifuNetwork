@@ -11,7 +11,8 @@ https://www.amazon.com/gp/product/B00ORWFLTW/
 In this thread we can discuss sex dolls, cloth dolls, dakimakura, onaholes, and other options that exist on the market today.
 
 # 2
->>101
+>>101
+
 >I've owned a number of dolls, including one full size TPE sex doll
 
 # 3
@@ -19,11 +20,16 @@ In this thread we can discuss sex dolls, cloth dolls, dakimakura, onaholes, and 
 >posts this on a moving-doll board
 
 # 4
->>101
-I think you're smart in thinking about what we can buy today. I think you're incorrect in thinking that the "robo" part is unrealistic. Robots already exist. Rudimentary androids already exist, and have for decades. We just need to do the best we can.
-
-I've said it a million times on this board (or the old one, I just realized it was active again here), we had dancing robot toys be the biggest sellers of like 2003. They were cheap children's toys. Now we have almost two decades of tech advances. You're not going to convince me that it would be particularly hard to make one slightly bigger, slightly cuter, and stick a fleshlight in it. Also add whatever speech recognition and speech synthesis can be afforded. Those two areas are advancing very quickly these last few years. That's all you need for something that is "good enough." And good enough is all that matters, because it will sell better than the garbage that is out there today, the overly expensive dolls that look like whores anyway. And those better sales will fund further advances, which will spur better sales, and so on.
-
+>>101
+
+I think you're smart in thinking about what we can buy today. I think you're incorrect in thinking that the "robo" part is unrealistic. Robots already exist. Rudimentary androids already exist, and have for decades. We just need to do the best we can.
+
+
+
+I've said it a million times on this board (or the old one, I just realized it was active again here), we had dancing robot toys be the biggest sellers of like 2003. They were cheap children's toys. Now we have almost two decades of tech advances. You're not going to convince me that it would be particularly hard to make one slightly bigger, slightly cuter, and stick a fleshlight in it. Also add whatever speech recognition and speech synthesis can be afforded. Those two areas are advancing very quickly these last few years. That's all you need for something that is "good enough." And good enough is all that matters, because it will sell better than the garbage that is out there today, the overly expensive dolls that look like whores anyway. And those better sales will fund further advances, which will spur better sales, and so on.
+
+
+
 The tech already exists. We just need someone with the startup capital to do it.
 
 # 5
@@ -96,9 +102,12 @@ Well, actually I don't see any ball joints here. Except for the head maybe. Mayb
 Checked. Sauce on that pic Anon? Are they for sale or do you have to print them yourself if you know?
 
 # 18
->>7588
-Not him but I've seen that before here
-https://www.cgtrader.com/3d-print-models/games-toys/toys/articulated-poseable-female-figure
+>>7588
+
+Not him but I've seen that before here
+
+https://www.cgtrader.com/3d-print-models/games-toys/toys/articulated-poseable-female-figure
+
 There's some interesting stuff on that site.
 
 # 19

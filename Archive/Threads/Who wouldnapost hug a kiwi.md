@@ -443,9 +443,12 @@ In general I'd say emotiveness is a very fundamental part of ''Character Appeal'
 Also, the eye color-shift thing is a nice idea.
 
 # 79
->>10237
-Glad I found your post anon.  A sub one meter waddling very fluffy harpy petwife that makes cute squeaks sounds really nice.  Will save your "features list" for reference.
-
+>>10237
+
+Glad I found your post anon.  A sub one meter waddling very fluffy harpy petwife that makes cute squeaks sounds really nice.  Will save your "features list" for reference.
+
+
+
 As for recognizing her master, we can start really simple and have an RF (radio frequency tag) ring which the owner wears, and the robot will just triangulate the location of that ring.  Then only voice or facial recognition if the system is secure and not in the wrong hands.
 
 # 80
@@ -525,9 +528,12 @@ On that note, I'm still conflicted on if I want to integrate everything on one b
 Been there AllieDev, had to retake a machinist course because my professor sucked. Highly recommend going to a different college if you do intend to go back. Do what will lead to the best life for you.
 
 # 89
->>14995
-SMD reflow soldering
-
+>>14995
+
+SMD reflow soldering
+
+
+
 I had completely forgotten this process exists! This is probably how my servo circuits were made (place hundreds in an oven and reflow solder them all at once). Although I noted that the hobbyist ovens often leave some manual touching up to be done. I was scuppered when attempting to repair SMD components by hand. I must have had my soldering iron too hot because even though my dwell time was overall just a few seconds, I still managed to lift off the circuit board substrate and destroy the tiny solder pads. Left a nasty tear and scorch marks. I also probably should have made better use of my desoldering braid rather than touching the tip of the soldering iron directly to the solder pads. But it is SUPER fiddly. Seems everyone I see manually soldering SMD components on YouTube uses a freaking optical microscope! (Though this could be just for recording purposes).
 
 # 90
@@ -552,64 +558,98 @@ Brilliant work Anon! Elegance in simplicity. I appreciate the geometric layout y
 Glad to hear from you Kiwi. Nice progress! :^)
 
 # 93
->>15222
+>>15222
+
 Incorporating a double jointed knee would be difficult but, I'll try it
 
 # 94
->>15226
+>>15226
+
 I'm a bit out of the loop here, would the double jointed knees give any advantage over having a single jointed knee? Just seems like it would make the leg much heavier since you'll now need an extra servo on each leg to move the second knee.
 
 # 95
->>15249
-The advantage is the leg will have a kneecap and move in a slightly more human-like way. I refuse to use a redundant servo as it would add mass and consume power for no reason. I'm trying to develop one that'll work passively or powered. Turbo_SunShine's PCB holder is currently my inspiration.
-
+>>15249
+
+The advantage is the leg will have a kneecap and move in a slightly more human-like way. I refuse to use a redundant servo as it would add mass and consume power for no reason. I'm trying to develop one that'll work passively or powered. Turbo_SunShine's PCB holder is currently my inspiration.
+
+
+
 Who is she? She's so cute!
 
 # 96
->>15214
-I don't like this insanely super lightweight approach you keep bringing up. 
-Light materials do little good when so little as the breeze of a door or walking past them is enough to knock them over. They are best for cosmetics, but not so much for the base frame imo. 
-
-You also inadvertently made a mini easel you just put on a scale and took several pictures of. lol.
-
+>>15214
+
+I don't like this insanely super lightweight approach you keep bringing up. 
+
+Light materials do little good when so little as the breeze of a door or walking past them is enough to knock them over. They are best for cosmetics, but not so much for the base frame imo. 
+
+
+
+You also inadvertently made a mini easel you just put on a scale and took several pictures of. lol.
+
+
+
 Had made some progress through the basemesh of my custom Pandora. About 1/3rd of the way done.
 
 # 97
->>15253
-I understand what you're saying, I am going a tad overboard with my fixation on making her have as little mass as feasible. Though, reploid boots would keep her from falling over either way.
-
-I do see the similarity to an easel lol
-
+>>15253
+
+I understand what you're saying, I am going a tad overboard with my fixation on making her have as little mass as feasible. Though, reploid boots would keep her from falling over either way.
+
+
+
+I do see the similarity to an easel lol
+
+
+
 Pandora is looking good AllieDev, I have high hopes in her.
 
 # 98
->>15250
->Who is she? She's so cute!
-I think she's called Diva Media from World Flippers.
-
->The advantage is the leg will have a kneecap and move in a slightly more human-like way. 
-I see, so you're using double jointed knees to be able to make a more human-like kneecap? I thought you wanted to make 2 knees on each leg just like how birds have 2 "knees"
-
+>>15250
+
+>Who is she? She's so cute!
+
+I think she's called Diva Media from World Flippers.
+
+
+
+>The advantage is the leg will have a kneecap and move in a slightly more human-like way. 
+
+I see, so you're using double jointed knees to be able to make a more human-like kneecap? I thought you wanted to make 2 knees on each leg just like how birds have 2 "knees"
+
+
+
 Your design is interesting but why didn't you choose a more straight-forward knee design?
 
 # 99
->>15260
->Dive Media
-I love her and her bizarre pinball RPG.
-
->Human-like kneecap
-That is correct, though your misconception of me building an actual robot kiwi is great. The knee was designed so that she could sit seiza, in a chair, and stand up straight with one servo per hip to actuate her knees. Doing so is more difficult with a double knee.
-
+>>15260
+
+>Dive Media
+
+I love her and her bizarre pinball RPG.
+
+
+
+>Human-like kneecap
+
+That is correct, though your misconception of me building an actual robot kiwi is great. The knee was designed so that she could sit seiza, in a chair, and stand up straight with one servo per hip to actuate her knees. Doing so is more difficult with a double knee.
+
+
+
 For what it's worth, I made this thread because I was deeply depressed and lost in despair and this stupid cute Kiwi Kemono Friend kept me from acting stupid again. Working on her gives me hope.
 
 # 100
->>15261
+>>15261
+
 when are you going to share any of that skeleton you've been working on for the last few months?
 
 # 101
->>15266
-The leg was my first real success. Made a chest and waist but they were either too heavy or too weak depending on infill and foam filling causes things to balloon. Basically what MeidoDev made but worse. Right now I'm redesigning everything based on 12 inch by 1/4 inch wooden rods, which are pretty strong, cheap, and easily accessible.
-
+>>15266
+
+The leg was my first real success. Made a chest and waist but they were either too heavy or too weak depending on infill and foam filling causes things to balloon. Basically what MeidoDev made but worse. Right now I'm redesigning everything based on 12 inch by 1/4 inch wooden rods, which are pretty strong, cheap, and easily accessible.
+
+
+
 I try not to post as many failures but if you'd prefer it, I could posy more failures.
 
 # 102
@@ -637,22 +677,29 @@ Then she's all the more dear to us Kiwi! Please make her real Anon.
 We all can learn from each other's mistakes right? Just look at me, week after week and I still don't have it right! :^) **In fact, it'll clearly be __years__ tbh**
 
 # 103
->>15296
-It's a tad frustrating to realize it will take years but, all that matters is that we get there. The end point of cheap yet capable waifus for all is worth everything.
-
+>>15296
+
+It's a tad frustrating to realize it will take years but, all that matters is that we get there. The end point of cheap yet capable waifus for all is worth everything.
+
+
+
 Kiwi will be made, in time.
 
 # 104
->>15308
+>>15308
+
 It feels like I am giving Pandora a second chance after doing some research on her backstory. So I understand the feeling.
 
 # 105
->>15316
+>>15316
+
 She'll be quite lovely but she will require patience and persistent focused effort. Keep the faith my friend, we will reach her.
 
 # 106
-Made a new leg, double knees are too complicated. So now she has the same mechanism as before, just significantly streamlined with a pronounced knee that should deform silicone in a manner similar to how a knee cap deforms skin based on anatomical analysis. 
-
+Made a new leg, double knees are too complicated. So now she has the same mechanism as before, just significantly streamlined with a pronounced knee that should deform silicone in a manner similar to how a knee cap deforms skin based on anatomical analysis. 
+
+
+
 Taking inspiration from RiCODev, I'm only making minimal changes then moving on. Perfection is the enemy of completion.
 
 # 107
@@ -664,16 +711,23 @@ I'm sure she will be fine that way, and it sounds like it was an opportunity to 
 This is an exciting direction actually, please keep moving forward!
 
 # 108
->>15366
->Perfection is the enemy of completion.
-What?
-
+>>15366
+
+>Perfection is the enemy of completion.
+
+What?
+
+
+
 These pictures don't really illustrate the elbow joint very well.
 
 # 109
->>15374
-Completion requires an end point. Perfection can be said to have no end as improvements can be made ad infinitum to fit various ideals. I want to restart again to inch closer to my perfect leg but, that's a potentially endless cycle. Focusing on getting something done is better.
-
+>>15374
+
+Completion requires an end point. Perfection can be said to have no end as improvements can be made ad infinitum to fit various ideals. I want to restart again to inch closer to my perfect leg but, that's a potentially endless cycle. Focusing on getting something done is better.
+
+
+
 The knee functions nearly identically to Ascento's leg, just mass optimized and legally distinct. Not pictured is the use of rubber bands for gravity compensation as a lower cost alternative to Ascento's springs.
 
 # 110
@@ -685,8 +739,10 @@ What a cool design Kiwi, thanks.
 Isn't it a problem to have a sping, or even worse a rubber band, being loaded all the time if the joints are in a non-neutral position? I like the idea with the spring, not I'm thinking if I could use that as well, but maybe with a motor controlling the non-neutral position of the spring.
 
 # 112
->>15746
-Your suspicion is understandable. Springs and rubber bands are meant to experience stressed states for prolonged time. It is true that some springs will suffer from fatigue under prolonged or extreme stress. All you need to do is ensure your design does not put too much strain on the elastic element. For us, rubber bands are easy to design around and are used frequentally in DIY RC cars and robotics.
+>>15746
+
+Your suspicion is understandable. Springs and rubber bands are meant to experience stressed states for prolonged time. It is true that some springs will suffer from fatigue under prolonged or extreme stress. All you need to do is ensure your design does not put too much strain on the elastic element. For us, rubber bands are easy to design around and are used frequentally in DIY RC cars and robotics.
+
 (Picrel is a lego RC car which uses rubber bands for power transmission and suspension, used for the sake of clarity, note that all rubber bands are in a constant state of stress.)
 
 # 113

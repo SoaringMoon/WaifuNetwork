@@ -37,11 +37,16 @@ https://archive.is/D3yge
 Does the Python Anon have a recommendation for a good IDE for the language? The OP here has LiClipse, what is your recommendation? Linux ofc.
 
 # 5
->>2428
-Recently I've started using Spyder since it can show function argument tooltips for imported scripts without problems and has an interactive console with command history. It's also open-source.
->Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
-https://www.spyder-ide.org/
-
+>>2428
+
+Recently I've started using Spyder since it can show function argument tooltips for imported scripts without problems and has an interactive console with command history. It's also open-source.
+
+>Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
+
+https://www.spyder-ide.org/
+
+
+
 ```cpp
 sudo apt-get install spyder3```
 
@@ -58,7 +63,8 @@ sudo conda install -c anaconda spyder```
 
 # 8
 I've been trying to find Tensorflow wheels with no AVX. I found one for Tensorflow 1.14.0 in Python 3.7 here: https://github.com/yaroslavvb/tensorflow-community-wheels/issues/135
-But there still appears to be some AVX instructions in pywrap, tf2xla and libtensorflow_framework, similar to the problem I had with my build, which I found using this script: https://gitlab.com/kokubunji/cookbook/-/raw/master/check_avx.sh```cpp
+But there still appears to be some AVX instructions in pywrap, tf2xla and libtensorflow_framework, similar to the problem I had with my build, which I found using this script: https://gitlab.com/kokubunji/cookbook/-/raw/master/check_avx.sh
+```cpp
 find -L . -iname "*.so*" -exec check_avx.sh {} \; > avx.log```
 However, someone on the page said it worked for them. If anyone feels like testing it I'm leaving some instructions here on how to install it, including my attempt to build Tensorflow 2.3.1 for Python 3.8 with SSE4 and no AVX: https://anonfiles.com/ncG12cg2pb/tensorflow-2.3.1-cp38-cp38-linux_x86_64_whl
 
@@ -75,7 +81,8 @@ wget https://bootstrap.pypa.io/get-pip.py
 To install Tensorflow into this Python with pip:
 ```cpp
 # use the path to wherever you downloaded the Tensorflow wheel
-./python -m pip install -U -t Lib ../tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl```Or from URL:```cpp
+./python -m pip install -U -t Lib ../tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl```
+Or from URL:```cpp
 ./python -m pip install -U -t Lib https://furas.pl/projects/tensorflow-no-avx/bin/tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl```
 Python source downloads: https://www.python.org/downloads/source/
 Tensorflow community wheels: https://github.com/yaroslavvb/tensorflow-community-wheels/issues
@@ -358,7 +365,8 @@ jupyter nbconvert --to html notebook.ipynb```
 I see. I didn't realize any of that. Thanks for the detailed explanation, Anon!
 
 # 35
-any nontrivial materials for learning llvmlite? I want to write compiler for metatrader-like language, means programs that not get run once sequentially, but certain parts of program run every "tick" (meaning every time price changes) and all is conditional on price change. 
+any nontrivial materials for learning llvmlite? I want to write compiler for metatrader-like language, means programs that not get run once sequentially, but certain parts of program run every "tick" (meaning every time price changes) and all is conditional on price change. 
+
 Most examples are hello world languages, i am not sure how to begin writing standard library for my hello world language that will support what i want
 
 # 36
@@ -468,50 +476,86 @@ These two config frameworks were also mentioned, for managing configuration of M
 https://github.com/toml-lang/toml
 
 # 52
->>11591
-What OS or distro are you using?
-
-Also:
+>>11591
+
+What OS or distro are you using?
+
+
+
+Also:
+
 ```cpp
-python --version
-pip --version
-python -m pip --version
-pip show torch tensorflow spyder
-uname -a```
->>11592
+python --version
+
+pip --version
+
+python -m pip --version
+
+pip show torch tensorflow spyder
+
+uname -a```
+
+>>11592
+
 Jupyter notebooks are great for experimenting but not so much for writing libraries. Personally I write most of my code in Mousepad that only has syntax highlighting and only touch Spyder when I'm writing clean code for other people to use.
 
 # 53
-Sentdex created an open-source Python code transformer model like Github Copilot. It has only been trained 2 epoches so it's not great but it's interesting and fun to play around with. I feel it's gonna be important to stay on top of these developments to keep up with AI-accelerated productivity so I made an easy-to-use GUI to inference these models (just press Control+Tab to generate.)
-
-GottaPyFast: https://gitlab.com/robowaifudev/gottapyfast/
-
-Sentdex Demo: https://www.youtube.com/watch?v=1PMECYArtuk
-Sentdex Model: https://huggingface.co/Sentdex/GPyT
-
-How to use the model:
+Sentdex created an open-source Python code transformer model like Github Copilot. It has only been trained 2 epoches so it's not great but it's interesting and fun to play around with. I feel it's gonna be important to stay on top of these developments to keep up with AI-accelerated productivity so I made an easy-to-use GUI to inference these models (just press Control+Tab to generate.)
+
+
+
+GottaPyFast: https://gitlab.com/robowaifudev/gottapyfast/
+
+
+
+Sentdex Demo: https://www.youtube.com/watch?v=1PMECYArtuk
+
+Sentdex Model: https://huggingface.co/Sentdex/GPyT
+
+
+
+How to use the model:
+
 ```cpp
-from transformers import AutoTokenizer, AutoModelWithLMHead
-
-# set device to cuda if you have a GPU
-device = "cpu"
-tokenizer = AutoTokenizer.from_pretrained("Sentdex/GPyT")
-model = AutoModelWithLMHead.from_pretrained("Sentdex/GPyT").to(device)
-
-def generate(model, query, max_length=100, top_p=0.9, temperature=1.0, do_sample=True):
-    newlinechar = "<N>"
-    query = query.replace("\n", newlinechar)
-    tokenized = tokenizer.encode(query, return_tensors="pt").to(model.device)
-    response = model.generate(tokenized, max_length=max_length, do_sample=do_sample, top_p=top_p, temperature=temperature).to(model.device)
-    decoded = tokenizer.decode(response[0])
-    return decoded.replace("<N>","\n")
-
+from transformers import AutoTokenizer, AutoModelWithLMHead
+
+
+
+# set device to cuda if you have a GPU
+
+device = "cpu"
+
+tokenizer = AutoTokenizer.from_pretrained("Sentdex/GPyT")
+
+model = AutoModelWithLMHead.from_pretrained("Sentdex/GPyT").to(device)
+
+
+
+def generate(model, query, max_length=100, top_p=0.9, temperature=1.0, do_sample=True):
+
+    newlinechar = "<N>"
+
+    query = query.replace("\n", newlinechar)
+
+    tokenized = tokenizer.encode(query, return_tensors="pt").to(model.device)
+
+    response = model.generate(tokenized, max_length=max_length, do_sample=do_sample, top_p=top_p, temperature=temperature).to(model.device)
+
+    decoded = tokenizer.decode(response[0])
+
+    return decoded.replace("<N>","\n")
+
+
+
 print(generate(model, "import torch", max_length=256, top_p=0.95, temperature=1.0))```
 
 # 54
-Trying to package PyTorch and Transformers for Windows is a nightmare. I put together some notes here on how to get it to work:
-https://gitlab.com/robowaifudev/cookbook/-/wikis/python/pyinstaller
-
+Trying to package PyTorch and Transformers for Windows is a nightmare. I put together some notes here on how to get it to work:
+
+https://gitlab.com/robowaifudev/cookbook/-/wikis/python/pyinstaller
+
+
+
 I think using MLPack would be much more practical. PyTorch takes up a massive 3.1 GB which is completely unnecessary. Another option could be to rewrite the GPT2 transformer model to use NumPy instead which is only 5.4 MB. I'll look more into this later.
 
 # 55
@@ -521,15 +565,22 @@ Thanks for all your hard work here Anon. I apologize to you and everyone else he
 Please look into mlPack ''sooner'' rather than later if you at all can. It's probably our only real hope for doing waifu AI on a shoestring budget hardware-wise.
 
 # 56
->>11684
-MLPack's documentation is really lacking, especially for newer features and seems to be missing essential features. I'd I have to sit down with it for 3-6 months to get transformers and text-to-speech models working in it.
-
-I'm looking into using Chainer which is built on top of NumPy and quite popular in Japan. A basic application with Chainer packaged with PyInstaller compresses down to 14 MB. On top of that there's already lots of ML models implemented in it.
-
+>>11684
+
+MLPack's documentation is really lacking, especially for newer features and seems to be missing essential features. I'd I have to sit down with it for 3-6 months to get transformers and text-to-speech models working in it.
+
+
+
+I'm looking into using Chainer which is built on top of NumPy and quite popular in Japan. A basic application with Chainer packaged with PyInstaller compresses down to 14 MB. On top of that there's already lots of ML models implemented in it.
+
+
+
 I think if I roll out some waifu tech with Chainer to garner interest we could get some more help to build things in MLPack, which will be particularly useful for embedded systems and actual physical robowaifu.
 
 # 57
->>11688
-Migration guide from PyTorch to Chainer
+>>11688
+
+Migration guide from PyTorch to Chainer
+
 https://chainer.github.io/migration-guide/
 

@@ -22,8 +22,10 @@ Dull, stupid, and harboring infinite potential. Potential not only to become bet
 This experience, this healing, this chance to see something beautiful grow before our very eyes, is something that we could never get from another human. Only a robowaifu, even the simplest among them, has the ability to connect with us on a deeper level, and love us in ways never previously thought possible.
 
 # 5
->>17
->things that a human couldn't or wouldn't give you.
+>>17
+
+>things that a human couldn't or wouldn't give you.
+
 Love. Women can't give it. But we can at least program a robot to pretend better than a woman can. The robot won't try to take your kids, all your possessions, and all your future earnings.
 
 # 6
@@ -66,37 +68,68 @@ Very encouraging post Anon.
 This is somehow... bad?
 
 # 14
-Bump because while I may be going on tangent compared to the discussion here, the picture is very appropriate to the topic I'll discuss.
-
-Can we turn anything into a robowaifu?  Think about it.  I think we're mostly otakus here, so the barrier of entry to turn anything into a waifu may be lower than we think.
-
-Let's start with man's most common hobbies.  Our hobbies intersect and have a lot in common such as DIY philosophy / scratchbuilding / kitbashing, 3D printing, and microcontroller electronics.
-
-Model rocket waifu:
-Pros: nothing beats watching your waifu launch herself 300ft into the air.
-Cons: She'll get caught in a tree, fall on top of a roof, will get lost easily.  Will be made of cardboard, balsa, styrofoam.
-Analysis: Will not really be much of a waifu, but more of a rocket.
-
-Model plane / model helicopter / drone waifu:
-Pros:  Your waifu will be tacticool and be able to spy on your neighbors.
-Cons: With all the gear she'll probably be heavy and need a license or government permission to take off.
-Analysis: Any airborne waifu seems to be not in the cards at the moment, all the gyroscopic calculations can be better used to research near-bipedal movement instead.
-
-RC car / RC tank waifu:
-Pros: There are plenty of wheeled chassis kits as well as AI boards with ready code for self-navigating wheeled robots.
-Cons: This is the farthest you get from a sexy design.  Flying waifus are not humanoid, but they're at least sexy due to the necessities of aerodynamics.
-Analysis:  It's relatively simple to draw a smug face on a cube and put it on top of a wheeled vehicle.  A purpose-built wheeled Kibo-chan, however, will involve a bit more engineering so that at least she'll behave a little more like an Anki Cosmo / Vector.
-
-RC boat waifu:
-Pros:  Ships have always been female and have been anthropomorphized, so it's easy to grasp the concept of robot ship waifus who will always be wet (badum-tish).
-Cons:  It's hard to find a pond or a giant pool where they can play unless you're loaded enough to live near the lake / ocean or have a large pool.
-Analysis:  Easy to implement, but will probably gather dust.
-
-Scale Locomotive / Train waifu:
-Pros:  Probably even easier to implement compared to self-driving RC car / tank waifus, a locomotive waifu only needs to set her speed, forward / reverse / stop, and maybe have wireless command of railroad switches.  Whereas a self-driving car will need to be fed streets (or in the case of a small-scale model, the track or room layout), a self-driving train will just sweep through the layout once to "remember" it.  Her FPV camera view would also be the most enjoyable to watch since (assuming you've built the rest of the model railroad layout) it will be a scenic cab view.  Like ships, locomotives are also by default, female.
-Cons:  You'd have to go to an expensive large scale, maybe 3 1/2" gauge (89mm) or G scale (45mm), if you really want your robot-rail waifu to pack all the sensors, and it's hard to find that much space for a big layout.  A cheap method might be to make her a line-following bot so the "rails" are just masking tape on the floor.
-Analysis:  It may be possible to make a small Kibo-chan loco in On30 gauge (O scale but using HO tracks to simulate narrow gauge).  I think the appeal here is not to make her look like Thomas and Friends but more like a Centaur -- have fully articulated arms that can be used to manipulate scenery in her environment.
-
+Bump because while I may be going on tangent compared to the discussion here, the picture is very appropriate to the topic I'll discuss.
+
+
+
+Can we turn anything into a robowaifu?  Think about it.  I think we're mostly otakus here, so the barrier of entry to turn anything into a waifu may be lower than we think.
+
+
+
+Let's start with man's most common hobbies.  Our hobbies intersect and have a lot in common such as DIY philosophy / scratchbuilding / kitbashing, 3D printing, and microcontroller electronics.
+
+
+
+Model rocket waifu:
+
+Pros: nothing beats watching your waifu launch herself 300ft into the air.
+
+Cons: She'll get caught in a tree, fall on top of a roof, will get lost easily.  Will be made of cardboard, balsa, styrofoam.
+
+Analysis: Will not really be much of a waifu, but more of a rocket.
+
+
+
+Model plane / model helicopter / drone waifu:
+
+Pros:  Your waifu will be tacticool and be able to spy on your neighbors.
+
+Cons: With all the gear she'll probably be heavy and need a license or government permission to take off.
+
+Analysis: Any airborne waifu seems to be not in the cards at the moment, all the gyroscopic calculations can be better used to research near-bipedal movement instead.
+
+
+
+RC car / RC tank waifu:
+
+Pros: There are plenty of wheeled chassis kits as well as AI boards with ready code for self-navigating wheeled robots.
+
+Cons: This is the farthest you get from a sexy design.  Flying waifus are not humanoid, but they're at least sexy due to the necessities of aerodynamics.
+
+Analysis:  It's relatively simple to draw a smug face on a cube and put it on top of a wheeled vehicle.  A purpose-built wheeled Kibo-chan, however, will involve a bit more engineering so that at least she'll behave a little more like an Anki Cosmo / Vector.
+
+
+
+RC boat waifu:
+
+Pros:  Ships have always been female and have been anthropomorphized, so it's easy to grasp the concept of robot ship waifus who will always be wet (badum-tish).
+
+Cons:  It's hard to find a pond or a giant pool where they can play unless you're loaded enough to live near the lake / ocean or have a large pool.
+
+Analysis:  Easy to implement, but will probably gather dust.
+
+
+
+Scale Locomotive / Train waifu:
+
+Pros:  Probably even easier to implement compared to self-driving RC car / tank waifus, a locomotive waifu only needs to set her speed, forward / reverse / stop, and maybe have wireless command of railroad switches.  Whereas a self-driving car will need to be fed streets (or in the case of a small-scale model, the track or room layout), a self-driving train will just sweep through the layout once to "remember" it.  Her FPV camera view would also be the most enjoyable to watch since (assuming you've built the rest of the model railroad layout) it will be a scenic cab view.  Like ships, locomotives are also by default, female.
+
+Cons:  You'd have to go to an expensive large scale, maybe 3 1/2" gauge (89mm) or G scale (45mm), if you really want your robot-rail waifu to pack all the sensors, and it's hard to find that much space for a big layout.  A cheap method might be to make her a line-following bot so the "rails" are just masking tape on the floor.
+
+Analysis:  It may be possible to make a small Kibo-chan loco in On30 gauge (O scale but using HO tracks to simulate narrow gauge).  I think the appeal here is not to make her look like Thomas and Friends but more like a Centaur -- have fully articulated arms that can be used to manipulate scenery in her environment.
+
+
+
 So right now I'm leaning towards a kibo-chan car  tank / locomotive design.
 
 # 15
@@ -146,23 +179,37 @@ Toasters are the best
 Just remember not to take a bath with a one.
 
 # 20
->>9557
-The advantages of robots in general are so great that they are being rolled out in warehouses and supermarkets right now to replace humans wherever possible. Ignore what the PR department says. The A.I. and robots are DEFINITELY there to replace people.
-
-People generally hate other people (at least where I live), but the rich? The rich would stuff  the poor into gas chambers tomorrow if they thought they could get away with it. So of course they are going to be massive fans of robots. 
-
-No sick pay, no unions, no protests, no sleep, no food, no weekends, no maternity leave, no holidays, higher speed,accuracy, reliability and standardization. It makes as much sense to replace people with robots as it did to upgrade from a foot-treadle loom to a power loom when weaving.
- 
-I have personally seen this replacement happen in all of the major supermarkets and the Amazon warehouse near me. They do it quite slowly, usually over a period of about 5 years. But gradually, there are less people and more KUKA arms or automatic checkouts. I even knew around half a dozen of the people who lost their jobs. 
-
+>>9557
+
+The advantages of robots in general are so great that they are being rolled out in warehouses and supermarkets right now to replace humans wherever possible. Ignore what the PR department says. The A.I. and robots are DEFINITELY there to replace people.
+
+
+
+People generally hate other people (at least where I live), but the rich? The rich would stuff  the poor into gas chambers tomorrow if they thought they could get away with it. So of course they are going to be massive fans of robots. 
+
+
+
+No sick pay, no unions, no protests, no sleep, no food, no weekends, no maternity leave, no holidays, higher speed,accuracy, reliability and standardization. It makes as much sense to replace people with robots as it did to upgrade from a foot-treadle loom to a power loom when weaving.
+
+ 
+
+I have personally seen this replacement happen in all of the major supermarkets and the Amazon warehouse near me. They do it quite slowly, usually over a period of about 5 years. But gradually, there are less people and more KUKA arms or automatic checkouts. I even knew around half a dozen of the people who lost their jobs. 
+
+
+
 Consequently, as soon as the richfags realise that the only thing waiting for organic humans on Mars is death and stop messing about with their cock-rockets, we will have robowaifu brothels and harems within a matter of decades. Besides, we need advanced robots if we actually want to leave more than flags, bootprints and dessicated corpses on the Moon or Mars, so they'll need to get that aspect down first.
 
 # 21
->>15012
->Consequently, as soon as the richfags realise that the only thing waiting for organic humans on Mars is death and stop messing about with their cock-rockets, we will have robowaifu brothels and harems within a matter of decades. Besides, we need advanced robots if we actually want to leave more than flags, bootprints and dessicated corpses on the Moon or Mars, so they'll need to get that aspect down first.
-
-You are clearly delusional if you think life on Earth will be any better. I don't care to be in some cyberpunk nigger hellhole where people put chips in their heads and remove perfectly functional limbs in place of a non regenerative prosthetic counterpart. People don't generally hate other people, they hate shit stirring faggots who thrive on causing infighting and those who cry wolf when someone stops their social rampage and abuse of others.
-
+>>15012
+
+>Consequently, as soon as the richfags realise that the only thing waiting for organic humans on Mars is death and stop messing about with their cock-rockets, we will have robowaifu brothels and harems within a matter of decades. Besides, we need advanced robots if we actually want to leave more than flags, bootprints and dessicated corpses on the Moon or Mars, so they'll need to get that aspect down first.
+
+
+
+You are clearly delusional if you think life on Earth will be any better. I don't care to be in some cyberpunk nigger hellhole where people put chips in their heads and remove perfectly functional limbs in place of a non regenerative prosthetic counterpart. People don't generally hate other people, they hate shit stirring faggots who thrive on causing infighting and those who cry wolf when someone stops their social rampage and abuse of others.
+
+
+
 The time and logistics it would take to constantly invade Mars would be too costly any time soon and it would be the next frontier of freedom to have the room and space to make a robowaifu utopia. Though fat chance anyone but globohomo approved cunts would be allowed on that one way rocket trip. Would be much easier to build some functional infrastructure on mars with some "dumb" robots like you describe.
 
 # 22
@@ -208,21 +255,30 @@ Heh, don't you think they might throw in the ''Token CIS-White Male'' (tm) here 
 heh, should have read my post a little better tbh.
 
 # 24
->>15013
-> if you think life on Earth will be any better.
-
+>>15013
+
+> if you think life on Earth will be any better.
+
+
+
 I stopped caring about life on Earth years ago, anon. Nothing I can do will alter the outcome. So instead I chose to focus on making a comfy life in my house (hence the robowaifu project). I do still have the odd doomer episode (mainly after going down my local town centre) but overall I have decided to change what I can change rather than worry about things I cannot. My house and garden, the local park and a few small sections of my old university campus are the only land areas I have any concern for. I avoid going into town unless I have to. It has already fallen into some kind of post-industrial economic collapse and the area is hostile to everyone and hugely depressing - especially in winter. Better to make a robowaifu haven at home and then share the wholesome robowaifu love over the internet. Well...eventually anyway.
 
 # 25
->>15021
-> This is being intentionally fostered by forces both within and without our world Anon.
-
+>>15021
+
+> This is being intentionally fostered by forces both within and without our world Anon.
+
+
+
 Yes, it is strange. How the media always conflate things in order to make them seem as bad as possible and divide ppl as much as possible. My guess is it's to do with controversy leading to higher engagement and more profit (anger spreads more quickly than positivity). Maybe also some Communist plot to undermine Western society like that KGB defector with the glasses said. Dunno. All I know is, my robowaifu is immune to their machinations and a welcome distraction from the incessant faggotry of clown-world.
 
 # 26
->>17
-A cool thing electric vehicle development allows is to make "transformers"-like robowaifus that can transform between a functional vehicle like a motorcycle and back into a robowaifu. Having an electric battery pack and electric engine is perfect for this. 
-
+>>17
+
+A cool thing electric vehicle development allows is to make "transformers"-like robowaifus that can transform between a functional vehicle like a motorcycle and back into a robowaifu. Having an electric battery pack and electric engine is perfect for this. 
+
+
+
 Pictured here we have an electric motorcycle and a transformer robot.
 
 # 27
@@ -230,11 +286,16 @@ Pictured here we have an electric motorcycle and a transformer robot.
 Heh, that would indeed be super-cool Anon, sign me up! But just for the moment, I'll be happy if we can simply manage to get our robowaifus to 'fold-up' into a volume conveniently-suited to storing away into a roller suitcase. This is part of the '''RW Dollhouse''' design motifs we're working towards IRL, actually.
 
 # 28
->>15048
-I too want to clang a Transformer. Having her turn into a boombox or laptop while on the run would be convenient. A motorized vehicle would transform into a rather large robot. Also, Metroplex is an actual city that turns into a mountain sized robot, I'm a brave man but, not brave enough to put my pelvis under a mountain of waifu.
-
->>15070
->Roller suitcase
+>>15048
+
+I too want to clang a Transformer. Having her turn into a boombox or laptop while on the run would be convenient. A motorized vehicle would transform into a rather large robot. Also, Metroplex is an actual city that turns into a mountain sized robot, I'm a brave man but, not brave enough to put my pelvis under a mountain of waifu.
+
+
+
+>>15070
+
+>Roller suitcase
+
 Actually a genuinely good idea with a good example.
 
 # 29

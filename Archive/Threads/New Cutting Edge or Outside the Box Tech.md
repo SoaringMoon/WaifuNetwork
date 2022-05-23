@@ -1,6 +1,8 @@
 # 1
-ITT: We discuss Metamaterials, Self Organizing Systems, and other "outside of the box" tech (flexible PCBs, Liquid Battery, etc) 
-I'll start with this video on self-assembling wires, and will add more as I come across it
+ITT: We discuss Metamaterials, Self Organizing Systems, and other "outside of the box" tech (flexible PCBs, Liquid Battery, etc) 
+
+I'll start with this video on self-assembling wires, and will add more as I come across it
+
 https://www.youtube.com/watch?v=PeHWqr9dz3c
 
 # 2
@@ -21,19 +23,29 @@ Amazing. It's like watching a lightning bolt form in ultra-slow motion.
 I wonder if neuroplasticity in the brain does something like this to form new connections? Although the voltages it works with are only millivolts. It'd be interesting to see this experiment carried out on a micron scale with lower voltages.
 
 # 5
-maybe not cutting edge but Lithium Ion batteries have a trajectory favorable to our purpose here. I'm also very enthused about the concept of liquid battery (which can run through flexible tubes)
-
+maybe not cutting edge but Lithium Ion batteries have a trajectory favorable to our purpose here. I'm also very enthused about the concept of liquid battery (which can run through flexible tubes)
+
+
+
 https://arstechnica.com/science/2021/05/eternally-five-years-away-no-batteries-are-improving-under-your-nose/
 
 # 6
->Solid-state batteries feature significant capacity for energy storage, but they typically encounter numerous problems that cause them to degrade over time and become less efficient. Liquid-state batteries can deliver energy more efficiently, without the long-term decay of sold-state devices, but they either fall short on high energy demands or require significant resources to constantly heat the electrodes and keep them molten.
-
->The metallic electrodes in the team's battery can remain liquefied at a temperature of 20 degrees Celsius (68 degrees Fahrenheit), the lowest operating temperature ever recorded for a liquid-metal battery, according to the researchers. This represents a major change, because current liquid-metal batteries must be kept at temperatures above 240 degrees Celsius.
-
-https://www.sciencedaily.com/releases/2020/07/200706173442.htm
-
-https://en.wikipedia.org/wiki/Flexible_battery
-
+>Solid-state batteries feature significant capacity for energy storage, but they typically encounter numerous problems that cause them to degrade over time and become less efficient. Liquid-state batteries can deliver energy more efficiently, without the long-term decay of sold-state devices, but they either fall short on high energy demands or require significant resources to constantly heat the electrodes and keep them molten.
+
+
+
+>The metallic electrodes in the team's battery can remain liquefied at a temperature of 20 degrees Celsius (68 degrees Fahrenheit), the lowest operating temperature ever recorded for a liquid-metal battery, according to the researchers. This represents a major change, because current liquid-metal batteries must be kept at temperatures above 240 degrees Celsius.
+
+
+
+https://www.sciencedaily.com/releases/2020/07/200706173442.htm
+
+
+
+https://en.wikipedia.org/wiki/Flexible_battery
+
+
+
 https://patent.nweon.com/10541
 
 # 7
@@ -71,10 +83,14 @@ There's much more on this on YT if one looks for 'microrobots megnetic fields'. 
 Fair enough. Always good to plan ahead. And honestly, I've certainly left my fair share of 'notes' behind here on the board. Being a sort of information repository of robowaifus is actually quite valuable I think.
 
 # 12
-I haven't been adding to this thread in a while, but I found something today that fits the bill
-
-conductive paint
-
+I haven't been adding to this thread in a while, but I found something today that fits the bill
+
+
+
+conductive paint
+
+
+
 https://www.youtube.com/watch?v=kK5PsHC9AjM
 
 # 13

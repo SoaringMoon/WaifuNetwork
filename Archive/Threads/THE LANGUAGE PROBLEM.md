@@ -58,12 +58,15 @@ https://web.archive.org/web/20140626001247/http://www.msxiaoice.com/
 I recall Lex Friedman on his podcast talking about this. They seem to have some approaches of their own. Don't remember which guest, though. So yes, I wouldn't underestimate Russian. However, it's a good idea to keep that in mind, but only some of us here will be able to pull it off to learn another language on top of everything else.
 
 # 8
-English imageboards are very international, I think we already have a significant amount of people who know a language other than English.
+English imageboards are very international, I think we already have a significant amount of people who know a language other than English.
+
 Russians and Japanese are likely the most common easterners in English imageboards.
 
 # 9
-Anon, I've been keeping tabs on Japanese projects on Twitter, the robowaifu guys there love to retweet anything interesting.  I notice most of them use Raspberry Pi, Nvidia Jetson Nano, M5Stack, and the multitudes of Shenzhen arduino clones and microcontrollers.  What they mainly got different is they got their own seemingly Japan-exclusive servos or for some reason are able to afford Dynamixels.
-
+Anon, I've been keeping tabs on Japanese projects on Twitter, the robowaifu guys there love to retweet anything interesting.  I notice most of them use Raspberry Pi, Nvidia Jetson Nano, M5Stack, and the multitudes of Shenzhen arduino clones and microcontrollers.  What they mainly got different is they got their own seemingly Japan-exclusive servos or for some reason are able to afford Dynamixels.
+
+
+
 As for language processing, if we are training chatbots they will be dependent on the specific language unless they just all make cute noises like Chii -- well our mascot is Chii so a cute noise generator waifu will be more universally appealing without the need for translations.
 
 # 10
@@ -71,16 +74,26 @@ As for language processing, if we are training chatbots they will be dependent o
 We miss you no longer reporting on updates from those guys. That really added some interesting flavor and inspiration to /robowaifu/.
 
 # 11
-My Japanese is no where near good enough to read research papers. I just opened one and got stuck on NLP, kek.
->はじめに従来，自然言語処理 (shizen gengo shori)
->Introduction: Natural language processing
-
->>6975
->if we are training chatbots they will be dependent on the specific language
-Not necessarily, it's possible to create a chatbot that can speak in multiple languages and translate between them. However, with current methods those languages have to be targeted at from the beginning.
-
-I've been researching ways to create a language model that can handle text in any language and automatically segment it across different languages. So far I've created one that can operate on UTF-8 text, a way to encode and decode variable length sequences, and a way to structure sentences in a hierarchy of compressed sequences. It works on toy examples but I haven't had much success yet training on large datasets. I'm thinking it might be better to create some sort of neural byte pair encoding so that whenever the model sees a repeated pattern it automatically encodes it into a token. I think this ability to compress information and improve the compression will be essential to creating high-quality conversational AIs.
-
+My Japanese is no where near good enough to read research papers. I just opened one and got stuck on NLP, kek.
+
+>はじめに従来，自然言語処理 (shizen gengo shori)
+
+>Introduction: Natural language processing
+
+
+
+>>6975
+
+>if we are training chatbots they will be dependent on the specific language
+
+Not necessarily, it's possible to create a chatbot that can speak in multiple languages and translate between them. However, with current methods those languages have to be targeted at from the beginning.
+
+
+
+I've been researching ways to create a language model that can handle text in any language and automatically segment it across different languages. So far I've created one that can operate on UTF-8 text, a way to encode and decode variable length sequences, and a way to structure sentences in a hierarchy of compressed sequences. It works on toy examples but I haven't had much success yet training on large datasets. I'm thinking it might be better to create some sort of neural byte pair encoding so that whenever the model sees a repeated pattern it automatically encodes it into a token. I think this ability to compress information and improve the compression will be essential to creating high-quality conversational AIs.
+
+
+
 There's a Japanese roboticist on Twitter looking for a decent Japanese chatbot for his robot, Kibo-chan. He's pretty friendly and I plan to show him my project once it's ready. I think it would be a great starting point for English and Japanese robowaifuists to come together, share their knowledge and collaborate. They're leagues ahead of us in robotics but the West is leagues ahead in AI. If we can combine our strengths it'll be amazing. And of course we could also reach out to Russian, Korean and Chinese developers too.
 
 # 12
@@ -96,12 +109,15 @@ FTFY, Anon.
 ==Gambate!==
 
 # 14
-Realize this is an old post, but here are some useful resources for Japanese
+Realize this is an old post, but here are some useful resources for Japanese
+
 https://itazuraneko.neocities.org/
 
 # 15
->>11389
-http://www.alljapaneseallthetime.com/blog/
+>>11389
+
+http://www.alljapaneseallthetime.com/blog/
+
 https://itazuraneko.neocities.org/learn/guide.html
 
 # 16

@@ -121,15 +121,21 @@ Don't listen to the meany-head poopy-pants Anon.
 ==A CUTE!==
 
 # 20
->>13170
+>>13170
+
 Corrupted Roll fascinates me. I want to re-draw her, maybe a little less um.. young though
 
 # 21
->>13170
-You have a point.  Cat hears are just additional felt pouches.  Tails are worse... to be convincing you need some slithering mechanism.  It's just extra appendages to worry about.
-
-Having large legs and feet does solve the stability issue, however for a lot of us, slender thighs and feminine feet are what we find appealing.  I guess those type of bots will be wheelchair bound.
-
+>>13170
+
+You have a point.  Cat hears are just additional felt pouches.  Tails are worse... to be convincing you need some slithering mechanism.  It's just extra appendages to worry about.
+
+
+
+Having large legs and feet does solve the stability issue, however for a lot of us, slender thighs and feminine feet are what we find appealing.  I guess those type of bots will be wheelchair bound.
+
+
+
 The amputee / living pocket pussy route is unfortunately the most straightforward direction, and then we attach better arm and leg mechanisms as the research gets better.
 
 # 22

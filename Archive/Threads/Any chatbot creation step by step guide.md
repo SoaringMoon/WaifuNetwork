@@ -81,10 +81,14 @@ I have some experience with a Lisp dialect and plan to get better it. A lot of r
 So, long story short: You can't do it alone, pick some part to work on. Maybe use Botlibre, AIML or some GPT based system to start out. Stay around, or come back from time to time.
 
 # 11
->>11587
-Lisp and Prolog are ancient languages from the 50's and 70's. Better, more general-purpose languages have come and gone. Right now Python is the most popular language for machine learning and making bots since it's quick and easy to implement ideas. C++ is mostly used to implement fast libraries and for doing embedded programming when making robots. Anything made in C++ though is also usable in Python.
-
->>11588
+>>11587
+
+Lisp and Prolog are ancient languages from the 50's and 70's. Better, more general-purpose languages have come and gone. Right now Python is the most popular language for machine learning and making bots since it's quick and easy to implement ideas. C++ is mostly used to implement fast libraries and for doing embedded programming when making robots. Anything made in C++ though is also usable in Python.
+
+
+
+>>11588
+
 The most advanced conversational AI library I know about is Rasa that blends symbolic AI with machine learning. It's more geared towards getting things done though to create virtual assistants for businesses, but you can extract data from user responses with it and write code triggers to sample a language model, such as GPT-2, with a specific or open-ended prompt to generate more meaningful responses.
 
 # 12
@@ -96,7 +100,8 @@ I have to disagree. Newer is not better, for starters. These languages are speci
 Ah, yeah, why did I forget about that.
 
 # 13
->>11597
+>>11597
+
 Will JS/Node JS replace Python for machine learning as its being more and more another general purpose language these days?
 
 # 14
@@ -104,7 +109,8 @@ Will JS/Node JS replace Python for machine learning as its being more and more a
 Arrg. No. Some say it gravitates towards Swift or Julia.
 
 # 15
->>11602
+>>11602
+
 Who knows. In ML's infancy Lua use to be the most popular language. But Torch and Tensorflow are so featured now it'd take a ton of work and catching up to make something as competitive in JS. JS definitely beats Python in speed though, so I could see it taking over when it comes to deploying AI models online, but for research and prototyping I doubt it.
 
 # 16
@@ -138,8 +144,10 @@ And many other languages. Common Lisp can compile to Bytecode https://www.gnu.or
 Scripting is actually a technical term. And it's the correct description of Python's computation model. It's wholly dependent on other (almost universally constituted by compiled binaries), systems to function.
 
 # 20
->>11612
->>11615
+>>11612
+
+>>11615
+
 Python can also be compiled in C with Cython.
 
 # 21

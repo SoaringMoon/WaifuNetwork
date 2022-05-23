@@ -227,8 +227,11 @@ That's actually very fundamental to the goals here on /robowaifu/ and always has
 When we sell robowaifu kits, we will need a normie friendly name. I think "Autodoll", "Meidocom", and "Maidcom" are all good ideas.
 
 # 32
-on topic of crypto currency, singularitynet might be a good platform to earn from distributing artificial intelligence (which could include waifu ai). this project is backed by goertzel who is huge in the world of agi
-
-link to learn more:
+on topic of crypto currency, singularitynet might be a good platform to earn from distributing artificial intelligence (which could include waifu ai). this project is backed by goertzel who is huge in the world of agi
+
+
+
+link to learn more:
+
 https://publisher.singularitynet.io/
 

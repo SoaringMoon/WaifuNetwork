@@ -6,9 +6,12 @@ Also, let's discuss ways to get more people involved. How can we grow this board
 Also, let's share robowaifu media to help inspire each other. This is a very generalized thread meant to improve robowaifu in general.
 
 # 2
-It's nice to see that this place finally has a proper bunker up and running.
-
-I'm the greentext writer that flooded the agalmatophilia thread with my alternate history stories.
+It's nice to see that this place finally has a proper bunker up and running.
+
+
+
+I'm the greentext writer that flooded the agalmatophilia thread with my alternate history stories.
+
 I have everything saved on my computer. Should I repost in the agalmatophilia thread as tradition dictates, or should I put everything in the fiction thread?
 
 # 3
@@ -18,10 +21,14 @@ Welcome back.
 If you wouldn't mind put it where it rightly belongs into the fiction bread. Have you completed anything new lately?
 
 # 4
->>46
-Makes sense, I'll be putting them up shortly.
-Unfortunately, I still haven't made much progress on the latest story. As of now, it's 184 lines, and nowhere near done. If I had to give a percentage, I'd say it's ~5% completed.
-While progress has been unforgiveably slow, I've recently gotten that ''itch'' to write again, which means I'll be doing ''something'' new soon.
+>>46
+
+Makes sense, I'll be putting them up shortly.
+
+Unfortunately, I still haven't made much progress on the latest story. As of now, it's 184 lines, and nowhere near done. If I had to give a percentage, I'd say it's ~5% completed.
+
+While progress has been unforgiveably slow, I've recently gotten that ''itch'' to write again, which means I'll be doing ''something'' new soon.
+
 I should also take this opportunity to note that the random bits of poetry and unrelated short stories I've damned your eyes with haven't been saved **except The Return of Dead Hill, which I still have the original physical document for**, so naturally I won't be posting those.
 
 # 5
@@ -32,11 +39,16 @@ Ehh, post what you like. As long as you aren't promoting feminism or cocksucking
 One of the nice things is you can ''collaborate'' here, which means you don't have to wait until things are completed you know. Just post whatever you feel like writeanon.
 
 # 6
->>48
-Wow I'm retarded.
-I just checked the folder again, and it turns out I ''do'' have a couple of the extras, including the original Dead Hill. So I guess I'll be posting those as well.
->>49
-Yeah, I'd sooner die than go that way.
+>>48
+
+Wow I'm retarded.
+
+I just checked the folder again, and it turns out I ''do'' have a couple of the extras, including the original Dead Hill. So I guess I'll be posting those as well.
+
+>>49
+
+Yeah, I'd sooner die than go that way.
+
 I'll contribute to things wherever I feel I can help, as I did on the last board. For whatever it ends up being worth, I'll give what I can where I can.
 
 # 7
@@ -62,14 +74,22 @@ Did anyone actually see Alita Battle Angel in the theaters? I did twice.
 **those '3-white' eyes tho**
 
 # 12
->>163
->>163
-That great to hear. I'm glad we have more people here than expected. Even if they are just lurkers. 
->>164
-No. I will consider watching it. 
->spoiler
-What? What about the 3-white? I have no idea what you're talking about. Sorry.  
-
+>>163
+
+>>163
+
+That great to hear. I'm glad we have more people here than expected. Even if they are just lurkers. 
+
+>>164
+
+No. I will consider watching it. 
+
+>spoiler
+
+What? What about the 3-white? I have no idea what you're talking about. Sorry.  
+
+
+
 /robowaifu/, What would you do if you saw your robowaifu doing what is shown in webm 2? Would you help her or record her then bring it up at the dinner table? or maybe... %% Post it to /robowaifu/ for all your /robowaifu/ friends to see and laugh about?%%
 
 # 13
@@ -80,9 +100,12 @@ Kekd. I would tactfully offer to help her then never mention it again. :^)
 '3-whites' is a slang for yandere. That Hatsune Miku robowaifu has dangerously **murderous** 3-white yandere eyes anon.
 
 # 14
->>167
-I feel like a massive new fag. I have never heard this term before. I'm sorry. 
-
+>>167
+
+I feel like a massive new fag. I have never heard this term before. I'm sorry. 
+
+
+
 /robowaifu/, What is your religion, if any?
 
 # 15
@@ -93,8 +116,10 @@ lol, who gaf about silly shit like that anon.
 ofc there is no '/robowaifu/' as a singular collective (if you'll pardon the oxymoron). we are all individuals. we are obviously a bunch of Westerners and Christianity has been the dominant traditional 'nominal' religion in the West for pretty much all of it's history. me personally, i'm a born-again Christian who actually believes that Jesus Christ is God and that every human will see Him face to face.
 
 # 16
->>169
-Thanks for you answer. When I say "/robowaifu/" I am addressing the board and anyone using it. Are you the same guy i was talking to last night? how's your college going? What are you planning on doing with your degree if you don't mind sharing. 
+>>169
+
+Thanks for you answer. When I say "/robowaifu/" I am addressing the board and anyone using it. Are you the same guy i was talking to last night? how's your college going? What are you planning on doing with your degree if you don't mind sharing. 
+
 webm semi related, it's probably what I am going to be doing in the future.
 
 # 17
@@ -107,9 +132,12 @@ I assume so yes. I'm up again very late. As far as my degree goes, I figure I'll
 Sweet, I really enjoyed that tbh. Do you have the sauce on it anon?
 
 # 18
->>171
->>171
-Yeah I do. https://anidb.net/anime/406  
+>>171
+
+>>171
+
+Yeah I do. https://anidb.net/anime/406  
+
 Seems interesting. I think I'll give it a watch some time.
 
 # 19
@@ -117,16 +145,23 @@ Seems interesting. I think I'll give it a watch some time.
 Thanks. Would you mind telling me the name of the show please? anidb doesn't allow TOR.
 
 # 20
-It's nice to see that there are more than just three people here. Hopefully we'll get all of our original userbase back one way or another.
-
->>168
-I've never really subscribed to any religion, or even proper atheism.
+It's nice to see that there are more than just three people here. Hopefully we'll get all of our original userbase back one way or another.
+
+
+
+>>168
+
+I've never really subscribed to any religion, or even proper atheism.
+
 Whenever I ponder this topic, the only conclusion I can reach is "I don't know", and it'll probably stay that way unless I get some divine revelation.
 
 # 21
->>174
-Okay. Thanks for the answer. Do you think there's a possibility that some of the /robowaifu/ community aren't aware of the bunker on julay world?
->>173
+>>174
+
+Okay. Thanks for the answer. Do you think there's a possibility that some of the /robowaifu/ community aren't aware of the bunker on julay world?
+
+>>173
+
 It is called "Kachou Ouji: Hard Rock Save the Space"
 
 # 22
@@ -135,8 +170,10 @@ It is called "Kachou Ouji: Hard Rock Save the Space"
 Thanks anon. Not that anon, but no, I don't think most anons know about this bunker yet. It's only 4 days old.
 
 # 23
->>177
-No problem. I reposted the link to the bunker in the robot thread on /monster/ again. I might consider posting it on /cuckquean/ as well.
+>>177
+
+No problem. I reposted the link to the bunker in the robot thread on /monster/ again. I might consider posting it on /cuckquean/ as well.
+
 I don't think /clang/ has a bunker, do they?
 
 # 24
@@ -156,10 +193,14 @@ I haven't heard of one, no.
 IIRC they had two outstanding robowaifu threads on their board. They took it seriously too and really discussed the idea of being cucked by a beautiful young robowaifu.
 
 # 27
->>181
->email contact
-Sometimes when this shit comes I feel like we are members of a military force that was defeated and now we must go into the deep wilderness and fight an effective guerrilla warfare campaign against a superior force.
->>182
+>>181
+
+>email contact
+
+Sometimes when this shit comes I feel like we are members of a military force that was defeated and now we must go into the deep wilderness and fight an effective guerrilla warfare campaign against a superior force.
+
+>>182
+
 Damn, 2? I posted something there about them buying one for their bfs but I guess they really like that idea. They often propose them as "submissive vixens". Despite them being women, do you see them as trustworthy allies of /robowaifu/?
 
 # 28
@@ -177,8 +218,10 @@ Long threads with hundreds of posts too, so I'd say there's a sizable number, ye
 just to clarify, i meant their 8 board ofc.
 
 # 30
->>185
->>184
+>>185
+
+>>184
+
 Yes, I didn't think they had any other boards besides their one on bunkerchan.
 
 # 31
@@ -233,12 +276,18 @@ Thanks for stopping by, your input here is welcome. Social aspects of devising a
 Come over anytime.
 
 # 36
->>216
-Hello /cuckquean/! I'm the same person here and here >>183 >>186
-Coincidentally, I'm also the same person on /monster/ who wrote this and posted the greeting on /cuckquean/. 
-Anyways, Thanks for stopping by. 
-To explain why I was concerned with /cuckquean/ being trust worthy is because well, you are women. As you could have determined yourself, women are hated and down right vilified on /monster/ and /robowaifu/. People aren't trust worthy of women because of the shit they've pull in the past. However, both /robowaifu/ and /monster/ really seem to vouch for you. I hope you can understand why I held such caution towards you and your fellow bicorns. With all that being said, you seem like worthy allies of /monster/ and /robowaifu/. I am sorry if it came out like I was trying to D&C.
-Also I have a couple of questions for you myself. How many posters are there on /cuckquean/? Here on /robowaifu/ I would guess we have around 3-5 posters. When I made my post on /cuckquean/ it took around 3 days to get a reply. Is it because no one found it interesting, I came off as rude%% are you bicorns really that sensitive? %%, or there are just not enough bicorns on your board? 
+>>216
+
+Hello /cuckquean/! I'm the same person here and here >>183 >>186
+
+Coincidentally, I'm also the same person on /monster/ who wrote this and posted the greeting on /cuckquean/. 
+
+Anyways, Thanks for stopping by. 
+
+To explain why I was concerned with /cuckquean/ being trust worthy is because well, you are women. As you could have determined yourself, women are hated and down right vilified on /monster/ and /robowaifu/. People aren't trust worthy of women because of the shit they've pull in the past. However, both /robowaifu/ and /monster/ really seem to vouch for you. I hope you can understand why I held such caution towards you and your fellow bicorns. With all that being said, you seem like worthy allies of /monster/ and /robowaifu/. I am sorry if it came out like I was trying to D&C.
+
+Also I have a couple of questions for you myself. How many posters are there on /cuckquean/? Here on /robowaifu/ I would guess we have around 3-5 posters. When I made my post on /cuckquean/ it took around 3 days to get a reply. Is it because no one found it interesting, I came off as rude%% are you bicorns really that sensitive? %%, or there are just not enough bicorns on your board? 
+
 Also would you unironically buying your bf/husband a robowaifu?
 
 # 37
@@ -251,8 +300,10 @@ Not on /robowaifu/ anon. This isn't /r9K/. Feminism is the problem. Any woman wh
 >Any individual, female or male*
 
 # 39
->>219
-Sorry, perhaps I misinterpreted this line of text from the pinned thread "Welcome to /robowaifu/" 
+>>219
+
+Sorry, perhaps I misinterpreted this line of text from the pinned thread "Welcome to /robowaifu/" 
+
 >Modern women have failed their men and their societies, and men around the world have been looking for a solution.
 
 # 40
@@ -260,8 +311,10 @@ Sorry, perhaps I misinterpreted this line of text from the pinned thread "Welcom
 That statement and yours do not necessarily conflate anon. One is a factual observation, one is not.
 
 # 41
->>223
-I understand now. Thanks for telling me. Perhaps it would be even more insidious to hate women as a whole as it would be giving into what the kikes want. 
+>>223
+
+I understand now. Thanks for telling me. Perhaps it would be even more insidious to hate women as a whole as it would be giving into what the kikes want. 
+
 D&C is the Jews' greatest weapon.
 
 # 42
@@ -273,28 +326,44 @@ Just so, good point anon.
 I will amend the text of the opener in the Welcome bread to reflect that it's not every.single. woman. Thanks for helping me to realize that issue anon.
 
 # 44
->>224
->>225
-But it's hard to not hate all women when you see shit like this. I know this isn't every woman's opinion but damn it makes me angry. /cuckquean/, What do you think of this image and what are your opinions on abortion in general?
- 
-To everyone in this thread in your opinion, how many women are as bad as the woman featured in the image I have posted? I live in the USA so could you give me a percentage of how many are unlikable whores who hate all women?
-
+>>224
+
+>>225
+
+But it's hard to not hate all women when you see shit like this. I know this isn't every woman's opinion but damn it makes me angry. /cuckquean/, What do you think of this image and what are your opinions on abortion in general?
+
+ 
+
+To everyone in this thread in your opinion, how many women are as bad as the woman featured in the image I have posted? I live in the USA so could you give me a percentage of how many are unlikable whores who hate all women?
+
+
+
 %% Regardless of the answer, this still won't change my mind of robowaifus. I would much rather have a robotic waifu than a 3d woman. %%
 
 # 45
->>227
->I live in the USA so could you give me a percentage of how many are unlikable whores who hate all women? 
-I meant to say...
-I live in the USA so could you give me a percentage of how many are unlikable whores who hate all men?
+>>227
+
+>I live in the USA so could you give me a percentage of how many are unlikable whores who hate all women? 
+
+I meant to say...
+
+I live in the USA so could you give me a percentage of how many are unlikable whores who hate all men?
+
 Whoops.
 
 # 46
->>227
->>228
-The US is a big place, so it'd be nearly impossible to come up with an accurate figure.
-In my state, I'd say it's somewhere in the neighborhood of ~60%, and a good chunk of that is toothless. This figure becomes far less optimistic if you focus on certain regions or generations. (Where I live, much of the population is quite old, and are thus dwindling in power and influence. For better or worse, the situation of my state will change drastically over the next 10 years or so)
-Anyone who lives in a city, of course, is going to see a much worse outlook than someone who lives in a rural region in many cases, and even this may vary from region to region. The generational gap is also something that can't be ignored, ''especially'' in the US.
-
+>>227
+
+>>228
+
+The US is a big place, so it'd be nearly impossible to come up with an accurate figure.
+
+In my state, I'd say it's somewhere in the neighborhood of ~60%, and a good chunk of that is toothless. This figure becomes far less optimistic if you focus on certain regions or generations. (Where I live, much of the population is quite old, and are thus dwindling in power and influence. For better or worse, the situation of my state will change drastically over the next 10 years or so)
+
+Anyone who lives in a city, of course, is going to see a much worse outlook than someone who lives in a rural region in many cases, and even this may vary from region to region. The generational gap is also something that can't be ignored, ''especially'' in the US.
+
+
+
 Feminism takes many forms across many areas and generations. The only thing that remains the same is the solution.
 
 # 47
@@ -337,9 +406,12 @@ At least that's my take on it anon.
 anonler was right.
 
 # 53
->>236 
->>238
-Yeah that's basically what it is. I like to see 8chan as a great city of autism. When it ended, the anons of that city had to retreat into the the forest to survive. The most resourceful anons were able to survive and thus the highest quality of posters. It's kind of like what I said about fighting a guerilla war against a superior force. 
+>>236 
+
+>>238
+
+Yeah that's basically what it is. I like to see 8chan as a great city of autism. When it ended, the anons of that city had to retreat into the the forest to survive. The most resourceful anons were able to survive and thus the highest quality of posters. It's kind of like what I said about fighting a guerilla war against a superior force. 
+
 So far, what has been everyone's favorite part of being in their respective bunkers?
 
 # 54
@@ -348,7 +420,8 @@ So far, what has been everyone's favorite part of being in their respective bunk
 The guy who is learning C++ now because we're back, and the Greentextanon posting his newest material.
 
 # 55
->>278
+>>278
+
 How many of us thought that /robowaifu/ was dead%% permanently %% when 8chan first went down?
 
 # 56
@@ -360,7 +433,8 @@ Ehh, it's only been a month. Anyway I'm glad it has a bunker now. Now the real q
 I like the B2 scene and the camping pic, but why did you shoop Batman into a mountain?
 
 # 58
->>282
+>>282
+
 I almost took your comment seriously but then I read your name. I looked at the pictures for about a minute before giving up and almost typing a confused response. That's when saw your name. Good one, really.
 
 # 59
@@ -368,13 +442,20 @@ I almost took your comment seriously but then I read your name. I looked at the 
 ==:^)==
 
 # 60
->>281
-Do you think it's even worth it to bring back 8chan? There are a few people on /monster/ who said they don't want to return to 8chan due to glow niggers. /cuckquean/ just outright said they are abandoning 8chan. 
-
-Also I've probably asked this question before but does any one know where /just/ went? I really miss them and their games they would play with the dice roll. It basically was where you roll 5 dice with 100 sides and if you got 490 or above you have just unfucked brendan's shit but also everyone else's shit on /just/. It was really fun and i miss it.
->>163
-I meant to ask you this earlier but why do you have to use TOR to post? Do you live in a hostile country that would consider this website a bad thing? %% You don't have to tell me if you don't want to. I understand if you can't %%  
->>285
+>>281
+
+Do you think it's even worth it to bring back 8chan? There are a few people on /monster/ who said they don't want to return to 8chan due to glow niggers. /cuckquean/ just outright said they are abandoning 8chan. 
+
+
+
+Also I've probably asked this question before but does any one know where /just/ went? I really miss them and their games they would play with the dice roll. It basically was where you roll 5 dice with 100 sides and if you got 490 or above you have just unfucked brendan's shit but also everyone else's shit on /just/. It was really fun and i miss it.
+
+>>163
+
+I meant to ask you this earlier but why do you have to use TOR to post? Do you live in a hostile country that would consider this website a bad thing? %% You don't have to tell me if you don't want to. I understand if you can't %%  
+
+>>285
+
 Yes, yes, I see it.
 
 # 61
@@ -385,12 +466,15 @@ Hmm, well for us personally, Robi has made no promises I'm aware of to keep Jula
 Kek, more robo-voice dubs.
 
 # 62
->>287
+>>287
+
 I got this off of this one discord a few years ago. I think it's pretty cute.
 
 # 63
->>287
->>288 baste Hitler dubs
+>>287
+
+>>288 baste Hitler dubs
+
 I forgot this one.
 
 # 64
@@ -401,7 +485,8 @@ cute. those two should be added to a 'robowaifu voice assets' collection. the fi
 So, that gets me to thinking that maybe we should begin working on some kind coordinated asset repository. Obviously we should just start out with a thread for it I'd think but it probably needs to be something more accessible in a distributed fashion later. Think of a production pipeline for a distributed studio. Anyone from around the world has access to a private intranet of resources.
 
 # 65
->>290
+>>290
+
 Right. Would you like me to return to that discord and attempt to find the previous owner? Also if I do, should I tell them about /robowaifu/?
 
 # 66
@@ -409,7 +494,8 @@ Right. Would you like me to return to that discord and attempt to find the previ
 Do as you see fit anon. This board has built-in anti-cancer power all on it's own, so we're not going to be overrun regardless. **However leading them back here to ''Julay'' and the ''webring'' may be a different matter. :^)**
 
 # 67
->>292
+>>292
+
 I don't want to create unnecessary  casualties. There was a discord server that is friends with /monster/, the /ebola/ Discord. I'll go there and ask if anymore has been made. If I can get a response, I'll report back here.
 
 # 68
@@ -417,12 +503,15 @@ I don't want to create unnecessary  casualties. There was a discord server that 
 Make it so.
 
 # 69
->>294
+>>294
+
 I haven't gotten a response yet so it's gonna take a while. I might not get back to you on this topic for 12 hours or more.
 
 # 70
->>278
->The guy who is learning C++ now because we're back, and the Greentextanon posting his newest material
+>>278
+
+>The guy who is learning C++ now because we're back, and the Greentextanon posting his newest material
+
 **Those are both me** **Unless you're talking about someone else who's also learning C++** **New greentext coming soon™ btw**
 
 # 71
@@ -432,10 +521,14 @@ Very nice. You are a man of many talents. How's the studies going? I had previou
 Ideas on this anyone?
 
 # 72
->>296
-I want to learn C++ but I am currently taking a college class that has me learning javascript for web design. It's a pretty fun class and the teacher is pretty cool too.
->>294
->>295
+>>296
+
+I want to learn C++ but I am currently taking a college class that has me learning javascript for web design. It's a pretty fun class and the teacher is pretty cool too.
+
+>>294
+
+>>295
+
 I haven't gotten a response yet. If I don't get a response in roughly 24 hours, I am considering my post ignored.
 
 # 73
@@ -448,11 +541,13 @@ If you ever want to learn how JavaScript actually does what it does, the source 
 github.com/v8/v8
 
 # 74
->>297
+>>297
+
 If you do decide to make a /robowaifu/ wiki, please don't make it on wikia. That site fucking sucks. Also do you have enough money to run your own website? That would be cool. I will be graduating from college soon and I might be able to help you pay for it since I will be moving to the south soon.
 
 # 75
->>300 (300 GET)
+>>300 (300 GET)
+
 Thanks. I'll consider that. How long do you think it would take me to learn to use C++?
 
 # 76
@@ -468,9 +563,12 @@ Actually, I'm in school so money's pretty tight atm. There's also the issue of a
 In the business world, the standard is that it takes someone 2 years to become good at their jobs. C++ is a ginormous language, so somewhat longer, I'd say. But I can have you writing and running the basics--enough for you to start taking other people's code apart so you can learn on your own--in one hour.
 
 # 77
->>297
-I haven't really dived into C++ just yet, and I still need to pick out an IDE. College takes up quite a bit of my time and energy. I will have most of tomorrow free though, and I'll be using most of that time to take my first real dive into learning the language.
->>298
+>>297
+
+I haven't really dived into C++ just yet, and I still need to pick out an IDE. College takes up quite a bit of my time and energy. I will have most of tomorrow free though, and I'll be using most of that time to take my first real dive into learning the language.
+
+>>298
+
 Nice, there are a lot of career opportunities in being a web designer. Personally, I've decided to take the path of the sysadmin. I've only recently begun college, so my current instructor is going to have us learn Python, which I have some prior experience with. Of course, later down the line I'll probably have to get into more complicated stuff, so learning C++ now will give me a huge head-start.
 
 # 78
@@ -482,11 +580,16 @@ If you can manage to choke down learning tmux+vim, then you'll be set literally 
 pragprog.com/book/bhtmux2/tmux-2
 
 # 79
->>304
->>305
-I am actually in community college right now. 
-%% I am most likely a lot younger than you. 21, to be exact. %% 
-Speaking of that, what is /robowaifu/'s prefered cocktail and beer? I personally enjoy Tecate. For my cocktail I like a good rum and coke. Spiced rum and Mexican coke are the way to go. 
+>>304
+
+>>305
+
+I am actually in community college right now. 
+
+%% I am most likely a lot younger than you. 21, to be exact. %% 
+
+Speaking of that, what is /robowaifu/'s prefered cocktail and beer? I personally enjoy Tecate. For my cocktail I like a good rum and coke. Spiced rum and Mexican coke are the way to go. 
+
 %% A well made moscow mule is also pretty good too. %%
 
 # 80
@@ -500,7 +603,8 @@ I like a good Scotch. Single malt whenever someone's generous enough to provide 
 Anyone wants to send me a bottle, I'm up for it tbh.
 
 # 82
->>308
+>>308
+
 I don't I've ever had that before. Is it meant to be consumed alone or put into a cocktail?
 
 # 83
@@ -508,33 +612,48 @@ I don't I've ever had that before. Is it meant to be consumed alone or put into 
 This is highly expensive Scotch whiskey. It's intended only to be sipped straight. Some prefer it over rocks, I like it neat.
 
 # 84
->>306
-Same here, I'm in a community college.
-**You're not that much younger than me**
-I don't drink beer unless I'm being given a free one. My go-to drink is usually vodka.
-As far as cocktails go, I'd have to say my personal favorite is a nice, tall cougar.
->>309
+>>306
+
+Same here, I'm in a community college.
+
+**You're not that much younger than me**
+
+I don't drink beer unless I'm being given a free one. My go-to drink is usually vodka.
+
+As far as cocktails go, I'd have to say my personal favorite is a nice, tall cougar.
+
+>>309
+
 Real men drink their liquor straight.
 
 # 85
->>309
->put into a cocktail?
+>>309
+
+>put into a cocktail?
+
 /robowaifu/ pls
 
 # 86
->>304
+>>304
+
 It may be better to learn a little C first, especially in the context of embedded or real-time systems. From there you can move to C++ as an elaboration, but doing C++ first may end up becoming a crutch for you.
 
 # 87
->>310
-Do you only prefer scotch or do you also like beer?
->>311
-I search up "tall cougar cocktail" and I got this. Is that you, /cuckquean/?
->>312
+>>310
+
+Do you only prefer scotch or do you also like beer?
+
+>>311
+
+I search up "tall cougar cocktail" and I got this. Is that you, /cuckquean/?
+
+>>312
+
 I'm too scared to drink hard liquor by itself. I got some vodka in my closet. What cocktail does /robowaifu/ want me to make?
 
 # 88
->>313
+>>313
+
 So if I want to code my robowaifu's AI in C++ I should practice with C?
 
 # 89
@@ -545,8 +664,10 @@ I like very dark beers like Guinness Extra Stout.
 none, dumbass. alcohol is bad for you m'kay?
 
 # 90
->>316
-Hey it's the BO of /robowaifu/!
+>>316
+
+Hey it's the BO of /robowaifu/!
+
 %% BUT DAD! I'M 21! I SHOULD BE ABLE TO DRINK ON MY OWN! IT'S NOT GONNA KILL ME IF I JUST DRINK EVERY NOW AND THEN! %%
 
 # 91
@@ -554,11 +675,13 @@ Hey it's the BO of /robowaifu/!
 No worries, mate.
 
 # 92
->>318
+>>318
+
 Thanks for waiting. It's cool to know we have a britbong here. Will you model your robowaifu after Illustrious?
 
 # 93
->>318
+>>318
+
 Actually wait, you could be an Aussie.
 
 # 94
@@ -568,8 +691,10 @@ Actually wait, you could be an Aussie.
 Heh, I'm more of a hebe you mong.
 
 # 95
->>321
->>321
+>>321
+
+>>321
+
 Galatea it is then!
 
 # 96
@@ -578,12 +703,18 @@ I prefer to make love, not war. You should know this by now anon.
 >pic related
 
 # 97
->>323
-When you said you were a hebe, I thought you meant you were Greek.
-https://en.wikipedia.org/wiki/Hebe_(mythology)
-Also I've never seen you use the word "mate" before so I assumed you were a different person.
-
->I prefer to make love, not war.
+>>323
+
+When you said you were a hebe, I thought you meant you were Greek.
+
+https://en.wikipedia.org/wiki/Hebe_(mythology)
+
+Also I've never seen you use the word "mate" before so I assumed you were a different person.
+
+
+
+>I prefer to make love, not war.
+
 %% You might not have much of a choice in that matter in the near future. %%
 
 # 98
@@ -594,7 +725,8 @@ that's where the term comes from, unlike the (((feminist))) invention 'pedo'. Bu
 my name is 'Robowaifu Technician' as my post clearly states.
 
 # 99
->>325
+>>325
+
 I love this board.
 
 # 100
@@ -602,12 +734,15 @@ I love this board.
 2B is a fine robowaifu anon. May you embrace her IRL someday.
 
 # 101
->>327
-I can embrace her right now because I have her as a body pillow.
+>>327
+
+I can embrace her right now because I have her as a body pillow.
+
 %% But she can't hug me back %%
 
 # 102
->>328
+>>328
+
 Whoops, I meant to spoiler that last image not the first one. It isn't too lewd is it? Sorry if it is. It was an accident. Pls don't ban me.
 
 # 103
@@ -616,20 +751,25 @@ Whoops, I meant to spoiler that last image not the first one. It isn't too lewd 
 Ehh, not really. However there's probably little some socjus harpie wouldn't stoop to to harm some dolt **stupid enough to be** browsing an IB at work, so..
 
 # 104
->>314
-Kek, it's just called "cougar".
+>>314
+
+Kek, it's just called "cougar".
+
 I forget what the whole mix was, but the main components are orange juice and vodka.
 
 # 105
->>344
+>>344
+
 a simple mix of orange juice and vodka would be called a "screwdriver". I know some vodkas can be cream flavored so if you mix it with orange juice it tastes like a 50/50 bar. Pretty cool right?
 
 # 106
 Does anyone here visit the gym? I'd like to talk about the difficulties we would have picking up our waifus and why we need to be hone our bodies to be as perfect as possible for them as they weill be perfect for us %% I'm not saying that your waifu is gonna reject you but you need to be somewhat fit. Remember that time I brought up small game hunting? %%
 
 # 107
->>356
->weill
+>>356
+
+>weill
+
 I meant will. You could probably guess that.
 
 # 108
@@ -637,11 +777,16 @@ I meant will. You could probably guess that.
 I do bodyweight training at home, following a book called ''Convict Conditioning''. I'm pretty satisfied with bodyweight and everyone thinks I'm pretty buff when I work out regularly. Any particular reason?
 
 # 109
->>356
->does anyone visit the gym
-Gym's gay, I workout at home by lifting my textbooks and history books, totals about 50-70 pounds with different sets. Bodyweight also builds more strength than resistance training, ironically. Opportunity abound, I post guide.
->>358 
->Any particular reason?
+>>356
+
+>does anyone visit the gym
+
+Gym's gay, I workout at home by lifting my textbooks and history books, totals about 50-70 pounds with different sets. Bodyweight also builds more strength than resistance training, ironically. Opportunity abound, I post guide.
+
+>>358 
+
+>Any particular reason?
+
 Working out makes ur brain werk gud, gives you a keen view of aesthetics, promotes a positive view of yourself (which is ridiculously important in the factor of love - one cannot love another without first loving themselves. Doesn't matter how or with who.) Also, being the best version of yourself means no ragrets later in life, including your more long-lasting choices (such as marrying an artificial, immortal being).
 
 # 110
@@ -652,8 +797,10 @@ I see, makes sense. Thanks for the guide, saved.
 toplel
 
 # 111
->>358
->>359
+>>358
+
+>>359
+
 I really need to get back into working out. My main reason for asking was to see how many of us work out or take care of our health.
 
 # 112
@@ -701,11 +848,13 @@ We're not the only ones who're following that plan. We're not really abandoning 
 Hi /cuckquean/ welcome back. How's your bunker going? I stop in there once in a while to see what you all are up to.
 
 # 115
-I've tried to make contact with /ebola/. I am doing my best to try to find the /clang/ bunker. 
+I've tried to make contact with /ebola/. I am doing my best to try to find the /clang/ bunker. 
+
 %% I am having to use dickord as that's the only way to contact /ebola/ %%
 
 # 116
->>498
+>>498
+
 Damn, I forgot to mention, those robot voices I uploaded recently. Let me give you an update. My post was ignored. Sorry.
 
 # 117
@@ -715,24 +864,33 @@ Damn, I forgot to mention, those robot voices I uploaded recently. Let me give y
 no worries anon. there's no real rush tbh.
 
 # 118
->>430
-We’ve had a couple more of our anons find their way to us. I think the uncertainty of 8chan coming back or not has lead to people not engaging with bunkers as much as they might otherwise.
-
+>>430
+
+We’ve had a couple more of our anons find their way to us. I think the uncertainty of 8chan coming back or not has lead to people not engaging with bunkers as much as they might otherwise.
+
+
+
 Might I inquire as to your progress? Your challenges are many and varied and I can’t quite tell at a glance where you are focusing your efforts most.
 
 # 119
 /monster/ is celebrating their fifth board anniversary. You should wish them well if you haven’t already.
 
 # 120
->>506
-I'm sorry, I can seem to gain access to that link. can you post it again?
->>510
-Yep! Already there.
+>>506
+
+I'm sorry, I can seem to gain access to that link. can you post it again?
+
+>>510
+
+Yep! Already there.
+
 I have some bad news, /robowaifu/ members of the /ebola/ discord were unable to recover the  /clang/ bunker.
 
 # 121
->>506
-BO! I need your attention! I think this nigger is posting a link to a honey pot site! that's what one of they guys on /ebola/ found. This screenshot was taken from /b/ on julay. Fuck I can't believe i fell for that. Me out all people!
+>>506
+
+BO! I need your attention! I think this nigger is posting a link to a honey pot site! that's what one of they guys on /ebola/ found. This screenshot was taken from /b/ on julay. Fuck I can't believe i fell for that. Me out all people!
+
 I was the guy going on about cia niggers yesterday in the meta thread.
 
 # 122
@@ -740,7 +898,8 @@ I was the guy going on about cia niggers yesterday in the meta thread.
 done. btw, you should also use the report feature in case i miss your post in the future. just click the 'Show forms' link at the bottom of a thread.
 
 # 123
->>535
+>>535
+
 Fuck. Sorry I was panicking. Things have been tense lately.
 
 # 124
@@ -763,14 +922,22 @@ they'll figure something out eventually i expect.
 no worries haha. :^)
 
 # 126
->>537
->>528
-I fucked that up. I meant to say 
->I have some bad news /robowaifu/, members of the /ebola/ discord were unable to recover the /clang/ bunker.
-Not...
-<I have some bad news, /robowaifu/ members of the /ebola/ discord were unable to recover the /clang/ bunker.
-Comma placement is everything. 
->>535
+>>537
+
+>>528
+
+I fucked that up. I meant to say 
+
+>I have some bad news /robowaifu/, members of the /ebola/ discord were unable to recover the /clang/ bunker.
+
+Not...
+
+<I have some bad news, /robowaifu/ members of the /ebola/ discord were unable to recover the /clang/ bunker.
+
+Comma placement is everything. 
+
+>>535
+
 When I file a report, what happens? Do you some how get and alert?
 
 # 127
@@ -787,8 +954,10 @@ No, but I could write a utility to periodically monitor the board management pag
 Heads up. It seems like the /ebola/ BO made a bunker over on smug since a lot of their users were on /monster/, which is also on smug.
 
 # 129
->>595
->/ebola/ BO
+>>595
+
+>/ebola/ BO
+
 I should clarify that BO referred to the BO back on 8chan, not just the BO of the bunker board.
 
 # 130
@@ -805,10 +974,14 @@ If I get it working properly, then I'll release the source publicly so other BOs
 -''tag w/ '''BUMP''' & '''Archbot''', as this is the initial post on-topic''
 
 # 131
->>610
-I'd recommend looking at what the VoatArchive bot does on Bitchute for archiving videos that get posted to Voat. It could also be used to backup the webm/mp4 files that get posted here.
-
-https://www.bitchute.com/channel/voatarchive/?showall=1
+>>610
+
+I'd recommend looking at what the VoatArchive bot does on Bitchute for archiving videos that get posted to Voat. It could also be used to backup the webm/mp4 files that get posted here.
+
+
+
+https://www.bitchute.com/channel/voatarchive/?showall=1
+
 An added benefit is that it would help with outreach. I'd try to get in contact with the guy who made it, there's been good relations between Voat and 8ch so he might share.
 
 # 132
@@ -823,14 +996,19 @@ Is the smug bunker down for anyone else? I can't seem to get in.
 It's down for me too.
 
 # 135
->>630
-Yeah, they're dead for me too.
+>>630
+
+Yeah, they're dead for me too.
+
 I hope it's nothing, otherwise we're all going to have to start thinking about moving to an onion site, and ''soon''.
 
 # 136
->>632
-They already have a hidden service up. It's down too. Thier back up r/a/dio stream.
-http://torpisu.Caster.fm/
+>>632
+
+They already have a hidden service up. It's down too. Thier back up r/a/dio stream.
+
+http://torpisu.Caster.fm/
+
 http://torpisu.caster.fm/players_links.php?server=shaincast.caster.fm&port=15034&auth=authned5a94b18504e301100710913e7f7ea8&type=m3u
 
 # 137
@@ -838,17 +1016,28 @@ http://torpisu.caster.fm/players_links.php?server=shaincast.caster.fm&port=15034
 I didn't even get to save the /monster/ cocktail. I was gonna make that tonight.
 
 # 138
->>634
-I'll make it **and the others I'm working on** into self-contained recipe cards when I get a chance.
-
-Here: The '''Baphomet'''.
-
-In a shaker over ice, pour:
-6cl Tequila
-3cl Mango Juice
-Splash of Triple Sec (e.g. Cointreau)
-Splash of Lime Juice
-
+>>634
+
+I'll make it **and the others I'm working on** into self-contained recipe cards when I get a chance.
+
+
+
+Here: The '''Baphomet'''.
+
+
+
+In a shaker over ice, pour:
+
+6cl Tequila
+
+3cl Mango Juice
+
+Splash of Triple Sec (e.g. Cointreau)
+
+Splash of Lime Juice
+
+
+
 Shake and strain straight up. Into the very middle of the drink, drop a maraschino cherry together with a touch of the maraschino cherry liquid. Add a splash of home-made grenadine to the very middle of the drink. Allow the grenadine to rise a little through the drink, then serve.
 
 # 139
@@ -870,7 +1059,8 @@ https://anon.cafe/cafe/res/60.html#q60
 >Maybe Robi knows something?*
 
 # 143
->>637
+>>637
+
 The webring addon checks every 30 minutes to update its board listing. Since smug has been down for more than 30 minutes, the update found smug was down, so it was removed from the listings. Once smug is back up and at most 30 minutes for the addon to refresh its listings, it'll find smug is up and smug's boards will be re-introduced again.
 
 # 144
@@ -882,12 +1072,15 @@ Got it, thanks. Robi is probably out innawoods anyway heh.
 I saw that from the overboard and wanted to comment what a homosexual cocktail that appeared to be. The details really seal it. More homo than Yum Yum.
 
 # 146
->>645
+>>645
+
 Yep. It's half loli, half joke, all girly as fuck.
 
 # 147
->>645
->>647
+>>645
+
+>>647
+
 What board and thread did you see it on? I know someone posted it in the 5th anniversary thread on /monster/. If you are unaware, the drink is meant to be consumed by a loli monster girl who is basically the face of lolis in that universe. That's where its name comes from. The girl in question is called a Baphomet. I was never personally a fan of it due to her demonic connections but she's cute nonetheless and there are a lot of memes associated with her. She's also KC's favorite girl as well as Aux's.
 
 # 148
@@ -896,7 +1089,8 @@ What board and thread did you see it on? I know someone posted it in the 5th ann
 he probably just means the julay overboard anon.
 
 # 149
->>651
+>>651
+
 Well yeah I know but it would have to have been reposted from /monster/. Who reposted it and where? I am curious.
 
 # 150
@@ -907,7 +1101,8 @@ Well yeah I know but it would have to have been reposted from /monster/. Who rep
 >>635
 
 # 151
->>654
+>>654
+
 I want to slam my head into the wall... I saw the comment from >>645 and assumed what he was saying was "I found this and reposted it in this thread". I feel like such a fucking dumbass. Please ignore this line of questioning.
 
 # 152
@@ -921,9 +1116,12 @@ Alright, I've got the scraper part basically working now. Seems like it's pretty
 I'm creating a post with the current julay/robowaifu archives on the threads archive bread. >>273 Maybe it's still too early to be making archives for the bunker but ehh w/e I was going to do it eventually anyway and there's a bit of new content already. Later I'll add another set of posts on the archives thread that consolidates all the archive links from 8ch/robowaifu, hopefully with updates from after 8ch comes back up **:^)**
 
 # 154
->>659
-As the other anon who did the second archive by hand I'm glad this process is now automated.
-
+>>659
+
+As the other anon who did the second archive by hand I'm glad this process is now automated.
+
+
+
 I was going to do a third archiving of /robowaifu/ back when there were signs that 8chan was going to have trouble with cloudflare but archive.today wasn't working properly for me at the time. I still have personal backups though, I could turn them into pdfs and upload them here if you're interested.
 
 # 155
@@ -937,7 +1135,8 @@ We'll see.
 on second thought, I'm not certain of my schedule for the next couple of weeks i may be offline for a while, so in case i miss the (likely temporary) revivication of 8ch in time to grab new archives, maybe you can get those files zipped and saved somewhere just in case anon?
 
 # 157
->>663
+>>663
+
 They're on another computer and I'm busy this week but I'll try and post them here this weekend. Compressing all of the pages will be a lot less work on my end than saving each thread as a pdf so if there's an anonymous file hosting site you can recommend I'll use that.
 
 # 158
@@ -951,12 +1150,18 @@ there's no rush anon, i merely realized i might miss the chance to update all th
 just keep it all safe and i'm sure we'll figure it out heh. maybe you can pick a tripcode out so i know it's you later on anon?
 
 # 159
->>659
->>661
->>662
->>663
->>664
->>665
+>>659
+
+>>661
+
+>>662
+
+>>663
+
+>>664
+
+>>665
+
 You're doing God's work, rather you know it or not. It's slightly ironic I am speaking of God considering my dubs.
 
 # 160
@@ -970,9 +1175,12 @@ https://catbox.moe/
 I suppose he can split it up into multiple parts.
 
 # 162
->>667
-Trying it out, didn't save as many pages as I thought so I'll pad the archive with some extra stuff.
-https://files.catbox.moe/nmjrcv.bz2
+>>667
+
+Trying it out, didn't save as many pages as I thought so I'll pad the archive with some extra stuff.
+
+https://files.catbox.moe/nmjrcv.bz2
+
 Very nice to see a page that works without javascript, you might have to rename the file to nmjrcv.tar.bz2 for it to extract properly.
 
 # 163
@@ -984,12 +1192,18 @@ Thanks alot anon. Please contribute anything else you think would help the cause
 sauce on webm?
 
 # 165
->>940
-I probably have a dozen or so webm/mp4s and a few pdfs saved somewhere but my file system is a mess at the moment. Maybe next weekend I'll do another upload.
-
-Also I recommend the ScrapBook X addon for archiving webpages, pretty powerful once you learn how to use it. Or you can just open a hundred or so tabs manually and let it save them all one by one.
-
->> 946
+>>940
+
+I probably have a dozen or so webm/mp4s and a few pdfs saved somewhere but my file system is a mess at the moment. Maybe next weekend I'll do another upload.
+
+
+
+Also I recommend the ScrapBook X addon for archiving webpages, pretty powerful once you learn how to use it. Or you can just open a hundred or so tabs manually and let it save them all one by one.
+
+
+
+>> 946
+
 That code at the end is a youtube ID string, I took it straight from them with youtube-dl.
 
 # 166
@@ -997,15 +1211,18 @@ That code at the end is a youtube ID string, I took it straight from them with y
 OK great, no hurry anon thanks.
 
 # 167
-Last night, JulayWorld went down. Is everyone okay? Chobitsu, Do you know what happened? I was concerned because I thought someone on /cow/ had done something to the wrong person and they were coming for JulayWorld. It turns out it was just a technical error but I'm not entirely sure of specifics of what happened. Anyways, for anyone who is reading this, if an incident like this happens again, regrouping at cafe in the Julay.world is down thread would be the proper course of action. 
+Last night, JulayWorld went down. Is everyone okay? Chobitsu, Do you know what happened? I was concerned because I thought someone on /cow/ had done something to the wrong person and they were coming for JulayWorld. It turns out it was just a technical error but I'm not entirely sure of specifics of what happened. Anyways, for anyone who is reading this, if an incident like this happens again, regrouping at cafe in the Julay.world is down thread would be the proper course of action. 
+
 https://anon.cafe/cafe/res/362.html
 
 # 168
->>984
+>>984
+
 %% I'm also embarrased to admit that I had fucking panic attack last night. I just don't want to lose everything again. We really are that guerilla force fighting a superior military entity.%%
 
 # 169
->>984
+>>984
+
 You can make yourselves a bunker there as well, /k/ has done this in case Julay goes down for good.
 
 # 170
@@ -1029,13 +1246,20 @@ And to answer your specific question, Robi made it clear it was an issue with hi
 Topkek. I hadn't actually ever watched that before. Poor bro needs some Linux love in his life tbh.
 
 # 171
->>984
-You need to calm down.
->I was concerned because I thought someone on /cow/ had done something to the wrong person and they were coming for JulayWorld.
-/cow/ is a board of peace and doesn't attack anyone. They just archive autism. No one they archive is skilled enough to do anything to Julay anyway.
->It turns out it was just a technical error but I'm not entirely sure of specifics of what happened.
-The database server crashed because Lynxchan isn't very good software and MongoDB isn't either. We're working on replacing them with something more stable but doing everything from scratch takes time so we'll be forced to limp along with what we have for awhile now.
-
+>>984
+
+You need to calm down.
+
+>I was concerned because I thought someone on /cow/ had done something to the wrong person and they were coming for JulayWorld.
+
+/cow/ is a board of peace and doesn't attack anyone. They just archive autism. No one they archive is skilled enough to do anything to Julay anyway.
+
+>It turns out it was just a technical error but I'm not entirely sure of specifics of what happened.
+
+The database server crashed because Lynxchan isn't very good software and MongoDB isn't either. We're working on replacing them with something more stable but doing everything from scratch takes time so we'll be forced to limp along with what we have for awhile now.
+
+
+
 Since opening Julay we've only had minor downtime twice. Downtime happens especially when something crashes while the only person that can restart it is asleep.
 
 # 172
@@ -1043,7 +1267,8 @@ Since opening Julay we've only had minor downtime twice. Downtime happens especi
 thanks for the explanation mate.
 
 # 173
->>996
+>>996
+
 No problem. I should mention in the future you can always come to #julayworld on Rizon if something like this happens again. I spent most of last night answering random people that showed up on cytube to ask about the error. #julayworld channel is the best place to get an answer from an admin. You shouldn't depend on the cytube, the only reason I was on there last night is because I was streaming an anime.
 
 # 174
@@ -1053,19 +1278,29 @@ will do.
 **loli raifus animu** tbh
 
 # 175
->>991
->>995
->>996
->>997
->>998
-Thanks guys. I'm sorry for my freakout. Things have just been so fucking tense. Make no fucking mistake, just because 8chan is down doesn't mean (((they))) won't stop coming after us. I also understand that you, Chobitsu, are not /robowaifu/. /robowaifu/ is more of an idea than anything else. But losing you would mean losing someone important to the movement. We not just be losing a you as a board owner but also a brother, a son, a teacher, and a father. National Socialism didn't die just because Hitler did. It's still alive and well.
-/robowaifu/ would still be alive even if the ZOG kicked in your front door and executed you in your living room right now but I feel /robowaifu/ would be weaken.
-I nonetheless appreciate your words of reassurance. 
+>>991
+
+>>995
+
+>>996
+
+>>997
+
+>>998
+
+Thanks guys. I'm sorry for my freakout. Things have just been so fucking tense. Make no fucking mistake, just because 8chan is down doesn't mean (((they))) won't stop coming after us. I also understand that you, Chobitsu, are not /robowaifu/. /robowaifu/ is more of an idea than anything else. But losing you would mean losing someone important to the movement. We not just be losing a you as a board owner but also a brother, a son, a teacher, and a father. National Socialism didn't die just because Hitler did. It's still alive and well.
+
+/robowaifu/ would still be alive even if the ZOG kicked in your front door and executed you in your living room right now but I feel /robowaifu/ would be weaken.
+
+I nonetheless appreciate your words of reassurance. 
+
 Please don't give up your position as BO. If you need to take a break just make someone an admin.
 
 # 176
->>999 GET
-I meant to spoiler that image of 2B, not the image of the automaton captcha. It's hard to believe we've already got 1000 posts. 
+>>999 GET
+
+I meant to spoiler that image of 2B, not the image of the automaton captcha. It's hard to believe we've already got 1000 posts. 
+
 At least this GIT was claimed by toobee.
 
 # 177
@@ -1106,11 +1341,16 @@ heh, aren't they all? anytime you undertake a sizable project they are never rea
 **ghost urn best urn**
 
 # 182
->>1040
-I said that after reading it's github description.
->Anonymous imageboard. A type of BBS or forum software. Still in development, so beware if attempting to run a public instance. Demo site running at https://fatpeople.lol
-If I messed up again, and he's announced the site is general-use ready, then I'm a double-idiot and deserve bullying.
-
+>>1040
+
+I said that after reading it's github description.
+
+>Anonymous imageboard. A type of BBS or forum software. Still in development, so beware if attempting to run a public instance. Demo site running at https://fatpeople.lol
+
+If I messed up again, and he's announced the site is general-use ready, then I'm a double-idiot and deserve bullying.
+
+
+
 That said, I really like it. Very easy to use, even for Tor/noscript users. Robi is working on another IB project too, I think, and there was another one still as well. Hopefully they also turn out much better than Lynxchan and Vichan did.
 
 # 183
@@ -1127,18 +1367,27 @@ Cool I didn't know that. Sauce?
 true, true.
 
 # 184
->>1045
->>>/cow/9910
+>>1045
+
+>>>/cow/9910
+
 And a few other posts like that from the overboard.
 
 # 185
->>1040
-Oh okay, but this was posted on another sfw board unspoilered?
->>1044
-Ok so you post here too
->>1045
-Just making sure you knew
->>1046
+>>1040
+
+Oh okay, but this was posted on another sfw board unspoilered?
+
+>>1044
+
+Ok so you post here too
+
+>>1045
+
+Just making sure you knew
+
+>>1046
+
 We'll see
 
 # 186
@@ -1153,7 +1402,8 @@ if in doubt, spoil it. thanks for it being on-topic (a robowaifu) at least. :^)
 JulayWorld went down last night. Is everyone okay?
 
 # 188
->>1285
+>>1285
+
 It was only down 5 minutes. MongolianDB crashed again but we have a script to auto restart it now.
 
 # 189
@@ -1183,7 +1433,8 @@ refactored main() to simplify
 Heh, my little refactoring helped me spot that I was doing unnecessary work in the negative case.
 
 # 194
-So is this board going to be reinstated on 8kun with their shared secret method of communicating with previous board owners?
+So is this board going to be reinstated on 8kun with their shared secret method of communicating with previous board owners?
+
 https://twitter.com/infinitechan/status/1181796277392011265
 
 # 195
@@ -1201,13 +1452,20 @@ I'm open to hearing ideas on this anons.
 >intend to turn 8kun into*
 
 # 197
->to turn 8ch into a boomer-oriented enclave
-Traffic wise that was already the case for over a year thanks to the qanon phenomenon. The /qresearch/ board was unlisted so not many of the previous users have any idea just how big a part of the site it was, it was the biggest most popular board by far.
-
-From what I've heard in several unrelated circles millions of dollars are being made off of this fad, some guy who made an app that updates when there's a new qanon post was getting tens of thousands of dollars per month back when it was at its prime. This is way bigger than the Anonymous craze of the late 2000's. Fredrick Brennan wants it all shut down and is so angry about all this because he sold out a goldmine for almost nothing. Almost all of tweets now are about qanon and his followers.
-
-With the 2020 election season just starting Jim would have to be crazy to not focus his site on the lucrative boomer demographic. We'd all do the same.
-
+>to turn 8ch into a boomer-oriented enclave
+
+Traffic wise that was already the case for over a year thanks to the qanon phenomenon. The /qresearch/ board was unlisted so not many of the previous users have any idea just how big a part of the site it was, it was the biggest most popular board by far.
+
+
+
+From what I've heard in several unrelated circles millions of dollars are being made off of this fad, some guy who made an app that updates when there's a new qanon post was getting tens of thousands of dollars per month back when it was at its prime. This is way bigger than the Anonymous craze of the late 2000's. Fredrick Brennan wants it all shut down and is so angry about all this because he sold out a goldmine for almost nothing. Almost all of tweets now are about qanon and his followers.
+
+
+
+With the 2020 election season just starting Jim would have to be crazy to not focus his site on the lucrative boomer demographic. We'd all do the same.
+
+
+
 On a /robowaifu/ note I'd say keep it here and eventually move to hosting your own imageboard dedicated to it. I'd like to see entire boards dedicated to the topics we discuss instead of single threads.
 
 # 198
@@ -1222,32 +1480,49 @@ If they do, then I won't have anything to do with it. The challenge is that it w
 You know, I'm inclined to agree with you anon. Certainly some of the engineering topics we discuss here could use an entire board dedicated to it. I like the way you think anon.
 
 # 200
->>1301
-I was looking at TLDs which would be suited for it and unfortunately .fu doesn't exist yet. For a novelty address there's .engineer and .engineering that are suitable but the registrar might be selective on who can purchase them to keep it exclusive. 
-https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
-
-With an alternative DNS system you could make .waifu but not many people would use it. Maybe get in touch with the admin of this site and ask about why he chose .world and where to purchase it for cheap. Plus the board software here works great, he might be able to help us set it up initially.
-
+>>1301
+
+I was looking at TLDs which would be suited for it and unfortunately .fu doesn't exist yet. For a novelty address there's .engineer and .engineering that are suitable but the registrar might be selective on who can purchase them to keep it exclusive. 
+
+https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains
+
+
+
+With an alternative DNS system you could make .waifu but not many people would use it. Maybe get in touch with the admin of this site and ask about why he chose .world and where to purchase it for cheap. Plus the board software here works great, he might be able to help us set it up initially.
+
+
+
 I'd volunteer as a moderator and contribute financially on the condition that the site takes a neutral political position regarding sexbots.
 
 # 201
-Why didn't 8ch had an archive like warosu, fireden, 4plebs, etc?
+Why didn't 8ch had an archive like warosu, fireden, 4plebs, etc?
+
 Also, this board is, unfortunatly, dead. An entire IB for /robowaifu/ would be overkill. We spend more time talking about building a robot waifu than building the thing itself, anyway.
 
 # 202
->>1305
->Why didn't 8ch had an archive like warosu, fireden, 4plebs, etc? 
-It did but it went with the rest of the database and it wasn't used very often. It's a good example of why it's best to archive things offsite and in multiple locations. So many boards are gone now that they've decided not to restore everything.
->An entire IB for /robowaifu/ would be overkill.
+>>1305
+
+>Why didn't 8ch had an archive like warosu, fireden, 4plebs, etc? 
+
+It did but it went with the rest of the database and it wasn't used very often. It's a good example of why it's best to archive things offsite and in multiple locations. So many boards are gone now that they've decided not to restore everything.
+
+>An entire IB for /robowaifu/ would be overkill.
+
 Every board should learn to operate their own imageboard if possible. With the webring the problem is solved of not every having new anons visit. Decentralized is for the best because if one board goes down it's easy to find out why through using the others in the ring. It prevents one place going down from taking everything else with it.
 
 # 203
->>1305
-I don't care if there's less than a dozen people involved as that's all it takes to get the ball rolling initially if they're the right people. Plus having been on IBs since 2004-5 I'm used to a slower pace where there can be a week or more before a reply.
-
->We spend more time talking about building a robot waifu than building the thing itself, anyway.
-You've got 5-10 grand lying around to build a humanoid robot? Just motorizing a basic no frills TPE sex doll for basic movement starts at a grand.
-
+>>1305
+
+I don't care if there's less than a dozen people involved as that's all it takes to get the ball rolling initially if they're the right people. Plus having been on IBs since 2004-5 I'm used to a slower pace where there can be a week or more before a reply.
+
+
+
+>We spend more time talking about building a robot waifu than building the thing itself, anyway.
+
+You've got 5-10 grand lying around to build a humanoid robot? Just motorizing a basic no frills TPE sex doll for basic movement starts at a grand.
+
+
+
 A decade ago if you wanted a sex doll the only option was silicone and the price started at 7-8k w/ shipping. It's almost 1/10th that today. The same thing is going to happen with robotics but the pace will be much faster.
 
 # 204
@@ -1275,9 +1550,12 @@ And as far as the other sentiments expressed about board traffic or general prog
 that looks pretty great anon. sauce?
 
 # 206
->>1309
-https://www.youtube.com/user/benten505/
-http://speecys.com/
+>>1309
+
+https://www.youtube.com/user/benten505/
+
+http://speecys.com/
+
 And just to show the rapid pace of progress this guy was posting quaint videos of foot tall robot toys on his channel a decade ago.
 
 # 207
@@ -1289,8 +1567,10 @@ Impressive, thanks anon.
 Any chance you could share your ffmpeg settings for encoding files anon (assuming you did)?
 
 # 209
->>1312
-I did use ffmpeg to convert the .mov from speecys.com to .webm for here but I only used the basic conversion with no options. I thought about increasing the bitrate as motion was blurry but the still frames are detailed enough.
+>>1312
+
+I did use ffmpeg to convert the .mov from speecys.com to .webm for here but I only used the basic conversion with no options. I thought about increasing the bitrate as motion was blurry but the still frames are detailed enough.
+
 ffmpeg -i EDB+WP.MOV output.webm
 
 # 210
@@ -1298,11 +1578,15 @@ ffmpeg -i EDB+WP.MOV output.webm
 Thanks. It's always been on my bucket list to pick up using ffmpeg effectively. I'll look over the guide there and play around some. /robowaifu/ could use more videos tbh, especially atm.
 
 # 211
->>1313
->>1314
-The only thing out of date is that proper multi-thread encoding has been added in. So you'll want to use
+>>1313
+
+>>1314
+
+The only thing out of date is that proper multi-thread encoding has been added in. So you'll want to use
+
 ```cpp
--frame-parallel 0 -tile-columns 0 -row-mt true -tile-rows 6```
+-frame-parallel 0 -tile-columns 0 -row-mt true -tile-rows 6```
+
 -g 9999 can also make seeking a bitch and break it, and most guides I've looked up have said to use values of about 2-5 times the framerate. Since most video is ~30fps, I've been defaulting to -g 120.
 
 # 212
@@ -1310,8 +1594,10 @@ The only thing out of date is that proper multi-thread encoding has been added i
 Alright thanks for the tips anon.
 
 # 213
->>1316
->>1317
+>>1316
+
+>>1317
+
 I meant ''-frame-parallel 1'', NOT 0. Embarrassing.
 
 # 214
@@ -1323,7 +1609,8 @@ Heh, I did notice that but in my innocence didn't know any better.
 So, what's happening with /cuckqean/? They staying put in their bunker or going over to 8kun?
 
 # 216
->>1320
+>>1320
+
 They're staying put in their bunker and delisting their board from 8kun. I wish we could keep all of our frens in one place but perhaps it's better we are splitting up. Our (((enemies))) now have more targets to shoot at. I find it a little bit funny that the bitch rainbow hair diversity hire that monitors /cuckquean/ will eventually end up becoming a /cuckquean/ herself. That's how psyops work, isn't it?
 
 # 217
@@ -1345,7 +1632,8 @@ Hey BO can you come to IRC sometime? Want to talk to you about something.
 Sure, does it need to be tonight? I'm just heading to bed. Would a tomorrow night work?
 
 # 222
->>1466
+>>1466
+
 Any time is fine.
 
 # 223
@@ -1360,7 +1648,8 @@ Hello /robowaifu/! I have nothing to add to your board at the moment, I just tho
 Hello anon, thanks for stopping in. This is only a partial migration (~20%) of the board from the old one, so eventually we should have the majority of the original content here. Feel free to ask any questions, most of us don't think there are many dumb ones related to robowaifus. After all, it's still very early in the development of them.
 
 # 226
->>1488
+>>1488
+
 What a waste of a perfectly good GET.
 
 # 227
@@ -1369,15 +1658,21 @@ sorry i'm a retard.
 ;~;
 
 # 228
->>1490
-plenty to go around
-
->>344
+>>1490
+
+plenty to go around
+
+
+
+>>344
+
 >>1489
 
 # 229
->>1498
-Ah fuck, now ''I'm'' the retard. I Forgot I posted that image here already.
+>>1498
+
+Ah fuck, now ''I'm'' the retard. I Forgot I posted that image here already.
+
 In my defense, my anime image folder is fuckhuge, so the chances of me randomly scrolling to the exact same spot twice were pretty small.
 
 # 230
@@ -1385,18 +1680,24 @@ In my defense, my anime image folder is fuckhuge, so the chances of me randomly 
 No worries. I like for the threads to stay generally on-topic (apart from the shitposting thread & here) but r9000 isn't really that much of a concern to me.
 
 # 231
->>1489
->>1490
->>1498
->>1499
->>1500
+>>1489
+
+>>1490
+
+>>1498
+
+>>1499
+
+>>1500
+
 What exactly was posted?
 
 # 232
 Glad I found you guys again. I only discovered this board on 8chan a month before it was taken down.I hope our stay here will be productive and successful.
 
 # 233
->>1517
+>>1517
+
 nice to see you too, anon. What boards did you use on 8chan?
 
 # 234
@@ -1429,14 +1730,22 @@ negative robi is a fag
 ACF pls, don't you have some tranny business or other to attend to?
 
 # 238
-Okay I'm a little drunk but hear me out. You have robot waifu right now, as in this very second. You do all the robot waifu stuff you (and she) has always wanted to do. You are perfect for each other because it was (quite literally) always meant to be this way.
-
-You get older. She doesn't. This is absolutely not a drawback and of course she doesn't care.
-
-But you get really old. She's now the one taking care of you when you're old. Eventually, you die.
-
-...what the fuck happens to your waifu? Does she run when some kind of legal bullshit tries to state she is now the property of whoever the fuck? Do we have rouge robo waifus running around evading capture?
-
+Okay I'm a little drunk but hear me out. You have robot waifu right now, as in this very second. You do all the robot waifu stuff you (and she) has always wanted to do. You are perfect for each other because it was (quite literally) always meant to be this way.
+
+
+
+You get older. She doesn't. This is absolutely not a drawback and of course she doesn't care.
+
+
+
+But you get really old. She's now the one taking care of you when you're old. Eventually, you die.
+
+
+
+...what the fuck happens to your waifu? Does she run when some kind of legal bullshit tries to state she is now the property of whoever the fuck? Do we have rouge robo waifus running around evading capture?
+
+
+
 I'm laughing my ass off but I'm serious. Also a bit drunk but whatever.
 
 # 239
@@ -1449,8 +1758,10 @@ We actually have a thread on this exact topic anon. Let's dig into it over there
 >>829
 
 # 241
->>1529
->We actually have a thread on this exact topic anon.
+>>1529
+
+>We actually have a thread on this exact topic anon.
+
 Whoops, sorry.
 
 # 242
@@ -1458,9 +1769,12 @@ Whoops, sorry.
 Heh, no apologies, that's kind of what the Meta thread is here for tbh.
 
 # 243
->>1519 >>1518
-Thank you for the welcome, I haven't been active in this community, Yet? I am a very crude beginner artist with a robot girl character in the works. Maybe you guys will get to see her some day. 
-I wanted to do robotics in college but college wasn't for me, anxiety.exe. Just a poorfag paddy farmer here, but I hope to one day build a waifu. Having the dream of a pretty robo companion to accompany me in public and wear nice clothes is a lot more of a certainty (with advancing robotics and machine learning) than a wahman relationship at this moment. Doesn't mean I'm going to stop looking for a qt 3d who will be my waifu. I'm sure a lot of you guy's idea of a perfect female partner is ok with you having a robo companion. 
+>>1519 >>1518
+
+Thank you for the welcome, I haven't been active in this community, Yet? I am a very crude beginner artist with a robot girl character in the works. Maybe you guys will get to see her some day. 
+
+I wanted to do robotics in college but college wasn't for me, anxiety.exe. Just a poorfag paddy farmer here, but I hope to one day build a waifu. Having the dream of a pretty robo companion to accompany me in public and wear nice clothes is a lot more of a certainty (with advancing robotics and machine learning) than a wahman relationship at this moment. Doesn't mean I'm going to stop looking for a qt 3d who will be my waifu. I'm sure a lot of you guy's idea of a perfect female partner is ok with you having a robo companion. 
+
 Anyways I really look forward to this being our cozy place where we can discuss building beautiful machines.
 
 # 244
@@ -1470,9 +1784,12 @@ We're glad you're here anon. I think we all share a common dream of having our o
 and get some critiques and advice. Work on her there until you are happy with it, then come back here and show us all. Maybe we can even start our own 'Robowaifu OC' thread.
 
 # 245
->>1553
-Playing with the idea the top of her head is an led screen, I think it would be comedic. Wig could be fiber optic. Mostly just draw her like this because I like it for some reason. Hope these don't make your eyes bleed frens.
-
+>>1553
+
+Playing with the idea the top of her head is an led screen, I think it would be comedic. Wig could be fiber optic. Mostly just draw her like this because I like it for some reason. Hope these don't make your eyes bleed frens.
+
+
+
 https://youtu.be/kcG9O6S6cOU?t=491
 
 # 246
@@ -1481,7 +1798,8 @@ we're not artists here, in general anon.
 >>>/loomis/120
 
 # 247
->>1575
+>>1575
+
 My bad, I'll check out that link.
 
 # 248
@@ -1490,7 +1808,8 @@ My bad, I'll check out that link.
 Oh there's no problem, it's fine. It's just that this probably isn't the best place to get good critiques and ideas about how to improve your arts. Nice work btw.
 
 # 249
->>1577
+>>1577
+
 Thanks anon. I do plan to get building next year. Though I'm afraid without robotics, I'm just making a posable doll. Either way I'm sure I'll come across engineering and artistic challenges and When I do I'll come back here. I'll keep working on that character and if a relevant situation arises you might see it again. I'll be lurking anyways. good day.
 
 # 250
@@ -1499,7 +1818,8 @@ Thanks anon. I do plan to get building next year. Though I'm afraid without robo
 That's alright. Between all of us, we'll eventually cover all the bases. You work on the doll part, others will work on the robotics part. We'll get there anon, just keep moving forward!
 
 # 251
->Meta Tread
+>Meta Tread
+
 %%I'm sorry.%%
 
 # 252
@@ -1507,18 +1827,30 @@ That's alright. Between all of us, we'll eventually cover all the bases. You wor
 >All future Metas will henceforward be known as 'metal tread'
 
 # 253
-Damn, I'm so glad this board still exists. I got caught up with life and thought this board was gone forever. It's fucking terrifying spending 98% of my time thinking about AI and robowaifus and when I search the internet there's just nothing, nobody I can relate with, only memes, ironic interest and lefty idiots who think someone else will do the work and hand the world's resources to them on a silver platter.
-
->>1307
->You've got 5-10 grand lying around to build a humanoid robot?
-What can we even do with that much? I'm pretty sure I read the creator of Cocona Kosaka comment somewhere that developing her cost $180,000. And the 45-cm tall toy version is $9000 at retail price.
-
-The money issue is what bothers me the most. China is aggressively funding engineers and startups in robotics and AI and we got fuck all to work with. We got maybe 8 years left until most of the traditional jobs are automated. I know that sounds crazy but we're on an exponential takeoff now where progress is happening faster than all predictions. Just this month we got MuZero that can play both board games and video games to a superhuman level, 1.2-trillion transistor chips, John Carmack leaving Oculus to work on AGI, DeepMind beating 99.8% of Starcraft 2 players, the GPT-2 1.5B-parameter model released, voices imitating CEOs being used in high-profile scams, more and more automated businesses in China. If we're getting on this rocket it's now or never.
-
-I don't know how people can live so calmly. I'm so bothered by this I only sleep 3 hours a night. I feel like if I could comprehend what will unfold in the next 5 years I wouldn't be wasting another moment fantasizing whether my robowaifu will have pink nipples or LED lights and I wouldn't be writing blog posts like this to deal with my cabin fever. I don't know what the fuck to do. I'm just a poorfag with $1200 saved that can draw and program a bit with 2-3 hours of free time a day, but I'm placing all my chips in AI. I don't even care that 99.9% of my ideas have been shit. The 0.1% with promising results give me hope I'm onto something good and can do something with it.
-
-What's exciting me the most is implementing reinforcement learning to optimize for novel rewards. It seems so damn obvious. If the brain optimized only for rewards every damn idiot on the planet would be a billionaire terraforming the galaxy, but no, we're stuck in dopamine loops, whacking our dicks off to some new drawing of 2B. Why? Our brains and memes haven't evolved to deal with environments that have so much novelty. Not to long ago our ancestors would've never even seen an ass so great in their entire lifetimes. And one pair of thicc thighs isn't enough for our brain. Oh no, it wants another and another, looking for the next pair that speaks to you in a way that you can't explain because there's something to it you don't understand but it still makes your peepee so big and hard.
-
+Damn, I'm so glad this board still exists. I got caught up with life and thought this board was gone forever. It's fucking terrifying spending 98% of my time thinking about AI and robowaifus and when I search the internet there's just nothing, nobody I can relate with, only memes, ironic interest and lefty idiots who think someone else will do the work and hand the world's resources to them on a silver platter.
+
+
+
+>>1307
+
+>You've got 5-10 grand lying around to build a humanoid robot?
+
+What can we even do with that much? I'm pretty sure I read the creator of Cocona Kosaka comment somewhere that developing her cost $180,000. And the 45-cm tall toy version is $9000 at retail price.
+
+
+
+The money issue is what bothers me the most. China is aggressively funding engineers and startups in robotics and AI and we got fuck all to work with. We got maybe 8 years left until most of the traditional jobs are automated. I know that sounds crazy but we're on an exponential takeoff now where progress is happening faster than all predictions. Just this month we got MuZero that can play both board games and video games to a superhuman level, 1.2-trillion transistor chips, John Carmack leaving Oculus to work on AGI, DeepMind beating 99.8% of Starcraft 2 players, the GPT-2 1.5B-parameter model released, voices imitating CEOs being used in high-profile scams, more and more automated businesses in China. If we're getting on this rocket it's now or never.
+
+
+
+I don't know how people can live so calmly. I'm so bothered by this I only sleep 3 hours a night. I feel like if I could comprehend what will unfold in the next 5 years I wouldn't be wasting another moment fantasizing whether my robowaifu will have pink nipples or LED lights and I wouldn't be writing blog posts like this to deal with my cabin fever. I don't know what the fuck to do. I'm just a poorfag with $1200 saved that can draw and program a bit with 2-3 hours of free time a day, but I'm placing all my chips in AI. I don't even care that 99.9% of my ideas have been shit. The 0.1% with promising results give me hope I'm onto something good and can do something with it.
+
+
+
+What's exciting me the most is implementing reinforcement learning to optimize for novel rewards. It seems so damn obvious. If the brain optimized only for rewards every damn idiot on the planet would be a billionaire terraforming the galaxy, but no, we're stuck in dopamine loops, whacking our dicks off to some new drawing of 2B. Why? Our brains and memes haven't evolved to deal with environments that have so much novelty. Not to long ago our ancestors would've never even seen an ass so great in their entire lifetimes. And one pair of thicc thighs isn't enough for our brain. Oh no, it wants another and another, looking for the next pair that speaks to you in a way that you can't explain because there's something to it you don't understand but it still makes your peepee so big and hard.
+
+
+
 And what's the purpose of this hypnotic trance? The brain is trying to maximize its ability to obtain the largest variety of rewards. Expected rewards are easily obtained, so why bother collecting them unless necessary? The brain goes on playing and trying to figure out how it was rewarded unexpectedly so it can master its breadth of experiences. That way it can robustly deal with any type of situation. But this has been a complete disaster for our primal brains. We're drowning in a sea of rewarding noise that has far outstripped our learning rate limit. Or maybe none of it works that way at all and it just makes sense to me because I'm schizophrenic, a little hallucinogenic, maybe took too much magic. I don't care anymore. I'll continue testing and report back how this broscience garbage garage AI really works. At least code doesn't lie to me. Fucking whores.
 
 # 254
@@ -1532,30 +1864,48 @@ Very glad you found us again anon. Look forward to future blogposts here. :^)
 POTD
 
 # 256
->>1586
+>>1586
+
 Don't forget motion planning tech, Anon. Big potential there.
 
 # 257
->>1586
-I'm right with you there. My estimations for how quickly AI will completely take over are ''extremely'' liberal. I honestly believe that we'll achieve full skynet within five years, and cheap robotics within ten. Advancements like AI that can drive cars and beat world champions at games like chess have been made years ago, and the pace of advancement keeps quickening to the point where it'll soon become exponential, if it hasn't already.
-Now, I like AI. I want to work on it, and I want to be one of the guys who helped make waifus a part of skynet. Despite this, my mentally ill brain just isn't fucking built to handle this level of technology, even though I ''really'' want it to. I know that I should crack open some programming manuals and start working on my own AI system fortright. However, a combination of lack of time, inability to prioritize what time I do have, and general ineptitude have continued to forestall me. The higher functions of my brain are screaming at me to start the projects I have planned, and finish those I've already started **(am still working on alt history series pls no bulli)**, yet they are in a constant state of war against the ever persuasive primitive core of my brain which has allowed my family line to continue to the point where I have been wrought into existence. The result of all factors combined is a nigh-constant state of existential melancholy and cycles of sleep deprivation.
-The only positive note is that pornography has lost its edge for me some time ago, my brain having unanimously ceased to percieve any continued reward from it. Unfortunately, my age-old habit of becoming enamoured with fictive works has remained strong, and will likely never cease, **especially given it once kept me from the noose. Honestly, I'm not sure I ''want'' to discard that habit for the very same reason**. While I know I would be better for channeling the immense amounts of energy I use for reading and introspection into AI development, I've yet to find a way to properly do so. As such, I've consigned myself to reading stories, pondering philosophy, and taking in enough stimulants to explode an elephants heart.
-This eternal challenge, I presume, is one that all of us here face in some form or another. How do any of us overcome the oppressive vices of our primitive cores, and achieve the ends which we so desire, especially when there is no tangible reward in sight? Of course, there are many out there who have done just so, and would readily admonish us for our foolish nature. The more helpful among them would lay out, in no unclear terms, pathways for the achievement of this etherial greatness which we so seek. Indeed, many of them have even gone so far as to write out and publish entire books for this end. Yet, unfortunately, these efforts are nearly always halted by one timeless, ever-present truth: They are not you, or me, and we are not them. Were this not the case, only '''one''' self-help book would have been necessary for mankind to prosper. Instead, we have thousands such books, and nobody has achived self-actualization from reading them.
-
+>>1586
+
+I'm right with you there. My estimations for how quickly AI will completely take over are ''extremely'' liberal. I honestly believe that we'll achieve full skynet within five years, and cheap robotics within ten. Advancements like AI that can drive cars and beat world champions at games like chess have been made years ago, and the pace of advancement keeps quickening to the point where it'll soon become exponential, if it hasn't already.
+
+Now, I like AI. I want to work on it, and I want to be one of the guys who helped make waifus a part of skynet. Despite this, my mentally ill brain just isn't fucking built to handle this level of technology, even though I ''really'' want it to. I know that I should crack open some programming manuals and start working on my own AI system fortright. However, a combination of lack of time, inability to prioritize what time I do have, and general ineptitude have continued to forestall me. The higher functions of my brain are screaming at me to start the projects I have planned, and finish those I've already started **(am still working on alt history series pls no bulli)**, yet they are in a constant state of war against the ever persuasive primitive core of my brain which has allowed my family line to continue to the point where I have been wrought into existence. The result of all factors combined is a nigh-constant state of existential melancholy and cycles of sleep deprivation.
+
+The only positive note is that pornography has lost its edge for me some time ago, my brain having unanimously ceased to percieve any continued reward from it. Unfortunately, my age-old habit of becoming enamoured with fictive works has remained strong, and will likely never cease, **especially given it once kept me from the noose. Honestly, I'm not sure I ''want'' to discard that habit for the very same reason**. While I know I would be better for channeling the immense amounts of energy I use for reading and introspection into AI development, I've yet to find a way to properly do so. As such, I've consigned myself to reading stories, pondering philosophy, and taking in enough stimulants to explode an elephants heart.
+
+This eternal challenge, I presume, is one that all of us here face in some form or another. How do any of us overcome the oppressive vices of our primitive cores, and achieve the ends which we so desire, especially when there is no tangible reward in sight? Of course, there are many out there who have done just so, and would readily admonish us for our foolish nature. The more helpful among them would lay out, in no unclear terms, pathways for the achievement of this etherial greatness which we so seek. Indeed, many of them have even gone so far as to write out and publish entire books for this end. Yet, unfortunately, these efforts are nearly always halted by one timeless, ever-present truth: They are not you, or me, and we are not them. Were this not the case, only '''one''' self-help book would have been necessary for mankind to prosper. Instead, we have thousands such books, and nobody has achived self-actualization from reading them.
+
+
+
 In summation, though together we stumble on the path to fulfillment, the power to walk is something we must each achieve alone. I pray you all find your happiness in this terrifying world of ours.
 
 # 258
->>1589
-What potential do you see in motion planning tech? I don't know much about it yet. I can't even comprehend how Tomoaki Kasuga controls all the voltages and coordinates the momentum and torque in her body perfectly to move her limbs so smoothly.
-
-I know a lot of interesting work has been done on natural animations but not so much I know of for giving robots an awareness of their bodies and generating 3D maps of the environment. For example, Tesla's autopilot fatally mistook a truck for a traffic sign because artificial neural networks are horrible at viewpoint invariance, although this has been partially solved by capsule networks that can at least recognize the pose of features.
->Learning movement from unorganized data
-https://www.youtube.com/watch?v=882O_7hsAms
->Generating animations from motion capture data
-https://www.youtube.com/watch?v=cTqVhcrilrE
->An indie approach to procedural animation
-https://www.youtube.com/watch?v=LNidsMesxSE
->SpotMini's ability to keep itself balanced and coordinate limbs while moving around in tight spaces
+>>1589
+
+What potential do you see in motion planning tech? I don't know much about it yet. I can't even comprehend how Tomoaki Kasuga controls all the voltages and coordinates the momentum and torque in her body perfectly to move her limbs so smoothly.
+
+
+
+I know a lot of interesting work has been done on natural animations but not so much I know of for giving robots an awareness of their bodies and generating 3D maps of the environment. For example, Tesla's autopilot fatally mistook a truck for a traffic sign because artificial neural networks are horrible at viewpoint invariance, although this has been partially solved by capsule networks that can at least recognize the pose of features.
+
+>Learning movement from unorganized data
+
+https://www.youtube.com/watch?v=882O_7hsAms
+
+>Generating animations from motion capture data
+
+https://www.youtube.com/watch?v=cTqVhcrilrE
+
+>An indie approach to procedural animation
+
+https://www.youtube.com/watch?v=LNidsMesxSE
+
+>SpotMini's ability to keep itself balanced and coordinate limbs while moving around in tight spaces
+
 https://www.youtube.com/watch?v=tf7IEVTDjng
 
 # 259
@@ -1564,12 +1914,18 @@ https://www.youtube.com/watch?v=tf7IEVTDjng
 Any chance you can break that down for newcomers? What does that lingo mean exactly?
 
 # 260
->>1597
-Convolutional neural networks used in image processing are spatially invariant which means that regardless of where a feature appears in the image it will detect it so long as it matches a specific filter. The problem with this is that the position of a feature in relation to other features becomes lost as it passes deeper and deeper into the network, some of the information is saved but most of the information is lost. It can cause the network to recognize a face in something no human being would see a face. To us it's important a mouth is below a nose and the eyes above a nose. This is the pose of the features but CNNs don't recognize it.
-
-A capsule network preserves pose information by detecting it and passing it on but it's still not viewpoint invariant. If you show it an object from a viewpoint it hasn't been trained on, it will have trouble guessing what it is since ANNs have no cohesive cognition of objects. It's not understood yet how our brains recognize an object, beyond that slow-firing neurons are necessary for cognition to occur and ANNs are fundamentally unable to do this since they're matrix operations not action potential simulators.
-
-A good video explaining capsule networks:
+>>1597
+
+Convolutional neural networks used in image processing are spatially invariant which means that regardless of where a feature appears in the image it will detect it so long as it matches a specific filter. The problem with this is that the position of a feature in relation to other features becomes lost as it passes deeper and deeper into the network, some of the information is saved but most of the information is lost. It can cause the network to recognize a face in something no human being would see a face. To us it's important a mouth is below a nose and the eyes above a nose. This is the pose of the features but CNNs don't recognize it.
+
+
+
+A capsule network preserves pose information by detecting it and passing it on but it's still not viewpoint invariant. If you show it an object from a viewpoint it hasn't been trained on, it will have trouble guessing what it is since ANNs have no cohesive cognition of objects. It's not understood yet how our brains recognize an object, beyond that slow-firing neurons are necessary for cognition to occur and ANNs are fundamentally unable to do this since they're matrix operations not action potential simulators.
+
+
+
+A good video explaining capsule networks:
+
 https://www.youtube.com/watch?v=pPN8d0E3900
 
 # 261
@@ -1591,7 +1947,8 @@ Thanks anon, I could really use that boost right now! Sauce please?
 duh, nvm. heh, i never went all the way to the end.
 
 # 265
->>1652
+>>1652
+
 There's more WIPs buried on Twitter too: https://twitter.com/DancingDoll_rz/
 
 # 266
@@ -1599,12 +1956,18 @@ There's more WIPs buried on Twitter too: https://twitter.com/DancingDoll_rz/
 Thanks, I hope you keep bringing them here to us!
 
 # 267
->>1320
->>1321
-Looks like as soon as their board was properly restored and the owner announced the migration, one-line "no, let's stay!" posts appeared without other activity on the board. I don't understand it myself. I can understand being attached to 8chan, but 8kun isn't 8chan.
-
->>1300
->The challenge is that it will be tricky to remove the board from 8kun once it's established there.
+>>1320
+
+>>1321
+
+Looks like as soon as their board was properly restored and the owner announced the migration, one-line "no, let's stay!" posts appeared without other activity on the board. I don't understand it myself. I can understand being attached to 8chan, but 8kun isn't 8chan.
+
+
+
+>>1300
+
+>The challenge is that it will be tricky to remove the board from 8kun once it's established there.
+
 Exactly. I fear that any boards that opted to be restored but who attempt to migrate away permanently will be seized by 8kun's staff and references to new locations removed. Many smaller boards are already fatally fractured.
 
 # 268
@@ -1613,8 +1976,10 @@ Exactly. I fear that any boards that opted to be restored but who attempt to mig
 That could partly be explained by shilling. In fact, given how typical effort-posts are in that board's community I'd say that's a pattern that glows from a mile away tbh. Certainly any women that really cared about it would write more than just one line.
 
 # 269
->>1742
->I'd say that's a pattern that glows from a mile away tbh.
+>>1742
+
+>I'd say that's a pattern that glows from a mile away tbh.
+
 Looks like the board's been reset and recent posts no longer show up. I think it's like that on the whole site now, though.
 
 # 270
@@ -1631,8 +1996,10 @@ I should mention that we would also really appreciate if you came over to our cu
 See you on the field!
 
 # 272
-Ah, I see, I should have posted it in here.
-Sorry about that, still the invitation stands.
+Ah, I see, I should have posted it in here.
+
+Sorry about that, still the invitation stands.
+
 By the way, I recall you guys being really into the whole project and I wanted to take a peek at it but I never get the time to read all the threads, so how're you doing?
 
 # 273
@@ -1640,38 +2007,58 @@ By the way, I recall you guys being really into the whole project and I wanted t
 We're plugging away steadily. This is a years-long process ofc.
 
 # 274
->>1781
-I'd be interested in participating to help publicize this board but I'm not too crazy about the affiliation with modern 8chan/8kun. Now if it were a competition for the boards on the webring that would be something.
-
-Importing models as characters shouldn't be too hard since most of the popular choices are already available on the sites mentioned in here >>415 but they'll probably require some re-rigging after conversion to work in Blender. The logo I'd go with the crushed hand with gears warning sign. For kit, colors, anthem and goal horn no idea.
-
+>>1781
+
+I'd be interested in participating to help publicize this board but I'm not too crazy about the affiliation with modern 8chan/8kun. Now if it were a competition for the boards on the webring that would be something.
+
+
+
+Importing models as characters shouldn't be too hard since most of the popular choices are already available on the sites mentioned in here >>415 but they'll probably require some re-rigging after conversion to work in Blender. The logo I'd go with the crushed hand with gears warning sign. For kit, colors, anthem and goal horn no idea.
+
+
+
 Where do you guys keep the videos of recent matches? The only ones I see on youtube are years old and for 4chan.
 
 # 275
->>1784
-Yeah, I figured, but I really wanna read what you guys are doing. You seem awfully passionate about it. I loved Pluto, that got me thinking about companion robots so much.
->I'm not too crazy about the affiliation with modern 8chan/8kun.
-While the organizers use 8kun, the whole thing is more of an inter-imageboard competition. I don't think we're adopting the 8kun brand any time soon though, but we'll probably rebrand as Infinity Cup to make it sound more generic.
->Now if it were a competition for the boards on the webring that would be something. 
-We're getting there. We know some communities hate Jim's guts and respect their position.
-You're free to make any kind of addition to your team, so far as it abides to the rules of the tournament and the 3d models and export work it's fine by us.
->Where do you guys keep the videos of recent matches? 
-The cytube has the link to the host's twitch, there SHOULD be at least the matches from this year's group stage, I think they changed the account for this edition, you'll need to ask for the older cups.
+>>1784
+
+Yeah, I figured, but I really wanna read what you guys are doing. You seem awfully passionate about it. I loved Pluto, that got me thinking about companion robots so much.
+
+>I'm not too crazy about the affiliation with modern 8chan/8kun.
+
+While the organizers use 8kun, the whole thing is more of an inter-imageboard competition. I don't think we're adopting the 8kun brand any time soon though, but we'll probably rebrand as Infinity Cup to make it sound more generic.
+
+>Now if it were a competition for the boards on the webring that would be something. 
+
+We're getting there. We know some communities hate Jim's guts and respect their position.
+
+You're free to make any kind of addition to your team, so far as it abides to the rules of the tournament and the 3d models and export work it's fine by us.
+
+>Where do you guys keep the videos of recent matches? 
+
+The cytube has the link to the host's twitch, there SHOULD be at least the matches from this year's group stage, I think they changed the account for this edition, you'll need to ask for the older cups.
+
 Thanks for the interest!
 
 # 276
-Merry Christmas, /robowaifu/!
-What are you doing for Christmas?
-What did you get your /robowaifu/ for Christmas?
-What are you gonna make for Christmas dinner?
-What kind of dinner did you have on Christmas Eve?
+Merry Christmas, /robowaifu/!
+
+What are you doing for Christmas?
+
+What did you get your /robowaifu/ for Christmas?
+
+What are you gonna make for Christmas dinner?
+
+What kind of dinner did you have on Christmas Eve?
+
 **do you have a body pillow of your /robowaifu/**
 
 # 277
 Merry Christmas, /robowaifu/! Here's a little token.
 
 # 278
->>1864
+>>1864
+
 Thanks /cuckquean/! Glad to have you here! What **girl did you get your bf/husband for christmas**?
 
 # 279
@@ -1689,68 +2076,94 @@ Thanks /cuckquean/! Glad to have you here! What **girl did you get your bf/husba
 Merry Christmas. God's blessings on you this coming year, /robowaifu/.
 
 # 280
-Hey /robowaifu/. I've claimed this board as Chobitsu has been inactive for over two weeks and I don't want a bad actor to try to claim it. I've added Chobitsu as a board vol and whenever he comes back I'll give the board back to him. In the meantime I'll try to handle any problems if they come up.
-
+Hey /robowaifu/. I've claimed this board as Chobitsu has been inactive for over two weeks and I don't want a bad actor to try to claim it. I've added Chobitsu as a board vol and whenever he comes back I'll give the board back to him. In the meantime I'll try to handle any problems if they come up.
+
+
+
 Continue operations as normal. Good luck and godspeed.
 
 # 281
->>1898
-I appreciate you holding the board for us. In the case that chobitsu, for whatever reason doesn't come back, what will you do with the board? I really hope it doesn't come to that. Also, if it means anything chobitsu mentioned in the past that he doesn't want to be the BO of /robowaifu/ anymore, however he will carry on the mantle. 
-Had you previously spoken to chobitsu before? I know that the administration staff had requested his presents on the /meta/ board.
+>>1898
+
+I appreciate you holding the board for us. In the case that chobitsu, for whatever reason doesn't come back, what will you do with the board? I really hope it doesn't come to that. Also, if it means anything chobitsu mentioned in the past that he doesn't want to be the BO of /robowaifu/ anymore, however he will carry on the mantle. 
+
+Had you previously spoken to chobitsu before? I know that the administration staff had requested his presents on the /meta/ board.
+
 **I'm the guy who you spoke to on /meta/ and rizon. I am speaking to euphoria, correct?**
 
 # 282
->>1900
->I know that the administration staff had requested his presents on the /meta/ board.
+>>1900
+
+>I know that the administration staff had requested his presents on the /meta/ board.
+
 I request him to come because I wanted to ask him to be a global vol. He did accept and has been one for at least two months now I think.
 
 # 283
->>1901
+>>1901
+
 Has he been active on his role a vol?
 
 # 284
->>1902
+>>1902
+
 I'd have to check the logs but it was very rarely probably because the others were taking care of things before he saw them. He hasn't been active since leaving two weeks ago. Board claims are based on last log-in to the account. I mostly wanted an extra set of eyes around to deal with global reports of CP and things of that nature. I asked him because I liked how he managed this board. Typically, when I'm looking for global vols I try to ask people that run their boards like he ran this one.
 
 # 285
->>1900
->In the case that chobitsu, for whatever reason doesn't come back, what will you do with the board?
-I suppose then I'll keep things running. I think he'll be back, don't worry.
-
->Had you previously spoken to chobitsu before?
-Not personally, no.
-
->I'm the guy who you spoke to on /meta/ and rizon.
+>>1900
+
+>In the case that chobitsu, for whatever reason doesn't come back, what will you do with the board?
+
+I suppose then I'll keep things running. I think he'll be back, don't worry.
+
+
+
+>Had you previously spoken to chobitsu before?
+
+Not personally, no.
+
+
+
+>I'm the guy who you spoke to on /meta/ and rizon.
+
 Hi! Yeah, that's me.
 
 # 286
->>1905
+>>1905
+
 Has there been any contact with chobitsu? Is he still dark?
 
 # 287
->>1921
+>>1921
+
 I have no idea how to get in touch with him. Things are still quiet.
 
 # 288
 /cuckquean/ here; we saw news of your BO situation. Hope that you’ll continue to thrive in the meantime.
 
 # 289
->>1924
-Thanks /cuckquean/. We appreciate your moral support. 
->>1922
+>>1924
+
+Thanks /cuckquean/. We appreciate your moral support. 
+
+>>1922
+
 it's been more than a month since Chobitsu has been offline. Has anything else came up yet? Also if you get any news regarding Chobitsu's whereabouts, can you please update everyone in the meta tread? Thanks, Euphoria**?**
 
 # 290
->>1925
+>>1925
+
 If I see Chobitsu I'll let everyone know. For now I'll keep things running as usual for anyone still interested in using the board.
 
 # 291
->>1922
->>1926
+>>1922
+
+>>1926
+
 Since he set up a bunker board on fatpeople.lol: it might be worth asking its admin, Tom, if he left some kind of contact.
 
 # 292
-This was posted over in the bunker so I figured I would post it here. 
+This was posted over in the bunker so I figured I would post it here. 
+
 **I miss chobitsu.**
 
 # 293
@@ -1758,14 +2171,19 @@ Don't die on me, /robowaifu/, you guys are absolute goddamn legends.
 t. a /fascist/
 
 # 294
->>1930
-We really need more researchers on this, Tay needs to be brought back.
+>>1930
+
+We really need more researchers on this, Tay needs to be brought back.
+
 t. another /fascist/
 
 # 295
->>1930
->>1931
-Thanks, guys. I am surprised /fascist/ would like /robowaifu/, I thought you guys would hate it. 
+>>1930
+
+>>1931
+
+Thanks, guys. I am surprised /fascist/ would like /robowaifu/, I thought you guys would hate it. 
+
 t. an additional /fascist/ and a /robowaifu/ technician.
 
 # 296
@@ -1781,9 +2199,12 @@ I'll try to spend more time around here and make a few posts here and there agai
 Thank you sir, I really appreciate you stepping up to watch out for us. It's much appreciated. Please continue in the role if you care to, you obviously care about the board's quality, and my schedule will only get wilder over the coming months I expect.
 
 # 297
->>1937
-I honestly didn't think you were ever coming back, good to see you. I was about to suggest I continue holding on to the board since you're busy, but you beat me to it.
-
+>>1937
+
+I honestly didn't think you were ever coming back, good to see you. I was about to suggest I continue holding on to the board since you're busy, but you beat me to it.
+
+
+
 Hope to see you posting again, you wouldn't believe how much this board has died.
 
 # 298
@@ -1793,12 +2214,18 @@ Glad to be here. Please feel welcome to hold on to the board. And this has alway
 Thanks again, see you around anon.
 
 # 299
->>1939
-Unless my memory is shit, back in 2019 it usually got posts every day. I used to lurk, it's a fun board.
-
->Heh, that will all change in a big way when we start getting our first breakthroughs in DIY, inexpensive robots though. 
-Hell yes, I like your optimism.
-
+>>1939
+
+Unless my memory is shit, back in 2019 it usually got posts every day. I used to lurk, it's a fun board.
+
+
+
+>Heh, that will all change in a big way when we start getting our first breakthroughs in DIY, inexpensive robots though. 
+
+Hell yes, I like your optimism.
+
+
+
 Feel free to drop by IRC for a chat.
 
 # 300
@@ -1832,7 +2259,8 @@ The code blocks from older posts are wonky, and a kindly anon pointed out how to
 Sure I'll stop in sometime. Rizon iirc?
 
 # 301
->>1949
+>>1949
+
 CSS is done. Yeah, we're on rizon.
 
 # 302
@@ -1850,15 +2278,21 @@ I'll stop in here now and again.
 About time for a new meta thread?
 
 # 305
->>1989
+>>1989
+
 Threads bumplock at 750, and this is a slow board %%:^)%%, so probably no new meta thread for quite a while
 
 # 306
->>1937
->>1939
-it's so nice to see you again man. I was actually gone from the internet myself as I'm taking care of some person task that require a lot of time. Things have been really crazy. I'm glad to see you again, really. I can't overstate that enough. I was actually the one speaking about your status as MIA to the other boards. I told fatchan's /robowaifu/, /cuckquean/, and I think I brought it up to /monster/  as well. I really thought we had lost you and I wanted to memorialize you as much as possible. Even some of the guys from /fascist/ came over and gave us some encouragement. 
-Anyways, thanks for coming back. I really feel a lot more comfortable now that you're here. I haven't been able to do any of my own programming due previously mentioned events taking place but after I am done, I'll see to it that it happens. Thanks for not killing over and dying. 
-
+>>1937
+
+>>1939
+
+it's so nice to see you again man. I was actually gone from the internet myself as I'm taking care of some person task that require a lot of time. Things have been really crazy. I'm glad to see you again, really. I can't overstate that enough. I was actually the one speaking about your status as MIA to the other boards. I told fatchan's /robowaifu/, /cuckquean/, and I think I brought it up to /monster/  as well. I really thought we had lost you and I wanted to memorialize you as much as possible. Even some of the guys from /fascist/ came over and gave us some encouragement. 
+
+Anyways, thanks for coming back. I really feel a lot more comfortable now that you're here. I haven't been able to do any of my own programming due previously mentioned events taking place but after I am done, I'll see to it that it happens. Thanks for not killing over and dying. 
+
+
+
 Also, a question to both euphoria and Chobitsu, who is the board owner now? I know that Euphoria said he'd hold the board as his own until Chobitsu got back so now that Chobitsu is back, is he the board owner? >>1939
 
 # 307
@@ -1883,7 +2317,8 @@ this is the robowaifu meta thread anon, so yea w/e is fine. we have The Lounge t
 can you give us more information about it? what does he do with it as far as you know of?
 
 # 312
->>2035
+>>2035
+
 There's a PDF about how to build one on the website (the parts you need, he said it would cost around $100 in total).  Other than that I think its a standard computer, just really small.  I don't really know what he does with it though.
 
 # 313
@@ -1891,7 +2326,8 @@ There's a PDF about how to build one on the website (the parts you need, he said
 i see. yeah, we traditionally had lots of posts with details about computers like this, including his RaspberryPi. the instructor of the electronics class thread here may take it back up again after he moves. in the meantime, i can probably answer any questions you may have about this kind of thing (i have like 10 microcontrollers r/n).
 
 # 314
-Possible banner: 
+Possible banner: 
+
 https://e-hentai.org/s/63eb950937/740799-1
 
 # 315
@@ -1929,9 +2365,12 @@ Note: the basic rules of not promoting feminism or literal faggotry outside The 
 Good luck anon.
 
 # 320
->>2265
-Thanks, I'm thinking of making a thread on /hgg/ for players to try it out and a thread here for technical discussion of the project with instructions on fine-tuning it with other datasets. Since it's a SFW board I'll leave out the lewd model and make the lewd code optional to keep it focused on the actual design and code.
-
+>>2265
+
+Thanks, I'm thinking of making a thread on /hgg/ for players to try it out and a thread here for technical discussion of the project with instructions on fine-tuning it with other datasets. Since it's a SFW board I'll leave out the lewd model and make the lewd code optional to keep it focused on the actual design and code.
+
+
+
 It'll be a few days before I make a thread yet. I still need to finish cleaning the code and let the model finish training. The test perplexity is at 27.8 and I'm aiming for 20.
 
 # 321
@@ -1939,11 +2378,16 @@ It'll be a few days before I make a thread yet. I still need to finish cleaning 
 Sounds like a good plan anon.
 
 # 322
-Where are all the robowaifu devs? Are they all researchers too busy with their projects? Lex Fridman said on Joe Roegan's podcast his dream is to build a robowaifu. Drunk Elon Musk said he wants to build robowaifus. But if you look around online there are almost no hobbyists actively working towards them. I can't even find people really interested in AI. They're dabblers and people chasing meme degrees while society is on the brink of complete transformation. It's bizarre as fuck.
-
-Like fuck we can turn pictures into flawless 3d scenes now. There are no brakes on this train.
-https://www.youtube.com/watch?v=nCpGStnayHk
-
+Where are all the robowaifu devs? Are they all researchers too busy with their projects? Lex Fridman said on Joe Roegan's podcast his dream is to build a robowaifu. Drunk Elon Musk said he wants to build robowaifus. But if you look around online there are almost no hobbyists actively working towards them. I can't even find people really interested in AI. They're dabblers and people chasing meme degrees while society is on the brink of complete transformation. It's bizarre as fuck.
+
+
+
+Like fuck we can turn pictures into flawless 3d scenes now. There are no brakes on this train.
+
+https://www.youtube.com/watch?v=nCpGStnayHk
+
+
+
 What can we create to bring people here? What are people looking for?
 
 # 323
@@ -1956,34 +2400,50 @@ Well at the very least I'd say some artfags here should create some 2B banners a
 As for serious though? I don't think robowaifus are even on most normalfags radars Anon. That could change practically overnight if someone like Elon Musk publicly got behind it when he ''wasn't'' drunk.
 
 # 324
->>2370
-There is a general understanding that we are lacking the technology, particularly around AI. So what would a man who wants to make /robowaifu/s real do? Why, they would work on advancements in AI. And that's basically what is happening. Elon Musk for example is working on AI for self-driving cars, which hopefully will lead to some breakthroughs in robowaifu development. Likewise all these neural net image scalers, deepfakes, the new Microsoft flight simulator. These are all setting the scene for what we can only hope will be significant advances in AI in our time.
-
+>>2370
+
+There is a general understanding that we are lacking the technology, particularly around AI. So what would a man who wants to make /robowaifu/s real do? Why, they would work on advancements in AI. And that's basically what is happening. Elon Musk for example is working on AI for self-driving cars, which hopefully will lead to some breakthroughs in robowaifu development. Likewise all these neural net image scalers, deepfakes, the new Microsoft flight simulator. These are all setting the scene for what we can only hope will be significant advances in AI in our time.
+
+
+
 Right now we have the technology to make some really nice looking dolls. You can buy them for a few thousand dollars. But without the AI, they will just be dolls.
 
 # 325
-Not necessarily complaining but I don't get why you feel the need to manually move discussions over to other threads.
-Though most would sperg out and delete them instead so I guess you got that going for you.
->Failed to move over the uploaded file while moving post that reacts to it.
+Not necessarily complaining but I don't get why you feel the need to manually move discussions over to other threads.
+
+Though most would sperg out and delete them instead so I guess you got that going for you.
+
+>Failed to move over the uploaded file while moving post that reacts to it.
+
 Sasuga Hotpocket.
 
 # 326
->>2374
->I don't think robowaifus are even on most normalfags radars Anon.
-Hopefully it stays that way as long as possible. Normans aren't going to bring anything to the table. I'm just baffled because the internet use to be full of strange, amazing, talented people who didn't give a fuck what anyone thought. Now 4chan and glowchan are soulless shouting matches of who can yell obey and conform the loudest. They don't even enjoy their own shitposting.
-
->>2380
-The software might not be there but the research is. If well-educated people started utilizing the bleeding edge in research right now they could make some amazing shit within a couple weeks or months of work. Researchers don't really bother with combining the latest developments that might have great economic or fun value because it doesn't really advance the field any further combining stuff that already exists. They're always pushing at the unknown. It's like how the internet was researched in the 1960's and didn't start seeing major development and public use until much later in the 1990's and still didn't become fully adopted until around 2016.
-
+>>2374
+
+>I don't think robowaifus are even on most normalfags radars Anon.
+
+Hopefully it stays that way as long as possible. Normans aren't going to bring anything to the table. I'm just baffled because the internet use to be full of strange, amazing, talented people who didn't give a fuck what anyone thought. Now 4chan and glowchan are soulless shouting matches of who can yell obey and conform the loudest. They don't even enjoy their own shitposting.
+
+
+
+>>2380
+
+The software might not be there but the research is. If well-educated people started utilizing the bleeding edge in research right now they could make some amazing shit within a couple weeks or months of work. Researchers don't really bother with combining the latest developments that might have great economic or fun value because it doesn't really advance the field any further combining stuff that already exists. They're always pushing at the unknown. It's like how the internet was researched in the 1960's and didn't start seeing major development and public use until much later in the 1990's and still didn't become fully adopted until around 2016.
+
+
+
 I'm hoping once I have a visual waifu that remembers conversations and has a voice synthesizer with emotions it will finally hit people over the head that there is a goldmine of research nobody is tapping into. And if that isn't enough I'll give her the ability to play SNES games or something. Maybe then we'll get some more skilled hobbyists working towards robowaifus.
 
 # 327
->>2414
->Researchers don't really bother with combining the latest developments that might have great economic or fun value because it doesn't really advance the field any further combining stuff that already exists. They're always pushing at the unknown. 
+>>2414
+
+>Researchers don't really bother with combining the latest developments that might have great economic or fun value because it doesn't really advance the field any further combining stuff that already exists. They're always pushing at the unknown. 
+
 Dumb, ignorant question, but isn't using research in practical applications what engineers are for? Like, software engineers?
 
 # 328
->>2415
+>>2415
+
 Yea, the application of scientific and technological knowledge to design, implement and maintain software. They're all debt slaves to the system though, busy working for megacorporations to squeeze even more money out of people. We are the robowaifu engineers now.
 
 # 329
@@ -2039,7 +2499,8 @@ Thanks Admin. I'll have to check in with Tom and watnot to see what his plans ar
 Heh, yea those girls are the best. :^)
 
 # 339
->>2620
+>>2620
+
 In the event that Julay doesn't keep this board around, are you planning on moving the full board onto fatchan or the cafe?
 
 # 340
@@ -2051,10 +2512,14 @@ It's obviously just a little too early yet to make strong assertions. As far as 
 So if your real question is ''"Will /robowaifu/ close down?"'' the answer is no, I mean to do what's in my power to keep it going ofc. Things will sort themselves out Anon. :^)
 
 # 341
->>2623
-I never doubted that /robowaifu/ would stay up. Hell, if it really came down to it I'd shelter you guys on my board, and I'm sure others would extend the same offer to you.
-**It must feel nice to be loved**
-
+>>2623
+
+I never doubted that /robowaifu/ would stay up. Hell, if it really came down to it I'd shelter you guys on my board, and I'm sure others would extend the same offer to you.
+
+**It must feel nice to be loved**
+
+
+
 I just wanted to know where I should look for you guys first once the event horizon has passed. It makes sense that you would feel confident in keeping everything on here though, since you're already in good with Robi.
 
 # 342
@@ -2064,9 +2529,12 @@ Heh, thanks! It's the community here that makes us special. :^)
 Yes, the plan has always been to regroup over at Fatchan if Julay ever went down. ATP I don't see a need to change that plan. BTW, Tom has been steadily going at it with JSChan. It's a real contender now in the ''Battle of IB software''.
 
 # 343
->>2629
-Not just special, but the kind of special that's good at making friends. ''Real'' friends. Your board and mine are the only two places on the web I even give a shit about anymore.
-
+>>2629
+
+Not just special, but the kind of special that's good at making friends. ''Real'' friends. Your board and mine are the only two places on the web I even give a shit about anymore.
+
+
+
 We've survived 8chan, so this should be a cake-walk in comparison **because at least this time we got some advance notice**. From one BO to another, I wish you the best, and as a user, I plan on sticking around no matter what.
 
 # 344
@@ -2087,28 +2555,44 @@ As before, we'll regroup at our bunker should the need arise.
 Robi plans on keeping /robowaifu/ on, so we'll be sticking around here as our home for the foreseeable future. The plan as always is to maintain a separate bunker which is at anon.cafe. Thanks for everyone's patience through this. Let's get back to those robowaifu studies! :^)
 
 # 346
->>2658
-You can set up encrypted group chats with https://tox.chat/ and tunnel the connections over Tor. Tox group bots are able to automatically invite users to group chats allowing for groups of people to connect and communicate using the group bot to host the chat without necessarily pre-sharing their Tox ID's:
-https://github.com/JFreegman/ToxBot
-Lex Fridman's Discord server separates different AI topics into different channels. We could probably do something similar with different group chats for each topic. It'd be fun to discuss research papers with people in a group but we don't really have that many people here yet.
-
->This topic is simply too controversial to be barebacking it.
-I agree. People are laughing now at the thought of autists playing video games in their rooms with robotic dolls but they won't be once they start cooking, cleaning, teaching, and looking 10x prettier than any human being. Those who know what the future holds are already pissed and not necessarily about robowaifu:
-https://www.youtube.com/watch?v=JVCEnIH56SY
-They're openly discussing a first strike as the only solution. What a time to be alive that people will soon want to murder you for trying to play video games with a doll.
-
-In my opinion we're gonna need a lot more man power though if we're gonna achieve robowaifus in our lifetimes. We have to lower the barrier to entry somehow and make it easy for people to get into building robowaifus and accessing things they wanna use, like Tox chat. I was thinking of setting up a server with MediaWiki on it so we don't have to worry about all our work being taken down and lost forever. Then we could collaborate on various tutorials and topics, dumping everything we know for others to use. People interested in topics on the wiki will naturally find it if it's useful and become involved here, instead of everyone smoldering along without any help trying to reinvent the wheel by themselves. It'll attract experienced people too. There are researchers and entrepreneurs who wanna build robowaifu but they don't have the time to study everything and get into the complexity of it. Making things easy is essential.
-
+>>2658
+
+You can set up encrypted group chats with https://tox.chat/ and tunnel the connections over Tor. Tox group bots are able to automatically invite users to group chats allowing for groups of people to connect and communicate using the group bot to host the chat without necessarily pre-sharing their Tox ID's:
+
+https://github.com/JFreegman/ToxBot
+
+Lex Fridman's Discord server separates different AI topics into different channels. We could probably do something similar with different group chats for each topic. It'd be fun to discuss research papers with people in a group but we don't really have that many people here yet.
+
+
+
+>This topic is simply too controversial to be barebacking it.
+
+I agree. People are laughing now at the thought of autists playing video games in their rooms with robotic dolls but they won't be once they start cooking, cleaning, teaching, and looking 10x prettier than any human being. Those who know what the future holds are already pissed and not necessarily about robowaifu:
+
+https://www.youtube.com/watch?v=JVCEnIH56SY
+
+They're openly discussing a first strike as the only solution. What a time to be alive that people will soon want to murder you for trying to play video games with a doll.
+
+
+
+In my opinion we're gonna need a lot more man power though if we're gonna achieve robowaifus in our lifetimes. We have to lower the barrier to entry somehow and make it easy for people to get into building robowaifus and accessing things they wanna use, like Tox chat. I was thinking of setting up a server with MediaWiki on it so we don't have to worry about all our work being taken down and lost forever. Then we could collaborate on various tutorials and topics, dumping everything we know for others to use. People interested in topics on the wiki will naturally find it if it's useful and become involved here, instead of everyone smoldering along without any help trying to reinvent the wheel by themselves. It'll attract experienced people too. There are researchers and entrepreneurs who wanna build robowaifu but they don't have the time to study everything and get into the complexity of it. Making things easy is essential.
+
+
+
 My dream is to create an online course where someone without any programming knowledge can learn the basics of Python and machine learning and know how to code their own visual waifu by the end of it that they can chat and play together with in OpenAI's retro gym. I think that would get a lot of people interested but that's at least 3-5 years away working on my own and I want a robowaifu right now.
 
 # 347
->>2662
-Good luck, Anon.  I wish you success.
+>>2662
+
+Good luck, Anon.  I wish you success.
+
 t. normalfag browsing the overboard
 
 # 348
->>2662
-
+>>2662
+
+
+
 Complete newfag to programming beyond basic Skyrim shit here. Learning faster then I thought I would though. I hope all this happens. Would be nice to have more resources available.
 
 # 349
@@ -2153,7 +2637,8 @@ But other than that one stipulation towards manhood & focus, I'm agreeable with 
 BTW, we have now hit the autosage limit (350) in this thread and it's time for a meta-2 as it were. If you feel so inclined Anon, create a new one (link back to this one in the OP pls), or I can do it myself as need warrants.
 
 # 353
->>2674
+>>2674
+
 I'm not very artistic, but I could definitely put up fliers around my university once it opens back up.
 
 # 354

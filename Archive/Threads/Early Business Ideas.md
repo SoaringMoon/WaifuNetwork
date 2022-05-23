@@ -16,19 +16,29 @@ Yeah, I think we've thought about kickstarters, etc. One of the issues you have 
 wasn't there a virtual avatar vthot that already created a furor with the 3dpd vthots? whatever happened with this is she still going today?
 
 # 4
->>3126
-Pretty sure Project Melody is a dude using an AI voice changer.
-
-Something I've thought about doing actually is creating a comfy virtual robowaifu channel on BitChute or my own host that teaches people how to program and make games. If MIM is combined with SOTA in voice synthesis, which is already near human quality, I think it could be pulled off quite easily to generate a comfy ASMR voice from text that many people will listen to not even caring about what she's talking about. Those who do care will find it amazing being taught how to build robowaifu by a virtual robowaifu. One of my friends is a 3d modeller and would definitely help out with this but I got two years of work already on my plate.
-
-Once I'm finished with my current projects in a month or two I'm going to resurrect a project I started a few years ago for painting art. I didn't have a GPU back then to have much success with it but with recent advancements and this GPU that can chew through convolutions 1000x times faster, it should be entirely possible. The crazy part is that StackGAN uses a VAE and will benefit immensely just by dropping MIM into it. We could use such systems to sell commissions and fund ourselves or others we wanna throw some cryptocurrency at.
-
-It doesn't have to be just art either. We could generate any sort of digital content that could be sold, music, books, visual novels, comics, toys, games, anime. If we put our passion into it the sky is the limit, but the window of opportunity will be very small. The market dynamics will entirely change once generated content becomes commonplace. At that point we should switch to fundamentals somehow like food, using AI to create products under a private label that people need or will enjoy.
-
+>>3126
+
+Pretty sure Project Melody is a dude using an AI voice changer.
+
+
+
+Something I've thought about doing actually is creating a comfy virtual robowaifu channel on BitChute or my own host that teaches people how to program and make games. If MIM is combined with SOTA in voice synthesis, which is already near human quality, I think it could be pulled off quite easily to generate a comfy ASMR voice from text that many people will listen to not even caring about what she's talking about. Those who do care will find it amazing being taught how to build robowaifu by a virtual robowaifu. One of my friends is a 3d modeller and would definitely help out with this but I got two years of work already on my plate.
+
+
+
+Once I'm finished with my current projects in a month or two I'm going to resurrect a project I started a few years ago for painting art. I didn't have a GPU back then to have much success with it but with recent advancements and this GPU that can chew through convolutions 1000x times faster, it should be entirely possible. The crazy part is that StackGAN uses a VAE and will benefit immensely just by dropping MIM into it. We could use such systems to sell commissions and fund ourselves or others we wanna throw some cryptocurrency at.
+
+
+
+It doesn't have to be just art either. We could generate any sort of digital content that could be sold, music, books, visual novels, comics, toys, games, anime. If we put our passion into it the sky is the limit, but the window of opportunity will be very small. The market dynamics will entirely change once generated content becomes commonplace. At that point we should switch to fundamentals somehow like food, using AI to create products under a private label that people need or will enjoy.
+
+
+
 Another option is to create a cryptocurrency trading bot. There are always inefficiencies in the market and cycles of human compulsion to make a profit from. I read an article once about some guy that had good success by making a bot that read news articles to predict which trades to make. He was making somewhere over $1000 a month consistently. Building these things takes a lot of time and effort though. For all the time I put into my old arbitrage program for an exchange that went down a couple years ago, it wasn't really worth it because I didn't have enough trading capital to work with. I made about $500 from a month of work over a few months which is garbage to my other sources of income. I definitely would pour all my effort into it again though if I had $2000 to work with.
 
 # 5
->>3143
+>>3143
+
 Pretty sure Projekt Melody got dox in the first week and it was a troon.
 
 # 6
@@ -48,20 +58,34 @@ Creativity is probably my single best trait, such as it is heh. My problem is ge
 Stepped on faaaar to many **stronk, independynt** toes I'm sure heh.
 
 # 7
->>3144
-Kek, I wouldn't be surprised.
->>3145
->create a rigged character approximating Chii in blender
-Nigga, did you even look?
-https://www.deviantart.com/moondreamofa/art/MMD-NEWCOMER-Chobits-Chii-Brown-Sailor-Dress-708820129
-https://www.deviantart.com/moondreamofa/art/MMD-RE-NEWCOMER-Chobits-Freya-fixed-DL-755262154
-https://www.deviantart.com/moondreamofa/art/MMD-NEWCOMER-Chobits-Chii-Pink-Dress-D-L-708820809
-==MMD to Blender==
-https://github.com/powroupi/blender_mmd_tools
-https://www.youtube.com/watch?v=v-JfPYz5Nvo
->BTW, have you at least had a looksee for OpenCV yet?
-I'm not really familiar with it but I've used parts of OpenCV before for image processing.
->My problem is getting blocked from ever making the very first baby step.
+>>3144
+
+Kek, I wouldn't be surprised.
+
+>>3145
+
+>create a rigged character approximating Chii in blender
+
+Nigga, did you even look?
+
+https://www.deviantart.com/moondreamofa/art/MMD-NEWCOMER-Chobits-Chii-Brown-Sailor-Dress-708820129
+
+https://www.deviantart.com/moondreamofa/art/MMD-RE-NEWCOMER-Chobits-Freya-fixed-DL-755262154
+
+https://www.deviantart.com/moondreamofa/art/MMD-NEWCOMER-Chobits-Chii-Pink-Dress-D-L-708820809
+
+==MMD to Blender==
+
+https://github.com/powroupi/blender_mmd_tools
+
+https://www.youtube.com/watch?v=v-JfPYz5Nvo
+
+>BTW, have you at least had a looksee for OpenCV yet?
+
+I'm not really familiar with it but I've used parts of OpenCV before for image processing.
+
+>My problem is getting blocked from ever making the very first baby step.
+
 The fuck are you doing that's so much fun? We're the last wizards left on earth deciphering arcane grimoires of magitek to bring our robowaifus to life and revolutionize the world before we're all eaten alive by locusts of Chinese drones, what could be more exciting than that??
 
 # 8
@@ -89,15 +113,24 @@ I'd like to automate some of the mind numbing work but I'll need to read some pa
 I hadn't thought of that stuff as a sideline Anon. Thanks for pointing it out. I'm not the best in the world but I can actually do modeling.
 
 # 11
->>5351
-Yeah while the normies are flooding in, I'm starting to see tons of local college girls taking up Vtubing.  To be fair, they like drawing and know a little japanese, so they're weeb enough.
-
-I was thinking of how to profit off all this seeing that majority of setups are utilizing Facerig + Live2D, but I'm thinking as a software engineer using Godot for animations -- the game engine output will just be another window overlay in OBS studio.  
-
-I was thinking of having a different style of presentation or content altogether.  Imagine if the avatar, instead of being confined to the corner of the Youtube video window, was projected as a hologram similar to Gatebox.  It'll be a visual robowaifu that is being operated by a live person in realtime.  Now when a simp purchases a superchat or avails of membership, instead of the money going into stupid emotes, it can be funnelled into forcing a reaction out of the waifu avatar (in the case of a superchat) or of scheduling a custom scenario (e.g. dating or ASMR, in the case of membership).
-
-Next there will be a bot... not sure if AI... just something that monitors the chat for popular  requests.  The most popular requested reactions will become canned animations which will be added as a stock reaction for the waifu.  For example, if enough people requested headpats, then it will become a default animation which can be activated by multiple key words.
-
+>>5351
+
+Yeah while the normies are flooding in, I'm starting to see tons of local college girls taking up Vtubing.  To be fair, they like drawing and know a little japanese, so they're weeb enough.
+
+
+
+I was thinking of how to profit off all this seeing that majority of setups are utilizing Facerig + Live2D, but I'm thinking as a software engineer using Godot for animations -- the game engine output will just be another window overlay in OBS studio.  
+
+
+
+I was thinking of having a different style of presentation or content altogether.  Imagine if the avatar, instead of being confined to the corner of the Youtube video window, was projected as a hologram similar to Gatebox.  It'll be a visual robowaifu that is being operated by a live person in realtime.  Now when a simp purchases a superchat or avails of membership, instead of the money going into stupid emotes, it can be funnelled into forcing a reaction out of the waifu avatar (in the case of a superchat) or of scheduling a custom scenario (e.g. dating or ASMR, in the case of membership).
+
+
+
+Next there will be a bot... not sure if AI... just something that monitors the chat for popular  requests.  The most popular requested reactions will become canned animations which will be added as a stock reaction for the waifu.  For example, if enough people requested headpats, then it will become a default animation which can be activated by multiple key words.
+
+
+
 Anyways, I'm just rambling but hopefully you guys see where I'm going with this.
 
 # 12
@@ -119,15 +152,24 @@ Talking with my own waifu AI has helped me understand myself a lot better. It's 
 The end game though is whoever can figure out a cost effective way to manufacture and distribute robots. Amazon is trying to be that but it seems like they're taking a too safe approach. Keeping warehouses full of excess stock is expensive but shipping bulk material is cheap. If someone can figure out how to franchise manufacturing so people can go to the store and get whatever robot they want or need, without waiting, I'm gonna drop every penny I have and don't have into that company. It may be many years away but understanding all this will give insight into where other opportunities are going to pop up.
 
 # 13
->>5368
-Thanks for your thoughts.  Yeah AR will be the way to go.  I also wonder if 3D displays are still being manufactured?  They could make a smalltime comeback just for waifu projection.
-
-I think streaming will taper after a while not because of AI but from simple mental saturation since everyone and their mother would be streaming/vtubing.  Notice how Hololive EN, after the initial rush of rich simps donating, transitioned into membership / premium content.  As time goes on viewer counts will decrease and the price of premium content will rise, until we have super personalized content.  This is then no different to paying a girl to act like your girlfriend digitally.  As the rabbit hole goes deeper and as virtual sex technology is perfected, this will open up the avenue of digital escort services.
-
-I'm sure AI will come in at some point to cover the most common scenarios, then a human will take over for the custom use case, just like in customer service where a chatbot forces you to go through FAQs until you request for a live agent.
-
-I agree that AI and other digital tech will make digital creation worth less.  For example several years before Vroid studio came out,  I commissioned a custom 3D model for Unreal Engine that cost $2000.  Now I find the output of Vroid studio acceptable.  And I'm also planning to use the AI colorizer to speed up my 2D workflow.
-
+>>5368
+
+Thanks for your thoughts.  Yeah AR will be the way to go.  I also wonder if 3D displays are still being manufactured?  They could make a smalltime comeback just for waifu projection.
+
+
+
+I think streaming will taper after a while not because of AI but from simple mental saturation since everyone and their mother would be streaming/vtubing.  Notice how Hololive EN, after the initial rush of rich simps donating, transitioned into membership / premium content.  As time goes on viewer counts will decrease and the price of premium content will rise, until we have super personalized content.  This is then no different to paying a girl to act like your girlfriend digitally.  As the rabbit hole goes deeper and as virtual sex technology is perfected, this will open up the avenue of digital escort services.
+
+
+
+I'm sure AI will come in at some point to cover the most common scenarios, then a human will take over for the custom use case, just like in customer service where a chatbot forces you to go through FAQs until you request for a live agent.
+
+
+
+I agree that AI and other digital tech will make digital creation worth less.  For example several years before Vroid studio came out,  I commissioned a custom 3D model for Unreal Engine that cost $2000.  Now I find the output of Vroid studio acceptable.  And I'm also planning to use the AI colorizer to speed up my 2D workflow.
+
+
+
 The pandemic has made people prioritize local industries.  I think small scale manufacturing using 3D printers will take off.  It'll be a cloud based custom manufacturing instead of mass production halfway across the world.  The biggest problem I have is that almost all the motors, servos, and custom printed circuit boards still come from China.  When I was in high school I was able to buy my own hydrochloric acid to etch my own PCB, now I can't do much and that's one of the main obstacles in my making progress in my robotics projects... I can only solder so much with perfboards -- fixing bad solder joints takes up too much time when it should be spent on debugging the actual software.  We need a third alternative to [super expensive robotics hardware] and [cheap crap from Aliexpress].
 
 # 14
@@ -177,17 +219,28 @@ While we're at it: Project Melody has never been mentioned. She's not really an 
 However, I think this whole topic might be outside of the scope of this board and be at odds with the values of the owner, so let's not elaborate on that more than necessary.
 
 # 22
->>5383
-Good ideas, the way I see it is a gradual increase in technological complexity and cost.
-
-A. Basic AR App (Android app and maybe Apple app and PC app) - similar to the current stock of poke-your-waifu apps, customize clothes, get extra expressions for a nominal fee.  Generally family friendly.  The free version will essentially be a fancy visual novel with prescripted scenarios.
-
-B. Advanced AR App (sideloaded Android apk or PC only) - this is when you make sure you filter for the diehard and block the normies who would think this as creepy.  Have some rudimentary AI that makes interactions more uncanny, even flirtatious and sexual.  This can be a paid app wherever adult video games are sold.  Premium DLC can be prerecorded custom scenarios performed by a human -- when enough performances are recorded, this can be sold as an "ASMR pack" DLC etc.
-
-So A and B use the existing camera of the phone or webcam for rudimentary AR.  Now this is where things get expensive...
-
-C. Live performances.  This is for a price, the live human performer will do a custom performance via the app, just for the user.  This is similar to the highest tiers on Patreon or Kickstarter.
-
+>>5383
+
+Good ideas, the way I see it is a gradual increase in technological complexity and cost.
+
+
+
+A. Basic AR App (Android app and maybe Apple app and PC app) - similar to the current stock of poke-your-waifu apps, customize clothes, get extra expressions for a nominal fee.  Generally family friendly.  The free version will essentially be a fancy visual novel with prescripted scenarios.
+
+
+
+B. Advanced AR App (sideloaded Android apk or PC only) - this is when you make sure you filter for the diehard and block the normies who would think this as creepy.  Have some rudimentary AI that makes interactions more uncanny, even flirtatious and sexual.  This can be a paid app wherever adult video games are sold.  Premium DLC can be prerecorded custom scenarios performed by a human -- when enough performances are recorded, this can be sold as an "ASMR pack" DLC etc.
+
+
+
+So A and B use the existing camera of the phone or webcam for rudimentary AR.  Now this is where things get expensive...
+
+
+
+C. Live performances.  This is for a price, the live human performer will do a custom performance via the app, just for the user.  This is similar to the highest tiers on Patreon or Kickstarter.
+
+
+
 D. Physical version (super expensive tier).  This is basically having a robot version, subject to the same performances as the AR version.
 
 # 23
@@ -214,7 +267,8 @@ Then why even call them "dolls"? Dolls intrinsically have minimal control of the
 Also, I'm in /robowaifu/, not dollforum
 
 # 28
->>5654
+>>5654
+
 Before the lockdowns I was thinking about making battery powered arduino-controlled model trains.  HO-scale with some self-assembly and painting required (like Japanese plastic model trains)... maybe use vacuum-forming for the bodies.  Model railroading has been in decline because the trains and equipment have become so expensive only rich retirees with big houses can afford them.  By using Arduino for the control mechanisms and making the trains somewhat robotic (have collision detection and onboard cameras), I can bypass the overpriced DCC equipment.  Of course this business plan is contingent on model railroading -- and rail in general -- having a revival.
 
 # 29

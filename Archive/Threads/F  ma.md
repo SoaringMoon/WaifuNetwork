@@ -217,7 +217,8 @@ Sorry for the long lag between posts. I'll have a bit more time for these posts 
 See pic for my translation of the next chunk. If you're having trouble with the markdown in the previous posts, I can convert those to images like this one.
 
 # 19
->>15002
+>>15002
+
 Ah, physics. I am familiar with calculus and remember some physics forumlas. Those classes had put these equations into more readable forms and often used derivatives of these and explained why. Linear algebra is something I’ve never heard of.
 
 # 20
@@ -241,19 +242,32 @@ If you want an intro to linear algebra, I would highly recommend 3blue1brown's v
 https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 
 # 21
->>15011
-
->When things like the order of operations matters, it becomes much more pressing to model your dynamics using a single equation.
-
-Though in some cases, mostly comparisons, its important to be able to clearly model the relationships between different functions. 
-
->So that's what the more abstract versions of these equations do. They let you model angular momentum better, and they let you merge equations more systematically. 
-
->Most of the complexity comes from the fact that the order of operations matters, which is why I need to say things like:
-
-Thank you for reminding me of some of the formulas I had forgotten about. Derivatives are a vital concept and can't tell if you meant 1/2(v*Gv) or if you meant it to be another ^ sign.
-
->You might have heard of vectors and matrices.
+>>15011
+
+
+
+>When things like the order of operations matters, it becomes much more pressing to model your dynamics using a single equation.
+
+
+
+Though in some cases, mostly comparisons, its important to be able to clearly model the relationships between different functions. 
+
+
+
+>So that's what the more abstract versions of these equations do. They let you model angular momentum better, and they let you merge equations more systematically. 
+
+
+
+>Most of the complexity comes from the fact that the order of operations matters, which is why I need to say things like:
+
+
+
+Thank you for reminding me of some of the formulas I had forgotten about. Derivatives are a vital concept and can't tell if you meant 1/2(v*Gv) or if you meant it to be another ^ sign.
+
+
+
+>You might have heard of vectors and matrices.
+
 Yes I have.  Though they were not really featured all that heavily at all. Its more helpful when programming a robowaifu's spatial recognition than anything.
 
 # 22
@@ -284,7 +298,7 @@ I kind of already have some of that. Both from my basic intellectual abilities, 
 So true. One of our goals here on /robowaifu/ is to make it reasonable and feasible for ''every-man'' to construct their own robot wives, as they see fit. Simplification of necessary complexity is a given.
 
 >I guess as a general note for anyone reading: if you want to understand this but have trouble doing so, let me know what your math & physics background is, and let me know the first point where you felt like you were in over your head.
-<and let me know the first point where you felt like you were in over your head.
+< and let me know the first point where you felt like you were in over your head.
 Lol, but there are so many! Primarily it's to do with unfamiliarity with math notations. I dropped out of school very early, and never got much by way of maths notation. My programming experience is entirely self-taught.
 >I've assumed familiarity with calculus and linear algebra.
 I understand the basic concepts behind integration and derivatives, but that's it. Just the basics. As for LinAlg, I grasp the basic ideas of Matrix and Vector operations, but again, very basic. I did however manage to piece together a few test case programs that would properly do matrix multiplications, etc.
@@ -315,12 +329,18 @@ Let me try to restate these as questions in my own words, and please evaluate my
 BTW I'd like ''both'' the image + the written text, if reasonable.
 
 # 26
->>15020
-It's hard to find a medium that will support everything. Colab seems like the best option right now since it supports markdown with embedded mathjax, and it will show both the rendered text and, when double-clicking a cell, the source text. If it ends up being useful, I can also add code examples in the script to make things more concrete.
-
-I updated my previous posts to use the new notation:
-- https://colab.research.google.com/drive/1kxQDLDL--WyFsTHEyXCdY1xOOrv1vEG1?usp=sharing
-
+>>15020
+
+It's hard to find a medium that will support everything. Colab seems like the best option right now since it supports markdown with embedded mathjax, and it will show both the rendered text and, when double-clicking a cell, the source text. If it ends up being useful, I can also add code examples in the script to make things more concrete.
+
+
+
+I updated my previous posts to use the new notation:
+
+- https://colab.research.google.com/drive/1kxQDLDL--WyFsTHEyXCdY1xOOrv1vEG1?usp=sharing
+
+
+
 I plan to keep that "script" up-to-date with future posts here.
 
 # 27
@@ -328,22 +348,38 @@ I plan to keep that "script" up-to-date with future posts here.
 Thanks for your response and for your efforts in this area Anon. It's much appreciated!
 
 # 28
->>15019
-That's correct. Note that the "volume" for energy should be 1-dimensional, like a path. I added an explanation to the script in >>15167, same as the attached image. Here's the text description.
----
-
-Objects move around and rotate in space. Every object has a position in that space, a mass, and a velocity.
-- The velocity describes the instantaneous change ($d/dt$) in position.
-- These quantities also define a momentum, which is $mass * velocity$. Momentum is a representation of how much an object resists slowing down to zero velocity. Momentum increases with mass and with velocity.
-- Instantaneous change ($d/dt$) in velocity is called acceleration.
-
-Changes to object positions are done indirectly. To change an object position, you need to apply a force, which provides an instantaneous change ($d/dt$) to momentum.
-- For the physics we're dealing with, forces don't change the mass of an object. Since changes in momentum can come from either changes in mass or changes in velocity and since forces don't change mass, all forces will result in some change in velocity (acceleration).
-
-The common approach is to represent forces through a potential field. A potential field is represented by some energy value at every point in the space. (If the space is flat, the potential field would be visualized by something like imaginary hills and valleys placed throughout the space.) You can calculate a force at any given point in the potential field by measuring the downward slope (negative $d/dx$).
-
-You can get a measure of "total force" as an object moves through a potential field by calculating $\int_{x_0}^{x_t} force(x) dx$. The result has units of type "force times distance", which is the same as energy. Since $force(x) = - \frac{d}{dx} potential(x)$, the integral is the same as $potential(x_0) - potential(x_t)$, which has units of the same type as the potential field. This means that the potential field assigns an energy value to each point $x$. Because of this, the potential field is also called potential energy.
-
+>>15019
+
+That's correct. Note that the "volume" for energy should be 1-dimensional, like a path. I added an explanation to the script in >>15167, same as the attached image. Here's the text description.
+
+---
+
+
+
+Objects move around and rotate in space. Every object has a position in that space, a mass, and a velocity.
+
+- The velocity describes the instantaneous change ($d/dt$) in position.
+
+- These quantities also define a momentum, which is $mass * velocity$. Momentum is a representation of how much an object resists slowing down to zero velocity. Momentum increases with mass and with velocity.
+
+- Instantaneous change ($d/dt$) in velocity is called acceleration.
+
+
+
+Changes to object positions are done indirectly. To change an object position, you need to apply a force, which provides an instantaneous change ($d/dt$) to momentum.
+
+- For the physics we're dealing with, forces don't change the mass of an object. Since changes in momentum can come from either changes in mass or changes in velocity and since forces don't change mass, all forces will result in some change in velocity (acceleration).
+
+
+
+The common approach is to represent forces through a potential field. A potential field is represented by some energy value at every point in the space. (If the space is flat, the potential field would be visualized by something like imaginary hills and valleys placed throughout the space.) You can calculate a force at any given point in the potential field by measuring the downward slope (negative $d/dx$).
+
+
+
+You can get a measure of "total force" as an object moves through a potential field by calculating $\int_{x_0}^{x_t} force(x) dx$. The result has units of type "force times distance", which is the same as energy. Since $force(x) = - \frac{d}{dx} potential(x)$, the integral is the same as $potential(x_0) - potential(x_t)$, which has units of the same type as the potential field. This means that the potential field assigns an energy value to each point $x$. Because of this, the potential field is also called potential energy.
+
+
+
 A lot of interesting equations result from the fact that force can be represented as either a negative slope ($-d/dx$) in an energy field or an instantaneous change ($d/dt$) in momentum.
 
 # 29
@@ -356,7 +392,8 @@ AUUUUUUUUGH! **:^)**
 I still haven't made time yet Anon. I haven't forgotten.
 
 # 31
-Some stuff for dance generation: https://expressivemachinery.gatech.edu/projects/luminai/
+Some stuff for dance generation: https://expressivemachinery.gatech.edu/projects/luminai/
+
 It looks like this is based on Viewpoint theory, which is a theory of improvisation. There's a book about it called "The Viewpoints Book".
 
 # 32

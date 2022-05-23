@@ -28,7 +28,8 @@ Yeah, the second mode is something I had in mind for a while. The third one is n
 For the second mode I think a a plughole in the back would be perfect, then she could wear a backpack or a belt with batteries. Another one in the foot, so if at home she stands somwhere to pose or dance, then she can be plugged in. Additionally, wireless charging might also be interesting. The one in the foot would also work for boots or motorized skater boots with additional batteries. This would need to be controlled by her computer, so maybe micro usb plugs in the feet can cover both cases, or otherwise we'd need some ethernet as well.
 
 # 6
->>5081
+>>5081
+
 OP here. I proposed 2kw because of the recent 30XX GPUs power usage(4*3090+ some power for CPU and etc.).My idea is more in the lines of 2-3 to week autonomous operation.She will be able to travel from town to town on her own
 
 # 7
@@ -96,10 +97,14 @@ This is just something I never understood. I don't get how eating or drinking is
 As far as energy sources are concerned, my plan is using a simple Atmospheric Motor (https://youtu.be/ENeDkGce5-4) to generate power continuously, figure out how to improve it so you don't need such a long antenna. I already mentioned it in another thread, >>13319 >>13281 my goal for long-term internal energy storage will be in EVO Enabled Vacuum Capacitors (https://youtu.be/TXC7-hfk7xs)
 
 # 18
->>13331
-lmao this is literally just an old school vacuum tube 
-the most retarded thing I've ever seen, the only people that shill vacuum tubes are cringe guitarists and people who think its still the 80s, normal people dont want giant inefficient pseudo capacitors that break after a single use 
-
+>>13331
+
+lmao this is literally just an old school vacuum tube 
+
+the most retarded thing I've ever seen, the only people that shill vacuum tubes are cringe guitarists and people who think its still the 80s, normal people dont want giant inefficient pseudo capacitors that break after a single use 
+
+
+
 and capacitors arent even storable, they discharge almost imminently after you cut power, theyre only purpose is to smooth out the current of a real chemical battery which dont produce a static flow
 
 # 19
@@ -112,8 +117,10 @@ You can make a point without being an asshole about it friend.
 No, they're a bit more complex than that, if you actually bother to read more. If it were just a vacuum there wouldn't have been a patent for it made in 2009: https://patents.google.com/patent/US9042083
 
 # 21
->>13342
-no its literally just a vacuum tube
+>>13342
+
+no its literally just a vacuum tube
+
 do you not know how patents work, vacuum tubes are 50+ years old the original patent has long been expired, anyone can now patent their own vacuum tube ( if you are retarded enough to actually do it because you dont understand vacuum tubes have been depreciated every since the invention of electrolytic capacitors or just a scam artists looking to reel in naive ESG investors that seem to be sprouting up like mushrooms )
 
 # 22
@@ -125,9 +132,12 @@ So it's supposed to be a form of supercap? I was considering to use them additio
 At least in the cases I know patents need to show some novelty. So there would need to be another use case at least, and some nontrivial adjustment.
 
 # 23
->>13355
-man please learn how patents work
-once an expired patent on a technology enters public domain all subsequent patents are nothing but trivial adjustments
+>>13355
+
+man please learn how patents work
+
+once an expired patent on a technology enters public domain all subsequent patents are nothing but trivial adjustments
+
 if you really dont see that its just a vacuum tube you need to get vaccinated
 
 # 24
@@ -137,10 +147,14 @@ I know how patents work, to some extent. You wrote nothing to debunk my point. Y
 At least a while ago we had some requirements for patents in Germany. Don't know if they changed that. No novelty, no patent. If you define some novelty as trivial or not, doesn't matter. Trivial ideas were not patentable.
 
 # 25
->>13362
-yeah you dont know how patents work, do you want me to cite the thousands of patents on chocolate bars or the laughable court cases from Mars
-the grantors use the legal definition of novelty, ie. not currently patented ( in its entirety ), the only difference is patents can not make use of already existing active patents without licensing, you cannot make trivial changes on an active patent and then patent it but in the case of a patent that has already expired and became public like vacuum tubes or chocolate bars,  patents based on trivial and highly specific details are allowed since no licensing is needed for the original idea, like with that retard company Mars patenting a caramel coated, peanut chocolate bar, the patents are on the specification not the actual idea of the chocolate bar which has gone into public use and no longer patentable, which is why they lost everytime they tried to sue other companies in patent disputes
-
+>>13362
+
+yeah you dont know how patents work, do you want me to cite the thousands of patents on chocolate bars or the laughable court cases from Mars
+
+the grantors use the legal definition of novelty, ie. not currently patented ( in its entirety ), the only difference is patents can not make use of already existing active patents without licensing, you cannot make trivial changes on an active patent and then patent it but in the case of a patent that has already expired and became public like vacuum tubes or chocolate bars,  patents based on trivial and highly specific details are allowed since no licensing is needed for the original idea, like with that retard company Mars patenting a caramel coated, peanut chocolate bar, the patents are on the specification not the actual idea of the chocolate bar which has gone into public use and no longer patentable, which is why they lost everytime they tried to sue other companies in patent disputes
+
+
+
 and my manners arent bad, I call out bullshit when called for
 
 # 26
@@ -150,16 +164,26 @@ Aside from the exaggeration by claiming I would  know nothing, I was only wonder
 More importantly, you also wrote nothing on the topic of functionality. If it could work or not. Just calling it a vacuum tube and picking unnecessary fights.
 
 # 27
->>13364
->functionality
-fucking look at it, are you blind, firstly its a vacuum tube, possibly the most inefficient way to make a capacitor because it cant be coiled like a real capacitor, you are limited to a single sheet, using only a single sheet would mean it would need to be gigantic to match the capacitance of a modern coiled capacitor, this is why they stopped being used in the first place
-second, the design is literally retarded, the anode plate[2] is flush with glass[4], and you want to use this as a capacitor!!
-do you know what happens to metal when you pass a current through it - it heats up
-do you know what happens to metal when it heats up - it expands 
-do you know what happens to glass - nothing
-this thing will break due to thermal stress almost immediately after its first cycle, this is just another fake venture capitalist scam that is designed to siphon investor funding, its not a real product and the company has no intention on making a real product, its a scam, the fact anyone takes this seriously is laughable yet I'm not even surprised in todays age,  anyone with any background in electronics however would laugh at this because its so openly retarded 
-
->whatever you wrote before functionality
+>>13364
+
+>functionality
+
+fucking look at it, are you blind, firstly its a vacuum tube, possibly the most inefficient way to make a capacitor because it cant be coiled like a real capacitor, you are limited to a single sheet, using only a single sheet would mean it would need to be gigantic to match the capacitance of a modern coiled capacitor, this is why they stopped being used in the first place
+
+second, the design is literally retarded, the anode plate[2] is flush with glass[4], and you want to use this as a capacitor!!
+
+do you know what happens to metal when you pass a current through it - it heats up
+
+do you know what happens to metal when it heats up - it expands 
+
+do you know what happens to glass - nothing
+
+this thing will break due to thermal stress almost immediately after its first cycle, this is just another fake venture capitalist scam that is designed to siphon investor funding, its not a real product and the company has no intention on making a real product, its a scam, the fact anyone takes this seriously is laughable yet I'm not even surprised in todays age,  anyone with any background in electronics however would laugh at this because its so openly retarded 
+
+
+
+>whatever you wrote before functionality
+
 I dont even know what you wrote, maybe youre confused between patent rights and trademarks
 
 # 28

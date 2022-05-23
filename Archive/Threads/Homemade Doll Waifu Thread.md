@@ -23,15 +23,24 @@ No it doesn't. An important aspect of making lovable waifubots for anons is to b
 Good luck anon, please keep us posted.
 
 # 3
-Seeing current replies to months old threads when the OP might not be here to respond is why I think you should post the original creation date(06/27/18) and a link to the archive(http://archive.is/fZCiJ) admin. Anyone interested can also read the previous replies.
-
-This guy tried casting and molding a small test item and didn't succeed. Which is a good idea as he didn't jump into making a large expensive doll right away.
-
-The outer covering might be the most expensive and difficult part of creating a sex doll. It might be easier and cheaper to buy parts from Chinese TPE/TPU dolls and modifying them than making your own.
-
->>373
-You're right about what currently sells as 'sex dolls' they're just expensive huge chunks of cold plastic that generally look disgusting. That was the general consensus on the old board at the time when this thread was posted.
-
+Seeing current replies to months old threads when the OP might not be here to respond is why I think you should post the original creation date(06/27/18) and a link to the archive(http://archive.is/fZCiJ) admin. Anyone interested can also read the previous replies.
+
+
+
+This guy tried casting and molding a small test item and didn't succeed. Which is a good idea as he didn't jump into making a large expensive doll right away.
+
+
+
+The outer covering might be the most expensive and difficult part of creating a sex doll. It might be easier and cheaper to buy parts from Chinese TPE/TPU dolls and modifying them than making your own.
+
+
+
+>>373
+
+You're right about what currently sells as 'sex dolls' they're just expensive huge chunks of cold plastic that generally look disgusting. That was the general consensus on the old board at the time when this thread was posted.
+
+
+
 I've looked into what the special effects guys are doing and the silicon they use is very expensive and so are the specialized tools they use for proper casting.
 
 # 4

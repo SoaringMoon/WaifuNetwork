@@ -51,7 +51,8 @@ Eh how the hell do you use this thing? Is it even possible to interact with this
 It's kind of a botnet if it's relying on a cloud anyway, so yea we'll need to devise our own Anon.
 
 # 11
->>4078
+>>4078
+
 I agree, it seems to be a bit useless at its current stage and the "chatbot" if it can be called as it is even worse than the ParlAI I tested. I tried following the steps that removes this cloud feature and it doesn't seem to be working, welp.
 
 # 12
@@ -59,10 +60,14 @@ I agree, it seems to be a bit useless at its current stage and the "chatbot" if 
 You might have a look at the TacoTron thread Anon. The more current version (not sure if it's linked in that thread yet) seems to be doing a breddy gud job of TTS. I think a simple patch to say TalkToWaifu to turn it's output into speech should be both doable and would be a nice addition to what we currently have going here. Good luck Anon.
 
 # 13
->>4081
->You might have a look at the TacoTron thread Anon. The more current version (not sure if it's linked in that thread yet) seems to be doing a breddy gud job of TTS.
-Alright I check that one out soon. 
-> I think a simple patch to say TalkToWaifu to turn it's output into speech should be both doable and would be a nice addition to what we currently have going here. Good luck Anon.
+>>4081
+
+>You might have a look at the TacoTron thread Anon. The more current version (not sure if it's linked in that thread yet) seems to be doing a breddy gud job of TTS.
+
+Alright I check that one out soon. 
+
+> I think a simple patch to say TalkToWaifu to turn it's output into speech should be both doable and would be a nice addition to what we currently have going here. Good luck Anon.
+
 That would be definitely great, though I'm myself just a programmer pleb and I am busy doing other project types which is more text game related not (robo-)waifu, so I cannot add those functionalities myself.
 
 # 14

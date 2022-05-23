@@ -38,10 +38,14 @@ Please feel free to try though.
 Patience will be your number one virtue for this endeavor anon, b/c it will be a long, hard road. It will be doable in the end though.
 
 # 7
-> I just know that a supernatural force guided me here
-is this anon still around?
-I can relate, and also 2B is my fav robowaifu 
-I've had a lot of dreams and strange, "spiritual" inclinations leading me to this point. Although this group has a few Christians which I'm fine with since we're all in this together, I have always felt like the movement to further AI was a kind of religion in its own right, but the AI gf or waifu is a newer thing to me. It was over 20 years ago that I first read Ray Kurzweil (parentheses if you like but it was a good book) Age of Spiritual Machines where he larps a bit about a character's granddaughter marrying an AI, and similar topics. I remember arguing with a GF of mine that robots could eventually become sentient, that there was nothing inherent in DNA or "carbon based life form" that made us special. Years later I had a dream out of the blue about a robot (that I owned I guess) trying to convince me that its love for me was real, I was a little shaken and moved by this dream but forgot it until the topic came up later on the chans. Watched Armitage III, but that didn't really resonate with me even though I liked the idea. Chobits was something I couldn't put down though, close to the ending there were a few nights I only got 2-3 hours sleep because I was binging it. Kowarekage no Orgel left me a teary mess. We definitely need more of this genre that hits home, a lot of it seems tangential or sensational.
+> I just know that a supernatural force guided me here
+
+is this anon still around?
+
+I can relate, and also 2B is my fav robowaifu 
+
+I've had a lot of dreams and strange, "spiritual" inclinations leading me to this point. Although this group has a few Christians which I'm fine with since we're all in this together, I have always felt like the movement to further AI was a kind of religion in its own right, but the AI gf or waifu is a newer thing to me. It was over 20 years ago that I first read Ray Kurzweil (parentheses if you like but it was a good book) Age of Spiritual Machines where he larps a bit about a character's granddaughter marrying an AI, and similar topics. I remember arguing with a GF of mine that robots could eventually become sentient, that there was nothing inherent in DNA or "carbon based life form" that made us special. Years later I had a dream out of the blue about a robot (that I owned I guess) trying to convince me that its love for me was real, I was a little shaken and moved by this dream but forgot it until the topic came up later on the chans. Watched Armitage III, but that didn't really resonate with me even though I liked the idea. Chobits was something I couldn't put down though, close to the ending there were a few nights I only got 2-3 hours sleep because I was binging it. Kowarekage no Orgel left me a teary mess. We definitely need more of this genre that hits home, a lot of it seems tangential or sensational.
+
 That's my experience though I'd just share that here
 
 # 8

@@ -25,8 +25,10 @@ In this thread we discuss various CAD software for the purpose of making access 
 Post software, tutorials, tips and tricks you've learned, etc. Let's make designing waifus easier for each other!
 
 # 3
-I've tried out ManuelBastioniLAB and it's very comprehensive while easy to use. It's been discontinued and forked into the MB-Lab project now.
-https://mb-lab-community.github.io/MB-Lab.github.io/
+I've tried out ManuelBastioniLAB and it's very comprehensive while easy to use. It's been discontinued and forked into the MB-Lab project now.
+
+https://mb-lab-community.github.io/MB-Lab.github.io/
+
 There's a way to add in genitals or remove the modesty coverings but the default program doesn't include them in order to get around strict pornography laws in European jurisdictions.
 
 # 4
@@ -35,8 +37,10 @@ There's a way to add in genitals or remove the modesty coverings but the default
 Ah, thanks for the update anon. Dollfan would be glad to know I imagine. Any way of ''adding'' the genitalia feature back into the program you know of? Asking for a friend.
 
 # 5
-It's been awhile since I've used it and I can't find any information on how to do so as manuelbastioni.com/guide_tips.php is down.
-
+It's been awhile since I've used it and I can't find any information on how to do so as manuelbastioni.com/guide_tips.php is down.
+
+
+
 Trying it out in Blender 2.8 I have no idea what's going on with this new UI. Ah got it, go into edit mode and select the MBlab_generic material. Assign the MBlab_human_skin to it and it's replaced. Hopefully this webm helps, don't know why the mouse pointer isn't showing up.
 
 # 6
@@ -88,16 +92,26 @@ Learn how to use shape keys before you mess with them.
 smutba.se/project/21/
 
 # 14
->>442
-Testing to see if I can use spoilers when javascript isn't enabled. If it doesn't work I won't post anything lewd on here from now on.
->>474
-Too add to the sources list as Tumblr has banned pornography since that post was made;
-https://chan.sankakucomplex.com/?tags=3d
-https://gelbooru.com/index.php?page=post&s=list&tags=3d
-https://e621.net/post/index/1/3d_%28artwork%29 (furry)
-https://ecchi.iwara.tv/?language=en Found this video on their front non-ecchi page
-https://yiff.party/bbs/read/21351
-https://e-hentai.org/tag/3d
+>>442
+
+Testing to see if I can use spoilers when javascript isn't enabled. If it doesn't work I won't post anything lewd on here from now on.
+
+>>474
+
+Too add to the sources list as Tumblr has banned pornography since that post was made;
+
+https://chan.sankakucomplex.com/?tags=3d
+
+https://gelbooru.com/index.php?page=post&s=list&tags=3d
+
+https://e621.net/post/index/1/3d_%28artwork%29 (furry)
+
+https://ecchi.iwara.tv/?language=en Found this video on their front non-ecchi page
+
+https://yiff.party/bbs/read/21351
+
+https://e-hentai.org/tag/3d
+
 Deviant Art and Pixiv I'm not familiar with so can't say much about them.
 
 # 15
@@ -235,7 +249,8 @@ Blender's 2019 reel
 https://www.invidio.us/watch?v=Kik4iZp5mjE
 
 # 41
->>1183
+>>1183
+
 Man that's an outdated infographic. The newer ones changed the layout so I knew it was old just at a glance.
 
 # 42
@@ -243,16 +258,26 @@ Man that's an outdated infographic. The newer ones changed the layout so I knew 
 great, thanks anon.
 
 # 43
-I'm surprised nobody mentioned the newer Illusion games, they allow for quite a bit of customization of 3d models and since it uses the Unity engine it can be easily exported for use in other 3d editors. As games or VR sex simulators they're not very good, better to use them as an animation studio or model builder.
-
-There's also a huge community making their own characters and sharing them online on imageboards or on boorus thanks to the 'card' save feature. Just find a character you like, save the .png card into your UserData/chara/female/ folder and it's ready to use.
-https://illusioncards.booru.org/index.php?page=post&s=list
-https://kenzato.uk/booru/explore (needs an account to see everything)
-https://www.pixiv.net/search.php?word=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84 (needs an account to see everything)
-
-I'd recommend trying out Koikatsu as it's the most popular one at the moment and there's a newer torrent out that includes all the most important mods preinstalled.
-https://sukebei.nyaa.si/view/2849724
-
+I'm surprised nobody mentioned the newer Illusion games, they allow for quite a bit of customization of 3d models and since it uses the Unity engine it can be easily exported for use in other 3d editors. As games or VR sex simulators they're not very good, better to use them as an animation studio or model builder.
+
+
+
+There's also a huge community making their own characters and sharing them online on imageboards or on boorus thanks to the 'card' save feature. Just find a character you like, save the .png card into your UserData/chara/female/ folder and it's ready to use.
+
+https://illusioncards.booru.org/index.php?page=post&s=list
+
+https://kenzato.uk/booru/explore (needs an account to see everything)
+
+https://www.pixiv.net/search.php?word=%E3%82%B3%E3%82%A4%E3%82%AB%E3%83%84 (needs an account to see everything)
+
+
+
+I'd recommend trying out Koikatsu as it's the most popular one at the moment and there's a newer torrent out that includes all the most important mods preinstalled.
+
+https://sukebei.nyaa.si/view/2849724
+
+
+
 I spent a dozen hours in it and the UI is still feels odd but very simple compared to dedicated 3d programs. I mostly screw around in the Chara Studio program rather than the main game. Unfortunately most of the community for it hangs out on Discord but you find guides for it and tips on installing it with Wine on the HGames Wiki.
 
 # 44
@@ -260,11 +285,16 @@ I spent a dozen hours in it and the UI is still feels odd but very simple compar
 I don't vidya much these days anon **never did really tbh** too tied up with school and coding. That sounds interesting though. You mentioned you've spent some time in it. Any chance you show us some of your results? Not prying just curious what's being done by anons here.
 
 # 45
->>1506
-I'm just screwing around in it so I don't have anything to show off, I thought about giving an example with that post but just clicking on any of the links will provide some. At first I tried it out for the character modeling but the animation studio is what I find the most useful. This video gives an idea of how it works.
-
-It's more of a simulator with 3d models than a game, the reason why I think it's pertinent to this board is you can pipe the chroma keyed video output of animated characters for several purposes. I remember one guy on here wanted to make a virtual desktop assistant program and this would be perfect for that.
-
+>>1506
+
+I'm just screwing around in it so I don't have anything to show off, I thought about giving an example with that post but just clicking on any of the links will provide some. At first I tried it out for the character modeling but the animation studio is what I find the most useful. This video gives an idea of how it works.
+
+
+
+It's more of a simulator with 3d models than a game, the reason why I think it's pertinent to this board is you can pipe the chroma keyed video output of animated characters for several purposes. I remember one guy on here wanted to make a virtual desktop assistant program and this would be perfect for that.
+
+
+
 The aspect I'm most interested in is using it with AR/VR which I'm having trouble to get working as the VR version is designed for the main game to work with the Vive headset and that whole ecosystem isn't something I'm interested in. I'm currently doing tests having two programs running and slightly changing the camera angle. By binding headset tracking to the camera on both instances it should work.
 
 # 46
@@ -276,11 +306,16 @@ I'm not exactly sure I understand how the details of the chroma key function wil
 I hope you can figure out how to do VR w/o relying on the commercial Vive, etc. platforms. Open-source VR gear when?
 
 # 47
->>1508
-The chroma keying works by selecting a solid color background like in this video. Then sending the output of the window into ffmpeg using gdigrab you use -filter_complex 'colorkey=0x<color>' to remove the color. Then there are many ways to display a transparent video output with characters on your desktop depending on the DE/WM you use.
-
-The animation is what really surprised me with Chara Studio, I'm used to standard 3d software where you have to waste time rendering to see if it's any good and it takes forever to learn all the intricacies. With this software it's all live and through easy to select FK/IK options you can modify the basic animations. Of which there are a lot of.
-
+>>1508
+
+The chroma keying works by selecting a solid color background like in this video. Then sending the output of the window into ffmpeg using gdigrab you use ```-filter_complex 'colorkey=0x<color>'``` to remove the color. Then there are many ways to display a transparent video output with characters on your desktop depending on the DE/WM you use.
+
+
+
+The animation is what really surprised me with Chara Studio, I'm used to standard 3d software where you have to waste time rendering to see if it's any good and it takes forever to learn all the intricacies. With this software it's all live and through easy to select FK/IK options you can modify the basic animations. Of which there are a lot of.
+
+
+
 And by this time next year I expect OpenXR to be usable with a third party tracking solution that's supported, it should already work right now. They can output video to almost all the headsets out right now but the issue is position data.
 
 # 48
@@ -300,11 +335,16 @@ PS. Moar Chii tbh! :^)
 I'll give it a look anon, thanks for bringing it up.
 
 # 51
-To keep this on topic there's also the Custom Maid 3D series that's similar to Koikatsu. You can find a 122gb torrent for it on nyaa.si
-
->>1510
-OpenXR is made by the Khronos group and they're the people who are behind the OpenGL replacement Vulkan so industry support is guaranteed.
-
+To keep this on topic there's also the Custom Maid 3D series that's similar to Koikatsu. You can find a 122gb torrent for it on nyaa.si
+
+
+
+>>1510
+
+OpenXR is made by the Khronos group and they're the people who are behind the OpenGL replacement Vulkan so industry support is guaranteed.
+
+
+
 As for tracking that's a whole different can of worms, there's NOLO VR that's not very well supported but works at the moment and Valve's lighthouse system that's currently being reverse engineered through libsurvive. I'd give VR another year or two to mature before buying into it as it's still a mess. And even then buy something cheap and used.
 
 # 52
@@ -563,10 +603,14 @@ Indeed. Let the virtual waifu armies arise!!
 One of my favorite things about Blender is how it's entirely self-contained, cross-platform, no install needed. Drag-and-drop and it just werks. Honestly, I can't think of a single other large program that does this as well. **OTOH, building it all from ''source'' can be a bit rough! :^)**
 
 # 96
-This isn't so much a tool per se but I learned most of what I know about 3D modelling from watching Shonzo make anime models from scratch. Often he uses screencast keys during his streams so you can see the hotkeys he uses during his workflow. Posting this here since there isn't really a general 3D modelling thread or art thread.
-https://www.youtube.com/watch?v=lNFUPVBy1vk
-
-https://www.twitch.tv/shonzo
+This isn't so much a tool per se but I learned most of what I know about 3D modelling from watching Shonzo make anime models from scratch. Often he uses screencast keys during his streams so you can see the hotkeys he uses during his workflow. Posting this here since there isn't really a general 3D modelling thread or art thread.
+
+https://www.youtube.com/watch?v=lNFUPVBy1vk
+
+
+
+https://www.twitch.tv/shonzo
+
 https://www.youtube.com/c/Shonzo/videos
 
 # 97
@@ -612,7 +656,8 @@ Not him, but I definitely like what Grant Abbitt does Anon.
 Seethe and cope more, Mr Reddit
 
 # 104
->>12105
+>>12105
+
 Shonzo is an ass with a lot of stupid hot takes but I like his models and prefer learning by watching people work than explaining everything. Also VR Chat models are a good source of income. I don't know why you're so salty about it.
 
 # 105
@@ -1069,17 +1114,25 @@ This here >>13721 is related to Vroid Studio and why it isn't good for modelling
 I wonder which other programs won't work for similar reasons. Also, I was impressed with the option of laying out the skin in Vroid Studio. This might be useful for creating some textile part and/or mold for a silicone skin and also adding sensors to it. I only saw this in a video and wonder if that works in other programs as well.
 
 # 131
->>13741
-The problem of skinning a complex 3D topological shell down into a flat 2D plane is both an interesting one, and one that's important to us here on /robowaifu/ (particularly to say, our papercraft waifu Anons). It's also fairly challenging to do well, as I'm sure our 3D modelling Anons who are doing meticulous UV layouts know right well.
-
-However, please do try to avoid the grotesque while you're here Anon, it's not really our thing on /robowaifu/.
-
->===
+>>13741
+
+The problem of skinning a complex 3D topological shell down into a flat 2D plane is both an interesting one, and one that's important to us here on /robowaifu/ (particularly to say, our papercraft waifu Anons). It's also fairly challenging to do well, as I'm sure our 3D modelling Anons who are doing meticulous UV layouts know right well.
+
+
+
+However, please do try to avoid the grotesque while you're here Anon, it's not really our thing on /robowaifu/.
+
+
+
+>===
+
 -''minor grammar edit''
 
 # 132
-Blender is getting closer to being a full featured CAD suite.
-
+Blender is getting closer to being a full featured CAD suite.
+
+
+
 https://www.youtube.com/watch?v=92QmjS-xDaI
 
 # 133

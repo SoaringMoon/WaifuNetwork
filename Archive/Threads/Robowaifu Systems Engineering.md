@@ -239,11 +239,16 @@ One other thing I neglected to specifically point out, notice how using nested e
 Fl_Double_Window{rect.origin.x, rect.origin.y, rect.w, rect.h, title}```
 
 # 16
->>4646
-Indeed, that is a lot cleaner Anon.
-The issue I hear about a lot is the overuse of objects (having too many object hierarchies which just make understanding the code worse. In your case this is nice and simple though.
-Currently I'm passing structs in in order to increase clarity.
-
+>>4646
+
+Indeed, that is a lot cleaner Anon.
+
+The issue I hear about a lot is the overuse of objects (having too many object hierarchies which just make understanding the code worse. In your case this is nice and simple though.
+
+Currently I'm passing structs in in order to increase clarity.
+
+
+
 How do I post code btw? The julay page doesn't show how.
 
 # 17

@@ -32,7 +32,7 @@ As long as no abuse goes on here as a direct result of your actions ITT, then I 
 On that topic, we have a CLI tool created here for this board called 'Waifusearch'. It's a primitive search tool that can do phrase lookups, and provides convenient hyperlinks to thread posts. The links for building & using this tool can be found in the OP of the ''Library Index'' thread.
 
 >with your blessing board owner sir.
-<sir
+< sir
 Kek, my name is 'Anon' here, same as everyone else. :^) Note: so-called 'name-fagging' is welcome here on /robowaifu/, unlike ''most'' IBs. Feel free to go by '''''Em Elle E''''' as you care to, Anon.
 
 >I will make the announcements here.
@@ -90,7 +90,8 @@ Well, I'm the OP of that thread and outlined a couple of ideas. I was chugging a
 Thanks. My guess is OpenAI Gym won't run at all on a toaster. I mean for mine to be able to do so well in fact.
 
 # 14
->Support via Patreon
+>Support via Patreon
+
 I don't have any money.
 
 # 15
@@ -170,14 +171,22 @@ Debt in particular must be cleared at the earliest opportunity. It enslaves you 
 Sorry if I hijacked your thread to talk about my chosen solution to the world's problems Em Elle E. But if you and your team do manage to eventually code a robowaifu development and interaction suite then I will certainly buy a copy and integrate it into my "machine collective". Also willing to support you on Patreon for sure. If your A.I needs a lot of power and compute, then it will just be up to me to work hard and save hard until I can afford the necessary upgraded hardware (then be patient and buy smart). Godspeed to you and your team!
 
 # 24
-This is really interesting development and I am keeping an eye on this.  Sure, it's a guy working in BigTech, but a closet weeb who knows where the efforts should be going.  Until you are literally cancelled, I suggest you keep that job in BigTech to sustain you until your projects are doing well in primetime.
-
-There's no harm in trying to get a few dollars here and there in your efforts as well -- Kibo-chan the moving doll 's maker (basically the cutest robot on JP Twitter) sells his STL files and has a Patreon as well.  You might want to check him out to see realistic expectations for how much a waifu project would actually bring in -- and that's actually one of the most popular ones on the internet.
-
-Speaking of which, I noticed there are many software people now compared to a few years ago.  This is great, this is where the applications for the waifus would advance.  I'm a hardware person, though unfortunately I can't advance in my projects since I'm living with my mother again (senior citizens prohibited from venturing outside during pandemic and lockdowns are decided upon every two weeks depending on escalations).  I'm working on robotic RC cars in the meantime to advance my hardware knowledge while consolidating notes on good mechanical practices for my long-term humanoid projects.
-
-Desktop apps are a good entry step.  For example I like Mihoyo's N0va (Yoyo) Lumi she's very well rendered but she's too mired in chinese culture and I don't appreciate everything that's supposed to make her cute.  To get maximum waifu effect, she can run on a big screen TV in portrait mode, the life-size appearance will enhance her presence.  Alternately, you can make an Android app, then you can take your tablet and stick it into a DIY shoebox holographic projector.  For a hardware perspective, this will also enable you to just stick a phone into a physical robot's head and only have to worry about the subsystems that will link to the motor controllers and sensors.
-
+This is really interesting development and I am keeping an eye on this.  Sure, it's a guy working in BigTech, but a closet weeb who knows where the efforts should be going.  Until you are literally cancelled, I suggest you keep that job in BigTech to sustain you until your projects are doing well in primetime.
+
+
+
+There's no harm in trying to get a few dollars here and there in your efforts as well -- Kibo-chan the moving doll 's maker (basically the cutest robot on JP Twitter) sells his STL files and has a Patreon as well.  You might want to check him out to see realistic expectations for how much a waifu project would actually bring in -- and that's actually one of the most popular ones on the internet.
+
+
+
+Speaking of which, I noticed there are many software people now compared to a few years ago.  This is great, this is where the applications for the waifus would advance.  I'm a hardware person, though unfortunately I can't advance in my projects since I'm living with my mother again (senior citizens prohibited from venturing outside during pandemic and lockdowns are decided upon every two weeks depending on escalations).  I'm working on robotic RC cars in the meantime to advance my hardware knowledge while consolidating notes on good mechanical practices for my long-term humanoid projects.
+
+
+
+Desktop apps are a good entry step.  For example I like Mihoyo's N0va (Yoyo) Lumi she's very well rendered but she's too mired in chinese culture and I don't appreciate everything that's supposed to make her cute.  To get maximum waifu effect, she can run on a big screen TV in portrait mode, the life-size appearance will enhance her presence.  Alternately, you can make an Android app, then you can take your tablet and stick it into a DIY shoebox holographic projector.  For a hardware perspective, this will also enable you to just stick a phone into a physical robot's head and only have to worry about the subsystems that will link to the motor controllers and sensors.
+
+
+
 Anyways, thanks for posting.
 
 # 25
@@ -204,10 +213,14 @@ LOL she's looking good! Takes a whole heap of work to model, texture, rig and an
 BTW do you have a Patreon page setup or did I just miss the link somewhere?
 
 # 27
->>10453
-> digital assistant kiosk
-Like Gatebox Grande?
-
+>>10453
+
+> digital assistant kiosk
+
+Like Gatebox Grande?
+
+
+
 You can take it a step further and make like Joi in Bladerunner with her ability to leap from one TV screen to another.
 
 # 28
@@ -391,9 +404,12 @@ Sure nprb. Godspeed.
 What is the minimum hardware requirement for your program? I hope it doesn't require a super computer to run it.
 
 # 51
->>10557
-Out of curiosity, does DirectX 11 offer something that is not achievable with Vulkan/OpenGL? Or is it because the engine you are using works better under DirectX? Because DirectX is available only for Windows OS and I'm running GNU/Linux. Well at least there is a program that translates I think at least DirectX 10 calls to Vulkan calls so its not troublesome. 
->8-16GB RAM
+>>10557
+
+Out of curiosity, does DirectX 11 offer something that is not achievable with Vulkan/OpenGL? Or is it because the engine you are using works better under DirectX? Because DirectX is available only for Windows OS and I'm running GNU/Linux. Well at least there is a program that translates I think at least DirectX 10 calls to Vulkan calls so its not troublesome. 
+
+>8-16GB RAM
+
 hmm it sounds a bit too much for a single program though I cannot tell what kind features you are going for that needs so much RAM.
 
 # 52
@@ -450,10 +466,14 @@ Kek, could be, could be. Thanks for the philosophical tidbit, but a healthy dose
 You too. I hope you live up to your promises Anon, it will be a nice step forward for us here if you do.
 
 # 57
->>10573
-Ah okay thanks for the full explanation, I was kinda worried that you guys weren't bothering with performance that much.
-
->We plan to support Linux in the future, but it will not be able to have a wallpaper mode. Linux support is currently low priority in our development roadmap, due to far more people using Windows,
+>>10573
+
+Ah okay thanks for the full explanation, I was kinda worried that you guys weren't bothering with performance that much.
+
+
+
+>We plan to support Linux in the future, but it will not be able to have a wallpaper mode. Linux support is currently low priority in our development roadmap, due to far more people using Windows,
+
 Linux is big enough that even Steam bothers contributing to this eco system, also Linux is the defacto standard in almost any server hosting. Also here is some pointers https://wiki.winehq.org/Developer_FAQ#Independent_Software_Vendor_Questions so adding support is in most cases good enough if native Linux support is too much for you.
 
 # 58
@@ -462,8 +482,10 @@ Linux is big enough that even Steam bothers contributing to this eco system, als
 Interesting. Any idea how that works, Anon?
 
 # 59
->>10595
-I think it means first create a wineprefix then test out the first 2-3 Wine version to figure out which one works the best and when one just works out of a box then do whatever other changes is needed and release that as a "linux" version. Oh and if possible use POSIX calls instead of Windows calls, maybe those programs are suitable for this MinGW or Cygwin https://en.wikipedia.org/wiki/POSIX#POSIX_for_Microsoft_Windows 
+>>10595
+
+I think it means first create a wineprefix then test out the first 2-3 Wine version to figure out which one works the best and when one just works out of a box then do whatever other changes is needed and release that as a "linux" version. Oh and if possible use POSIX calls instead of Windows calls, maybe those programs are suitable for this MinGW or Cygwin https://en.wikipedia.org/wiki/POSIX#POSIX_for_Microsoft_Windows 
+
 To create a wineprefix: https://wiki.winehq.org/FAQ#Wineprefixes so when you create a new wineprefix it contains well only the standard things so no extra libraries or anything of that sort.
 
 # 60
@@ -481,10 +503,14 @@ So I sent out a copy to a OG member of the doxxcord, that anon had a GTX 285 vid
 That sounds pretty encouraging so far. Thanks for the update Anon.
 
 # 63
-Is there any evidence of OP's waifu program other than the audio samples and videos that could have been thrown together pretty easily? What is there? A GPT model of which we don't have any concrete example, a speech synthesizer allegedly running realtime, and a barebones single model scene in the default unity skybox. All this from an alleged FAGMAN engineer working on it either between jobs or on sabbatical. Until someone posts a decent demonstration video I'm just going to assume this is someone fishing for patreon handouts on the hopes and dreams of naive anons.
-
->>10573
->We plan to support Linux in the future, but it will not be able to have a wallpaper mode.
+Is there any evidence of OP's waifu program other than the audio samples and videos that could have been thrown together pretty easily? What is there? A GPT model of which we don't have any concrete example, a speech synthesizer allegedly running realtime, and a barebones single model scene in the default unity skybox. All this from an alleged FAGMAN engineer working on it either between jobs or on sabbatical. Until someone posts a decent demonstration video I'm just going to assume this is someone fishing for patreon handouts on the hopes and dreams of naive anons.
+
+
+
+>>10573
+
+>We plan to support Linux in the future, but it will not be able to have a wallpaper mode.
+
 Get some balls and just say you don't know anything about Linux and won't support it except as lazily as you can with your mediocre closed source unity animation player. It's trivial to draw to the root X window, and wayland probably has something similar.
 
 # 64
@@ -544,8 +570,10 @@ LOL that is awesome progress on Em Elle E! Her voice is particularly impressive.
 Also, I get the feeling some folks are probably waiting for the first beta (alpha?) release before commiting to support the project on Patreon.
 
 # 73
->>10898
-Haha yeah I am gonna switch to using glow tts which uses phones to fix that issue, but will take two weeks to train.
+>>10898
+
+Haha yeah I am gonna switch to using glow tts which uses phones to fix that issue, but will take two weeks to train.
+
 And on the second comment yeah I think that’s the case, I still find it strange though how some people can market something that doesn’t exist and under deliver and yet get funding. We should have a AI based chat in two weeks, then I’ll work on the speech to text which was partially in a fine state :)
 
 # 74
@@ -595,54 +623,84 @@ The ghettos will inevitably destroy themselves at some point anyway, even if it 
 Besides, both the ancient Germanic and much later Tolkien elves have always been regarded as a more intelligent but isolationist species compared to humans. So enclaves of smart programmers and engineers are probably the closest IRL human analogue to elven and wizard enclaves. In this respect, I hope that you continue programming for the good of human and robot kind, even if it's not WaifuEngine. You will be a beacon of enlightenment amongst the swelling seas of ignorance.
 
 # 78
-Are you going to write it in LISP?
-
->>10557
+Are you going to write it in LISP?
+
+
+
+>>10557
+
 I'm sorry, why do I need 16GB of ram to run this? I haven't ran that much ram while running multiple VMs and hundreds of threads. Why do I need graphics drivers to run an AI?
 
 # 79
->>11249
-I can see why OP stopped posting here and ignored everyone but Sophie dev… Being someone from the software industry… who trains ML models if OP is doing a self contained version.They are effectively running a server on your machine.
- Any server that performs inference requires high specs…  if it’s a transformer model can easily be 3.0GB in memory either in ram or gpu if you do text processing. I am sure you can optimize this post release. 
+>>11249
+
+I can see why OP stopped posting here and ignored everyone but Sophie dev… Being someone from the software industry… who trains ML models if OP is doing a self contained version.They are effectively running a server on your machine.
+
+ Any server that performs inference requires high specs…  if it’s a transformer model can easily be 3.0GB in memory either in ram or gpu if you do text processing. I am sure you can optimize this post release. 
+
 It doesn’t make sense to you because you are a retard and a faggot.
 
 # 80
->>11255
->Being someone from the software industry… who trains ML models if OP is doing a self contained version
-
+>>11255
+
+>Being someone from the software industry… who trains ML models if OP is doing a self contained version
+
+
+
 They are running a server? Amazing, take all my ram
 
 # 81
->>11258
-I don't think you should work with nvidia for obvious reasons. Or if they aren't obvious, nvidia has a track-record of producing crap 
-
->>11257
->the renderer uses 700mb the speech model is around 300mb when loaded into memory, the bot framework and language model around 1-2gb
-
+>>11258
+
+I don't think you should work with nvidia for obvious reasons. Or if they aren't obvious, nvidia has a track-record of producing crap 
+
+
+
+>>11257
+
+>the renderer uses 700mb the speech model is around 300mb when loaded into memory, the bot framework and language model around 1-2gb
+
+
+
 That's a lot different than using 16gb. I'm not sure what "deep learning" is other than a marketing buzzword. Can you explain in simple terms what you are doing?
 
 # 82
->>11265
-Yeah, I'm being objective. Nvidia has a track-record of crappy products and driver / kernel issues.
-
-https://www.youtube.com/watch?v=_36yNWw_07g
-
-There's a lot of stuff that runs a "local server on my machine". This is also called a computer. For any program, 16GB is excessive. 
-
-I appreciate you trying to clearly express what you are doing. But I'm not sure that I really see the foundation here. I'm looking at some of these academic papers, and I'm seeing a lot of words, but not much meaning. One problem with academics is that they feel the need to constantly dickwave, so they write in an inaccessible and pretentious way. They also love to invent problems that don't exist, and to pursue useless forms of knowledge. I unfortunately am probably going to have to read through all of this before I can reply to you. 
-
->11267
-There's nothing to ignore. If you're writing a program and it takes up 16GB, you should be criticized. You might know more about this specific subfield than I do, but using nvidia and using directx are probably not good ideas.
-
->>11266
+>>11265
+
+Yeah, I'm being objective. Nvidia has a track-record of crappy products and driver / kernel issues.
+
+
+
+https://www.youtube.com/watch?v=_36yNWw_07g
+
+
+
+There's a lot of stuff that runs a "local server on my machine". This is also called a computer. For any program, 16GB is excessive. 
+
+
+
+I appreciate you trying to clearly express what you are doing. But I'm not sure that I really see the foundation here. I'm looking at some of these academic papers, and I'm seeing a lot of words, but not much meaning. One problem with academics is that they feel the need to constantly dickwave, so they write in an inaccessible and pretentious way. They also love to invent problems that don't exist, and to pursue useless forms of knowledge. I unfortunately am probably going to have to read through all of this before I can reply to you. 
+
+
+
+>11267
+
+There's nothing to ignore. If you're writing a program and it takes up 16GB, you should be criticized. You might know more about this specific subfield than I do, but using nvidia and using directx are probably not good ideas.
+
+
+
+>>11266
+
 I'm not an incel m8, lmao. But thanks
 
 # 83
->>11269
+>>11269
+
 Isn't this supposed to be a free software project?
 
 # 84
->>11274
+>>11274
+
 also, no one is going to buy your proprietary project. This is supposed to be a basis for a free software project, not your startup. I would never, ever pay you a fee for what you're working on, especially if it runs on 16GB of ram
 
 # 85
@@ -674,52 +732,86 @@ No.
 For a place like Valinor to exist, it would have to be virtual.
 
 # 89
-I have to agree with OP do you remember the last time someone posted a thread asking for preorders on a sex robot with a shitty render and fake looking website for it? It was maybe 2 years ago on the 8ch board, I archived the site but don't remember the details. If you start allowing ebegging or scam threads this place will become infested with them.
-
+I have to agree with OP do you remember the last time someone posted a thread asking for preorders on a sex robot with a shitty render and fake looking website for it? It was maybe 2 years ago on the 8ch board, I archived the site but don't remember the details. If you start allowing ebegging or scam threads this place will become infested with them.
+
+
+
 I don't mind someone asking for financial help on their project but to start it off that way is a huge red flag of being a scam.
 
 # 90
->namefag circlejerk
->e-begging
->you must use the cuck license
+>namefag circlejerk
+
+>e-begging
+
+>you must use the cuck license
+
 Please stop advertising your board on /g/, the culture here isn't compatible
 
 # 91
->>11302
->living neet lyfe
->goes in search of robo waifu 
->harasses anons who is building robo waifu
->complains about license 
->expects robowaifu for free
+>>11302
+
+>living neet lyfe
+
+>goes in search of robo waifu 
+
+>harasses anons who is building robo waifu
+
+>complains about license 
+
+>expects robowaifu for free
+
 Did your parents drop you on your head anon?
 
 # 92
->>11303
-More accurately
->faggots spam this board on /g/ under any thread remotely related to it
->Browse the board, see tons of retarded posts, everything from people actually seriously considering paying metal refineries for aluminum cogs in 2021, to people writing AI in DirectX
->Post criticism
->Admin locks the fucking thread (LOL)
->Developer immediately goes into a meltdown and then tries to delete any trace of their work
->Browse more threads, see some interesting stuff, but all of it has to be licensed under MIT license, almost specifically for the purpose of allowing the same faggot to make their crappy proprietary DirectX software
-
+>>11303
+
+More accurately
+
+>faggots spam this board on /g/ under any thread remotely related to it
+
+>Browse the board, see tons of retarded posts, everything from people actually seriously considering paying metal refineries for aluminum cogs in 2021, to people writing AI in DirectX
+
+>Post criticism
+
+>Admin locks the fucking thread (LOL)
+
+>Developer immediately goes into a meltdown and then tries to delete any trace of their work
+
+>Browse more threads, see some interesting stuff, but all of it has to be licensed under MIT license, almost specifically for the purpose of allowing the same faggot to make their crappy proprietary DirectX software
+
+
+
 All I'm asking is please stop posting on /g/ if you don't want people with my perspective to come here. Stay in your weird bubble of the internet. And that's my last post on this board
 
 # 93
->>11306
->thinks namefag anon controls what goes on /g/
->speaks for all /g/
->wants robo waifu 
->under 16 gb of ram calls it “perspective”
->name fag anon says he’ll optimize later
->name fag anon says fok you and some other anon says fok you
->realizes incel moment and being a team red and stallman cuck
->gets called retarded across multiple threads
->responds to post so this gets ranked higher
-> to draw more attention to this weird Zoomer VTuber shit
-
-With all due respect …
-Anon I think this accurately describes what happened here.
+>>11306
+
+>thinks namefag anon controls what goes on /g/
+
+>speaks for all /g/
+
+>wants robo waifu 
+
+>under 16 gb of ram calls it “perspective”
+
+>name fag anon says he’ll optimize later
+
+>name fag anon says fok you and some other anon says fok you
+
+>realizes incel moment and being a team red and stallman cuck
+
+>gets called retarded across multiple threads
+
+>responds to post so this gets ranked higher
+
+> to draw more attention to this weird Zoomer VTuber shit
+
+
+
+With all due respect …
+
+Anon I think this accurately describes what happened here.
+
 There’s some “perspective” for you
 
 # 94
@@ -754,32 +846,52 @@ Based on my engagement personally with you in one of my threads, I'm inclined to
 Alright, I've tidied up the thread a bit. Just let me know if I've missed anything anons.
 
 # 96
->>11308
+>>11308
+
 Yes, I am a dumb nigger. If I can post without having to license my stuff under MIT I'll post my crap here. I'll try not to hurt anyone's feelings
 
 # 97
->>11268
-you a poor fag?
-64GB of ram is like a standard for the PC master race.
-
-Right you subscribe to the cult of neck beard Richard cuckman makes sense.
-
->>11275
-There are legit 130 people on his discord lined up waiting for this…
-
->>Yeah, I'm being objective. Nvidia has a track-record of crappy products and driver / kernel issues.
-
-Legit steam metrics show that almost all gamers have an Nvidia GPU
-76.09% of all steam users.
-
-Anon have you ever considered that you don’t understand numbers?
+>>11268
+
+you a poor fag?
+
+64GB of ram is like a standard for the PC master race.
+
+
+
+Right you subscribe to the cult of neck beard Richard cuckman makes sense.
+
+
+
+>>11275
+
+There are legit 130 people on his discord lined up waiting for this…
+
+
+
+>>Yeah, I'm being objective. Nvidia has a track-record of crappy products and driver / kernel issues.
+
+
+
+Legit steam metrics show that almost all gamers have an Nvidia GPU
+
+76.09% of all steam users.
+
+
+
+Anon have you ever considered that you don’t understand numbers?
+
 That’s why OP won’t explain DL to you and ignores you?
 
 # 98
->>11308
->I'm entirely unaware of anyone 'spamming' /robowaifu/ anywhere
-I've seen it brought up on 4chan's /g/ more frequently than usual in the last month as threads about erotic VR software are becoming more popular.
-
+>>11308
+
+>I'm entirely unaware of anyone 'spamming' /robowaifu/ anywhere
+
+I've seen it brought up on 4chan's /g/ more frequently than usual in the last month as threads about erotic VR software are becoming more popular.
+
+
+
 The guy's anger at unethical proprietary software or the state of software licensing is understandable but seems misplaced here. I'd like to think that most people here would agree with the 4 freedoms principle.
 
 # 99
@@ -791,171 +903,273 @@ Heh, that's fine lad. I'd suggest you adopt the ''L''GPL if you're going that ro
 Sounds like some leftist commie stuff Anon. We're adamantly opposed to leftism here because of it's highly destructive nature. Please move this discussion to the Lounge if you'd like to pursue it though, thanks.
 
 # 100
->>11324
-I'm at 50gb and could upgrade to around 150gb if I wanted
+>>11324
+
+I'm at 50gb and could upgrade to around 150gb if I wanted
+
 Steam destroyed PC gaming
 
 # 101
->>11324
+>>11324
+
 I really don't see what there is to explain, it seems so fucking convoluted that I think anyone would have a hard time summarizing it. Again, I think the problem is that Academic retards want to show how big their brainpeen is so they write academic papers in the most complex language possible. Partially so their papers can't be easily refuted during review, and partially to try to keep knowledge private. I don't really blame the OP for that. I'll try to read the stuff and write a simpler guide to it
 
 # 102
->>11329
->Deep Learning or Rebranded Neural Networks is a mathematical technique called super auto correlation, it finds relationships between data in high dimensions to model your objective function. i.e learns from data.
-
-Not him
-Was lurking before thought I would jump in.
-Op explained it here? This makes sense to me anon..
-It seems like many posts made by you infer a you centric world
-Nvidia being trash? Another anon and OP pointed out that not be the case using numbers imagine that.
-
->Any sufficiently advanced technology is indistinguishable from magic
-I work on the biz side of tech and for someone like you I would say it learns from the data and makes decisions for you.
-
->Academic retards want to show how big their brainpeen is so they write academic papers in the most complex language possible. Partially so their papers can't be easily refuted during review, and partially to try to keep knowledge private
-
-For physics yeah… not for deep learning if you just do a search on Google search Deep Learning for wanna be technology professionals.You will find code that lets you reproduce their results and those researchers are lauded for that.
-
-> write a simpler guide to it
-For you to read? 
-
->>11328
+>>11329
+
+>Deep Learning or Rebranded Neural Networks is a mathematical technique called super auto correlation, it finds relationships between data in high dimensions to model your objective function. i.e learns from data.
+
+
+
+Not him
+
+Was lurking before thought I would jump in.
+
+Op explained it here? This makes sense to me anon..
+
+It seems like many posts made by you infer a you centric world
+
+Nvidia being trash? Another anon and OP pointed out that not be the case using numbers imagine that.
+
+
+
+>Any sufficiently advanced technology is indistinguishable from magic
+
+I work on the biz side of tech and for someone like you I would say it learns from the data and makes decisions for you.
+
+
+
+>Academic retards want to show how big their brainpeen is so they write academic papers in the most complex language possible. Partially so their papers can't be easily refuted during review, and partially to try to keep knowledge private
+
+
+
+For physics yeah… not for deep learning if you just do a search on Google search Deep Learning for wanna be technology professionals.You will find code that lets you reproduce their results and those researchers are lauded for that.
+
+
+
+> write a simpler guide to it
+
+For you to read? 
+
+
+
+>>11328
+
 >Talks about disk space as it was ram
 
 # 103
->>11328
-Kek
+>>11328
+
+Kek
+
 You should post this on /g/ and see what people say
 
 # 104
->>11332
+>>11332
+
 No, fag, I mean ram. I'm not confused with disk space, lmfao. You people are really incredibly arrogant
 
 # 105
->>11334
+>>11334
+
 Not everyone runs a gay ass fucking RGB nu-PC to play steam, some of us have actual computing infrastructure, we don't need to lease stuff on le cloud
 
 # 106
->>11330
+>>11330
+
 Only a fucking retard reads something like that and thinks "yeah, makes sense :^), I have no questions". Not surprising you're a business brainlet
 
 # 107
->>11333
+>>11333
+
 I have, and they agreed
 
 # 108
->>11337
+>>11337
+
 DRM and monopolizing gaming platforms objectively ruined PC gaming and turned it into awful twitch streamer casual crap for normies, I really miss downloading weird shit and everything having its own executable, being a retard and getting hacked, playing GunZ the Duel late at night, kino times
 
 # 109
->>11330
->> write a simpler guide to it
->For you to read? 
-
-"An idiot admires complexity, while a genius appreciates simplicity" - Terry A. Davis
-
+>>11330
+
+>> write a simpler guide to it
+
+>For you to read? 
+
+
+
+"An idiot admires complexity, while a genius appreciates simplicity" - Terry A. Davis
+
+
+
 Hopefully, a simple guide will get rid of the soymale gatekeeping around this emerging technology. I'll try to write something that any average chucklefuck can read and begin writing their own stuff. Really is important that we get to this stuff before FAAGMAN / glowies try to monopolize it and create barriers to entry
 
 # 110
->>11338
->misses being retard
-> is retard 
-> claims to have infrastructure … wants to get hacked by shitty executable
+>>11338
+
+>misses being retard
+
+> is retard 
+
+> claims to have infrastructure … wants to get hacked by shitty executable
+
 Wut?
 
 # 111
->>11339
->gatekeeping around this emerging technology
-> misses being retarded
-> is retarded
-Not him
-Lmfao
-There’s your gate anon
+>>11339
+
+>gatekeeping around this emerging technology
+
+> misses being retarded
+
+> is retarded
+
+Not him
+
+Lmfao
+
+There’s your gate anon
+
 Talks about ram upgrades in base 10 dah fok
 
 # 112
->>11342
+>>11342
+
 >2gb ram doesn't exist
 
 # 113
->>11342
->uses big words like base 10 to show how smart he is
+>>11342
+
+>uses big words like base 10 to show how smart he is
+
 Amazing, I bet you know what weighting means too. You are so much smarter than me
 
 # 114
->>11343
-Not him
-
-Yeah totes anon.
-
+>>11343
+
+Not him
+
+
+
+Yeah totes anon.
+
+
+
 https://www.amazon.ca/Memory-2GB-Computer-Components/s?rh=n%3A677244011%2Cp_n_size_browse-bin%3A1233312011&page=3
 
 # 115
->>11345
->amazon
+>>11345
+
+>amazon
+
 not clicking that shit nigger
 
 # 116
->>11347
->Because you are getting dog piled for the things you have said. I guess ill help you out.
-
-You're still writing gay bloated code in a crappy language for the worst operating system imaginable
-
->>11347
->If were being realistic...if that's your goal you are already 20 years too late. The technology is already a commodity held by FAAGMAN.
-
-Crap written in python that takes up over 9,000 GB is not a commodity, there will be a tech stock collapse during this decade similar to the dotcom bubble pop
-
-
-
-
->>11347
->if you don't understand linear algebra and basic calculus there is no way to explain to someone what this technology is because they are missing the foundation. So you are better off saying, it's magic or it learns from data to make a decision.
-
-Really not hard to learn basic math
-
->>11347
->it's a black box 
+>>11347
+
+>Because you are getting dog piled for the things you have said. I guess ill help you out.
+
+
+
+You're still writing gay bloated code in a crappy language for the worst operating system imaginable
+
+
+
+>>11347
+
+>If were being realistic...if that's your goal you are already 20 years too late. The technology is already a commodity held by FAAGMAN.
+
+
+
+Crap written in python that takes up over 9,000 GB is not a commodity, there will be a tech stock collapse during this decade similar to the dotcom bubble pop
+
+
+
+
+
+
+
+
+
+>>11347
+
+>if you don't understand linear algebra and basic calculus there is no way to explain to someone what this technology is because they are missing the foundation. So you are better off saying, it's magic or it learns from data to make a decision.
+
+
+
+Really not hard to learn basic math
+
+
+
+>>11347
+
+>it's a black box 
+
 that's the point
 
 # 117
->>11347
->I feel bad for you, I don't think anyone taught you to communicate well. This resulted in probably a tough life for you and alienation and isolation. 
-
+>>11347
+
+>I feel bad for you, I don't think anyone taught you to communicate well. This resulted in probably a tough life for you and alienation and isolation. 
+
+
+
 Based on your other posts about imageboards, and the fact that you have a name on here, it's clear that you're more of a normie than me. I hope you understand that I don't have any ill-will towards you, and I'm not trying to make you feel bad. It's in jest and good humor
 
 # 118
->>11349
+>>11349
+
 My advice is again that I think you're working with frameworks that are bloated and you would be better off trying to narrow it. Intuitively, 16GB seems like a lot. My guess is that the people who are writing the libraries for this stuff have convoluted understanding of what is actually going on, and more work could be done to make this stuff simpler. There is no reason for needless complexity
 
 # 119
->>OP is nice to anon
->>Anon writes blocks of ideas and opinions of the ideology of Richard Stallman
->>Wants to get hacked by clicking exes has server
->>Doesn’t think ram is designed in powers of 2
->>Talks about efficiency doesn’t realize OP is optimizing for market capture
->> too autistic to click a link proving him wrong
->> says a little math isn’t too hard. Legit ignores every number.
-
-Gonna side with OP, sounds like something hurt you bad, probably when you clicked that gunz malware and it took down your infrastructure 
+>>OP is nice to anon
+
+>>Anon writes blocks of ideas and opinions of the ideology of Richard Stallman
+
+>>Wants to get hacked by clicking exes has server
+
+>>Doesn’t think ram is designed in powers of 2
+
+>>Talks about efficiency doesn’t realize OP is optimizing for market capture
+
+>> too autistic to click a link proving him wrong
+
+>> says a little math isn’t too hard. Legit ignores every number.
+
+
+
+Gonna side with OP, sounds like something hurt you bad, probably when you clicked that gunz malware and it took down your infrastructure 
+
 Lulz
 
 # 120
->>11351
+>>11351
+
 And nigger, I know what is written on the fucking sticks of ram inside of my machine. It's 2gb. Seethe more zoomie
 
 # 121
->>11354
->I felt bad that there were all these anons dog piling you for no reason over confusion.
-
-Part of the advantage of having an anonymous image board is that you can't tell who is talking. The advantage of this is you can develop ideas in a chaotic way that cannot be replicated with hierarchical ordered cultures
-
-The format incentives posting material that is ridiculous, offensive, true, funny, or some combination of the above
-
-Because this board is kind of small it's not the same, but hopefully more people will start posting here
-
-I also feel kind of bad because I didn't realize that the board culture here was a mixture, I thought it was supposed to be like /g/ which is very chaotic and offensive
-
+>>11354
+
+>I felt bad that there were all these anons dog piling you for no reason over confusion.
+
+
+
+Part of the advantage of having an anonymous image board is that you can't tell who is talking. The advantage of this is you can develop ideas in a chaotic way that cannot be replicated with hierarchical ordered cultures
+
+
+
+The format incentives posting material that is ridiculous, offensive, true, funny, or some combination of the above
+
+
+
+Because this board is kind of small it's not the same, but hopefully more people will start posting here
+
+
+
+I also feel kind of bad because I didn't realize that the board culture here was a mixture, I thought it was supposed to be like /g/ which is very chaotic and offensive
+
+
+
 My post isn't so much about your specific project but that just in general, I think that the language and scholarship around DL / ML is convoluted and could use a simple guide, especially for people who aren't accustomed to reading academic literature. I'll try to write something up in org mode -> TeX
 
 # 122
@@ -968,19 +1182,26 @@ I only hope you'll delete more, but not the whole thread.
 It's obvious that such a project would need to use a lot of RAM and it makes no sense to criticize the approach of using DL for it. I consider this trolling. That said, of course I'd hope we'll overcome this limitation over time, and I'm also sceptical about using something like GPT as a chatbot. However this criticism should be made in a more sensible way, and by pointing out where things should go within some years. If they want to do it anyways, it's fine. It's sufficient to point out that such a 'AI' has no intelligence as in knowing anything about it's responses. Just trashing it, without any argument but a lot of ignorance towards DL is pointless.
 
 # 124
->>11360
+>>11360
+
 I don't care that you consider it trolling, the logic of your reply is essentially "x = x, and if you question it you're a troll."
 
 # 125
->>11360
->'AI' has no intelligence as in knowing anything about it's responses. 
-
-This is a point that I guess you could try to make, but I don't think anyone can make any qualified argument about this. I think it is probably impossible to give any truthful answer to a philosophical question of this kind, and it's better to concern yourself with more practical things.
-
+>>11360
+
+>'AI' has no intelligence as in knowing anything about it's responses. 
+
+
+
+This is a point that I guess you could try to make, but I don't think anyone can make any qualified argument about this. I think it is probably impossible to give any truthful answer to a philosophical question of this kind, and it's better to concern yourself with more practical things.
+
+
+
 Personally, I think the definition of intelligence is probably inaccurate. I don't think humans are much more than a series of impulses that are linked together only because it is evolutionary advantageous. The brain is literally running on 300,000+ million year old vulnerable architecture, it's really nothing to model intelligence off of IMHO. Being able to recognize things as "meaning" or even as whole and discrete "object" is probably a disadvantage and some form of evolutionary cope
 
 # 126
->>11376
+>>11376
+
 RGBnigger gets points, I fucked up the date. I mean 2+ million
 
 # 127
@@ -994,11 +1215,13 @@ If x is that deep learning models need a lot of RAM and are currently the best g
 It doesn't know what the responses mean, only knows about related answers, but has no concept of anything beyond that. What did I miss?
 
 # 128
->>11412
+>>11412
+
 How do you define meaning? It's a circular question that is going to be difficult for you to provide any kind of axiomatic and incontrovertible definition for
 
 # 129
->>11413
+>>11413
+
 You can spend your entire life trying to answer questions like this, IMO it's kind of a waste of time.
 
 # 130
@@ -1065,11 +1288,16 @@ I wish you well, Em Elle E. Good luck with your delivery.
 I like her light-up bunny-girl ears. She won't be hard to see at night, that's for sure!
 
 # 139
->>11639
->>10751
->>10897
-looks legit to me ….
-
+>>11639
+
+>>10751
+
+>>10897
+
+looks legit to me ….
+
+
+
 Good work Fang Anon, saw the other projects on the board you and SophieDev and the anon who did the wheels based paper robot only people who are going to do anything other than philosophize about building AIs waifus.
 
 # 140
@@ -1078,8 +1306,9 @@ Good work Fang Anon, saw the other projects on the board you and SophieDev and t
 I also got started a while ago, at least designed and printed some mechanisms and such, but ran into some problems and drove a bit off the road. But, I'll be back. I also was still planning, getting myself organized and learning stuff, didn't drop out completely.
 
 # 141
->>11687
-What are you working on anon ? Do you have a board just looking to drop some $$ on projects
+>>11687
+
+What are you working on anon ? Do you have a board just looking to drop some ```$$``` on projects
 
 # 142
 >>11437
@@ -1090,11 +1319,13 @@ That is an alternative, however please note Live2D is more popular than 3D, ther
 No, don't have my own board. I'm one of the anons hanging out here. Just wanted to point out, that  there's at least one more working on something. So far I'm posting my progress on the body in the thread for prototypes and failures >>418, bc it's still very rudimentary.
 
 # 144
->>11695
+>>11695
+
 Skimmed through it Anon looking good keep it up !! Don’t give up
 
 # 145
->>11694
+>>11694
+
 My opinion, I don’t think people care as long as they can customize their waifu which I think fang anon allows people to do. Most of the people wanting to be vtubers go with live 2D because it’s less complicated than a 3D model. Most 3D modellers are not easy to find and are super expensive. Where as 2D artists are easier to find and you can see the work before hand. Though I hope he continues his waifu engine path imo. So far looks promising
 
 # 146
@@ -1197,14 +1428,22 @@ Good news then. Thanks for the heads-up Anon.
 FUUUUUU. Sorry to hear that Anon, Praying for you to survive the deadly 'vaxx'.
 
 # 155
->>12297
-
-What is this?!?!?!?! It’s like a vtuber that sits on your desktop
-That you can chat to as well as it’s got speech synthesis. It’s all offline too!!! 
-Here’s some key info
-It uses 6 GB of RAM
-It’s about 14GB of disk space.
-Uses GPT2 
+>>12297
+
+
+
+What is this?!?!?!?! It’s like a vtuber that sits on your desktop
+
+That you can chat to as well as it’s got speech synthesis. It’s all offline too!!! 
+
+Here’s some key info
+
+It uses 6 GB of RAM
+
+It’s about 14GB of disk space.
+
+Uses GPT2 
+
 Damn something real out of this board for once LMFAOO
 
 # 156
@@ -1212,12 +1451,15 @@ Damn something real out of this board for once LMFAOO
 We're concerned about your health and welfare Em Elle E. Can any anon associated with his doxxcord confirm his status for us?
 
 # 157
->>12432
+>>12432
+
 He’s alive saw him message everyone last night BO
 
 # 158
->>12430
-https://waifuengine.itch.io/waifu-engine
+>>12430
+
+https://waifuengine.itch.io/waifu-engine
+
 Anyone who is interested. We should consider helping OP promote his work I think this has legs and he knows what he is doing.
 
 # 159
@@ -1225,7 +1467,8 @@ Anyone who is interested. We should consider helping OP promote his work I think
 Our thanks Anon.
 
 # 160
->>11275
+>>11275
+
 Well shit looks like 4000 no bodies are using it, he posted this screenshot recently by accident and took it down
 
 # 161
@@ -1305,15 +1548,24 @@ Finally, a vahicle waifu to use as flashlight on slavic night!
 >>15763
 
 # 170
->>15764
-<Wah, I'm gonna be late for the start of operation again, just like last time
-
->unarmed
-
->became famous after being caught on camera
-
->carrying lots of painkillers, bandages and medical alcohol
-
+>>15764
+
+<Wah, I'm gonna be late for the start of operation again, just like last time
+
+
+
+>unarmed
+
+
+
+>became famous after being caught on camera
+
+
+
+>carrying lots of painkillers, bandages and medical alcohol
+
+
+
 >always tries to be at the frontline and help everyone who does not resist (being helped)
 
 # 171
@@ -1325,7 +1577,8 @@ Actually, I'm OK with leaving this thread up after this weekend if any of you An
 Since there have been no further updates ITT, I think it's safe to say this was just a fun gag for the 1st. So, without any further appeal, this post is notice that this thread will be merged into the Attic Thread (>>12893) sometime around Wed, 220406.
 
 # 173
->>15775
+>>15775
+
 Good decision. Otherwise Donetsk-airport-cyborg-chan will deal with it.
 
 # 174
@@ -1345,8 +1598,10 @@ Also, be aware that 'loli' while a fun term to bandy in jest, can actually turn 
 I'll delay the thread merge action until Fri 220408, to give you time to respond.
 
 # 176
->>15781
-No worries comrad, Buhanka will rest in peace in backyard Z
+>>15781
+
+No worries comrad, Buhanka will rest in peace in backyard Z
+
 (I just wanted to finish the shitpost)
 
 # 177

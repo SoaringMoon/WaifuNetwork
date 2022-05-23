@@ -19,8 +19,10 @@ https://anon.cafe/toy/res/4.html#4
 It could certainly be done to make stronger components, but it is kind of expensive to do for larger parts.  Resin casting might be a cheaper alternative.  Resin casting could also be used to make softer parts as well.
 
 # 6
-I've been thinking acrylic or plexiglass might be a good alternative to the carbon fiber and aluminum that are used in larger robots and RC machines.  All the entry level robot kits and the earliest 3D printers used pre-drilled acrylic sheets for their baseboards to screw all their printed circuit boards on. (using standoffs and 3mm screws).
-
+I've been thinking acrylic or plexiglass might be a good alternative to the carbon fiber and aluminum that are used in larger robots and RC machines.  All the entry level robot kits and the earliest 3D printers used pre-drilled acrylic sheets for their baseboards to screw all their printed circuit boards on. (using standoffs and 3mm screws).
+
+
+
 Due to the pandemic and everything needing to be separated from sneezes, I think this material will be more available and affordable than ever before.
 
 # 7
@@ -47,7 +49,8 @@ For more general parts it might have the downside that it can't be shared so eas
 Picture number 2 (shot0003) is not the FORMART 2 but one of the alternatives. Pic 3 (shot0002) is the data from the FORMART 2, not the one from the other picture.
 
 # 10
-there's a guy on youtube who anneals his 3D printed plastics by covering them in very finely ground salt
+there's a guy on youtube who anneals his 3D printed plastics by covering them in very finely ground salt
+
 https://www.youtube.com/watch?v=DyAKtS1b3SQ&t=993s
 
 # 11

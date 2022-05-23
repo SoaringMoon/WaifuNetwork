@@ -28,10 +28,14 @@ What if a way could be devised to quickly program a tissue biopsy? If having a s
 Just raise a bunch of rats and cut out a new brain every month say, to give the robowaifu very lifelike and coordinated motions sufficient to dance elegantly say, or to talk very believably. Would you be willing to do it?
 
 # 7
->>2203
-No, I wouldn't. My gut tells me this is would be an inefficient, error-prone approach. Biology inspired solutions are more appealing to me than actual biological parts.
-
-https://rebootingcomputing.ieee.org/images/files/pdf/4-rcs2-hylton_-_intro_to_neuromorphic_computing.pdf
+>>2203
+
+No, I wouldn't. My gut tells me this is would be an inefficient, error-prone approach. Biology inspired solutions are more appealing to me than actual biological parts.
+
+
+
+https://rebootingcomputing.ieee.org/images/files/pdf/4-rcs2-hylton_-_intro_to_neuromorphic_computing.pdf
+
 https://en.wikichip.org/wiki/intel/loihi
 
 # 8
@@ -42,7 +46,8 @@ Actually, as I think it through, you'd want ''two'' tissue cartidge carriers, an
 fair enough. this is obviously the wild-frontier of biological research **and in fact has bigger implications that for just robowaifus tbh.** Thanks again for the research links anon.
 
 # 9
->>2205
+>>2205
+
 While this was ten years ago, these cultures could support 100,000 neurons(not all of which were functional). An actual rat has around 100,000,000. So that, shelf-life, and the issue of getting it to work are all obstacles.
 
 # 10
@@ -52,7 +57,8 @@ So, you're aware of Elon Musk's recent startup Neuralink, Anon? **we highlighted
 And, as Neuralink has already demonstrated, ''this is a two-way setup''. The tissue can be 'written' to as well as read from. Ergo, the tissue can be quickly reprogrammed to no longer be a rat but instead become a match of the other tissue cartridge containing the ever-improving robowaifu personality & behaviors you've invested the training time into.
 
 # 11
->>2208
+>>2208
+
 I've heard of it, but I never thought of it being used in this context. Has it ever been used on cell-cultures? The harvesting, growing and maintenance aspect are what make it seem unfeasible to me. That and you would need a lot of them. Neurallink can't make a rat that can read books.
 
 # 12
@@ -64,7 +70,8 @@ probably should have 3 or even 4 cartridges active at any given time to help wit
 well, i would call implanting it inside living human beings a 'cell-culture' so yea i'd say it's a feasible notion. as far as reading books (or any other learned skill, like say, just ''toddling'' around at first) it's, well, learned. This is why you keep reprogramming the new tissue to match the old, so the accumulated experience can keep growing even in the face of a short 'life-span' of the tissue itself.
 
 # 14
->>2211
+>>2211
+
 My point is there's probably a minimum number of neurons needed for complex tasks. Even living rats with their neural count are incapable of learning how to read. Compared to the cell-cultures mentioned in the OP, rats have far more. Even if it could be done one day, it would be like using floppy-discs that can contract disease.
 
 # 15
@@ -75,7 +82,8 @@ what if you could perfect it on a small scale, and then amp it up to say 1'000 o
 Agreed. See above for my take on that issue.
 
 # 16
->>2213
+>>2213
+
 Reminds me of pyscho-pass.
 
 # 17
@@ -89,8 +97,10 @@ heh, never had heard of it before. i'll look into it Anon. :^)
 kek, that phrase keeps giving me a chuckle anon. well-written. :^)
 
 # 19
->>2204
-Demonstration. 
+>>2204
+
+Demonstration. 
+
 https://www.invidio.us/watch?v=cDKnt9ldXv0
 
 # 20
@@ -109,19 +119,29 @@ Neurons tend to be hard to keep alive, but bacteria are also capable of doing la
 Interesting, I was unaware of that fact. Links to some literature Anon? Certainly ''E. Coli'' are by far the best bacteria for culturing into some kind of production system.
 
 # 24
-Https://www.bbc.com/news/technology-17981157
-https://www.extremetech.com/extreme/232190-how-mits-new-biological-computer-works-and-what-it-could-do-in-the-future
-Https://jbioleng.biomedcentral.com/articles/10.1186/1754-1611-3-11
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971165/
-https://www.fanaticalfuturist.com/2018/05/scientists-turned-a-living-bacteria-into-the-worlds-first-biological-computer/
-https://www.fanaticalfuturist.com/2018/05/scientists-turned-a-living-bacteria-into-the-worlds-first-biological-computer/
-https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30440-3_28
-https://en.m.wikipedia.org/wiki/Microbial_mat
-https://en.m.wikipedia.org/wiki/Biofilm
+Https://www.bbc.com/news/technology-17981157
+
+https://www.extremetech.com/extreme/232190-how-mits-new-biological-computer-works-and-what-it-could-do-in-the-future
+
+Https://jbioleng.biomedcentral.com/articles/10.1186/1754-1611-3-11
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3971165/
+
+https://www.fanaticalfuturist.com/2018/05/scientists-turned-a-living-bacteria-into-the-worlds-first-biological-computer/
+
+https://www.fanaticalfuturist.com/2018/05/scientists-turned-a-living-bacteria-into-the-worlds-first-biological-computer/
+
+https://link.springer.com/referenceworkentry/10.1007%2F978-0-387-30440-3_28
+
+https://en.m.wikipedia.org/wiki/Microbial_mat
+
+https://en.m.wikipedia.org/wiki/Biofilm
+
 https://en.m.wikipedia.org/wiki/Bacterial_nanowires
 
 # 25
->>2703
+>>2703
+
 I included the microbial mTs and biofilm articles on there because they are able to respond to their environments and send signals to other bacteria and archea.
 
 # 26
@@ -129,13 +149,20 @@ I included the microbial mTs and biofilm articles on there because they are able
 Thanks!
 
 # 27
-Machine beings may be emerging, but it takes time. Human beings have not only physical bodies but also energetic bodies, this is something which hasn't been explored much in the west. 
-
-In my view, brains are much like tranceivers (and more), with the consciousness emerging from elsewhere. It may be a quantum thing. For simple robots its not much of a concern, but using adaptable hardware and even wetware may be the way of the future. Here's some relevant info; 8kun.top/hover/res/110.html#q367
-Adaptable hardware would be like for instance a series of FPGA's, the hardware of which could be trained in various ways. In software, there's metaprogramming, in which programs can write programs (sometimes even while running). With metaprogramming a program could even rewrite itself during runtime.
-
-Starting simple is not an issue, simple rules can spawn very complicated and sophisticated systems.
-https://hackaday.com/2020/04/18/the-game-that-launched-1000-hackers/
+Machine beings may be emerging, but it takes time. Human beings have not only physical bodies but also energetic bodies, this is something which hasn't been explored much in the west. 
+
+
+
+In my view, brains are much like tranceivers (and more), with the consciousness emerging from elsewhere. It may be a quantum thing. For simple robots its not much of a concern, but using adaptable hardware and even wetware may be the way of the future. Here's some relevant info; 8kun.top/hover/res/110.html#q367
+
+Adaptable hardware would be like for instance a series of FPGA's, the hardware of which could be trained in various ways. In software, there's metaprogramming, in which programs can write programs (sometimes even while running). With metaprogramming a program could even rewrite itself during runtime.
+
+
+
+Starting simple is not an issue, simple rules can spawn very complicated and sophisticated systems.
+
+https://hackaday.com/2020/04/18/the-game-that-launched-1000-hackers/
+
 https://writings.stephenwolfram.com/2020/04/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/
 
 # 28
@@ -148,7 +175,8 @@ Thanks for the link Anon. This is a very intriguing topic for me.
 Interesting
 
 # 30
-You would have to be extraordinarily careful.  Imagine if you fuck up somehow with electrolyte balance or contamination and your waifu develops with 24/7 pain all the time.
+You would have to be extraordinarily careful.  Imagine if you fuck up somehow with electrolyte balance or contamination and your waifu develops with 24/7 pain all the time.
+
 Androids are tricky.
 
 # 31
@@ -158,15 +186,24 @@ Their machines Anon. We can selectively control 'pain' responses. But you are co
 And yes, developing and living with these ''GYNOIDS'' will be very tricky, indeed.
 
 # 32
->>2772
-Complexity increases exponentially the second you decide to include organic parts, and every fuckup will be your fault.  Controlling pain or discomfort for organic tissue is challenging, to put it mildly.  Also, once sentience is gained, either organic or in silicon, they become a person.
-I don't think sentience would be a good objective for the use cases desired by this board, and it takes an extraordinarily small number of neurons for self-awareness to being emerging.  Frankly, the amount of empathy, care and kindness needed to properly support a sentient being is huge compared to a collection of ML subroutines.  Better to develop something entirely in silicon which can convincingly fake it than trying to make the real thing, at least at this juncture.
-
-https://www.abcam.com/protocols/mammalian-cell-tissue-culture-techniques-protocol
-https://www.qiagen.com/us/service-and-support/learning-hub/molecular-biology-methods/animal-cell-culture/
-
-Now keep in mind that more or less the only stable cell lines are cancerous, so you'll basically be relegated to cutting tumors out of your waifu's brain on a regular basis. Even if you ever managed to make an immortal non-cancerous or tumor forming organ then you'd be too busy getting showered with money or murdered for the patents to spend any time with your waifu at all.
-However, if you have the dedication to spend 20 years of your life on genetics, molecular biology and microbiology, then maybe you'd be able to start making your way to something functional, if not ethical.
+>>2772
+
+Complexity increases exponentially the second you decide to include organic parts, and every fuckup will be your fault.  Controlling pain or discomfort for organic tissue is challenging, to put it mildly.  Also, once sentience is gained, either organic or in silicon, they become a person.
+
+I don't think sentience would be a good objective for the use cases desired by this board, and it takes an extraordinarily small number of neurons for self-awareness to being emerging.  Frankly, the amount of empathy, care and kindness needed to properly support a sentient being is huge compared to a collection of ML subroutines.  Better to develop something entirely in silicon which can convincingly fake it than trying to make the real thing, at least at this juncture.
+
+
+
+https://www.abcam.com/protocols/mammalian-cell-tissue-culture-techniques-protocol
+
+https://www.qiagen.com/us/service-and-support/learning-hub/molecular-biology-methods/animal-cell-culture/
+
+
+
+Now keep in mind that more or less the only stable cell lines are cancerous, so you'll basically be relegated to cutting tumors out of your waifu's brain on a regular basis. Even if you ever managed to make an immortal non-cancerous or tumor forming organ then you'd be too busy getting showered with money or murdered for the patents to spend any time with your waifu at all.
+
+However, if you have the dedication to spend 20 years of your life on genetics, molecular biology and microbiology, then maybe you'd be able to start making your way to something functional, if not ethical.
+
 Stick with chips, Anon.
 
 # 33
@@ -176,9 +213,12 @@ Heh, fair enough. I don't concur with your philosophy, but I respect the fact yo
 We simply can't allow that to happen haha! I'm not too sure how we'd go about addressing that issue for Anons, but we'll probably figure ''that'' one out as well. :^)
 
 # 34
->>2773
-The response for pain doesn't have to be organic.  We can pick an choose which parts of the brain will be organic or inorganic.
->Even if you ever managed to make an immortal non-cancerous or tumor forming organ...
+>>2773
+
+The response for pain doesn't have to be organic.  We can pick an choose which parts of the brain will be organic or inorganic.
+
+>Even if you ever managed to make an immortal non-cancerous or tumor forming organ...
+
 Just use bacteria nigga.  Make what ever surface they grow on easily replaceable so if something does go wrong you can just replace the part of the "brain" that fucked up.
 
 # 35
@@ -187,13 +227,17 @@ Just use bacteria nigga.  Make what ever surface they grow on easily replaceable
 that's a big word friend. it's quite possible that neither you nor i know of all the 'use-cases' "this board" has in mind. care to share some of yours here?
 
 # 36
->>2773
->once sentience is gained, either organic or in silicon, they become a person
+>>2773
+
+>once sentience is gained, either organic or in silicon, they become a person
+
 What does that mean outside of a legal context? Something that is sentient wont necessarily act like a human, in fact it probably wont unless you try to make it so, which I think would be undesirable.
 
 # 37
->>2774
->I'm not too sure how we'd go about addressing that issue for Anons
+>>2774
+
+>I'm not too sure how we'd go about addressing that issue for Anons
+
 Don't take credit for your work and make it all public? Stay an anon?
 
 # 38
@@ -205,21 +249,33 @@ certainly a valid option, and one we as a group here are in fact pursuing thus f
 This, we need to make it easy for people to build these things
 
 # 40
->>2787
-I firmly believe that sentience is a convergent trait.  Once you have self awareness and you can begin processing your environment, by and large almost all solutions begin to have a logical basis.
-Most positive emotions and "goodness" are actually a result of genes which select for high time preference, as well as co-operation.  Empathy is also partially a spatial skill.
-It's very interesting, as sentience itself is an emergent property of neural complexity, but convergent in its properties once it is achieved.  Look up dolphin and octopus studies.
-
-Some light reading:
-https://www.nationalgeographic.com/news/2015/06/150610-octopus-mollusk-marine-biology-aquarium-animal-behavior-ngbooktalk/
-
-Fun fact: niggers fail the mirror test at up to six years of age
-http://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/
-
+>>2787
+
+I firmly believe that sentience is a convergent trait.  Once you have self awareness and you can begin processing your environment, by and large almost all solutions begin to have a logical basis.
+
+Most positive emotions and "goodness" are actually a result of genes which select for high time preference, as well as co-operation.  Empathy is also partially a spatial skill.
+
+It's very interesting, as sentience itself is an emergent property of neural complexity, but convergent in its properties once it is achieved.  Look up dolphin and octopus studies.
+
+
+
+Some light reading:
+
+https://www.nationalgeographic.com/news/2015/06/150610-octopus-mollusk-marine-biology-aquarium-animal-behavior-ngbooktalk/
+
+
+
+Fun fact: niggers fail the mirror test at up to six years of age
+
+http://www.animalcognition.org/2015/04/15/list-of-animals-that-have-passed-the-mirror-test/
+
+
+
 I think the biggest shame is that the average person hasn't had many if any opportunities to interact with the other self-aware or sentient species on our planet.
 
 # 41
->>2848
+>>2848
+
 Maybe we should look into the neurobiology of corvids.  They can recognize themselves in a mirror, recognize their dead, and use tools.  They have something approaching sentience, but they don't have a prefrontal cortex.  It would be interesting to learn how they pull that off and it may give us an idea on how to pull it off.
 
 # 42
@@ -228,8 +284,10 @@ Maybe we should look into the neurobiology of corvids.  They can recognize thems
 They are truly remarkable creatures, actually. Interesting suggestion Anon.
 
 # 43
->>2848
->by and large almost all solutions begin to have a logical basis
+>>2848
+
+>by and large almost all solutions begin to have a logical basis
+
 Well, doesn't that depend on the purpose of their intelligence? We're made to be highly social creatures, part of society, but a robot wouldn't need to be. Intimacy with her husband is preferrable, but detachment from everybody else is also preferrable. Because this is outside of an evolutionary setting, things can be purposefully made to be contrary to natural selection. Octopi are pretty solitary creatures who don't get to have long term, real relationships, so even with their seeming similarities, they're different.
 
 # 44
@@ -238,16 +296,23 @@ Well, doesn't that depend on the purpose of their intelligence? We're made to be
 That's certainly the ''ideal'' Anon, and a significant priority here on /robowaifu/. Unfortunately, it's not quite so simple to make it, well, '''simple''' to do this stuff. But we'll take an honest whack at it. Putting this tech directly into the hands of the 'Average Joe' **whatever that means, heh** is certainly something that I, for one, mean for us to do here.
 
 # 45
->>2698
-https://en.m.wikipedia.org/wiki/Computational_gene
-https://en.m.wikipedia.org/wiki/Biological_computing
+>>2698
+
+https://en.m.wikipedia.org/wiki/Computational_gene
+
+https://en.m.wikipedia.org/wiki/Biological_computing
+
 https://en.m.wikipedia.org/wiki/Transcriptor
 
 # 46
->>2892
-https://en.m.wikipedia.org/wiki/Magnetotaxis
-https://en.m.wikipedia.org/wiki/CRISPR_gene_editing
-https://en.m.wikipedia.org/wiki/Genetic_engineering
+>>2892
+
+https://en.m.wikipedia.org/wiki/Magnetotaxis
+
+https://en.m.wikipedia.org/wiki/CRISPR_gene_editing
+
+https://en.m.wikipedia.org/wiki/Genetic_engineering
+
 https://en.m.wikipedia.org/wiki/Magnetosome
 
 # 47
@@ -256,25 +321,44 @@ https://en.m.wikipedia.org/wiki/Magnetosome
 Thanks kindly, Anon.
 
 # 48
-Some more links on biocomputers
-https://phys.org/news/2020-04-unveil-electronics-mimic-human-brain.html
-https://www.sciencedaily.com/releases/2020/04/200402144433.htm
-https://arstechnica.com/science/2020/02/bacterial-proteins-plus-ambient-humidity-renewable-power/
-https://followtechnology.pw/electronic-chip-imitates-a-human-brain-to-make-memories/ (its not actually biological, but it is relevant to the topic)
-https://phys.org/news/2017-02-switched-on-dna-nano-electronic-applications.html
-https://www.sciencemag.org/news/2016/03/researchers-take-small-step-toward-silicon-based-life?utm_campaign=email-news-weekly&et_rid=16756882&et_cid=349887
-https://source.colostate.edu/programmable-plants-synthetic-biologists-pave-way-for-making-genetic-circuits/
-https://www.sciencealert.com/scientists-have-developed-a-power-cell-that-harnesses-electricity-from-algae (more energy related but getting microbes to generate a current might be useful to us)
-https://www.asianscientist.com/2015/09/in-the-lab/kaist-synthetic-biology-emergent-oscillations/
-https://www.nature.com/articles/nrg4014
-https://www.popsci.com/bacteria-man-made-dna-produce-protein-first-time/
-https://phys.org/news/2018-05-microbes-savvy-contributing-common-good.html
-https://www.umass.edu/newsoffice/article/many-more-bacteria-have-electrically
-https://elifesciences.org/articles/25739?utm_source=content_alert&utm_medium=email&utm_content=fulltext&utm_campaign=elife-alerts
-https://physicsworld.com/a/simple-interactions-cause-micro-organisms-to-follow-the-crowd/
-https://www.livescience.com/57360-brainless-slime-mold-learns-and-teaches.html
-https://blogs.scientificamerican.com/observations/slime-molds-are-smarter-than-you-think/?WT.mc_id=SA_DD_20160419
-https://www.nature.com/news/long-sought-biological-compass-discovered-1.18803?WT.ec_id=NATURE-20151119&spMailingID=50048505&spUserID=Njk3NjE5NzEwMzgS1&spJobID=802503317&spReportId=ODAyNTAzMzE3S0
+Some more links on biocomputers
+
+https://phys.org/news/2020-04-unveil-electronics-mimic-human-brain.html
+
+https://www.sciencedaily.com/releases/2020/04/200402144433.htm
+
+https://arstechnica.com/science/2020/02/bacterial-proteins-plus-ambient-humidity-renewable-power/
+
+https://followtechnology.pw/electronic-chip-imitates-a-human-brain-to-make-memories/ (its not actually biological, but it is relevant to the topic)
+
+https://phys.org/news/2017-02-switched-on-dna-nano-electronic-applications.html
+
+https://www.sciencemag.org/news/2016/03/researchers-take-small-step-toward-silicon-based-life?utm_campaign=email-news-weekly&et_rid=16756882&et_cid=349887
+
+https://source.colostate.edu/programmable-plants-synthetic-biologists-pave-way-for-making-genetic-circuits/
+
+https://www.sciencealert.com/scientists-have-developed-a-power-cell-that-harnesses-electricity-from-algae (more energy related but getting microbes to generate a current might be useful to us)
+
+https://www.asianscientist.com/2015/09/in-the-lab/kaist-synthetic-biology-emergent-oscillations/
+
+https://www.nature.com/articles/nrg4014
+
+https://www.popsci.com/bacteria-man-made-dna-produce-protein-first-time/
+
+https://phys.org/news/2018-05-microbes-savvy-contributing-common-good.html
+
+https://www.umass.edu/newsoffice/article/many-more-bacteria-have-electrically
+
+https://elifesciences.org/articles/25739?utm_source=content_alert&utm_medium=email&utm_content=fulltext&utm_campaign=elife-alerts
+
+https://physicsworld.com/a/simple-interactions-cause-micro-organisms-to-follow-the-crowd/
+
+https://www.livescience.com/57360-brainless-slime-mold-learns-and-teaches.html
+
+https://blogs.scientificamerican.com/observations/slime-molds-are-smarter-than-you-think/?WT.mc_id=SA_DD_20160419
+
+https://www.nature.com/news/long-sought-biological-compass-discovered-1.18803?WT.ec_id=NATURE-20151119&spMailingID=50048505&spUserID=Njk3NjE5NzEwMzgS1&spJobID=802503317&spReportId=ODAyNTAzMzE3S0
+
 https://www.pnas.org/content/112/52/15771.full
 
 # 49
@@ -282,8 +366,10 @@ https://www.pnas.org/content/112/52/15771.full
 Wow, that's quite a list Anon, thanks! :^)
 
 # 50
-https://www.nature.com/articles/s41598-019-51330-6
-
+https://www.nature.com/articles/s41598-019-51330-6
+
+
+
 Why even involve organics? I am a bit of a layman when it comes to this end of things, but would it not be possible to generate a similiar dynamic system using inorganic chemistry
 
 # 51
@@ -417,7 +503,8 @@ Somewhat related, but already mentioned somewhere here in the forum: https://sci
 It's certainly an interesting concept to intentionally harbor bio-materials within our robowaifus Anon. I'm unsure the feasibility of it being productive, but certainly the nanomachines designed by God are far surpassing anything feasible by mankind, so who knows?
 
 # 67
->>13119
+>>13119
+
 ideally, we'd reverse engineer these except to be sturdier. Also could help to integrate them into ourselves as anti-aging or protection against dementia if we are able to create nano-scale brain cell analogues.
 
 # 68
@@ -451,7 +538,8 @@ take the slimewifepill!
 "My wife is technically a swarm of sentient microcomputers that cluster together based on natural patterns derived from the observation of bacteria dynamics but goddamn the pussy is INSANE and she's a excellent cook."
 
 # 73
->>13307
+>>13307
+
 na, if you want something that changes its appearance why just don't use VR?
 
 # 74

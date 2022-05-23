@@ -38,7 +38,8 @@ Yeah it seems like the madman was actually gonna do it for a while, create robo 
 I see the goal of waifubots as simulating relationships and companionship. And it's not that i'm some puritan who's against the idea of sexbots, simulating sex has already been solved. Sex robots for both mean and women already exist, and have for years. Onaholes can be bought online for under $20, you can do VR on your cellphone. The technology is already here and readily available. When people say sexbot, they are usually talking about a full robotic humanoid that's also capable of having sex. That's like calling a computer a porn machine.
 
 # 5
->>245
+>>245
+
 I know people want one that can move around and stuff, but wouldn't it be easier to focus on the AI and the mechanics first before making it fully portable? I know back when this board was on 8chan, there were a few on-going projects that just halted because of the magnitude of what they were trying to do. It would be nice to see someone's project come through without getting burned out or bogged-down.
 
 # 6

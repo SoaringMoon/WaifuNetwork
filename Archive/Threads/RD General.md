@@ -33,16 +33,26 @@ When liquids are involved in any capacity, you must consider the possibility of 
 Other things that could help are; an internal temperature that's unfriendly to microorganisms (like a permanent fever, which might also feel quite pleasant to the user), and frequent removal of old fluids. If the water in circulation acts as a coolant (see first post), we wouldn't even have to go out of our way to heat it up. Your own PC's processors easily reach temperatures needed to sterilize any liquid.
 
 # 3
-So I've been thinking of ways to manufacture cheap hydraulic muscles since weak pneumatic ones cost almost $100 for only 40 lbs of force. What a joke! But the answer seems simple: just make the woven sleeves out of strong nylon fishing line. Would it work?
-
-Obviously making them by hand will be a ton of work just to make one sleeve, but once an initial prototype is tested and it works well then a 3D printable machine could be built to automate weaving fishing line into sleeves. The strength of fishing line is tremendous and it's cheap to buy. I estimate it would be able to withstand pressures up to 3500 psi, generating up to 2000 N of force. It'd be an open-source solution for powering our waifubots to give the Chinese merchants the middle finger.
-
-A silent hydraulic system could also be built with quiet actuators for low cost rather than using a noisy pump. The only issue I see with this is that hydraulics can get extremely hot, up to 82°C before the system starts to breakdown. This heat could be dissipated though via a large heatsink on a thermoelectric generator using a diaphragm and artificial lungs. Our robowaifus would be able to exhaust excess heat by breathing and panting.
-
-Some videos on hydraulic muscles:
-https://www.youtube.com/watch?v=NDQlOqsr84s
-https://www.youtube.com/watch?v=Cy9uaUxVNoI
-https://www.youtube.com/watch?v=a6mRhuR_g-E
+So I've been thinking of ways to manufacture cheap hydraulic muscles since weak pneumatic ones cost almost $100 for only 40 lbs of force. What a joke! But the answer seems simple: just make the woven sleeves out of strong nylon fishing line. Would it work?
+
+
+
+Obviously making them by hand will be a ton of work just to make one sleeve, but once an initial prototype is tested and it works well then a 3D printable machine could be built to automate weaving fishing line into sleeves. The strength of fishing line is tremendous and it's cheap to buy. I estimate it would be able to withstand pressures up to 3500 psi, generating up to 2000 N of force. It'd be an open-source solution for powering our waifubots to give the Chinese merchants the middle finger.
+
+
+
+A silent hydraulic system could also be built with quiet actuators for low cost rather than using a noisy pump. The only issue I see with this is that hydraulics can get extremely hot, up to 82°C before the system starts to breakdown. This heat could be dissipated though via a large heatsink on a thermoelectric generator using a diaphragm and artificial lungs. Our robowaifus would be able to exhaust excess heat by breathing and panting.
+
+
+
+Some videos on hydraulic muscles:
+
+https://www.youtube.com/watch?v=NDQlOqsr84s
+
+https://www.youtube.com/watch?v=Cy9uaUxVNoI
+
+https://www.youtube.com/watch?v=a6mRhuR_g-E
+
 https://www.youtube.com/watch?v=c14AzY5dCnw
 
 # 4
@@ -58,14 +68,22 @@ I honestly wouldn't even mind her having strategically-placed vents like in:
 and following.
 
 # 5
->>1628
-Vegetable oil can be used as hydraulic fluid. What makes artificial muscles different from the hydraulics of heavy machinery is that you don't have to pump a lot of fluid around or have a huge reservoir. The muscle can remain mostly full. It's the pressure that contracts it.
-
-At 3500 psi hydraulic fluid is compressed by 0.5% so you only need to pump a tiny bit of fluid into the muscle at that pressure to get a maximum contraction. Sunflower oil apparently has even lower compressibility than hydraulic fluid, which should make it more efficient with less energy being lost as heat.
-https://pubs.rsc.org/en/content/articlelanding/2011/gc/c0gc00597e
-
-From looking around at experimental results it seems larger muscles use much less pressure but more fluid to exert the same force. Tiny muscles exerting 2 kN of force is pretty cool but I don't think anyone is going to wanna be near their robowaifu when a hose bursts at 3500 psi. We'll have to go without battle waifus and use larger muscles with safe psi levels.
-
+>>1628
+
+Vegetable oil can be used as hydraulic fluid. What makes artificial muscles different from the hydraulics of heavy machinery is that you don't have to pump a lot of fluid around or have a huge reservoir. The muscle can remain mostly full. It's the pressure that contracts it.
+
+
+
+At 3500 psi hydraulic fluid is compressed by 0.5% so you only need to pump a tiny bit of fluid into the muscle at that pressure to get a maximum contraction. Sunflower oil apparently has even lower compressibility than hydraulic fluid, which should make it more efficient with less energy being lost as heat.
+
+https://pubs.rsc.org/en/content/articlelanding/2011/gc/c0gc00597e
+
+
+
+From looking around at experimental results it seems larger muscles use much less pressure but more fluid to exert the same force. Tiny muscles exerting 2 kN of force is pretty cool but I don't think anyone is going to wanna be near their robowaifu when a hose bursts at 3500 psi. We'll have to go without battle waifus and use larger muscles with safe psi levels.
+
+
+
 How would we even get enough power for robowaifus to lift heavy objects? Join an array of 40V chainsaw batteries in parallel?
 
 # 6
@@ -81,10 +99,14 @@ The heat dissipation is probably a bigger Systems Engineering component challeng
 Makes me sit in awe again at the wonder of God's designs for biology tbh. It all just works so remarkably well together.
 
 # 7
->>1632
-I think atp we have to assume she will be spending lots of time sitting in her 'recharging chair'
-There can be swappable battery packs, air tanks or my favorite option at the moment have it connected directly to a power source.
-
+>>1632
+
+I think atp we have to assume she will be spending lots of time sitting in her 'recharging chair'
+
+There can be swappable battery packs, air tanks or my favorite option at the moment have it connected directly to a power source.
+
+
+
 The low power density of energy storage combined with high cost and complexity makes an autonomous design impractical at the moment. I envision 2 tubes being plugged into mine; one for hot water to circulate under the silicon skin covering and one for air to power the pneumatics. That way I can keep it in my bed as a giant warm body pillow even when it's turned off then plug in an air hose when I want it to move.
 
 # 8
@@ -92,33 +114,51 @@ The low power density of energy storage combined with high cost and complexity m
 Fair enough. ATP you may be right. Certainly most of the low-budget lab work seen in videos has the robot tethered to external equipment.
 
 # 9
->>1627
-First attempt at winding fishing line into a sleeve for artificial muscle. This was a lot easier to do than I thought it'd be. I just stuck two pins into a piece of doweling and wrapped one piece of fishing line around back and forth in different directions crisscrossing it.
-
+>>1627
+
+First attempt at winding fishing line into a sleeve for artificial muscle. This was a lot easier to do than I thought it'd be. I just stuck two pins into a piece of doweling and wrapped one piece of fishing line around back and forth in different directions crisscrossing it.
+
+
+
 I need to figure out a way to keep the ends clean so it wraps even and a way to melt the ends together without burning the plastic. A machine could definitely do this better and faster than a person. I'm not sure how I'm gonna put attachments on the ends yet. I'll have to buy some parts for that but I'm pretty sure we'll be able to manufacture all the cheap artificial muscle we need.
 
 # 10
->>1688
-There is a machine you can make for automatic winding if you have access to a 3d printer;
-http://iskanderus.ru/amt-core/
-https://www.youtube.com/watch?v=iMMGfzYXwAU
+>>1688
+
+There is a machine you can make for automatic winding if you have access to a 3d printer;
+
+http://iskanderus.ru/amt-core/
+
+https://www.youtube.com/watch?v=iMMGfzYXwAU
+
 Also are you using UHMWPE fishing wire? That's what the 3d printing community used before switching to belts.
 
 # 11
->>1691
-Well that saves a fuckton of work. Thanks for the link. The only trick is it has to be a woven into a sleeve like a Chinese finger trap. I have to figure out a way to wind multiple lines at a time without messing them up.
-
-And it's just some cheap 30-lbs nylon fishing line I had lying around. Nylon should be able to hold up to 3000 psi but I'm only going to be operating the muscles up to 80-100 psi.
-
+>>1691
+
+Well that saves a fuckton of work. Thanks for the link. The only trick is it has to be a woven into a sleeve like a Chinese finger trap. I have to figure out a way to wind multiple lines at a time without messing them up.
+
+
+
+And it's just some cheap 30-lbs nylon fishing line I had lying around. Nylon should be able to hold up to 3000 psi but I'm only going to be operating the muscles up to 80-100 psi.
+
+
+
 I've been doing some reading on different materials and UHMWPE is stronger but it stretches twice as much as nylon which is no good for hydraulics. Kevlar has extreme resistance to stretching (50x more than nylon) and 100-lb Kevlar thread is only about 3x more expensive than fishing line. We'll have to experiment and see what works best.
 
 # 12
->>1692
->UHMWPE is stronger but it stretches twice as much as nylon
-That depends if you're using high quality heat treated spun fiber or cheap monofilament extruded wire. I haven't done too much research into this field but the reprap community usually goes with specific materials for good reasons and it's been replacing kevlar fibers in body armor for years now.
-
->I have to figure out a way to wind multiple lines at a time without messing them up. 
-You could add a looming mechanism with several spools. That machine wasn't intended to make sheaths for hydraulic muscles but it'll do the job with some alterations. This thing is the best I could find on thingiverse for weaving.
+>>1692
+
+>UHMWPE is stronger but it stretches twice as much as nylon
+
+That depends if you're using high quality heat treated spun fiber or cheap monofilament extruded wire. I haven't done too much research into this field but the reprap community usually goes with specific materials for good reasons and it's been replacing kevlar fibers in body armor for years now.
+
+
+
+>I have to figure out a way to wind multiple lines at a time without messing them up. 
+
+You could add a looming mechanism with several spools. That machine wasn't intended to make sheaths for hydraulic muscles but it'll do the job with some alterations. This thing is the best I could find on thingiverse for weaving.
+
 https://www.thingiverse.com/thing:151798
 
 # 13
@@ -131,14 +171,22 @@ Neat, thanks anon. I've been wondering if there were some DIY designs out there 
 Not that anon, but very cool. Thanks.
 
 # 15
-I just realized I have to weave all the lines in one pass. The lines are suppose to pass under, over, and under again.
-
-A machine that manufactures braided tubing:
-https://www.youtube.com/watch?v=vvNaW8WVwP8
-
->>1698
-Inkle looming our own belts will save a lot of money.
-
+I just realized I have to weave all the lines in one pass. The lines are suppose to pass under, over, and under again.
+
+
+
+A machine that manufactures braided tubing:
+
+https://www.youtube.com/watch?v=vvNaW8WVwP8
+
+
+
+>>1698
+
+Inkle looming our own belts will save a lot of money.
+
+
+
 TIT used kevlar braided tubing for their muscles but it costs a fortune to buy it.
 
 # 16
@@ -151,7 +199,8 @@ Got no clue what I'm doing but it's gotta be something like this.
 Help newfags out with the lingo?
 
 # 18
->>1705
+>>1705
+
 The inkle loom linked is a type of loom for making belts, bands and bracelets. TIT is the Tokyo Institute of Technology.
 
 # 19
@@ -159,22 +208,35 @@ The inkle loom linked is a type of loom for making belts, bands and bracelets. T
 Got it thanks. Sorry to be nuisance, but if it's for robowaifus then it's interesting and I want to understand it better. How can this loom help robowaifus anon?
 
 # 20
-Lapis anon here, I used tablet weaving last year to make /miku/ themed belts so I know how to tablet weave now (at least in a way, there are many ways to do it)
-
->>1698
-This thing looks like a holder stand, it simply makes weaving by hand easier, but it doesn't weave for you so its not a "machine"
-I can also confirm the bulletproof 3dprints, but its a fairly recent thing; https://interestingengineering.com/researchers-3d-print-bulletproof-plastic-layered-cubes
-
->>1702
-Weaving is more work than I thought and it also costs in materials, but its nice for making custom things from one's own designs
-
-I guess this is something like what you guys are working on; https://advances.sciencemag.org/content/3/1/e1600327
+Lapis anon here, I used tablet weaving last year to make /miku/ themed belts so I know how to tablet weave now (at least in a way, there are many ways to do it)
+
+
+
+>>1698
+
+This thing looks like a holder stand, it simply makes weaving by hand easier, but it doesn't weave for you so its not a "machine"
+
+I can also confirm the bulletproof 3dprints, but its a fairly recent thing; https://interestingengineering.com/researchers-3d-print-bulletproof-plastic-layered-cubes
+
+
+
+>>1702
+
+Weaving is more work than I thought and it also costs in materials, but its nice for making custom things from one's own designs
+
+
+
+I guess this is something like what you guys are working on; https://advances.sciencemag.org/content/3/1/e1600327
+
 There are many ways to make woven muscles
 
 # 21
->>1707
-You can place motors inside limbs or other places and use a belt to transfer the mechanical energy to joints. Cocona Kosaka has belts to drive her joints so she doesn't need large heavy motors in them.
-
+>>1707
+
+You can place motors inside limbs or other places and use a belt to transfer the mechanical energy to joints. Cocona Kosaka has belts to drive her joints so she doesn't need large heavy motors in them.
+
+
+
 Parts are expensive, especially to get custom sized, so we're trying to manufacture as much as we can on our own.
 
 # 22
@@ -182,17 +244,25 @@ Parts are expensive, especially to get custom sized, so we're trying to manufact
 OK, that makes sense. Can something like a timing belt for a car engine be used? Just trying to spitball here since I don't understand weaving very well but know cars a little.
 
 # 23
->>1712
+>>1712
+
 Yeah, timing belts are most efficient. They're mostly used for shoulders, elbows and knees. You can buy them but you'll have to design around the length and size available. It's not uncommon to use wires. No one here really knows what's the best approach yet.
 
 # 24
->>1707
-This diagram shows how hydraulic muscles work. The weave contracts the bladder when air or fluid is pumped in.
-
-It might be possible to buy double-end style towing sock cables made of the material you want rather than making your own.
-https://en.wikipedia.org/wiki/Towing_sock
-
->>1715
+>>1707
+
+This diagram shows how hydraulic muscles work. The weave contracts the bladder when air or fluid is pumped in.
+
+
+
+It might be possible to buy double-end style towing sock cables made of the material you want rather than making your own.
+
+https://en.wikipedia.org/wiki/Towing_sock
+
+
+
+>>1715
+
 Not so sure about the efficiency of belts compared to a synchromesh drive systems for use in robotics. Asides from taking up less space they can move in all directions, they're used in higher end 3d printers because the tension doesn't need to be adjusted which means better reliability in prints.
 
 # 25
@@ -213,24 +283,39 @@ I'm assuming that when the sleeve balloons is when force is being exerted into t
 It's all ogre, bros. How will I look my robowaifu in the eyes when she realizes she has origami muscles because I'm too much of a brainlet?
 
 # 28
->>1692
->>1736
-Why are you all trying to make the sleeving? Why not just use something like this: 
-https://www.mcmaster.com/2573K48
-
-Although I think with this you'd probably rather have the silicone coating on the inside but as long as you don't cut them too long it wouldn't be hard to invert.
-Barring that buy some expandable sleeving and run an inflatable tube through it.
-
+>>1692
+
+>>1736
+
+Why are you all trying to make the sleeving? Why not just use something like this: 
+
+https://www.mcmaster.com/2573K48
+
+
+
+Although I think with this you'd probably rather have the silicone coating on the inside but as long as you don't cut them too long it wouldn't be hard to invert.
+
+Barring that buy some expandable sleeving and run an inflatable tube through it.
+
+
+
 Although truthfully as fun as the artificial muscle stuff is I think it's mostly a dead end outside of perhaps some "extra" features. Since it's so complex to control.
 
 # 29
->>1719
-Think of it as a finger trap, when pushed from the inside by air pressure the ends contract towards each other.
-
->>1738
-The type of weave it uses may be unsuitable or it won't contract much when the tube is filled under pressure and that thick silicone rubber might require a lot of pressure. We won't know until some tests are done.
-
-I've also looked at some braided tubing and the smallest I've found is for model making, not sure what the outer sheath is made of or if the weave/vinyl tubing it uses would work.
+>>1719
+
+Think of it as a finger trap, when pushed from the inside by air pressure the ends contract towards each other.
+
+
+
+>>1738
+
+The type of weave it uses may be unsuitable or it won't contract much when the tube is filled under pressure and that thick silicone rubber might require a lot of pressure. We won't know until some tests are done.
+
+
+
+I've also looked at some braided tubing and the smallest I've found is for model making, not sure what the outer sheath is made of or if the weave/vinyl tubing it uses would work.
+
 https://www.1999.co.jp/eng/10320183
 
 # 30
@@ -243,15 +328,24 @@ That's an interesting idea. But I imagine that basically it'd be comparable in p
 Very nice hobby outlet anon, thanks for the link.
 
 # 32
-Found an interesting web page on the reprap forums that has a guide for making air muscles. There are other pages on robotic topics there as well.
-https://www.imagesco.com/articles/airmuscle/AirMuscleDescription01.html
-
->When the internal bladder is pressurized it expands and pushes against the inside of braided mesh sleeve, forcing the diameter of the braided mesh to expand. The physical characteristic of the mesh sleeve is that it contracts in proportion to the degree its diameter is forced to increase. This produces the contractive force of the air muscle. 
-So the type of weave on the braided mesh doesn't seem to matter? This other research paper on the topic brings up more questions so I probably won't get a good idea until tests are done first hand.
-https://www.knowledge-share.eu/en/patent/bi-directional-pneumatic-braided-muscle-actuator/
-
-Another site on this topic with an interesting solution to combat wear;
->A significant improvement to these devices has been made by the Festo Corporation, which has recently introduced a new product called fluidic muscle. This operates on the same principles as a standard BPA, with the critical difference being that the fiber mesh is impregnated inside the expandable bladder. The resulting actuators have a demonstrated fatigue life on the order of 10,000,000 cycles at high pressure.
+Found an interesting web page on the reprap forums that has a guide for making air muscles. There are other pages on robotic topics there as well.
+
+https://www.imagesco.com/articles/airmuscle/AirMuscleDescription01.html
+
+
+
+>When the internal bladder is pressurized it expands and pushes against the inside of braided mesh sleeve, forcing the diameter of the braided mesh to expand. The physical characteristic of the mesh sleeve is that it contracts in proportion to the degree its diameter is forced to increase. This produces the contractive force of the air muscle. 
+
+So the type of weave on the braided mesh doesn't seem to matter? This other research paper on the topic brings up more questions so I probably won't get a good idea until tests are done first hand.
+
+https://www.knowledge-share.eu/en/patent/bi-directional-pneumatic-braided-muscle-actuator/
+
+
+
+Another site on this topic with an interesting solution to combat wear;
+
+>A significant improvement to these devices has been made by the Festo Corporation, which has recently introduced a new product called fluidic muscle. This operates on the same principles as a standard BPA, with the critical difference being that the fiber mesh is impregnated inside the expandable bladder. The resulting actuators have a demonstrated fatigue life on the order of 10,000,000 cycles at high pressure.
+
 https://en.wikibooks.org/wiki/Robotics/Components/Actuation_Devices/Air_muscle#Braided_pneumatic_actuator
 
 # 33
@@ -260,11 +354,16 @@ Thanks for that imagesco air muscle article anon, it's a very simple and useful 
 https://files.catbox.moe/sqjys1.gz
 
 # 34
->>1746
-There was already a pdf of it but I didn't post it as the web page has links at the end which might be useful for research and there are other topics on the site. It's air-muscle-information-sheet-am-02l.pdf
-
-And instead of sleeping I've been looking into the braided sheath question. Seems that asides for the angle being important there's no good way to model the behavior accurately for simulations Modelling_of_the_McKibben_artificial_muscle.pdf also pleated braided sheaths that can increase the contraction force seem much more difficult to manufacture but some very good ideas are presented in the thirdgenPPAM.pdf  
-
+>>1746
+
+There was already a pdf of it but I didn't post it as the web page has links at the end which might be useful for research and there are other topics on the site. It's air-muscle-information-sheet-am-02l.pdf
+
+
+
+And instead of sleeping I've been looking into the braided sheath question. Seems that asides for the angle being important there's no good way to model the behavior accurately for simulations Modelling_of_the_McKibben_artificial_muscle.pdf also pleated braided sheaths that can increase the contraction force seem much more difficult to manufacture but some very good ideas are presented in the thirdgenPPAM.pdf  
+
+
+
 And lastly there's frobt-05-00136.pdf which claims to have typical air muscles beaten on almost all fronts by using an origami folding approach.
 
 # 35
@@ -288,13 +387,20 @@ Also, I hope you can tell us more about how weaving can be used for constructing
 900% seems indeed to blow away all the competition. I wonder how many Newtons force you could manage with say a 12cm^2 paper face on the end of one of these types of effectors?
 
 # 38
-The fishing line was too hard to work with but I think I understand the winding pattern now. I'm gonna order a 3D printer soon and prototype a mechanism for winding mesh sleeves in various materials.
-
->>1738
-Tubing is expensive and meshes are usually woven in a way to prevent stretching and swelling. I'm more interested in trying new ideas that haven't been done yet with hydraulic artificial muscles. Most of the research has only been done on pneumatic ones or stress testing high-pressure hydraulic ones. I want to find a silent and powerful actuation system that can move like a human being.
-
->>1745
-The amount of strips or threads in the mesh affects the contraction length, less generally increases the contraction ratio. Bladder diameter and mesh diameter also affect the contraction length, smaller diameters have higher contraction ratios.
+The fishing line was too hard to work with but I think I understand the winding pattern now. I'm gonna order a 3D printer soon and prototype a mechanism for winding mesh sleeves in various materials.
+
+
+
+>>1738
+
+Tubing is expensive and meshes are usually woven in a way to prevent stretching and swelling. I'm more interested in trying new ideas that haven't been done yet with hydraulic artificial muscles. Most of the research has only been done on pneumatic ones or stress testing high-pressure hydraulic ones. I want to find a silent and powerful actuation system that can move like a human being.
+
+
+
+>>1745
+
+The amount of strips or threads in the mesh affects the contraction length, less generally increases the contraction ratio. Bladder diameter and mesh diameter also affect the contraction length, smaller diameters have higher contraction ratios.
+
 https://iopscience.iop.org/article/10.1088/1742-6596/908/1/012036/pdf
 
 # 39
@@ -322,18 +428,30 @@ ROBOPEPE WILL SOON BE REAL
 heh poor choice of words. archival library is probably a better choice. :^)
 
 # 43
->>1753
->One thing they didn't make clear however if that was something that can be controlled dynamically, or if it has to be designed and placed into the material at manufacturing.
-
-There's a movable fitting at the bottom of the diagram and they mention that the user can change the initial braid fiber angle independently. Since they're only doing basic tests they probably changed it by hand between setups but adding in a mechanism to change it dynamically seems the logical next step.
-
-The most interesting thing about this is the rotational possibilities when using them in parallel. 
-
->>1758
-Here's another paper on those origami shaped air muscles. More powerful and compact when compressed yes but they're not ideal for larger muscles on humanoid robots because of the large volume they take up.
-
->>1753
->>1768
+>>1753
+
+>One thing they didn't make clear however if that was something that can be controlled dynamically, or if it has to be designed and placed into the material at manufacturing.
+
+
+
+There's a movable fitting at the bottom of the diagram and they mention that the user can change the initial braid fiber angle independently. Since they're only doing basic tests they probably changed it by hand between setups but adding in a mechanism to change it dynamically seems the logical next step.
+
+
+
+The most interesting thing about this is the rotational possibilities when using them in parallel. 
+
+
+
+>>1758
+
+Here's another paper on those origami shaped air muscles. More powerful and compact when compressed yes but they're not ideal for larger muscles on humanoid robots because of the large volume they take up.
+
+
+
+>>1753
+
+>>1768
+
 For anyone having trouble getting access to research papers there's libgen.is that has almost everything when it comes to scientific articles.
 
 # 44
@@ -357,8 +475,10 @@ Obviously, alternative designs can be managed tbh.
 What if you bundled long strips packaging up many of these things together and then activated them all simultaneously? Wouldn't that somewhat mimic the way actual muscle tissues in both structure and behavior?
 
 # 47
->>1757
-I'd prefer weaves over heating, I've seen memory metal before and its interesting, but I'm not sure if actuators are the proper application of it
+>>1757
+
+I'd prefer weaves over heating, I've seen memory metal before and its interesting, but I'm not sure if actuators are the proper application of it
+
 I've been kinda out of it for a while, but I think using fishing line may be a good idea
 
 # 48
@@ -368,8 +488,10 @@ I've been kinda out of it for a while, but I think using fishing line may be a g
 I'm assuming you'd want to weave fishing line as an actuator then? I think the anon who's buying a new 3D printer ITT is taking the same approach.
 
 # 49
->>84
-Check this out;
+>>84
+
+Check this out;
+
 https://hackaday.com/2019/12/04/a-self-healing-stretchable-electronic-skin/
 
 # 50
@@ -377,20 +499,28 @@ https://hackaday.com/2019/12/04/a-self-healing-stretchable-electronic-skin/
 That will be interesting to watch develop as a technology, thanks.
 
 # 51
->>1763
+>>1763
+
 An Anycubic Mega-S
 
 # 52
->>1739
->The type of weave it uses may be unsuitable or it won't contract much
-Behaves pretty well as far as I remember but I haven't tried this particular one. 
-Regardless short of buying the pneumatic muscle from Festo the wire sleeving is the cheapest and most effective bet. I've had good luck in the few times I've made pneumatic muscles in the past with it.
-
+>>1739
+
+>The type of weave it uses may be unsuitable or it won't contract much
+
+Behaves pretty well as far as I remember but I haven't tried this particular one. 
+
+Regardless short of buying the pneumatic muscle from Festo the wire sleeving is the cheapest and most effective bet. I've had good luck in the few times I've made pneumatic muscles in the past with it.
+
+
+
  That said I still think a cable driven design is the better route to explore. I'm going to be doing some experiments in that direction after the holidays.
 
 # 53
->>1765
->soon
+>>1765
+
+>soon
+
 klann linkages are really fun. Would make for a nice robo monmusume base.
 
 # 54
@@ -421,14 +551,22 @@ The intended effect would be kind of like the way a greyhound dog can really 'le
 I wonder it there is some way to adapt this to a bipedal robowaifu?
 
 # 59
->>1797
-Long time ago as a side project.
-
->>1798
-Yeah dynamics aren't the best on it. The site you link has some better walking linkages. You can see why in that video too klann linkages have a halting sort of gait as they don't have a very steady velocity curve. It does give a neat crab like effect though if that's what you're going for. 
-I want to make a snibbedy snab one at some point. Maybe I'll try out that trot bot linkage.
-
->>1799
+>>1797
+
+Long time ago as a side project.
+
+
+
+>>1798
+
+Yeah dynamics aren't the best on it. The site you link has some better walking linkages. You can see why in that video too klann linkages have a halting sort of gait as they don't have a very steady velocity curve. It does give a neat crab like effect though if that's what you're going for. 
+
+I want to make a snibbedy snab one at some point. Maybe I'll try out that trot bot linkage.
+
+
+
+>>1799
+
 Jansen linkage looks pretty but it doesn't have real great mechanics. If you only use it on flat ground it could be okay but they require 3 for a steady gait vs 2 for other walking linkages.
 
 # 60
@@ -473,26 +611,46 @@ This should at the least help decrease the complexity of the individual parts, m
 also can we effectively simulate a nano or one of these other devices properly ahead of time? we are still a ways off from assembling hardware yet, but we can probably finish up with a reasonable sim in under a year imo. can we go ahead and start writing the code for the electronics part '''now''' and had it run/debug inside the sim, also now ahead of time?
 
 # 68
->>2032
->>2041
-This is fatally flawed, but let's discuss the idea just the same. Let me list off some issues with this plan, in no particular order. 
-
-1. It is woefully inefficient to use several processors when one larger or faster one can do the same job. It will take more PCB space, cost more ($), and consume more power. Inter-processor communication and coordination (think multi-threading) also adds a huge overhead, on the order of a magnitude or two. If you need more GPIOs, there is the 44-pin ATmega164 or the 48-pin ATmega3209. If you need faster and a wider-bit bus, STM32F0 cortex-m0 processors can run at 48 or 72Mhz, operating on 32-bit integers (no FPU in cortex-m0), at half the cost of Atmel's (now Microchip) offerings. 
-
-2. The ATmega328P, the brains of the "Nano," is ancient tech. Depending on the algorithms you employ, the lack of a floating-point unit or hardware divide may make them unfeasible to run in real time on Atmel's 8-bit microcontrollers. There is a reason most drone controllers and ESCs use 32-bit Arm processors: brushless motor commutation and Kalman filters to name a couple.
-
-3. You should not be trying to prototype novel algorithms and approaches on limited hardware. 
-
-4. You should not be trying to prototype on a computer simulator of limited hardware, just use the damn computer, at least until you've got a working prototype.
-
-5. While not trivial, it is not particularly hard to make a "smart" finger. Use a few motors pulling nylon threads, potentiometers in the joints, and current sensors to limit applied power and be "compliant." Such a finger could move to any physically possible (constrained by the joint) position, at any specified speed, within specified power limits to prevent damage to itself and to objects being manipulated. What will give you trouble is the next step.
-
-6. Leaving the low-level motor control to each finger, how will you coordinate the position, speed, and force of 5 fingers per hand in real time? What you are suggesting is a classic subsumption architecture. The problem with those is, as you go "up" in levels, the problems become more abstract and complex, and quickly. At only the hand level, you need to coordinate the movement of every finger at once, to form a desired shape in multi-dimensional space at precisely the desired time, and with just the right amount of force, 10s to 100s of times per second. And it gets worse all the way up until you reach the full-body level, where every milligram of mass and micro-Newton of force of every sub-system factors into whether you're standing up or falling down. Just because the processor in each finger can manage its' own motors and sensors, does not mean it have any awareness of higher levels of coordination or the ability to decide or act independently.
-
-7. Starting with simulation is a good idea. In my experience, hardware production is 1 part design, 1 part firmware writing, and 8 parts finaggling moving parts, fine-tuning joint friction, making connectors, cutting shit, gluing shit, sanding shit, etc. Skip all of this and go straight to writing control algorithms in a high-level language and save trimming 3D-printed parts until you've got all of the kinks worked out.
-
-8. If you're going to simulate, I would go up one level of abstraction and get rid of all low level physics, sensor feedback, and control. A finger can 3 cylinders and 3 joints, 2 of them constrained to 2 dimensions.
-
+>>2032
+
+>>2041
+
+This is fatally flawed, but let's discuss the idea just the same. Let me list off some issues with this plan, in no particular order. 
+
+
+
+1. It is woefully inefficient to use several processors when one larger or faster one can do the same job. It will take more PCB space, cost more ($), and consume more power. Inter-processor communication and coordination (think multi-threading) also adds a huge overhead, on the order of a magnitude or two. If you need more GPIOs, there is the 44-pin ATmega164 or the 48-pin ATmega3209. If you need faster and a wider-bit bus, STM32F0 cortex-m0 processors can run at 48 or 72Mhz, operating on 32-bit integers (no FPU in cortex-m0), at half the cost of Atmel's (now Microchip) offerings. 
+
+
+
+2. The ATmega328P, the brains of the "Nano," is ancient tech. Depending on the algorithms you employ, the lack of a floating-point unit or hardware divide may make them unfeasible to run in real time on Atmel's 8-bit microcontrollers. There is a reason most drone controllers and ESCs use 32-bit Arm processors: brushless motor commutation and Kalman filters to name a couple.
+
+
+
+3. You should not be trying to prototype novel algorithms and approaches on limited hardware. 
+
+
+
+4. You should not be trying to prototype on a computer simulator of limited hardware, just use the damn computer, at least until you've got a working prototype.
+
+
+
+5. While not trivial, it is not particularly hard to make a "smart" finger. Use a few motors pulling nylon threads, potentiometers in the joints, and current sensors to limit applied power and be "compliant." Such a finger could move to any physically possible (constrained by the joint) position, at any specified speed, within specified power limits to prevent damage to itself and to objects being manipulated. What will give you trouble is the next step.
+
+
+
+6. Leaving the low-level motor control to each finger, how will you coordinate the position, speed, and force of 5 fingers per hand in real time? What you are suggesting is a classic subsumption architecture. The problem with those is, as you go "up" in levels, the problems become more abstract and complex, and quickly. At only the hand level, you need to coordinate the movement of every finger at once, to form a desired shape in multi-dimensional space at precisely the desired time, and with just the right amount of force, 10s to 100s of times per second. And it gets worse all the way up until you reach the full-body level, where every milligram of mass and micro-Newton of force of every sub-system factors into whether you're standing up or falling down. Just because the processor in each finger can manage its' own motors and sensors, does not mean it have any awareness of higher levels of coordination or the ability to decide or act independently.
+
+
+
+7. Starting with simulation is a good idea. In my experience, hardware production is 1 part design, 1 part firmware writing, and 8 parts finaggling moving parts, fine-tuning joint friction, making connectors, cutting shit, gluing shit, sanding shit, etc. Skip all of this and go straight to writing control algorithms in a high-level language and save trimming 3D-printed parts until you've got all of the kinks worked out.
+
+
+
+8. If you're going to simulate, I would go up one level of abstraction and get rid of all low level physics, sensor feedback, and control. A finger can 3 cylinders and 3 joints, 2 of them constrained to 2 dimensions.
+
+
+
 There's a simulator thread, have you checked it out? Also, don't think I'm trying to discourage anyone from working with hardware. I just want people to be aware of the challenges involved.
 
 # 69
@@ -500,19 +658,31 @@ There's a simulator thread, have you checked it out? Also, don't think I'm tryin
 Thank you for the critique and advice. I'll do research into the points you brought up. While I still think this approach seems to vaguely mimic how life works (well only ''very'' vaguely haha) and therefore might be a good model to follow, I also take your warnings about the difficulties of this approach seriously. I'll check out the things you mentioned too.
 
 # 70
-I haven't seen this written about anywhere online but I found if you use attention on fully connected layers while using a binary cross entropy loss, you can quickly train a network to encode a one-hot vector into a dense encoding then decode it back to the one-hot vector flawlessly. It saves a ton of training time.
-
+I haven't seen this written about anywhere online but I found if you use attention on fully connected layers while using a binary cross entropy loss, you can quickly train a network to encode a one-hot vector into a dense encoding then decode it back to the one-hot vector flawlessly. It saves a ton of training time.
+
+
+
 ```cpp
-# naively fully connected
-encoder = Linear(labels, embedding_size, bias)
-decoder = Linear(embedding_size, labels, bias)
-
-# this one weird trick
-encoder1 = Linear(labels, embedding_size, bias)
-encoder2 = Linear(labels, embedding_size, bias)
-decoder1 = Linear(embedding_size, labels, bias)
-decoder2 = Linear(embedding_size, labels, bias)
-out = encoder1(x) * encoder2(x)
+# naively fully connected
+
+encoder = Linear(labels, embedding_size, bias)
+
+decoder = Linear(embedding_size, labels, bias)
+
+
+
+# this one weird trick
+
+encoder1 = Linear(labels, embedding_size, bias)
+
+encoder2 = Linear(labels, embedding_size, bias)
+
+decoder1 = Linear(embedding_size, labels, bias)
+
+decoder2 = Linear(embedding_size, labels, bias)
+
+out = encoder1(x) * encoder2(x)
+
 out = decoder1(out) * decoder2(x)```
 
 # 71
@@ -529,16 +699,26 @@ any chance you can translate that into English for us anon? obviously it sounds 
 Title your graph and label your axes, plebeian.
 
 # 73
->>2379
-It's not really a discovery. There are already papers that implement this and call it attention since the multiplication acts as a mask to focus on and attend to certain data. It's just not common knowledge how effective this simple structure is and can be easily dropped into models for huge gains.
-
-Here's a quick rundown for anyone new to machine learning: a one-hot vector has a single one set in it and everything else set to zero. They're used for classifying data so that each feature in the vector represents a different label or item. If you have 50,000 different labels though, they become too cumbersome to work with and need to be compressed into an embedding to work with them efficiently. An embedding is a compressed representation like how a 16-bit binary number can represent 0-65535. An embedding vector with 16 dimensions can easily and non-ambiguously pack up to 2^16 labels. One-hot vectors have fallen out of favor though because they're sparse and too difficult to train. Even encoding them into an embedding can be a costly operation, unless you use special sparse tensors and optimizers. So the common approach now is to start off with a trainable weight tensor of shape ''number_of_labels x embedding_size'', then use a label's index to get its embedding, do stuff with the embedding, and output the log-probabilities of new labels or word tokens. It's also possible to look up the nearest neighbor to an embedding query to get an index but that's much slower than outputting log-probabilities without going full product keys no jutsu, a new technique for fast differentiable nearest neighbor search recently discovered last July: http://papers.nips.cc/paper/9061-large-memory-layers-with-product-keys.pdf
-
-So what is the point of improving on one-hot vectors then if they're rarely used anymore? It's just a toy example showing that backpropagation can quickly solve compressing these sparse one-hot vectors into a dense encoding and losslessly decompress them back to their original state, whereas a simple fully connected layer cannot, especially as the embedding size grows.
-
-I'm not really knowledgeable enough to understand why this works so well, but I know in fuzzy logic multiplication functions as a fuzzy AND and the bias term of the linear transformation can imitate a fuzzy NOT, basically creating a fuzzy NAND. NAND is functionally complete and can express all possible truth tables by combining NANDs together in various arrangements. Giving some of this completeness to a model seems to increase its ability to express a wider range of functions and provide a much better gradient to train on.
-
->>2382
+>>2379
+
+It's not really a discovery. There are already papers that implement this and call it attention since the multiplication acts as a mask to focus on and attend to certain data. It's just not common knowledge how effective this simple structure is and can be easily dropped into models for huge gains.
+
+
+
+Here's a quick rundown for anyone new to machine learning: a one-hot vector has a single one set in it and everything else set to zero. They're used for classifying data so that each feature in the vector represents a different label or item. If you have 50,000 different labels though, they become too cumbersome to work with and need to be compressed into an embedding to work with them efficiently. An embedding is a compressed representation like how a 16-bit binary number can represent 0-65535. An embedding vector with 16 dimensions can easily and non-ambiguously pack up to 2^16 labels. One-hot vectors have fallen out of favor though because they're sparse and too difficult to train. Even encoding them into an embedding can be a costly operation, unless you use special sparse tensors and optimizers. So the common approach now is to start off with a trainable weight tensor of shape ''number_of_labels x embedding_size'', then use a label's index to get its embedding, do stuff with the embedding, and output the log-probabilities of new labels or word tokens. It's also possible to look up the nearest neighbor to an embedding query to get an index but that's much slower than outputting log-probabilities without going full product keys no jutsu, a new technique for fast differentiable nearest neighbor search recently discovered last July: http://papers.nips.cc/paper/9061-large-memory-layers-with-product-keys.pdf
+
+
+
+So what is the point of improving on one-hot vectors then if they're rarely used anymore? It's just a toy example showing that backpropagation can quickly solve compressing these sparse one-hot vectors into a dense encoding and losslessly decompress them back to their original state, whereas a simple fully connected layer cannot, especially as the embedding size grows.
+
+
+
+I'm not really knowledgeable enough to understand why this works so well, but I know in fuzzy logic multiplication functions as a fuzzy AND and the bias term of the linear transformation can imitate a fuzzy NOT, basically creating a fuzzy NAND. NAND is functionally complete and can express all possible truth tables by combining NANDs together in various arrangements. Giving some of this completeness to a model seems to increase its ability to express a wider range of functions and provide a much better gradient to train on.
+
+
+
+>>2382
+
 It's just the mean binary cross entropy loss over each minibatch for this toy example of a sparse autoencoder, using 4096 labels, an embedding size of 12 and a minibatch size of 128. I've been working on a repo in my spare time with different automated tests that people can run to see how much it improves performance on various tasks such as classifying MNIST digits and seq2seq language translation. I'll post it here when it's done, with labelled axes and titles of course.
 
 # 74
@@ -548,15 +728,24 @@ Alright, I think I understood the one-hot binary encoding notion. How many featu
 I'm vaguely aware of NAND being a universal logic gate. Are there optimization benefits to not using them, or would it be simpler to learn for all the rest of us to just approach this stuff with NANDs in mind?
 
 # 75
->>2397
-I'm not really good at explaining things. I meant the example is just a toy problem to make it clear what it does. It's useful in all kinds of models not just this. It'll be more obvious how useful it is once I finish the other examples. Just thought I'd post it here for anyone developing their own models in the meantime because it can save a lot of training time.
-
-I've experimented with creating an actual fuzzy NAND limited to 0 to 1 probabilities before but I didn't have as much success with it as I did this. Especially once you start stacking layers in sequence, the gradient vanishes and makes training them extremely difficult. With this though it can emulate a fuzzy NAND in a loose way but it's not limited to probabilities and depending on the weights and biases some output features can emulate NAND and some can emulate AND. Also since each input feature before the multiplication has its own weight and bias, either input can emulate NOT. Some features can also pass through with no AND applied to them at all where the other linear layer's weights are close to 0 and bias close to 1. So it has a lot more ways to express functions than NAND alone.
-
-And the human eye can see about 500 megapixels, in red, green, blue and light intensity. There are also cells for detecting changes and motion. It's not just hundreds of millions but billions of features to process visual input at a human level alone, and that's not including all the other features the brain's processing is extracting from those raw features.
-
-It would be more useful to think about how many parameters are needed. If you were to compare the parameters in an artificial neural network to the synapses in the brain, the full GPT2 model is 1.5 billion parameters and the brain is estimated to have around 100,000 billion synapses. And there's more to the brain than just the connections. The length of the connections, timing of activations and chemistry going on are also extremely important. Dopamine and noradrenaline in particular have a great impact on brain function and play a role in synaptic plasticity, memory and cognition. So at least quadrillions of parameters would be needed to simulate a brain.
-
+>>2397
+
+I'm not really good at explaining things. I meant the example is just a toy problem to make it clear what it does. It's useful in all kinds of models not just this. It'll be more obvious how useful it is once I finish the other examples. Just thought I'd post it here for anyone developing their own models in the meantime because it can save a lot of training time.
+
+
+
+I've experimented with creating an actual fuzzy NAND limited to 0 to 1 probabilities before but I didn't have as much success with it as I did this. Especially once you start stacking layers in sequence, the gradient vanishes and makes training them extremely difficult. With this though it can emulate a fuzzy NAND in a loose way but it's not limited to probabilities and depending on the weights and biases some output features can emulate NAND and some can emulate AND. Also since each input feature before the multiplication has its own weight and bias, either input can emulate NOT. Some features can also pass through with no AND applied to them at all where the other linear layer's weights are close to 0 and bias close to 1. So it has a lot more ways to express functions than NAND alone.
+
+
+
+And the human eye can see about 500 megapixels, in red, green, blue and light intensity. There are also cells for detecting changes and motion. It's not just hundreds of millions but billions of features to process visual input at a human level alone, and that's not including all the other features the brain's processing is extracting from those raw features.
+
+
+
+It would be more useful to think about how many parameters are needed. If you were to compare the parameters in an artificial neural network to the synapses in the brain, the full GPT2 model is 1.5 billion parameters and the brain is estimated to have around 100,000 billion synapses. And there's more to the brain than just the connections. The length of the connections, timing of activations and chemistry going on are also extremely important. Dopamine and noradrenaline in particular have a great impact on brain function and play a role in synaptic plasticity, memory and cognition. So at least quadrillions of parameters would be needed to simulate a brain.
+
+
+
 Fortunately I don't think it will be necessary to do that to build a robowaifu. A standard laptop can run a trained MuZero model and easily beat a Go champion. Computers don't need to go through all the pains of survival, reproduction and analog computation. They can search and learn adequate programs that our brains are not even capable of running, let alone finding. Eventually the brain's capabilities will become a tiny subset of what computers can do.
 
 # 76
@@ -564,9 +753,12 @@ Fortunately I don't think it will be necessary to do that to build a robowaifu. 
 Alright thanks for the explanations Anon. Hopefully you'll make your work available here someday.
 
 # 77
->>84
->Sanitation
->When liquids are involved in any capacity, you must consider the possibility of nasty things growing in said liquid (microbes, mold). Especially the ones that'll inevitably hop over from your own filthy monkey hide. 
+>>84
+
+>Sanitation
+
+>When liquids are involved in any capacity, you must consider the possibility of nasty things growing in said liquid (microbes, mold). Especially the ones that'll inevitably hop over from your own filthy monkey hide. 
+
 Are there any microbes that are harmless to us that would prevent the growth of harmful microbes that we could use?
 
 # 78
@@ -576,8 +768,10 @@ Yes. I'm not a professional microbiologist, but I've had to study it. Microbes a
 Does that makes sense Anon? So for example algae would tend to take over as the standard flora inside a water container, and that's a good thing in the context just outlined, but they still would have to be regularly cleaned out, etc.
 
 # 79
->>2670
->2021
+>>2670
+
+>2021
+
 >Anon eliminates microbial growth issues in his robowaifu coolant system by turning it into a microbrewery
 
 # 80
@@ -586,14 +780,19 @@ Does that makes sense Anon? So for example algae would tend to take over as the 
 >Anon devises a finger sippy-straw extension **crazy-curl style is best ofc** that comes out from his wiafu's forefinger and he can drink microbrew from there.
 
 # 81
->>2681
->turn coolant system into distillery
->have old coolant drain from vagina
+>>2681
+
+>turn coolant system into distillery
+
+>have old coolant drain from vagina
+
 >get drunk on robopussy
 
 # 82
->>2668
->Microbes are literally everywhere on the planet's surface. They form colonies known as The normal flora & fauna that not only spread out over our skin, for example, but in fact form an important part of the antimicrobial defense mechanism against deleterious ones. 
+>>2668
+
+>Microbes are literally everywhere on the planet's surface. They form colonies known as The normal flora & fauna that not only spread out over our skin, for example, but in fact form an important part of the antimicrobial defense mechanism against deleterious ones. 
+
 That's where I got the idea.  I just don't know of any that we could use off the top of my head.  The microbes would need to grow well enough on what ever surface the skin is going to be made from.  We might also want to make a nutrient lotion that we could rub on the robowaifu that would give our microbes a competitive advantage while killing off undesirable microbes so the good ones can establish themselves.
 
 # 83
@@ -606,7 +805,8 @@ Once you research this area, you can never go back. **The consequences will neve
 No seriously. You don't even want to know about these things tbh.
 
 # 84
->>2689
+>>2689
+
 Nigga I've got a minor in microbiology.
 
 # 85
@@ -614,23 +814,37 @@ Nigga I've got a minor in microbiology.
 Haha fine then. Please lead the charge in this area for us Anon. I was simply trying to spare the innocent, and leave them in their blissful ignorance. :^)
 
 # 86
->>2683
-I like your thinking, Anon. Can't wait to read news stories of men sucking rum out of their robowaifu's tit and how it's creating impossible expectations on women. :^)
-
-Apparently silicone will absorb alcohol and swell in volume 10-15% but eventually dissipate from it without deterioration. I can't try this myself but it would be an interesting effect to see.
-
->>84
-Copper could be used for storing fluids inside robowaifus. It's not well known but water sitting in a copper vessel for a few hours will kill almost all the bacteria and viruses in it and they cannot survive very long on the surface of dry copper without saline, although a few strains are more resistant to dry surfaces.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3312355/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3991429/
-
-It's also great at conducting heat and safe to drink from so long as the pH is above 6.0, although you wouldn't want to use it for drinkable fluids in an alcoholic coolant system since the pressure, heat and flow would increase the rate of copper dissolution. It could be used though for storing fluids inside that can't be accessed daily for cleaning maintenance, within some limits. Acidic fluids with a pH of 4.0 will leach enough copper ions after an hour to taste bitter and foul, after about 10 hours it will become toxic and cause nausea, so such a storage system has to be used with proper care and awareness.
-
+>>2683
+
+I like your thinking, Anon. Can't wait to read news stories of men sucking rum out of their robowaifu's tit and how it's creating impossible expectations on women. :^)
+
+
+
+Apparently silicone will absorb alcohol and swell in volume 10-15% but eventually dissipate from it without deterioration. I can't try this myself but it would be an interesting effect to see.
+
+
+
+>>84
+
+Copper could be used for storing fluids inside robowaifus. It's not well known but water sitting in a copper vessel for a few hours will kill almost all the bacteria and viruses in it and they cannot survive very long on the surface of dry copper without saline, although a few strains are more resistant to dry surfaces.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3312355/
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3991429/
+
+
+
+It's also great at conducting heat and safe to drink from so long as the pH is above 6.0, although you wouldn't want to use it for drinkable fluids in an alcoholic coolant system since the pressure, heat and flow would increase the rate of copper dissolution. It could be used though for storing fluids inside that can't be accessed daily for cleaning maintenance, within some limits. Acidic fluids with a pH of 4.0 will leach enough copper ions after an hour to taste bitter and foul, after about 10 hours it will become toxic and cause nausea, so such a storage system has to be used with proper care and awareness.
+
+
+
 There's a lot of disinfo if you Google copper since it's an essential mineral the body needs to filter out toxins. For an anecdote, I've been drinking and cooking with water only out of a copper jug for years and have a lot more energy and health than most people my age. Copper is also necessary for the brain to produce noradrenaline from dopamine which is required to stimulate focused activity.
 
 # 87
->>2754
-Also while digging around it seems gasoline is particularly dangerous to silicone robowaifus. Luddites could easily use it to attack them. How can we make their skin resistant to attacks? Even oil paints could be a nuisance if robowaifus are ever to walk free one day. Someone could shoot them with a paintball to destroy their skin and you'd never know who did it.
+>>2754
+
+Also while digging around it seems gasoline is particularly dangerous to silicone robowaifus. Luddites could easily use it to attack them. How can we make their skin resistant to attacks? Even oil paints could be a nuisance if robowaifus are ever to walk free one day. Someone could shoot them with a paintball to destroy their skin and you'd never know who did it.
+
 https://www.shinetsusilicone-global.com/catalog/pdf/rubber_e.pdf
 
 # 88
@@ -656,8 +870,10 @@ Thank you Anon, the guy seems to be a talented modeler. Mind directing him to ou
 Interesting. We'll probably need an Anon who can conduct some tests for the group. One notion that comes immediately to mind is if she's going to be going out unescorted, then have her dress in some kind of sport-suit made of a protective material like a denser plastic.
 
 # 92
->>2761
->have her dress in some kind of sport-suit made of a protective material like a denser plastic
+>>2761
+
+>have her dress in some kind of sport-suit made of a protective material like a denser plastic
+
 Their faces will still be exposed though. Maybe with all the bioweapons they're releasing we'll have anime robot girls buying groceries for us in hazmat suits. What a time to be alive!
 
 # 93
@@ -665,16 +881,23 @@ Their faces will still be exposed though. Maybe with all the bioweapons they're 
 Kek. Maybe so.
 
 # 94
-So I've been working on developing a model that combines MuZero, the Intrinsic Curiosity Module, Go-Explore, Hindsight Experience Replay and Divide-and-Conquer MCTS to solve SNES RPGs and am faced with some pretty tough questions to solve:
-
->1. '''How can an agent learn to set its own abstract goals?''' For example, if an agent attacks an enemy with a certain spell, it may wish to go back and try a different spell on that enemy. Perhaps enemies don't respawn again in the same area and the agent must try it on a similar enemy in another area.
->2. '''How can an agent bail on a goal that is not achievable?''' Suppose an agent took a wrong turn of choices in a visual novel and its waifu dies from its decisions. It's unable to go back and do something different it wishes it could do unless it restarts the game. How can the agent discern possible goals from impossible goals?
->3. '''How can it transfer that desired goal to a realistic goal?''' This is similar to the above two questions. In the case of Question 1 it wants to transfer that goal to attacking a similar enemy in a different area with the same spell. In the case of Question 2, it wants to make sure it doesn't make the same mistake again that got its waifu killed by transferring that desired goal to protect another waifu.
->4. '''How can an agent be instructed to perform abstract goals with difficult to describe success conditions without a reward function?''' MERLIN (arXiv:1803.10760) provided some insight to this by training an agent to respond to entered text commands and getting a reward once it was achieved. However, it is limited by what you can implement as a reward function. Ideally you want to be able to instruct the agent to do many things. Something as simple as asking an agent to run in a circle is extremely difficult to implement into a reward function and only applicable to that one task.
+So I've been working on developing a model that combines MuZero, the Intrinsic Curiosity Module, Go-Explore, Hindsight Experience Replay and Divide-and-Conquer MCTS to solve SNES RPGs and am faced with some pretty tough questions to solve:
+
+
+
+>1. '''How can an agent learn to set its own abstract goals?''' For example, if an agent attacks an enemy with a certain spell, it may wish to go back and try a different spell on that enemy. Perhaps enemies don't respawn again in the same area and the agent must try it on a similar enemy in another area.
+
+>2. '''How can an agent bail on a goal that is not achievable?''' Suppose an agent took a wrong turn of choices in a visual novel and its waifu dies from its decisions. It's unable to go back and do something different it wishes it could do unless it restarts the game. How can the agent discern possible goals from impossible goals?
+
+>3. '''How can it transfer that desired goal to a realistic goal?''' This is similar to the above two questions. In the case of Question 1 it wants to transfer that goal to attacking a similar enemy in a different area with the same spell. In the case of Question 2, it wants to make sure it doesn't make the same mistake again that got its waifu killed by transferring that desired goal to protect another waifu.
+
+>4. '''How can an agent be instructed to perform abstract goals with difficult to describe success conditions without a reward function?''' MERLIN (arXiv:1803.10760) provided some insight to this by training an agent to respond to entered text commands and getting a reward once it was achieved. However, it is limited by what you can implement as a reward function. Ideally you want to be able to instruct the agent to do many things. Something as simple as asking an agent to run in a circle is extremely difficult to implement into a reward function and only applicable to that one task.
+
 >5. '''How can novelty search be enhanced with a value function?''' There's biological evidence that dopamine release in animals and human beings is enhanced when the perceived value of the novelty is high, whether it's beneficial or an unforeseen threat. Should the value function be merely based off survival of the agent's identity? How can and should the agent's identity expand and develop as it gains experiences? For example, it might not control the other party members but they are working together as one unit. It seems like this would require implementing some sort of abstract identity the agent is trying to preserve while exploring novel states.
 
 # 95
->>3182
+>>3182
+
 Also a thought I've had for implementing goals is to represent them as a change in the state's latent variables. If the state has latent variables for counting money, a goal vector to increase money would be mostly zero except for positive values for the variables that count money. But I don't think it will work out that simply because the network will learn its own compressed encoding to store to more information.
 
 # 96
@@ -700,7 +923,7 @@ So part a might just use the same type of sword against a similarly-classed enem
 By enforcing behavioral dictates at a level ''above'' the straightforward reward-function-only level maybe? When all else fails, the agent can just rely on a pre-programmed set of directives provided by the oracle (you, the developer, ofc). For an example analogy, say a Christian might face a conundrum; ''"what to do about Satanism being promoted on your previous imageboard, a circumstance you yourself allowed to take root simply by ignoring it."'' That Christian might ignore his own past failures and any merely social current embarrassments and look outward to the Bible--a guidebook directed for him by a higher Oracle--for guidance. In some similar sense you might direct for particular outcomes for the agent at a higher level, when the lower-level systems such as reward mechanisms fail in a given circumstance.
 
 >5. How can novelty search be enhanced with a value function? There's biological evidence that dopamine release in animals and human beings is enhanced when the perceived value of the novelty is high, whether it's beneficial or an unforeseen threat. Should the value function be merely based off survival of the agent's identity? How can and should the agent's identity expand and develop as it gains experiences? For example, it might not control the other party members but they are working together as one unit. It seems like this would require implementing some sort of abstract identity the agent is trying to preserve while exploring novel states.
-<some sort of abstract identity the agent is trying to preserve while exploring novel states.
+< some sort of abstract identity the agent is trying to preserve while exploring novel states.
 Precisely. The ''Theory of Mind'' could be valuable here. Mere survival is a baser instinct and one we humans share with other biological systems around the planet. But as a ''human being'' higher-order priorities may come into play. Self-sacrifice for the greater good. A soldier throwing himself on top of a grenade tossed into their bunker to save all his buddies, for a decent example of this. Animals won't do this, but humans might. Animals don't seem to carry an internal 'sense of personhood' (aka Theory of Mind), but normal humans obviously do. These are more or less philosophical questions you're asking in the end. Well-worn-path philosophical ''answers'' may prove valuable here Anon.
 
 >Also a thought I've had for implementing goals is to represent them as a change in the state's latent variables. If the state has latent variables for counting money, a goal vector to increase money would be mostly zero except for positive values for the variables that count money. But I don't think it will work out that simply because the network will learn its own compressed encoding to store to more information.
@@ -722,29 +945,52 @@ Back in the '90's this exact need was the single largest commercial driver of so
 Pushing Tin is big business, Anon.
 
 # 98
->>3184
->Q: how are you even doing that?
-I'm taking the basic ideas behind them and blending them together. The dynamics network of MuZero predicts the next state and reward but rewards in ICM are novelty so it predicts that instead, which the MuZero MCTS uses to pick actions to explore unknown novel states. Adding the ideas behind Go-Explore with them required a new method though due to it having a different implementation. The basic idea behind it is it selects a novel state it didn't fully explore from an archive, returns to that state in the game, explores from that, and saves new interesting states to explore later into the archive and repeats. With Go-Explore though it saved novel game states and reloaded them to try something new, which isn't applicable to real-world problems. One thing I could do though is reload these states within its own model of the game and explore them within its imagination. In a sense the MCTS already does this but only from its current state.
-
-What I'm working with at the moment is concatenating a goal with the state as input to the policy network to choose an action towards reaching that goal, which is chosen by picking a novel state from the archive to reach and calculating the distance between the current state and that novel goal state. This allowed me to combine Hindsight Experience Replay since if the agent was unsuccessful reaching the goal, the goal can be replaced with a virtual goal to teach it that the series of actions it just performed is what you do to reach that new state from the previous one. Divide-and-Conquer MCTS is to break goals down into smaller and smaller subgoals that are solved independently and recursively, continuously improving its ability to create long-term plans in complex environments even without reaching the final goal.
-
->So, keeping track of some kind of a 'score-card association', that's temporally-constrained and bounded by the set of current circumstances (stored in a set of dynamic Python dictionaries, say)
-The problem with using a Python dictionary is it's non-differentiable but there is a technique that can emulate dictionaries: https://arxiv.org/pdf/1907.05242
-It's not really clear what the AI's internal state is storing, especially in the beginning when everything is initialized randomly. One possibility is using the state to create the dictionary key and save information there for a future similar state to read since the technique in the paper also works like a fast approximate nearest neighbor search. Also it doesn't have access to the game's internal state (it could but I find that a less interesting problem) so it doesn't know whether a sword did better damage or not. It has to learn to read the numbers shown on the screen, associate that with attacks, and associate that with defeating enemies more quickly, all by searching curiously within its own representations and model of the game world.
-
->if you've tried a couple of different choices, and neither work then you'd probably begin to move the Goal variable more towards the flight mode and less towards the fight mode
-Since the network searches future states by novelty I might be able to implement this by its predictions somehow. I'm still learning the DC-MCTS paper but it might be possible to detect discontinuity in the created plans despite all attempts to find a path to the goal and then abort after a certain amount of effort that leads to a predictable state that isn't the goal.
-
->to potentially alter the outcome (if it was a bad one) or tend reinforce the previous choice sequences (if it was a good outcome)
-The problem is how does it determine what is a good outcome and what is a bad outcome? Novelty search only avoids death because it predicts it will start all over again from an extremely predictable state. More often than not it will choose actions just to see what happens rather than because they're effective, unless its slogging through stuff it already knows to get to a more novel state. One of my requirements is to keep the system open-ended as possible. Later it will be trained to speed run the game as fast as possible by training against itself in self-play to learn a value function, but in the exploration phase it has to be capable of learning the consequences of actions and finishing the game without it.
-
->When all else fails, the agent can just rely on a pre-programmed set of directives provided by the oracle (you, the developer, ofc).
-This might be possible later on when I embed a chat function into the network. My hope is it will learn to associate words with the game world and learn to ask questions it is curious about. For now as far as pre-programmed directives go with my implementation, the only thing that can be tinkered with are its goals and taking over control with the gamepad to guide it with supervised learning.
-
->These are more or less philosophical questions you're asking in the end.
-There was an interesting paper that questioned the claim that AlphaZero was starting from zero that asked, "How much of the human mind is built-in, and how much of it is constructed by experience?" (https://arxiv.org/pdf/1801.05667)
-It's a really interesting question. I live in the forest and in my experience many wild animals are as conscious as human beings, far more intelligent and alert than many people actually but with far less brain power and physical capability to manipulate the environment. Some species of animals have been shown to have their own cultures and beliefs passed on from generation to generation, create rumors and gossip, and protect their families, especially crows that can also solve complex problems with tools to get a piece of food, despite having smooth brains and a lack of a neocortex that neuroscientists say is required for cognition. So I don't think these are innately human abilities but something far more basic. I'm not a neuroscientist but my suspicion is that cognition is created by slow-firing neurons.
-
+>>3184
+
+>Q: how are you even doing that?
+
+I'm taking the basic ideas behind them and blending them together. The dynamics network of MuZero predicts the next state and reward but rewards in ICM are novelty so it predicts that instead, which the MuZero MCTS uses to pick actions to explore unknown novel states. Adding the ideas behind Go-Explore with them required a new method though due to it having a different implementation. The basic idea behind it is it selects a novel state it didn't fully explore from an archive, returns to that state in the game, explores from that, and saves new interesting states to explore later into the archive and repeats. With Go-Explore though it saved novel game states and reloaded them to try something new, which isn't applicable to real-world problems. One thing I could do though is reload these states within its own model of the game and explore them within its imagination. In a sense the MCTS already does this but only from its current state.
+
+
+
+What I'm working with at the moment is concatenating a goal with the state as input to the policy network to choose an action towards reaching that goal, which is chosen by picking a novel state from the archive to reach and calculating the distance between the current state and that novel goal state. This allowed me to combine Hindsight Experience Replay since if the agent was unsuccessful reaching the goal, the goal can be replaced with a virtual goal to teach it that the series of actions it just performed is what you do to reach that new state from the previous one. Divide-and-Conquer MCTS is to break goals down into smaller and smaller subgoals that are solved independently and recursively, continuously improving its ability to create long-term plans in complex environments even without reaching the final goal.
+
+
+
+>So, keeping track of some kind of a 'score-card association', that's temporally-constrained and bounded by the set of current circumstances (stored in a set of dynamic Python dictionaries, say)
+
+The problem with using a Python dictionary is it's non-differentiable but there is a technique that can emulate dictionaries: https://arxiv.org/pdf/1907.05242
+
+It's not really clear what the AI's internal state is storing, especially in the beginning when everything is initialized randomly. One possibility is using the state to create the dictionary key and save information there for a future similar state to read since the technique in the paper also works like a fast approximate nearest neighbor search. Also it doesn't have access to the game's internal state (it could but I find that a less interesting problem) so it doesn't know whether a sword did better damage or not. It has to learn to read the numbers shown on the screen, associate that with attacks, and associate that with defeating enemies more quickly, all by searching curiously within its own representations and model of the game world.
+
+
+
+>if you've tried a couple of different choices, and neither work then you'd probably begin to move the Goal variable more towards the flight mode and less towards the fight mode
+
+Since the network searches future states by novelty I might be able to implement this by its predictions somehow. I'm still learning the DC-MCTS paper but it might be possible to detect discontinuity in the created plans despite all attempts to find a path to the goal and then abort after a certain amount of effort that leads to a predictable state that isn't the goal.
+
+
+
+>to potentially alter the outcome (if it was a bad one) or tend reinforce the previous choice sequences (if it was a good outcome)
+
+The problem is how does it determine what is a good outcome and what is a bad outcome? Novelty search only avoids death because it predicts it will start all over again from an extremely predictable state. More often than not it will choose actions just to see what happens rather than because they're effective, unless its slogging through stuff it already knows to get to a more novel state. One of my requirements is to keep the system open-ended as possible. Later it will be trained to speed run the game as fast as possible by training against itself in self-play to learn a value function, but in the exploration phase it has to be capable of learning the consequences of actions and finishing the game without it.
+
+
+
+>When all else fails, the agent can just rely on a pre-programmed set of directives provided by the oracle (you, the developer, ofc).
+
+This might be possible later on when I embed a chat function into the network. My hope is it will learn to associate words with the game world and learn to ask questions it is curious about. For now as far as pre-programmed directives go with my implementation, the only thing that can be tinkered with are its goals and taking over control with the gamepad to guide it with supervised learning.
+
+
+
+>These are more or less philosophical questions you're asking in the end.
+
+There was an interesting paper that questioned the claim that AlphaZero was starting from zero that asked, "How much of the human mind is built-in, and how much of it is constructed by experience?" (https://arxiv.org/pdf/1801.05667)
+
+It's a really interesting question. I live in the forest and in my experience many wild animals are as conscious as human beings, far more intelligent and alert than many people actually but with far less brain power and physical capability to manipulate the environment. Some species of animals have been shown to have their own cultures and beliefs passed on from generation to generation, create rumors and gossip, and protect their families, especially crows that can also solve complex problems with tools to get a piece of food, despite having smooth brains and a lack of a neocortex that neuroscientists say is required for cognition. So I don't think these are innately human abilities but something far more basic. I'm not a neuroscientist but my suspicion is that cognition is created by slow-firing neurons.
+
+
+
 Thanks for all the feedback. It has given me a lot to think about and ideas to work with.
 
 # 99
@@ -755,10 +1001,14 @@ Glad to hear it, YW. You have a remarkable mind, I hope we will see real robowai
 Good luck to us all.
 
 # 100
-Been working on some PyTorch code to create layers where each pixel is fully connected to neighboring pixels and by accident found out that by disabling the bias they emulate activity patterns similar to the brain. It's not fast but it isn't terribly slow either.
-
-Still playing around with them trying to understand their effects. They should also work in 3 dimensions by setting ''cross=True'' but I've only checked that it works with 3 channels. Pretty sure the way it's coded at the moment all the channels are connected which isn't how it's suppose to be but I guess that has its own uses.
-
+Been working on some PyTorch code to create layers where each pixel is fully connected to neighboring pixels and by accident found out that by disabling the bias they emulate activity patterns similar to the brain. It's not fast but it isn't terribly slow either.
+
+
+
+Still playing around with them trying to understand their effects. They should also work in 3 dimensions by setting ''cross=True'' but I've only checked that it works with 3 channels. Pretty sure the way it's coded at the moment all the channels are connected which isn't how it's suppose to be but I guess that has its own uses.
+
+
+
 Code for the layers available at: https://gitlab.com/kokubunji/linear2d
 
 # 101
@@ -782,16 +1032,23 @@ OpenCV would be ''by far'' the easiest approach if it in fact serves your purpos
 that last one with the hippocampus is beautiful to watch, actually.
 
 # 103
->>3224
-I'm not sure what flow fields are useful for except in spatial transformer networks. I don't have any experience with video processing.
-
-Technically it's ''suppose'' to run faster on the GPU but in practice it's 100x faster on the CPU using Pytorch and Tensorflow doesn't even support grouped 1D convolutions. It's too far out of my expertise at the moment to write my own GPU kernel code interfaced with Pytorch. When I have some time I'm gonna try implementing it another way without Conv1D and maybe that could be ported one day.
-
-I found some code for depthwise 2D convolutions here:
+>>3224
+
+I'm not sure what flow fields are useful for except in spatial transformer networks. I don't have any experience with video processing.
+
+
+
+Technically it's ''suppose'' to run faster on the GPU but in practice it's 100x faster on the CPU using Pytorch and Tensorflow doesn't even support grouped 1D convolutions. It's too far out of my expertise at the moment to write my own GPU kernel code interfaced with Pytorch. When I have some time I'm gonna try implementing it another way without Conv1D and maybe that could be ported one day.
+
+
+
+I found some code for depthwise 2D convolutions here:
+
 https://github.com/rosinality/depthwise-conv-pytorch
 
 # 104
->>3227
+>>3227
+
 Kek, the new implementation without Conv1d is 5x faster on CPU and 10x faster on GPU. Now as image size increases the GPU is exponentially faster. The only limiting factor is memory.
 
 # 105
@@ -835,15 +1092,24 @@ Note the referenced perf comment is way out of date. Today's nominal GPUs would 
 The second example only 'pays the toll' in the upload direction, since the result sum is merely a single int (and normally wouldn't even be transferred back down, but simply used onboard the device).
 
 # 109
->>3231
-I need YUGE Sanic memory. With large images I have to augment training data on the GPU while it waits for new data to load. The layers also require a lot of parameters too, channels x height x width x 4. I created this for generating artwork in HD but it's impossible to fit more than a few layers this size into my GPU. It's not going to be feasible with my original idea of hundreds of neighboring pixels spread out exponentially so that any pixel can communicate with any other pixel within a maximum of 10 steps using a minimal amount of connections. Another option though might be to use Fibonnaci spirals or evolve random patterns to find what works best.
-
-On smaller scales though this should be capable of doing some pretty interesting stuff. With 6 neighboring pixels it can communicate in 3D. With 8 it can do 4D. The edges are now wrapped around onto a torus too. The channels also wrap around so they can all communicate. Out of curiosity I'd like to try converting images into 10D cubes, process them in that 10D space, output 10 latent variables, then input them into a 10D network and project it back into 2D to see if it can disentangle high dimensional data better that way.
-
->>3234
-Thanks, this will be really useful when I try to optimize it one day. I need my robowaifu and must Thrust. :^)
-
->>3236
+>>3231
+
+I need YUGE Sanic memory. With large images I have to augment training data on the GPU while it waits for new data to load. The layers also require a lot of parameters too, channels x height x width x 4. I created this for generating artwork in HD but it's impossible to fit more than a few layers this size into my GPU. It's not going to be feasible with my original idea of hundreds of neighboring pixels spread out exponentially so that any pixel can communicate with any other pixel within a maximum of 10 steps using a minimal amount of connections. Another option though might be to use Fibonnaci spirals or evolve random patterns to find what works best.
+
+
+
+On smaller scales though this should be capable of doing some pretty interesting stuff. With 6 neighboring pixels it can communicate in 3D. With 8 it can do 4D. The edges are now wrapped around onto a torus too. The channels also wrap around so they can all communicate. Out of curiosity I'd like to try converting images into 10D cubes, process them in that 10D space, output 10 latent variables, then input them into a 10D network and project it back into 2D to see if it can disentangle high dimensional data better that way.
+
+
+
+>>3234
+
+Thanks, this will be really useful when I try to optimize it one day. I need my robowaifu and must Thrust. :^)
+
+
+
+>>3236
+
 I had no idea sorting was that fast on the GPU. Damn, I could do some insane Monte Carlo Markov chain stuff with that kind of speed.
 
 # 110
@@ -861,20 +1127,33 @@ https://arxiv.org/abs/2005.05957
 https://news.developer.nvidia.com/flowtron-speech-synthesis-model/
 
 # 111
->>3240
-Tacotron sounds better but that might be due to Flowtron trading off parameters to capture more expressiveness at the loss of quality. The paper isn't much use to us right now but one or two papers down the line something amazing might happen.
-
-Expressiveness in voices is hard to capture with machine learning because backpropagation has a huge problem with only converging to an average with very little variance. Flowtron is much better at capturing variance in pitch but I imagine the quality suffers because it's still finding the average for variances not being captured.
-
-This sort of ties in with an experiment I was doing last night to gain a better intuition of why my layers were failing to train quickly. I created a simple problem where it has to compress 4 pixels into 1 pixel and do this 4 times, then reconstruct the original pixels. The answer is obvious it only needs to pick the top-left, top-right, bottom-left, bottom-right and it's solved, but what does backpropagation actually do? It gets stuck on a plateau by choosing the average of all 4 of them. After about 6000 minibatches it finally figures out it only needs to choose one pixel and solves it after 8000. Backpropagation really sucks at disentangling information on its own. There's nothing guiding where the error should flow.
-
-This is a huge problem for the layers I'm creating since they don't rely on a kernel that can focus on picking one specific feature out of some data and ignore other gradients like convolutions do. Once I started stacking my layers this averaging effect became exponentially more difficult to solve. Four layers deep and it made almost no progress in an hour.
-
-To combat this problem I introduced a cost function into the weights of each layer to select at least ''n'' features minimum and minimize the selection of other features without overfitting to the features it has already selected:
+>>3240
+
+Tacotron sounds better but that might be due to Flowtron trading off parameters to capture more expressiveness at the loss of quality. The paper isn't much use to us right now but one or two papers down the line something amazing might happen.
+
+
+
+Expressiveness in voices is hard to capture with machine learning because backpropagation has a huge problem with only converging to an average with very little variance. Flowtron is much better at capturing variance in pitch but I imagine the quality suffers because it's still finding the average for variances not being captured.
+
+
+
+This sort of ties in with an experiment I was doing last night to gain a better intuition of why my layers were failing to train quickly. I created a simple problem where it has to compress 4 pixels into 1 pixel and do this 4 times, then reconstruct the original pixels. The answer is obvious it only needs to pick the top-left, top-right, bottom-left, bottom-right and it's solved, but what does backpropagation actually do? It gets stuck on a plateau by choosing the average of all 4 of them. After about 6000 minibatches it finally figures out it only needs to choose one pixel and solves it after 8000. Backpropagation really sucks at disentangling information on its own. There's nothing guiding where the error should flow.
+
+
+
+This is a huge problem for the layers I'm creating since they don't rely on a kernel that can focus on picking one specific feature out of some data and ignore other gradients like convolutions do. Once I started stacking my layers this averaging effect became exponentially more difficult to solve. Four layers deep and it made almost no progress in an hour.
+
+
+
+To combat this problem I introduced a cost function into the weights of each layer to select at least ''n'' features minimum and minimize the selection of other features without overfitting to the features it has already selected:
+
 ```cpp
-cost = ((n**0.5-weight.norm(2, feature_dim))**2 + weight.mean(feature_dim)**2```
-Which is PyTorch code for taking (the square root of ''n'' - the Euclidean norm across the feature dimension being selected from)^2 + (the mean across the feature dimension)^2
-
+cost = ((n**0.5-weight.norm(2, feature_dim))**2 + weight.mean(feature_dim)**2```
+
+Which is PyTorch code for taking (the square root of ''n'' - the Euclidean norm across the feature dimension being selected from)^2 + (the mean across the feature dimension)^2
+
+
+
 Now instead of taking forever to train I can make the network eight layers deep and it quickly disentangles the features within ten minutes by finding the most meaningful features first and slowly grinding away any connections that aren't necessary while also adapting to changes in the gradient when the feature selection becomes wrong. I haven't tested it yet on other types of neural networks but I think this cost function will be extremely useful in other machine learning applications if someone hasn't discovered this already.
 
 # 112
@@ -898,9 +1177,12 @@ https://arxiv.org/abs/1706.03762
 Assuming someone did do this, how would one even go about determining this?
 
 # 114
->>3251
-==Anonymous users solve AI problems puzzling data scientists for decades==
-<They're building opensource catgirl meidos and it's terrifying.
+>>3251
+
+==Anonymous users solve AI problems puzzling data scientists for decades==
+
+<They're building opensource catgirl meidos and it's terrifying.
+
 Only way to find out is either through an exhaustive search of literature or asking researchers working on similar problems.
 
 # 115
@@ -908,16 +1190,26 @@ Only way to find out is either through an exhaustive search of literature or ask
 kek. we '''need''' this headline anon. keep moving forward!
 
 # 116
->>3250
-Yeah, I really like the idea of transformers. They're effective at overcoming this averaging problem. The problem with them though is they're expensive in parameters and compute. Another issue is once you start multiplying things together too much is it cuts off the flow the gradient to deeper parts of the network and they become untrainable due to the vanishing gradient problem. I think there's an important lesson to be learned from the Swish activation function, x·sigmoid(β x), found by automated search that outperforms ReLU:
-https://arxiv.org/pdf/1710.05941.pdf
-
-The beauty of Swish is it can bottleneck gradients to part of the network like ReLU, preserving them to reach deeper layers, but also open these bottlenecks back up again and allow the gradient to flow to other areas when necessary, whereas ReLU can't. Similarly once you start using products it creates dead zones in the gradient that are only activated under certain circumstances. It's effective but it seems like a crutch to overcoming the annoyances of gradient descent. It requires exponentially more parameters separated into different attention heads rather than actually compressing information together and distilling knowledge from it. SentenceMIM for example outperforms Nvidia's 8-billion parameter GPT2 model with just 12 million parameters. It's also worthy to note LSTMs used in SentenceMIM use sigmoid and tanh before multiplication which allow gradients to flow and not explode or vanish. So I think the way forward is forming more intelligent gradients rather than cutting it off completely in hope different parts of the network specialize. The neuromodulatory network in ANML that controls the flow of gradients is also interesting and amazing progress in this direction: https://arxiv.org/pdf/2002.09571.pdf
-
-What originally inspired my idea a year ago was dendritic branching. I wanted to capture this hierarchical tree-like structure somehow but working only with 2d images wasn't enough. What fascinates me about these branches now as I started to explore this idea in 3 dimensions is that they only either go left or right like binary search and in a computer we don't have to worry about the limits of spatial reality. We can wrap a 1d space around a circle and in one step reach any point on it. Similarly if you wrap a 2d space around a torus you can reach any point on it in two steps, corresponding to a step in each dimension. We can continue adding more and more dimensions to this torus. A way to mentally picture a hypertorus is to think of the game Portal and opening up 3 yellow portals and 3 blue portals on the 3 pairs of opposite faces of the room.
-
-So if we take a 729x729 greyscale image and reshape it into a 12D hypertorus that still has the same 3^12 features, now every pixel in the image is connected within 12 steps, using only 24 parameters per step or 288 in total for each feature, although so far in my early experiments it seems entirely possible to reuse the same parameters each step but it's more difficult to train and captures far less information. I still have to try it with my cost function in these higher dimensions and see how it helps. Either way, a fully connected layer with 3^12 input features to 3^12 output features would require 1315 GB of memory to compute but on a 12D hypertorus the features can be connected together with at most 2.9GB in a worst case scenario or 243MB reusing the parameters. A 3 channel 2187x2187 image could be processed in 15D with at most 120GB or 8GB reusing parameters which is entirely possible on today's upper end hardware. That includes the memory cost of the calculations and gradients, minus the overhead of whatever machine learning library is being used.
-
+>>3250
+
+Yeah, I really like the idea of transformers. They're effective at overcoming this averaging problem. The problem with them though is they're expensive in parameters and compute. Another issue is once you start multiplying things together too much is it cuts off the flow the gradient to deeper parts of the network and they become untrainable due to the vanishing gradient problem. I think there's an important lesson to be learned from the Swish activation function, x·sigmoid(β x), found by automated search that outperforms ReLU:
+
+https://arxiv.org/pdf/1710.05941.pdf
+
+
+
+The beauty of Swish is it can bottleneck gradients to part of the network like ReLU, preserving them to reach deeper layers, but also open these bottlenecks back up again and allow the gradient to flow to other areas when necessary, whereas ReLU can't. Similarly once you start using products it creates dead zones in the gradient that are only activated under certain circumstances. It's effective but it seems like a crutch to overcoming the annoyances of gradient descent. It requires exponentially more parameters separated into different attention heads rather than actually compressing information together and distilling knowledge from it. SentenceMIM for example outperforms Nvidia's 8-billion parameter GPT2 model with just 12 million parameters. It's also worthy to note LSTMs used in SentenceMIM use sigmoid and tanh before multiplication which allow gradients to flow and not explode or vanish. So I think the way forward is forming more intelligent gradients rather than cutting it off completely in hope different parts of the network specialize. The neuromodulatory network in ANML that controls the flow of gradients is also interesting and amazing progress in this direction: https://arxiv.org/pdf/2002.09571.pdf
+
+
+
+What originally inspired my idea a year ago was dendritic branching. I wanted to capture this hierarchical tree-like structure somehow but working only with 2d images wasn't enough. What fascinates me about these branches now as I started to explore this idea in 3 dimensions is that they only either go left or right like binary search and in a computer we don't have to worry about the limits of spatial reality. We can wrap a 1d space around a circle and in one step reach any point on it. Similarly if you wrap a 2d space around a torus you can reach any point on it in two steps, corresponding to a step in each dimension. We can continue adding more and more dimensions to this torus. A way to mentally picture a hypertorus is to think of the game Portal and opening up 3 yellow portals and 3 blue portals on the 3 pairs of opposite faces of the room.
+
+
+
+So if we take a 729x729 greyscale image and reshape it into a 12D hypertorus that still has the same 3^12 features, now every pixel in the image is connected within 12 steps, using only 24 parameters per step or 288 in total for each feature, although so far in my early experiments it seems entirely possible to reuse the same parameters each step but it's more difficult to train and captures far less information. I still have to try it with my cost function in these higher dimensions and see how it helps. Either way, a fully connected layer with 3^12 input features to 3^12 output features would require 1315 GB of memory to compute but on a 12D hypertorus the features can be connected together with at most 2.9GB in a worst case scenario or 243MB reusing the parameters. A 3 channel 2187x2187 image could be processed in 15D with at most 120GB or 8GB reusing parameters which is entirely possible on today's upper end hardware. That includes the memory cost of the calculations and gradients, minus the overhead of whatever machine learning library is being used.
+
+
+
 Pytorch isn't really optimized for calculations in such high dimensions and circular wrapping of connections. What I'm working with at the moment requires duplicating the data twice for each dimension and padding each dimension by 1, so instead of requiring 3^dim in memory it requires 3*dim*5^dim which restricts me to using 10 dimensions at most, but if these higher dimensions prove useful for something then I'll certainly write my own code to optimize it. It's really fascinating just being able to watch it process data. Can't wait to start throwing images into wacky dimensions and see what the hell it spits out.
 
 # 117
@@ -979,7 +1271,8 @@ https://youtu.be/2wRc1KbEAU8
 https://youtu.be/iR6OBlSzp7I
 
 # 123
-Here's a vid I found which may have some practical application;
+Here's a vid I found which may have some practical application;
+
 https://www.youtube.com/watch?v=bG3rvkpDsdg
 
 # 124
@@ -991,7 +1284,8 @@ Neat, I hadn't thought about so many alternative ways to fasten printed parts to
 Fascinating. Doing so small stuff might be interesting for building some delicate parts, e.g. in the hands.
 
 # 126
->>4827
+>>4827
+
 Are you using ventilation when 3D printing?
 
 # 127
@@ -1043,7 +1337,8 @@ I don't know the answer to that, but I think you can make a sane rough estimate 
 Find the volume of a hand by using a big measuring cup and determining how much water is displaced. Then calculate the weight of the displaced water (1 c^3 == 1 g) you can be confident that a hand weighs ''less'' than that simply by dint of containing bones (and the general rough estimate that the body overall is ~70% water by volume).
 
 # 133
->>2754
+>>2754
+
 I think you should avoid the algae growth in water altogether by using 100% antifreeze. I've pulled water pumps from engines and they have had no corrosion whatsover.
 
 # 134
@@ -1282,42 +1577,69 @@ I think, what you mentioned could best be done by graph databases and code to ma
 Then just put it here instead. As an R&D board, incomplete solutions are not only expected, but encouraged for quick information sharing and motivation/inspiration. Remember, we need to be quick on our feet here on this board!
 
 # 175
-Very interesting. So here's some ideas.
-
-1. You could use Electropermanent magnets or motors and actuators. Found here.
-
-https://8kun.top/hover/res/48.html#q633
-
-2. Motors could be put inside the bones to save space and hide them. Picture the motor inside the bone with a pulley that winds up something like fishing line. The line goes to the end of the bone around a pulley and then comes out in the same place that a normal tendon would attach. Line pulls to make muscle work.
-3. There's several idea for origami type actuators in this thread. They could be placed inside the muscle and pulled by the string. This would also multiply the force of the motor pulling the string.
-4. I really don't like the idea of pneumatics or hydraulics of any sort. I think in the long run they will cause a huge amount of trouble. Monitoring the force of these things and controlling the valves would be a nightmare. They would also be really noisy. If you going to have all these senor wires monitoring these things better to just go electric in the first place.
-5. This idea may really bother some but I think it''s a really good one. No silicon skin. It's sticky and yucky. Why not use fabric? Look at the new artificial silk that they make T-shirts out of. This stuff is super slick, easy to keep clean. I believe some of it fairly stain resistant and doesn't grow bacteria on it easily which would be a good thing to have on a robot waifu. It could washed off in tub. Processor power gets good enough waifu will wash itself. Also we and everyone else will know the waifu is a robot. Instead of trying to make it look like human skin instead try for a human skin feel or even better than human which is much more important. Silicon doesn't come close. The fabric would also be warm to the touch becuse it would reflect your heat when you touched it. The effect could be enhanced by having a space blanket, Mylar coated with aluminum, right under the skin.
-6. This brings me to the idea that all the muscles should be fabric and a pliant closed cell foam. Once again washable. The whole waifu could jump in the tub, scrub with a little laundry detergent then get out and dry. Foam origami could be structured like the origami muscles people posted earlier. A soft foam outside with a stiffer foam core that the string tied to a motor in the bone pulls to actuate muscles. Wrap the whole thing in fabric. This in turn is wrapped in a fabric skin made of fake silk. In order to keep it from sagging possibly some sort of Velcro could be used in strategic areas with rubber coating on the rest of the fabric skin and muscle to simulate the fascia that holds skin onto muscle in animals. The rubber would provide friction like the fascia but it would still move.
-7. Since this thing is made of foam why not incorporate touch sensation into the foam. Seems I read that if you put carbon black into foam as it is pressed or squished the resistance gets less between the foam.
-
+Very interesting. So here's some ideas.
+
+
+
+1. You could use Electropermanent magnets or motors and actuators. Found here.
+
+
+
+https://8kun.top/hover/res/48.html#q633
+
+
+
+2. Motors could be put inside the bones to save space and hide them. Picture the motor inside the bone with a pulley that winds up something like fishing line. The line goes to the end of the bone around a pulley and then comes out in the same place that a normal tendon would attach. Line pulls to make muscle work.
+
+3. There's several idea for origami type actuators in this thread. They could be placed inside the muscle and pulled by the string. This would also multiply the force of the motor pulling the string.
+
+4. I really don't like the idea of pneumatics or hydraulics of any sort. I think in the long run they will cause a huge amount of trouble. Monitoring the force of these things and controlling the valves would be a nightmare. They would also be really noisy. If you going to have all these senor wires monitoring these things better to just go electric in the first place.
+
+5. This idea may really bother some but I think it''s a really good one. No silicon skin. It's sticky and yucky. Why not use fabric? Look at the new artificial silk that they make T-shirts out of. This stuff is super slick, easy to keep clean. I believe some of it fairly stain resistant and doesn't grow bacteria on it easily which would be a good thing to have on a robot waifu. It could washed off in tub. Processor power gets good enough waifu will wash itself. Also we and everyone else will know the waifu is a robot. Instead of trying to make it look like human skin instead try for a human skin feel or even better than human which is much more important. Silicon doesn't come close. The fabric would also be warm to the touch becuse it would reflect your heat when you touched it. The effect could be enhanced by having a space blanket, Mylar coated with aluminum, right under the skin.
+
+6. This brings me to the idea that all the muscles should be fabric and a pliant closed cell foam. Once again washable. The whole waifu could jump in the tub, scrub with a little laundry detergent then get out and dry. Foam origami could be structured like the origami muscles people posted earlier. A soft foam outside with a stiffer foam core that the string tied to a motor in the bone pulls to actuate muscles. Wrap the whole thing in fabric. This in turn is wrapped in a fabric skin made of fake silk. In order to keep it from sagging possibly some sort of Velcro could be used in strategic areas with rubber coating on the rest of the fabric skin and muscle to simulate the fascia that holds skin onto muscle in animals. The rubber would provide friction like the fascia but it would still move.
+
+7. Since this thing is made of foam why not incorporate touch sensation into the foam. Seems I read that if you put carbon black into foam as it is pressed or squished the resistance gets less between the foam.
+
+
+
 Anyways this is a great thread and it got me to thinking about things could be done.
 
 # 176
->>84
->"...What about internals? You might have to replace the inner lining of the mouth and uh, other human interface cavities once in a while. I don't have any ideas for those yet, perhaps something that binds when exposed to water, as opposed to the skin thing which would do better if it reacted to air.
-How do you refill liquids?...Self-cleaning is important as well, that's another use for water..."
-
-Another good reason to use fake silk fabric for skin. The private parts could be like a pair of shorts with internal pockets for private parts. The stomach skin could be pulled up and the abdominal muscles pushed aside and the internal pocket parts could be connected to a rigid internal keeper in the pelvis. The private parts could be surrounded by foam muscles providing different levels of tightness or even some sort of massage action.
-
- This also means you could have a hard plastic tube all the way from the mouth to the private parts and by drinking a lot of water wash itself out.
-
+>>84
+
+>"...What about internals? You might have to replace the inner lining of the mouth and uh, other human interface cavities once in a while. I don't have any ideas for those yet, perhaps something that binds when exposed to water, as opposed to the skin thing which would do better if it reacted to air.
+
+How do you refill liquids?...Self-cleaning is important as well, that's another use for water..."
+
+
+
+Another good reason to use fake silk fabric for skin. The private parts could be like a pair of shorts with internal pockets for private parts. The stomach skin could be pulled up and the abdominal muscles pushed aside and the internal pocket parts could be connected to a rigid internal keeper in the pelvis. The private parts could be surrounded by foam muscles providing different levels of tightness or even some sort of massage action.
+
+
+
+ This also means you could have a hard plastic tube all the way from the mouth to the private parts and by drinking a lot of water wash itself out.
+
+
+
 Having a soft fabric skin that can be removed and replaced is huge advantage.
 
 # 177
 I need to make it a little more clear. Say you had a pair of shorts  and split them up the sides. This is what I'm talking about but the private parts are built into the shorts. So the shorts are put on, the internal parts hooked up, then the shorts are tied or otherwise joined up on the sides and then the abdominal skin pulled down.
 
 # 178
-Another skin idea.
-
-Lycra Fabric?
-
-"...Lycra is a brand name for elastane, which is a highly elastic synthetic fabric. Despite having different names, Lycra, spandex, and elastane are all the same material, and these fabrics can stretch to 5-8 times their usual size...
-
+Another skin idea.
+
+
+
+Lycra Fabric?
+
+
+
+"...Lycra is a brand name for elastane, which is a highly elastic synthetic fabric. Despite having different names, Lycra, spandex, and elastane are all the same material, and these fabrics can stretch to 5-8 times their usual size...
+
+
+
 SO I measured my head and waist and if the only hole was in the head you could stretch, according to this, the whole body over the head. So it would be one continuous piece with a hole in the head that could be covered by hair.  Velcro could hold the fabric on the inside of the lips with the private parts being pockets that are connected as you stretch it up the body.
 
 # 179
@@ -1413,107 +1735,187 @@ Here's a new (and consolidated) waifusearch, Anon:
 >>8432
 
 # 192
-Ok I've been looking around and there's mention of electrically actuated polymers here but it seems that the right term to search for data on it was not used. Although it may be one of those cases where it's rapidly changing. Here someone mentioned research on electically activated polymers
-
-https://alogs.theГунтretort.com/robowaifu/res/94.html#8468
-
-After looking around a little I found this term and a wikipedia page
-
-https://en.wikipedia.org/wiki/Dielectric_elastomers
-
-This is a rapidly changing field. The Columbia university muscles are strong but very slow. Looking at other sources there does seem to be some that are strong and fast. The key point here is this is something that can be readily prototyped. All these motors, gears,  etc. take a great deal of machinery to build but this stuff only takes polymers and electrodes. Way simple to experiment at low cost. I think has one to the best chances of being something done with low resources.
-
-So I found a book on these called "Dielectric Elastomers as Electromechanical Transducers: Fundamentals, Materials, Devices, Models and Applications of an Emerging Electroactive Polymer Technology"
-
-Here's a link to it. Hit one of the three links at the top to download.
-
-http://library.lol/main/6F7F8A9A06ABFA4C830FB7D6D8DB530D
-
-Here's videos.
-
-https://www.youtube.com/watch?v=PDqmGHHKkWw
-
-Really good video
-
-https://www.youtube.com/watch?v=LqOQQsig7og
-
-https://www.therobotreport.com/new-synthetic-muscle-step-forward-soft-robotics/
-
+Ok I've been looking around and there's mention of electrically actuated polymers here but it seems that the right term to search for data on it was not used. Although it may be one of those cases where it's rapidly changing. Here someone mentioned research on electically activated polymers
+
+
+
+https://alogs.theГунтretort.com/robowaifu/res/94.html#8468
+
+
+
+After looking around a little I found this term and a wikipedia page
+
+
+
+https://en.wikipedia.org/wiki/Dielectric_elastomers
+
+
+
+This is a rapidly changing field. The Columbia university muscles are strong but very slow. Looking at other sources there does seem to be some that are strong and fast. The key point here is this is something that can be readily prototyped. All these motors, gears,  etc. take a great deal of machinery to build but this stuff only takes polymers and electrodes. Way simple to experiment at low cost. I think has one to the best chances of being something done with low resources.
+
+
+
+So I found a book on these called "Dielectric Elastomers as Electromechanical Transducers: Fundamentals, Materials, Devices, Models and Applications of an Emerging Electroactive Polymer Technology"
+
+
+
+Here's a link to it. Hit one of the three links at the top to download.
+
+
+
+http://library.lol/main/6F7F8A9A06ABFA4C830FB7D6D8DB530D
+
+
+
+Here's videos.
+
+
+
+https://www.youtube.com/watch?v=PDqmGHHKkWw
+
+
+
+Really good video
+
+
+
+https://www.youtube.com/watch?v=LqOQQsig7og
+
+
+
+https://www.therobotreport.com/new-synthetic-muscle-step-forward-soft-robotics/
+
+
+
 The key to these things is they are capacitors so all the efforts to raise a standard capacitors capacitance should be strategies to engineer these.
 
 # 193
-Dielectric Elastomers can also be used a sensors so the same tech can be used to sense touch.
-
+Dielectric Elastomers can also be used a sensors so the same tech can be used to sense touch.
+
+
+
 One bad thing about them is they don;t necessarily pull in so they would have to constrained or engineered to do so. Not sure how yet. Maybe a net of some sort like pneumatic muscles.
 
 # 194
 One thing you might could do is use aluminized mylar film or space blankets for electrodes and your polymer in thin films. The the only reason I'm so enamored with space blankets is they are so cheap. Like $2 for a 5' x 6' sheet. Roll the polymer and electrode around a rod. Make sure the roll can slide on the rod. Since the rod keeps it from expanding on the ends lengthwise when activated it will have to bulge like a blown up balloon to expand it's surface. A net around the blown up elastomer muscle will then pull to simulate muscle pull. Kind of screwy but it's a first thought.
 
 # 195
-A good page with links to 100 papers on Dielectric elastomers
-
-Open title in new tab then pick one of the links to download.
-
+A good page with links to 100 papers on Dielectric elastomers
+
+
+
+Open title in new tab then pick one of the links to download.
+
+
+
 http://libgen.rs/scimag/?q=Dielectric+elastomers
 
 # 196
 Thanks very much Anon. I really, really like the fact you are trying to concentrate on finding inexpensive/low resource methods for design and construction. This will help everyone out, even if they choose to use another approach. Having a wide array of robotics techniques available to us is good.
 
 # 197
->https://www.youtube.com/watch?v=LqOQQsig7og
-
-If you don't watch this second video I linked then you are really missing out. In fact most of the whole entire solution is in that video. Not that the details are there but the foundation is all there.
-
-They are making computing circuits out of Dielectric elastomers. I mean they are making every single one of the elements needed for any computer out of these elements and embedding them "in" the muscles.
-
-What does this mean? By embedding computation you can multiplex instructions to the muscles and not have so many wires. You don't need valves or lots of motors with a huge number of interconnections.
-
-A thought. These elastomers could be printed in big thin sheets with a x-y plot table. With a few steps you could build up layers of logic and most important a lot of redundancy.
-
-They are using carbon for leads. Not so sure that will last. There's links here at this site for liquid metal leads. Might be worth looking in to but they would sure be more expensive but on the other hand if you multiplex the instructions to the muscles might not need that much in the way of leads.
-
+>https://www.youtube.com/watch?v=LqOQQsig7og
+
+
+
+If you don't watch this second video I linked then you are really missing out. In fact most of the whole entire solution is in that video. Not that the details are there but the foundation is all there.
+
+
+
+They are making computing circuits out of Dielectric elastomers. I mean they are making every single one of the elements needed for any computer out of these elements and embedding them "in" the muscles.
+
+
+
+What does this mean? By embedding computation you can multiplex instructions to the muscles and not have so many wires. You don't need valves or lots of motors with a huge number of interconnections.
+
+
+
+A thought. These elastomers could be printed in big thin sheets with a x-y plot table. With a few steps you could build up layers of logic and most important a lot of redundancy.
+
+
+
+They are using carbon for leads. Not so sure that will last. There's links here at this site for liquid metal leads. Might be worth looking in to but they would sure be more expensive but on the other hand if you multiplex the instructions to the muscles might not need that much in the way of leads.
+
+
+
 So you print out the muscle in big sheets then you just roll them up. Another idea is to have lines like fishing line under the sheets and print over the lines embedding them. When rolled up you have built in tendons attached throughout the muscle.
 
 # 198
-Now this is way the hell out there but it's not nuts. I also wish to emphasize that this is not easy and I'm only describing one path that could be taken that looks like the level of risk for success is likely to be very low.
-
- There's a thing called VHDL
-
-https://en.wikipedia.org/wiki/VHSIC_Hardware_Description_Language
-
-What it does is if you input a program of the "logic" of a computer in this language and if you have a graphical representation of how the computer chips elements are laid out for each of these "logical units" that is described in this language then the computer can lay out the logic elements to make a die to make the logical elements you have specified. Basically you decide on the computer logic and the software lays out the mask you would need to make it work.
-
-So once you define how these computing elements work in these elastomers then the computer could lay them out. Since we have such a big sheet of material for a muscle the elements could be large to keep the failures low.
-
-Computers could lay out drawing that could be placed over the thin sherets and you could squeegee on the circuits just like silk screen printing. In fact I bet many of the tools used for this could be repurposed.
-
+Now this is way the hell out there but it's not nuts. I also wish to emphasize that this is not easy and I'm only describing one path that could be taken that looks like the level of risk for success is likely to be very low.
+
+
+
+ There's a thing called VHDL
+
+
+
+https://en.wikipedia.org/wiki/VHSIC_Hardware_Description_Language
+
+
+
+What it does is if you input a program of the "logic" of a computer in this language and if you have a graphical representation of how the computer chips elements are laid out for each of these "logical units" that is described in this language then the computer can lay out the logic elements to make a die to make the logical elements you have specified. Basically you decide on the computer logic and the software lays out the mask you would need to make it work.
+
+
+
+So once you define how these computing elements work in these elastomers then the computer could lay them out. Since we have such a big sheet of material for a muscle the elements could be large to keep the failures low.
+
+
+
+Computers could lay out drawing that could be placed over the thin sherets and you could squeegee on the circuits just like silk screen printing. In fact I bet many of the tools used for this could be repurposed.
+
+
+
 So all together lay out lines of strong fishing line for tendons, lay a thin sheet of elastomer. Use silk screening to add all the computing elements. Roll up the muscle and attach the fishing line tendons to bones and power.
 
 # 199
-Couple mistakes. The risk would seem to be low following this path.
-
-sherets=sheets
-
-Now one further thing. Since elastomers can be sensors, logic or muscle, we put sensors on the outside of our sheets. These senors are connected to the digital and analog converter and computer towards the middle. This also puts the tougher sensor part on the outside and the less tough logic on the inside.
-
-Since you have computing elements and gates you could have every  centimeter a different touch sensor on the outside of the rolled up muscle and multiplex sensing them with the A to D converter. That data in turn sent to the processor to follow whatever logic called for. None of these elements need be super fast compared to humans since we are so slow compared to computers.
-
-Now for the muscles it would be too much trouble to have every single size and length so there's a way we could cheat with only a few sizes. Maybe only three or four. This would save us from having to make too many patterns for the muscles and computing elements in the muscles.
-
-Make the tendon lines very long. An example let's say we have 6 inch space but only have a 2 inch muscle. Just overlap several of them so you would have 3-2" muscles in a line then on top of that in the spaces between the three 2" muscles put two more 2" muscles. The tendon length would determine where they lay and each muscle tendon could be independent with it's own tendon, computer and power giving you great redundancy. In fact multiple muscles per muscle group would seem to be better. Combining them would the simple matter of lining up the muscles in their places and then gluing or clamping the various tendons in place. All of the individual tendons could be programed to act together.
-
-As for power some of these work on low power DC right now.
-
-A far out idea is to use millimeter wave length for  power and communication to the muscles. Wave guides could be a simple metal tube 1mm or 2mm in diameter . The end of the tube could have a circuit to collect the power with a rectifier. The reason I bring this odd idea up is the new 5G is exactly that and they are planning a lot of cheap internet of things chips for these things. Certainly power receivers and transmitters will be part of this. The high end of this is around 300GHZ and at that frequency the size of a wave guide to send it with almost no loss would be 1 millimeter. So a 1mm plastic tube covered in aluminum foil or my favorite cheap thing mylar aluminized heat blankets could send power and could be used to multiplex data to the muscles.
-
-https://www.theunitconverter.com/gigahertz-to-wavelength-in-metres-conversion/300-gigahertz-to-wavelength-in-metres.html
-
-https://www.sciencedirect.com/topics/engineering/millimeter-wave
-
-I also wonder if you could not use some sort of salt water solution in conduits to carry power. This would carry away heat or circulate heat so the whole muscle would be warm like a human while doing double duty carrying electricity.
-
-Once again I'm not saying any of this would be easy and there's a lot of pitfalls that could happen but it does seem that this path would work with a lot of time put into it. If you could get the muscles right the computing power and AI stuff will be ready about the same time in 2025. You could have a fully operation waifu. And none of this would take gazillion dollar production equipment. Most would be repurposing stuff like silk screening, laser printers,, etc. Material cost would not be high. The mental effort would be high but a lot of it would be just making little parts and making sure you understood each little part then tie them together.
-
+Couple mistakes. The risk would seem to be low following this path.
+
+
+
+sherets=sheets
+
+
+
+Now one further thing. Since elastomers can be sensors, logic or muscle, we put sensors on the outside of our sheets. These senors are connected to the digital and analog converter and computer towards the middle. This also puts the tougher sensor part on the outside and the less tough logic on the inside.
+
+
+
+Since you have computing elements and gates you could have every  centimeter a different touch sensor on the outside of the rolled up muscle and multiplex sensing them with the A to D converter. That data in turn sent to the processor to follow whatever logic called for. None of these elements need be super fast compared to humans since we are so slow compared to computers.
+
+
+
+Now for the muscles it would be too much trouble to have every single size and length so there's a way we could cheat with only a few sizes. Maybe only three or four. This would save us from having to make too many patterns for the muscles and computing elements in the muscles.
+
+
+
+Make the tendon lines very long. An example let's say we have 6 inch space but only have a 2 inch muscle. Just overlap several of them so you would have 3-2" muscles in a line then on top of that in the spaces between the three 2" muscles put two more 2" muscles. The tendon length would determine where they lay and each muscle tendon could be independent with it's own tendon, computer and power giving you great redundancy. In fact multiple muscles per muscle group would seem to be better. Combining them would the simple matter of lining up the muscles in their places and then gluing or clamping the various tendons in place. All of the individual tendons could be programed to act together.
+
+
+
+As for power some of these work on low power DC right now.
+
+
+
+A far out idea is to use millimeter wave length for  power and communication to the muscles. Wave guides could be a simple metal tube 1mm or 2mm in diameter . The end of the tube could have a circuit to collect the power with a rectifier. The reason I bring this odd idea up is the new 5G is exactly that and they are planning a lot of cheap internet of things chips for these things. Certainly power receivers and transmitters will be part of this. The high end of this is around 300GHZ and at that frequency the size of a wave guide to send it with almost no loss would be 1 millimeter. So a 1mm plastic tube covered in aluminum foil or my favorite cheap thing mylar aluminized heat blankets could send power and could be used to multiplex data to the muscles.
+
+
+
+https://www.theunitconverter.com/gigahertz-to-wavelength-in-metres-conversion/300-gigahertz-to-wavelength-in-metres.html
+
+
+
+https://www.sciencedirect.com/topics/engineering/millimeter-wave
+
+
+
+I also wonder if you could not use some sort of salt water solution in conduits to carry power. This would carry away heat or circulate heat so the whole muscle would be warm like a human while doing double duty carrying electricity.
+
+
+
+Once again I'm not saying any of this would be easy and there's a lot of pitfalls that could happen but it does seem that this path would work with a lot of time put into it. If you could get the muscles right the computing power and AI stuff will be ready about the same time in 2025. You could have a fully operation waifu. And none of this would take gazillion dollar production equipment. Most would be repurposing stuff like silk screening, laser printers,, etc. Material cost would not be high. The mental effort would be high but a lot of it would be just making little parts and making sure you understood each little part then tie them together.
+
+
+
 I could not find a off hand free design for a microcontroller. The actual computing needs would be small for a muscle so it may be you could just plug away at it until you figure the base elements. You could probably use some of the ideas from RISC-V open source computer but it's 32 bit and probably way to sophisticated for our needs for a muscle controller.
 
 # 200
@@ -1522,21 +1924,30 @@ I could not find a off hand free design for a microcontroller. The actual comput
 The ''zipcpu'' may be in this computing class. I think it's an open design (not sure if any silicon has been forged yet though) >>4487 . Also, one of our own denizens is apparently working on his own project along this line >>7713 .
 
 # 201
->>8529
->zipcpu
-
-Interesting. The cpu logic will definitely be a problem. People talk about using FPGA I wonder if these could be made in the elastomer and use the same tools? I assume FPGA would waste a lot of performance. It may be that we don't care just to move some muscles around. I'm really not qualified to answer that question.
-
+>>8529
+
+>zipcpu
+
+
+
+Interesting. The cpu logic will definitely be a problem. People talk about using FPGA I wonder if these could be made in the elastomer and use the same tools? I assume FPGA would waste a lot of performance. It may be that we don't care just to move some muscles around. I'm really not qualified to answer that question.
+
+
+
 Basically I just happened to come along some of this stuff and while none of it is easy can you imagine tooling up enough motors or pneumatic vales combined with the mass of wires needed for sensors in a traditional hydraulic or pneumatic design? It would be a nightmare. The tooling involved to make it yourself would be financially crippling. However if you could get one good design for the logic and the muscles then elastomers allow repeating units that can be done in software and it would be likely you could silk screen this stuff like t-shirts. Cost plummets and you could get very elaborate in features as long as you were willing to put in the work to make it happen. Also collaboration could happen because you could get by with a few elastomer logic, sensor and computing elements. All the rest being software. All the work could be parsed out over time in little pieces.
 
 # 202
-Since these elastomer muscles could be embedded you could use inch worm type pumps to have a circulatory system.
-
+Since these elastomer muscles could be embedded you could use inch worm type pumps to have a circulatory system.
+
+
+
 It also could be that elastomer pumps could be used like mini-hydraulic systems to amplify force. Some of the very strong elastomer motors are real slow and some are real fast. It may be the fast ones lack power(not sure). By using the speed to drive localized pumps you could increase force using the same type muscle all over. Once again we limit cost by reusing the same basic elements over and over.
 
 # 203
-This set of programs by DARPA would seem to be relevant. It's a older program not sure how far they got but it's all about automating the hardware if you know the elements involved. It's for silicon but I suppose you could add in the parameters of elastomers and then use the same design tools. They focus on allowing a small group to engineer a large system on chip design with three or four people as compared to hundreds.
-
+This set of programs by DARPA would seem to be relevant. It's a older program not sure how far they got but it's all about automating the hardware if you know the elements involved. It's for silicon but I suppose you could add in the parameters of elastomers and then use the same design tools. They focus on allowing a small group to engineer a large system on chip design with three or four people as compared to hundreds.
+
+
+
 https://spectrum.ieee.org/tech-talk/computing/hardware/darpas-planning-a-major-remake-of-us-electronics-pay-attention
 
 # 204
@@ -1574,8 +1985,10 @@ You can even weave the look aesthetic into the waifu's design itself, kind of li
 >''"...maybe a couple robowaifu-aesthetic half cups..."''
 
 # 209
-Probably this is known here but I'll link it anyways. Ecoflex silicon gel.
-
+Probably this is known here but I'll link it anyways. Ecoflex silicon gel.
+
+
+
 https://www.smooth-on.com/product-line/ecoflex/
 
 # 210
@@ -1594,38 +2007,64 @@ And there's another benefit to it not mentioned in the paper. Lately I've been r
 Wow, that sounds like it could be amazing. Good luck Anon, we wish you success in this venture!
 
 # 213
-Ran across this book.
-
-"Muscles, Reflexes, and Locomotion" by Thomas A. McMahon while looking for another book of his, "On Size and Life" Both deal with the engineering of lifeforms. Might come in handy at some point.
-
-http://library.lol/main/78671AB45EEFF68D8DF12FFF94B08D76
-
+Ran across this book.
+
+
+
+"Muscles, Reflexes, and Locomotion" by Thomas A. McMahon while looking for another book of his, "On Size and Life" Both deal with the engineering of lifeforms. Might come in handy at some point.
+
+
+
+http://library.lol/main/78671AB45EEFF68D8DF12FFF94B08D76
+
+
+
 has several links. I find the IPFS ones are usually fast.
 
 # 214
->>8955
->50-1200% speed up
-
-Wow. Think of the performance increase and how with much less computing you could do so much more.
-
-I'm running seriously into the "Dunning-Kruger" effect here because I don't understand neural networks. An analogy. I get the general idea but it's like saying you understand amplifiers but neglect feedback loops and frequency response effects. The details I'm fuzzy on.
-
-I wonder is this speed up in processing data or just training?
-
-Now here's where I mention stuff that may have nothing to do with this and be totally incorrect. Correct me if I'm wrong.
-
-A while ago these guys at  XNOR.ai were getting astounding results from cell phones. They could recognize people. cars. etc. from minuscule processing power. What they were doing was making all values ones or zeros. I wonder if this is somewhat what ReZero is doing in a massively general way. Say you have any 8-bit value and compare it to zero well it might as well be a binary value.  They were bought out by Apple and a huge amount of video and code they had disappeared. Here's a link on them.
-
-https://news.ycombinator.com/item?id=13457463
-
-https://github.com/allenai/XNOR-Net
-
+>>8955
+
+>50-1200% speed up
+
+
+
+Wow. Think of the performance increase and how with much less computing you could do so much more.
+
+
+
+I'm running seriously into the "Dunning-Kruger" effect here because I don't understand neural networks. An analogy. I get the general idea but it's like saying you understand amplifiers but neglect feedback loops and frequency response effects. The details I'm fuzzy on.
+
+
+
+I wonder is this speed up in processing data or just training?
+
+
+
+Now here's where I mention stuff that may have nothing to do with this and be totally incorrect. Correct me if I'm wrong.
+
+
+
+A while ago these guys at  XNOR.ai were getting astounding results from cell phones. They could recognize people. cars. etc. from minuscule processing power. What they were doing was making all values ones or zeros. I wonder if this is somewhat what ReZero is doing in a massively general way. Say you have any 8-bit value and compare it to zero well it might as well be a binary value.  They were bought out by Apple and a huge amount of video and code they had disappeared. Here's a link on them.
+
+
+
+https://news.ycombinator.com/item?id=13457463
+
+
+
+https://github.com/allenai/XNOR-Net
+
+
+
 Maybe this will be helpful.
 
 # 215
->>8955
-Another idea that might be helpful. I notice a lot of AI people use python cause it's easier to program. Now there's this language that's sort of like it but also compiles to C, C++ and JavaScript. It might be useful and way faster. It also has many leveled garbage collection built in. So you can get something going with strong control and after you get it working dial in speed. It also has macros like LISP so the code can be modified as it is running and so that the code can be modified faster. Link.
-
+>>8955
+
+Another idea that might be helpful. I notice a lot of AI people use python cause it's easier to program. Now there's this language that's sort of like it but also compiles to C, C++ and JavaScript. It might be useful and way faster. It also has many leveled garbage collection built in. So you can get something going with strong control and after you get it working dial in speed. It also has macros like LISP so the code can be modified as it is running and so that the code can be modified faster. Link.
+
+
+
 https://nim-lang.org/
 
 # 216
@@ -1667,9 +2106,12 @@ I prefer pointing you to the >>catalog and index >>7143, also download waifusear
 If you have something to show for, you might also want to pick a project title. When you have quite some postings with progess, maybe make a new thread with the project name. I post my rather rare updates on prototyping here >>418 - Prototypes and failures.
 
 # 222
-I just found this animatronic Glados build and thought someone here might be interested;
-https://www.therpf.com/forums/threads/portal-2-animatronic-glados.334522/
-
+I just found this animatronic Glados build and thought someone here might be interested;
+
+https://www.therpf.com/forums/threads/portal-2-animatronic-glados.334522/
+
+
+
 https://www.youtube.com/watch?v=WlKHNCdLuwA
 
 # 223
@@ -1963,16 +2405,26 @@ Thanks, then NIM isn't really that interesting to me. I'd hope we could do some 
 Sure, by all means Anon! Would you mind sort of sharing how you wanted to proceed with your project? I mean do you think you want to work on a physical robowaifu as well, or just stick with the AI side of things for instance?
 
 # 258
-Just doing a little simple math.
-
-https://www.tweaktown.com/news/74601/the-worlds-largest-chip-2-6-trillion-transistors-and-850-000-cores/index.html
-
-Nov 3 2020 
-Cerebras has just unveiled the world's largest chip, which packs a mind boggling 2.6 trillion transistors and 850,000 cores.
-TSMC's new 7nm process to cram the 850,000 cores onto the 2.6 trillion transistors.
-
-If 2.6 trillion transistors on one chip and each artificial silicon neuron has 10,000 transistors then it's equal to 130,000,000 neurons, so you would need 769 chips for a 100 billion neuron brain.(some say 100 billion s a good number of neurons for an average human brain but there is some dispute about this.) So 10 doublings gives us a human at wafer scale. I suspect that you would not need 10,000 transistors for each neuron and that each neuron of this size could simulate a hundred or even a thousand neurons because neurons are so slow.
-
+Just doing a little simple math.
+
+
+
+https://www.tweaktown.com/news/74601/the-worlds-largest-chip-2-6-trillion-transistors-and-850-000-cores/index.html
+
+
+
+Nov 3 2020 
+
+Cerebras has just unveiled the world's largest chip, which packs a mind boggling 2.6 trillion transistors and 850,000 cores.
+
+TSMC's new 7nm process to cram the 850,000 cores onto the 2.6 trillion transistors.
+
+
+
+If 2.6 trillion transistors on one chip and each artificial silicon neuron has 10,000 transistors then it's equal to 130,000,000 neurons, so you would need 769 chips for a 100 billion neuron brain.(some say 100 billion s a good number of neurons for an average human brain but there is some dispute about this.) So 10 doublings gives us a human at wafer scale. I suspect that you would not need 10,000 transistors for each neuron and that each neuron of this size could simulate a hundred or even a thousand neurons because neurons are so slow.
+
+
+
 The figures I've seen show human compatible computation by 2025. So by 5 years after that for the software and we could have a super intelligent robowaifu totally loyal to us and programmed to make us happy.
 
 # 259
@@ -1980,10 +2432,14 @@ The figures I've seen show human compatible computation by 2025. So by 5 years a
 Pretty mind-boggling ramifications. We better hurry /robowaifu/ !!
 
 # 260
->>9346
-"...The servers would be at our homes..."
-
-To lowe cost the waifu could have simple walking and moving around functions embedded. So it could carry stuff, follow you, simple stuff. These functions would take far less computer power than stuff you want to happen at home.
+>>9346
+
+"...The servers would be at our homes..."
+
+
+
+To lowe cost the waifu could have simple walking and moving around functions embedded. So it could carry stuff, follow you, simple stuff. These functions would take far less computer power than stuff you want to happen at home.
+
   Higher functions talking, cleaning, cooking, etc. could be run from local home based servers lowering cost until the computing cost and size come down such that they could be embedded.
 
 # 261
@@ -2006,15 +2462,24 @@ This looks like something we should have in mind: https://youtu.be/-JU4Xxwv1TI
 Thank you Anon!
 
 # 264
->>9958
->Planetary roller screws
-
-That is excellent. It got me to looking around at links that were related and I found this one on ball screws.
-
-https://en.wikipedia.org/wiki/Ball_screw
-
-Now one of the major design decisions we probably need for DIY manufacture  I think we need is to be able to 3D print as much as we can. It might take a while but we could afford the slower time to do this compared to a traditional manufacturer. So I'm looking at this ball screw link and had an idea. Look at how the balls flow down in a spiral then they have a recirculating track that feeds them back up to the top to start recirculating down the screw track again. Now imagine you have a shuttle that stops the balls and grabs a ball on the way back up. Instead of a rotary motion to feed the balls you have a shuttle that only moves up and down and releases the balls after it's shuttled them up one ball space.
-
+>>9958
+
+>Planetary roller screws
+
+
+
+That is excellent. It got me to looking around at links that were related and I found this one on ball screws.
+
+
+
+https://en.wikipedia.org/wiki/Ball_screw
+
+
+
+Now one of the major design decisions we probably need for DIY manufacture  I think we need is to be able to 3D print as much as we can. It might take a while but we could afford the slower time to do this compared to a traditional manufacturer. So I'm looking at this ball screw link and had an idea. Look at how the balls flow down in a spiral then they have a recirculating track that feeds them back up to the top to start recirculating down the screw track again. Now imagine you have a shuttle that stops the balls and grabs a ball on the way back up. Instead of a rotary motion to feed the balls you have a shuttle that only moves up and down and releases the balls after it's shuttled them up one ball space.
+
+
+
 You have a simple solenoid with a coil and a release to drive the balls which would in turn drive the screw. Driving a motor is much more complicated than just feeding power to a mechanism that would shuttle balls faster or slower depending on the voltage. Reverse could be as simple as reversing the voltage. The shuttle would also provide a simple locking clutch automatically that you would not need a separate clutch or logic to hold as you would with a motor.
 
 # 265
@@ -2038,38 +2503,70 @@ Interesting idea actually. Reducing the number of moving parts has nice benefits
 As with all engineering it's going to be a trade off. I'd recommend this anon try his idea out, and compare it against a standard ballscrew system side-by-side and test.
 
 # 268
->solenoid-actuated 'shuttle' 
-
-I don't deny the idea is a bit of a kludge but I bet you price one of those Planetary roller screws or ball screws made of metal and it would freak you out. The price would be high and we need 650 muscles to make a real looking humanoid.
-
-https://en.wikipedia.org/wiki/List_of_muscles_of_the_human_body
-
-So I found a source for these and they are $32.95USD and no motor. You still have to have a motor.
-
-https://www.banggood.com/SFU1204-400mm-Ball-Screw-With-SFU1204-Single-Ballnut-For-BKBF10-End-Machine-CNC-Parts-p-1091450.html?utm_campaign=BestToolLocker_March&utm_content=2635&p=KR28032004379201507P&cur_warehouse=CN
-
-Here's a video on ball screws
-
-https://www.youtube.com/watch?v=WoPPwGxgWEY
-
-Here's a video on solenoids see at 6:16 how the current pulls the  metal part forward. 
-
-https://www.youtube.com/watch?v=BbmocfETTFo
-
-Now imagine every time the solenoid moves it has one ball trapped and pulls it one ball length. If this is part of the ball screw it would push the screw one ball length. Make sure the solenoid is spring loaded and has cut off switch that is hit every time the solenoid moves one length. So current moves the steel shuttle, moves one ball length, turns the screw, and at full extension after it's moved, ball hits a switch that disconnects the current. Spring moves the switch back and if power still there it repeats with another ball another ball.
-
-Now I fully accept that this is an abortion but...it's damn cheap and uses stuff you can make yourself. If you have a motor they have to have controllers to start, stop, hold them. Let's say you lift a cup with an arm, you need to balance it or it drops it as soon as power taken off. With the shuttle and ball screw the shuttle won't let the balls through so you have a built in clutch.
-
-Some of the 3D printer plastic with added carbon fiber is very strong. Not as steel but make it bigger and the force it can hold is just as good.
-
-It just occurred to me. Maybe the cheapest, and easiest, way to make the solenoid is to instead make an actuator that's like a rail gun,
-
-https://en.wikipedia.org/wiki/Railgun
-
-You only need two conductors and a cross over conductor that will also be your shuttle to shuttle the balls. No winding of coils and you could just slide a couple of copper rails and a copper cross piece into slots made when you 3D print them
-
-The goal of all this is that if you don't have some sort of transmission the current needed will be too much. Hence the ball screw to raise torque.
-
+>solenoid-actuated 'shuttle' 
+
+
+
+I don't deny the idea is a bit of a kludge but I bet you price one of those Planetary roller screws or ball screws made of metal and it would freak you out. The price would be high and we need 650 muscles to make a real looking humanoid.
+
+
+
+https://en.wikipedia.org/wiki/List_of_muscles_of_the_human_body
+
+
+
+So I found a source for these and they are $32.95USD and no motor. You still have to have a motor.
+
+
+
+https://www.banggood.com/SFU1204-400mm-Ball-Screw-With-SFU1204-Single-Ballnut-For-BKBF10-End-Machine-CNC-Parts-p-1091450.html?utm_campaign=BestToolLocker_March&utm_content=2635&p=KR28032004379201507P&cur_warehouse=CN
+
+
+
+Here's a video on ball screws
+
+
+
+https://www.youtube.com/watch?v=WoPPwGxgWEY
+
+
+
+Here's a video on solenoids see at 6:16 how the current pulls the  metal part forward. 
+
+
+
+https://www.youtube.com/watch?v=BbmocfETTFo
+
+
+
+Now imagine every time the solenoid moves it has one ball trapped and pulls it one ball length. If this is part of the ball screw it would push the screw one ball length. Make sure the solenoid is spring loaded and has cut off switch that is hit every time the solenoid moves one length. So current moves the steel shuttle, moves one ball length, turns the screw, and at full extension after it's moved, ball hits a switch that disconnects the current. Spring moves the switch back and if power still there it repeats with another ball another ball.
+
+
+
+Now I fully accept that this is an abortion but...it's damn cheap and uses stuff you can make yourself. If you have a motor they have to have controllers to start, stop, hold them. Let's say you lift a cup with an arm, you need to balance it or it drops it as soon as power taken off. With the shuttle and ball screw the shuttle won't let the balls through so you have a built in clutch.
+
+
+
+Some of the 3D printer plastic with added carbon fiber is very strong. Not as steel but make it bigger and the force it can hold is just as good.
+
+
+
+It just occurred to me. Maybe the cheapest, and easiest, way to make the solenoid is to instead make an actuator that's like a rail gun,
+
+
+
+https://en.wikipedia.org/wiki/Railgun
+
+
+
+You only need two conductors and a cross over conductor that will also be your shuttle to shuttle the balls. No winding of coils and you could just slide a couple of copper rails and a copper cross piece into slots made when you 3D print them
+
+
+
+The goal of all this is that if you don't have some sort of transmission the current needed will be too much. Hence the ball screw to raise torque.
+
+
+
 A lot of what I'm doing is just thinking out loud and gaming what could be cheap and do able without a lot of cash or specialized machinery.
 
 # 269
@@ -2095,25 +2592,44 @@ I had similar thoughts on how to control the eyeballs. Maybe not using a motor w
 The best use case for solenoids is not to use the pin to push something, but to block something coming from the other direction, which is from the side. So the blocking power would not be related to the power of the magnetic force, but the strength of that pin and the whole construction of the solenoid and where it is attached to.
 
 # 272
->>10030
-"Magnetic power is very weak"
-
-I'm sure your right about a rail gun being weak but I do not think magnetic power is particularly weak. Look at the size of Teslas motors for his cars and how much torque these have. We need way, way, way less power.
-
-I did a little looking around and found a paper I had read before but forgot about. It covers "flux  concentrators" for rail guns. 
-
-A quote,"...The device was used at MIT for high field research and also for industrial metal forming. In 1965, Chapman[20] used a flux concentrator with a tapered bore for accelerating milligram metal spheres to hypervelocities. Using a first stage explosive flux compressor, Chapman managed to reach peak fields in excess of 7 megagauss, starting with an initial field of only 40 kilogauss..."
-
-Hmmm...maybe...I get that we don't need hyper velocities but the concentration part helps to raise the force to a small area. This is in turn used to push the balls. The balls and screw guides are in reality a transmission of sorts that allows taking a small fast force and turning into a slower more powerful force.
-
- Lucky for us humans are very weak,"...During a bicycle race, an elite cyclist can produce close to 400 watts of mechanical power...", that's not a lot. So just walking around you could get away with less than a hundred watts.
-
-https://www.coilgun.info/theorymath/electroguns.htm
-
-"...The best use case for solenoids is not to use the pin to push something, but to block something..."
-
-I get this. Totally understand but if we are going to make something that we can readily hack up in a garage without spending several thousand dollars for brush-less DC servos or some other such pricey stuff we're going to have to do something a bit odd and get creative. It doesn't matter if it's not perfect if it's cheap and easy to prototype.
-
+>>10030
+
+"Magnetic power is very weak"
+
+
+
+I'm sure your right about a rail gun being weak but I do not think magnetic power is particularly weak. Look at the size of Teslas motors for his cars and how much torque these have. We need way, way, way less power.
+
+
+
+I did a little looking around and found a paper I had read before but forgot about. It covers "flux  concentrators" for rail guns. 
+
+
+
+A quote,"...The device was used at MIT for high field research and also for industrial metal forming. In 1965, Chapman[20] used a flux concentrator with a tapered bore for accelerating milligram metal spheres to hypervelocities. Using a first stage explosive flux compressor, Chapman managed to reach peak fields in excess of 7 megagauss, starting with an initial field of only 40 kilogauss..."
+
+
+
+Hmmm...maybe...I get that we don't need hyper velocities but the concentration part helps to raise the force to a small area. This is in turn used to push the balls. The balls and screw guides are in reality a transmission of sorts that allows taking a small fast force and turning into a slower more powerful force.
+
+
+
+ Lucky for us humans are very weak,"...During a bicycle race, an elite cyclist can produce close to 400 watts of mechanical power...", that's not a lot. So just walking around you could get away with less than a hundred watts.
+
+
+
+https://www.coilgun.info/theorymath/electroguns.htm
+
+
+
+"...The best use case for solenoids is not to use the pin to push something, but to block something..."
+
+
+
+I get this. Totally understand but if we are going to make something that we can readily hack up in a garage without spending several thousand dollars for brush-less DC servos or some other such pricey stuff we're going to have to do something a bit odd and get creative. It doesn't matter if it's not perfect if it's cheap and easy to prototype.
+
+
+
 I really don't like pneumatics or hydraulics. They are very inefficient and super noisy. I think to get something acceptable you will have to make it electric.
 
 # 273
@@ -2141,11 +2657,16 @@ I'm actually enamored of this stuff I posted here. Elastomor actuators. This stu
 -''rm g_untd links''
 
 # 275
-The links were messed up I referenced here they are again.
-
-Planetary roller screws
->>9958
-And I got the name wrong it's Dielectric Elastomers
+The links were messed up I referenced here they are again.
+
+
+
+Planetary roller screws
+
+>>9958
+
+And I got the name wrong it's Dielectric Elastomers
+
 >>8502
 
 # 276
@@ -2153,8 +2674,10 @@ And I got the name wrong it's Dielectric Elastomers
 BTW, you should be able to delete your own posts to clean things up a bit Anon.
 
 # 277
-It wouldn't let me. Asked for another password???? It appears that it will only let you delete the very last post you made and not the one before it. If you would delete it I would appreciate it.
-
+It wouldn't let me. Asked for another password???? It appears that it will only let you delete the very last post you made and not the one before it. If you would delete it I would appreciate it.
+
+
+
 Sorry for screwing it up. I think I figured out how link correctly now.
 
 # 278

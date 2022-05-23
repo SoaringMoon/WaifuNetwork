@@ -143,7 +143,8 @@ Not sure if it makes sense to post stuff like this here, since people using some
 No perfectly fine. Anything Tensorflow related goes ITT. Nice tool by the looks of it as well. Thanks Anon.
 
 # 22
->>5777
+>>5777
+
 noice
 
 # 23
@@ -179,9 +180,12 @@ Once a '''robowaifu@home''' system was up and running, and good AI results are c
 Work requests could be posted somewhere online with the code and training data and the results uploaded to anonfiles or somewhere else. I think we're still a long way from doing any sort of distributed computing though. An easy way to do transfer learning needs to be made first, otherwise we'll just be training models from scratch again and again or getting stuck on a performance plateau, rather than adapting and evolving as new AI techniques come out and everything rapidly changes.
 
 # 28
->>5816
->>5817
-There's plenty of free and open source software for distributed computing like this available, making them execute TF training should not be too complex of a task. Package that into a container that has no filesystem acces and that runs through tor or something similar and we would have a start of a solution. 
+>>5816
+
+>>5817
+
+There's plenty of free and open source software for distributed computing like this available, making them execute TF training should not be too complex of a task. Package that into a container that has no filesystem acces and that runs through tor or something similar and we would have a start of a solution. 
+
 Some of the software options run through a custom screensaver so we could even make it robowaifu themed.
 
 # 29

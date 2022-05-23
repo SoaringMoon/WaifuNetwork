@@ -55,17 +55,28 @@ More to come, everyone go ahead and give some feedback on it please. I'll incorp
 -''convert this to a continuation post, linked above, due to char limit''
 
 # 4
->>2699
-We're pretty much pioneering the future of homebrew robowaifu so there aren't any tutorials or resources yet. The Inventors Corner and Repair & Maintenance board on the Doll Forum would be more knowledgeable in doll modification:
-https://dollforum.com/forum/
-
-You might enjoy building a Frame Arms Girl in the meantime. They're poseable figures that come in 200-300 pieces with step-by-step instructions on how to assemble them. The RobotShop also has kits for toy robots and remote control cars with microcontrollers and a wide selection of parts if you're interested in that:
-https://www.robotshop.com/
-
->>2701
->explaining things
-I try my best to avoid jargon but it's hard not to use. It would take reading 3-5 research papers to fully explain what I'm doing. For instance, a value and policy network is as obvious as the sky to me but I remember when I had no clue what a policy even was or how a value network worked and struggled to understand what people were talking about, until it finally clicked a policy is basically a chosen action by the AI and a value just determines how good or bad a given state is.
-
+>>2699
+
+We're pretty much pioneering the future of homebrew robowaifu so there aren't any tutorials or resources yet. The Inventors Corner and Repair & Maintenance board on the Doll Forum would be more knowledgeable in doll modification:
+
+https://dollforum.com/forum/
+
+
+
+You might enjoy building a Frame Arms Girl in the meantime. They're poseable figures that come in 200-300 pieces with step-by-step instructions on how to assemble them. The RobotShop also has kits for toy robots and remote control cars with microcontrollers and a wide selection of parts if you're interested in that:
+
+https://www.robotshop.com/
+
+
+
+>>2701
+
+>explaining things
+
+I try my best to avoid jargon but it's hard not to use. It would take reading 3-5 research papers to fully explain what I'm doing. For instance, a value and policy network is as obvious as the sky to me but I remember when I had no clue what a policy even was or how a value network worked and struggled to understand what people were talking about, until it finally clicked a policy is basically a chosen action by the AI and a value just determines how good or bad a given state is.
+
+
+
 Perhaps creating a glossary would be useful so people can look up terms they don't understand because these terms have nuances that need to be understood. A policy for example isn't just a chosen action but a probability distribution over many. For some of the things I'm doing now though there's not even any information on Google to explain what I'm doing except the research papers that inspired it and even then there's not any agreement in the research community on the terms they're using.
 
 # 5
@@ -75,7 +86,8 @@ Thanks for any extra efforts you can make. Your work is by far the most abstract
 Great idea, I updated the response post Anon. Refresh.
 
 # 6
->>2743
+>>2743
+
 Some type of required reading collection would definitely help getting everyone to similar competence levels. Currently trying to self-learn programming and machine learning but finding good material is hard. Problem with such a collection would be some bias towards certain approaches that the anon who made or maintains the collection prefers, which could limit the scope of the projects on this board.
 
 # 7
@@ -84,8 +96,10 @@ Some type of required reading collection would definitely help getting everyone 
 You're actually a very valuable resource to me then, Anon. I'm adding a basic tutorial section to the RDD that is intended to get novices up to speed quickly without a lot of overhead, and specifically in the ultimate context of building robowaifus in mind. Care to create a list of issues/questions/ideas etc., here for me?
 
 # 8
->>2746
-Biggest issue/question that would benefit most anons would probably be what to learn. So many options when it comes to programming languages, machine learning frameworks and their respective hardware support, mainly thinking about tensorflow and similar ones with the last point. 
+>>2746
+
+Biggest issue/question that would benefit most anons would probably be what to learn. So many options when it comes to programming languages, machine learning frameworks and their respective hardware support, mainly thinking about tensorflow and similar ones with the last point. 
+
 There are simply too many options and lacking knowledge that comes from experience with the choices about their strengths and weaknesses.
 
 # 9
@@ -94,9 +108,12 @@ The 3 languages will specifically be Python, C++, and C. They all 3 have importa
 >>2746
 
 # 10
->>2746
->>2748
-3D modeling, be it for printing or just designing parts for other fabrication methods, and lists of easily accessible methods. 
+>>2746
+
+>>2748
+
+3D modeling, be it for printing or just designing parts for other fabrication methods, and lists of easily accessible methods. 
+
 Depending on the backgrounds of anons here they might've never heard of something like vacuum tables, which are easy to make and allow you to turn simple molds into multiple spares to further work on.
 
 # 11
@@ -106,7 +123,8 @@ Great point. I will give vacuum molds specific attention in the '''Plastics, syn
 Thanks Anon, anything else?
 
 # 12
->>2750
+>>2750
+
 Haven't seen much talk about working with silicone or coatings for it, nor other soft materials.
 
 # 13
@@ -120,15 +138,24 @@ Blender is the obvious choice, and a recommendation I can pretty make without re
 Yea, it was one of the set of threads that haven't been moved over here yet sadly. I will definitely expand on these under ss11.6.2 Gluing & bonding, as well as in the surface materials subsections. Good point Anon, thanks. Anything else?
 
 # 15
->>2745
-In my opinion reinforcement learning is the most promising area of AI research and lead to the development of AlphaZero and MuZero beating world Go champions decades ahead of predictions. It partially emulates how the brain learns and with further research into neuromodulation we may be able to fully emulate it.
-
-The best introduction to RL is Richard Sutton's book and David Silver's RL course:
->>2250
->>2449
-
->>2747
-You're gonna need to learn Python for machine learning. PyTorch is the best for experimental work and the easiest to use. TensorFlow is better for deploying a finished AI model that needs to run fast, so it's popular among businesses. If you want to build robowaifus then you'll also need to learn C/C++ for programming embedded systems. I don't know any good books of the top of my head but try looking around for a highly rated book on Goodreads that captures your attention:
+>>2745
+
+In my opinion reinforcement learning is the most promising area of AI research and lead to the development of AlphaZero and MuZero beating world Go champions decades ahead of predictions. It partially emulates how the brain learns and with further research into neuromodulation we may be able to fully emulate it.
+
+
+
+The best introduction to RL is Richard Sutton's book and David Silver's RL course:
+
+>>2250
+
+>>2449
+
+
+
+>>2747
+
+You're gonna need to learn Python for machine learning. PyTorch is the best for experimental work and the easiest to use. TensorFlow is better for deploying a finished AI model that needs to run fast, so it's popular among businesses. If you want to build robowaifus then you'll also need to learn C/C++ for programming embedded systems. I don't know any good books of the top of my head but try looking around for a highly rated book on Goodreads that captures your attention:
+
 https://www.goodreads.com/search?utf8=%E2%9C%93&query=python+programming
 
 # 16
@@ -233,11 +260,16 @@ We'll all get there, but this is a long-term effort Anons.
 grammatical corrections and consolidation
 
 # 26
->>4585
-I'm in agreement with this post. There are a few barriers to entry that make it easier to focus on theory for now. The main one that you mentioned was engineering/programming related challenges. I think another important barrier is cost/materials. I think the best thing that could happen for the board right now would be for it to grow like-minded individuals. 
-
-I'm a bit new to this board myself. I never knew there was a dedicated community like this out there! I'm glad that I discovered this through some googling. Hilariously enough, the search that brought me here was literally just "Robowaifu". I spent a lot of time lurking Emmy the Robot threads on /co/ and those sexbot threads on /pol/ but wanted more. I had been interested in the concept for a long time but I thought there were few people that felt the same way.  
-
+>>4585
+
+I'm in agreement with this post. There are a few barriers to entry that make it easier to focus on theory for now. The main one that you mentioned was engineering/programming related challenges. I think another important barrier is cost/materials. I think the best thing that could happen for the board right now would be for it to grow like-minded individuals. 
+
+
+
+I'm a bit new to this board myself. I never knew there was a dedicated community like this out there! I'm glad that I discovered this through some googling. Hilariously enough, the search that brought me here was literally just "Robowaifu". I spent a lot of time lurking Emmy the Robot threads on /co/ and those sexbot threads on /pol/ but wanted more. I had been interested in the concept for a long time but I thought there were few people that felt the same way.  
+
+
+
 This community may be small but I'm seriously relieved that it exists. It's been exciting to browse the exchange of ideas between posts. People on this board are also very respectful towards each other which is another bonus. I hope to make some contributions of my own in the future but right now I feel like there is a lot for me to learn. I'm hoping that by the time I've developed my skills that this community will have grown some.
 
 # 27
@@ -247,13 +279,20 @@ I thought time would be a big issue for most anons? Even work from home wage-sla
 As you said, community's great. Probably because getting here requires a level of knowledge and particular type of mind. Nice to speak my mind here without censorship!
 
 # 28
->>4594
-Yeah time is another big barrier to entry. I guess depending on how you look at it that could be tied in with money. If someone was wealthy enough they could afford to make it their full time pursuit. Although that probably isn't realistic for most people so you're right. I guess the best of both worlds would be people with jobs in related robotic fields. They gain relevant knowledge while also earning the money they need to fund their lives/personal projects. 
-
-So does that mean the biggest barriers towards moving beyond theory are time, money, and knowledge? I have the misfortune of lacking all three. I'm working on knowlege and money, but I think those two will take so much time for me that it'll be a while before I can try my hand at producing something worthwhile. I overlooked time because of the whole quarantine stuff going on recently, but it is definitely a major bottleneck. 
-
-I think theories and concepts are so fun to make because they don't really cost anything. There are still a lot of problems that have to be solved on that level anyways. I think overall we lack a final image of what a robowaifu should look like/function like. Some people want something like Chi, some want something more human, and some want something more mecha. Personally I really prefer the mecha musume look, mostly humanoid but with obvious mechanical parts here and there. I also would like them to function more computer-like. I really don't need the whole synthetic emotion stuff. I can't speak for everyone of course.
-
+>>4594
+
+Yeah time is another big barrier to entry. I guess depending on how you look at it that could be tied in with money. If someone was wealthy enough they could afford to make it their full time pursuit. Although that probably isn't realistic for most people so you're right. I guess the best of both worlds would be people with jobs in related robotic fields. They gain relevant knowledge while also earning the money they need to fund their lives/personal projects. 
+
+
+
+So does that mean the biggest barriers towards moving beyond theory are time, money, and knowledge? I have the misfortune of lacking all three. I'm working on knowlege and money, but I think those two will take so much time for me that it'll be a while before I can try my hand at producing something worthwhile. I overlooked time because of the whole quarantine stuff going on recently, but it is definitely a major bottleneck. 
+
+
+
+I think theories and concepts are so fun to make because they don't really cost anything. There are still a lot of problems that have to be solved on that level anyways. I think overall we lack a final image of what a robowaifu should look like/function like. Some people want something like Chi, some want something more human, and some want something more mecha. Personally I really prefer the mecha musume look, mostly humanoid but with obvious mechanical parts here and there. I also would like them to function more computer-like. I really don't need the whole synthetic emotion stuff. I can't speak for everyone of course.
+
+
+
 I'd like to know what others are looking for in that regard. I think the fact that everyone has their own internal image of their idealized robowaifu is what causes so many splits in theory. It's interesting.
 
 # 29
@@ -328,9 +367,12 @@ After a few months of thinking, I've decided there's certainly no harm in puttin
 '''Be the future you imagine'''.
 
 # 37
-An idea I had was to have an outer and inner circle. There are frequent robowaifu theme posts on /pol/ which get about 90% positive interaction and 10% negative, but very few actually are aware of the real projects and research taking place here. 
-Last year I created an "enthusiast" level discord server and created a few channels for brainstorming and research (not knowing about /robowaifu/ at the time) - it is interesting to see how many ideas are here that were the same and how many new ideas as well.
-So what if we were to create an enthusiast tier board for propaganda and memes, fiction, discussion, but anyone wanting to go further into the technical realm would be from a smaller pool.
+An idea I had was to have an outer and inner circle. There are frequent robowaifu theme posts on /pol/ which get about 90% positive interaction and 10% negative, but very few actually are aware of the real projects and research taking place here. 
+
+Last year I created an "enthusiast" level discord server and created a few channels for brainstorming and research (not knowing about /robowaifu/ at the time) - it is interesting to see how many ideas are here that were the same and how many new ideas as well.
+
+So what if we were to create an enthusiast tier board for propaganda and memes, fiction, discussion, but anyone wanting to go further into the technical realm would be from a smaller pool.
+
 So we have a larger pool which is more "normie" friendly and fun, but those who want more, or who are ready, can be vetted and introduced into the inner circle, so to speak. What do you think?
 
 # 38

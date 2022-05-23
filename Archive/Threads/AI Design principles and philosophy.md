@@ -23,9 +23,12 @@ Cleverbot is the best that anyone could hope for in a homebrew operation in my o
 I think the framework M$ devised that was behind Tay is available for use by anyone willing to fork over the sheqels to do so.
 
 # 4
->>332
-As is typical with M$ they make a big deal about being open but if you look beneath the surface there's nothing there. They only release a few token items that don't matter so their shills in the media have something to point at.
-
+>>332
+
+As is typical with M$ they make a big deal about being open but if you look beneath the surface there's nothing there. They only release a few token items that don't matter so their shills in the media have something to point at.
+
+
+
 The /machinecult/ board on 8chan that wanted to revive Tay and learned the hard way that their 'commitment to open source' is fraudulent and were given nothing to work with.
 
 # 5
@@ -35,21 +38,33 @@ their bot framework api is 'open' to use, but as it's entirely dependent on Azur
 www.lita.io/
 
 # 6
->>333 Dubs of Truth
-Damn seriously? I think it's gotta means something if you gt a 333 when talking about this /machinecult/ board.
+>>333 Dubs of Truth
+
+Damn seriously? I think it's gotta means something if you gt a 333 when talking about this /machinecult/ board.
+
 Please tell me more about /machinecult/.
 
 # 7
-Now that I think of it Turd Flinging Monkey made a tutorial/review video about this subject on his BitChute channel. Can't use their search at the moment but I remember that Replika was in the title.
-https://www.bitchute.com/channel/turdflingingmonkey/?showall=1
-
-Replika isn't entirely open but some aspects of it are through CakeChat. They also publish some of their research and presentations on their github repository.
-https://github.com/lukalabs
-
->>334
-That's not surprising as cloud integration is the new method of keeping users locked into to your ecosystem.
-
->>335
+Now that I think of it Turd Flinging Monkey made a tutorial/review video about this subject on his BitChute channel. Can't use their search at the moment but I remember that Replika was in the title.
+
+https://www.bitchute.com/channel/turdflingingmonkey/?showall=1
+
+
+
+Replika isn't entirely open but some aspects of it are through CakeChat. They also publish some of their research and presentations on their github repository.
+
+https://github.com/lukalabs
+
+
+
+>>334
+
+That's not surprising as cloud integration is the new method of keeping users locked into to your ecosystem.
+
+
+
+>>335
+
 There isn't much to say about it as I only visited it once or twice. I'd say that it was similar to /robowaifu/ with very few people doing any work or research and mostly just idle talk about the topic.
 
 # 8
@@ -76,12 +91,15 @@ Basically make the thing open source and the lonely coders will do all the work 
 i certainly intend to make all of my code opensauce. not for the reason you mentioned, but to help ensure personal security of anon's robowaifu (ie, code is fully open to peer-review). the group-effort aspect is beneficial ofc, but not the greatest priority imo.
 
 # 12
->Paradigms of Artificial Intelligence Programming
+>Paradigms of Artificial Intelligence Programming
+
 Book and code: https://github.com/norvig/paip-lisp
 
 # 13
->>27
->Which is most realistic for us to develop?
+>>27
+
+>Which is most realistic for us to develop?
+
 If you ask me, I want an AI waifu that can benefit me on teaching things that I'm not good at such as Languages, including Programming Languages.
 
 # 14
@@ -165,7 +183,8 @@ while 42 is True:
         do something
     if is_question(human_input):
         check_ambiguity
-``` The more it becomes like a programming language the more it becomes harder to read for beginners, and the more I cringe on some other simplifications which are still left. Also, I can't correct errors in here...
+```
+The more it becomes like a programming language the more it becomes harder to read for beginners, and the more I cringe on some other simplifications which are still left. Also, I can't correct errors in here...
 
 # 25
 >>7896
@@ -305,7 +324,7 @@ Thanks Anon. I hope they succeed at this and keep the results ''actually'' open-
 
 # 41
 >>10353
-<Scientists achieve major breakthrough
+
 >but it can only be verified with $1,000,000 of compute
 >but it can't be verified because they refuse to release their source code/model because it's too dangerous
 >but we won't reproduce it because its carbon footprint is too big
@@ -397,7 +416,8 @@ OK, point well-taken Anon. Thanks.
 Sketch-based image retrieval (SBIR) is another aspect of ML, which we're going to need at some point. Its about finding the closest image to some sketch, which should help to read drawings and sketches, but may also improve recognition of visual patterns in general. Currently it's still difficult to do.
 
 # 55
->>10975
+>>10975
+
 Fuck, I only started learning about Neural Networks last year as my last exam for my major, and now I can't stop thinking about the applications. I absolutely love this shit, all my peers are horrified but I just think it's great we're approaching the point where humanity can have virtual intelligence as an actual thing.
 
 # 56
@@ -456,8 +476,10 @@ Implementations of linear and logistic regressions, from the scratch (with libra
 Some other progress reports and overview diagrams. I don't find the Link/PDF for the papers right now.
 
 # 63
->>10977
-normies are scared of big bad AI ever since Terminator, more (((Hollywood))) brainwashing
+>>10977
+
+normies are scared of big bad AI ever since Terminator, more (((Hollywood))) brainwashing
+
 that being said, normies are scared of anything more intelligent than them and doubly so for anything deemed "alien", even though the AI will be built and trained by us and will likely be more logical, rational and moral than any human in existence
 
 # 64
@@ -527,13 +549,20 @@ The article is mostly hype. AI like genetic programming is really good at findin
 Doesn't matter, because then it has the formula to deal with something. Which is what we need. That's a pretty low lever, we don't do reasoning on that level either.
 
 # 74
-Schmidhuber's lab is at it again with Going Beyond Linear Transformers with Recurrent Fast Weight Programmers: https://arxiv.org/abs/2106.06295
-
-They took Linear Transformers that are super fast, having a time complexity O(n) with sequence length compared to regular Transformers that are O(n^2), and experimented with adding recurrence to them in different ways, essentially making previous steps program the weights of the network, giving it a malleable memory. Before this paper Linear Transformers were fast but they didn't really perform anywhere near as well, but with recurrent fast weight programming and the error-correcting delta rule they outperform regular Transformers when using the full context length. On truncated context lengths of 256 tokens it also still performs competitively. We could use this for chat AI that runs quickly on the CPU.
-
-This model isn't only better at language modelling but also excels LSTMs in playing some games, which transformers completely failed at before. This a much more general-purpose AI architecture that could make significant advances with learning from multimodal data.
-
-When I have some time I'm going to try implementing it from scratch and training a small model to share with the guys at ElutherAI to see what they think.
+Schmidhuber's lab is at it again with Going Beyond Linear Transformers with Recurrent Fast Weight Programmers: https://arxiv.org/abs/2106.06295
+
+
+
+They took Linear Transformers that are super fast, having a time complexity O(n) with sequence length compared to regular Transformers that are O(n^2), and experimented with adding recurrence to them in different ways, essentially making previous steps program the weights of the network, giving it a malleable memory. Before this paper Linear Transformers were fast but they didn't really perform anywhere near as well, but with recurrent fast weight programming and the error-correcting delta rule they outperform regular Transformers when using the full context length. On truncated context lengths of 256 tokens it also still performs competitively. We could use this for chat AI that runs quickly on the CPU.
+
+
+
+This model isn't only better at language modelling but also excels LSTMs in playing some games, which transformers completely failed at before. This a much more general-purpose AI architecture that could make significant advances with learning from multimodal data.
+
+
+
+When I have some time I'm going to try implementing it from scratch and training a small model to share with the guys at ElutherAI to see what they think.
+
 They released all of their code as well: https://github.com/IDSIA/recurrent-fwp
 
 # 75
@@ -541,12 +570,18 @@ They released all of their code as well: https://github.com/IDSIA/recurrent-fwp
 This sounds particularly intriguing Anon. Good luck with your explorations, and thanks for letting us know here!
 
 # 76
-Found a really interesting study that combines existing language models with vision encoders to create multimodal language models that can generate responses to queries with images and text. All that is required to train is the vision encoder. The weights of the language model are frozen during training.
-Video summary: https://www.youtube.com/watch?v=ezrl1Yo_EkM
-Paper: https://arxiv.org/abs/2106.13884
-
-This could be useful for creating waifu AI that can respond to pictures, video, audio and memes. Also I like this idea of being able to use existing models together.
-
+Found a really interesting study that combines existing language models with vision encoders to create multimodal language models that can generate responses to queries with images and text. All that is required to train is the vision encoder. The weights of the language model are frozen during training.
+
+Video summary: https://www.youtube.com/watch?v=ezrl1Yo_EkM
+
+Paper: https://arxiv.org/abs/2106.13884
+
+
+
+This could be useful for creating waifu AI that can respond to pictures, video, audio and memes. Also I like this idea of being able to use existing models together.
+
+
+
 Pretty soon we'll have waifus that can shitpost with us. What a time to be alive!
 
 # 77
@@ -557,7 +592,8 @@ Pretty soon we'll have waifus that can shitpost with us. What a time to be alive
 My instinct is that this will be important for low-end hardware solutions for us here.
 
 # 78
->>11731
+>>11731
+
 Nice find anon. This is an aspect that is usually ignored by many chatbot research, but even if it's intelligence is shit, having an AI that can semi-reliably have a discussion about the images that you feed it would make it a lot more engaging than text-only (and it would allow some very funny conversations, I'm sure)
 
 # 79
@@ -565,65 +601,94 @@ Nice find anon. This is an aspect that is usually ignored by many chatbot resear
 Not him, but agreed. One of the nice things about Tay.ai was that she had pretty functional image recognition working (at least for facial landmarks), and could effectively shitpost together with you about them.
 
 # 80
->>11734
-I think they were referring to taking a few samples and selecting the best, aka cherry picking. But SqueezeNet for image recognition is super fast and can run on the CPU. I should be able to rig it up with GPT-Neo-125M. It'll be amazing to port this to Chainer and have a working Windows binary that's under 600MB.
-
+>>11734
+
+I think they were referring to taking a few samples and selecting the best, aka cherry picking. But SqueezeNet for image recognition is super fast and can run on the CPU. I should be able to rig it up with GPT-Neo-125M. It'll be amazing to port this to Chainer and have a working Windows binary that's under 600MB.
+
+
+
 It doesn't seem like they released their dataset but any visual question answering dataset should work. We could also create our own dataset for anime images and imageboard memes. It'll be interesting to see if once the vision encoder is well-trained if it's possible to unfreeze the language model and finetune it for better results.
 
 # 81
->>11731
-Had some thoughts on this today. Instead of a single picture, multiple pictures could be fed in from a video, such as from an anime, and have it generate comments on it. Which got me thinking, if it can have this rudimentary thought process going on, couldn't it be used in something like MERLIN? https://arxiv.org/abs/1803.10760
-
+>>11731
+
+Had some thoughts on this today. Instead of a single picture, multiple pictures could be fed in from a video, such as from an anime, and have it generate comments on it. Which got me thinking, if it can have this rudimentary thought process going on, couldn't it be used in something like MERLIN? https://arxiv.org/abs/1803.10760
+
+
+
 It took natural language as input describing the goal it has to achieve. With a system like this though it might be able to break down tasks into smaller goals and direct itself as it makes progress. Some instruction saying it needs to get to the top of a platform or go through a certain door it hasn't seen before is immensely more useful than telling it to find the purple McGuffin and getting lost in a labyrinth of rooms.
 
 # 82
 This is the kind of chatbots people are paying good money for and a good example of why you should never use DialoGPT because it has no context of who is speaking to who.
 
 # 83
-I think that these guys at XNOR.ai have really got a paradigm shift in AI. I think, the idea is to instead of long lengthy matrix multiplications they just use CNOR logic. The end result is that they get recognition of animals, people,  bikes, cars, etc. with only cell phone and raspberry Pi level computers. They used to have some really good real time object recognition video s but deleted a bunch of them when they were snagged up by Apple. Sigh. However I just found out that the ideas they came yup with were started by a non=profit and papers and I believe some code may be found by rummaging aroudn their site. So here's a link on XNOR.AI and then one from the non-profit.
-
-https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/
-
-https://allenai.org/
-
-AT the above they have some named videos like."OpenBot: Turning Smartphones into Robots | Embodied AI Lecture Series". Hmmm...sounds interesting.
-
+I think that these guys at XNOR.ai have really got a paradigm shift in AI. I think, the idea is to instead of long lengthy matrix multiplications they just use CNOR logic. The end result is that they get recognition of animals, people,  bikes, cars, etc. with only cell phone and raspberry Pi level computers. They used to have some really good real time object recognition video s but deleted a bunch of them when they were snagged up by Apple. Sigh. However I just found out that the ideas they came yup with were started by a non=profit and papers and I believe some code may be found by rummaging aroudn their site. So here's a link on XNOR.AI and then one from the non-profit.
+
+
+
+https://techcrunch.com/2017/01/19/xnor-ai-frees-ai-from-the-prison-of-the-supercomputer/
+
+
+
+https://allenai.org/
+
+
+
+AT the above they have some named videos like."OpenBot: Turning Smartphones into Robots | Embodied AI Lecture Series". Hmmm...sounds interesting.
+
+
+
 One thing I've thought about for a while off and on is that small insects can do a bunch of simple things with next to no brain at all. A standard micro-controller that runs your refrigerator could probably run rings around an ant brain power wise but no one has come up with the right algorithm yet to use this computing power efficiently. Maybe this is the way. For a decent functioning robowaifu we don't need super powers maybe more like mouse powers and I'm not so sure with the right software we could not get that right now with a handful of top of the line processors commercially available. If it takes a handful today then two years from now it may only take one.
 
 # 84
-Oops CNOR logic
+Oops CNOR logic
+
 actually XNOR
 
 # 85
->>11857
+>>11857
+
 because its not true AI, it's chat AI. Like lobotomizing a person but leaving their ability to be chatty intact
 
 # 86
->>13396
->“We decided to binarize the hell out of it,” he said. By simplifying the mathematical operations to rough equivalents in binary operations, they could increase the speed and efficiency with which AI models can be run by several orders of magnitude.
-
-excellent! this is somewhat analogous with what anon on /pol/ brought up. An important concept, neural simulating circuits, simulating these complex interactions on the nano scale, on atoms themselves rather than the vastly inefficient method of simulating these on software running on only standard logic gates. (like emulating a "computer" in minecraft on top of a running computer versus just running a computer on hardware, cool video if you haven't seen it, they create and/or gates out of special red blocks and torches or something if I'm not mistaken)
-
+>>13396
+
+>“We decided to binarize the hell out of it,” he said. By simplifying the mathematical operations to rough equivalents in binary operations, they could increase the speed and efficiency with which AI models can be run by several orders of magnitude.
+
+
+
+excellent! this is somewhat analogous with what anon on /pol/ brought up. An important concept, neural simulating circuits, simulating these complex interactions on the nano scale, on atoms themselves rather than the vastly inefficient method of simulating these on software running on only standard logic gates. (like emulating a "computer" in minecraft on top of a running computer versus just running a computer on hardware, cool video if you haven't seen it, they create and/or gates out of special red blocks and torches or something if I'm not mistaken)
+
+
+
 https://www.youtube.com/watch?v=nfIRIInU2Vg
 
 # 87
->>13401
+>>13401
+
 still not sure why when I upload a small graphic with white background it does this
 
 # 88
->>13401
+>>13401
+
 sorry if that's hard to read, my 6th dose of espresso just hit me and im making word salad. I don't edit my posts much here b/c I assume u are all smart enough to decode it. Edit feature would be nice but that' s not how IBs work :' [
 
 # 89
->>11736
->>Tay.ai
-
+>>11736
+
+>>Tay.ai
+
+
+
 Extraordinary what Tay came up with within a couple weeks
 
 # 90
->>13403
-> im making word salad
-
+>>13403
+
+> im making word salad
+
+
+
 Don't feel bad I gronkked my comment quite a bit. Sometimes when I'm tired, and even when not, I just miss all this retarded typing I do. If I didn't have spell check between my fumble fingers and my horrid spelling my comments would look more like hieroglyphics  than writing.
 
 # 91
@@ -654,28 +719,47 @@ Neat. I'll have to watch that video later.
 Huh, seems like all you would need to do is make nested updatable variables to approximate this kind of intelligence, for example, she could want to walk at x speed in the y vector. By checking her assumed speed vs her actual speed, she could make adjustments. Like, going 1 m/s requires higher voltage when she senses she's on carpet compared to when she's on tile flooring.
 
 # 96
-Dropping an interesting paper from last November on improving transformers for conversation:
->The conversational setting is challenging because these models are required to perform multiple duties all in one shot:
-
->to perform reasoning over the returned documents and dialogue history,
->find the relevant knowledge,
->and then finally combine this into a conversational form pertinent to the dialogue.
-
->Perhaps due to this complexity, it has been observed that failure cases include incorporating parts of multiple documents into one factually incorrect response, or failure to include knowledge at all and reverting instead to a generic response using the dialogue context only.
-
->In this work, we instead propose to decompose this difficult problem into two easier steps. Specifically, by first generating pertinent intermediate knowledge explicitly and then, conditioned on this prediction, generating the dialogue response. We call this model Knowledge to Response (K2R).
-https://arxiv.org/pdf/2111.05204.pdf
+Dropping an interesting paper from last November on improving transformers for conversation:
+
+>The conversational setting is challenging because these models are required to perform multiple duties all in one shot:
+
+
+
+>to perform reasoning over the returned documents and dialogue history,
+
+>find the relevant knowledge,
+
+>and then finally combine this into a conversational form pertinent to the dialogue.
+
+
+
+>Perhaps due to this complexity, it has been observed that failure cases include incorporating parts of multiple documents into one factually incorrect response, or failure to include knowledge at all and reverting instead to a generic response using the dialogue context only.
+
+
+
+>In this work, we instead propose to decompose this difficult problem into two easier steps. Specifically, by first generating pertinent intermediate knowledge explicitly and then, conditioned on this prediction, generating the dialogue response. We call this model Knowledge to Response (K2R).
+
+https://arxiv.org/pdf/2111.05204.pdf
+
 It works sort of like a lorebook in NovelAI where detected keywords or phrases inject information into the context to improve response generation, except here the lorebook is generated by another language model. Improvements were reported in consistency, breadth of knowledge and factualness but no improvement was seen in how engaging responses were. These knowledge models are easy to implement with an autoencoding transformer like the T5 model.
 
 # 97
->>15317 (continued)
-What's really missing for robowaifu AI though is the lack of memory I/O so it's possible to learn from daily interaction. Separating knowledge from language processing is a step towards this at least. Instead of generating knowledge from weights learned through backpropagation on another model, it could be summarized from stored memories located by masked content-based addressing.
-https://arxiv.org/pdf/1904.10278.pdf
-
-For example, in saving a memory like "ELIZA was one of the first chatbots" an important part is 'ELIZA was' and would be masked out in the content address, so when something similar to 'one of the first chatbots' pops up in conversation, this content memory address is accessed and ELIZA is remembered. The reverse could also be stored so that when ELIZA pops up in conversation it's remembered she was one of the first chatbots. This should be doable with an autoencoding transformer that summarizes the input into key-value pairs to be either stored or queried.
-
-But there should be a much better approach to creating an associative memory. The data stored should really be the relations between two items, creating a knowledge graph. For example, the relation between 'ELIZA' and 'one of the first chatbots' is 'was'. The transformer needs to be able to add, modify and access these relations.
-
+>>15317 (continued)
+
+What's really missing for robowaifu AI though is the lack of memory I/O so it's possible to learn from daily interaction. Separating knowledge from language processing is a step towards this at least. Instead of generating knowledge from weights learned through backpropagation on another model, it could be summarized from stored memories located by masked content-based addressing.
+
+https://arxiv.org/pdf/1904.10278.pdf
+
+
+
+For example, in saving a memory like "ELIZA was one of the first chatbots" an important part is 'ELIZA was' and would be masked out in the content address, so when something similar to 'one of the first chatbots' pops up in conversation, this content memory address is accessed and ELIZA is remembered. The reverse could also be stored so that when ELIZA pops up in conversation it's remembered she was one of the first chatbots. This should be doable with an autoencoding transformer that summarizes the input into key-value pairs to be either stored or queried.
+
+
+
+But there should be a much better approach to creating an associative memory. The data stored should really be the relations between two items, creating a knowledge graph. For example, the relation between 'ELIZA' and 'one of the first chatbots' is 'was'. The transformer needs to be able to add, modify and access these relations.
+
+
+
 How to get the relations containing an item or similar ones is beyond me right now. Perhaps by constructing a sparse neural network and sending out a pulse from relevant nodes in the graph? Then taking the top-k or top-p edges in graph and returning those statements to the context. Maybe someone who understands graph neural networks better could suggest something here. The main issue is this graph search has to be fully differentiable for backpropagation, although a non-differentiable approach might work here, such as using reinforcement learning with proximal policy optimization, which I'm already working on implementing for InstructGPT.
 
 # 98
@@ -695,20 +779,28 @@ Yep. Such 'incidental' data structures are rife in the natural world, if I can s
 Yet clearly, from a theistic POV, things were intentionally designed thus. Similarly, we need to think at least one level higher up and work towards efficient AI algorithms that exploit such incidental -- if ephemeral -- 'data' structures.
 
 # 99
-Been trying to come up with a memory controller that only needs to be trained once, can leverage existing models, and can support quick storage and retrieval up to 1 TB of data.
-
-It's a lot to explain but the basic idea is it summarizes the preceding text, pools the summary into a vector and then stores the summary and vector into a hash table bucket in the memory database. For retrieval it generates a query from the truncated context, pools it into a vector, looks up nearby memories in the memory database using the hash, and then finds the k nearest neighbours by taking the cosine similarity of vectors in the bucket. If no memories are found in a bucket the hash works like a tree so it will traverse up the tree until it collects enough memories to generate a summary.
-
-To make the memory controller trainable through generative pre-training without needing any new datasets, a hash alignment loss is used to ensure new memories and relevant queries point to similar buckets in the memory database. Two memory advantage rewards are optimized with PPO to train the summarization model to ensure both the hidden context summary and summarized memories improve the predictions of the language model (which can remain frozen during training so the memory controller can be solely trained on low-end hardware).
-
+Been trying to come up with a memory controller that only needs to be trained once, can leverage existing models, and can support quick storage and retrieval up to 1 TB of data.
+
+
+
+It's a lot to explain but the basic idea is it summarizes the preceding text, pools the summary into a vector and then stores the summary and vector into a hash table bucket in the memory database. For retrieval it generates a query from the truncated context, pools it into a vector, looks up nearby memories in the memory database using the hash, and then finds the k nearest neighbours by taking the cosine similarity of vectors in the bucket. If no memories are found in a bucket the hash works like a tree so it will traverse up the tree until it collects enough memories to generate a summary.
+
+
+
+To make the memory controller trainable through generative pre-training without needing any new datasets, a hash alignment loss is used to ensure new memories and relevant queries point to similar buckets in the memory database. Two memory advantage rewards are optimized with PPO to train the summarization model to ensure both the hidden context summary and summarized memories improve the predictions of the language model (which can remain frozen during training so the memory controller can be solely trained on low-end hardware).
+
+
+
 Another idea I have for this is that the query generator could also be used to introspect memories and the output from the language model. If the model finds a contradiction somewhere, it should be possible to resolve it then update its own model or at the very least correct memories in the database. Being able to discern the correctness of statements could pave the way towards generating novel ideas grounded in truth not seen anywhere in training data or memory.
 
 # 100
->>16110
+>>16110
+
 That sounds very complicated. Do you know how to do something like that?
 
 # 101
->>16116
+>>16116
+
 It's a bit complicated but I've implemented most of the pieces before in other projects.
 
 # 102
@@ -724,7 +816,8 @@ So, my question would be "Could something like that be used in a system to find 
 But I want to not only understand your goals, but even to help fashion them in reality with you Anon.
 
 # 103
->>16148
+>>16148
+
 I plan on using a SQL database to store data with each memory and take advantage of indexes to quickly do the approximate nearest neighbour search. SQL does its own set intersection when you query something like where a=1 and b=2, and with an index on those columns it knows exactly where to find a few KB of data in O(log m + log n) time by using B-trees, instead of checking every single item in O(m+n) time, which could potentially be a few million after a year of accumulating memories.
 
 # 104
@@ -736,15 +829,21 @@ I'm not sure exactly what the ''Big-O'' rating would be for ''Waifusearch'' 's o
 Again, Waifusearch is a filesystem-based datastore system. After a few seconds frontloading the indexing, she's pretty snappy tbh.
 
 # 105
->>16240
+>>16240
+
 No worries. At the bare minimum B-trees alone can be used for the memory storage and retrieval. If memories are stored as files they'll have to be split up into many directories using the beginning of their hash. I've ran into issues storing 10 million files (40 GB) in a single directory.
 
 # 106
-DeepMind created a multipurpose multimodal transformer that can play games at a human level, caption images, solve robot simulation tasks 96% of the time, control a real robot arm and chat about anything including responding to images. It doesn't appear to be using the latest multimodal advances though such as multimodal cross attention so it's not too great at image captioning. The largest model they tried was 1.2B parameters and it appears to perform decently with only 79M. For reference, a 375M model could run on a Raspberry Pi with 4 GB of ram.
-https://www.deepmind.com/publications/a-generalist-agent
-
-The authors also mention this is just a proof-of-concept and wish to experiment with external retrieval and mentioned another fascinating paper on the Retrieval-Enhanced Transformer (RETRO) that reported results on par with GPT-3 using 25x less parameters. It doesn't store memories but instead indexes large amounts of text using BERT embeddings, retrieves similar information to the context, and incorporates it with chunked cross attention.
-
+DeepMind created a multipurpose multimodal transformer that can play games at a human level, caption images, solve robot simulation tasks 96% of the time, control a real robot arm and chat about anything including responding to images. It doesn't appear to be using the latest multimodal advances though such as multimodal cross attention so it's not too great at image captioning. The largest model they tried was 1.2B parameters and it appears to perform decently with only 79M. For reference, a 375M model could run on a Raspberry Pi with 4 GB of ram.
+
+https://www.deepmind.com/publications/a-generalist-agent
+
+
+
+The authors also mention this is just a proof-of-concept and wish to experiment with external retrieval and mentioned another fascinating paper on the Retrieval-Enhanced Transformer (RETRO) that reported results on par with GPT-3 using 25x less parameters. It doesn't store memories but instead indexes large amounts of text using BERT embeddings, retrieves similar information to the context, and incorporates it with chunked cross attention.
+
+
+
 It's pretty encouraging seeing these early attempts getting such good results. The multimodal agent in particular makes me think of the possibilities of storing multimodal embeddings as memories rather than just text. A waifu would be able to remember your face, where stored items were placed months or years ago, everything you've read, and what you chat about and did every day with almost perfect clarity.
 
 # 107
@@ -760,7 +859,8 @@ Thanks, that's encouraging to hear Anon.
 What a time to be alive! Do you have any feeling for how practical it would be to train on more modest hardware that Joe Anon is likely to have around?
 
 # 109
->>16261
+>>16261
+
 The most popular GPU on Steam right now is a 6 GB GTX 1060. It's pretty slow so from scratch probably two years for a 375M model. With pretrained models maybe a week or two. Language models have been shown to transfer well to reinforcement learning and also work well with existing vision models. You just have to train an adapter from the frozen vision model features to the frozen language model embeddings, ideally after finetuning the vision model on vision tasks you want it to be able to do.
 
 # 110
@@ -771,7 +871,8 @@ Actually, that sounds pretty encouraging Anon! So, I would assume that a home-se
 Also, is this a scenario that would work with no continual connection even to the home server? This is, entirely un-networked using purely on-board data and hardware resources?
 
 # 111
->>16298
+>>16298
+
 Part of adding a memory is to get rid of the need for incremental training. A model like Gato would be able to run on an SBC but might be too slow to inference for servo output. It would be more practical for it to do planning and have a faster, more lightweight system to handle the movements. Everything would be able to run onboard but it wouldn't be ideal.
 
 # 112

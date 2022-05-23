@@ -2,9 +2,12 @@
 Thoughts on making a paper waifu then adding robotics? I want animu grills but, most robots have uncanny 3DPD faces that aren't nearly as cute as a real waifu. With paper/screens, at least the face can keep the purity and beauty of 2D.
 
 # 2
->>271
-While I cannot help on the robowaifu side, there are moving paper toys from this thread back at /po/. They're cute and templates can be adjusted. They're easy to store, but be careful about paper getting dusty.
-
+>>271
+
+While I cannot help on the robowaifu side, there are moving paper toys from this thread back at /po/. They're cute and templates can be adjusted. They're easy to store, but be careful about paper getting dusty.
+
+
+
 https://boards.4channel.org/po/thread/574188
 
 # 3
@@ -19,9 +22,12 @@ I hope papercraft-waifu Anon finds us again and starts posting here again tbh.
 >>9176
 
 # 5
-so, i decidated to make a paper torso just because "why not?", and the results are pretty obvious, it weight like a paper leaf, too weak for sex and almost anything. but is a interesting concept has a way to plan designs and has a mold. posting in this thread because is kinda of a shitpost
-
->===
+so, i decidated to make a paper torso just because "why not?", and the results are pretty obvious, it weight like a paper leaf, too weak for sex and almost anything. but is a interesting concept has a way to plan designs and has a mold. posting in this thread because is kinda of a shitpost
+
+
+
+>===
+
 ''moved here b/c a) it's not at all a shitpost, and b) on-topic ITT''
 
 # 6

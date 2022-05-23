@@ -14,8 +14,10 @@ Just letting you know I saw your post OP. I'm one of the two you linked. I'll ha
 Good thread topic for /robowaifu/ OP, so thanks for taking the time to spell things out well in your OP. :^)
 
 # 3
-First of all save your money for hardware and use http://libgen.rs/ for free books, I find the 'handbook' series from the publisher Springer has great work on a variety of topics relating to topics this board discusses. Also you can use https://torrentz2.is/ for online courses, this is what I found doing a search for 'udemy machine learning'. Be careful when pirating as the sites linked to on that torrent search engine aren't always safe.
-
+First of all save your money for hardware and use http://libgen.rs/ for free books, I find the 'handbook' series from the publisher Springer has great work on a variety of topics relating to topics this board discusses. Also you can use https://torrentz2.is/ for online courses, this is what I found doing a search for 'udemy machine learning'. Be careful when pirating as the sites linked to on that torrent search engine aren't always safe.
+
+
+
 I'd recommend against amassing a horde of learning materials as those courses or books won't do you any good if your goals are unrealistic. Start with the basics moving to more difficult topics and constantly reevaluate your goals.
 
 # 4

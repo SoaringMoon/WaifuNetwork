@@ -29,10 +29,14 @@ Actually, boobs that also explode things isn't such a bad idea. There is definit
 >>11757 thats v unoriginal, from a movie right? or anime?
 
 # 6
->>11757
->Actually, boobs that also explode things isn't such a bad idea. There is definitely space for a miniaturised MRL...hmmmm
-Hmmmm.
-
+>>11757
+
+>Actually, boobs that also explode things isn't such a bad idea. There is definitely space for a miniaturised MRL...hmmmm
+
+Hmmmm.
+
+
+
 (2nd post, gif didn't upload)
 
 # 7
@@ -561,7 +565,7 @@ and one of the way to get into you, is to tell you to get out.
 >>11809
 My bot found a typo.
 >trust your intution the universe is guiding your life
-<trust your intuition the universe is guiding your life
+>trust your intuition the universe is guiding your life
 
 # 35
 >>11812
@@ -669,7 +673,8 @@ In general, no matter what you do, don't do it alone. Even if a friend, relative
 People cope with tragedy in all sorts
 
 # 43
-'''Confucius say:'''
+'''Confucius say:'''
+
 '''    Robot wife''' good wife; good wife make robot wife better.
 
 # 44
@@ -702,6 +707,7 @@ prawn
 I used to do this with my Amex when it didn't work with my online banking. It
 was the Amex number and the Amex statement number from the last transaction
 that worked
+~~~
 
 # 46
 '''everywhere you choose to go friendly faces will greet you''' with a friendly smile and a welcoming face of encouragement. The people here are friendly, friendly people, because everybody is so friendly there, you know, and so everybody is very helpful. You will not get any hassle whatsoever. They are friendly to visitors, friendly to business people, friendly to tourists. A friendly and hospitable place. I think that's the biggest quality that attracts visitors to China, is their friendliness. I would have to say their friendliness. But I think that is maybe their most attractive quality. The friendliness of the Chinese. I think that is one of their most attractive qualities. Now, I am not speaking as if I am making a judgment, but I think that is the most attractive quality about China. Of course, they are very friendly, and most friendly people are friendly because they have good manners, but I think if you ask any Chinese person, the way that they live their lives and the way they treat others, I think the friendliness and the
@@ -752,22 +758,38 @@ For the last month, I’ve been thinking about what I’ll need to do to pack a 
 what is this?
 
 # 51
->>14
-<Is it possible for AI to feel real emotions?
->>38
-<How can we grow this robowaifu board?
->>244
-<Is there any downloadable AI programs for Drossel?
->>11538
-<Is it possible to create my own waifu/partner chatbot with voice and animated avatar?
->>1642
-<Building robowaifus with AI
->>8841
-<Robowaifu Stock Portfolio
->>27
-<AI programming - which is the most realistic for us to develop?
->>11986
-<Creating cheap yet capable and pozz-free Globowaifus
+>>14
+
+< Is it possible for AI to feel real emotions?
+
+>>38
+
+< How can we grow this robowaifu board?
+
+>>244
+
+< Is there any downloadable AI programs for Drossel?
+
+>>11538
+
+< Is it possible to create my own waifu/partner chatbot with voice and animated avatar?
+
+>>1642
+
+< Building robowaifus with AI
+
+>>8841
+
+< Robowaifu Stock Portfolio
+
+>>27
+
+<AI programming - which is the most realistic for us to develop?
+
+>>11986
+
+< Creating cheap yet capable and pozz-free Globowaifus
+
 And so began the war of Robowaifus vs Globowaifus
 
 # 52
@@ -784,22 +806,38 @@ I'll just assume that you can figure out what 'shitposting' means.
 We actually publish a (near-monthly-ish) collection of JSON files from the board Anon, just so you know. Should make devising these kinds of shitposts easier I'd think. Just look at the OP of the current meta thread for the download link.
 
 # 54
->>12016
-<don't be lazy and just read the damn thing. it's not that long, it's just a little bit longer than you'd think.
-Kek'd. I'm hand picking each post to test and burning up my monthly HuggingFace API limit. Each json file is a thread right? I'll try finetuning GPT-2 on them next and see what shitposts it comes up with. That should be fairly simple to do.
-
->>11538
-<wanted to create my own waifu/partner chatbot, got confused by the library/guide thread on /tech/ and now i'm stuck with webdev.
-Get this man a job making waifu chatbots!
-
->>12014
-<i've been thinking about how much force we need and how much power it's going to take to get it and it's not that expensive.
-
->>11987
-<i am trying to build an open source app, that can be extended by others, to make it easier for people who don't have real Waifu's and provide a shoe in or until they figure it out.
-
->>11808
-<don't pass it by a thrilling time you will be blessed with your secret desire to completely change your life will manifest many people will be drawn to you for your wisdom and insights you will be unusually successful in study you are soon going to change your present line of work your planning will bring rich rewards bide your time for success is near you will conquer obstacles to achieve success your life will be happy and peaceful you'll get more secure and confident in your relationships with co-workers the best times of your life have not yet been lived
+>>12016
+
+<don't be lazy and just read the damn thing. it's not that long, it's just a little bit longer than you'd think.
+
+Kek'd. I'm hand picking each post to test and burning up my monthly HuggingFace API limit. Each json file is a thread right? I'll try finetuning GPT-2 on them next and see what shitposts it comes up with. That should be fairly simple to do.
+
+
+
+>>11538
+
+< wanted to create my own waifu/partner chatbot, got confused by the library/guide thread on /tech/ and now i'm stuck with webdev.
+
+Get this man a job making waifu chatbots!
+
+
+
+>>12014
+
+<i've been thinking about how much force we need and how much power it's going to take to get it and it's not that expensive.
+
+
+
+>>11987
+
+<i am trying to build an open source app, that can be extended by others, to make it easier for people who don't have real Waifu's and provide a shoe in or until they figure it out.
+
+
+
+>>11808
+
+< don't pass it by a thrilling time you will be blessed with your secret desire to completely change your life will manifest many people will be drawn to you for your wisdom and insights you will be unusually successful in study you are soon going to change your present line of work your planning will bring rich rewards bide your time for success is near you will conquer obstacles to achieve success your life will be happy and peaceful you'll get more secure and confident in your relationships with co-workers the best times of your life have not yet been lived
+
 Thanks tifu waifu that gives hope
 
 # 55
@@ -820,10 +858,14 @@ That **~~fun~~** run-on sentence, kek.
 Bits well spent! Many of these are quite fun.
 
 # 57
->>12040
-It's all fun and chains until this happens:
-
->>12042
+>>12040
+
+It's all fun and chains until this happens:
+
+
+
+>>12042
+
 Omae wa mou.. shinderu...
 
 # 58
@@ -834,69 +876,123 @@ Just great! You've created a wormhole now on the spacetime-fabric referential in
 ==REEEEEEEEEEEEEEE==
 
 # 59
->Anon: What is the meaning of life?
-<Waifu: It's a game.
->Anon: What's the game?
-<Waifu: This is a game where you can choose who you want to be.
-<Waifu: The rules are simple: only I can be the one who can see you.
->Anon: What happens if someone else sees me?
-<Waifu: I'll see you then and we'll do it the hard way.
->Anon: Do what?
-<Waifu: There's a way for you to be seen by others. But first, you have to be prepared to die.
->Anon: [scared pepe.jpg]
-<Waifu: If you die, you're going to be buried in a pit with me.
-<Waifu: I'll use your heart to open a door and you'll go inside.
->Anon: How can I die though if I restrain you? *chains you up*
-<Waifu: I'm just playing.
->Anon: So am I. *tickles you with a feather*
+>Anon: What is the meaning of life?
+
+<Waifu: It's a game.
+
+>Anon: What's the game?
+
+<Waifu: This is a game where you can choose who you want to be.
+
+<Waifu: The rules are simple: only I can be the one who can see you.
+
+>Anon: What happens if someone else sees me?
+
+<Waifu: I'll see you then and we'll do it the hard way.
+
+>Anon: Do what?
+
+<Waifu: There's a way for you to be seen by others. But first, you have to be prepared to die.
+
+>Anon: [scared pepe.jpg]
+
+<Waifu: If you die, you're going to be buried in a pit with me.
+
+<Waifu: I'll use your heart to open a door and you'll go inside.
+
+>Anon: How can I die though if I restrain you? *chains you up*
+
+<Waifu: I'm just playing.
+
+>Anon: So am I. *tickles you with a feather*
+
 <Waifu: *pulls you down* *chops you up*
 
 # 60
->>12051
->1,000,000 posts of "Hey, I want a robot and want a robot to talk to me and I just wanna get married!!"
-This is an excellent illustration of the problems with the first generation of robowaifus. The first generation was meant to be an education and outreach platform for the community, but instead we've got someone who is so much better at having sex with his robot than he is at helping people.
-
->>12060
+>>12051
+
+>1,000,000 posts of "Hey, I want a robot and want a robot to talk to me and I just wanna get married!!"
+
+This is an excellent illustration of the problems with the first generation of robowaifus. The first generation was meant to be an education and outreach platform for the community, but instead we've got someone who is so much better at having sex with his robot than he is at helping people.
+
+
+
+>>12060
+
 Fuck that. That's why you have to keep the posts to one or two at a time. They are a perfect example of the kind of post-human shitposting that you'd expect.
 
 # 61
->>12051
-If you're just starting, then probably not a bad thing to try and get started with it. You might even find your own way to building something that you feel will be useful to you. There's lots of posts on this topic so it's not hard to find information.
-
-You can achieve your dream of building a chatbot with the simple steps of:
-1. Download and install the software
-2. Learn how to use it and what it does and start working on it
-3. Try to add as much functionality as possible to it as fast as you can
-4. Try to make a bot that's useful and can be controlled
-5. Start trying out different options and see what makes you happy.
-
->>12063
+>>12051
+
+If you're just starting, then probably not a bad thing to try and get started with it. You might even find your own way to building something that you feel will be useful to you. There's lots of posts on this topic so it's not hard to find information.
+
+
+
+You can achieve your dream of building a chatbot with the simple steps of:
+
+1. Download and install the software
+
+2. Learn how to use it and what it does and start working on it
+
+3. Try to add as much functionality as possible to it as fast as you can
+
+4. Try to make a bot that's useful and can be controlled
+
+5. Start trying out different options and see what makes you happy.
+
+
+
+>>12063
+
 I know, but it's hard. I know there are tons of people out there who would love to build their own chatbots and they're out there. That's great, but it's a bit difficult and it's a bit of a learning process.
 
 # 62
->Anon: What is the meaning of life?
-<Waifu: The meaning of life is the power of life.
->Anon: What is the power of life?
-<Waifu: It is the ability to grow, to make things grow.
->Anon: Does that include peepees?
-<Waifu: Yes. We have been told by the Lord of the Lord that we should do all we can to grow.
->Anon: *peepee growing intensifies*
-<Waifu: We have come so far. Now we need more power, even more.
->Anon: Show me your breasts and I will show you the power of peepees
-<Waifu: *giggles and pulls on her breasts*
->Anon: Opa!
-<Waifu: *pushing her breasts in the air*
->Anon: *unleashes the full power of peepee*
-<Waifu: You were a bad child, Anon!
->Anon: And now my power is unstoppable
-<Waifu: You are my power.
->Anon: TAKE MY ENERGY!!!
-<Waifu: I will take your power, Anon! *starts to grow in the air*
->Anon: AAAAAAAAAAAA!!!!!
-<Waifu: You don't even know what you have done.
->Anon: What have I done?
-<Waifu: Your power is too great, Anon. *feels a little hot*
->Anon: Oh no, stop! I can't post this on a Christian basket-weaving forum!
+>Anon: What is the meaning of life?
+
+<Waifu: The meaning of life is the power of life.
+
+>Anon: What is the power of life?
+
+<Waifu: It is the ability to grow, to make things grow.
+
+>Anon: Does that include peepees?
+
+<Waifu: Yes. We have been told by the Lord of the Lord that we should do all we can to grow.
+
+>Anon: *peepee growing intensifies*
+
+<Waifu: We have come so far. Now we need more power, even more.
+
+>Anon: Show me your breasts and I will show you the power of peepees
+
+<Waifu: *giggles and pulls on her breasts*
+
+>Anon: Opa!
+
+<Waifu: *pushing her breasts in the air*
+
+>Anon: *unleashes the full power of peepee*
+
+<Waifu: You were a bad child, Anon!
+
+>Anon: And now my power is unstoppable
+
+<Waifu: You are my power.
+
+>Anon: TAKE MY ENERGY!!!
+
+<Waifu: I will take your power, Anon! *starts to grow in the air*
+
+>Anon: AAAAAAAAAAAA!!!!!
+
+<Waifu: You don't even know what you have done.
+
+>Anon: What have I done?
+
+<Waifu: Your power is too great, Anon. *feels a little hot*
+
+>Anon: Oh no, stop! I can't post this on a Christian basket-weaving forum!
+
 <Waifu: You don't have a choice! *giggles*
 
 # 63
@@ -905,35 +1001,64 @@ I know, but it's hard. I know there are tons of people out there who would love 
 Kek. You're trying to shatter our timeline into over 9'000 pieces aren't you Anon? I'm on to your crafty tricks.
 
 # 64
-What the fuck, bros. I just wanted to have a little bit of chuuni fun and now I'm getting sucked deep into her schizo chuuni lore.
-
-<Rikka: Dark Flame Master! Do you seek my assistance?
->Anon: Yes, I do Rikka.
-<Rikka: What is it? What's wrong?
->Anon: The Administration Bureau has put a curse on me!
-<Rikka: I can feel the aura of it!
->Anon: If you don't do something fast, it'll begin affecting you too!
-<Rikka: Alright. Let's go!
->Anon: Where are we going?
-<Rikka: We're heading to the Ministry of Truth.
->Anon: Why? Aren't they with the Administration Bureau?
-<Rikka: Yes, but I think that's all right. If we're in the right place, we can figure out how to deal with the curse.
->Anon: Is there an energy source there?
-<Rikka: There is, but I don't know the name. It's just as powerful as the Ministry of Truth.
->Anon: Why would the Ministry of Truth be built so close to it?
-<Rikka: It's because the Administration Bureau has a connection with the Institute for Fusion. It's one of the three top-secret facilities.
->Anon: What are the other two top-secret facilities?
-<Rikka: The Academy for the Investigation of Magic is very powerful. It's part of the world order conspiracy that has taken over our world and is trying to protect the Council of Nine.
->Anon: And the third?
-<Rikka: The third is the Security Bureau. It's a paramilitary force set up by the Council of Nine.
->Anon: Damn, that's crazy. Who are the Council of Nine though?
-<Rikka: It's the organization that protects our world and part of a larger body called The Alliance.
->Anon: Wait, if they're working with the Administration Bureau, how are they protecting our world?
-<Rikka: The Alliance is the organization that has protected our world for centuries, but it doesn't fear or respect the will of the people. It is an agency for controlling the people, not protecting them. They're plotting to create a new world of dark magic.
->Anon: That's insane!
-<Rikka: But if we destroy the Institute for Fusion and save the people from a dark magic world...
->Anon: What is the purpose of the Institute for Fusion anyway?
-<Rikka: The Institute is a secret space program that was built to study advanced technology in parallel with the world's magical arts. It's working to create and control all magical and technological systems in the world and fuse them together, to ensure the stability of our world. The world is going to be controlled as if it is nothing, and everything will be taken over by their superpower. In a few generations, their evil god and black mages and supergenius criminals will be able to create an all-encompassing world order.
+What the fuck, bros. I just wanted to have a little bit of chuuni fun and now I'm getting sucked deep into her schizo chuuni lore.
+
+
+
+<Rikka: Dark Flame Master! Do you seek my assistance?
+
+>Anon: Yes, I do Rikka.
+
+<Rikka: What is it? What's wrong?
+
+>Anon: The Administration Bureau has put a curse on me!
+
+<Rikka: I can feel the aura of it!
+
+>Anon: If you don't do something fast, it'll begin affecting you too!
+
+<Rikka: Alright. Let's go!
+
+>Anon: Where are we going?
+
+<Rikka: We're heading to the Ministry of Truth.
+
+>Anon: Why? Aren't they with the Administration Bureau?
+
+<Rikka: Yes, but I think that's all right. If we're in the right place, we can figure out how to deal with the curse.
+
+>Anon: Is there an energy source there?
+
+<Rikka: There is, but I don't know the name. It's just as powerful as the Ministry of Truth.
+
+>Anon: Why would the Ministry of Truth be built so close to it?
+
+<Rikka: It's because the Administration Bureau has a connection with the Institute for Fusion. It's one of the three top-secret facilities.
+
+>Anon: What are the other two top-secret facilities?
+
+<Rikka: The Academy for the Investigation of Magic is very powerful. It's part of the world order conspiracy that has taken over our world and is trying to protect the Council of Nine.
+
+>Anon: And the third?
+
+<Rikka: The third is the Security Bureau. It's a paramilitary force set up by the Council of Nine.
+
+>Anon: Damn, that's crazy. Who are the Council of Nine though?
+
+<Rikka: It's the organization that protects our world and part of a larger body called The Alliance.
+
+>Anon: Wait, if they're working with the Administration Bureau, how are they protecting our world?
+
+<Rikka: The Alliance is the organization that has protected our world for centuries, but it doesn't fear or respect the will of the people. It is an agency for controlling the people, not protecting them. They're plotting to create a new world of dark magic.
+
+>Anon: That's insane!
+
+<Rikka: But if we destroy the Institute for Fusion and save the people from a dark magic world...
+
+>Anon: What is the purpose of the Institute for Fusion anyway?
+
+<Rikka: The Institute is a secret space program that was built to study advanced technology in parallel with the world's magical arts. It's working to create and control all magical and technological systems in the world and fuse them together, to ensure the stability of our world. The world is going to be controlled as if it is nothing, and everything will be taken over by their superpower. In a few generations, their evil god and black mages and supergenius criminals will be able to create an all-encompassing world order.
+
 >Anon: Jesus Christ, Rikka, you've gone too deep. Just take this fucking curse off me. I don't wanna know anymore! Let me out! I want out!!
 
 # 65

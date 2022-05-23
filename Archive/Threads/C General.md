@@ -607,7 +607,7 @@ Please get rid of this mindset. Raw pointers will never truly go away since they
 
 >And quite frankly, std::string is amazing IMO.
 
-It's just a struct holding a char*, a length and a capacity. It has its own place. You don't need to run std::basic_string<char>::basic_string(stdd::basic_string<char>) for every string you create, especially since you only care about the char* '''in this context'''.
+It's just a struct holding a char*, a length and a capacity. It has its own place. You don't need to run ```std::basic_string<char>::basic_string(stdd::basic_string<char>)``` for every string you create, especially since you only care about the char* '''in this context'''.
 
 # 44
 >>1079
@@ -3697,7 +3697,8 @@ The ''no-psabi'' warning directive should have disable that warning.
 >g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -o waifusearch
 Ahh, that must be it. Apologies, I neglected to add that directive to the comment on line #61. It should read:
 ```cpp
-#        g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -Wno-psabi -o waifusearch```
+#        g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -Wno-psabi -o waifusearch
+```
 
 I've amended that comment line and it will be in the next version of the tool. Try rebuilding with that command instead and let me know how it goes please.
 
@@ -4001,7 +4002,8 @@ It's literally the first function in that file I read and a first impression lik
 He also got his MAX macro wrong.
 
 ```cpp
-#define MAX(x,y) ((x>y)?(x):(y))```
+#define MAX(x,y) ((x>y)?(x):(y))
+```
 
 Notice how (x>y) doesn't parenthesize x and y.
 

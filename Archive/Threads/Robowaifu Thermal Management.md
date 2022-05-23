@@ -2,13 +2,20 @@
 Question: How are we going to solve keeping all the motors, pumps, computers, sensors, and other heat-producing gizmos inside a real robowaifu cooled off anons?
 
 # 2
->>234
-I'm no expert, but I'll throw out some ideas that I always thought might not just help with function, but with verisimilitude, which IMO is the name of the game. Each method I have might not be perfect, but you can use them together, and hopefully they add up.
-
-Water cooling system which is basically a circulatory system. The heat is carried closer to the surface, and to areas which otherwise would not be producing much, if any heat, where some heat can dissipate in a way that would feel like body heat.
-
-A "lung" like structure could be used to take in cold air, warm it in the lungs, and then breathe it out as hot air. The "lungs" can of course be anywhere in the body, in multiple locations that would allow them to collect a lot of heat, or which would get too hot and can't dissipate the heat through the circulatory system fast enough.
-
+>>234
+
+I'm no expert, but I'll throw out some ideas that I always thought might not just help with function, but with verisimilitude, which IMO is the name of the game. Each method I have might not be perfect, but you can use them together, and hopefully they add up.
+
+
+
+Water cooling system which is basically a circulatory system. The heat is carried closer to the surface, and to areas which otherwise would not be producing much, if any heat, where some heat can dissipate in a way that would feel like body heat.
+
+
+
+A "lung" like structure could be used to take in cold air, warm it in the lungs, and then breathe it out as hot air. The "lungs" can of course be anywhere in the body, in multiple locations that would allow them to collect a lot of heat, or which would get too hot and can't dissipate the heat through the circulatory system fast enough.
+
+
+
 **In case of emergency overheating, the water in the circulatory system can be drained through the vagina. It simulates another lifelike function and adds to the verisimilitude. Just sit her on the toilet, maybe hook up a hose from the sink to her mouth to flush the entire system. You could make it flush out of a more accurate urethra, but flushing out of the vagina would also serve the purpose of cleaning it. From what I've heard of sex dolls and fleshlights, cleaning them is one of the worst parts.**
 
 # 3
@@ -18,8 +25,10 @@ Yes, you're right on track with the community here. These are ideas that have re
 Hopefully as our designs improve over the years these types of measures will be less needed, but for now it's a useful approach.
 
 # 4
->>2536
->you don't even have to have her sit on the potty. you can just hook one input to the water faucet, then have her drain the fluid out an outlet port down into the drain.
+>>2536
+
+>you don't even have to have her sit on the potty. you can just hook one input to the water faucet, then have her drain the fluid out an outlet port down into the drain.
+
 Well sure. But I figured a potty would be the easiest drain to access most of the time, while also adding verisimilitude. I guess you could use a bathtub or whatever just the same. Or maybe if you're in some basement dungeon **maybe our target audience** you would have drains right in the floor. Sure. Whatever you're into.
 
 # 5
@@ -30,7 +39,8 @@ No, it's a good idea. A urethra can be easily devised. Onaholes don't typically 
 Heh, I meant the kitchen or bathroom sink. :^)
 
 # 6
->>2540
+>>2540
+
 Replaceable parts are a great idea all around, unless we're dealing with very cheap gynoids in the first place. I don't have a fleshlight, but don't at least some of them have holes on both ends, just only one end is usable? Just stick a hose on the inside end, the non-fucking end. Gotta wash it anyway. It's replaceable, but I think if you had to replace it every time, it might turn off more users than it gains. I also wonder which option would be cheaper for the average user, or which would at least be more attractive to prospective buyers.
 
 # 7
@@ -38,7 +48,8 @@ Replaceable parts are a great idea all around, unless we're dealing with very ch
 I dunno, never used one tbh. As you're probably well aware **(if you're who I think you are)** then economy pretty highly is important to start out with. We could engineer our own molds, or possibly even find vagoo designs specially fitted for flushing out. But in the meantime, cheap disposable cartridges seem to me our best bet in the interim.
 
 # 8
->>2542
+>>2542
+
 I'm sure someone on this board will be able to tell us if the one-time-use onaholes are cheaper in the long run than a reusable fleshlight. Fleshlights, of course, are still technically replaceable, if we used them as the robot's vagina. It's just a question of how many uses per dollar you get.
 
 # 9
@@ -304,18 +315,30 @@ https://www.instructables.com/Homemade-liquid-nitrogen-generator/
 >related crosspost (>>11069, ...)
 
 # 48
->>11069
->>11086
-In regards to the concept of Processors and Chips embedded 3d in a liquid or gel or resin substrate
-
-https://www.nature.com/articles/s41598-020-71745-w
-
->Electrically insulating and thermally conductive polymer matrix composites are desirable for industry applications as they improve the reliability of high-performance electronic devices, particularly via heat dissipation in devices loaded with several electronic components. In this study, an aggregated β-Si3N4 filler with randomly oriented grains was produced via combustion synthesis to improve the thermal conductivity of epoxy composites. The thermal conductivities of the prepared composites were investigated as a function of the filler content, and the values were compared to those of composites loaded with commercial β-Si3N4 (non-aggregated). Negligible difference was observed in the thermal conductivities of both types of composites when the Si3N4 content was below 40 vol%; however, above 40 vol%, the aggregated β-Si3N4 filler-loaded composites showed higher thermal conductivities than the commercial β-Si3N4-loaded composites. The aggregated β-Si3N4 filler-loaded composites exhibited isotropic thermal conductivities with a maximum value of 4.7 W m−1 K−1 at 53 vol% filler content, which is approximately 2.4 times higher than that of the commercial β-Si3N4-loaded composites, thereby suggesting that the morphology of the aggregated filler would be more efficient than that of the commonly used non-aggregated filler in enhancing the thermal conductivity of a polymer matrix composite.
-
->Improving the thermal conductivity of epoxy composites using a combustion-synthesized aggregated β-Si3N4 filler with randomly oriented grains
-
-https://iopscience.iop.org/article/10.1088/2053-1591/ab2215
-
+>>11069
+
+>>11086
+
+In regards to the concept of Processors and Chips embedded 3d in a liquid or gel or resin substrate
+
+
+
+https://www.nature.com/articles/s41598-020-71745-w
+
+
+
+>Electrically insulating and thermally conductive polymer matrix composites are desirable for industry applications as they improve the reliability of high-performance electronic devices, particularly via heat dissipation in devices loaded with several electronic components. In this study, an aggregated β-Si3N4 filler with randomly oriented grains was produced via combustion synthesis to improve the thermal conductivity of epoxy composites. The thermal conductivities of the prepared composites were investigated as a function of the filler content, and the values were compared to those of composites loaded with commercial β-Si3N4 (non-aggregated). Negligible difference was observed in the thermal conductivities of both types of composites when the Si3N4 content was below 40 vol%; however, above 40 vol%, the aggregated β-Si3N4 filler-loaded composites showed higher thermal conductivities than the commercial β-Si3N4-loaded composites. The aggregated β-Si3N4 filler-loaded composites exhibited isotropic thermal conductivities with a maximum value of 4.7 W m−1 K−1 at 53 vol% filler content, which is approximately 2.4 times higher than that of the commercial β-Si3N4-loaded composites, thereby suggesting that the morphology of the aggregated filler would be more efficient than that of the commonly used non-aggregated filler in enhancing the thermal conductivity of a polymer matrix composite.
+
+
+
+>Improving the thermal conductivity of epoxy composites using a combustion-synthesized aggregated β-Si3N4 filler with randomly oriented grains
+
+
+
+https://iopscience.iop.org/article/10.1088/2053-1591/ab2215
+
+
+
 >We report on the thermal and electrical properties of hybrid epoxy composites with graphene and boron nitride fillers. The thicknesses, lateral dimensions, and aspect ratios of each filler material were intentionally selected for geometric similarity to one another, in contrast to prior studies that utilized dissimilar filler geometries to achieve a 'synergistic' effect. We demonstrate that the electrically-conductive graphene and electrically-insulating boron nitride fillers allow one to effectively engineer the thermal and electrical conductivities of their resulting composites. By varying the constituent fraction of boron nitride to graphene in a composite with ~44% total filler loading, one can tune the thermal conductivity enhancement from a factor of ×15 to ×35 and increase the electrical conductivity by many orders of magnitude. The obtained results are important for the development of next-generation thermal interface materials with controllable electrical properties necessary for applications requiring either electrical grounding or insulation.
 
 # 49
@@ -325,9 +348,12 @@ It's really encouraging to see an explicit focus on this Anon, it sounds promisi
 Any change a materials-science/ME/physicist can give us all a tl;dr ? To wit; ''is it at all likely that we, as hobbyists, be able to use this in our robowaifus within say, 5 years?''
 
 # 50
->>11111
-I mean we could literally use Silicone oil now as its available at any hardware store. Obtaining graphene is not unreasonable, I think there's even a process for making it at home (I'll let you google this since there are so many results), and epoxy is also readily available (new age types use it to make those "orgone generators")
-
+>>11111
+
+I mean we could literally use Silicone oil now as its available at any hardware store. Obtaining graphene is not unreasonable, I think there's even a process for making it at home (I'll let you google this since there are so many results), and epoxy is also readily available (new age types use it to make those "orgone generators")
+
+
+
 Now the tricky part, actually applying this. Personally I'd like to see a demonstration with a custom "flexible-pcb" bus linking a CPU to memory and ports (could be mini usb or usb C instead of standard), like an "uncrushable" raspberry Pi. Something that would flex if dropped rather than crack open. Then I would see how miniaturized we could get it, and surround it inside a mold with either the Silicone Oil inside of a bladder of sorts, or simply the epoxy with graphene and let it harden (with the ports exposed obviously) - from there, troubleshoot what goes wrong and try again.. repeat until successful.
 
 # 51
@@ -377,7 +403,7 @@ Yeah, I just figured that if the liquid were clear enough it could double as fib
 >>13233
 >Unless you want strobe lights under the skin or something, but I don't.
 >'''but I don't.'''
-<not wanting flashing-light-waifu to go dancing with
+< not wanting flashing-light-waifu to go dancing with
 
 I like the idea of using internal coolant directly as communications pathways, I admit that's a new idea to me. With the relatively short distances involved, and the absolute brightness of some types of LEDs, that signal degradation could basically be eliminated entirely as an issue for any relatively low-speed (say <= 1 Mbps) comms. Nice one Anon, thanks!
 

@@ -32,40 +32,62 @@ We can do it /robowaifu/, you have some amazing ideas!
 -''begin 'previous greetings' list''
 
 # 2
-Cheers to three years, and to the comfy webring.
-
+Cheers to three years, and to the comfy webring.
+
+
+
 May we all be putting our dongs in anime catgrill meidos soon, brothers.
 
 # 3
->>1591
+>>1591
+
 I'm looking forward to working on some cool ideas this year. I want to create tools that anons can use to further their dreams of synthetic companionship, and knowing that there are so many of us all striving to reach the same goal gives me the drive I need to carry on working. Happy anniversary, /robowaifu/, and here's to many more!
 
 # 4
-I'd like to invest in a decent 3D printer soon that can do nylon carbon-fiber. Cheap ones only do PLA so I'm a bit hesitant to blow half my budget for a good one and not have enough money for parts. In the meantime I've started designing a robowaifu that I'm gonna put together in Blender with all the artificial muscles, joints, bones and whatnot, ready to be printed. I was playing with Kizuna Ai's model a bit today and realized it's gonna be hard as fuck to design something with a full range of motion that looks good and doesn't cost a fortune to build. A simple shoulder is going to cost well over $500 unless I manufacture my own muscles.
-
-I doubt my model will be usable for much but I think it'll be a fun place to start and learn what actually goes into building a robowaifu. If I fail, I'll just dismantle her, create an assembly instruction booklet, and ship her to a good home with a new fleshlight included to recuperate the costs.
-
-Hopefully we can start making some physical progress this year. We've gathered a ton of information already. It use to seem like an impossibly complex task to build a robowaifu but every month it seems more and more possible.
-
+I'd like to invest in a decent 3D printer soon that can do nylon carbon-fiber. Cheap ones only do PLA so I'm a bit hesitant to blow half my budget for a good one and not have enough money for parts. In the meantime I've started designing a robowaifu that I'm gonna put together in Blender with all the artificial muscles, joints, bones and whatnot, ready to be printed. I was playing with Kizuna Ai's model a bit today and realized it's gonna be hard as fuck to design something with a full range of motion that looks good and doesn't cost a fortune to build. A simple shoulder is going to cost well over $500 unless I manufacture my own muscles.
+
+
+
+I doubt my model will be usable for much but I think it'll be a fun place to start and learn what actually goes into building a robowaifu. If I fail, I'll just dismantle her, create an assembly instruction booklet, and ship her to a good home with a new fleshlight included to recuperate the costs.
+
+
+
+Hopefully we can start making some physical progress this year. We've gathered a ton of information already. It use to seem like an impossibly complex task to build a robowaifu but every month it seems more and more possible.
+
+
+
 Thank you for bringing /robowaifu/ back from the dead. May we all be blessed with waifus and electric love.
 
 # 5
->>1629
-You don't have to spend all that money on expensive high temperature filament to get extra strength.
-https://www.youtube.com/watch?v=iICk_ZpY4Cs
-And same thing with the printer itself all you need is a heated chamber  combined with an enclosure and a hotend that can handle the heat, most cheap printers can be modified to do this at much lower cost than buying a high temperature printer.
-
-I've been researching 3d printers for years now and almost pulled the trigger on purchasing one several times. I'm probably going to go with a basic Anycubic Kossel Linear model which will cost more in extras for upgrades than the printer itself.
-
-I hate to say it but reddit seems to be the best source of information for 3d printing whether it's news, modifications, buying or troubleshooting.
-https://old.reddit.com/r/3Dprinting/
-
+>>1629
+
+You don't have to spend all that money on expensive high temperature filament to get extra strength.
+
+https://www.youtube.com/watch?v=iICk_ZpY4Cs
+
+And same thing with the printer itself all you need is a heated chamber  combined with an enclosure and a hotend that can handle the heat, most cheap printers can be modified to do this at much lower cost than buying a high temperature printer.
+
+
+
+I've been researching 3d printers for years now and almost pulled the trigger on purchasing one several times. I'm probably going to go with a basic Anycubic Kossel Linear model which will cost more in extras for upgrades than the printer itself.
+
+
+
+I hate to say it but reddit seems to be the best source of information for 3d printing whether it's news, modifications, buying or troubleshooting.
+
+https://old.reddit.com/r/3Dprinting/
+
+
+
 I also hope to be posting my results on here in the upcoming year.
 
 # 6
->>1630
-Neat, I had no idea a heated chamber was necessary and the cheaper ones could be modified to do it. That'll save a lot of money if I can just tinfoil it and get a hardened steel nozzle. Filling the parts seems like too much work for the amount I'm gonna be printing and I need to make the parts lightweight. If I was going for a house robowaifu I wouldn't mind PLA but I want her to be able use power tools, build houses and lift other robots.
-
+>>1630
+
+Neat, I had no idea a heated chamber was necessary and the cheaper ones could be modified to do it. That'll save a lot of money if I can just tinfoil it and get a hardened steel nozzle. Filling the parts seems like too much work for the amount I'm gonna be printing and I need to make the parts lightweight. If I was going for a house robowaifu I wouldn't mind PLA but I want her to be able use power tools, build houses and lift other robots.
+
+
+
 Might as well post your progress too. This board is slow as fuck. I'm not even sure if I'm modeling this right. It'd be nice if there was a progress thread where we can get feedback.
 
 # 7
@@ -132,7 +154,8 @@ I'm definitely interested in helping backup /robowaifu/. I've never made a backu
 Haha, someone put it up on Github huh? Yes, I'm the author of ''BUMP'', and yes, it's what I use. I'll push my current version as a zip onto catbox sometime soon and I'll walk you through the process in our /meta2 thread Anon.
 
 # 15
-Happy thanksgiving /robowaifu/! Your friends over at /monster/ have their own thanksgiving thread going on! Drop by and say hello!
+Happy thanksgiving /robowaifu/! Your friends over at /monster/ have their own thanksgiving thread going on! Drop by and say hello!
+
 https://smuglo.li/monster/res/70236.html#q70236
 
 # 16
@@ -140,8 +163,10 @@ Happy birthday /robowaifu/
 Remember us when the day of the sexbot comes
 
 # 17
-Happy Thanksgiving and Birthday /robowaifu/!
-With love,
+Happy Thanksgiving and Birthday /robowaifu/!
+
+With love,
+
 /monster/
 
 # 18
@@ -158,9 +183,12 @@ Happy Birthday and happy Thanksgiving from your friends over at /cuckquean/, /ro
 Where is this board even? Can't it be linked here? I didn't find it on the friends list. Asking for a curious friend. I found out that it often works to put in some hint to another board, so it isn't linked but can be found, like 8/k or 4/diy or alogs/robowaifu ...
 
 # 22
->>7228
-My reasons for choosing a delta have to do with a rather pie in the sky idea of having it double as a traveling wire electrical discharge machining CNC machine. The guy who runs the AvE youtube channel tried making a similar project awhile back but gave up on it.
-
+>>7228
+
+My reasons for choosing a delta have to do with a rather pie in the sky idea of having it double as a traveling wire electrical discharge machining CNC machine. The guy who runs the AvE youtube channel tried making a similar project awhile back but gave up on it.
+
+
+
 For most people delta style of printers are a terrible choice, the only benefits are slightly faster print speeds and and a taller print area. Nowadays the conveyor belt bed system for tilted 3d printers has made printing long objects such as arms or legs a non issue.
 
 # 23
@@ -187,16 +215,26 @@ Good point. I'll go ahead and add them in. Sorry for that oversight, girls.
 >>3
 
 # 25
->>7253
->May you and yours find the perfect robovixens this coming year.
-If /robowaifu/ can blow open the field in the next year we'll be extremely happy for you. Good luck!
-
->I'll go ahead and add them in. Sorry for that oversight, girls.
->Non-feminist females, who knew?
-What a sexy description! **Seriously, some of us probably consider ourselves feminist--for whatever value of the word (if any) excludes the androphobic nutters--we just get off on sharing our men with other women. Cuckqueaning's a kink and/or lifestyle, not a political outlook. Just want to make sure we're not held up as something we ain't necessarily. That said, on a personal level I can understand why you concluded that's what we are.**
-
->>7246
->Asking for a curious friend.
+>>7253
+
+>May you and yours find the perfect robovixens this coming year.
+
+If /robowaifu/ can blow open the field in the next year we'll be extremely happy for you. Good luck!
+
+
+
+>I'll go ahead and add them in. Sorry for that oversight, girls.
+
+>Non-feminist females, who knew?
+
+What a sexy description! **Seriously, some of us probably consider ourselves feminist--for whatever value of the word (if any) excludes the androphobic nutters--we just get off on sharing our men with other women. Cuckqueaning's a kink and/or lifestyle, not a political outlook. Just want to make sure we're not held up as something we ain't necessarily. That said, on a personal level I can understand why you concluded that's what we are.**
+
+
+
+>>7246
+
+>Asking for a curious friend.
+
 We're always happy to welcome guests. If your friend is male then please make sure he understands not to loudly trample about. I'm sure it'll be fine, since anon has good taste in friends.
 
 # 26
@@ -230,33 +268,54 @@ Thanks for all the well-wishes and warm sentiments everyone. It's comforting to 
 '''Let's all work hard together to make our 5th year the best one yet!'''
 
 # 33
-I'm actually looking for a Happy New Year for 2021 thread, but as of the time of this writing, there isn't one, so I'm posting here instead as the theme is sorta similar -- what can we expect in the coming year?
-
-In my case, since I really want to have a successful project this year, I'm approaching from a different angle -- that of hobby grade RC.  I only got into hobby grade RC very recently... before my experience was only toy grade.  I just couldn't stomach spending on a single chassis or fuselage more money than what a decent 3D printer would cost, until I realized there is so much in the RC community that can be applied to robotics.  You can get started cheap with Tamiya, and there are even people building from scratch, especially with cardboard planes.  There is so much to learn with regards to radio transmitter / receiver standards, multiple communications channels, first person view, rechargeable batteries, electronic speed controllers -- as arduino roboticists, we're familiar with dual motor PWM drivers, which are just low power low speed versions.  Not to mention with hobby grade car RC there's a good mix of plastic, metal, and carbon fiber parts, the aim being to make the highest performance lightweight chassis.
-
-I realized there may be an opposite approach to the robowaifu construction problem.  So far I've been looking at dolls, starting with huggable things, silicone sex dolls, etc, then scratching my head how the electronics would fit.  My 3D modelling has been too much focused on injection molded plastics which would probably crack and fall apart due to the density.  The the designs I've had in mind have all been heavy designs which would be impossible to power inexpensively.  So why not approach the problem from an RC hobbyist perspective?  Lightweightness being paramount, with just a thin sliver of vacuum formed plastic for the bodyshell?  Yes, the robowaifu may be dented, but it will be easier for her to achieve optimum movement characteristics, that lively movement.  Similar to how a hobby RC is so powerful compared to a mere toy.  I also notice how the customizeability and interchangeability of parts in the RC scene is exactly what we want with robowaifus -- pick a scale, and all components will be compatible.
-
-Some of us can supply chassis parts, others body shells.  Then someone can supply TX / RX modules that enable us to monitor her batteries, her line of sight, temperature, and other parameters.  They are already doing this with drift RC cars, albeit with close to thousand dollar transmitters!  We can do the same with an STM32 or ESP32, or just hook her up wirelessly to a tablet and have the software guys here create an app.  Just like how cars are standardized to 2-3 channels and aircraft to 4-8 channels (6 being optimal), we can have standard channels for communications... e.g. one channel dedicated to robot vision, several dedicated to locomotion, etc.  We can pick either a 2S (7.4V) or 3S (11.1V) standard for our motor controllers depending on her size and power requirements.
-
+I'm actually looking for a Happy New Year for 2021 thread, but as of the time of this writing, there isn't one, so I'm posting here instead as the theme is sorta similar -- what can we expect in the coming year?
+
+
+
+In my case, since I really want to have a successful project this year, I'm approaching from a different angle -- that of hobby grade RC.  I only got into hobby grade RC very recently... before my experience was only toy grade.  I just couldn't stomach spending on a single chassis or fuselage more money than what a decent 3D printer would cost, until I realized there is so much in the RC community that can be applied to robotics.  You can get started cheap with Tamiya, and there are even people building from scratch, especially with cardboard planes.  There is so much to learn with regards to radio transmitter / receiver standards, multiple communications channels, first person view, rechargeable batteries, electronic speed controllers -- as arduino roboticists, we're familiar with dual motor PWM drivers, which are just low power low speed versions.  Not to mention with hobby grade car RC there's a good mix of plastic, metal, and carbon fiber parts, the aim being to make the highest performance lightweight chassis.
+
+
+
+I realized there may be an opposite approach to the robowaifu construction problem.  So far I've been looking at dolls, starting with huggable things, silicone sex dolls, etc, then scratching my head how the electronics would fit.  My 3D modelling has been too much focused on injection molded plastics which would probably crack and fall apart due to the density.  The the designs I've had in mind have all been heavy designs which would be impossible to power inexpensively.  So why not approach the problem from an RC hobbyist perspective?  Lightweightness being paramount, with just a thin sliver of vacuum formed plastic for the bodyshell?  Yes, the robowaifu may be dented, but it will be easier for her to achieve optimum movement characteristics, that lively movement.  Similar to how a hobby RC is so powerful compared to a mere toy.  I also notice how the customizeability and interchangeability of parts in the RC scene is exactly what we want with robowaifus -- pick a scale, and all components will be compatible.
+
+
+
+Some of us can supply chassis parts, others body shells.  Then someone can supply TX / RX modules that enable us to monitor her batteries, her line of sight, temperature, and other parameters.  They are already doing this with drift RC cars, albeit with close to thousand dollar transmitters!  We can do the same with an STM32 or ESP32, or just hook her up wirelessly to a tablet and have the software guys here create an app.  Just like how cars are standardized to 2-3 channels and aircraft to 4-8 channels (6 being optimal), we can have standard channels for communications... e.g. one channel dedicated to robot vision, several dedicated to locomotion, etc.  We can pick either a 2S (7.4V) or 3S (11.1V) standard for our motor controllers depending on her size and power requirements.
+
+
+
 Think of a robowaifu as a very big complex giant scale RC.  On the high end will be the near-1:1 scale just like the turbine powered RC jets costing more than a car.  On the introductory end would be a few hundred dollar kits in 1:3 scale and smaller.
 
 # 34
->>7977
-This is an interesting perspective. It sounds like you've been broadening your horizons. I wish you good luck pursuing these goals into 2021!
-
-I have some robowaifu related goals myself for this upcoming year, although less technical. I've been developing my art skills for a while, yet I haven't really applied these skills to robowaifu despite being massively into robowaifu/mecha musume for years.  I've been doing some humanoid art practice for some time now, but I need to improve my ability to draw mechanical components. For 2021 I'm going to push myself to improve at drawing mechanical & robot girl art. If I manage to produce worthwhile results I'll post them here on /robowaifu/ eventually.
-
-I've wanted to make progress on this but I've been procrastinating. My overall goal for 2021 is just to push myself harder in general, not just art. I'm hoping 2021 turns out to be better than 2020. Happy New Year everyone!
-   
-(actually I'll go ahead and upload the one example I have...) 
-
+>>7977
+
+This is an interesting perspective. It sounds like you've been broadening your horizons. I wish you good luck pursuing these goals into 2021!
+
+
+
+I have some robowaifu related goals myself for this upcoming year, although less technical. I've been developing my art skills for a while, yet I haven't really applied these skills to robowaifu despite being massively into robowaifu/mecha musume for years.  I've been doing some humanoid art practice for some time now, but I need to improve my ability to draw mechanical components. For 2021 I'm going to push myself to improve at drawing mechanical & robot girl art. If I manage to produce worthwhile results I'll post them here on /robowaifu/ eventually.
+
+
+
+I've wanted to make progress on this but I've been procrastinating. My overall goal for 2021 is just to push myself harder in general, not just art. I'm hoping 2021 turns out to be better than 2020. Happy New Year everyone!
+
+   
+
+(actually I'll go ahead and upload the one example I have...) 
+
+
+
 Pic related: A random practice sketch I did a while back of a robot girl moving a box. I'm planning to do more than just practice in 2021.
 
 # 35
->>7977
->Lightweightness being paramount, with just a thin sliver of vacuum formed plastic for the bodyshell?
-I'd follow the model RC plane community's example and use expanded polypropylene foam for the body if you want durability. Apply a layer of extra strong tape to the outside if you want a sleek shiny look and scratch resistance. For a domestic humanoid style robot that's not for use in the bedroom this could work.
-
+>>7977
+
+>Lightweightness being paramount, with just a thin sliver of vacuum formed plastic for the bodyshell?
+
+I'd follow the model RC plane community's example and use expanded polypropylene foam for the body if you want durability. Apply a layer of extra strong tape to the outside if you want a sleek shiny look and scratch resistance. For a domestic humanoid style robot that's not for use in the bedroom this could work.
+
+
+
 For a real life example of this design look at how modern light weight bike helmets are made. You might be able to get cheap large sections of the foam from used  but damaged high quality insulated shipping crates, it feels much sturdier than typical styrofoam which is extruded polystyrene foam. Also sometimes it's in child safety seats and they're pretty cheap used as they have expiry dates on them.
 
 # 36

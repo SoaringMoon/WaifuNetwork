@@ -60,14 +60,22 @@ Oddly, this may be one of the simpler parts to work out, since just living with 
 So, let's see...did I miss anything?
 
 # 4
-Modularity will be really important. For robowaifu dev to really take off and not seem like an impossible cliff to climb we need a library and protocol or at least a guideline for networking components together, both software and hardware. That way people can work on building different parts they find interesting and can afford to make, while others can quickly drop their components into their own robowaifu project.
-
-It'd need to have a simple messaging system that's low-latency and can pass large amounts of data, such as tensors and video data, across various hardware and software implementations seamlessly, an internet of things but not connected to the internet. Components would have their own private data used internally in whatever language they're using and be able to offer that data and their services publicly on the component network in a way that other components can easily find, query, request and subscribe to what they need. Components would also need to work together in passing data through the network and keep track of data integrity, where it came from, who modified it and where it's going. The network would also need to workaround communication bottlenecks, rogue components that have been hacked or leaking data, and deal with possible interference if components are communicating through radio. The component library could be written in C with various bindings to other languages such as C++ and Python.
-
-I was watching a video of the collaborative robot Curi and it gave me some ideas. Instead of trying to solve tasks by itself Curi sees other human actors involved in solving a problem like parts of itself it can't control. If it predicts you're going to pick up the same object it's reaching for, it interrupts itself and goes for another object. Similarly components will need to collaborate with other components. A left hand component will need a way to communicate with the right hand component and coordinate their efforts with whatever is directing them, and even if data isn't available it will still have to collaborate with these other components. If a component becomes damaged or inhibited, the other components should contain enough intelligence to adapt to the loss of component functionality.
-
-This would be a huge encouragement to hobbyists. One person could develop a chatbot and another could develop their own in another language and then they could quickly interface the two programs with each other in a few lines of code and have them banter for fun. Another dev could focus on making a visual waifu program. Then someone could combine them through the component library to create two visual waifus bantering with each other without the devs needing to collaborate with each other. Everyone's effort would evolve and work together effortlessly without anyone needing to build or learn hundreds of custom APIs. This would help us advance into building actual robowaifus without each of us needing to be one-man armies. All our work would be reusable and data from previously trained models could be passed on or used to bootstrap new ones.
-
+Modularity will be really important. For robowaifu dev to really take off and not seem like an impossible cliff to climb we need a library and protocol or at least a guideline for networking components together, both software and hardware. That way people can work on building different parts they find interesting and can afford to make, while others can quickly drop their components into their own robowaifu project.
+
+
+
+It'd need to have a simple messaging system that's low-latency and can pass large amounts of data, such as tensors and video data, across various hardware and software implementations seamlessly, an internet of things but not connected to the internet. Components would have their own private data used internally in whatever language they're using and be able to offer that data and their services publicly on the component network in a way that other components can easily find, query, request and subscribe to what they need. Components would also need to work together in passing data through the network and keep track of data integrity, where it came from, who modified it and where it's going. The network would also need to workaround communication bottlenecks, rogue components that have been hacked or leaking data, and deal with possible interference if components are communicating through radio. The component library could be written in C with various bindings to other languages such as C++ and Python.
+
+
+
+I was watching a video of the collaborative robot Curi and it gave me some ideas. Instead of trying to solve tasks by itself Curi sees other human actors involved in solving a problem like parts of itself it can't control. If it predicts you're going to pick up the same object it's reaching for, it interrupts itself and goes for another object. Similarly components will need to collaborate with other components. A left hand component will need a way to communicate with the right hand component and coordinate their efforts with whatever is directing them, and even if data isn't available it will still have to collaborate with these other components. If a component becomes damaged or inhibited, the other components should contain enough intelligence to adapt to the loss of component functionality.
+
+
+
+This would be a huge encouragement to hobbyists. One person could develop a chatbot and another could develop their own in another language and then they could quickly interface the two programs with each other in a few lines of code and have them banter for fun. Another dev could focus on making a visual waifu program. Then someone could combine them through the component library to create two visual waifus bantering with each other without the devs needing to collaborate with each other. Everyone's effort would evolve and work together effortlessly without anyone needing to build or learn hundreds of custom APIs. This would help us advance into building actual robowaifus without each of us needing to be one-man armies. All our work would be reusable and data from previously trained models could be passed on or used to bootstrap new ones.
+
+
+
 The library could also be used for other purposes as well such as having a data scrapper in C++ send the data to a program in Python or vice versa. It'd open up a ton of possibilities being able to effortlessly interface programs in various languages.
 
 # 5
@@ -93,10 +101,14 @@ Start by writing a design document. When you do this, you will realize exactly h
 In all seriousness start by defining the scope. Talking about networking components when there's zero understanding of the problem is not going to get you anywhere.
 
 # 8
->>2392
-I'm just throwing some ideas out there. Personally I don't need something like this right now but I can see myself using it in a few months. I'd be happy to put together a design document then and start developing it. And I wouldn't worry about people disappearing, others will fork their projects and continue them if they're worthwhile.
-
->>2394
+>>2392
+
+I'm just throwing some ideas out there. Personally I don't need something like this right now but I can see myself using it in a few months. I'd be happy to put together a design document then and start developing it. And I wouldn't worry about people disappearing, others will fork their projects and continue them if they're worthwhile.
+
+
+
+>>2394
+
 I agree. Trying to organize ourselves and set out to make a Robowaifu OS network would be pretty ridiculous. We don't need anything that fancy right now. It's pretty simple to set up some IPC sockets and communicate basic stuff over them for our software projects. If people find it useful they will use it. If they require more functionality they will add it. If it sucks we can either improve it or throw it out. It doesn't hurt to think about this stuff though. It's fun daydreaming about mining the asteroid belt and building robowaifus on Mars and imagining all the shit needed to do that. If I had given up on my dream of building a robowaifu because I couldn't program, I wouldn't be having fun bantering with my own chatbot today.
 
 # 9
@@ -114,14 +126,22 @@ I sure wish you'd create a document about it anon. I realize that spoonfeeding i
 But ATP, you're the ''only'' one currently bantering with it, right?
 
 # 10
->>2396
->No One-man Armies
-I'm not really against one-man armies or suggesting that people have to share the workload. It's just that we need a way for people to easily integrate their work together so they don't need to be a one-man army to contribute. Then everyone can specialize in what interests them most and put their capabilities to use, instead of needing to study for years and years before being able to do anything fun. It's about giving people the tools to help themselves and help each other. Other than that the summary is good.
-
->I sure wish you'd create a document about it anon.
-Developing it right now would be putting the cart before the horse. We don't even have enough projects yet to connect together and test it. If we let the idea stew in our heads though while we work on stuff, surely we'll get some better intuitions on what the actual requirements will be and how to design it.
-
->But ATP, you're the only one currently bantering with it, right?
+>>2396
+
+>No One-man Armies
+
+I'm not really against one-man armies or suggesting that people have to share the workload. It's just that we need a way for people to easily integrate their work together so they don't need to be a one-man army to contribute. Then everyone can specialize in what interests them most and put their capabilities to use, instead of needing to study for years and years before being able to do anything fun. It's about giving people the tools to help themselves and help each other. Other than that the summary is good.
+
+
+
+>I sure wish you'd create a document about it anon.
+
+Developing it right now would be putting the cart before the horse. We don't even have enough projects yet to connect together and test it. If we let the idea stew in our heads though while we work on stuff, surely we'll get some better intuitions on what the actual requirements will be and how to design it.
+
+
+
+>But ATP, you're the only one currently bantering with it, right?
+
 And yeah I haven't released it yet besides an old prototype when GPT2 first came out. It still needs a lot of work and training. There's so much garbage in GPT2's pretrained model like username lists and keyword spam sites that I'm surprised it works at all.
 
 # 11
@@ -152,7 +172,8 @@ Cheers.
 I'm okay at programming but as far as ML goes I've only done basic perceptrons. Where should I go next? I'd like to keep my focus as narrow as possible right now.
 
 # 15
->>2447
+>>2447
+
 What are you interested in making? The most promising area of ML right now is reinforcement learning. At the minimum you'll need to know how to use convolutions and skip connections with residual blocks to fool around with it and get fun results.
 
 # 16
@@ -184,8 +205,10 @@ In a word--''emasculated''. So, not only do we a) need a good chat mechanism, bu
 Again, this is due to the highly technical and complex nature of what we're tackling here, and the fact it's a sensitive topic in general.
 
 # 18
->>2658
-
+>>2658
+
+
+
 Have you checked out riot.io? it seems to have privacy centric features and is basically discord with an uglier format.
 
 # 19
@@ -255,7 +278,8 @@ Why do we not just use ROS? It's already has everything you've asked for, is wel
 Go ahead and give it a whirl Anon. As you say it has a lot of documentation and some projects out there already. I'd suggest you supply a big power system and a full computer on-board your robowaifu in your design though. You'll surely need it.
 
 # 25
->>6605
+>>6605
+
 Not the other anon, but I've always wanted to try out ROS but am overwhelmed at all the different libraries.  As evil as Nvidia is, one thing they got right is they provide all software as a perfectly configured SDcard image, even a different one for each AI course depending on what tools are needed.
 
 # 26
@@ -263,14 +287,19 @@ Not the other anon, but I've always wanted to try out ROS but am overwhelmed at 
 I tried installing it once and ran into dependency issues with its 1000+ dependencies.
 
 # 27
-There is also Myrobotlab if ROS is overwhelming. But on top of all those benefits they also have simulators like Gazebo, so you can describe your robot as Code, sadly XML, and then using the same pub/sub code, actuate it and capture simulated sensor data from a 3D environment. I've seen full SLAM autonomy in Gazebo, but struggled to get a biped working I admit. 
-
->>6605
+There is also Myrobotlab if ROS is overwhelming. But on top of all those benefits they also have simulators like Gazebo, so you can describe your robot as Code, sadly XML, and then using the same pub/sub code, actuate it and capture simulated sensor data from a 3D environment. I've seen full SLAM autonomy in Gazebo, but struggled to get a biped working I admit. 
+
+
+
+>>6605
+
 The best part about the pub/sub networking architecture is that you don't need to have all the compute on the robot. One project I had an android phone app for driving, an ESP8669 onboard with motor controllers and a subscriber on the laptop doing live video YOLO.
 
 # 28
->>6642
->sadly XML
+>>6642
+
+>sadly XML
+
 Just write a custom format or take a different format, then a translator program that outputs it back to XML. Problems were not.
 
 # 29
@@ -279,9 +308,12 @@ Just write a custom format or take a different format, then a translator program
 Sounds good. Look forward to seeing what you do with your ROS robowaifu Anon, please keep up posted on your progress.
 
 # 30
->>86
-I'm thinking of using this as my model, seems like it will make more congruent sentences.
-
+>>86
+
+I'm thinking of using this as my model, seems like it will make more congruent sentences.
+
+
+
 Are there any premade libraries for this or other implementations of this concept?
 
 # 31

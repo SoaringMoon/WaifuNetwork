@@ -15,11 +15,16 @@ https://www.invidio.us/watch?v=9Sffdf9m2Ew
 While the film is dystopic af that scene in particular is highly encouraging. If a man has to live alone, at the least he should have a beautiful and charming Visual Waifu to live 'alone' with!
 
 # 3
->>111
-To your initial question: You can't. You can only hope to make it different but still satisfying. It will never be equal because it's impossible. You could probably make it better, but by what criteria? There shouldn't be a focus on replication, there should be a focus on tricking the brain, definitely offering a functional alternative, or at least making the path easier for someone who hasn't crossed the line yet. I'm gonna go back to making anime now. Anyway, your questions about aesthetics and the absurdity of the project(s) can be traced, as with everything, to ancient graeco-roman philosophy. As long as the project contributes to the overall health of a people, and as long as the unforeseeable consequences of something so likely to be horrible aren't so extremely bad, then everything will be fine.
-
-Also remember to hit the gym, it helps you understand aesthetics and how to apply it in the abstract. Like to things that you wouldn't think are related, for instance. It's going to be super important for waifubot waifufaggotry. You're basically looking at both a new age of art animatrix looking terror and it's going to be about as beautiful and chaotic as you'd expect. 
-
+>>111
+
+To your initial question: You can't. You can only hope to make it different but still satisfying. It will never be equal because it's impossible. You could probably make it better, but by what criteria? There shouldn't be a focus on replication, there should be a focus on tricking the brain, definitely offering a functional alternative, or at least making the path easier for someone who hasn't crossed the line yet. I'm gonna go back to making anime now. Anyway, your questions about aesthetics and the absurdity of the project(s) can be traced, as with everything, to ancient graeco-roman philosophy. As long as the project contributes to the overall health of a people, and as long as the unforeseeable consequences of something so likely to be horrible aren't so extremely bad, then everything will be fine.
+
+
+
+Also remember to hit the gym, it helps you understand aesthetics and how to apply it in the abstract. Like to things that you wouldn't think are related, for instance. It's going to be super important for waifubot waifufaggotry. You're basically looking at both a new age of art animatrix looking terror and it's going to be about as beautiful and chaotic as you'd expect. 
+
+
+
 I'm going to post anime now.
 
 # 4

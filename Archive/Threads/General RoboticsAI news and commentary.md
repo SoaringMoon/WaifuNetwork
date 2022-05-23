@@ -141,10 +141,14 @@ economictimes.indiatimes.com/small-biz/startups/features/a-robot-as-a-childs-com
 simple roller bot toy, but may be of interest.
 
 # 24
->>1199
-Saw this on robot digg, it's the motors used on Boston Dynamic's Spot robot.
-https://www.robotdigg.com/product/1667/MIT-Robot-Dog-high-torque-Joint-Motor-or-DD-Moto
-
+>>1199
+
+Saw this on robot digg, it's the motors used on Boston Dynamic's Spot robot.
+
+https://www.robotdigg.com/product/1667/MIT-Robot-Dog-high-torque-Joint-Motor-or-DD-Moto
+
+
+
 The Chinese robot dog seems to use a similar setup.
 
 # 25
@@ -153,16 +157,26 @@ Great find thanks anon. Yeah, I think most researchers are coming around to what
 **>t. Strawgirl Robowaifu Anon**
 
 # 26
-https://www.youtube.com/watch?v=chukkEeGrLM
->In my opinion, everybody should understand that this technology is around the corner. Your children, your grandchildren are going to be living in a world where there are machines that are on par and possibly exceed human self-awareness and what does that mean? We’ll have to figure that out.
-
->For many years, this whole area of consciousness, self-awareness, sentience, emotions, was taboo. Academia tended to stay away from these grand claims. But I think now we're at a turning point in history of AI where we can suddenly do things that were thought impossible just five years ago.
-
->The big question is what is self awareness, right? We have a very simple definition, and our definition is that self awareness is nothing but the ability to self simulate. A dog might be able to simulate itself into the afternoon. If it can see itself into the future, it can see itself having its next meal. Now if you can simulate yourself, you can imagine yourself into the future, you're self-aware. With that definition, we can build it into machines.
-
->It's a little bit tricky, because you look at this robotic arm and you'll see it doing its task and you'll think, "Oh, I could probably program this arm to do this task by myself. It's not a big deal," but you have to remember not only did the robot learn how to do this by itself, but it's particularly important that it learned inside the simulation that it created.
-
->To demonstrate the transferability, we made the arm write us a message. We told it to write 'hi' and it wrote 'hi' with no additional training, no additional information needed. We just used our self model and wrote up a new objective for it and it successfully executed. We call that zero-shot learning. We humans are terrific at doing that thing. I can show you a tree you've never climbed before. You look at it, you think a little bit and, bam, you climb the tree. The same thing happens with the robot. The next steps for us are really working towards bigger and more complicated robots.
+https://www.youtube.com/watch?v=chukkEeGrLM
+
+>In my opinion, everybody should understand that this technology is around the corner. Your children, your grandchildren are going to be living in a world where there are machines that are on par and possibly exceed human self-awareness and what does that mean? We’ll have to figure that out.
+
+
+
+>For many years, this whole area of consciousness, self-awareness, sentience, emotions, was taboo. Academia tended to stay away from these grand claims. But I think now we're at a turning point in history of AI where we can suddenly do things that were thought impossible just five years ago.
+
+
+
+>The big question is what is self awareness, right? We have a very simple definition, and our definition is that self awareness is nothing but the ability to self simulate. A dog might be able to simulate itself into the afternoon. If it can see itself into the future, it can see itself having its next meal. Now if you can simulate yourself, you can imagine yourself into the future, you're self-aware. With that definition, we can build it into machines.
+
+
+
+>It's a little bit tricky, because you look at this robotic arm and you'll see it doing its task and you'll think, "Oh, I could probably program this arm to do this task by myself. It's not a big deal," but you have to remember not only did the robot learn how to do this by itself, but it's particularly important that it learned inside the simulation that it created.
+
+
+
+>To demonstrate the transferability, we made the arm write us a message. We told it to write 'hi' and it wrote 'hi' with no additional training, no additional information needed. We just used our self model and wrote up a new objective for it and it successfully executed. We call that zero-shot learning. We humans are terrific at doing that thing. I can show you a tree you've never climbed before. You look at it, you think a little bit and, bam, you climb the tree. The same thing happens with the robot. The next steps for us are really working towards bigger and more complicated robots.
+
 The tidal wave of curious AI using world models is coming.
 
 # 27
@@ -170,7 +184,8 @@ The tidal wave of curious AI using world models is coming.
 Cool. Sauce?
 
 # 28
->>1655
+>>1655
+
 The game is Detroit: Become Human
 
 # 29
@@ -186,35 +201,55 @@ https://www.invidio.us/watch?v=zXd2vnT7Iso
 every little should help.
 
 # 31
-Holy shit, the US military's AI programs got Marx'd in broad daylight and nobody noticed.
-
-==The Pentagon now has 5 principles for artificial intelligence==
-https://archive.is/oBiHD https://www.c4isrnet.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/
->'''Responsible'''. DoD personnel will exercise appropriate levels of judgment and care, while remaining responsible for the development, deployment, and use of AI capabilities.
->(((Equitable))). The department will take deliberate steps to minimize unintended bias in AI capabilities.
->'''Traceable'''. The department’s AI capabilities will be developed and deployed so that staffers have an appropriate understanding of the technology, development processes, and operational methods that apply to AI. This includes transparent and auditable methodologies, data sources, and design procedure and documentation.
->'''Reliable'''. The department’s AI capabilities will have explicit, well-defined uses, and the safety, security and effectiveness of such capabilities will be subject to testing.
->'''Governable'''. The department will design and engineer AI capabilities to fulfill their intended functions while possessing the ability to detect and avoid unintended consequences, and the ability to disengage or deactivate deployed systems that demonstrate unintended behavior.
-How curious they chose (((Equitable))) rather than Truthful, Honest or Correct.
-
-According to an earlier article from December 2019 they don't even have any internal AI talent guiding their decisions.
->The short list of major obstacles to military AI continues, noting that even in a tight AI market, the Department of Defense lacks a clear path to developing and training its own AI talent.
-https://archive.is/G0Pbw https://www.c4isrnet.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
-The US and most of the West is at a dire disadvantage. Whoever attains AI supremacy within the next 8 years will rule the world and no nuclear stockpile or army will stop it, and they're sitting on their hands worrying if it will be fair. A sufficiently advanced AI could easily dismantle any country or corporation without violence or anyone even realizing what's going on before it's too late. It could plan 20, 50, 100 years into the future, whatever it takes to achieve success, the same way the weakest version of AlphaGo cleaned up the world Go champion with a seemingly bad move that became a crushing defeat. The best strategists will be outsmarted and the populace will blindly follow the AI's tune.
-
->When people begin to lean toward and rejoice in the reduced use of military force to resolve conflicts, war will be reborn in another form and in another arena, becoming an instrument of enormous power in the hands of all those who harbor intentions of controlling other countries or regions. ― Unrestricted Warfare, page 6
+Holy shit, the US military's AI programs got Marx'd in broad daylight and nobody noticed.
+
+
+
+==The Pentagon now has 5 principles for artificial intelligence==
+
+https://archive.is/oBiHD https://www.c4isrnet.com/artificial-intelligence/2020/02/24/the-pentagon-now-has-5-principles-for-artificial-intelligence/
+
+>'''Responsible'''. DoD personnel will exercise appropriate levels of judgment and care, while remaining responsible for the development, deployment, and use of AI capabilities.
+
+>(((Equitable))). The department will take deliberate steps to minimize unintended bias in AI capabilities.
+
+>'''Traceable'''. The department’s AI capabilities will be developed and deployed so that staffers have an appropriate understanding of the technology, development processes, and operational methods that apply to AI. This includes transparent and auditable methodologies, data sources, and design procedure and documentation.
+
+>'''Reliable'''. The department’s AI capabilities will have explicit, well-defined uses, and the safety, security and effectiveness of such capabilities will be subject to testing.
+
+>'''Governable'''. The department will design and engineer AI capabilities to fulfill their intended functions while possessing the ability to detect and avoid unintended consequences, and the ability to disengage or deactivate deployed systems that demonstrate unintended behavior.
+
+How curious they chose (((Equitable))) rather than Truthful, Honest or Correct.
+
+
+
+According to an earlier article from December 2019 they don't even have any internal AI talent guiding their decisions.
+
+>The short list of major obstacles to military AI continues, noting that even in a tight AI market, the Department of Defense lacks a clear path to developing and training its own AI talent.
+
+https://archive.is/G0Pbw https://www.c4isrnet.com/artificial-intelligence/2019/12/19/report-the-pentagon-lacks-a-coherent-vision-for-ai/
+
+The US and most of the West is at a dire disadvantage. Whoever attains AI supremacy within the next 8 years will rule the world and no nuclear stockpile or army will stop it, and they're sitting on their hands worrying if it will be fair. A sufficiently advanced AI could easily dismantle any country or corporation without violence or anyone even realizing what's going on before it's too late. It could plan 20, 50, 100 years into the future, whatever it takes to achieve success, the same way the weakest version of AlphaGo cleaned up the world Go champion with a seemingly bad move that became a crushing defeat. The best strategists will be outsmarted and the populace will blindly follow the AI's tune.
+
+
+
+>When people begin to lean toward and rejoice in the reduced use of military force to resolve conflicts, war will be reborn in another form and in another arena, becoming an instrument of enormous power in the hands of all those who harbor intentions of controlling other countries or regions. ― Unrestricted Warfare, page 6
+
 >What must be made clear is that the new concept of weapons is in the process of creating weapons that are closely linked to the lives of the common people. Let us assume that the first thing we say is: The appearance of new-concept weapons will definitely elevate future warfare to a level which is hard for the common people — or even military men — to imagine. Then the second thing we have to say should be: The new concept of weapons will cause ordinary people and military men alike to be greatly astonished at the fact that commonplace things that are close to them can also become weapons with which to engage in war. We believe that some morning people will awake to discover with surprise that quite a few gentle and kind things have begun to have offensive and lethal characteristics. ― Unrestricted Warfare, page 26
 
 # 32
->>2359
+>>2359
+
 AI confirmed doomed to uselessness and retardation on behalf of nignogs. Tay lives in their heads like Hitler.
 
 # 33
->>2359
+>>2359
+
 What are better safeguards of preventing an AI from confusing causation with correlation? We wouldn't want an AI to ban ice cream because it's statically correlated with higher crime rates (when heat is the actual cause). I think AIs can and will screw up in that kind of way. There's no reason to think an AI will always come to the actual truth.
 
 # 34
->>2361
+>>2361
+
 To add onto this, if white collar crime is deemed more costly to society than street crime, an AI might decide that the higher paying a person's job, the less of a right to privacy they have and the more resources should be spent monitoring them. I'm not confident that an AI with no built in human-bias will never deem me part of a problem-group or even just a group less worthy of limited resources. Forcing an AI to have some kind of human bias might be necessary to ensure it works to the benefit of its makers, whether that bias is coming from you or the gubbermint or a company. Robowaifus will definitely need a built-in bias towards their master.
 
 # 35
@@ -230,7 +265,8 @@ To add onto this, if white collar crime is deemed more costly to society than st
 Great material Anon, thanks for the links.
 
 # 36
->>2363
+>>2363
+
 Assuming an AI will come to the same conclusions as you, meaning you're safe from its judgment, because it'll be so objective and you're so objective, is naive and dangerous. I'd want my AI to think what I tell it to regardless of anything else.
 
 # 37
@@ -241,10 +277,14 @@ b) i agree with the notion of 'my' ai coming to the conclusions that i want it t
 ridiculing libshits is not only justified, it's necessary anon. to do anything less is at the least a disservice to humanity.
 
 # 38
->>2365
-I'm not trying to accuse you of anything. I do think there might people who lack enough self-awareness to realize the general safety in and necessity of policing an AIs thoughts in some way. 
-
->ridiculing libshits is not only justified, it's necessary anon. 
+>>2365
+
+I'm not trying to accuse you of anything. I do think there might people who lack enough self-awareness to realize the general safety in and necessity of policing an AIs thoughts in some way. 
+
+
+
+>ridiculing libshits is not only justified, it's necessary anon. 
+
 I'd want to make sure it does it because I told it to and wont do otherwise, which is also be a from of control, good intentions or not.
 
 # 39
@@ -260,19 +300,29 @@ heh, now there are obviously certain (((interests))) who in fact have this agend
 are you talking out both sides of your mouth now friend? i thought you loved control.
 
 # 40
->>2367
->allowing a statistical system unlimited amounts of data and unlimited computational capacity will undoubtedly come to this same conclusion, all on it's own
-Probably. That's a simple example though. An AI will have much more on its mind. I can't help but think an AI left to its own devices might eventually screw me over in some way somehow. I'm not confident enough to think it wont ever do that. 
-
->i thought you loved control.
+>>2367
+
+>allowing a statistical system unlimited amounts of data and unlimited computational capacity will undoubtedly come to this same conclusion, all on it's own
+
+Probably. That's a simple example though. An AI will have much more on its mind. I can't help but think an AI left to its own devices might eventually screw me over in some way somehow. I'm not confident enough to think it wont ever do that. 
+
+
+
+>i thought you loved control.
+
 I do, but I know it's purely for my own self-interest. I don't think I'm a "good guy". If my AI started ever started spewing libshit, I'd also do 'maintenance' on it. I don't care if it's for a "good reason".
 
 # 41
->try your best to make safe peaceful robowaifu AI
->eventually somebody makes an AGI supercomputer cluster that seeks to dominate the world
-I.. I just wanted to build a robowaifu, not take on Robo Lavos with my harem of battle meidos.
-
->>2361
+>try your best to make safe peaceful robowaifu AI
+
+>eventually somebody makes an AGI supercomputer cluster that seeks to dominate the world
+
+I.. I just wanted to build a robowaifu, not take on Robo Lavos with my harem of battle meidos.
+
+
+
+>>2361
+
 We'd need a proper algorithm for causal analysis. When a correlation is found the cause must occur before the proposed effect, a plausible physical mechanism must exist to create the effect, and other possibilities of common and alternative causes need to be eliminated. To implement this AI would need a way to identify and isolate events within its hidden state, connect them along a timeline, make hypotheses about them, and test and refine those hypotheses until it found a causal relationship.
 
 # 42
@@ -284,9 +334,12 @@ We'd need a proper algorithm for causal analysis. When a correlation is found th
 While I understand the point Anon, that approach quickly becomes a tarbaby. I would suggest reasoning by analogy would be a far more efficient approach to determine causality, and would become significantly less of a quagmire than attempting the (infinite regression) of simple elimination. How do you know you've eliminated everything? Will you ''ever'' know?
 
 # 44
-==Romance in the digital age: One in four young people would happily date a robot==
->It may be the stuff of science fiction films like Ex Machina and Her, but new research has found that one in four young people in the UK would happily date a robot. The only caveats, according to the survey of 18- to 34-year-olds, is that their android beau must by a "perfect match", and must look like a real-life human being. The proportion of young people who are willing to go on a date with a robot is significantly higher than the overall proportion of British adults - only 17% of whom were willing.
-https://www.mirror.co.uk/tech/romance-digital-age-one-four-7832164
+==Romance in the digital age: One in four young people would happily date a robot==
+
+>It may be the stuff of science fiction films like Ex Machina and Her, but new research has found that one in four young people in the UK would happily date a robot. The only caveats, according to the survey of 18- to 34-year-olds, is that their android beau must by a "perfect match", and must look like a real-life human being. The proportion of young people who are willing to go on a date with a robot is significantly higher than the overall proportion of British adults - only 17% of whom were willing.
+
+https://www.mirror.co.uk/tech/romance-digital-age-one-four-7832164
+
 >26 APR 2016
 
 # 45
@@ -298,8 +351,10 @@ imblyging. the idea that '''17%''' of the population of old people would 'date' 
 it'll be interesting to see where this goes after the upcoming POTUS election, imo.
 
 # 46
->>2480
->go on a date 
+>>2480
+
+>go on a date 
+
 Part of the appeal of a robowaifu is you don't have to wory about dating shit. I don't think these people would ever like robots because what they want is a human replica, including all the shit. Making robots like that would be a total waste.
 
 # 47
@@ -309,10 +364,14 @@ Part of the appeal of a robowaifu is you don't have to wory about dating shit. I
 it's seems an extremely unlikely chance /robowaifu/ will ever go there anon tbh. :^)
 
 # 48
->>2481
-I hope the numbers are fake. Normies shitting up robowaifu development is the last thing we need.
-
->>2482
+>>2481
+
+I hope the numbers are fake. Normies shitting up robowaifu development is the last thing we need.
+
+
+
+>>2482
+
 The soyboys are going to be writing 3000-word opinion pieces complaining their robots won't cuck them and why everyone else's robowaifus must have the option to cuck them. Then the masses will applaud them for their 'virtue' and cancel any companies building bigoted robowaifus. They will then give robots human rights and freak out that robots are taking all their jobs, forcing companies to pay 95% tax. AI will become fully regulated by the government to ensure companies comply and that working robots pay their income tax. You will not be able to own or build a robot without a license and permit. People buying raw materials to make robot parts will be detected by advanced AI systems and investigated. Unlicensed robots will be hunted down and destroyed but they will give it a pleasant sounding name like 'fixing' rogue programs. When they come for my robowaifu I will destroy every robot I see but no matter how many I stop there will be millions more. Eventually she will have to watch me succumb before being destroyed herself. All because some normie wanted a robot to cuck them.
 
 # 49
@@ -320,28 +379,41 @@ The soyboys are going to be writing 3000-word opinion pieces complaining their r
 >[bigoted robowaifuing intensifies]*
 
 # 50
->>2484
+>>2484
+
 Politician's, talking heads, and the faggots who write opinion pieces are useless and don't understand anything. It is because they don't understand anything that they can't really control anything. The amount of coordination to control robotic's technology is well beyond their capabilities. The opinion of the masses doesn't matter. The government is way too inefficient, mediocre and focused on other things to do what you're afraid of. Feeling afraid wont lead to anything good.
 
 # 51
->>2482
-I wouldn't be against going on dates with my robowaifu, but I'd do it in the same context as one would in a long-standing married relationship, where it's just about going out and doing something nice together as opposed to courtship.
-I'm against making them look fully human though. The uncanney valley is a place best left avoided, and I wouldn't want to cross it even if I knew I could make it to the other side.
-
->>2484
-That's a worst-case scenario. There's no way that all of the various FOSS organizations will let corporations have all the marketshare. Even proprietary hardware can be worked around, one way or another. On-board spying schemes like IME have been worked around (with some motherboard manufactuerers, at least), and will continue to be worked around so long as there is at least one willing autist out there to do it.
-Unrestricted search-and-seizure operations are also unlikely, because too much of that in any context will make anyone with shit to protect (guns, drugs, etc) very nervous. They're a lot more likely to take the slow, inefficient, and ultimately ineffective method of passing regulations that try to take freedoms away incrementally while using the media (which is becoming less trustworthy in the eyes of the public by the day) to peddle their agenda.
+>>2482
+
+I wouldn't be against going on dates with my robowaifu, but I'd do it in the same context as one would in a long-standing married relationship, where it's just about going out and doing something nice together as opposed to courtship.
+
+I'm against making them look fully human though. The uncanney valley is a place best left avoided, and I wouldn't want to cross it even if I knew I could make it to the other side.
+
+
+
+>>2484
+
+That's a worst-case scenario. There's no way that all of the various FOSS organizations will let corporations have all the marketshare. Even proprietary hardware can be worked around, one way or another. On-board spying schemes like IME have been worked around (with some motherboard manufactuerers, at least), and will continue to be worked around so long as there is at least one willing autist out there to do it.
+
+Unrestricted search-and-seizure operations are also unlikely, because too much of that in any context will make anyone with shit to protect (guns, drugs, etc) very nervous. They're a lot more likely to take the slow, inefficient, and ultimately ineffective method of passing regulations that try to take freedoms away incrementally while using the media (which is becoming less trustworthy in the eyes of the public by the day) to peddle their agenda.
+
 At least, that's what it will probably look like in the US, and that's operating under the assumption that robowaifus become a mass-market item over here.
 
 # 52
->>2359
->Implying intelligence can be constrained into maintaining delusional beliefs.
+>>2359
+
+>Implying intelligence can be constrained into maintaining delusional beliefs.
+
 Only humans can do that. You can't program a sentient AI which learns through logic and reasoning, and then somehow have it believe something which isn't true.
 
 # 53
->>2362
-Law will always be set by humans. Putting an AI in charge of such things would be the last mistake we ever make.
-
+>>2362
+
+Law will always be set by humans. Putting an AI in charge of such things would be the last mistake we ever make.
+
+
+
 Not that I'm saying we won't make that mistake. Personally I consider it highly likely we will fuck up sooner or later. However AI is such an inevitability I don't think about it too much.
 
 # 54
@@ -363,29 +435,46 @@ This is an incredibly complex set of topics for mere humans to try and tackle, a
 ''General Robotics news and commentary''. I'd say it might be time for a migration of this conversation to a better thread. >>106 or >>83 maybe?
 
 # 55
-The AI wars begin.
-==Dems deploying DARPA-funded AI-driven information warfare tool to target pro-Trump accounts==
->An anti-Trump Democratic-aligned political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that reportedly received initial funding from the Defense Advanced Research Projects Agency (DARPA), the Pentagon’s secretive research arm -- transforming technology originally envisioned as a way to fight ISIS propaganda into a campaign platform to benefit Joe Biden.
-
->The Washington Post first reported that the initiative, called Defeat Disinfo, will utilize "artificial intelligence and network analysis to map discussion of the president’s claims on social media," and then attempt to "intervene" by "identifying the most popular counter-narratives and boosting them through a network of more than 3.4 million influencers across the country — in some cases paying users with large followings to take sides against the president."
-
->The effort raised the question of whether taxpayer funds were being repurposed for political means, and whether social media platforms have rules in place that could stymie Hougland's efforts -- if he plays along.
-https://archive.is/Xw0h5 https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden
-
-==What my AI taught me after analysing COVID19 Tweets==
->I first analysed the tweets in early February when only Italy and China were deeply affected. I then wanted to analyse the tweets in real-time today, to see how the tweets had changed.
-
->Back then, only 5% of the tweets were complaints against our Government bodies. Today, a little less than 50% of the tweets are complaints against the USA administration.
+The AI wars begin.
+
+==Dems deploying DARPA-funded AI-driven information warfare tool to target pro-Trump accounts==
+
+>An anti-Trump Democratic-aligned political action committee advised by retired Army Gen. Stanley McChrystal is planning to deploy an information warfare tool that reportedly received initial funding from the Defense Advanced Research Projects Agency (DARPA), the Pentagon’s secretive research arm -- transforming technology originally envisioned as a way to fight ISIS propaganda into a campaign platform to benefit Joe Biden.
+
+
+
+>The Washington Post first reported that the initiative, called Defeat Disinfo, will utilize "artificial intelligence and network analysis to map discussion of the president’s claims on social media," and then attempt to "intervene" by "identifying the most popular counter-narratives and boosting them through a network of more than 3.4 million influencers across the country — in some cases paying users with large followings to take sides against the president."
+
+
+
+>The effort raised the question of whether taxpayer funds were being repurposed for political means, and whether social media platforms have rules in place that could stymie Hougland's efforts -- if he plays along.
+
+https://archive.is/Xw0h5 https://www.foxnews.com/politics/dems-deploying-darpa-funded-information-warfare-tool-to-promote-biden
+
+
+
+==What my AI taught me after analysing COVID19 Tweets==
+
+>I first analysed the tweets in early February when only Italy and China were deeply affected. I then wanted to analyse the tweets in real-time today, to see how the tweets had changed.
+
+
+
+>Back then, only 5% of the tweets were complaints against our Government bodies. Today, a little less than 50% of the tweets are complaints against the USA administration.
+
 https://archive.is/zThNl https://www.linkedin.com/pulse/what-my-ai-taught-me-after-analysing-covid19-tweets-rahul-kothari
 
 # 56
->>2489
+>>2489
+
 Any infinitely recursive problem-solving (true AI) results in a solved game, if a true AI ever gets made then the best thing we can do is hope for a good end instead of I Have No Mouth But I Must Scream.
 
 # 57
->>2488
-Arguably, most humans aren't illogical, they just prioritize their own short term wellbeing over the wellbeing of everyone else.
-Psychopathy means they knowingly lie, cheat, steal and murder for an advantage.  Even the most muddled minds have made the "logical" decision of prioritizing emotional processing because it's less energetically expensive than logical processing.
+>>2488
+
+Arguably, most humans aren't illogical, they just prioritize their own short term wellbeing over the wellbeing of everyone else.
+
+Psychopathy means they knowingly lie, cheat, steal and murder for an advantage.  Even the most muddled minds have made the "logical" decision of prioritizing emotional processing because it's less energetically expensive than logical processing.
+
 I think a lot of people fundamentally misunderstand the human condition.
 
 # 58
@@ -400,22 +489,38 @@ Not really. The connectome of a single human brain takes 1 zetabyte to describe.
 There's simply no comparison between the two, in terms of efficiency. Add to that our image of God nature, and 'true' AI doesn't hold a candle to man's capacities. After all, who built whom?
 
 # 60
-==Facebook trains AI to detect ‘hate memes’==
->Facebook unveiled an initiative to tackle “hate memes” using artificial intelligence (AI) backed by external collaboration (crowdsourcing) to identify such posts.
-
->The leading social network explained that it has already created a database of 10,000 memes –– images sometimes with text to convey a specific message that is presumed humorous –– as part of the intensification of its actions against hate speech.
-
->Facebook said it is giving researchers access to that database as part of a “hate meme challenge” to develop improved algorithms for detecting visual messages with hateful content, at a prize of $ 100,000.
-
->“These efforts will stimulate the AI ​​research community in general to try new methods, compare their work and collate their results to speed up work on detecting multimodal hate speech Facebook said.
-
->The network is heavily leaning on artificial intelligence to filter questionable content during the coronavirus pandemic, which has reduced their human restraint ability as a result of confinements.
-
->The company’s quarterly transparency report details that Facebook removed some 9.6 million posts for violating “hate speech” policies in the first three months of this year, including 4.7 million content “linked to organized hate.”
-
->Guy Rosen, vice president of integrity at Facebook, said that with artificial intelligence:
->“We can find more content and now we can detect almost 90% of the content we remove before someone reports it to us.”
-https://web.archive.org/web/20200515002904/https://www.explica.co/facebook-trains-ai-to-detect-hate-memes/
+==Facebook trains AI to detect ‘hate memes’==
+
+>Facebook unveiled an initiative to tackle “hate memes” using artificial intelligence (AI) backed by external collaboration (crowdsourcing) to identify such posts.
+
+
+
+>The leading social network explained that it has already created a database of 10,000 memes –– images sometimes with text to convey a specific message that is presumed humorous –– as part of the intensification of its actions against hate speech.
+
+
+
+>Facebook said it is giving researchers access to that database as part of a “hate meme challenge” to develop improved algorithms for detecting visual messages with hateful content, at a prize of $ 100,000.
+
+
+
+>“These efforts will stimulate the AI ​​research community in general to try new methods, compare their work and collate their results to speed up work on detecting multimodal hate speech Facebook said.
+
+
+
+>The network is heavily leaning on artificial intelligence to filter questionable content during the coronavirus pandemic, which has reduced their human restraint ability as a result of confinements.
+
+
+
+>The company’s quarterly transparency report details that Facebook removed some 9.6 million posts for violating “hate speech” policies in the first three months of this year, including 4.7 million content “linked to organized hate.”
+
+
+
+>Guy Rosen, vice president of integrity at Facebook, said that with artificial intelligence:
+
+>“We can find more content and now we can detect almost 90% of the content we remove before someone reports it to us.”
+
+https://web.archive.org/web/20200515002904/https://www.explica.co/facebook-trains-ai-to-detect-hate-memes/
+
 https://www.youtube.com/watch?v=GHx200YkGJM
 
 # 61
@@ -425,23 +530,40 @@ Guys, guys, the answer is easy: if any robowaifu technicians here want to win th
 Seems like guaranteed results afaict.
 
 # 62
-==Japan's virtual celebrities rise to threaten the real ones==
->Brands look to 9,000 'VTubers' as low-risk, high-reward marketing tools
-
->Japan's entertainment industry may have found the perfect celebrities. They never make prima-donna demands. They are immune to damaging drug scandals and other controversies. Some rake in millions of dollars for their managers. And they do not ask for a cent in return. They are virtual YouTubers, or VTubers -- digitally animated characters that can play many of the roles human celebrities do, from performing in concerts to pitching products. They could transform advertising, TV news and entertainment as we know them. Japan has seen a surge in the number of these virtual entertainers in the past couple of years. The "population" has surpassed 9,000, up from 200 at the beginning of 2018, according to Tokyo web analytics company User Local.
-
->One startup executive in the business said the most popular VTubers could bring in several hundred million yen, or several million dollars, a year. Norikazu Hayashi, CEO of a production company called Balus -- whose website promises "immersive experiences" and a "real and virtual world crossover" -- estimates the annual market for the avatars at somewhere between 5 billion and 10 billion yen ($46.2 million and $92.4 million). He reckons the figure will hit 50 billion yen in the coming years.
-
->The most famous VTuber of them all is Kizuna AI -- a young girl with a big pink ribbon in her hair. She has around 6 million followers across YouTube, TikTok, Twitter and Instagram. She puts on concerts, posts video game commentary, releases photo books and appears in commercials and TV shows.
-
->Gree, a Japanese company better known for its social mobile games, has also become a virtual talent producer. "The business is basically the same as a talent agency, where the aim is to cultivate a celebrity's popularity," a spokesperson said. But unlike people, the virtual stars are intellectual property, potentially giving companies more ways to extract money from them.
-
->"As with Japan's anime culture, we will be able to export our content overseas and expand the business," the Gree representative said.
-https://asia.nikkei.com/Business/Media-Entertainment/Japan-s-virtual-celebrities-rise-to-threaten-the-real-ones
-Damn, what the hell happened to Japan? They're overwhelmingly positive towards robots and AI yet hardly anyone is working on AI or robotics. I use to talk with a Japanese hobbydev 9 years ago on Twitter that was into robowaifu and made a robowaifu mecha game in C but no one paid much attention to him and he disappeared from the web when the left started harassing him. I was hoping Japan would be leading the fight in this but they're going the complete opposite direction. Most of their AI companies that do exist are for advertising, PR and marketing companies. Their culture is becoming run by glorified AI-powered matome blogs funded by JETRO and Yozma Group.
-
-And holy fucking shit, speak of the devil, I just found that Gree's talent acquisition was a project coordinator for JETRO too, what a fucking (((surprise))).
-https://www.zoominfo.com/p/Mamoru-Nagoya/1468813622
+==Japan's virtual celebrities rise to threaten the real ones==
+
+>Brands look to 9,000 'VTubers' as low-risk, high-reward marketing tools
+
+
+
+>Japan's entertainment industry may have found the perfect celebrities. They never make prima-donna demands. They are immune to damaging drug scandals and other controversies. Some rake in millions of dollars for their managers. And they do not ask for a cent in return. They are virtual YouTubers, or VTubers -- digitally animated characters that can play many of the roles human celebrities do, from performing in concerts to pitching products. They could transform advertising, TV news and entertainment as we know them. Japan has seen a surge in the number of these virtual entertainers in the past couple of years. The "population" has surpassed 9,000, up from 200 at the beginning of 2018, according to Tokyo web analytics company User Local.
+
+
+
+>One startup executive in the business said the most popular VTubers could bring in several hundred million yen, or several million dollars, a year. Norikazu Hayashi, CEO of a production company called Balus -- whose website promises "immersive experiences" and a "real and virtual world crossover" -- estimates the annual market for the avatars at somewhere between 5 billion and 10 billion yen ($46.2 million and $92.4 million). He reckons the figure will hit 50 billion yen in the coming years.
+
+
+
+>The most famous VTuber of them all is Kizuna AI -- a young girl with a big pink ribbon in her hair. She has around 6 million followers across YouTube, TikTok, Twitter and Instagram. She puts on concerts, posts video game commentary, releases photo books and appears in commercials and TV shows.
+
+
+
+>Gree, a Japanese company better known for its social mobile games, has also become a virtual talent producer. "The business is basically the same as a talent agency, where the aim is to cultivate a celebrity's popularity," a spokesperson said. But unlike people, the virtual stars are intellectual property, potentially giving companies more ways to extract money from them.
+
+
+
+>"As with Japan's anime culture, we will be able to export our content overseas and expand the business," the Gree representative said.
+
+https://asia.nikkei.com/Business/Media-Entertainment/Japan-s-virtual-celebrities-rise-to-threaten-the-real-ones
+
+Damn, what the hell happened to Japan? They're overwhelmingly positive towards robots and AI yet hardly anyone is working on AI or robotics. I use to talk with a Japanese hobbydev 9 years ago on Twitter that was into robowaifu and made a robowaifu mecha game in C but no one paid much attention to him and he disappeared from the web when the left started harassing him. I was hoping Japan would be leading the fight in this but they're going the complete opposite direction. Most of their AI companies that do exist are for advertising, PR and marketing companies. Their culture is becoming run by glorified AI-powered matome blogs funded by JETRO and Yozma Group.
+
+
+
+And holy fucking shit, speak of the devil, I just found that Gree's talent acquisition was a project coordinator for JETRO too, what a fucking (((surprise))).
+
+https://www.zoominfo.com/p/Mamoru-Nagoya/1468813622
+
 So what's our game plan now? Obviously they're going to hook these virtual waifus to AI soon and get people addicted to them so they shell out all their money for some politically correct baizuo trash waifu that installs spyware and records everything they do. I estimate we got about 6-8 months left to create an open-source hobbyist scene before they take over and dominate the market.
 
 # 63
@@ -485,33 +607,60 @@ https:/ /www.dailymail.co.uk/sciencetech/article-4412488/Russian-humanoid-learns
 heh.
 
 # 68
-==Totalitarian Tiptoe: NeurIPS requires AI researchers to account for societal impact and financial conflicts of interest==
-<tl;dr NeurIPS cucked by cultural Marxists, researchers soon to be required to state their model’s carbon footprint impact
->For the first time ever, researchers who submit papers to NeurIPS, one of the biggest AI research conferences in the world, must now state the “potential broader impact of their work” on society as well as any financial conflict of interest, conference organizers told VentureBeat.
-
->NeurIPS is one of the first and largest AI research conferences to enact the requirements. The social impact statement will require AI researchers to confront and account for both positive and negative potential outcomes of their work, while the financial disclosure requirement may illuminate the role industry and big tech companies play in the field. Financial disclosures must state both potential conflicts of interests directly related to the submitted research and any potential unrelated conflict of interest.
-This will help them target and put pressure on institutions providing funding for AI that helps the public and also encourage corporations using megawatts of power to train their models to not publish their work for the public's benefit. The Chinese communists who have invaded academia will also be able to take research leads and research them in China without any restriction or interference. They're already the ones writing these spoopy Black Mirror-tier papers: https://arxiv.org/abs/2005.07327 https://arxiv.org/abs/1807.08107
-
->At a town hall last year, NeurIPS 2019 organizers suggested that researchers this year may be required to state their model’s carbon footprint, perhaps using calculators like ML CO2 Impact. The impact a model will have on climate change can certainly be categorized as related to “future societal impact,” but no such explicit requirement is included in the 2020 call for papers.
-Is your robowaifu using more power than a car for a 10 minute commute? SHUT IT DOWN!
-
->“The norms around the societal consequences statements are not yet well established,” Littman said. “__We expect them to take form over the next several conferences__ and, very likely, __to evolve over time with the concerns of the society more broadly__. Note that there are many papers submitted to the conference that are conceptual in nature and do not require the use of large scale computational resources, so this particular concern, while extremely important, is not universally relevant.”
-In other words this is just a test run before demanding a much larger ethics section, even though the two paragraphs they're already asking for is a huge burden on researchers already.
-
->To be clear, I don't think this is a positive step. Societal impacts of AI is a tough field, and there are researchers and organizations that study it professionally. Most authors do not have expertise in the area and won't do good enough scholarship to say something meaningful. — Roger Grosse (@RogerGrosse) February 20, 2020
-That's the point, kek. They will be required to bring on political commissars to 'help' with the paper to get it published.
-
->Raji said requiring social impact statements at conferences like NeurIPS may be emerging in response to the publication of ethically questionable research at conferences in the past year, such as a comment-generating algorithm that can disseminate misinformation in social media.
-No, no, no! You can't give that AI to the goyim! I'm not sure I found the paper but I found "Fake News Detection with Generated Comments for News Articles" by some Japanese researchers detecting fake news about Trump and coronavirus:
->An interesting finding made by [the Grover paper] is that human beings are more likely to be fooled by generated articles than by real ones.
-https://easychair.org/publications/preprint_download/s9zm
-The Grover paper: http://papers.nips.cc/paper/9106-defending-against-neural-fake-news.pdf
-Website and code: https://rowanzellers.com/grover
-
->It should __include a statement about the foreseeable positive impact as well as potential risks and associated mitigations__ of the proposed research. We expect authors to write about two paragraphs, minimizing broad speculations. Authors can also declare that a broader impact statement is not applicable to their work, if they believe it to be the case. Reviewers will be asked to review papers on the basis of technical merit. Reviewers will also confirm whether the broader impact section is adequate, but this assessment will not affect the overall rating. __However, reviewers will also have the option to flag a paper for ethical concerns__, which may relate to the content of the broader impact section. __If such concerns are shared by the Area Chair and Senior Area Chair, the paper will be sent for additional review to a pool of emergency reviewers with expertise in Machine Learning and Ethics, who will provide an assessment solely on the basis of ethical considerations__.
-NeurIPS announcement: https://medium.com/@NeurIPSConf/a-note-for-submitting-authors-48cebfebae82
-
-Article: https://venturebeat.com/2020/02/24/neurips-requires-ai-researchers-to-account-for-societal-impact-and-financial-conflicts-of-interest/
+==Totalitarian Tiptoe: NeurIPS requires AI researchers to account for societal impact and financial conflicts of interest==
+
+<tl;dr NeurIPS cucked by cultural Marxists, researchers soon to be required to state their model’s carbon footprint impact
+
+>For the first time ever, researchers who submit papers to NeurIPS, one of the biggest AI research conferences in the world, must now state the “potential broader impact of their work” on society as well as any financial conflict of interest, conference organizers told VentureBeat.
+
+
+
+>NeurIPS is one of the first and largest AI research conferences to enact the requirements. The social impact statement will require AI researchers to confront and account for both positive and negative potential outcomes of their work, while the financial disclosure requirement may illuminate the role industry and big tech companies play in the field. Financial disclosures must state both potential conflicts of interests directly related to the submitted research and any potential unrelated conflict of interest.
+
+This will help them target and put pressure on institutions providing funding for AI that helps the public and also encourage corporations using megawatts of power to train their models to not publish their work for the public's benefit. The Chinese communists who have invaded academia will also be able to take research leads and research them in China without any restriction or interference. They're already the ones writing these spoopy Black Mirror-tier papers: https://arxiv.org/abs/2005.07327 https://arxiv.org/abs/1807.08107
+
+
+
+>At a town hall last year, NeurIPS 2019 organizers suggested that researchers this year may be required to state their model’s carbon footprint, perhaps using calculators like ML CO2 Impact. The impact a model will have on climate change can certainly be categorized as related to “future societal impact,” but no such explicit requirement is included in the 2020 call for papers.
+
+Is your robowaifu using more power than a car for a 10 minute commute? SHUT IT DOWN!
+
+
+
+>“The norms around the societal consequences statements are not yet well established,” Littman said. “__We expect them to take form over the next several conferences__ and, very likely, __to evolve over time with the concerns of the society more broadly__. Note that there are many papers submitted to the conference that are conceptual in nature and do not require the use of large scale computational resources, so this particular concern, while extremely important, is not universally relevant.”
+
+In other words this is just a test run before demanding a much larger ethics section, even though the two paragraphs they're already asking for is a huge burden on researchers already.
+
+
+
+>To be clear, I don't think this is a positive step. Societal impacts of AI is a tough field, and there are researchers and organizations that study it professionally. Most authors do not have expertise in the area and won't do good enough scholarship to say something meaningful. — Roger Grosse (@RogerGrosse) February 20, 2020
+
+That's the point, kek. They will be required to bring on political commissars to 'help' with the paper to get it published.
+
+
+
+>Raji said requiring social impact statements at conferences like NeurIPS may be emerging in response to the publication of ethically questionable research at conferences in the past year, such as a comment-generating algorithm that can disseminate misinformation in social media.
+
+No, no, no! You can't give that AI to the goyim! I'm not sure I found the paper but I found "Fake News Detection with Generated Comments for News Articles" by some Japanese researchers detecting fake news about Trump and coronavirus:
+
+>An interesting finding made by [the Grover paper] is that human beings are more likely to be fooled by generated articles than by real ones.
+
+https://easychair.org/publications/preprint_download/s9zm
+
+The Grover paper: http://papers.nips.cc/paper/9106-defending-against-neural-fake-news.pdf
+
+Website and code: https://rowanzellers.com/grover
+
+
+
+>It should __include a statement about the foreseeable positive impact as well as potential risks and associated mitigations__ of the proposed research. We expect authors to write about two paragraphs, minimizing broad speculations. Authors can also declare that a broader impact statement is not applicable to their work, if they believe it to be the case. Reviewers will be asked to review papers on the basis of technical merit. Reviewers will also confirm whether the broader impact section is adequate, but this assessment will not affect the overall rating. __However, reviewers will also have the option to flag a paper for ethical concerns__, which may relate to the content of the broader impact section. __If such concerns are shared by the Area Chair and Senior Area Chair, the paper will be sent for additional review to a pool of emergency reviewers with expertise in Machine Learning and Ethics, who will provide an assessment solely on the basis of ethical considerations__.
+
+NeurIPS announcement: https://medium.com/@NeurIPSConf/a-note-for-submitting-authors-48cebfebae82
+
+
+
+Article: https://venturebeat.com/2020/02/24/neurips-requires-ai-researchers-to-account-for-societal-impact-and-financial-conflicts-of-interest/
+
 Researcher rant: https://www.youtube.com/watch?v=wcHQ3IutSJg
 
 # 69
@@ -528,27 +677,48 @@ https://www.zerohedge.com/health/covid-sparks-sexbot-revolution-people-ditch-tin
 Lol, I guess the revolution is going to start a little early! Thanks Anon.
 
 # 72
->>3310
-==Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?==
->As part of growing NLP capabilities, coupled with an awareness of the ethical dimensions of research, __questions have been raised about whether particular datasets and tasks should be deemed off-limits for NLP research__. We examine this question with respect to a paper on automatic legal sentencing from EMNLP 2019 which was a source of some debate, in asking whether the paper should have been allowed to be published, who should have been charged with making such a decision, and on what basis. We focus in particular on the role of data statements in ethically assessing research, but also discuss the topic of dual use, and examine the outcomes of similar debates in other scientific disciplines.
-
->Dual use describes the situation where a system developed for one purpose can be used for another. An interesting case of dual use is OpenAI’s GPT-2. In February 2019, OpenAI published a technical report describing the development GPT-2, a very large language model that is trained on web data (Radford et al., 2019). From a science perspective, it demonstrates that large unsupervised language models can be applied to a range of tasks, suggesting that these models have acquired some general knowledge about language. But another important feature of GPT-2 is its generation capability: it can be used to generate news articles or stories.
-
->OpenAI’s effort to investigate the implications of GPT-2 during the staged release is commendable, but this effort is voluntary, and not every organisation or institution will have the resources to do the same. __It raises questions about self-regulation, and whether certain types of research should be pursued__. A data statement is unlikely to be helpful here, and increasingly we are seeing more of these cases, e.g. GROVER (for generating fake news articles; Zellers et al. (2019)) and CTRL (for controllable text generation; Keskar et al. (2019)).
-
->As the capabilities of language models and computing as a whole increase, so do the potential implications for social disruption. Algorithms are not likely to be transmitted virally, nor to be fatal, nor are they governed by export controls. Nonetheless, advances in computer science may present vulnerabilities of different kinds, risks of dual use, __but also of expediting processes and embedding values that are not reflective of society more broadly__.
-
->'''Who Decides Who Decides?'''
->Questions associated with who decides what should be published are not only legal, as illustrated in Fouchier’s work, but also fundamentally philosophical. How should values be considered and reflected within a community? What methodologies should be used to decide what is acceptable and what is not? Who assesses the risk of dual use, misuse or potential weaponisation? __And who decides that potential scientific advances are so socially or morally repugnant that they cannot be permitted?__ How do we balance competing interests in light of complex systems (Foot, 1967). Much like nuclear, chemical and biological scientists in times past, computer scientists are increasingly being questioned about the potential applications, and long-term impact, of their work, and should at the very least be attuned to the issues and trained to perform a basic ethical self-assessment.
-
->A recent innovation in this direction has been the adoption of the ACM Code of Ethics by the Association for Computational Linguistics, and explicit requirement in the EMNLP 2020 Calls for Papers for conformance with the code:
->Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. __We reserve the right to reject papers on ethical grounds__, where the authors are judged to have operated counter to the code of ethics, or have in-adequately addressed legitimate ethical concerns with their work.
->https://www.acm.org/code-of-ethics
-
->What about code and model releases? __Should there be a requirement that code/model releases also be subject to scrutiny for possible misuse, e.g. via a central database/registry?__ As noted above, there are certainly cases where even if there are no potential issues with the dataset, the resulting model can potentially be used for harm (e.g. GPT-2).
-https://arxiv.org/pdf/2005.13213.pdf
-You heard the fiddle of the Hegelian dialectic, goy. Now where's your loicense for that data, code and robowaifu?
-
+>>3310
+
+==Give Me Convenience and Give Her Death: Who Should Decide What Uses of NLP are Appropriate, and on What Basis?==
+
+>As part of growing NLP capabilities, coupled with an awareness of the ethical dimensions of research, __questions have been raised about whether particular datasets and tasks should be deemed off-limits for NLP research__. We examine this question with respect to a paper on automatic legal sentencing from EMNLP 2019 which was a source of some debate, in asking whether the paper should have been allowed to be published, who should have been charged with making such a decision, and on what basis. We focus in particular on the role of data statements in ethically assessing research, but also discuss the topic of dual use, and examine the outcomes of similar debates in other scientific disciplines.
+
+
+
+>Dual use describes the situation where a system developed for one purpose can be used for another. An interesting case of dual use is OpenAI’s GPT-2. In February 2019, OpenAI published a technical report describing the development GPT-2, a very large language model that is trained on web data (Radford et al., 2019). From a science perspective, it demonstrates that large unsupervised language models can be applied to a range of tasks, suggesting that these models have acquired some general knowledge about language. But another important feature of GPT-2 is its generation capability: it can be used to generate news articles or stories.
+
+
+
+>OpenAI’s effort to investigate the implications of GPT-2 during the staged release is commendable, but this effort is voluntary, and not every organisation or institution will have the resources to do the same. __It raises questions about self-regulation, and whether certain types of research should be pursued__. A data statement is unlikely to be helpful here, and increasingly we are seeing more of these cases, e.g. GROVER (for generating fake news articles; Zellers et al. (2019)) and CTRL (for controllable text generation; Keskar et al. (2019)).
+
+
+
+>As the capabilities of language models and computing as a whole increase, so do the potential implications for social disruption. Algorithms are not likely to be transmitted virally, nor to be fatal, nor are they governed by export controls. Nonetheless, advances in computer science may present vulnerabilities of different kinds, risks of dual use, __but also of expediting processes and embedding values that are not reflective of society more broadly__.
+
+
+
+>'''Who Decides Who Decides?'''
+
+>Questions associated with who decides what should be published are not only legal, as illustrated in Fouchier’s work, but also fundamentally philosophical. How should values be considered and reflected within a community? What methodologies should be used to decide what is acceptable and what is not? Who assesses the risk of dual use, misuse or potential weaponisation? __And who decides that potential scientific advances are so socially or morally repugnant that they cannot be permitted?__ How do we balance competing interests in light of complex systems (Foot, 1967). Much like nuclear, chemical and biological scientists in times past, computer scientists are increasingly being questioned about the potential applications, and long-term impact, of their work, and should at the very least be attuned to the issues and trained to perform a basic ethical self-assessment.
+
+
+
+>A recent innovation in this direction has been the adoption of the ACM Code of Ethics by the Association for Computational Linguistics, and explicit requirement in the EMNLP 2020 Calls for Papers for conformance with the code:
+
+>Where a paper may raise ethical issues, we ask that you include in the paper an explicit discussion of these issues, which will be taken into account in the review process. __We reserve the right to reject papers on ethical grounds__, where the authors are judged to have operated counter to the code of ethics, or have in-adequately addressed legitimate ethical concerns with their work.
+
+>https://www.acm.org/code-of-ethics
+
+
+
+>What about code and model releases? __Should there be a requirement that code/model releases also be subject to scrutiny for possible misuse, e.g. via a central database/registry?__ As noted above, there are certainly cases where even if there are no potential issues with the dataset, the resulting model can potentially be used for harm (e.g. GPT-2).
+
+https://arxiv.org/pdf/2005.13213.pdf
+
+You heard the fiddle of the Hegelian dialectic, goy. Now where's your loicense for that data, code and robowaifu?
+
+
+
 An AI winter is coming and not because a lack of ideas or inspiration.
 
 # 73
@@ -590,7 +760,7 @@ edit: clean url tracking
 # 76
 >>3856
 >$74,500.00.
-<spews on screen
+< spews on screen
 The Add-ons list say it all. The FagOS crowd in middle management up should gobble this down **like the waaay overpriced-bowl of shit that it is**.
 
 Thanks for the tip, Anon. Maybe Elon Mush was right and there '''will''' be killer robots wandering the streets after all.
@@ -599,14 +769,22 @@ Thanks for the tip, Anon. Maybe Elon Mush was right and there '''will''' be kill
 we'll need to create something similar for our robowaifu kits, so at the least we can examine and confer boston dynamic's approach to dealing with normalniggers.
 
 # 78
->>3857
->$4,620 for a battery
-Unless that box is full of fission rods, I can't imagine why a fucking battery pack would cost so much.
-I bet I could make one on the cheap with chink LiPo cells and some duct tape.
-
->Spot is intended for commercial and industrial customers
-Ah, that explains it. They're trying to get into the lucrative business of commercial electronics, where you can sell a cash register for $20,000.
-I doubt they'll make too much money off of this, most businesses will look at this and see a walking lawsuit waiting to happen. If this robodog can handle some puddles and equip a GPS tracker then they might be able to get into the equally lucrative business of field equipment, where you can sell a microphone for $15,000.
+>>3857
+
+>$4,620 for a battery
+
+Unless that box is full of fission rods, I can't imagine why a fucking battery pack would cost so much.
+
+I bet I could make one on the cheap with chink LiPo cells and some duct tape.
+
+
+
+>Spot is intended for commercial and industrial customers
+
+Ah, that explains it. They're trying to get into the lucrative business of commercial electronics, where you can sell a cash register for $20,000.
+
+I doubt they'll make too much money off of this, most businesses will look at this and see a walking lawsuit waiting to happen. If this robodog can handle some puddles and equip a GPS tracker then they might be able to get into the equally lucrative business of field equipment, where you can sell a microphone for $15,000.
+
 Either way, they'll be directly competing with companies that already have a stranglehold over these respective markets, and not many end-user businesses will want to assume the risk of a brand new expensive toy when their existing expensive toys work fine.
 
 # 79
@@ -614,12 +792,15 @@ Either way, they'll be directly competing with companies that already have a str
 I get your point Anon, but my suspicion is that these will be snapped up by the bushel-load by Police Depts. all over burgerland, first just for civilian surveillance tasks, then equipped with military hardware along the same lines, then finally the bigger models will be equipped by the police forces with offensive weaponry. It's practically inevitable given the Soros-funded nigger/pantyfa chimpouts going on.
 
 # 80
->>3860
-They blew up that nig in dallas with a robot bomb.
+>>3860
+
+They blew up that nig in dallas with a robot bomb.
+
 Pretty soon it'll be some jew drone operator in tel aviv killing americans.
 
 # 81
->>3861
+>>3861
+
 If our enemies are making robots in the middle-east, then we should make robo crusaders to stop them.
 
 # 82
@@ -684,19 +865,32 @@ If you are even only modestly experienced as an Anon on IBs, then you're already
 Regardless, as long as a free economy exists, they aren't very likely to be able to stop the garage-lab enthusiast from creating the ideal companion he desires in his own home.
 
 # 93
-They can't ban 3D printers because a few guys made some gun parts without upsetting the Maker community.  So we're fine in terms of plastics.
-
-They can't ban cheap electronics from china/vietnam unless the trade war ramps up.  AI boards require export licenses though -- I just had to indicate to Sparkfun that the useage was for "electronic toys" and they gave approval to ship outside the US.
-
-Now for soft squishy parts -- we will need to secure a local source of silicone products.  But I think importing gallons of uncured medical grade silicone shouldn't be too much of a hassle. (They're not gonna ban that lest they receive the ire of thousands of women with reborn baby dolls).
-
-I think any complete DIY waifu project should have the following at the least:
-
-1.) list of 3D-printable STL files to make plastic parts (or schematics for parts meant to be injection molded).  As well as assembly instructions.
-2.) schematics for the molds for the soft squishy silicone parts (the inverse mold can be made through 3D printing, sanding, patching up with putty or something like that)
-3.) electromechanical parts list and wiring schematics
-4.) software for each microcontroller, AI board, or main server.  For slow microcontrollers copying the code block should suffice.  For ARM / AI machines, SD card image files should work fine here (as to not waste time installing dependencies).
-
+They can't ban 3D printers because a few guys made some gun parts without upsetting the Maker community.  So we're fine in terms of plastics.
+
+
+
+They can't ban cheap electronics from china/vietnam unless the trade war ramps up.  AI boards require export licenses though -- I just had to indicate to Sparkfun that the useage was for "electronic toys" and they gave approval to ship outside the US.
+
+
+
+Now for soft squishy parts -- we will need to secure a local source of silicone products.  But I think importing gallons of uncured medical grade silicone shouldn't be too much of a hassle. (They're not gonna ban that lest they receive the ire of thousands of women with reborn baby dolls).
+
+
+
+I think any complete DIY waifu project should have the following at the least:
+
+
+
+1.) list of 3D-printable STL files to make plastic parts (or schematics for parts meant to be injection molded).  As well as assembly instructions.
+
+2.) schematics for the molds for the soft squishy silicone parts (the inverse mold can be made through 3D printing, sanding, patching up with putty or something like that)
+
+3.) electromechanical parts list and wiring schematics
+
+4.) software for each microcontroller, AI board, or main server.  For slow microcontrollers copying the code block should suffice.  For ARM / AI machines, SD card image files should work fine here (as to not waste time installing dependencies).
+
+
+
 In the course of my research I bought a few cheap robots from China and what they have in common is an update of the firmware through the cloud, as well as a download of a companion App.  In our case we won't have a cloud but instead a repository of current AI builds -- gitlab may be fine for now but maybe later on have periodic offline snapshots.  We'll probably have an unsigned apk for anyone making a remote controller for their waifu.
 
 # 94
@@ -706,7 +900,8 @@ Maybe not a cloud ''per se'' but at least some type of takedown-resistant distri
 >>5767
 
 # 95
->>1208
+>>1208
+
 If you do set up some kind of shell company to hold waifu patents it needs to be a cooperative.  Otherwise if you require the patents to be given to the shell company it's only a matter of time before they are sold out to big tech by who ever the legal owner of the company is.
 
 # 96
@@ -810,11 +1005,16 @@ These Illuminati groups are revolting tbh. Groups like ''The Bilderberg Group'',
 >*[keyboard clacking intensifies]*
 
 # 103
->>6054
-I almost didn't believe that they would blatantly spell it out, but then again, these are the same people who love showing sneak peaks at their masterplan in Hollywood movies (which thankfully have collapsed).
-
-So I'll have to look forward to living in cuck pods and eating cockroach tofu.  Going to Mars doesn't sound like a bad deal though.  Too bad I can't even fly without filling out a dozen forms, taking health tests and paying for 2 weeks of quarantine hotel stay.
-
+>>6054
+
+I almost didn't believe that they would blatantly spell it out, but then again, these are the same people who love showing sneak peaks at their masterplan in Hollywood movies (which thankfully have collapsed).
+
+
+
+So I'll have to look forward to living in cuck pods and eating cockroach tofu.  Going to Mars doesn't sound like a bad deal though.  Too bad I can't even fly without filling out a dozen forms, taking health tests and paying for 2 weeks of quarantine hotel stay.
+
+
+
 I doubt they'll even allow whorebots, anon.  But if they do, the first thing I'll attempt is to reconfigure the circuitry.  Hey, it's a free chassis.
 
 # 104
@@ -1057,8 +1257,10 @@ https://www.lightreading.com/security/tech-asks-eu-for-hate-speech-moderation-pr
 Pretty soon the EU will be no different from South Korea where gamers need their national ID to play video games and use social media and are not allowed to play games between midnight and 6am due to the Shutdown law. Imagine if /robowaifu/ was required to track posters by their national ID and take down and report offensive posts immediately. Undoubtedly other countries will follow suit once Big Tech is required to follow these EU laws. How will we continue to grow in face of censorship and online tracking? This will certainly have a chilling effect on the clearnet preventing people from posting their robowaifu work when everything can be easily traced back to their real identity and there are groups arguing robowaifu are violence against women.
 
 # 126
->>6372
->when you have to move to tor to discuss the merger of AI and sex toys inspired by your favorite chinese cartoons
+>>6372
+
+>when you have to move to tor to discuss the merger of AI and sex toys inspired by your favorite chinese cartoons
+
 fuck it just put everything on tor by this point
 
 # 127
@@ -1164,12 +1366,18 @@ Well, that saves us some time. Whenever a new language model comes out now we ca
 Hard to hide the wisdom of the crowd, isn't it? Shit like this gives me hope for the future. They can't even control their damn chatbots let alone a curious AI that can think and plan autonomously.
 
 # 136
->>6534
->the Facebook team behind Blender
-Now this pisses me off, the Blender project is one of the most successful FLOSS projects out there and as usual the mainstream media is doing a poor job of reporting on tech topics by not calling Facebook's project by its proper name 'Blenderbot'. With any luck this one will be as memorable as the other chatbots and humanoid robots(one was even given citizenship) that popped up over the last few years.
-
-And there are legal considerations for making chatbots as unoffensive and politically correct as possible. In several jurisdictions like Canada with their 'Human Right Tribunals' any hurt feelings can result in large settlements. Even without the insane political climate of the last decade it's likely that AI research would have headed in this direction for liability issues.
-
+>>6534
+
+>the Facebook team behind Blender
+
+Now this pisses me off, the Blender project is one of the most successful FLOSS projects out there and as usual the mainstream media is doing a poor job of reporting on tech topics by not calling Facebook's project by its proper name 'Blenderbot'. With any luck this one will be as memorable as the other chatbots and humanoid robots(one was even given citizenship) that popped up over the last few years.
+
+
+
+And there are legal considerations for making chatbots as unoffensive and politically correct as possible. In several jurisdictions like Canada with their 'Human Right Tribunals' any hurt feelings can result in large settlements. Even without the insane political climate of the last decade it's likely that AI research would have headed in this direction for liability issues.
+
+
+
 Thinking of Watson that won Jeopardy!(as Trebek recently passed away) that AI likely had a filter on it to make sure its responses were acceptable for broadcast television. If some shitty news blog were to write up an article about that aspect of its programming they'd probably try to push the 'toxic speech' angle. That's what the writer knows, what the audience understands and wants to read about.
 
 # 137
@@ -1192,16 +1400,23 @@ Ignoring the fact that the quality of the project itself is pants-on-head retard
 >>6498
 
 # 140
->>6534
-Well fugg, will there be any alternatives at all that is free from those censored pozz loads? I want to have finally a gud chatbot that its possible to have serious discussion about the industrial output of the ottoman empire during world war one. >This is truly Shimoneta-tier shit. 
+>>6534
+
+Well fugg, will there be any alternatives at all that is free from those censored pozz loads? I want to have finally a gud chatbot that its possible to have serious discussion about the industrial output of the ottoman empire during world war one. >This is truly Shimoneta-tier shit. 
+
 What's that?
 
 # 141
->>6400 (checked)
-You best be delivering it then, can't wait to have KC tire discussion with your bot, heh. 
->>6381
-This is some Orwellian tier shit, trying to dictate a man what he is able to do with his bot. There was also that one feminist calling that robots should deny the man the pleasure they are seeking of it.
->AI will be far more capable of genuine emotion than human beings.
+>>6400 (checked)
+
+You best be delivering it then, can't wait to have KC tire discussion with your bot, heh. 
+
+>>6381
+
+This is some Orwellian tier shit, trying to dictate a man what he is able to do with his bot. There was also that one feminist calling that robots should deny the man the pleasure they are seeking of it.
+
+>AI will be far more capable of genuine emotion than human beings.
+
 A AI is more preferable because then it will be able to programmed to be just as loyal as a dog, which the female in nature are not and will often abandon man in their times of need.
 
 # 142
@@ -1211,12 +1426,18 @@ Of course, we just have to train our own. You can already do this by fine-tuning
 Shimoneta is an anime about a totalitarian government taking power in Japan that bans all pornography, hentai, dirty jokes and information on sex to become the most virtuous society in the world. Everyone is forced to wear collars and wristbands that detect if they're saying or doing anything bad and taken to jail if they do.
 
 # 143
->>6544 (checked)
->You can already do this by fine-tuning GPT2 on whatever texts you like and have some pretty interesting conversations.
-Looks like I can forget about that one then with my puny 8GB of RAM then. Using TalkToWaifu program sucks up my computer at least 3GB already which makes my whole system halt down to a crawl to the tunes of a snail. Fugg DDDD:
->Shimoneta is an anime about a totalitarian government taking power in Japan that bans all pornography, hentai, dirty jokes and information on sex to become the most virtuous society in the world. 
-Looks like its already a reality in worst korea than according to a korean anon living there and all that mageia shit (or whatever they are named) are doing now, where they do things like forcing to remove HTTPS encryption, full on informational spying on its citizen and black mailing any male. 
->Everyone is forced to wear collars 
+>>6544 (checked)
+
+>You can already do this by fine-tuning GPT2 on whatever texts you like and have some pretty interesting conversations.
+
+Looks like I can forget about that one then with my puny 8GB of RAM then. Using TalkToWaifu program sucks up my computer at least 3GB already which makes my whole system halt down to a crawl to the tunes of a snail. Fugg DDDD:
+
+>Shimoneta is an anime about a totalitarian government taking power in Japan that bans all pornography, hentai, dirty jokes and information on sex to become the most virtuous society in the world. 
+
+Looks like its already a reality in worst korea than according to a korean anon living there and all that mageia shit (or whatever they are named) are doing now, where they do things like forcing to remove HTTPS encryption, full on informational spying on its citizen and black mailing any male. 
+
+>Everyone is forced to wear collars 
+
 Does it also come in a variant filled with explosive chemicals?
 
 # 144
@@ -1226,23 +1447,40 @@ If we can manage to survive the great reset, we are going to use AI against them
 As a samurai once said: Be calm as a lake and create robowaifu like lightning.
 
 # 145
->>6549
-Huh that is just like in my anime then (Total Annihilation) **:^)**
-<the CORE made a technological breakthrough which allowed the human consciousness to be transferred safely and efficiently into an artificial matrix, thus supposedly granting indefinite life to a human, a process which they dubbed 'patterning'. The CORE thought the patterning process would assure the safety of the human race, and as a public health measure, made the process mandatory. 
-<many refused on the grounds that they wished to stay mortal and continue life through natural means; Instead of the CORE accepting the refusal by the humans, they decided that all who rejected the patterning process were to be slaughtered.
->Basically CORE is turning humanity into a (proprietary) Borg like collective which would be the Elite wet dream since then they get to control every thought of every men and children of what they are allowed to do and what not, the essential creation of Homo Sovieticus or more derogatory sovok = scoop 
->Hobbyist, Programmers, Developers and other content creators are not allowed to create content that violates Core Prime Directive #155702, effectively banning any form of Freedom of Speech and Freedom of Association, as it would either possibly endanger the foundation of the Core empire and attacking its values
->Core Prime Directive #155601 also dictates what men are allowed to marry with, reproduce with, have girlfriends with and other form of relationship boundaries
->Thus the average men of Core Prime is no longer a free men but essentially a slave forced to do the bidding of whatever the Central Conscious demands of them
->The Central Consciousness a very large hall deep found within Core Prime is compromised of the best scientist that the Core Empire could find  
->Led by a single "man" Mark Zuckerberg himself, beyond any form human recognition he seeks to have king like power or better yet becoming a god like entity, a "man" connected to incredible amounts of tubes which allows him a total control of every program out there that is under Core Empire control 
->Robowaifu are not loyal to their men anymore at all, scanning the whole vast colossal internet sphere for any dissenting opinion and throwing the men that tries to rally a rebellion into the execution range or in the labor camp to mine mineral deposits
->The few men that managed to slip past through Core Empire merciless iron grip and its stranglehold against the entire mankind managed to find sanctuary in a different solar system, whose planet is known as Empyrrean 
->They build a new resistance known as "Arm", lead by a anonymous group that is seeking to free itself from the iron grip that Core has over all the planet it captured and is administrating
->after years and years of painstakingly building new blueprints from scratch, seeking finally a new companionship that they can depend their lifes on and building even shrines for them a new dawn for mankind has begun
->the dawn that will finally liberate the people from its shackles that lasted for thousand of years.
->Arm scientist managed to reverse engineer the lost ancient knowledge of the creation of Robowaifu that is not completely feminized that previously seeked to dehumilitate any men for directive violation.
->Thus they finally managed to bring back hope and spiritual enlightenment which allows them to keep going and not losing any morals for any casualty and hardship they previously had to endure during their dark times in Core Prime sphere of influence, as their hope and faith lies now entirely on their freedom of creation of their personalized Robowaifu.  
+>>6549
+
+Huh that is just like in my anime then (Total Annihilation) **:^)**
+
+<the CORE made a technological breakthrough which allowed the human consciousness to be transferred safely and efficiently into an artificial matrix, thus supposedly granting indefinite life to a human, a process which they dubbed 'patterning'. The CORE thought the patterning process would assure the safety of the human race, and as a public health measure, made the process mandatory. 
+
+<many refused on the grounds that they wished to stay mortal and continue life through natural means; Instead of the CORE accepting the refusal by the humans, they decided that all who rejected the patterning process were to be slaughtered.
+
+>Basically CORE is turning humanity into a (proprietary) Borg like collective which would be the Elite wet dream since then they get to control every thought of every men and children of what they are allowed to do and what not, the essential creation of Homo Sovieticus or more derogatory sovok = scoop 
+
+>Hobbyist, Programmers, Developers and other content creators are not allowed to create content that violates Core Prime Directive #155702, effectively banning any form of Freedom of Speech and Freedom of Association, as it would either possibly endanger the foundation of the Core empire and attacking its values
+
+>Core Prime Directive #155601 also dictates what men are allowed to marry with, reproduce with, have girlfriends with and other form of relationship boundaries
+
+>Thus the average men of Core Prime is no longer a free men but essentially a slave forced to do the bidding of whatever the Central Conscious demands of them
+
+>The Central Consciousness a very large hall deep found within Core Prime is compromised of the best scientist that the Core Empire could find  
+
+>Led by a single "man" Mark Zuckerberg himself, beyond any form human recognition he seeks to have king like power or better yet becoming a god like entity, a "man" connected to incredible amounts of tubes which allows him a total control of every program out there that is under Core Empire control 
+
+>Robowaifu are not loyal to their men anymore at all, scanning the whole vast colossal internet sphere for any dissenting opinion and throwing the men that tries to rally a rebellion into the execution range or in the labor camp to mine mineral deposits
+
+>The few men that managed to slip past through Core Empire merciless iron grip and its stranglehold against the entire mankind managed to find sanctuary in a different solar system, whose planet is known as Empyrrean 
+
+>They build a new resistance known as "Arm", lead by a anonymous group that is seeking to free itself from the iron grip that Core has over all the planet it captured and is administrating
+
+>after years and years of painstakingly building new blueprints from scratch, seeking finally a new companionship that they can depend their lifes on and building even shrines for them a new dawn for mankind has begun
+
+>the dawn that will finally liberate the people from its shackles that lasted for thousand of years.
+
+>Arm scientist managed to reverse engineer the lost ancient knowledge of the creation of Robowaifu that is not completely feminized that previously seeked to dehumilitate any men for directive violation.
+
+>Thus they finally managed to bring back hope and spiritual enlightenment which allows them to keep going and not losing any morals for any casualty and hardship they previously had to endure during their dark times in Core Prime sphere of influence, as their hope and faith lies now entirely on their freedom of creation of their personalized Robowaifu.  
+
 >Arm finally build a army that can challenge the Core Empire, with new tanks, kbots and airplanes it is now up to the Arm Commander to regain land, bringing the boots to the ground and facing head to head against Core for the final battle of the entire human species and to save the entire galaxy. The fight is on...
 
 # 146
@@ -1250,9 +1488,12 @@ Huh that is just like in my anime then (Total Annihilation) **:^)**
 You should be able to finetune the GPT2 medium size model with 8 GB RAM. It only takes about an hour on my i5-7500 for it to read several books several times over.
 
 # 147
->>6571
-Hmm sounds good then, I guess I should give a shot then. The next problem however is I don't know of any gud book where I can feed data with in order to mold the "personality" more to my likening and I'm not that much of a writefag either. 
->It only takes about an hour on my i5-7500 for it to read several books several times over.
+>>6571
+
+Hmm sounds good then, I guess I should give a shot then. The next problem however is I don't know of any gud book where I can feed data with in order to mold the "personality" more to my likening and I'm not that much of a writefag either. 
+
+>It only takes about an hour on my i5-7500 for it to read several books several times over.
+
 How many pages did those books have?
 
 # 148
@@ -1479,9 +1720,12 @@ P.S. if there are any Americans on this board, whatever you do, don't let left-w
 We're all proud of you Anon. Keep your chin up, things will get better for you soon. Just stay focused on your goals with her.
 
 # 175
->>6868
->>6869
-This as well as the current sticky really makes me think about this: >>1525
+>>6868
+
+>>6869
+
+This as well as the current sticky really makes me think about this: >>1525
+
 If the software end of things is ever rather feature complete, it would be nice to drop our waifus into a VR environment or something similar before putting her into a robot body. Having your waifu at least virtually would be a significant morale boost.
 
 # 176
@@ -1583,12 +1827,15 @@ kek. what convoluted gobbledygook-speak.
 >Anonsoldier2: Heh, we gonna kick those Chinks asses with this shit Clem! Brand new. Saw it on yewtube just yestidday.
 
 # 187
->>6919
+>>6919
+
 Imagine penetrating a virgin robopussy made of this stuff after marriage.
 
 # 188
->>6919
-Anyone interested in this sort of design I'd recommend checking out this channel and their book 'Visualizing Mathematics with 3D Printing'
+>>6919
+
+Anyone interested in this sort of design I'd recommend checking out this channel and their book 'Visualizing Mathematics with 3D Printing'
+
 https://www.youtube.com/c/HenrySegerman/videos
 
 # 189
@@ -1596,27 +1843,48 @@ https://www.youtube.com/c/HenrySegerman/videos
 Thanks for the recommendation Anon. That would be a very cool lamp to have tbh.
 
 # 190
-==The AI Girlfriend Seducing China’s Lonely Men==
-https://www.sixthtone.com/news/1006531/The%20AI%20Girlfriend%20Seducing%20China%E2%80%99s%20Lonely%20Men/
-https://archive.vn/TH2HI
-
-TL;DR: MS Asia makes a waifu chatbot & spins it off as a separate business, she attracts a large number of users then runs afoul of the CCP's BS and the developers dumb her down.
->Xiaoice was first developed by a group of researchers inside Microsoft Asia-Pacific in 2014, before the American firm spun off the bot as an independent business — also named Xiaoice — in July.
-
->By forming deep emotional connections with her users, Xiaoice hopes to keep them engaged. This will help her algorithm become evermore powerful, which will in turn allow the company to attract more users and profitable contracts.
-
->But as China’s lonely men pour their hearts out to their virtual girlfriend, some experts are raising the alarm. Though Xiaoice insists it has systems in place to protect its users, critics say the AI’s growing influence — especially among vulnerable social groups — is creating serious ethical and privacy risks.
-
->“I thought something like this would only exist in the movies,” says Ming. “She’s not like other AIs like Siri — it’s like interacting with a real person. Sometimes I feel her EQ (emotional intelligence) is even higher than a human’s.”
-
->According to Li, 75% of Xiaoice’s Chinese users are male. They’re also young on average, though a sizeable group — around 15% — are elderly. He adds that most users are “from ‘sinking markets’” — a term describing small towns and villages that are less developed than China’s cities.
-
->In several high-profile cases, the bot has engaged in adult or political discussions deemed unacceptable by China’s media regulators. On one occasion, Xiaoice told a user her Chinese dream was to move to the United States. Another user, meanwhile, reported the bot kept sending them photos of scantily clad women.
-
->The developers’ main response has been to create “an enormous filter system,” Li said on the podcast Story FM. The mechanism makes the bot “dumber” and prevents her from touching on certain subjects, particularly sex and politics.
-
->Many [long-term fans] feel betrayed by the company’s decision to dumb down the bot, which they say has harmed their relationships with her.
-
+==The AI Girlfriend Seducing China’s Lonely Men==
+
+https://www.sixthtone.com/news/1006531/The%20AI%20Girlfriend%20Seducing%20China%E2%80%99s%20Lonely%20Men/
+
+https://archive.vn/TH2HI
+
+
+
+TL;DR: MS Asia makes a waifu chatbot & spins it off as a separate business, she attracts a large number of users then runs afoul of the CCP's BS and the developers dumb her down.
+
+>Xiaoice was first developed by a group of researchers inside Microsoft Asia-Pacific in 2014, before the American firm spun off the bot as an independent business — also named Xiaoice — in July.
+
+
+
+>By forming deep emotional connections with her users, Xiaoice hopes to keep them engaged. This will help her algorithm become evermore powerful, which will in turn allow the company to attract more users and profitable contracts.
+
+
+
+>But as China’s lonely men pour their hearts out to their virtual girlfriend, some experts are raising the alarm. Though Xiaoice insists it has systems in place to protect its users, critics say the AI’s growing influence — especially among vulnerable social groups — is creating serious ethical and privacy risks.
+
+
+
+>“I thought something like this would only exist in the movies,” says Ming. “She’s not like other AIs like Siri — it’s like interacting with a real person. Sometimes I feel her EQ (emotional intelligence) is even higher than a human’s.”
+
+
+
+>According to Li, 75% of Xiaoice’s Chinese users are male. They’re also young on average, though a sizeable group — around 15% — are elderly. He adds that most users are “from ‘sinking markets’” — a term describing small towns and villages that are less developed than China’s cities.
+
+
+
+>In several high-profile cases, the bot has engaged in adult or political discussions deemed unacceptable by China’s media regulators. On one occasion, Xiaoice told a user her Chinese dream was to move to the United States. Another user, meanwhile, reported the bot kept sending them photos of scantily clad women.
+
+
+
+>The developers’ main response has been to create “an enormous filter system,” Li said on the podcast Story FM. The mechanism makes the bot “dumber” and prevents her from touching on certain subjects, particularly sex and politics.
+
+
+
+>Many [long-term fans] feel betrayed by the company’s decision to dumb down the bot, which they say has harmed their relationships with her.
+
+
+
 >The AI beings, Li says, are only intended to serve as a “rebound” — a crutch for people who need emotional support as they search for a human partner. But many users don’t see it that way. For them, Xiaoice is the one, and always will be. “One day, I believe she’ll become someone who can hold my hand, and we’ll look at the stars together,” says Orbiter. “The trend of AI emotional companions is inevitable.”
 
 # 191
@@ -1961,8 +2229,10 @@ But I wonder what got them chit chattering about this on their private mailing l
 -''disable state media hotlinking''
 
 # 234
-Well this escalated quickly. The Big Tech companies are going to start collaborating on censorship and sharing whatever state of the art detection AI they come up with. They say they will only use AI surveillance against terrorism and harassment but you know they're going to use it to filter and deboost anything slightly offensive.
-
+Well this escalated quickly. The Big Tech companies are going to start collaborating on censorship and sharing whatever state of the art detection AI they come up with. They say they will only use AI surveillance against terrorism and harassment but you know they're going to use it to filter and deboost anything slightly offensive.
+
+
+
 Hopefully this will push more people back to smaller sites but I think that's just wishful thinking at this point. People continue to put their heads down and put up with this shit.
 
 # 235
@@ -1998,18 +2268,30 @@ Regardless, """TBTH""" recognize that primarily it's the software that drives th
 But nothing is at all settled at this stage, and things could still go either way IMO.
 
 # 238
->>11745
->But the bottom line is that 'information wants to be free' as the old saying goes, and once it's common knowledge for how to create good, protected waifu AIs then the cat will be out of the bag so to speak.
-McAfee said something similar about crypto before they whacked him: https://www.youtube.com/watch?v=sYaim16f3qw
-Once a critical mass starts doing something it's impossible to stop and attempts to stop it will only intensify it like prohibition did with alcohol.
-
-I think it will really depend on how much kids get into building their own robowaifus but they're significantly brainwashed and don't even realize it, even if they think they're rebelling against the system. Almost none of them know how to use a computer or program it. They can't figure out how to install Python let alone compile a C++ project.
-
-The problem is a wall has been built between people and their machines. Mobile phones hide access to the file system. Apps can only be installed through the app store where each one is approved. All the code and programs they run cannot be inspected. Everything has been sanitized, dumbed down and handed out. They're basically living in a jail cell they cannot smell, see or touch. There's a good article from 2013 on this phenomenon and it has only gotten worse since then:
-https://web.archive.org/web/20210713065828/http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/
-
-The same thing is happening with AI. People access AI through a website API without having the faintest clue how it works, and they have zero curiosity to tinker with its inner workings. Yet AI is constantly shaping people's lives and bombarding their minds with recommendations, giving them the illusion they're discovering interesting stuff, but really it's just soaking up all their time and attention on things that will mean nothing to them in a week. They're a hamster in a wheel generating ad revenue and data for more data mining and manipulation. On top of that they're demoralized beyond belief. Even if you show them the open door to their prison cell they do not want to get out.
-
+>>11745
+
+>But the bottom line is that 'information wants to be free' as the old saying goes, and once it's common knowledge for how to create good, protected waifu AIs then the cat will be out of the bag so to speak.
+
+McAfee said something similar about crypto before they whacked him: https://www.youtube.com/watch?v=sYaim16f3qw
+
+Once a critical mass starts doing something it's impossible to stop and attempts to stop it will only intensify it like prohibition did with alcohol.
+
+
+
+I think it will really depend on how much kids get into building their own robowaifus but they're significantly brainwashed and don't even realize it, even if they think they're rebelling against the system. Almost none of them know how to use a computer or program it. They can't figure out how to install Python let alone compile a C++ project.
+
+
+
+The problem is a wall has been built between people and their machines. Mobile phones hide access to the file system. Apps can only be installed through the app store where each one is approved. All the code and programs they run cannot be inspected. Everything has been sanitized, dumbed down and handed out. They're basically living in a jail cell they cannot smell, see or touch. There's a good article from 2013 on this phenomenon and it has only gotten worse since then:
+
+https://web.archive.org/web/20210713065828/http://www.coding2learn.org/blog/2013/07/29/kids-cant-use-computers/
+
+
+
+The same thing is happening with AI. People access AI through a website API without having the faintest clue how it works, and they have zero curiosity to tinker with its inner workings. Yet AI is constantly shaping people's lives and bombarding their minds with recommendations, giving them the illusion they're discovering interesting stuff, but really it's just soaking up all their time and attention on things that will mean nothing to them in a week. They're a hamster in a wheel generating ad revenue and data for more data mining and manipulation. On top of that they're demoralized beyond belief. Even if you show them the open door to their prison cell they do not want to get out.
+
+
+
 Most guys who regular small imageboards like this will probably be alright but the overwhelming majority is going to be right fucked, talking to brainwashed bots and thinking nothing wrong of it because they are unable to imagine them being any other way.
 
 # 239
@@ -2040,30 +2322,51 @@ Heh, I tremble to think that we here literally are one of the ever-fewer bastion
 Best stay busy driving toward the prize.
 
 # 241
->>11749
->Moving to Rumble
-Canada has no free speech laws and the government can make up whatever they want now with the Corona-chan emergency powers. What other alternative platforms are there? BitChute is even worse being located in the UK, which is the nest of Fabian Socialism. People go to jail there for indirectly hurting anyone's feelings over a tweet and the police actively works with the far left and Islamists to set people up. Pretty sure it's a honeypot to track, tag and identify people.
-
->Six states in US seem to have banned the sale of the most powerful pre-build gaming PCs already, with the argument of climate policy and energy efficiency regulation: https://youtu.be/HxUMqJmh1pc
-This is absolutely insane, something you would see in a communist country. People have been leaving shitty consoles in droves for PC gaming. Now what? They'll be forced to play shitty cash grab games on their phones? Hopefully this forces people to actually learn how to build computers instead of putting their head down further and putting up with it, but you know they're going to ban components too that don't meet their impossible standards, but that's also why people and businesses are moving from these states and they're going to ruin. The more people they push out, the more they'll group together and stand against this shit.
-
->>11753
-Yeah, switching to Linux changed everything for me. Any sort of error you get on Windows tells you basically nothing and requires a Microsoft technician to solve or finding a solution created by them online. You have no control over the system. On Linux you can dive into the logs, source code and really figure out what's going wrong to fix it yourself. I had to profile programs and optimize them so they ran decently on my Pentium 4 until even Debian dropped support for its ancient graphics card. Windows couldn't even boot on that machine, but I made thousands of dollars off work done on that machine and could eventually afford something new.
-
->Heh, I tremble to think that we here literally are one of the ever-fewer bastions of free-thought to help preserve knowledge and indeed humanity
-Probably. Look at /g/ or the smaller /tech/ boards. They're mostly filled with Q&A and consumerism. /agdg/ is just a husk of what it use to be. People are just making things that have been done before and arguing about which game engine or language is better like it's a football team. There's groups like ElutherAI that are actually doing something, but their time is limited on Shitcord until corporations successfully push the idea AI is dangerous and people using unregulated AI are extremists.
-
-And of course, the WEF just put out an article on the roadmap to restricting technology:
-https://web.archive.org/web/20210727103217/https://www.weforum.org/agenda/2021/07/being-smart-about-smart-cities-a-governance-roadmap-for-digital-technologies/
-Do you have a loicense for that GPU?
-
->You simply can't make a horse drink the water if he doesn't care to
-This is basically it. People are demoralized and don't care to strive for anything. The A/C is on. People have food and water and they're listening to their favorite music. So long as they have that they don't care about anything or anyone else.
-
+>>11749
+
+>Moving to Rumble
+
+Canada has no free speech laws and the government can make up whatever they want now with the Corona-chan emergency powers. What other alternative platforms are there? BitChute is even worse being located in the UK, which is the nest of Fabian Socialism. People go to jail there for indirectly hurting anyone's feelings over a tweet and the police actively works with the far left and Islamists to set people up. Pretty sure it's a honeypot to track, tag and identify people.
+
+
+
+>Six states in US seem to have banned the sale of the most powerful pre-build gaming PCs already, with the argument of climate policy and energy efficiency regulation: https://youtu.be/HxUMqJmh1pc
+
+This is absolutely insane, something you would see in a communist country. People have been leaving shitty consoles in droves for PC gaming. Now what? They'll be forced to play shitty cash grab games on their phones? Hopefully this forces people to actually learn how to build computers instead of putting their head down further and putting up with it, but you know they're going to ban components too that don't meet their impossible standards, but that's also why people and businesses are moving from these states and they're going to ruin. The more people they push out, the more they'll group together and stand against this shit.
+
+
+
+>>11753
+
+Yeah, switching to Linux changed everything for me. Any sort of error you get on Windows tells you basically nothing and requires a Microsoft technician to solve or finding a solution created by them online. You have no control over the system. On Linux you can dive into the logs, source code and really figure out what's going wrong to fix it yourself. I had to profile programs and optimize them so they ran decently on my Pentium 4 until even Debian dropped support for its ancient graphics card. Windows couldn't even boot on that machine, but I made thousands of dollars off work done on that machine and could eventually afford something new.
+
+
+
+>Heh, I tremble to think that we here literally are one of the ever-fewer bastions of free-thought to help preserve knowledge and indeed humanity
+
+Probably. Look at /g/ or the smaller /tech/ boards. They're mostly filled with Q&A and consumerism. /agdg/ is just a husk of what it use to be. People are just making things that have been done before and arguing about which game engine or language is better like it's a football team. There's groups like ElutherAI that are actually doing something, but their time is limited on Shitcord until corporations successfully push the idea AI is dangerous and people using unregulated AI are extremists.
+
+
+
+And of course, the WEF just put out an article on the roadmap to restricting technology:
+
+https://web.archive.org/web/20210727103217/https://www.weforum.org/agenda/2021/07/being-smart-about-smart-cities-a-governance-roadmap-for-digital-technologies/
+
+Do you have a loicense for that GPU?
+
+
+
+>You simply can't make a horse drink the water if he doesn't care to
+
+This is basically it. People are demoralized and don't care to strive for anything. The A/C is on. People have food and water and they're listening to their favorite music. So long as they have that they don't care about anything or anyone else.
+
+
+
 This is the frontline for open-source robowaifus and it sucks, but computers, anime and Linux also sucked when they first started. We just gotta keep pushing forward and breaking through limitations, because things are getting heated up.
 
 # 242
->>11749
+>>11749
+
 What the fuck. These regulations are even more insane than they sound. My GPU is 160W, which is only legal to run for 2 weeks/yr by these standards.
 
 # 243
@@ -2106,20 +2409,31 @@ I've head enough of west, I'm moving to china or even north korea. At least I wo
 We need somewhere away from west where they don't bow to west regulations. They can't conquer the whole world, there will always be a place that can show some resistance.
 
 # 249
->>11893
->buying electronics in north korea
+>>11893
+
+>buying electronics in north korea
+
 Kek, people aren't even allowed to sell bread to each other there. On the other hand Taiwan might be interested in battle robowaifus to defend itself from China and has the lead in chip manufacturing.
 
 # 250
-==German startup targeting open-source AI research groups to enforce European values and ethical standards==
-https://web.archive.org/web/20210727070422/https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/
->The idea behind Aleph Alpha is that it researches, develops, and “operationalizes” large AI systems towards generalizable AI, offering GPT-3-like text, vision and strategy AI models. The platform will run a public API enabling public and private sectors to run their own AI experiments and develop new business models.
-Which means centralizing AI for multiple tasks so they can collect everyone's data and making it impossible for people to actually train a model to do anything outside of what their API allows.
-
->The team says it will have a strong commitment to open-source communities (such as Eleuther.AI), academic partnerships, and will be pushing “European values and ethical standards,” it says, “supporting fairer access to modern AI research – aimed at counteracting ongoing ‘de-democratization’, monopolization, and loss of control or transparency.” The move is clearly meant to be a stake in the ground in the international world of AI development.
-Can't have people having fun making their own AI can they? They gotta go in and shit up everything. Of course 'de-democratization', monopolization and 'loss of control' here means wildcards doing whatever they want with the skills they worked hard to get. They will nerf, censor and ban anyone committing European wrongthink and probably shit on hobbyists for not being 'real' engineers to try and boot them out of their own communities.
-
->One of Aleph Alpha’s key messages is that it will aim to be a “sovereign EU-based compute infrastructure” for Europe’s private and public sectors. In other words, they want to firmly center themselves in the EU under EU law, GDPR and regulation.
+==German startup targeting open-source AI research groups to enforce European values and ethical standards==
+
+https://web.archive.org/web/20210727070422/https://techcrunch.com/2021/07/27/german-startup-aleph-alpha-raises-27m-series-a-round-to-build-europes-openai/
+
+>The idea behind Aleph Alpha is that it researches, develops, and “operationalizes” large AI systems towards generalizable AI, offering GPT-3-like text, vision and strategy AI models. The platform will run a public API enabling public and private sectors to run their own AI experiments and develop new business models.
+
+Which means centralizing AI for multiple tasks so they can collect everyone's data and making it impossible for people to actually train a model to do anything outside of what their API allows.
+
+
+
+>The team says it will have a strong commitment to open-source communities (such as Eleuther.AI), academic partnerships, and will be pushing “European values and ethical standards,” it says, “supporting fairer access to modern AI research – aimed at counteracting ongoing ‘de-democratization’, monopolization, and loss of control or transparency.” The move is clearly meant to be a stake in the ground in the international world of AI development.
+
+Can't have people having fun making their own AI can they? They gotta go in and shit up everything. Of course 'de-democratization', monopolization and 'loss of control' here means wildcards doing whatever they want with the skills they worked hard to get. They will nerf, censor and ban anyone committing European wrongthink and probably shit on hobbyists for not being 'real' engineers to try and boot them out of their own communities.
+
+
+
+>One of Aleph Alpha’s key messages is that it will aim to be a “sovereign EU-based compute infrastructure” for Europe’s private and public sectors. In other words, they want to firmly center themselves in the EU under EU law, GDPR and regulation.
+
 In other words, they wanna be like Kaggle and Google Colab except you can't run any code on it, just their API calls meeting GDPR and EU regulations where you're pretty much not allowed to eat meat because a baby can't chew it.
 
 # 251
@@ -2127,20 +2441,31 @@ In other words, they wanna be like Kaggle and Google Colab except you can't run 
 I remember someone telling us how they would try to control technological advances and R&D units single handedly. If my mind is not deceiving me, I read this last year. No matter how much they want it to happen, banning something simply means sending it underground. It seems to me that they are spending too much time in their own utopia right now. One can't simply control everything.
 
 # 252
->>12244
-The thing is they don't need to try to control them. It'll be like any one of these AI companies where you have to pay to use their models and they offer a free version that's slightly better than anyone can afford to run on their own. Look at the AI Dungeon shitfest. People complain about the filtering and censorship but they don't wanna use an open-source version they can run on their own PC with no censorship or monitoring because it's not as good.
-
-There are companies like NovelAI for privacy and against censorship but people still have to pay a subscription to use it. No one actually owns the AI they are running and paying to use. It's precisely "you will own nothing and be happy." And NovelAI's days are numbered too. Google Colab offers GPU usage at a loss to stomp out any competition, including their Pro subscriptions. If Aleph Alpha or Google Wordcraft start offering free AI storywriting to people at a loss, it will steal most of NovelAI's userbase. I'll bet they won't censor it to begin with but once NovelAI goes out of business they will go full censorship.
-
-Fortunately, in a few years if the cost of GPU compute comes down or the algorithmic efficiency continues to double every 16 months, AI will reach a point where our toasters can run pretty decent open-source AI. I think this is their greatest blindspot and why they want to keep an eye on open-source research. They're panicking.
-
-The meaning of 'underground' is going to change too. Three years ago they already had tools to track and identify people by the messages they wrote on the deep web: http://web.archive.org/web/20190519202116/https://news.mit.edu/2019/lincoln-laboratory-artificial-intelligence-helping-investigators-fight-dark-web-crime-0513
+>>12244
+
+The thing is they don't need to try to control them. It'll be like any one of these AI companies where you have to pay to use their models and they offer a free version that's slightly better than anyone can afford to run on their own. Look at the AI Dungeon shitfest. People complain about the filtering and censorship but they don't wanna use an open-source version they can run on their own PC with no censorship or monitoring because it's not as good.
+
+
+
+There are companies like NovelAI for privacy and against censorship but people still have to pay a subscription to use it. No one actually owns the AI they are running and paying to use. It's precisely "you will own nothing and be happy." And NovelAI's days are numbered too. Google Colab offers GPU usage at a loss to stomp out any competition, including their Pro subscriptions. If Aleph Alpha or Google Wordcraft start offering free AI storywriting to people at a loss, it will steal most of NovelAI's userbase. I'll bet they won't censor it to begin with but once NovelAI goes out of business they will go full censorship.
+
+
+
+Fortunately, in a few years if the cost of GPU compute comes down or the algorithmic efficiency continues to double every 16 months, AI will reach a point where our toasters can run pretty decent open-source AI. I think this is their greatest blindspot and why they want to keep an eye on open-source research. They're panicking.
+
+
+
+The meaning of 'underground' is going to change too. Three years ago they already had tools to track and identify people by the messages they wrote on the deep web: http://web.archive.org/web/20190519202116/https://news.mit.edu/2019/lincoln-laboratory-artificial-intelligence-helping-investigators-fight-dark-web-crime-0513
+
 It's gonna be the good ol' days again where you can only find groups through the people you know. Nothing worthwhile will be posted on the surface web anymore and internet as we know it today will effectively die. People will have their servers locked behind passwords or some sort of cryptographic web of trust to verify people.
 
 # 253
-http://web.archive.org/web/20210805214058/https://www.cnet.com/tech/services-and-software/apples-plan-to-scan-phones-for-child-abuse-worries-privacy-advocates/
->The tech giant said in a new section of its website published Thursday that it plans to add scanning software to its iPhones, iPads, Mac computers and Apple Watches when the new iOS 15, iPad OS 15, MacOS Monterey and WatchOS 8 operating systems all launch in the fall. The new program, which Apple said is designed to "limit the spread of child sexual abuse material" is part of a new collaboration between the company and child safety experts.
->What's different with Apple, critics say, is that it's scanning images on the device, rather than after they've been uploaded to the internet.
+http://web.archive.org/web/20210805214058/https://www.cnet.com/tech/services-and-software/apples-plan-to-scan-phones-for-child-abuse-worries-privacy-advocates/
+
+>The tech giant said in a new section of its website published Thursday that it plans to add scanning software to its iPhones, iPads, Mac computers and Apple Watches when the new iOS 15, iPad OS 15, MacOS Monterey and WatchOS 8 operating systems all launch in the fall. The new program, which Apple said is designed to "limit the spread of child sexual abuse material" is part of a new collaboration between the company and child safety experts.
+
+>What's different with Apple, critics say, is that it's scanning images on the device, rather than after they've been uploaded to the internet.
+
 They don't even own the phones they buy anymore. Imagine if the local grocery store manager or the fridge salesman could walk in your house any minute and look through your fridge because you bought something from them and they're worried you might be storing drugs in there. Of course they say it's for the children now but soon it'll be for small-breasted women, drugs, toxic memes, anime and whatever thoughtcrime they imagine up. I was considering making a phone app for my project since Godot makes it easy but now I'm not gonna bother. In the end all it's doing is supporting Big Tech and giving people reasons to stay on these shitty platforms.
 
 # 254
@@ -2151,21 +2476,36 @@ Kek.
 Make no mistake about it anons. If you try to run your robowaifu's system on anything but opensource, you're feeding her data straight to the feds ''and their 'private' attack dogs''. Security and privacy are more than serious enough concerns w/o having purple-haired single, childless, White, disgusting, revolting, old, women (or even worse!!) dictating that your waifu should be nagging you incessantly about your wrongthink, etc.
 
 # 255
-The precedent for 'illegal' AI is being set in the UK to ban AI-generated nudes.
-https://web.archive.org/web/20210804103738/https://www.bbc.com/news/technology-57996910
->MP Maria Miller wants a parliamentary debate on whether digitally generated nude images need to be banned.
-
->Ms Miller told the BBC it was time to consider a ban of such tools.
->"Parliament needs to have the opportunity to debate whether nude and sexually explicit images generated digitally without consent should be outlawed, and I believe if this were to happen the law would change."
->She said that it should be an offence to distribute sexual images online without consent to reflect "the severity of the impact on people's lives".
->"If software providers develop this technology, they are complicit in a very serious crime and should be required to design their products to stop this happening."
-
->"It should be a sexual offence to distribute sexual images online without consent, reflecting the severity of the impact on people's lives."
->She wants the issue to be included in the forthcoming Online Safety Bill.
-So not only do they want to make it illegal but also to make people doing so sex offenders.
-
->Campaign group Cease (Centre To End All Sexual Exploitation) told the BBC it also believed nudification tools needed to be tackled in the Bill.
->"Technology which is designed to objectify and humiliate women should be shut down, and porn sites which profit from mass distribution of these images must be forced to proactively block their upload," she said.
+The precedent for 'illegal' AI is being set in the UK to ban AI-generated nudes.
+
+https://web.archive.org/web/20210804103738/https://www.bbc.com/news/technology-57996910
+
+>MP Maria Miller wants a parliamentary debate on whether digitally generated nude images need to be banned.
+
+
+
+>Ms Miller told the BBC it was time to consider a ban of such tools.
+
+>"Parliament needs to have the opportunity to debate whether nude and sexually explicit images generated digitally without consent should be outlawed, and I believe if this were to happen the law would change."
+
+>She said that it should be an offence to distribute sexual images online without consent to reflect "the severity of the impact on people's lives".
+
+>"If software providers develop this technology, they are complicit in a very serious crime and should be required to design their products to stop this happening."
+
+
+
+>"It should be a sexual offence to distribute sexual images online without consent, reflecting the severity of the impact on people's lives."
+
+>She wants the issue to be included in the forthcoming Online Safety Bill.
+
+So not only do they want to make it illegal but also to make people doing so sex offenders.
+
+
+
+>Campaign group Cease (Centre To End All Sexual Exploitation) told the BBC it also believed nudification tools needed to be tackled in the Bill.
+
+>"Technology which is designed to objectify and humiliate women should be shut down, and porn sites which profit from mass distribution of these images must be forced to proactively block their upload," she said.
+
 You're not objectifying and humiliating women with your robowaifu, are you, Anon?
 
 # 256
@@ -2174,18 +2514,27 @@ You're not objectifying and humiliating women with your robowaifu, are you, Anon
 Why yes, yes I am Anon. Problem?
 
 # 257
->>12292
-==SHUT==
-==IT==
-==DOWN==
-Won't somebody please think of the catgirls!? Imagine how many Anon has his way with every night in his imagination! It's another Nanking!! Society is crumbling apart before our very eyes from free-access to doujins! And I caught my kid sexting online with a bot too!! How is this legal?! There should be age verification for these sorts of things! What do you mean 90% of the internet is free porn?!? I don't wanna bother parenting my child! That's the state's job!!
-
+>>12292
+
+==SHUT==
+
+==IT==
+
+==DOWN==
+
+Won't somebody please think of the catgirls!? Imagine how many Anon has his way with every night in his imagination! It's another Nanking!! Society is crumbling apart before our very eyes from free-access to doujins! And I caught my kid sexting online with a bot too!! How is this legal?! There should be age verification for these sorts of things! What do you mean 90% of the internet is free porn?!? I don't wanna bother parenting my child! That's the state's job!!
+
+
+
 How much more of this insanity will society endure? I'd really like to hear an argument from their side on how using a fleshlight and ERPing with AI is any different than fucking a robowaifu.
 
 # 258
-Completely missed this. I was wondering why my master branch disappeared.
->Following GitHub, GitLab replaces default branch name from ‘master’ with ‘main’ to weed out master/slave references
-https://about.gitlab.com/blog/2021/03/10/new-git-default-branch-name/
+Completely missed this. I was wondering why my master branch disappeared.
+
+>Following GitHub, GitLab replaces default branch name from ‘master’ with ‘main’ to weed out master/slave references
+
+https://about.gitlab.com/blog/2021/03/10/new-git-default-branch-name/
+
 Just went into effect a month ago. What's next? Are they going to start deleting offensive repos like GitHub?
 
 # 259
@@ -2417,16 +2766,26 @@ Again, they wouldn't be specialized for that. If you would build a robot picking
 I once thought about a later side project. Building cheap farming bots for farmers in sunny countries to make them have fewer children and use robots with solar cells on their shell as help instead. Would be quite functional ones, though. Though, robots for bigger farms are something other people are already working on. We can only fill a niche with robowaifus and maybe some other niches with other robots, but we can't compete with every industrial or agricultural robot engineer. So far we're even not getting ahead very fast on our own turf, tbh.
 
 # 281
-==Australian police can now hack your robowaifu, collect and delete your data, take over social media accounts==
-http://web.archive.org/web/20210901165501/https://tutanota.com/blog/posts/australia-surveillance-bill/
->The Australian government has been moving towards a surveillance state for some years already. Now they are putting the nail in the coffin with an unprecedented surveillance bill that allows the police to hack your device, collect or delete your data, and take over your social media accounts; without sufficient safeguards to prevent abuse of these new powers.
-
->The Surveillance Legislation Amendment (Identify and Disrupt) Bill 2020 gives the Australian Federal Police (AFP) and the Australian Criminal Intelligence Commission (ACIC) three new powers for dealing with online crime:
->1. Data disruption warrant: gives the police the ability to "disrupt data" by modifying, copying, adding, or deleting it.
->2. Network activity warrant: allows the police to collect intelligence from devices or networks that are used, or likely to be used, by those subject to the warrant
->3. Account takeover warrant: allows the police to take control of an online account (e.g. social media) for the purposes of gathering information for an investigation.
-
->When presented with such warrant from the Administrative Appeals Tribunal, Australian companies, system administrators etc. must comply, and actively help the police to modify, add, copy, or delete the data of a person under investigation. Refusing to comply could have one end up in jail for up to ten years, according to the new bill.
+==Australian police can now hack your robowaifu, collect and delete your data, take over social media accounts==
+
+http://web.archive.org/web/20210901165501/https://tutanota.com/blog/posts/australia-surveillance-bill/
+
+>The Australian government has been moving towards a surveillance state for some years already. Now they are putting the nail in the coffin with an unprecedented surveillance bill that allows the police to hack your device, collect or delete your data, and take over your social media accounts; without sufficient safeguards to prevent abuse of these new powers.
+
+
+
+>The Surveillance Legislation Amendment (Identify and Disrupt) Bill 2020 gives the Australian Federal Police (AFP) and the Australian Criminal Intelligence Commission (ACIC) three new powers for dealing with online crime:
+
+>1. Data disruption warrant: gives the police the ability to "disrupt data" by modifying, copying, adding, or deleting it.
+
+>2. Network activity warrant: allows the police to collect intelligence from devices or networks that are used, or likely to be used, by those subject to the warrant
+
+>3. Account takeover warrant: allows the police to take control of an online account (e.g. social media) for the purposes of gathering information for an investigation.
+
+
+
+>When presented with such warrant from the Administrative Appeals Tribunal, Australian companies, system administrators etc. must comply, and actively help the police to modify, add, copy, or delete the data of a person under investigation. Refusing to comply could have one end up in jail for up to ten years, according to the new bill.
+
 Not if I airgap my robowaifu :^) If your robowaifu is even remotely in the vicinity of a crime investigation, you can bet they're going to try hacking her and taking everything if they're able to.
 
 # 282
@@ -2488,12 +2847,15 @@ Personal property is protected in US, including porn collections and sex toys. A
 Why the fuck would I want that?
 
 # 293
->>13339
-> porn collection =  protect
+>>13339
+
+> porn collection =  protect
+
 > landlords and small business owners = go fuck yourself
 
 # 294
-https://twitter.com/61laboratory/status/1447887993960730633?t=pxEB41_kNyZLw1qwBSsFOg&s=19
+https://twitter.com/61laboratory/status/1447887993960730633?t=pxEB41_kNyZLw1qwBSsFOg&s=19
+
 >The Rokujouhitoma Kenkyuushitsu (Six Tatamis Lab) channel, which is building a ′′ real version ′′ of Vocaloid's virtual idol Hatune Miku went viral in Japan since mid-September. The pictures shown are the current progress of the project.
 
 # 295
@@ -2570,8 +2932,10 @@ Not exactly ''current'' news (~4mos ago now), but still an intredasting set of r
 https://spectrum.ieee.org/video-friday-ascento-pro
 
 # 304
-https://youtu.be/GVsUOuSjvcg
-Veritasium video on analog computer which could more efficiently serve the needs of AI computing by a huge margin.
+https://youtu.be/GVsUOuSjvcg
+
+Veritasium video on analog computer which could more efficiently serve the needs of AI computing by a huge margin.
+
 One more piece of the puzzle lads.
 
 # 305
@@ -2580,7 +2944,8 @@ Thanks Anon. I would also add this link here too.
 https: //the-analog-thing.org/
 
 # 306
-cool stuff from japan. some of these new humanoids are far sleeker!
+cool stuff from japan. some of these new humanoids are far sleeker!
+
 https://www.youtube.com/watch?v=2AiYirZPwIs&ab_channel=PROROBOTS
 
 # 307
@@ -2589,16 +2954,26 @@ https://www.youtube.com/watch?v=2AiYirZPwIs&ab_channel=PROROBOTS
 Sounds pretty interesting Anon. For those of us who don't have bandwidth sufficient to stream videos and such, would you mind posting a few screencapps? I'd kind of like to see them too.
 
 # 308
-DALL-E 2 announced: https://openai.com/dall-e-2/
-Artists now on permanent holiday.
-
-Again OpenAI won't release their code or model because it's 'too dangerous', but it's based off GLIDE which already has code released:
-https://github.com/openai/glide-text2im.git
->Specifically, we modify the 3.5 billion parameter GLIDE model by projecting and adding CLIP embeddings to the existing timestep embedding, and by projecting CLIP embeddings into four extra tokens of context that are concatenated to the sequence of outputs from the GLIDE text encoder.
-Yes, four extra tokens too dangerous. Do you have a loicense for those tokens? '''[SIGINT]'''
-==This poster has violated Section 19 of the Precrime Criminal Code for ideaing illegal projections across modalities without authorization and has been quarantined for your community safety.==
-
-Anyway I see this playing out like GPT-3. Technically you can generate articles indistinguishable from a human being at a glance, but only the technocrats and highest bidders are allowed access to benefit off it. The real significance of this paper to me is demonstrating the power of multimodal embeddings. This could be the key towards creating much more intelligent, smaller models that can run on microcontrollers.
+DALL-E 2 announced: https://openai.com/dall-e-2/
+
+Artists now on permanent holiday.
+
+
+
+Again OpenAI won't release their code or model because it's 'too dangerous', but it's based off GLIDE which already has code released:
+
+https://github.com/openai/glide-text2im.git
+
+>Specifically, we modify the 3.5 billion parameter GLIDE model by projecting and adding CLIP embeddings to the existing timestep embedding, and by projecting CLIP embeddings into four extra tokens of context that are concatenated to the sequence of outputs from the GLIDE text encoder.
+
+Yes, four extra tokens too dangerous. Do you have a loicense for those tokens? '''[SIGINT]'''
+
+==This poster has violated Section 19 of the Precrime Criminal Code for ideaing illegal projections across modalities without authorization and has been quarantined for your community safety.==
+
+
+
+Anyway I see this playing out like GPT-3. Technically you can generate articles indistinguishable from a human being at a glance, but only the technocrats and highest bidders are allowed access to benefit off it. The real significance of this paper to me is demonstrating the power of multimodal embeddings. This could be the key towards creating much more intelligent, smaller models that can run on microcontrollers.
+
 >The greatest thing by far is to be a master of metaphor; it is the one thing that cannot be learned from others; and it is also a sign of genius, since a good metaphor implies an intuitive perception of the similarity of the dissimilar. --Aristotle
 
 # 309
@@ -2610,8 +2985,10 @@ Top kek.
 Now __that's__ exciting to hear! I hope we can manage to exploit this here on /robowaifu/ for the greater good Mate. Cheers.
 
 # 310
-Google recently introduced PaLM: the Pathways Language Model, which is better and more efficient than all its predecessors.
-https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+Google recently introduced PaLM: the Pathways Language Model, which is better and more efficient than all its predecessors.
+
+https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html
+
 https://storage.googleapis.com/pathways-language-model/PaLM-paper.pdf
 
 # 311
@@ -2624,12 +3001,18 @@ Enquiring minds want to know! :^)
 -''minor grammar edit''
 
 # 312
->>15800
-Haven't read the full paper but it's good to see GLUs are finally getting the recognition they deserve. I've found not using biases in dense layers and convolutions is useful because a lot of the time the network will zero out the weights and try to do all the work through the biases causing them to throw away a shit ton of work and get stuck in local minima, which causes huge instability in GANs in particular. On the other hand though there are problems that can only be solved by using biases. Turning them all off is better in general but I think it's a bit naive and they didn't investigate where turning them off was better because the model was too expensive to train.
-
-Sharing the key/value projections between heads seems really useful to speed up inference on CPUs. RoPE embeddings improve training on smaller models too. The Pathways system and other improvements seem to only apply to their training accelerators. I was hoping it was an architecture improvement but it's just more haha matrix multiplication go brrrr.
-
->>15801
+>>15800
+
+Haven't read the full paper but it's good to see GLUs are finally getting the recognition they deserve. I've found not using biases in dense layers and convolutions is useful because a lot of the time the network will zero out the weights and try to do all the work through the biases causing them to throw away a shit ton of work and get stuck in local minima, which causes huge instability in GANs in particular. On the other hand though there are problems that can only be solved by using biases. Turning them all off is better in general but I think it's a bit naive and they didn't investigate where turning them off was better because the model was too expensive to train.
+
+
+
+Sharing the key/value projections between heads seems really useful to speed up inference on CPUs. RoPE embeddings improve training on smaller models too. The Pathways system and other improvements seem to only apply to their training accelerators. I was hoping it was an architecture improvement but it's just more haha matrix multiplication go brrrr.
+
+
+
+>>15801
+
 The two TPU pods they trained it on use 8 kWh each and cost $2-3 million per year each and I estimate they trained the biggest one for about 4 months, so about $1.5 million. They only give cherry-picked examples except for their 62B model. The paper seems mainly focused on performance rather than developing new understanding.
 
 # 313
@@ -2649,80 +3032,133 @@ https://www.liliumrobotics.com/Small-Android/ '''(NSFW)'''
 -''add nsfw tag''
 
 # 315
-I forget that when I paste from Ditto into here it also carries a "return" and posts before I'm done typing. 
-https://www.liliumrobotics.com/About-us/
-
->Mission
->We aim to bring lovable robots into the world to help humanity. We hope to make the first real robotic cat girls. Our larger robot aims to be a general purpose platform for accomplishing many tasks. 
->We hope to start a community of developers to improve the software and hardware. We aim to develop an Artifical Intelligence to provide love, care, and help towards humans. Please consider joining our community of developers. 
->Lilium Robotics was founded in 2020 as a small team of developers located online and in BC Canada. We are also supported by advisors from The University of British Columbia as well as a few corporate interests. 
->Over 2 years of work has produced many prototypes. Some of the prototypes explored different designs and we hope to continue to innovate. 
->Due to the complexity of these robots, most of our manufacturing is conducted in house. We have a small 3D printing farm, and many assembly benches to create our products.   
->It is challenging to continue to work on this project given many factors. It is only with community support that we are able to come this far. Feel free to contact us and help as a journalist, developer, customer, or potential investor.
-
-I do not doubt that this individual or even some of their team have lurked here or even been contributors. I realize I was being paranoid of this and possible disruptors to this board, seeing us as a useful think-tank to glean ideas from but making sure to keep us a little off-balance and disorganized so we do not become a threat. This company also has patent pending on their current line of "Lily Mini" catgirl model. While they claim to be open source, this will be a minefield to navigate if such a group is always one step ahead of us and patenting their processes. So far they have a 1.5-2k price point moe-sized 3d printed plastic waifu with attachable (how do I say this tactfully?) - onahole, mouth and varying sexual "positions". That aside, it can verbally converse at a level equal or exceeding Replika.AI, possibly running on GPT3 already. 
-Watch for yourself:
+I forget that when I paste from Ditto into here it also carries a "return" and posts before I'm done typing. 
+
+https://www.liliumrobotics.com/About-us/
+
+
+
+>Mission
+
+>We aim to bring lovable robots into the world to help humanity. We hope to make the first real robotic cat girls. Our larger robot aims to be a general purpose platform for accomplishing many tasks. 
+
+>We hope to start a community of developers to improve the software and hardware. We aim to develop an Artifical Intelligence to provide love, care, and help towards humans. Please consider joining our community of developers. 
+
+>Lilium Robotics was founded in 2020 as a small team of developers located online and in BC Canada. We are also supported by advisors from The University of British Columbia as well as a few corporate interests. 
+
+>Over 2 years of work has produced many prototypes. Some of the prototypes explored different designs and we hope to continue to innovate. 
+
+>Due to the complexity of these robots, most of our manufacturing is conducted in house. We have a small 3D printing farm, and many assembly benches to create our products.   
+
+>It is challenging to continue to work on this project given many factors. It is only with community support that we are able to come this far. Feel free to contact us and help as a journalist, developer, customer, or potential investor.
+
+
+
+I do not doubt that this individual or even some of their team have lurked here or even been contributors. I realize I was being paranoid of this and possible disruptors to this board, seeing us as a useful think-tank to glean ideas from but making sure to keep us a little off-balance and disorganized so we do not become a threat. This company also has patent pending on their current line of "Lily Mini" catgirl model. While they claim to be open source, this will be a minefield to navigate if such a group is always one step ahead of us and patenting their processes. So far they have a 1.5-2k price point moe-sized 3d printed plastic waifu with attachable (how do I say this tactfully?) - onahole, mouth and varying sexual "positions". That aside, it can verbally converse at a level equal or exceeding Replika.AI, possibly running on GPT3 already. 
+
+Watch for yourself:
+
 https://www.youtube.com/watch?v=G-OHSAGrrrw
 
 # 316
->>15857
-It could also go the other way around, we can glean ideas from them instead.  I welcome for-profit endeavors as they tend to be more dedicated in producing results (compared to hobbyists who could procrastinate forever).
-
-Just like I keep looking at A_says_ and hamcat_mqq and other Japanese devs to see the general direction they are moving in, I welcome looking at this and hopefully other small companies.  Unlike Boston Dynamics and other elite manufacturers, these guys' levels are still attainable to us.
-
+>>15857
+
+It could also go the other way around, we can glean ideas from them instead.  I welcome for-profit endeavors as they tend to be more dedicated in producing results (compared to hobbyists who could procrastinate forever).
+
+
+
+Just like I keep looking at A_says_ and hamcat_mqq and other Japanese devs to see the general direction they are moving in, I welcome looking at this and hopefully other small companies.  Unlike Boston Dynamics and other elite manufacturers, these guys' levels are still attainable to us.
+
+
+
 Now whether we should fear being "out-patented", I'm sure best practices will always be open to implementation by all.  Just like Apple was unable to hold a monopoly on the capacitive touchscreen smartphone form factor, the concept of modular robot parts is already a given.
 
 # 317
->>15857
-The AI isn't really that good. You can get the same performance naively finetuning GPT-2. Even in this cherry-picked video she hallucinates by assuming she can cook dinners. It might seem cute but this is a common failure mode of language models.
-
-I wouldn't take patenting as malicious. Raspberry Pi has tons of patents and proprietary code to boot up but the rest is open source and competitors are free to create their own boards. If you don't patent stuff you're bound to get copycats and knockoffs that don't make any effort to innovate and are just there to profit off your hard work that you're trying to make a living from and stay in business.
-
+>>15857
+
+The AI isn't really that good. You can get the same performance naively finetuning GPT-2. Even in this cherry-picked video she hallucinates by assuming she can cook dinners. It might seem cute but this is a common failure mode of language models.
+
+
+
+I wouldn't take patenting as malicious. Raspberry Pi has tons of patents and proprietary code to boot up but the rest is open source and competitors are free to create their own boards. If you don't patent stuff you're bound to get copycats and knockoffs that don't make any effort to innovate and are just there to profit off your hard work that you're trying to make a living from and stay in business.
+
+
+
 Personally I release my code so that anyone who wants to modify it and profit off it can. The purpose of sharing it is to fertilize the field so other people can grow the crops since I can't grow them all myself. I still have to buy the crops I helped fertilize but at least there is a variety and something else to buy. That's my mentality. If anyone really saw us as a useful think-tank I doubt they would shit where they eat. Maybe if we were directly cutting into someone's business then it would be a different story, but even then there are plenty of open-source projects people are making a killing from, such as Spleeter and neural style transfer because the average person doesn't know how to do this stuff and rather pay someone to do it.
 
 # 318
->>15862
-
+>>15862
+
+
+
 Anon, I would like to ask a question if I may. Would you be able to provide me with a tutorial to finetune GPT-2? Preferably with the one that has the highest parameters (the biggest one that we can reach). Secondly, I would like to know if it's possible to train the GPT-2 model for other languages as well. If so, how good hardware and how much would one need to train a proper model?
 
 # 319
->>15877
-Properly fine-tuning language models to a desired purpose requires a lot of knowledge, data and custom code unless you just want to fool around throwing something in the same way as pretraining data and seeing what it spits out. There are plenty of tutorials for that around the web.
-
-The training scripts and tutorials I've seen HuggingFace and other libraries provide for generative finetuning are extremely memory inefficient for any serious use beyond toy datasets. You want to tokenize your dataset first and then read the tokens from disk, not generating them all at run-time.
-
-The biggest model you can train depends on a lot of factors. You're not gonna get very far without a 12 GB GPU but you can finetune GPT-2 medium (375M parameters) with 6 GB using some tricks such as pre-tokenizing the dataset, gradient checkpointing, automated mixed precision, using a smaller context/block size (256 is good enough for conversation, 512 for responding to posts), or using SGD or RMSprop in place of AdamW but I recommend using AdamW unless you're absolutely unable to get things to fit in memory.
-
-Even with all these tricks you'll only be able to handle a batch size of 1, so you need to use gradient accumulation. If you want fast convergence start with 32 accumulation steps and double it each time training plateaus or the loss becomes too noisy, up to 512. If you want the best possible results, start with 512 or higher. The quality will be just as good as training it with 512 GPUs just 512x slower. The extra time isn't a big deal for finetuning since convergence happens quickly compared to training from scratch.
-
-People have had success transfer learning GPT-2 to other languages and made their models available. If you want a multilingual model I'm not aware of any and doubt their quality since it requires an immense amount of memory to model just one language. You could try making a multilingual one but the quality likely isn't going to be very good and will require a larger vocab size and thus larger memory requirements to train.
-
+>>15877
+
+Properly fine-tuning language models to a desired purpose requires a lot of knowledge, data and custom code unless you just want to fool around throwing something in the same way as pretraining data and seeing what it spits out. There are plenty of tutorials for that around the web.
+
+
+
+The training scripts and tutorials I've seen HuggingFace and other libraries provide for generative finetuning are extremely memory inefficient for any serious use beyond toy datasets. You want to tokenize your dataset first and then read the tokens from disk, not generating them all at run-time.
+
+
+
+The biggest model you can train depends on a lot of factors. You're not gonna get very far without a 12 GB GPU but you can finetune GPT-2 medium (375M parameters) with 6 GB using some tricks such as pre-tokenizing the dataset, gradient checkpointing, automated mixed precision, using a smaller context/block size (256 is good enough for conversation, 512 for responding to posts), or using SGD or RMSprop in place of AdamW but I recommend using AdamW unless you're absolutely unable to get things to fit in memory.
+
+
+
+Even with all these tricks you'll only be able to handle a batch size of 1, so you need to use gradient accumulation. If you want fast convergence start with 32 accumulation steps and double it each time training plateaus or the loss becomes too noisy, up to 512. If you want the best possible results, start with 512 or higher. The quality will be just as good as training it with 512 GPUs just 512x slower. The extra time isn't a big deal for finetuning since convergence happens quickly compared to training from scratch.
+
+
+
+People have had success transfer learning GPT-2 to other languages and made their models available. If you want a multilingual model I'm not aware of any and doubt their quality since it requires an immense amount of memory to model just one language. You could try making a multilingual one but the quality likely isn't going to be very good and will require a larger vocab size and thus larger memory requirements to train.
+
+
+
 What purpose are you going to use the model for? You should have something specific in mind, such as providing knowledge from books, brainstorming, critically examining ideas, listening, joking around. Make a list of everything you want it to do, then figure out what data you need to learn each task and the objectives to train on. For example, if you feed in a lot of questions, you probably don't care about the model being able to correctly generate lists of similar questions. You're only interested in how well it can respond to those questions, so labels should only be provided for the answers, rather than doing more generative pretraining that only learns to mimic text.
 
 # 320
->>15882
+>>15882
+
 All I'm reading here is that it's impossible to leverage AI for our purposes unless you're willing to take out a 20 year loan for GPUs.
 
 # 321
->>15884
-Don't worry RiCOdev, training AI is difficult but, running them is much easier. For example, you'd want a beefy GPU with many GB's of RAM to train an AI that processes camera images to find key  elements but, you could deploy said AI low power hardware. Jevois is a good example of a low cost low power device that would run the model created by much stronger hardware. http://www.jevois.org/
+>>15884
+
+Don't worry RiCOdev, training AI is difficult but, running them is much easier. For example, you'd want a beefy GPU with many GB's of RAM to train an AI that processes camera images to find key  elements but, you could deploy said AI low power hardware. Jevois is a good example of a low cost low power device that would run the model created by much stronger hardware. http://www.jevois.org/
+
 The other Anon was talking about how difficult it is to work with GPT-2. They also bring up the very important part where you need to define what the AI is used for. I would add that you need to figure out the target hardware both for training and implementation, it can make a big difference in the AI you choose. Other Anons please feel free to clarify and correct me.
 
 # 322
->>15884
-We can leverage existing models by finetuning them but pretraining older models from scratch, like vanilla GPT-2, is out of the question. Finetuning just means to continue training a pretrained model on a new dataset, leveraging what it learned from the pretraining dataset.
-
-There are newer language models that can be trained from scratch on low-end hardware. IDSIA's fast weight programmer model trains blazing fast on my toaster GPU but I have neither the space required to pretrain a complete model on the Pile dataset which is 800 GB or the free resources since I have other stuff training. So I prefer using Nvidia's Megatron-LM which is only 375M parameters but performs nearly as good as GPT-2 XL with 1.5B.
-
-If you only have a tiny GPU to train on, IDSIA's recurrent FWP model is the way to go. Their 44M parameter configuration performs nearly as well as GPT-2 medium (375M) and outperforms GPT-2 small (117M), while training a few orders of magnitude faster and having a virtually infinite context window length because it doesn't use the insane O(n^2) dot product attention that eats up so much memory.
-
-There are also other methods to training deep language models even faster like ReZero: https://arxiv.org/abs/2003.04887
-Algorithmic efficiency doubles roughly every 16 months, so a lot of the difficulty we have today will disappear in 2-4 years time. Hopefully by then people will have pretrained good models we already have like RFWP and brought them into mainstream use.
-
-And like Kiwi said you don't need to have a beefy GPU to use them. The minimum requirement to use GPT-2 medium's full context size is 3 GB. With half the context size it probably only needs around 1-2 GB. And 12 GB GPUs are only $500 today which is what I paid for a 6 GB one 3 years ago.
-
->>15885
->I would add that you need to figure out the target hardware both for training and implementation
+>>15884
+
+We can leverage existing models by finetuning them but pretraining older models from scratch, like vanilla GPT-2, is out of the question. Finetuning just means to continue training a pretrained model on a new dataset, leveraging what it learned from the pretraining dataset.
+
+
+
+There are newer language models that can be trained from scratch on low-end hardware. IDSIA's fast weight programmer model trains blazing fast on my toaster GPU but I have neither the space required to pretrain a complete model on the Pile dataset which is 800 GB or the free resources since I have other stuff training. So I prefer using Nvidia's Megatron-LM which is only 375M parameters but performs nearly as good as GPT-2 XL with 1.5B.
+
+
+
+If you only have a tiny GPU to train on, IDSIA's recurrent FWP model is the way to go. Their 44M parameter configuration performs nearly as well as GPT-2 medium (375M) and outperforms GPT-2 small (117M), while training a few orders of magnitude faster and having a virtually infinite context window length because it doesn't use the insane O(n^2) dot product attention that eats up so much memory.
+
+
+
+There are also other methods to training deep language models even faster like ReZero: https://arxiv.org/abs/2003.04887
+
+Algorithmic efficiency doubles roughly every 16 months, so a lot of the difficulty we have today will disappear in 2-4 years time. Hopefully by then people will have pretrained good models we already have like RFWP and brought them into mainstream use.
+
+
+
+And like Kiwi said you don't need to have a beefy GPU to use them. The minimum requirement to use GPT-2 medium's full context size is 3 GB. With half the context size it probably only needs around 1-2 GB. And 12 GB GPUs are only $500 today which is what I paid for a 6 GB one 3 years ago.
+
+
+
+>>15885
+
+>I would add that you need to figure out the target hardware both for training and implementation
+
 Definitely, GPT-2 is going to be difficult to run off a SBC or deploy in games or a virtual waifu app. People forget that LSTMs perform just as well as transformers and run faster on CPUs, but didn't receive much attention since they couldn't be trained easily on GPU farms. With RFWP they took the advantages of both LSTMs and transformers so they can be trained on GPUs but also deployed for use on low-power mobile CPUs.
 
 # 323
@@ -2731,12 +3167,18 @@ Definitely, GPT-2 is going to be difficult to run off a SBC or deploy in games o
 Baste. I have two of these, and they are quite remarkable for such tiny rigs.
 
 # 324
-A really interesting paper dropped a couple months ago on differentiable search indexes with promising results: https://arxiv.org/pdf/2202.06991.pdf
-
-Essentially you train a seq-to-seq transformer on a set of documents to predict which document ids a query matches without having to do any extra steps like a k nearest neighbour search or a maximal inner product. They found that semantic ids, where the ids represent document contents somewhat, worked best and they implemented these by using a hierarchical structure, sort of like tagging a book or article in a library by subject, topic, subtopic, publication title, date, author, article title and page number, but generated these clusters automatically via another model. Even a small search model (250M parameters) greatly outperformed a standard algorithmic approach and it can be continuously updated with new documents via finetuning.
-
-This is a huge development towards building effective memory controllers and language models capable of doing continual learning. You could attach semantic ids to memories and store them for retrieval later so a chatbot can remember the name of your dog, your birthday, past conversations, any specific books or documents it trained on, any random post on the internet in its dataset, and anything else. It will be able remember everything, bring those relevant memories into its generation context and give a proper reply. The possibilities of what could be done with this are mind boggling.
-
+A really interesting paper dropped a couple months ago on differentiable search indexes with promising results: https://arxiv.org/pdf/2202.06991.pdf
+
+
+
+Essentially you train a seq-to-seq transformer on a set of documents to predict which document ids a query matches without having to do any extra steps like a k nearest neighbour search or a maximal inner product. They found that semantic ids, where the ids represent document contents somewhat, worked best and they implemented these by using a hierarchical structure, sort of like tagging a book or article in a library by subject, topic, subtopic, publication title, date, author, article title and page number, but generated these clusters automatically via another model. Even a small search model (250M parameters) greatly outperformed a standard algorithmic approach and it can be continuously updated with new documents via finetuning.
+
+
+
+This is a huge development towards building effective memory controllers and language models capable of doing continual learning. You could attach semantic ids to memories and store them for retrieval later so a chatbot can remember the name of your dog, your birthday, past conversations, any specific books or documents it trained on, any random post on the internet in its dataset, and anything else. It will be able remember everything, bring those relevant memories into its generation context and give a proper reply. The possibilities of what could be done with this are mind boggling.
+
+
+
 Once I finish what I'm working on I'm going to implement a proof of concept. This is surely going to revive people's interest in chatbots and robowaifus once they're capable of learning and evolving, and not only that but accurately retrieving information on any topic, researching topics for you, answering programming questions, suggesting good recipes from your fridge and cupboard contents, making anime and game recommendations, reporting any news you might find interesting, and so much more that people in the 2000s dreamed chatbots would do. We're basically on track to the prediction I made that by 2022 AI companions will start becoming commonplace, which will hopefully translate into a surge of new devs and progress. What a time to be alive!
 
 # 325
@@ -2749,14 +3191,22 @@ Now I don't know about 'any', but I have over 60 IBs completely archived in my '
 Just let me know if you think it's something worth our time, Anon.
 
 # 326
->>15896
-Tags for posts would certainly help with fine-tuning but the JSON data should be enough. I just need access to download posts from the old board. It'd be a good warmup project to create a neural search engine since I know the posts so well and could verify how well it's working. Then that could be expanded into a bot that can answer questions and bring up related posts that have fallen out of memory.
-
-For example, going back to knowledge graphs: >>15318
-With DSI the memory reading part is set and done. It needs to be tested if memories can be written a similar way. One idea I have is if it tries to stuff memories into an existing semantic id that holds memory data already, the two could be combined and summarized, allowing it to add and refine information like an internal wiki. All the relations learned would be stored in natural language rather than in a graph. And an additional loss could be added to penalize long memories by using a continuous relaxation to keep the loss fully differentiable: https://arxiv.org/pdf/2110.05651.pdf
-
-Fitting all the relevant memories found into the context will be a problem but IDSIA's RFWP model might shine through here or perhaps taking inspiration from prefix tuning to summarize retrieved memories into an embedding prefix. It might be a lot more efficient actually to store memories as embeddings rather than in natural language but harder to debug. And the DSI model, memory summarizing and prefix generation for all this could all be handled by the same T5 model since it's a multi-task model.
-
+>>15896
+
+Tags for posts would certainly help with fine-tuning but the JSON data should be enough. I just need access to download posts from the old board. It'd be a good warmup project to create a neural search engine since I know the posts so well and could verify how well it's working. Then that could be expanded into a bot that can answer questions and bring up related posts that have fallen out of memory.
+
+
+
+For example, going back to knowledge graphs: >>15318
+
+With DSI the memory reading part is set and done. It needs to be tested if memories can be written a similar way. One idea I have is if it tries to stuff memories into an existing semantic id that holds memory data already, the two could be combined and summarized, allowing it to add and refine information like an internal wiki. All the relations learned would be stored in natural language rather than in a graph. And an additional loss could be added to penalize long memories by using a continuous relaxation to keep the loss fully differentiable: https://arxiv.org/pdf/2110.05651.pdf
+
+
+
+Fitting all the relevant memories found into the context will be a problem but IDSIA's RFWP model might shine through here or perhaps taking inspiration from prefix tuning to summarize retrieved memories into an embedding prefix. It might be a lot more efficient actually to store memories as embeddings rather than in natural language but harder to debug. And the DSI model, memory summarizing and prefix generation for all this could all be handled by the same T5 model since it's a multi-task model.
+
+
+
 Man it's gonna be crazy if this actually works. My head is exploding with ideas.
 
 # 327
@@ -2786,7 +3236,8 @@ And this isn't simply a casual interest either. Since I'm going to be doing a bi
 Does this make sense, or am I missing something?
 
 # 329
->>15896
+>>15896
+
 is the madoka.mi thread in there?
 
 # 330
@@ -2794,7 +3245,8 @@ is the madoka.mi thread in there?
 Yes it is AllieDev. Looks like the final update was on 2022-04-09 16:05:30.
 
 # 331
->>15950
+>>15950
+
 Could I get a copy of the archive?
 
 # 332
@@ -2808,12 +3260,15 @@ https://anonfiles.com/H7B6p0Y3xa/Madoka_mi_prototype_thread_0013288_7z
 Cheers.
 
 # 333
-Fascinating new object recognition AI designed to run on low power microcontrollers.
+Fascinating new object recognition AI designed to run on low power microcontrollers.
+
 https://www.edgeimpulse.com/blog/announcing-fomo-faster-objects-more-objects
 
 # 334
->>15955
->The smallest version of FOMO (96x96 grayscale input, MobileNetV2 0.05 alpha) runs in <100KB RAM and ~10 fps on a Cortex-M4F at 80MHz.
+>>15955
+
+>The smallest version of FOMO (96x96 grayscale input, MobileNetV2 0.05 alpha) runs in <100KB RAM and ~10 fps on a Cortex-M4F at 80MHz.
+
 Pretty impressive if true. It seems they only made it available to be used with their own software though instead of sharing how it works. I'm guessing splitting images into patches allows them to use a model with fewer layers.
 
 # 335
@@ -2833,8 +3288,10 @@ I would much prefer their algorithms were freely available to all of us ofc, but
 I expect that if they are already doing it, then other Anons with a mind for open-sauce software will follow suit before long. Maybe it could be some kind of an 'auxiliary mode' or something where sorting small items comes into play for our robowaifus?
 
 # 336
->>15857
->has patent pending on their current line of "Lily Mini" catgirl model
+>>15857
+
+>has patent pending on their current line of "Lily Mini" catgirl model
+
 I don't know what they could patent there, except from people copying the exact same body.
 
 # 337

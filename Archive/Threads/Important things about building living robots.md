@@ -15,7 +15,8 @@ That implies incest would stop some anons.
 heh, fair enough. :^)
 
 # 4
->>21
+>>21
+
 This. True love goes beyond family borders.
 
 # 5
@@ -54,14 +55,23 @@ Pic related. Shit game, but selling these is a good idea.
 Sure. You just gotta make sure your consumers know your robots are to be raised with as much discipline as a child. Basically like those robot dogs, but they actually grow up. If you are truly successful, you might have robots buy their own kind. Or cause a revolution or something, but by the time that happens, I'm sure you'll find a way to compromise that.
 
 # 12
-Re: Psychological "incest"
-Reminds me of the Hindu story of creation in which Shatarupa is created by Brahma : "When Brahma created Shatarupa, he was immediately infatuated and pursued her wherever she went." but she declined his advances b/c "incest"
-While this is a valid concern, this really should only apply under the most specific of circumstances. Most likely it will be a non issue and I'll list why
-1. Cloned personality: Why would each R/W owner have to raise their AI from infancy and teach them the basics about navigating our reality? Unlike humans a robotic/AI mind can be copy/pasted infinitely. Just made one "basic" waifu template that has been raised to "robot adulthood " whether we can all agree *where* that is, it still exists *somewhere* voila problem solved, you've met your R/W
-after adulthood so no creepy or incest vibes going on
-2. It trains itself, but in a simulated environment living years or even decades in virtual "time" while only a few days pass in real time.
-3. Waifu farm: the manufacturer puts them into an accelerate learning program with a combination of virtual and real environments with slight tweaks to personality variables so that no two are the same and you choose which personality clicks with you .
-These are just 3 "AI maturation" processes that immediately come to mind. The idea that each of us would have to "raise" an infant consciousness to maturity is a lazy analog (and reeks of anthropomorphic bias) and it would probably be more work to make things happen that way specifically. 
-So while this is a good point to make, its nothing we should worry ourselves about. Remember AI only superficially resembles human consciousness it is modeled after. Its properties are an entirely different set.
+Re: Psychological "incest"
+
+Reminds me of the Hindu story of creation in which Shatarupa is created by Brahma : "When Brahma created Shatarupa, he was immediately infatuated and pursued her wherever she went." but she declined his advances b/c "incest"
+
+While this is a valid concern, this really should only apply under the most specific of circumstances. Most likely it will be a non issue and I'll list why
+
+1. Cloned personality: Why would each R/W owner have to raise their AI from infancy and teach them the basics about navigating our reality? Unlike humans a robotic/AI mind can be copy/pasted infinitely. Just made one "basic" waifu template that has been raised to "robot adulthood " whether we can all agree *where* that is, it still exists *somewhere* voila problem solved, you've met your R/W
+
+after adulthood so no creepy or incest vibes going on
+
+2. It trains itself, but in a simulated environment living years or even decades in virtual "time" while only a few days pass in real time.
+
+3. Waifu farm: the manufacturer puts them into an accelerate learning program with a combination of virtual and real environments with slight tweaks to personality variables so that no two are the same and you choose which personality clicks with you .
+
+These are just 3 "AI maturation" processes that immediately come to mind. The idea that each of us would have to "raise" an infant consciousness to maturity is a lazy analog (and reeks of anthropomorphic bias) and it would probably be more work to make things happen that way specifically. 
+
+So while this is a good point to make, its nothing we should worry ourselves about. Remember AI only superficially resembles human consciousness it is modeled after. Its properties are an entirely different set.
+
 [edited to remove reddit spacing and grammatical errors]
 

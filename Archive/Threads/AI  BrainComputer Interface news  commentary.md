@@ -70,15 +70,24 @@ https://www.invidio.us/watch?v=r-vbh3t7WVI&t=5394
 >>2549
 
 # 14
->What’s more, the DARPA program calls for the tech to be bidirectional; the implants must be able to not only record signals, but also to transmit computer-generated signals to the neurons. That feature would allow for neural prosthetics that provide blind people with visual information or deaf people with auditory info. 
-
-What's being described here is the key to full-dive virtual reality. With this you wouldn't even need waifubots. If it's able to tap directly into your senses the entire experience can be virtual. Everything then becomes a matter of software and digital content. 
-
-Then again you probably still need a physical robot if you want her to cook and clean for you, but even that's debatable. This technology should in principle be able to do Augmented Reality too. So you could have a roomba vacuuming your floor but AR makes it look like she's doing it. Or you might have an automated kitchen preparing your meals but make it look like she's cooking for you.
-
->>710
->>713
-
+>What’s more, the DARPA program calls for the tech to be bidirectional; the implants must be able to not only record signals, but also to transmit computer-generated signals to the neurons. That feature would allow for neural prosthetics that provide blind people with visual information or deaf people with auditory info. 
+
+
+
+What's being described here is the key to full-dive virtual reality. With this you wouldn't even need waifubots. If it's able to tap directly into your senses the entire experience can be virtual. Everything then becomes a matter of software and digital content. 
+
+
+
+Then again you probably still need a physical robot if you want her to cook and clean for you, but even that's debatable. This technology should in principle be able to do Augmented Reality too. So you could have a roomba vacuuming your floor but AR makes it look like she's doing it. Or you might have an automated kitchen preparing your meals but make it look like she's cooking for you.
+
+
+
+>>710
+
+>>713
+
+
+
 Parts of the human mind could go into making a waifu personality. Things like base level intelligence. But the personalities of waifus are largely artificial. Kuuderes, Tsunderes, nobody acts like that IRL? Their personalities would still have to be programmed or trained into an AI.
 
 # 15
@@ -89,9 +98,12 @@ The update seems to be suggesting they are moving towards modification on the hu
 https://www.youtube.com/watch?v=DVvmgjBL74w
 
 # 16
->>4329
-> you could have a roomba vacuuming your floor but AR makes it look like she's doing it. Or you might have an automated kitchen preparing your meals but make it look like she's cooking for you.
-
+>>4329
+
+> you could have a roomba vacuuming your floor but AR makes it look like she's doing it. Or you might have an automated kitchen preparing your meals but make it look like she's cooking for you.
+
+
+
 Very nice idea that! It would take a lot of the difficulty out of having to compress advanced robotics and electronics inside a small female frame! Just have robot arms and relatively bulky machines doing everything in reality while your beautiful AI girlfriend performs cooking and washing animations in VR!
 
 # 17
@@ -103,11 +115,13 @@ Sounds to me kind of like the Joi visual waifu in ''Blade Runner 2049''.
 Sounds to me like fantasizing what could be one day, because it's easier than trying to build stuff with what we have and can access right now. Why not watch some Isaac Arthur videos and speculate about future sky palaces on Venus, where we can life with our waifus and form a new civilization... I'm speaking out of experience: Dreaming is very nice, but getting things done is more important.
 
 # 19
->>5185
+>>5185
+
 I agree that practical advances are important. That's why I'm building one, after all. But just look at the quality of 3D animation nowadays. Holy fuckin' shit how far it's come! It's already better than reality if you ask me! For example, Aerith or Tifa from the recent FF7 remake? Combine a 3d animated model of this quality with even half-decent A.I. and that's waifu for laifu material right there!
 
 # 20
->>5199
+>>5199
+
 I guess what I'm thinking of would be a souped-up version of that PS4 VR game 'Summer Lesson', but maybe more Augmented Reality with IoT integrated so she appears to be cooking or cleaning when in fact it's the appliances running IRL and the animations are synced over the top of that. Sure, you'd still have to provide the correct ingredients for cooking in barcoded containers and go to pre-designated interaction points in your room/house but I think that would still be pretty awesome. Especially if you could take her outside with you on your mobile phone, too.
 
 # 21

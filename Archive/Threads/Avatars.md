@@ -1,6 +1,8 @@
 # 1
-Placing the CPU and data storage devices in the robowaifu will cause several problems.  These devices will cause extra heating, they will weigh a lot, they will drain a lot of power, and processing speed will be limited by the size of the robowaifu.  The robowaifu is already going to have a high power demand from the motors, servos, and sensors in the machine and battery technology is still pretty shit.
-   The most obvious solution is to have the robowaifu's brain separate from the body.  This would allow us to plug the brain into an outlet and drastically reduce the energy requirements of our waifus.  Another advantage that this has is that if our waifu's avatar is damaged or destroyed the waifu herself will still be alright and she could simply get a new body.
+Placing the CPU and data storage devices in the robowaifu will cause several problems.  These devices will cause extra heating, they will weigh a lot, they will drain a lot of power, and processing speed will be limited by the size of the robowaifu.  The robowaifu is already going to have a high power demand from the motors, servos, and sensors in the machine and battery technology is still pretty shit.
+
+   The most obvious solution is to have the robowaifu's brain separate from the body.  This would allow us to plug the brain into an outlet and drastically reduce the energy requirements of our waifus.  Another advantage that this has is that if our waifu's avatar is damaged or destroyed the waifu herself will still be alright and she could simply get a new body.
+
    There are definitely drawbacks to this approach though.  Our waifu's range would be limited by the strength of whatever was transmitting her data and there would be latency between the brain and body.  So what would be the best way to pull this off /robowaifu/?
 
 # 2

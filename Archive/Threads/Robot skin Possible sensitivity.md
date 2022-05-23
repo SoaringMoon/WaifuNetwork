@@ -53,10 +53,14 @@ pretty dang flexible, they're thin films.
 This. Or dot her skin with diffuse infrared sensors which can not only help her navigate, but also measure your body heat and pulse.
 
 # 11
->>675
-So, I've noticed that a lot of the Uncanny Valley thing mainly stems from how most sex dolls lack any kind of facial muscles. They're mainly just rubber or silicone wrapped around a skeleton. The guy that made the Shinobu Simulator, managed to work-out some of the uncanny valley to the models by implementing "muscle groups," to the face of the character. Now, since we're working with something physical rather than something digital, why not give a robot artificial muscles for facial expressions? It would look a lot nicer and probably smoother in its movements.
-
-Or, maybe if someone could recreate neurons, then you could hook up said neurons to both the skeleton and the muscles for a robot. Then you have them end inside the artificial skin. Make sure some of the ends are sensors with a feed-back to the computer and there you go. A Robot that can feel things. Bonus points if you can have internal heat that is generated to vent through the skin and muscles. The ONLY thing I would find hard to replicate would be those fake neurons. Unless, someone made a vat-grown clone-thing?
+>>675
+
+So, I've noticed that a lot of the Uncanny Valley thing mainly stems from how most sex dolls lack any kind of facial muscles. They're mainly just rubber or silicone wrapped around a skeleton. The guy that made the Shinobu Simulator, managed to work-out some of the uncanny valley to the models by implementing "muscle groups," to the face of the character. Now, since we're working with something physical rather than something digital, why not give a robot artificial muscles for facial expressions? It would look a lot nicer and probably smoother in its movements.
+
+
+
+Or, maybe if someone could recreate neurons, then you could hook up said neurons to both the skeleton and the muscles for a robot. Then you have them end inside the artificial skin. Make sure some of the ends are sensors with a feed-back to the computer and there you go. A Robot that can feel things. Bonus points if you can have internal heat that is generated to vent through the skin and muscles. The ONLY thing I would find hard to replicate would be those fake neurons. Unless, someone made a vat-grown clone-thing?
+
 **Sorry for the rant, its just my two cents on everything** **Yes, its all easier said than done**
 
 # 12
@@ -81,8 +85,10 @@ No apologies, thanks for the input anon. Yes, it's easier said than done, but ''
 sauce on the stretchy light thing?
 
 # 13
->>865
-
+>>865
+
+
+
 zmescience.com/research/technology/stretchable-artificial-skin-423/
 
 # 14
@@ -90,8 +96,10 @@ zmescience.com/research/technology/stretchable-artificial-skin-423/
 thanks mate, bookmarked.
 
 # 15
->tfw robowaifus will have full-haptic sensing vaginas with precision women don't even have
-https://www.youtube.com/watch?v=LWC3if29T-I
+>tfw robowaifus will have full-haptic sensing vaginas with precision women don't even have
+
+https://www.youtube.com/watch?v=LWC3if29T-I
+
 The future cannot come soon enough
 
 # 16
@@ -99,8 +107,10 @@ The future cannot come soon enough
 That's pretty exciting anon. Looks like robowaifu skin may eventually exceed even my hopes for it.
 
 # 17
-This is bit of a strange project but it has an interesting idea of using light to detect deformations in silicone gel skin to get tactile feedback.
-https://bair.berkeley.edu/blog/2020/05/14/omnitact/
+This is bit of a strange project but it has an interesting idea of using light to detect deformations in silicone gel skin to get tactile feedback.
+
+https://bair.berkeley.edu/blog/2020/05/14/omnitact/
+
 https://arxiv.org/pdf/2003.06965.pdf
 
 # 18
@@ -108,7 +118,8 @@ https://arxiv.org/pdf/2003.06965.pdf
 That is interesting Anon. At least ''one'' of my robowaifus I want to be able to glow-in-the-dark **'''NO NOT A CIANIGGER HAHA'''** and having glowy fingertips would be breddy cool tbh. What kind of hardward costs do you think we could get something like this down to?
 
 # 19
->>3649
+>>3649
+
 About $15 for two 640x480 cameras and the LEDs.
 
 # 20

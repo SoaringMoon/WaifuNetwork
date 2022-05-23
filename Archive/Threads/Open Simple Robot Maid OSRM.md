@@ -10,10 +10,14 @@ Cute! So I can't work out exactly how it moves. Are the two wheels going to be t
 She has a drive tail that  pushes her while her front servo "legs" steer her. I had problems getting small cheap motors to match their speeds without a microcontroller and encoders. This way is simpler and lower cost.
 
 # 4
->>11446
->>11449
-Very elegant design. I like how almost every part is either electronics or part of the structure. Of course the waifu decal holder too, nothing wasted XD
-
+>>11446
+
+>>11449
+
+Very elegant design. I like how almost every part is either electronics or part of the structure. Of course the waifu decal holder too, nothing wasted XD
+
+
+
 Also good idea with the rubber band tyres. I remember that wheels and grip were a pain when making small servo robots.
 
 # 5
@@ -168,7 +172,8 @@ Side note, is there any good place to upload non-final .obj and .stl files for o
 Mega.io seems to work for that. Sophie Anon uses it. I didn't sign up yet, for unrelated reasons (computer/ broser). I should do that as well.
 
 # 33
->>11989
+>>11989
+
 A lot of the Japanese robowaifu devs tend to make theirs about 1m tall or smaller. I don't have a 3D printer yet but I imagine it would be best to prototype the parts on a smaller scale first before printing full-size ones. Personally I want to make my robowaifu prototype as small as possible: 1) to avoid issues with Normans 2) to save money 3) it's just cute. @DancingDoll_rz has made some awesome robotic dolls with full-body motion: http://dancingdoll-rz.com/main.htm
 
 # 34
@@ -473,7 +478,8 @@ This is a good idea. I'd suggest you add a small & simple gearbox between the mo
 Please do share your design. I'm still actively developing the windlass design to optimize mass cost and manufactuability
 
 # 82
->>12549
+>>12549
+
 Get a Vroid Studio model, import it into Blender, and just get the head?  If you want the most anime head without the trouble of modeling from scratch.
 
 # 83
@@ -509,14 +515,22 @@ Have you tried a wider pyramid shape?
 Thanks for the suggestion. I'll try increasing her grounded surface area.
 
 # 89
->>13582
-
->Also, since you're having problems too, want to team up on OSRM? I already have a decent chest and pelvis. I've been stuck for months since and you seem to have good ideas.
-
-1: where are you stuck?
-
-2: is this like pic related?
-
+>>13582
+
+
+
+>Also, since you're having problems too, want to team up on OSRM? I already have a decent chest and pelvis. I've been stuck for months since and you seem to have good ideas.
+
+
+
+1: where are you stuck?
+
+
+
+2: is this like pic related?
+
+
+
 I guess we could start with a clear mission statement. What functions does it need to perform, what are the aesthetic and design limitations or standards?
 
 # 90
@@ -524,12 +538,18 @@ I guess we could start with a clear mission statement. What functions does it ne
 The biggest problem is the lack of a clear mission statement. I started out just wanting Iruru then wanting Senko San and modeling her chest and pelvis. I'm stuck on making the rest. Working on a mission statement together would help. I want her to be able to talk to me, follow me around, and snu snu. Her ideal design is basically Senko San
 
 # 91
-MeidoDev I want to help you, this will help me to focus on doing something rather than scattering my attention all over the place. Looks like a fun and reasonably feasible project. I'm assuming we're ok with wheels, and you want her/it to look like Senko San. 
-Must
-- talk, and I assume process what is said to it as well, understand basic commands, doesn't need to be intelligent, but "just work"
-- follows you, so it needs to have a way to distinguish you from say, another person, dog or roombah. Cheap method: gps tracker fob you carry. More difficult: Facial / sillhouette recognition
-- Ambulatory but wheels or treads are acceptable, seems simple, you mentioned balance was an issue, how about angled wheels and gyroscopic stabilization?
-- Snu Snu: well enough said, if you're going to get intimate with this Meidobot then it depends what level of interaction you want and how tall does she need to be? I mean I'm assuming you want more than a fleshlight on wheels.
+MeidoDev I want to help you, this will help me to focus on doing something rather than scattering my attention all over the place. Looks like a fun and reasonably feasible project. I'm assuming we're ok with wheels, and you want her/it to look like Senko San. 
+
+Must
+
+- talk, and I assume process what is said to it as well, understand basic commands, doesn't need to be intelligent, but "just work"
+
+- follows you, so it needs to have a way to distinguish you from say, another person, dog or roombah. Cheap method: gps tracker fob you carry. More difficult: Facial / sillhouette recognition
+
+- Ambulatory but wheels or treads are acceptable, seems simple, you mentioned balance was an issue, how about angled wheels and gyroscopic stabilization?
+
+- Snu Snu: well enough said, if you're going to get intimate with this Meidobot then it depends what level of interaction you want and how tall does she need to be? I mean I'm assuming you want more than a fleshlight on wheels.
+
 I'm downloading Fusion 360 and I'm going to teach myself how to use it. Initially though I can provide pencil/paper sketches, I have large sheets of graph paper for this so it will be a notch above just scribbles on notebook paper hopefully. I'll update you with progress ITT.
 
 # 92
@@ -546,9 +566,12 @@ Hm, it would be nice if she said things like "daisuke" and other cute and loving
 Notebook sketches will be appreciated. Wishing you luck with Fusion 360, I use Blender and Meshmixer. Sk8o and Ascento look like good designs we could learn from.
 
 # 93
->>13692
-well given that its a prototype I don't think anyone's gonna be breaking doors down for making a 4' tall robot on wheels lol
->I also want her to say "kon" at the end of sentences to emphasize her kitsune more
+>>13692
+
+well given that its a prototype I don't think anyone's gonna be breaking doors down for making a 4' tall robot on wheels lol
+
+>I also want her to say "kon" at the end of sentences to emphasize her kitsune more
+
 probably the easiest thing to do out of any of it. Good examples there, I like the idea of separating the wheels so they can climb. I think bigger is better for stability and traction. I'm picturing something like chunky Megaman/Roll feet but with a wheel "inside" partially but I'm going to play with that concept a bit and see if I can innovate something "outside of the box". I'll post some sketches.
 
 # 94
@@ -603,8 +626,10 @@ Simplified faves may be the way to go
 Those big dopey eyes are cute.
 
 # 105
->>13895
-Thanks!
+>>13895
+
+Thanks!
+
 Sorry for my recent absence. I'd like to continue work on this on the robowaifu.club until it can be determined what happened to the BO/Chobitsu or if this place is dead in the water.
 
 # 106

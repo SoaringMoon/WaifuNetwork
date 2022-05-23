@@ -28,14 +28,22 @@ Hey, robot enthusiasts,
 We're revamping the Infinity Cup over at https://anon.cafe/icup/ and we would really like it if you could come and join our matches, be it as a team or even just to have fun in chat! Come see us!
 
 # 3
->>3108
-
->> let's discuss ways to get more people involved. How can we grow this board?
-
-as a person who had been looking for a place like things for at least a few years now, its a relief to actually find a community that exists on furthering the accessibility and development of companion bots. 
-
-That being said, as an outsider I don't think a chan IB is the best place to recruit people to considering the HEAVY stigmas going around about places like this. As much as I like the idea of being anon, I feel like participants here will immediately get dragged down alongside the false flags happening especially considering the whole mini doll fiasco that was occurring circa early to mid 2019. 
-
+>>3108
+
+
+
+>> let's discuss ways to get more people involved. How can we grow this board?
+
+
+
+as a person who had been looking for a place like things for at least a few years now, its a relief to actually find a community that exists on furthering the accessibility and development of companion bots. 
+
+
+
+That being said, as an outsider I don't think a chan IB is the best place to recruit people to considering the HEAVY stigmas going around about places like this. As much as I like the idea of being anon, I feel like participants here will immediately get dragged down alongside the false flags happening especially considering the whole mini doll fiasco that was occurring circa early to mid 2019. 
+
+
+
 If anything I feel like a profile based forum like bunker would be better to gain support while avoiding any drama.
 
 # 4
@@ -51,11 +59,16 @@ But truth be told, we've been at this for over 3 years now, and it's actually be
 Regardless, we're glad you finally found your way here. This would be a good place to begin to discuss your own robowaifu dreams and plans, or you can look around our catalog for yourself and pick and appropriate thread, or just start your own.
 
 # 5
->>3115
-I'm not against it but I wouldn't personally participate in a forum right now. It's too easy for adversaries to quantify people's weaknesses and destroy a community. It might have been okay 6 years ago but not now. They know what they're doing and don't want AI tech in the hands of common people. I'm shocked Google is even bold enough now to blatantly hide scientific research and advancements in AI.
-
-Within 1-2 years though bots will become commonplace that we cannot easily tell from a human being besides their need to control others and a lack of personal creativity and industry. We may have no other choice but to switch to a forum then unless we can filter new posters attempting to subvert the board with our own AI. It's an ongoing struggle we will have to adapt and overcome.
-
+>>3115
+
+I'm not against it but I wouldn't personally participate in a forum right now. It's too easy for adversaries to quantify people's weaknesses and destroy a community. It might have been okay 6 years ago but not now. They know what they're doing and don't want AI tech in the hands of common people. I'm shocked Google is even bold enough now to blatantly hide scientific research and advancements in AI.
+
+
+
+Within 1-2 years though bots will become commonplace that we cannot easily tell from a human being besides their need to control others and a lack of personal creativity and industry. We may have no other choice but to switch to a forum then unless we can filter new posters attempting to subvert the board with our own AI. It's an ongoing struggle we will have to adapt and overcome.
+
+
+
 Trying to optimize how many people we can bring in now is like hoping for fruit without involving ourselves in the process of planting and taking care of a tree. If we create something worthwhile people will come with little effort. We won't have to sell it to them. Anyway they will come and enjoy the fruit of our work with us. On the other hand trying to win people over to do the work for us is how a commie thinks. If we focus our energy too much that way we will neither have the fruit nor a tree.
 
 # 6
@@ -213,28 +226,50 @@ Now I'm not.
 holler at you Sunday folks
 
 # 20
-So I'm a little short on time right now so I'll be skipping the theory, anyways let's at least get started: there are two libs you're going need in order to set up your meta-RL maxEnt machine-
-
-1) Erik Laukien's most excellently lightweight and fast sparse coder- 
-https://github.com/ogmacorp/OgmaNeo2
-(which btw is fast enough for realtime; TF and PyTorch in general are not)
-2) MI toolkit- 
-https://github.com/Craigacp/MIToolbox
-3) a quick and dirty test file- mountainCar
-which should be included in the files (or not- later), I honestly can't remember where I got this from, and uh license reqs and credits will have to come later I guess
-
-so go ahead and follow the install instructions, set up your cmake and start a new cpp, for MIToolbox you need to insert a 
-#define COMPILE_C before the includes
-
-includes-
-#include "Entropy.h"
-#include "ogmaneo/Hierarchy.h"
-#include "MountainCar.h"
-
-...alright so given that my project files were utterly gutted last week so that I could redesign everything to be more authentically neuro-scientific (complete with short term/long term/working memory) I will actually have to re-code the original project tonight or tomorrow night (protip: don't be me- use git).  
-
-I'll upload the project files at that point rather than sitting here typing all this shit out
-
+So I'm a little short on time right now so I'll be skipping the theory, anyways let's at least get started: there are two libs you're going need in order to set up your meta-RL maxEnt machine-
+
+
+
+1) Erik Laukien's most excellently lightweight and fast sparse coder- 
+
+https://github.com/ogmacorp/OgmaNeo2
+
+(which btw is fast enough for realtime; TF and PyTorch in general are not)
+
+2) MI toolkit- 
+
+https://github.com/Craigacp/MIToolbox
+
+3) a quick and dirty test file- mountainCar
+
+which should be included in the files (or not- later), I honestly can't remember where I got this from, and uh license reqs and credits will have to come later I guess
+
+
+
+so go ahead and follow the install instructions, set up your cmake and start a new cpp, for MIToolbox you need to insert a 
+
+#define COMPILE_C before the includes
+
+
+
+includes-
+
+#include "Entropy.h"
+
+#include "ogmaneo/Hierarchy.h"
+
+#include "MountainCar.h"
+
+
+
+...alright so given that my project files were utterly gutted last week so that I could redesign everything to be more authentically neuro-scientific (complete with short term/long term/working memory) I will actually have to re-code the original project tonight or tomorrow night (protip: don't be me- use git).  
+
+
+
+I'll upload the project files at that point rather than sitting here typing all this shit out
+
+
+
 sounds good? look forward to seeing if we can get a bot going with this set up- there are also python bindings
 
 # 21
@@ -242,13 +277,20 @@ sounds good? look forward to seeing if we can get a bot going with this set up- 
 Hey there Iggy, welcome back. Interesting looking project I'll take a look. It would indeed be nice to have a fast sparse system, so yea. How have things been with you mate?
 
 # 22
->>3933
-All over the place.  There's still too much negativity in my life and I'm sick of it.  There's this sort of general malaise and restlessness I need to shake but it's proving... difficult.
-
-It hasn't impacted research and development too much overall though so that's good.  There have been some major breakthroughs in that regard, just things I've come across or what not.  I have a pretty clear idea of where I think I should go with all this.  Future's looking up there.
-
-This current project is pretty awesome so far.  The reinforcement mechanism is, as far as I can tell, ubiquitous and universal to life.  It can play Atari at least!  I think anyone whose serious about robowaifus is going to be able to appreciate it
-
+>>3933
+
+All over the place.  There's still too much negativity in my life and I'm sick of it.  There's this sort of general malaise and restlessness I need to shake but it's proving... difficult.
+
+
+
+It hasn't impacted research and development too much overall though so that's good.  There have been some major breakthroughs in that regard, just things I've come across or what not.  I have a pretty clear idea of where I think I should go with all this.  Future's looking up there.
+
+
+
+This current project is pretty awesome so far.  The reinforcement mechanism is, as far as I can tell, ubiquitous and universal to life.  It can play Atari at least!  I think anyone whose serious about robowaifus is going to be able to appreciate it
+
+
+
 I think I came in at the wrong time though- it looks like robowaifu is getting its own imageboard or something? lol idk whatever.  Anything I missed?
 
 # 23
@@ -270,16 +312,26 @@ https://julay.world/.static/fallback.txt
 The board gets entirely archived regularly now, so there's that. We lost a little of the board from before, but most of it was saved. Now everything is.
 
 # 24
->>3937
-Ah okay I see now-  and hopefully the new image board software will really help facilitate development. That's really the only thing I'm hoping for at this point, well that and more members ^_^. 
-
-BTW I don't think I can quit AI at this point, it's been years and even if I stop I always go back, just like I keep coming back to humanoid robotics and I especially can't quit now that something AIXI-esque is coming within reach (aka quantum computing is going to give descriptional complexity the succ).  At most I'm thinking of branching out a little into synthetic biology in the future, really interesting to imagine the potential of biology as applied to material science and just the impossible scale and efficiency of biological computation which brings me to:
-very much agreed neuromorphic computing is going to make a big splash, oh hell yes: like the brain uses 20 watts and the visual cortex alone has a ~650GB/s bandwidth or something crazy like that, and then turn around and look at how even nvidia's top end cards with thousands of cuda cores chew up clock time and spit out utilities bills when training and deploying recurrent and adversarial models and that's why you end up with things like tensorRT.  
-
-My only wish for neuromorphic computing/AI is that it follows a very flexible and general programming model that allows sparse coding, deep learning, NLP, neuroscientific models etc to all run on the same chip... oh and if it's not some canned, proprietary bullshit that would be nice too (aka it needs to be "done right"- lookin at you IBM smh) 
-
-About making a repo: I was on the fence about posting anything to github but idk you can make repos private so that it's 'for robos only' or something, that works.  All of my code is pretty hacked together, mostly open source but also I don't seem to care where it's from as long as it works, so there's a slight chance of licensing/legal/ethical issues, for instance I don't even know what the license is for the 10 year old nvtt libs
-
+>>3937
+
+Ah okay I see now-  and hopefully the new image board software will really help facilitate development. That's really the only thing I'm hoping for at this point, well that and more members ^_^. 
+
+
+
+BTW I don't think I can quit AI at this point, it's been years and even if I stop I always go back, just like I keep coming back to humanoid robotics and I especially can't quit now that something AIXI-esque is coming within reach (aka quantum computing is going to give descriptional complexity the succ).  At most I'm thinking of branching out a little into synthetic biology in the future, really interesting to imagine the potential of biology as applied to material science and just the impossible scale and efficiency of biological computation which brings me to:
+
+very much agreed neuromorphic computing is going to make a big splash, oh hell yes: like the brain uses 20 watts and the visual cortex alone has a ~650GB/s bandwidth or something crazy like that, and then turn around and look at how even nvidia's top end cards with thousands of cuda cores chew up clock time and spit out utilities bills when training and deploying recurrent and adversarial models and that's why you end up with things like tensorRT.  
+
+
+
+My only wish for neuromorphic computing/AI is that it follows a very flexible and general programming model that allows sparse coding, deep learning, NLP, neuroscientific models etc to all run on the same chip... oh and if it's not some canned, proprietary bullshit that would be nice too (aka it needs to be "done right"- lookin at you IBM smh) 
+
+
+
+About making a repo: I was on the fence about posting anything to github but idk you can make repos private so that it's 'for robos only' or something, that works.  All of my code is pretty hacked together, mostly open source but also I don't seem to care where it's from as long as it works, so there's a slight chance of licensing/legal/ethical issues, for instance I don't even know what the license is for the 10 year old nvtt libs
+
+
+
 In any case the code has been ready since Sunday night, so if you want I can upload a zip with static libs + cmake file, assuming you use already have the requisite openMP and/or I can set up a private repo but that will take longer.  Any preferences?
 
 # 25
@@ -322,18 +374,30 @@ I think it'd be best not to include pre-compiled library blobs Iggy. everyone ca
 Alright, thanks I'll have a look at it. Have a good one, see you again soon I suppose.
 
 # 30
-See now we're talking right here
->>4047
-
-So I thought about it last night and actually the thing /robowaifu/ needs most is to make some paper.  That's the flag to rally around.  Everything that could fix this board stems from that, and the lack of obvious business opportunities with a good barrier to entry (too high for individuals, low enough for a distributed development team) is thus the sole preoccupation 
-
->>4050
-so if you installed the libraries the only thing to do is grab cmake lists and main.cpp and mountainCar.cpp/.h
-there's really not much to look at, I threw it together in like 45 minutes then added some comments and uploaded it
-
-here's an interesting facet: you can actually turn the learning off in the step(cs, ...) function and the network will actually still improve on novel tasks; this is more apparent in the ALE
-
-anyway I have a lot of work to do
+See now we're talking right here
+
+>>4047
+
+
+
+So I thought about it last night and actually the thing /robowaifu/ needs most is to make some paper.  That's the flag to rally around.  Everything that could fix this board stems from that, and the lack of obvious business opportunities with a good barrier to entry (too high for individuals, low enough for a distributed development team) is thus the sole preoccupation 
+
+
+
+>>4050
+
+so if you installed the libraries the only thing to do is grab cmake lists and main.cpp and mountainCar.cpp/.h
+
+there's really not much to look at, I threw it together in like 45 minutes then added some comments and uploaded it
+
+
+
+here's an interesting facet: you can actually turn the learning off in the step(cs, ...) function and the network will actually still improve on novel tasks; this is more apparent in the ALE
+
+
+
+anyway I have a lot of work to do
+
 catch y'all later
 
 # 31
@@ -354,18 +418,30 @@ So take up the mantle of 'Business Manager' or something for /robowaifu/ Iggy. T
 brb hell
 
 # 34
-Thank heavens I've finally found you guys again.  It's Fluffytail dev btw.
-
-It's been one thing after another, Kyoani burned, 8ch unplugged, losing my job, Corona-chan...
-
-For the past few months I've spent lockdown with family (boomer parents, gen-x sibling), as everyone works from home and being the most technically competent person I've practically been turned into an all-purpose secretary.
-
-I haven't been to my apartment downtown in months as all my neighbors were chinese and a hospital that's ground zero for local transmission is just a block away.  Unfortunately, my 3D printer and Jetson Nano are there.
-
-I really want to get back into practical progress but i have to find a small print run PCB manufacturer that doesn't ship from China.  Otherwise I just waste so much time soldering protoboards (my main beef with finishing my micromouse).  
-
-Going forward, I'll try to rely more on ready made I2C modules, and try to approach the problem from a less complexity perspective.
-
+Thank heavens I've finally found you guys again.  It's Fluffytail dev btw.
+
+
+
+It's been one thing after another, Kyoani burned, 8ch unplugged, losing my job, Corona-chan...
+
+
+
+For the past few months I've spent lockdown with family (boomer parents, gen-x sibling), as everyone works from home and being the most technically competent person I've practically been turned into an all-purpose secretary.
+
+
+
+I haven't been to my apartment downtown in months as all my neighbors were chinese and a hospital that's ground zero for local transmission is just a block away.  Unfortunately, my 3D printer and Jetson Nano are there.
+
+
+
+I really want to get back into practical progress but i have to find a small print run PCB manufacturer that doesn't ship from China.  Otherwise I just waste so much time soldering protoboards (my main beef with finishing my micromouse).  
+
+
+
+Going forward, I'll try to rely more on ready made I2C modules, and try to approach the problem from a less complexity perspective.
+
+
+
 Kibo-chan the moving doll is one that's leading the way in the right direction.  It uses expensive dynamixel servos though, it needs to go cheaper.
 
 # 35
@@ -392,13 +468,20 @@ https://www.invidio.us/watch?v=Z-0kPh4OttE
 This is a prime example of why I urged all /robowaifu/ anons to pick up the basics of animation (as in the study of the field). This is both endearing and inspiring, and that aspect is entirely due to the robowaifu's master having a good ability to translate emotional nuance into her through animation skills. The musical choice helps as well ofc.
 
 # 38
->>4179
->>4179
-
-Yeah Segawachobbies really took off because of his ability to infuse personality in the animations.  There are plenty of other more exquisitely constructed dancing dolls, but even access to the best mocap can elicit nothing more than an "eh".  The worst offender is of course Realdoll in going for most detailed body and least emotional animation (barely any at all).
-
-With Kibo-chan the spark ignited for me when I saw the initial prototype robot arm with Kizuna Ai's face tilting its head
-
+>>4179
+
+>>4179
+
+
+
+Yeah Segawachobbies really took off because of his ability to infuse personality in the animations.  There are plenty of other more exquisitely constructed dancing dolls, but even access to the best mocap can elicit nothing more than an "eh".  The worst offender is of course Realdoll in going for most detailed body and least emotional animation (barely any at all).
+
+
+
+With Kibo-chan the spark ignited for me when I saw the initial prototype robot arm with Kizuna Ai's face tilting its head
+
+
+
 It really makes me question my time spent trying to learn how robot segways balance when the more immediate future would be robo plant grills.
 
 # 39
@@ -457,7 +540,8 @@ https://files.catbox.moe/yzrvle.7z
 As always, if you have any issues building and running BUMP, just post ITT for help.
 
 # 47
->>4211
+>>4211
+
 Hello there Anon! You posted about this on my board earlier. I didn't know you came from here (I haven't lurked here for very long). Nice to "bump" into you
 
 # 48
@@ -465,7 +549,8 @@ Hello there Anon! You posted about this on my board earlier. I didn't know you c
 Yeah, I went ahead a followed your link from our embassy thread. /robowaifu/ is basically the 'home site' for ''BUMP'', since I developed it here to ensure we kept the board completely backed up to protect it. It's useful for other boards/sites as well ofc, such as any board on endchan and a number of other sites.
 
 # 49
->>4233
+>>4233
+
 Well it definitely helps to know that there's a whole community to vouch for the software. Like I said I've never compiled from source before but it's probably not that hard. I'll check it out later
 
 # 50
@@ -555,7 +640,8 @@ I do agree with you that having robowaifu.chan would be a great idea, but it's n
 Thanks again for stopping back by Anon, Cheers.
 
 # 56
->>4544
+>>4544
+
 I'll use the bunker. I don't have any problems with Robi.
 
 # 57
@@ -575,7 +661,8 @@ Scroll up only a few posting... or click here: >>4255
 Okay more here >>4211
 
 # 61
->>4557
+>>4557
+
 Hehe, apologies, there's a lot for a normalfag to follow ;)
 
 # 62
@@ -590,9 +677,12 @@ You can do it Anon, gambatte! :^)
 AMA ITT, to help. I use it to keep /robowaifu/ fully backed up locally ~ 4 times a day.
 
 # 63
->>4564
-Hehe, perhaps I chose the wrong word. I meant I sometimes struggle/can't be bothered to keep track with every post in a thread. Luckily most threads are only updated occasionally so I'm sure eventually I'll get a better idea of the content here.
-For someone relatively new to chans in general, it's interesting to see the difference between forums where anonymity is reduced.
+>>4564
+
+Hehe, perhaps I chose the wrong word. I meant I sometimes struggle/can't be bothered to keep track with every post in a thread. Luckily most threads are only updated occasionally so I'm sure eventually I'll get a better idea of the content here.
+
+For someone relatively new to chans in general, it's interesting to see the difference between forums where anonymity is reduced.
+
 Thanks Anon, I'll try your code once I get the dependencies compiled XD
 
 # 64
@@ -646,28 +736,48 @@ That's about it.
 ''-added the install step''
 
 # 70
->>4591
+>>4591
+
 Gotten round to try again. Compiled curl, now stuck on curlcpp. Running ```cpp
- cmake .. ```
+ cmake .. ```
+
 ```cpp
- I get this error:
--- The CXX compiler identification is GNU 8.3.0
--- Check for working CXX compiler: /usr/bin/c++
--- Check for working CXX compiler: /usr/bin/c++ -- works
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Detecting CXX compile features
--- Detecting CXX compile features - done
--- Setting build type to 'Release' as none was specified.
--- IPO / LTO supported, will enable for targets in release build type
--- Found CURL: /usr/local/lib/libcurl.so (found suitable version "7.72.0-DEV", minimum required is "7.28.0") 
-CMake Error: Could not open file for write in copy operation /usr/local/lib/curlcpp/curlcppConfig.cmake.tmp
-CMake Error: : System Error: No such file or directory
-CMake Error at CMakeLists.txt:40 (configure_file):
-  configure_file Problem configuring file
-
--- Configuring incomplete, errors occurred!
-```
+ I get this error:
+
+-- The CXX compiler identification is GNU 8.3.0
+
+-- Check for working CXX compiler: /usr/bin/c++
+
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+
+-- Detecting CXX compiler ABI info
+
+-- Detecting CXX compiler ABI info - done
+
+-- Detecting CXX compile features
+
+-- Detecting CXX compile features - done
+
+-- Setting build type to 'Release' as none was specified.
+
+-- IPO / LTO supported, will enable for targets in release build type
+
+-- Found CURL: /usr/local/lib/libcurl.so (found suitable version "7.72.0-DEV", minimum required is "7.28.0") 
+
+CMake Error: Could not open file for write in copy operation /usr/local/lib/curlcpp/curlcppConfig.cmake.tmp
+
+CMake Error: : System Error: No such file or directory
+
+CMake Error at CMakeLists.txt:40 (configure_file):
+
+  configure_file Problem configuring file
+
+
+
+-- Configuring incomplete, errors occurred!
+
+```
+
 Do I need to create this file manually? I don't want to run as root unless I absolutely need to.
 
 # 71
@@ -679,22 +789,37 @@ It seems like it could be a permissions issue:
 I'd check the permissions on /usr/local/lib/ to confirm your write access. You typically don't need su permissions during the cmake step, so that's a bit odd. What system are you on?
 
 # 72
->>4661
-Yeah I fixed the issue by creating that directory and giving myself the necessary permissions.
-
-Now I'm facing meson issue:
+>>4661
+
+Yeah I fixed the issue by creating that directory and giving myself the necessary permissions.
+
+
+
+Now I'm facing meson issue:
+
 ```cpp
-
-.../BUMP-0.2d$ ls
-build  Bump.cpp  Bump.h  bumpmain.cpp meson.build  muh_curl.h  version.log
-.../BUMP-0.2d$ cd build/
-.../BUMP-0.2d/build$ meson compile
- 
-ERROR: Neither directory contains a build file meson.build.
-../BUMP-0.2d/build$ ls
-build.ninja  compile  compile_commands.json  meson-logs  meson-private
-```
-Am I missing something else?
+
+
+.../BUMP-0.2d$ ls
+
+build  Bump.cpp  Bump.h  bumpmain.cpp meson.build  muh_curl.h  version.log
+
+.../BUMP-0.2d$ cd build/
+
+.../BUMP-0.2d/build$ meson compile
+
+ 
+
+ERROR: Neither directory contains a build file meson.build.
+
+../BUMP-0.2d/build$ ls
+
+build.ninja  compile  compile_commands.json  meson-logs  meson-private
+
+```
+
+Am I missing something else?
+
 I am using Debian 10
 
 # 73
@@ -715,9 +840,12 @@ which ninja
 You should see the above response. If not, then you should install it and try building BUMP again. I probably need to add it into the dependencies as well alongside meson.
 
 # 75
->>4664
-I get the same response as you do.
-
+>>4664
+
+I get the same response as you do.
+
+
+
 I'm using the packaged versions of ninja ( version 1.8.2) and meson (0.49.2) so they might be a little old. Do you think this is the case?
 
 # 76
@@ -740,28 +868,44 @@ Presuming that works, you can then use it by (for example):
 ./bump julay.world robowaifu```
 
 # 77
->>4667
-I'm guessing this is what caused the issue:
+>>4667
+
+I'm guessing this is what caused the issue:
+
 ```cpp
-
-In file included from Bump.cpp:27:
-muh_curl.h:15:10: fatal error: curl_easy.h: No such file or directory
- #include "curl_easy.h"
-          ^~~~~~~~~~~~~
-compilation terminated.
-```
+
+
+In file included from Bump.cpp:27:
+
+muh_curl.h:15:10: fatal error: curl_easy.h: No such file or directory
+
+ #include "curl_easy.h"
+
+          ^~~~~~~~~~~~~
+
+compilation terminated.
+
+```
+
 Is this header file part of normal curl?
 
 # 78
->>4667
->>4668
-Found those header files in curl's include dir.
-Was the name of the file always curl_easy.h, or was it renamed to easy.h? I tried editing
+>>4667
+
+>>4668
+
+Found those header files in curl's include dir.
+
+Was the name of the file always curl_easy.h, or was it renamed to easy.h? I tried editing
+
 ```cpp
- #include "curl_easy.h" ```
-to 
+ #include "curl_easy.h" ```
+
+to 
+
 ```cpp
- #include "easy.h" ```
+ #include "easy.h" ```
+
 but I'm guessing I still need to point the code to where this header file resides?
 
 # 79
@@ -779,12 +923,17 @@ here's where mine is at:
 /usr/local/include/curl_easy.h```
 
 # 80
->>4670
-Found it here:
+>>4670
+
+Found it here:
+
 ```cpp
- /usr/local/include/curlcpp/ ```
-So what do I need to change to point to this dir?
-
+ /usr/local/include/curlcpp/ ```
+
+So what do I need to change to point to this dir?
+
+
+
 I apologise for this convoluted issue, I think I'll be moving away from debian soon XD
 
 # 81
@@ -805,58 +954,105 @@ Also, remember to revert your edit of the code file back to curl_easy.
 #include "curl_easy.h"```
 
 # 82
->>4668
-Try
+>>4668
+
+Try
+
 ```cpp
-
-#include <curl_easy.h>
-```
+
+
+#include <curl_easy.h>
+
+```
+
 instead.
 
 # 83
->>4672
->>4673
-Other than the warnings you mentioned, I also get the following errors about cpp:
+>>4672
+
+>>4673
+
+Other than the warnings you mentioned, I also get the following errors about cpp:
+
 ```cpp
-
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `Page::grab_thrd_files()':
-Bump.cpp:(.text+0x2e82): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x2edf): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `Bump::init_arch_dirs[abi:cxx11]()':
-Bump.cpp:(.text+0x6c31): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x6ca0): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x6cf9): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: /tmp/ccbnt4Kv.o:Bump.cpp:(.text+0x6d49): more undefined references to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)' follow
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&, std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS1_6formatE[_ZNSt10filesystem7__cxx114pathC5EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS1_6formatE]+0x4f): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::operator/=(std::filesystem::__cxx11::path const&)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathdVERKS1_[_ZNSt10filesystem7__cxx114pathdVERKS1_]+0x3d): undefined reference to `std::filesystem::__cxx11::path::has_filename() const'
-/usr/bin/ld: Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathdVERKS1_[_ZNSt10filesystem7__cxx114pathdVERKS1_]+0x98): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::clear()':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114path5clearEv[_ZNSt10filesystem7__cxx114path5clearEv]+0x20): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::is_absolute() const':
-Bump.cpp:(.text._ZNKSt10filesystem7__cxx114path11is_absoluteEv[_ZNKSt10filesystem7__cxx114path11is_absoluteEv]+0x14): undefined reference to `std::filesystem::__cxx11::path::has_root_directory() const'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::exists(std::filesystem::__cxx11::path const&)':
-Bump.cpp:(.text._ZNSt10filesystem6existsERKNS_7__cxx114pathE[_ZNSt10filesystem6existsERKNS_7__cxx114pathE]+0x14): undefined reference to `std::filesystem::status(std::filesystem::__cxx11::path const&)'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::filesystem::__cxx11::path>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES1_EERKT_NS1_6formatE]+0x64): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [8], std::filesystem::__cxx11::path>(char const (&) [8], std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA8_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA8_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [6], std::filesystem::__cxx11::path>(char const (&) [6], std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA6_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA6_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [14], std::filesystem::__cxx11::path>(char const (&) [14], std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA14_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA14_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [16], std::filesystem::__cxx11::path>(char const (&) [16], std::filesystem::__cxx11::path::format)':
-Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA16_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA16_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/ccbnt4Kv.o:Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA2_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA2_cS1_EERKT_NS1_6formatE]+0x5e): more undefined references to `std::filesystem::__cxx11::path::_M_split_cmpts()' follow
-collect2: error: ld returned 1 exit status
-
- ```
-Am I missing the c++17 standard?
-
->I just hope you aren't let down by the tool after all this
-Well can't really blame the tool, though you do have quite a few dependencies XD
-And I'm not the kind of Anon to just give up (sometimes to the detriment of my sanity hehehe).
+
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `Page::grab_thrd_files()':
+
+Bump.cpp:(.text+0x2e82): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x2edf): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `Bump::init_arch_dirs[abi:cxx11]()':
+
+Bump.cpp:(.text+0x6c31): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x6ca0): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x6cf9): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o:Bump.cpp:(.text+0x6d49): more undefined references to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)' follow
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&, std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS1_6formatE[_ZNSt10filesystem7__cxx114pathC5EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEENS1_6formatE]+0x4f): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::operator/=(std::filesystem::__cxx11::path const&)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathdVERKS1_[_ZNSt10filesystem7__cxx114pathdVERKS1_]+0x3d): undefined reference to `std::filesystem::__cxx11::path::has_filename() const'
+
+/usr/bin/ld: Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathdVERKS1_[_ZNSt10filesystem7__cxx114pathdVERKS1_]+0x98): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::clear()':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114path5clearEv[_ZNSt10filesystem7__cxx114path5clearEv]+0x20): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::is_absolute() const':
+
+Bump.cpp:(.text._ZNKSt10filesystem7__cxx114path11is_absoluteEv[_ZNKSt10filesystem7__cxx114path11is_absoluteEv]+0x14): undefined reference to `std::filesystem::__cxx11::path::has_root_directory() const'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::exists(std::filesystem::__cxx11::path const&)':
+
+Bump.cpp:(.text._ZNSt10filesystem6existsERKNS_7__cxx114pathE[_ZNSt10filesystem6existsERKNS_7__cxx114pathE]+0x14): undefined reference to `std::filesystem::status(std::filesystem::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::filesystem::__cxx11::path>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES1_EERKT_NS1_6formatE]+0x64): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [8], std::filesystem::__cxx11::path>(char const (&) [8], std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA8_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA8_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [6], std::filesystem::__cxx11::path>(char const (&) [6], std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA6_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA6_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [14], std::filesystem::__cxx11::path>(char const (&) [14], std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA14_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA14_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o: in function `std::filesystem::__cxx11::path::path<char [16], std::filesystem::__cxx11::path>(char const (&) [16], std::filesystem::__cxx11::path::format)':
+
+Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA16_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA16_cS1_EERKT_NS1_6formatE]+0x5e): undefined reference to `std::filesystem::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/ccbnt4Kv.o:Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA2_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA2_cS1_EERKT_NS1_6formatE]+0x5e): more undefined references to `std::filesystem::__cxx11::path::_M_split_cmpts()' follow
+
+collect2: error: ld returned 1 exit status
+
+
+
+ ```
+
+Am I missing the c++17 standard?
+
+
+
+>I just hope you aren't let down by the tool after all this
+
+Well can't really blame the tool, though you do have quite a few dependencies XD
+
+And I'm not the kind of Anon to just give up (sometimes to the detriment of my sanity hehehe).
+
 Having a backup of this place is important enough to get your tool compiled ;)
 
 # 84
@@ -892,41 +1088,75 @@ namespace fs = std::experimental::filesystem;```
 And use the experimental namespace version instead. Seems to me that had changed that over by GCC v8, but maybe not ? One advantage of say, Arch, over Debian is that you stay on the cutting edge of software tools, etc. I'm on g++ v10.1
 
 # 86
->>4676
-Heh the best part is I have been using Arch for a while, and almost never experienced these sort of issues. Switched to debian on this machine for testing.
-
-There's another set of errors:
+>>4676
+
+Heh the best part is I have been using Arch for a while, and almost never experienced these sort of issues. Switched to debian on this machine for testing.
+
+
+
+There's another set of errors:
+
 ```cpp
-
-/usr/bin/ld: /tmp/cc7paChG.o: in function `Page::grab_thrd_files()':
-Bump.cpp:(.text+0x2e73): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x2ecb): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `Bump::init_arch_dirs[abi:cxx11]()':
-Bump.cpp:(.text+0x6c08): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x6c72): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: Bump.cpp:(.text+0x6cc6): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: /tmp/cc7paChG.o:Bump.cpp:(.text+0x6d11): more undefined references to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)' follow
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&)':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZNSt12experimental10filesystem2v17__cxx114pathC5EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0x4c): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::clear()':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114path5clearEv[_ZNSt12experimental10filesystem2v17__cxx114path5clearEv]+0x20): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::_M_append(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114path9_M_appendERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZNSt12experimental10filesystem2v17__cxx114path9_M_appendERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0xc0): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::exists(std::experimental::filesystem::v1::__cxx11::path const&)':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v16existsERKNS1_7__cxx114pathE[_ZNSt12experimental10filesystem2v16existsERKNS1_7__cxx114pathE]+0x14): undefined reference to `std::experimental::filesystem::v1::status(std::experimental::filesystem::v1::__cxx11::path const&)'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::experimental::filesystem::v1::__cxx11::path>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES3_EERKT_]+0x61): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [8], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [8])':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA8_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA8_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [6], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [6])':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA6_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA6_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [14], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [14])':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA14_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA14_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [16], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [16])':
-Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA16_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA16_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
-/usr/bin/ld: /tmp/cc7paChG.o:Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA2_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA2_cS3_EERKT_]+0x5b): more undefined references to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()' follow
-collect2: error: ld returned 1 exit status
-```
+
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `Page::grab_thrd_files()':
+
+Bump.cpp:(.text+0x2e73): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x2ecb): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `Bump::init_arch_dirs[abi:cxx11]()':
+
+Bump.cpp:(.text+0x6c08): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x6c72): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: Bump.cpp:(.text+0x6cc6): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/cc7paChG.o:Bump.cpp:(.text+0x6d11): more undefined references to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)' follow
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >&&)':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZNSt12experimental10filesystem2v17__cxx114pathC5EONSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0x4c): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::clear()':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114path5clearEv[_ZNSt12experimental10filesystem2v17__cxx114path5clearEv]+0x20): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::_M_append(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114path9_M_appendERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE[_ZNSt12experimental10filesystem2v17__cxx114path9_M_appendERKNSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE]+0xc0): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::exists(std::experimental::filesystem::v1::__cxx11::path const&)':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v16existsERKNS1_7__cxx114pathE[_ZNSt12experimental10filesystem2v16existsERKNS1_7__cxx114pathE]+0x14): undefined reference to `std::experimental::filesystem::v1::status(std::experimental::filesystem::v1::__cxx11::path const&)'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::experimental::filesystem::v1::__cxx11::path>(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5INSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEES3_EERKT_]+0x61): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [8], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [8])':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA8_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA8_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [6], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [6])':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA6_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA6_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [14], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [14])':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA14_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA14_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o: in function `std::experimental::filesystem::v1::__cxx11::path::path<char [16], std::experimental::filesystem::v1::__cxx11::path>(char const (&) [16])':
+
+Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA16_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA16_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
+
+/usr/bin/ld: /tmp/cc7paChG.o:Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA2_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA2_cS3_EERKT_]+0x5b): more undefined references to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()' follow
+
+collect2: error: ld returned 1 exit status
+
+```
+
 Should I just upgrade gcc?
 
 # 87
@@ -953,8 +1183,10 @@ g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/  -lstdc++fs -
 https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_dynamic_or_shared.html#manual.intro.using.linkage.experimental
 
 # 89
->>4679
-Thanks Anon.
+>>4679
+
+Thanks Anon.
+
 From this experience, I don't think I'll use Debian. In Arch it's way easier to search and install packages. Half the bloody time I can't find the packages I need X'D
 
 # 90
@@ -965,22 +1197,35 @@ Sweet. Thanks for the effort Anon. Nice to know there's at least one user out th
 I like Arch much better. I've only rarely had any issues with it for the couple of years I've been on it now.
 
 # 91
->>4681
->Nice to know there's at least one user out there now haha.
-The more the merrier ;)
-
->I like Arch much better. I've only rarely had any issues
-Same for me. Been using it for a year with Luke Smith's LARBS script that had i3wm. However I didn't study it well enough and newer versions started to break for me. It really was more of a temporary (permanent) setup as I wanted to learn to setup my own scripts and backup dot files. Also soy-stemd XD
-
-My plan for is to dedicate some time to Gentoo where I'll be forced to better understand my system.
-
+>>4681
+
+>Nice to know there's at least one user out there now haha.
+
+The more the merrier ;)
+
+
+
+>I like Arch much better. I've only rarely had any issues
+
+Same for me. Been using it for a year with Luke Smith's LARBS script that had i3wm. However I didn't study it well enough and newer versions started to break for me. It really was more of a temporary (permanent) setup as I wanted to learn to setup my own scripts and backup dot files. Also soy-stemd XD
+
+
+
+My plan for is to dedicate some time to Gentoo where I'll be forced to better understand my system.
+
+
+
 The issue is for my projects I need some stability, with my engineering software and access to serial, USB etc and I get too lazy to switch.
 
 # 92
->>4681
-Also I'll prob have the full backup in a couple of days.
-
-Do you have an IRC channel somewhere btw?
+>>4681
+
+Also I'll prob have the full backup in a couple of days.
+
+
+
+Do you have an IRC channel somewhere btw?
+
 In case I ever need to give the backup.
 
 # 93
@@ -1011,11 +1256,13 @@ hey there /robowaifu/ I admit I've been quiet on the board for a little while as
 Hi there Anon, glad to have you back again. You're always quite welcome here. BTW, there's a ''Short Stacks'' thread now >>2666 . I'm sure we'd all like some input on you there.
 
 # 96
->>4686
+>>4686
+
 You should be careful with threads like that here. It won't be long before /cow/ starts calling you a pedo and demanding you ban anime from this board.
 
 # 97
->>4690
+>>4690
+
 No nothings going to happen to this board, now keep crying john.
 
 # 98
@@ -1025,34 +1272,58 @@ Kek, I'll just send them to the time out corner.
 /cow/ is most definitely welcome here in fact of course. AFAICT, ebinic shitposters are some of the clever Anons around. We certainly need the help of more clever Anon you **SILLY GAMERGATE!11**
 
 # 99
->>4684
->push in ever farther and do Linux From Scratch
-Had the manual (version 8.4) printed for over a year, didn't ''get round to it''™...yet >:)
-
->You deffo need a lab box that you can destroy/rebuild 
-Indeed, that's pretty much how I have it atm.
-
->I'm fundamentally opposed to it since it typically cleartexts your IP to everyone in the channel.
-That's disgusting XD
-I've been looking at Jami recently, doesn't seem too terrible for one-to-one comms, if you want an alternative for talking to your normie friends.
-
->>4691
-Is that from Memento? Great film :D
-
->>4692
+>>4684
+
+>push in ever farther and do Linux From Scratch
+
+Had the manual (version 8.4) printed for over a year, didn't ''get round to it''™...yet >:)
+
+
+
+>You deffo need a lab box that you can destroy/rebuild 
+
+Indeed, that's pretty much how I have it atm.
+
+
+
+>I'm fundamentally opposed to it since it typically cleartexts your IP to everyone in the channel.
+
+That's disgusting XD
+
+I've been looking at Jami recently, doesn't seem too terrible for one-to-one comms, if you want an alternative for talking to your normie friends.
+
+
+
+>>4691
+
+Is that from Memento? Great film :D
+
+
+
+>>4692
+
 Kawaii desu!
 
 # 100
->>4684
-And one more thing before I forget, got this error during back up:
+>>4684
+
+And one more thing before I forget, got this error during back up:
+
 ```cpp
- 
-terminate called after throwing an instance of 'std::experimental::filesystem::v1::__cxx11::filesystem_error'
-  what():  filesystem error: status: Invalid or incomplete multibyte or wide character [julay.world/robowaifu/threads/Humanoid_Robot_Projects_Videos_0000374/media/林　要一 - １つだけ、バーチャルじゃあ無くてリアル過ぎる展示ある…すご過ぎて意�.mp4]
-Aborted
-
-```
-Given I've done some back up already, that's enough of using Debian.
+ 
+
+terminate called after throwing an instance of 'std::experimental::filesystem::v1::__cxx11::filesystem_error'
+
+  what():  filesystem error: status: Invalid or incomplete multibyte or wide character [julay.world/robowaifu/threads/Humanoid_Robot_Projects_Videos_0000374/media/林　要一 - １つだけ、バーチャルじゃあ無くてリアル過ぎる展示ある…すご過ぎて意�.mp4]
+
+Aborted
+
+
+
+```
+
+Given I've done some back up already, that's enough of using Debian.
+
 I'll set it up for something newer next week.
 
 # 101
@@ -1096,9 +1367,12 @@ If you make an arrangement ahead of time to do so, then the site admin will re-p
 I hope I put that clearly enough Anon. There's no automated way for an end-user to just do a big dump like that into an imageboard's threads. It would be a horrible spam risk, for example.
 
 # 109
->>4729
-I see. So the bump-bot mentioned above won’t be released? That’s a shame, but I suppose I’ve already done some dirty hacks on BUMP to make it work with legacy 8kun files so I suppose I can figure out the LynxChan end myself, as well. Cleaner than the previous wget’d dump anyway.
-
+>>4729
+
+I see. So the bump-bot mentioned above won’t be released? That’s a shame, but I suppose I’ve already done some dirty hacks on BUMP to make it work with legacy 8kun files so I suppose I can figure out the LynxChan end myself, as well. Cleaner than the previous wget’d dump anyway.
+
+
+
 Anyway, thanks for putting out BUMP at all Anon.
 
 # 110
@@ -1111,8 +1385,10 @@ The plan is to eventually have a full-blown GUI for the product, and make it dov
 Don't hold your breath as it will be a good while before that is accomplished. In the meantime at least some of the basic prerequisites are 'working'. :^)
 
 # 111
-Hey /robowaifu/! I'm cross posting from /monster/ ** when am I not? (^:** in regards to this hole I found in my backyard. Let me describe it. It's a hole that goes down about 3-4 ft **so about a meter if you use the metric system** and is about 2-3 inches wide between **5-7 centimeters wide**. I live in the American south so I assumed it might have been an animal like a gopher or something but I have found other gopher holes in my back yard and they look nothing like image related.  
-
+Hey /robowaifu/! I'm cross posting from /monster/ ** when am I not? (^:** in regards to this hole I found in my backyard. Let me describe it. It's a hole that goes down about 3-4 ft **so about a meter if you use the metric system** and is about 2-3 inches wide between **5-7 centimeters wide**. I live in the American south so I assumed it might have been an animal like a gopher or something but I have found other gopher holes in my back yard and they look nothing like image related.  
+
+
+
 So, /robowaifu/ technicians, what kind of hole do I have in my backyard? Chobitsu, I know you live in the south as well, have you seen anything like this?
 
 # 112
@@ -1130,13 +1406,17 @@ you appear to have a straight shot right down into the front door area of their 
 >thoroughly acquainted*
 
 # 115
->>4758
-I just moved into my property recently so I don't know how long it's been here. I've been here for 5 months but I didn't notice it until about month ago because it was covered by heavy grass as I had not been able to purchase a riding lawn mower. I do know that rats live where I am, large ones too, in fact. 
-
+>>4758
+
+I just moved into my property recently so I don't know how long it's been here. I've been here for 5 months but I didn't notice it until about month ago because it was covered by heavy grass as I had not been able to purchase a riding lawn mower. I do know that rats live where I am, large ones too, in fact. 
+
+
+
 Our friends on /monster/ believe to be an old post hole, as in where post previously was previously dug but then was removed. That theory does make sense but I just wonder why it didn't fill up on it's own. I might consider buying a camera that is small enough to explore the hole.
 
 # 116
->>4763
+>>4763
+
 Sorry that kind of looks like reddit spacing, I thought it would be a paragraph but instead it just looks like i reddit spaced.
 
 # 117
@@ -1172,11 +1452,16 @@ That's a good idea. So, I guess the glue literally welds the plastic parts inste
 Having air muscles should help make nice shapes too if it's done correctly.
 
 # 122
-Due to the current corona virus pandemic, race war, and my own person issues, i have not been able to continue the college meme and finish my AS degree. I do however, wish to continue my education and possibly get a low skill job. Now, I doubt /robowaifu/ could help me get a job at my local convenience store but I think I could get help in another area, that being C++. I also want to mod a game that is coded in C++.
-
-I am actually quite new to C++ but not entirely new to coding. I would call my skill level "novice" but not a beginner. I know how to code in HMTL, Javascript, and CSS but that's as far as it goes. I don't really know how to do anything advanced in them but i could probably make you a web page but that web page would look like it came out of the mid 90's.  Anyways, my primary question, where do I start with C++? What's the best way to start learning it?
-
-Also, there's this video game that was released 5 years ago called Barony and its code was made open source a few years ago. I was going to ask the robowaifu technicians and Chobitsu to take a look at it because you guys are the only ones I know of who have this much experience with C++. Here it is:
+Due to the current corona virus pandemic, race war, and my own person issues, i have not been able to continue the college meme and finish my AS degree. I do however, wish to continue my education and possibly get a low skill job. Now, I doubt /robowaifu/ could help me get a job at my local convenience store but I think I could get help in another area, that being C++. I also want to mod a game that is coded in C++.
+
+
+
+I am actually quite new to C++ but not entirely new to coding. I would call my skill level "novice" but not a beginner. I know how to code in HMTL, Javascript, and CSS but that's as far as it goes. I don't really know how to do anything advanced in them but i could probably make you a web page but that web page would look like it came out of the mid 90's.  Anyways, my primary question, where do I start with C++? What's the best way to start learning it?
+
+
+
+Also, there's this video game that was released 5 years ago called Barony and its code was made open source a few years ago. I was going to ask the robowaifu technicians and Chobitsu to take a look at it because you guys are the only ones I know of who have this much experience with C++. Here it is:
+
 https://github.com/TurningWheel/Barony
 
 # 123
@@ -1224,16 +1509,26 @@ C++ is a more complete (and complex) language than C, certainly, but the irony i
 As someone who's comfortable with the actual machine code, I doubt C would present any issues for you whatsoever. My intent however is a '''Modern C++ group learning thread for the Beginner''' . :^)
 
 # 127
->>4822
->C 'string' (ie, char*'s) can easily be abused and break
-Yep. Very much agree. As fun as it is for everything to be a pointer in memory, it gets tiring after a while making sure there are no memory leaks. My assembler C project relies on contiguous memory blocks of chars (ie. strings XD). Though to be fair for me this is a useful learning exercise. And I try to always make sure to free any malloc'd memory and use valgrind.
-> immediate barrier requiring effectively low-level memory-management mastery from the complete novice
-Funny that, took me 4 years (on and off) of gaining enough understanding and experience (not just C, but also hardware) before I started writing programs that worked first time XD
->I doubt C would present any issues for you whatsoever.
-Hahahahahahahaha ;)
-I'm finally reaching the point where I understand there are languages for the right job. But if you want speed and performance (which isn't always critical to be honest), you gotta go low. What I honestly think is much more important is a small, managable codebase. But we all probably dream of that eh?
-
-Also for some OOP nightmares, at work we have a massive-fuck-off (absolutely huge) Python library/framework for testing and interfacing chips. It's complex, not too terribly written, but I (and my co-workers) aren't comp-sci-enough to properly interface with it, and so all of our tests are classes, which our big test class inherits and ever object can call every method. After seeing such clusterfuck you can imagine why I somewhat detest OOP paradigm, and why I study C just to keep myself sane. The worst is all the random problems that occur out of nowhere and you can't fix by thinking about it because it's a legacy issue (but that is an issue with the company).
+>>4822
+
+>C 'string' (ie, char*'s) can easily be abused and break
+
+Yep. Very much agree. As fun as it is for everything to be a pointer in memory, it gets tiring after a while making sure there are no memory leaks. My assembler C project relies on contiguous memory blocks of chars (ie. strings XD). Though to be fair for me this is a useful learning exercise. And I try to always make sure to free any malloc'd memory and use valgrind.
+
+> immediate barrier requiring effectively low-level memory-management mastery from the complete novice
+
+Funny that, took me 4 years (on and off) of gaining enough understanding and experience (not just C, but also hardware) before I started writing programs that worked first time XD
+
+>I doubt C would present any issues for you whatsoever.
+
+Hahahahahahahaha ;)
+
+I'm finally reaching the point where I understand there are languages for the right job. But if you want speed and performance (which isn't always critical to be honest), you gotta go low. What I honestly think is much more important is a small, managable codebase. But we all probably dream of that eh?
+
+
+
+Also for some OOP nightmares, at work we have a massive-fuck-off (absolutely huge) Python library/framework for testing and interfacing chips. It's complex, not too terribly written, but I (and my co-workers) aren't comp-sci-enough to properly interface with it, and so all of our tests are classes, which our big test class inherits and ever object can call every method. After seeing such clusterfuck you can imagine why I somewhat detest OOP paradigm, and why I study C just to keep myself sane. The worst is all the random problems that occur out of nowhere and you can't fix by thinking about it because it's a legacy issue (but that is an issue with the company).
+
 I hope to see some clever OOP use eventually X'D!
 
 # 128
@@ -1253,11 +1548,16 @@ Then I hope this kind of 'clever' is good enough for you Anon, b/c it's likely t
 Object Hierarchies should be shallow, and very directly to the point. Anything else leads to an unnecessary (and unmanageable) mess, as you seem well aware! My primary use of classes/structs is simply for their use in encapsulation; both of protected member fields, and of specializations of member functions ( operators, for example ).
 
 # 129
->>4824
->sound like you might benefit from such a class as well Anon, interested?
-Sounds good to me m8!
-
-> I hope this kind of 'clever' is good enough for you Anon,
+>>4824
+
+>sound like you might benefit from such a class as well Anon, interested?
+
+Sounds good to me m8!
+
+
+
+> I hope this kind of 'clever' is good enough for you Anon,
+
 Yeah, those examples use encapsulation in a responsible manner XD
 
 # 130
@@ -1292,16 +1592,20 @@ Great idea! Thanks for doing this Anon.
 I was trying to remember why I wanted to look into C++ recently, until I remembered Verilator. It's a C++ library used for testing Verilog design files and great to use alongside Yosys (formal verification) for making sure your hardware design works before putting it on an FPGA. If you're interested, I was following a tutorial series by this guy who covers Verilog and verification for beginners: http://zipcpu.com/tutorial/
 
 # 134
->>4841
+>>4841
+
 This sounds great.  Coincidentally I have a 3B+ bought last year just to see what all the fuss was about, booted it only once.  I'm more of an arduino guy.
 
 # 135
 /robowaifu/, do you go fishing? If so, what is your favorite fish to catch and do you have a preferred method for cooking it?
 
 # 136
->>4864
->that fish tacos chart
-Fucking disgusting 
+>>4864
+
+>that fish tacos chart
+
+Fucking disgusting 
+
 t. taco vato
 
 # 137
@@ -1325,7 +1629,8 @@ Oh, and you should always grill meat over an open flame ofc.
 wasn't this thread formally locked?
 
 # 141
->>4936
+>>4936
+
 I actually meant pinned or sticky'd or whatever the term is.
 
 # 142
@@ -1740,10 +2045,14 @@ www.nytimes.com/2020/10/20/technology/google-antitrust.html
 https://web.archive.org/web/20201020123008/www.nytimes.com/2020/10/20/technology/google-antitrust.html
 
 # 215
-There is no QTDDTOT thread so I'm asking here.
-What are some /robowaifu/-approved C programming books? Doesn't have to be C specific as long as it's a generic programming book not tied to any language.
-
-I'm not experienced with C. I learned POSIX make, I finished K&R, I'm finishing APUE. Now that I know C and I'm finishing up learning the bits of POSIX covered by APUE, I want to take the first step towards my part in the /robowaifu/ future. 
+There is no QTDDTOT thread so I'm asking here.
+
+What are some /robowaifu/-approved C programming books? Doesn't have to be C specific as long as it's a generic programming book not tied to any language.
+
+
+
+I'm not experienced with C. I learned POSIX make, I finished K&R, I'm finishing APUE. Now that I know C and I'm finishing up learning the bits of POSIX covered by APUE, I want to take the first step towards my part in the /robowaifu/ future. 
+
 I'm mainly interested in all aspects of software quality and correctness, operating systems, network-facing daemons, and multithreaded software. As of right now my plan is to go through an introduction to assembly or algorithms next, and after that it's more loose but I think I'll go for stuff like tests.
 
 # 216
@@ -1763,16 +2072,26 @@ The bunker at anon.cafe appears to be down. Where else can we regroup if this pl
 I don't do enough C programming to recommend anything besides K&R but perhaps you would be interested in working on a library for inter-process communication? In the future we'll need an easy way for various devices and components to communicate large volumes of data with each other across different architectures and platforms with low latency and resolve difficulties going from 64-bit to 16-bit or even 8-bit. It will also be beneficial to be able to leverage all the progress being made across different programming languages and libraries, in such a way we can easily connect two different models such as from PyTorch and MLPack together and share the training gradients across different processes and computers. This will help a lot with creating a distributed computing project where we can contribute our unused resources to improving robowaifu AI for all. I doubt Big Tech will be putting any effort in this direction since they're all in direct competition with each other and do not value unity.
 
 # 219
->>5844
-That's actually what the APUE chapter I just finished is about. 
-POSIX has quite a few IPC mechanisms. 
->message queues
->semaphores
->FIFOs
->pipes
->shared memory
->memory-mapped files
-All of these have limited scope and crippling quirks however, and they're useless for communication between separate machines.
+>>5844
+
+That's actually what the APUE chapter I just finished is about. 
+
+POSIX has quite a few IPC mechanisms. 
+
+>message queues
+
+>semaphores
+
+>FIFOs
+
+>pipes
+
+>shared memory
+
+>memory-mapped files
+
+All of these have limited scope and crippling quirks however, and they're useless for communication between separate machines.
+
 Implementing IPC has an immediate and obvious need for knowing algorithms, so it seems I already know what to do next.
 
 # 220
@@ -1795,9 +2114,12 @@ https://nyannet.com/amazon-removes-more-anime-light-novels-from-their-platform-e
 Imagine if they're successful getting a monopoly on the postal service and start denying shipping of anything anime or robowaifu related.
 
 # 221
->>5845
-Just a note: modern unix derivates (read: anything made after the latter half of the 80s) also support sockets for IPC.
-Local sockets (aka unix sockets) are actual files on disk (though they are a bit special) and you can see them if you list the files in e.g. /tmp.
+>>5845
+
+Just a note: modern unix derivates (read: anything made after the latter half of the 80s) also support sockets for IPC.
+
+Local sockets (aka unix sockets) are actual files on disk (though they are a bit special) and you can see them if you list the files in e.g. /tmp.
+
 I never had to use raw network sockets, so I don't know how they are handled by the system, but the API is literally the same as local sockets so technically it counts as IPC between different machines.
 
 # 222
@@ -1911,11 +2233,13 @@ You sure?
 Seems like it's probably facecap+voicechanger like the shark loli? VTube stuff isn't quite the same.
 
 # 242
->>5951
+>>5951
+
 The lip sync is port tbh. Lip sync and eyes sometimes seem to be the biggest problems with vtuber models
 
 # 243
->>5954
+>>5954
+
 poor*
 
 # 244
@@ -2032,12 +2356,15 @@ This can't be real.
 >>6457
 
 # 259
->>6457
+>>6457
+
 I want to laugh but my software testing job is literally regressing my tech capabilities to the point I see absolutely no issue in making a bloated mess so long as it works and I get to shut down the terminal
 
 # 260
->>6471
-> I get to shut down the terminal
+>>6471
+
+> I get to shut down the terminal
+
 >Fearing the command line
 
 # 261
@@ -2053,8 +2380,10 @@ Our friends over on /f/ let us know a video game is now using GPT3 for it's syst
 https://anon.cafe/f/res/4.html#1130
 
 # 264
->>6554
->it's subscription based model now
+>>6554
+
+>it's subscription based model now
+
 YOU DON'T OWN NOTHING GOYIM.
 
 # 265
@@ -2135,16 +2464,20 @@ I used neural style transfer for that which is extremely slow. Most of the effec
 I mainly use arbitrary style transfer now which is instant and can be greatly improved through training on sketches, paintings and images. It's not so good at imagining new details as vanilla style transfer but it works excellent for rapidly prototyping color schemes and setting up ambient light to begin painting over. It might be usable for manga colorization if another layer was created that can accurately predict the color of pieces in the input and apply a color hint to it before arbitrary style transfer.
 
 # 276
->>5848
+>>5848
+
 zzzchan is a good place to get a bunker
 
 # 277
->>6688
+>>6688
+
 heh i didn't read the thread far enough and i found out about the trashchan bunker too late
 
 # 278
->>6657
->claim alimony
+>>6657
+
+>claim alimony
+
 FIFTY THOUSAND BUCKS A MONTH!?
 
 # 279
@@ -2152,8 +2485,10 @@ FIFTY THOUSAND BUCKS A MONTH!?
 Sorry but they are behind ''The Great Cuckflare Wall'', enemies of humanity. I would never use zzzchan for /robowaifu/ Anon, sorry.
 
 # 280
->>6699
-Naruhodo.
+>>6699
+
+Naruhodo.
+
 There's a Tor hidden service, so at least cuckflare can be bypassed. Do what you want though.
 
 # 281
@@ -2162,11 +2497,16 @@ I'm probably thinking too far in the future again but I was reading some World E
 I also have an idea for stenographic messaging. It's possible to feed messages into a language model and translate them into a completely different message. What interests me is that this could be done with a key which can decode it into an entirely different intended message. The amazing thing would be that the encoded messages would seem like legit replies to someone else's post and go undetected by surveillance bots and anybody trying to decrypt them would get seemingly plausible messages but never know which one is the real one unless they had the key. There might be a way to do this with public-keys. If not, GPG could be used to transfer the AI key. I estimate this will be feasible in 3-5 years and it will also be useful to mask writing style to remain anonymous online.
 
 # 282
->>6757
-That type of stenographic messaging already exists to a certain extent with DesuDesuTalk but it hides the message inside of image files that are posted on image boards. It's pretty popular with Russians, back when 8chan had a /ddt/ board they're the ones that used it the most. I stopped using 4chan back in the early 2010's when they slightly modified images that were uploaded there to prevent this type of communication and help track the spread of images.
-
-The problem with using public key encryption in anonymous chat environments is you're signing all your posts which makes individual posters easier to track. The adversary may not be able to read the messages at the moment but they'll know when and where you post as well as with who as the encrypted message must contain the public keys of those you want to be able to read your message. I've tried it out awhile back and key management is a real pain in the ass, it only works with very small groups that have secondary communication channels.
-
+>>6757
+
+That type of stenographic messaging already exists to a certain extent with DesuDesuTalk but it hides the message inside of image files that are posted on image boards. It's pretty popular with Russians, back when 8chan had a /ddt/ board they're the ones that used it the most. I stopped using 4chan back in the early 2010's when they slightly modified images that were uploaded there to prevent this type of communication and help track the spread of images.
+
+
+
+The problem with using public key encryption in anonymous chat environments is you're signing all your posts which makes individual posters easier to track. The adversary may not be able to read the messages at the moment but they'll know when and where you post as well as with who as the encrypted message must contain the public keys of those you want to be able to read your message. I've tried it out awhile back and key management is a real pain in the ass, it only works with very small groups that have secondary communication channels.
+
+
+
 It might be time to look at abandoning image boards and moving over towards something based on GNU Social. To those of us that were around when IBs were brand new it might still seem adequate but it's quickly getting displaced by Discord for younger users who demand instant chat as well as access on mobile platforms.
 
 # 283
@@ -2260,11 +2600,16 @@ BTW Anon, if this list can help jumpstart the new index thread, please feel free
 -''edit relocated post number''
 
 # 292
-It would be nice to have a math thread. All fields having anything to do robowaifus involve math.
-But I can't make this thread because I'm mathematically illiterate, it's the reason why I desire such a thread.
-
-Do we have any mathfags? Any pointers on study material? 
-I'm afraid the same thing that happens with programming will happen if I go looking for math study material anywhere, I'll be recommended the equivalent of python tutorials on youtube instead of SICP (which by the way is too advanced for me on the math).
+It would be nice to have a math thread. All fields having anything to do robowaifus involve math.
+
+But I can't make this thread because I'm mathematically illiterate, it's the reason why I desire such a thread.
+
+
+
+Do we have any mathfags? Any pointers on study material? 
+
+I'm afraid the same thing that happens with programming will happen if I go looking for math study material anywhere, I'll be recommended the equivalent of python tutorials on youtube instead of SICP (which by the way is too advanced for me on the math).
+
 I'll be done with a programming book in about 2 weeks and my intention is to go for the math books in this infograph. I've skimmed "Algebra" by Gelfand which is recommended in the graph and it seems to start at a level that's just shy of high school, exactly where I am, so that will likely be the first.
 
 # 293
@@ -2400,18 +2745,27 @@ And they've also grown so huge that they represent a now-critical vulnerability,
 But thanks for the tip Anon, I'll check them out now.
 
 # 308
->>7448
-Just take the ones listed in that thread seriously please. They are genuine and well-meaning even if you find them harsh or abrasive. In fact, because I don't like everything to be doom and gloom, I'll tell you plenty of things I like about this board because I don't mind giving credit where it's due. I'm not here to be a pain in the ass and endlessly critique.
-
-- Extremely unique concept for a board and one of the few with a higher purpose than socialization. This board was a 10/10 idea.
-- Despite moderation being unclear it is minimal. Somehow, even with minimal moderation, you have managed to do a damn good job keeping this place clean and comfy.
-- Real efforts to help the community. You post here, genuinely seem to be appreciative of the things community does for the benefit of all of us, and have put in effort to at least attempt organization based on topic.
-- Whatever anyone can say about you, you're not malicious. I also know that despite your tongue-in-cheek shitposts you're not actually power-hungry either, as you could just ban dissent but choose not to.
-
+>>7448
+
+Just take the ones listed in that thread seriously please. They are genuine and well-meaning even if you find them harsh or abrasive. In fact, because I don't like everything to be doom and gloom, I'll tell you plenty of things I like about this board because I don't mind giving credit where it's due. I'm not here to be a pain in the ass and endlessly critique.
+
+
+
+- Extremely unique concept for a board and one of the few with a higher purpose than socialization. This board was a 10/10 idea.
+
+- Despite moderation being unclear it is minimal. Somehow, even with minimal moderation, you have managed to do a damn good job keeping this place clean and comfy.
+
+- Real efforts to help the community. You post here, genuinely seem to be appreciative of the things community does for the benefit of all of us, and have put in effort to at least attempt organization based on topic.
+
+- Whatever anyone can say about you, you're not malicious. I also know that despite your tongue-in-cheek shitposts you're not actually power-hungry either, as you could just ban dissent but choose not to.
+
+
+
 There are many more things I like but these are some top ones. Keep up the good work on those, and all I ask is that you listen to people when they critique. The critique is because we like your board, if I didn't care about this place I wouldn't bother offering my two cents. %%Sorry if you perceived it as harsh, that's just a part of imageboards for the most part, and a product of frustration%%
 
 # 309
->>7449
+>>7449
+
 %%Honestly visibility was a concern in the opposite respect. I really did not want to blow up your board with this. I would have much preferred a casual chat with you where me and someone else could mull over some problems. I actually did try to get the IRC thing sorted out btw, but I don't think tom will allow it for now.%%
 
 # 310
@@ -2467,22 +2821,38 @@ And that's pretty much all I have to say on those topics in general Anons, hope 
 Cheers.
 
 # 313
->>7455
->to add that rules won't solve the issue that some people want their threads on culture and politics on top
-First of all there's no evidence this is true. People were using threads that were available. The threads are no longer available and posting has stopped. And yes, clear rules outlining the policies that are being enforced would definitely help. People with good intentions are going to follow rules set forth. If you couldn't find a single rule, made a thread you thought was on-topic, and got locked immediately, you'd think that's a major problem too.
-I find it laughable that you keep going on about off-topic but seem to be very for /cuckquean/ self admitting this is nothing but a sexual fetish for them and that they basically want sex dolls.
->Another option would be to have a second board about robowaifus
-Well your wish was granted
-Your post is mostly a strawman. That's not what me and others were arguing for the most part. Nobody wants this place to turn into /b/.
-
->>7477
->While I'm not intentionally trying to 'confuse' anyone with my lack of rules
-I know it's not your intention. You have good intentions for the community. But you need to realize that even if you did not intend to, by not having better rule transparency you accidentally did. Nobody is going to get mad at you for listing the rules. If someone accuses you of rulecucking they're an idiot.
->Commonsense should be our guide here, we're adults.
-I'm telling you, you need to at least define what kind of discussion is topical or not. You killed a QTDDTOT. Why? If you're going to moderate content like that, please be transparent about it. If there was something indicating that this thread wasn't going to allowed I wouldn't have even posted it.
->And as I've already stated only filthy Commies want a bunch of rules around, tacked-up on every wall
-Is there no such thing as a grey area anymore? Is there only anarchists and commies? I didn't say they need to be tacked up everywhere. A clear statement of the rules would be good in the welcome thread.
->but neither will I apologize over them
+>>7455
+
+>to add that rules won't solve the issue that some people want their threads on culture and politics on top
+
+First of all there's no evidence this is true. People were using threads that were available. The threads are no longer available and posting has stopped. And yes, clear rules outlining the policies that are being enforced would definitely help. People with good intentions are going to follow rules set forth. If you couldn't find a single rule, made a thread you thought was on-topic, and got locked immediately, you'd think that's a major problem too.
+
+I find it laughable that you keep going on about off-topic but seem to be very for /cuckquean/ self admitting this is nothing but a sexual fetish for them and that they basically want sex dolls.
+
+>Another option would be to have a second board about robowaifus
+
+Well your wish was granted
+
+Your post is mostly a strawman. That's not what me and others were arguing for the most part. Nobody wants this place to turn into /b/.
+
+
+
+>>7477
+
+>While I'm not intentionally trying to 'confuse' anyone with my lack of rules
+
+I know it's not your intention. You have good intentions for the community. But you need to realize that even if you did not intend to, by not having better rule transparency you accidentally did. Nobody is going to get mad at you for listing the rules. If someone accuses you of rulecucking they're an idiot.
+
+>Commonsense should be our guide here, we're adults.
+
+I'm telling you, you need to at least define what kind of discussion is topical or not. You killed a QTDDTOT. Why? If you're going to moderate content like that, please be transparent about it. If there was something indicating that this thread wasn't going to allowed I wouldn't have even posted it.
+
+>And as I've already stated only filthy Commies want a bunch of rules around, tacked-up on every wall
+
+Is there no such thing as a grey area anymore? Is there only anarchists and commies? I didn't say they need to be tacked up everywhere. A clear statement of the rules would be good in the welcome thread.
+
+>but neither will I apologize over them
+
 Okay, I don't think anyone wanted you to. That's fine.
 
 # 314
@@ -2493,8 +2863,10 @@ Fair enough, done.
 I've already answered your other points in my post. My sincere apologies if they aren't to your liking Anon.
 
 # 315
->>7482
->Fair enough, done.
+>>7482
+
+>Fair enough, done.
+
 Thank you. %%fucking hell dude, holy fucking shit, was that so hard?%%
 
 # 316
@@ -2563,9 +2935,12 @@ okay chobitsu seriously, what was wrong with that post? I literally did nothing 
 It's hard to count the many times I've admonished everyone here to make newcomers welcome. This isn't the typical muh_edge IB, nor do I intend it to be. There are a lot of men counting on us here, try and keep that in mind friend.
 
 # 325
->>7753
-you act like I went in and called the guy a nigger. I laughed at the spectacle of having to show someone how to use an imageboard and asked how we were managing to get people here who had never used an imageboard in their life, when we are extremely small and shit like 4chan is extremely popular and has existed for ages.
-
+>>7753
+
+you act like I went in and called the guy a nigger. I laughed at the spectacle of having to show someone how to use an imageboard and asked how we were managing to get people here who had never used an imageboard in their life, when we are extremely small and shit like 4chan is extremely popular and has existed for ages.
+
+
+
 if this is too offensive for your damn board then maybe it's time I fuck off. you're going to lose others too. everyone needs some thicker skin.
 
 # 326
@@ -2574,8 +2949,10 @@ if this is too offensive for your damn board then maybe it's time I fuck off. yo
 Fair enough. I'd suggest you start with yourself. Stay focused here Anon.
 
 # 327
->>7756
->I'd suggest you start with yourself
+>>7756
+
+>I'd suggest you start with yourself
+
 Fuck off, chobtisu. You moderate people for undisclosed reasons, that's why people get upset at you, not because they need thicker skin. If you're going to start slapping people for not being "welcoming" enough to newcomers then write another fucking rule. This is retarded. You can't run a board worth a shit. I think I'm done here.
 
 # 328
@@ -2587,15 +2964,24 @@ Fuck off, chobtisu. You moderate people for undisclosed reasons, that's why peop
 Both Sophie and I disagree. Any moderation disagreements aside, this imageboard is useful...where else on the internet is there for people to meet who are actually building robotic companions? Without being inundated by trolls and normies.
 
 # 330
->>7765
->Any moderation disagreements aside
-but that's the entire argument, an argument about moderation. why don't you start reading here to get the full extent of how shit Chobitsu is: >>7401
->where else on the internet is there for people to meet who are actually building robotic companions
-https://robowaif.us/
-https://fatchan.org/robotwives/index.html
->Without being inundated by trolls and normies
-this place has an unwritten rule of "be nice to each other" and chobitsu might as well be running a damn subreddit by this point. also some anon just said it's being shilled on youtube and twitter. expect normies at the very least.
-
+>>7765
+
+>Any moderation disagreements aside
+
+but that's the entire argument, an argument about moderation. why don't you start reading here to get the full extent of how shit Chobitsu is: >>7401
+
+>where else on the internet is there for people to meet who are actually building robotic companions
+
+https://robowaif.us/
+
+https://fatchan.org/robotwives/index.html
+
+>Without being inundated by trolls and normies
+
+this place has an unwritten rule of "be nice to each other" and chobitsu might as well be running a damn subreddit by this point. also some anon just said it's being shilled on youtube and twitter. expect normies at the very least.
+
+
+
 %%I'm out%%
 
 # 331
@@ -2698,8 +3084,10 @@ Gambatte.
 Merry Christmas, /robowaifu/ .
 
 # 344
-https://hackaday.com/2020/12/30/boston-dynamics-dancing-bots-beg-for-your-love-a-la-napoleon-dynamite/
-
+https://hackaday.com/2020/12/30/boston-dynamics-dancing-bots-beg-for-your-love-a-la-napoleon-dynamite/
+
+
+
 Great strides have been made and some rad moves
 
 # 345

@@ -83,10 +83,14 @@ Heheh! She'll look cuter when I get around to designing and fitting her exoskele
 Always true. But I wouldn't personally count you out of the race Anon. You are making pretty brilliant moves for your first real effort. I'd say /robowaifu/ will give __all__ of them a run for their money by the time we're through.
 
 # 13
->>9259
->nutcracker mouth doesn't lend itself well to conveying any sort of emulated emotion.
-You might be interested in the scientific breakthrough I just had. I stood in front of a mirror. I had my mouth closed in neutral position, the border between upper and lower lip a perfect horizontal line. I pushed the corners into my fat face without changing the impression of the horizontal line. Then, without moving any muscles in my face, I leaned forward a bit. I looked a bit happy. I leaned back a bit, again without really moving anything in my face, and I looked a bit sad. Forward again, happy again; back again, said again; happy, sad, happy, sad.
-
+>>9259
+
+>nutcracker mouth doesn't lend itself well to conveying any sort of emulated emotion.
+
+You might be interested in the scientific breakthrough I just had. I stood in front of a mirror. I had my mouth closed in neutral position, the border between upper and lower lip a perfect horizontal line. I pushed the corners into my fat face without changing the impression of the horizontal line. Then, without moving any muscles in my face, I leaned forward a bit. I looked a bit happy. I leaned back a bit, again without really moving anything in my face, and I looked a bit sad. Forward again, happy again; back again, said again; happy, sad, happy, sad.
+
+
+
 The more curved inwards the mouth corners are relative to the mouth middle, the stronger the effect. Simple! Problem is, in its extreme form it looks kinda chimp-like. But maybe diverging just a bit from what's normal in humans could work out nicely.
 
 # 14
@@ -313,11 +317,13 @@ I'm thinking of ordering some resin for printers or buy the one for glas fiber m
 Lol. Sophie-girl is going to turn out quite beautiful in the end old Lad. Finish her new head up!
 
 # 39
->>9767
+>>9767
+
 that Ahegao face lmao
 
 # 40
->>9654
+>>9654
+
 interesting idea and perhaps a bridge to these techs, since a tele-waifu could be used to maintain LDRs for normies. However, yeah, the 3d menace is actually what we are trying to avoid vis-a-vis this concept.
 
 # 41
@@ -738,9 +744,12 @@ Unfortunately, changing it to be robotic is much easier said than done. Just cha
 In the meantime tho, Sophie's Chonkframe upgrade has been completed and it appears to work! I know because her head tried to go flying off again but it failed to get airborne this time. No cracking or splitting or anything. Nice.
 
 # 99
->>10152
-looking much better!
-
+>>10152
+
+looking much better!
+
+
+
 %% but is she combat ready? %%
 
 # 100
@@ -894,11 +903,16 @@ Thank you Anon, I'll try to make some time to have a look into it. I mean to cre
 Cheers.
 
 # 121
->>10230
-Huge fan of Honey Select 2, the best way I found to use it without having to install all the mods yourself is with the Better Repacks that are available on nyaa torrent tracker site;
-https://sukebei.nyaa.si/view/3292122
-It comes with an auto updater so any character card you find will automatically work with it. If that 87 gigs puts you off don't worry you only need to get the 32 gb base game file for character creation. Most of the space in the optional mods file are taken up by gigantic maps.
-
+>>10230
+
+Huge fan of Honey Select 2, the best way I found to use it without having to install all the mods yourself is with the Better Repacks that are available on nyaa torrent tracker site;
+
+https://sukebei.nyaa.si/view/3292122
+
+It comes with an auto updater so any character card you find will automatically work with it. If that 87 gigs puts you off don't worry you only need to get the 32 gb base game file for character creation. Most of the space in the optional mods file are taken up by gigantic maps.
+
+
+
 Was already mentioned in the 'Tools to Create 3D Models of Humans' thread >>1505 but it focused on the Koikatsu game. Several sites are listed in there which have character cards to use in Honey Select 2.
 
 # 122
@@ -984,7 +998,8 @@ What do you mean by "machine screws"? Just screws, or ones out of better metal? 
 They are like bolts, but with a head like a screw, which is often hex or Philips. Unlike a wood screw, machine screws are threaded to accept a nut.
 
 # 136
->>10347
+>>10347
+
 There's also some confusion when machine screws are mentioned.
 
 # 137
@@ -1726,14 +1741,22 @@ youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.y
 Good luck Anon. :^)
 
 # 245
->>11320
-Wow, thanks anon! I'm just a beginner so I have no plans to get involved professionally (have read too many horror stories from inside the games industry of psychopathic management, insane working hours and project deadlines ... so pretty much like most jobs where you get more than min wage LOL)! 
-
-I just want to create a relatively small elf village for fun - and so that I have somewhere to retreat from reality that is mine and cannot be shut down one day. Because awesome as FFXIV is, if it ever becomes unprofitable, Square Enix will, ofc, pull the plug and the whole place will end in the same way as 'The Matrix Online' did. 
-
-An entity that is completely at the mercy of the free market isn't as permanent as I would like.
-The other name for Valinor is "The Undying Lands", after all ;D 
-
+>>11320
+
+Wow, thanks anon! I'm just a beginner so I have no plans to get involved professionally (have read too many horror stories from inside the games industry of psychopathic management, insane working hours and project deadlines ... so pretty much like most jobs where you get more than min wage LOL)! 
+
+
+
+I just want to create a relatively small elf village for fun - and so that I have somewhere to retreat from reality that is mine and cannot be shut down one day. Because awesome as FFXIV is, if it ever becomes unprofitable, Square Enix will, ofc, pull the plug and the whole place will end in the same way as 'The Matrix Online' did. 
+
+
+
+An entity that is completely at the mercy of the free market isn't as permanent as I would like.
+
+The other name for Valinor is "The Undying Lands", after all ;D 
+
+
+
 So in-game I'm making sure to take plenty of screenshots and investigate the shapes of simple 3D assets. Whilst it's here, Eorzea is chock-full of good reference material!
 
 # 246
@@ -1783,9 +1806,12 @@ I like your work. I personally will try to use openscad to create some minimal f
 >>11381
 
 # 251
->>9818
-This is pretty good, I don't get much of an uncanny effect from it
-
+>>9818
+
+This is pretty good, I don't get much of an uncanny effect from it
+
+
+
 I personally am going to avoid making it look too much like a hominoid. For me, I plan on accentuating the secondary sex characteristics, but taking advantage of the fact that the human retard brain can easily get hijacked into interpreting something that vaguely resembles a woman as being an actual sexual partner. This is a trait we share with many other animals. E.g., why it is possible to masturbate to cartoon porn. I feel like I'd like to use some kind of LCD panel to display a cartoon like face
 
 # 252
@@ -2032,7 +2058,8 @@ hey good to see you again
 Video has been deactivated by the owner. What was it?
 
 # 282
->>13790
+>>13790
+
 "playback on other websites" is disabled. Follow it to youtube and you can view it, its a Lex Fridman podcast
 
 # 283
@@ -2256,8 +2283,10 @@ How to properly PAT test, how to use a servo tester and how to repair servos are
 Some guys do R/C, some make model railroads, some make animatronic models, but electronics is at the heart of making it all work.
 
 # 308
->>14066
-good
+>>14066
+
+good
+
 now you can stop wasting your time on literal shit, buy an arduino chip and learn how to actually program robotics
 
 # 309
@@ -2392,7 +2421,8 @@ Sophie is very fun in the half an hour or so that she's operating before I break
 NOOOOOOO!!!!! Sophie is the pride of this board. Ok, i hope you help others anons make their project with the experience you got with Sophie
 
 # 324
->>14744
+>>14744
+
 Just in case you decide to work on Sophie again in the future: Sounds like you need over-current/over-temp detection, and soft limits for each servo if you don't have them already. If the servo cooked itself during normal operation (not stalled in a collision), then you need larger motors, no getting around it.
 
 # 325
@@ -2462,9 +2492,12 @@ Hopefully that will stop the voltage from going above the 6.6V which is the max 
 Thanks anon. Hopefully one day my robot will be able to acknowledge such sentiments...in some fashion, at least.
 
 # 330
->>14893
->robowaifu is too hard, give up
->re-examine the alternatives
+>>14893
+
+>robowaifu is too hard, give up
+
+>re-examine the alternatives
+
 >robowaifu here I come
 
 # 331
@@ -2508,13 +2541,17 @@ I have seen Speecy's Corp pull it off in their dancing idol robots though. You c
 To do this in a life-sized robowaifu though, I think the base would be the size of a kitchen refrigerator.
 
 # 334
->>14905
+>>14905
+
 I'd like to imagine her staring at him from across the room 24/7. Those self described "derpy animatronic" eyes. Then he had a fever dream and woke found she moved to be standing over him like a mannequin in a horror movie.
 
 # 335
->>14908
-You have just described my endgoal perfectly, anon. I have much experimenting and electrocuting to do first though, in order to address my 'Achilles heel' of electronics. Before now I made no real attempt to properly learn the fundamentals and was just blindly stumbling my way through Arduino and Pololu user guides. Much fail, frustration and smoking servos has learned me dis is no longer de wae.
-
+>>14908
+
+You have just described my endgoal perfectly, anon. I have much experimenting and electrocuting to do first though, in order to address my 'Achilles heel' of electronics. Before now I made no real attempt to properly learn the fundamentals and was just blindly stumbling my way through Arduino and Pololu user guides. Much fail, frustration and smoking servos has learned me dis is no longer de wae.
+
+
+
 The book 'Make: Electronics' by Charles Platt seems to be a good practical intro without swamping a beginner like myself with complicated math.
 
 # 336
@@ -2538,10 +2575,14 @@ Unedited
 http://www.kamhingbattery.com/en/pro_info.asp?bclass=&mclass=15&id=29
 
 # 339
->>14916
->Cheap hobby servos are all terrible. We need our own waifu servos, that is the way.
-
-Cheap servos are bad almost entirely because of the terrible driver boards built in. Check out what this guy managed to get cheap servos to do with a custom driver circuit: 
+>>14916
+
+>Cheap hobby servos are all terrible. We need our own waifu servos, that is the way.
+
+
+
+Cheap servos are bad almost entirely because of the terrible driver boards built in. Check out what this guy managed to get cheap servos to do with a custom driver circuit: 
+
 https://www.youtube.com/watch?v=RkNgRe8X4iY
 
 # 340
@@ -2569,8 +2610,10 @@ However ''__our__'' needs with our robowaifus generally mandate true mobility (a
 But certainly it informs some solid approaches to a couple of issues we all face. I'm confident we'll manage to arrive at a good compromise systems design in the future as we just keep working the problems.
 
 # 343
->>14893
-Sophie but in another life:
+>>14893
+
+Sophie but in another life:
+
 https://youtu.be/rLy-AwdCOmI
 
 # 344
@@ -2580,9 +2623,12 @@ There's still a lot of potential. We can move the control servos to a support pl
 Servo technology just does not scale well beyond a meter. The weight and power consumption goes up incredibly unfortunately. Physics is not kind beyond loli scales.
 
 # 345
->>14958
-Lots of the robot arms I have seen on the internet are often joined to a box of electronics which usually includes PSU, voltage regulation, servo shield and microcontroller. At the moment Sophie is stuck on a metal pole, but it may be worth replacing the pole with a box or crate of some kind which is MUCH easier to store said electronics in and run all the wiring out her back.  A metal pole, being cylindrical, is a bit of a bastard to attach modular things to. This, in turn makes Sophie difficult to wire up, and considering the amount of unwiring and re-wiring she needs, this is a major design flaw.
-
+>>14958
+
+Lots of the robot arms I have seen on the internet are often joined to a box of electronics which usually includes PSU, voltage regulation, servo shield and microcontroller. At the moment Sophie is stuck on a metal pole, but it may be worth replacing the pole with a box or crate of some kind which is MUCH easier to store said electronics in and run all the wiring out her back.  A metal pole, being cylindrical, is a bit of a bastard to attach modular things to. This, in turn makes Sophie difficult to wire up, and considering the amount of unwiring and re-wiring she needs, this is a major design flaw.
+
+
+
 This post is mainly just for my own future reference. I have a constant voltage, constant current buck converter on order but it will take a long time to ship and by the time it gets to me I'll probably have forgotten all about this idea.
 
 # 346
@@ -2605,23 +2651,33 @@ So yea, it's a real conundrum Kiwi. Makes me appreciate the Creator's wisdom in 
 Good ideas SophieDev, and yeah storing ideas here on the board for safekeeping is something most of us do, including myself.
 
 # 348
-I now know how to use a multimeter and have confirmed that my buck-converter is correctly limiting voltage to the servos. Have thrown out a bunch of fried micro-servos that were a lost cause (kept a few parts for spares).
-
-Now, onto the more pressing subject:
-
-To Mr. Vladimir Putin,
-                    I appreciate your desk in the Kremlin is very well polished and shiny. In fact if I wasn't working on building a robot I would be polishing my desk and downgrading to Windows XP so my setup could be more like yours. However, at present you are causing me a problem. Because electricity prices in my country have doubled due to you ordering the gas pipelines closed, I can no longer 3D print large things because it's too expensive. 
-
-Although, Mr.Putin, I realise it's not all your fault. You see, I told my government that they should've focused less on feminism, jigaboos and faggots and more on building nuclear power stations, but they wouldn't listen. So now all of our gas power plants are out of gas and all of our energy firms are going bust. So please could you kindly sort out your business with Ukraine so the rest of us can get on with building robots? 
-
-Kind regards, 
+I now know how to use a multimeter and have confirmed that my buck-converter is correctly limiting voltage to the servos. Have thrown out a bunch of fried micro-servos that were a lost cause (kept a few parts for spares).
+
+
+
+Now, onto the more pressing subject:
+
+
+
+To Mr. Vladimir Putin,
+
+                    I appreciate your desk in the Kremlin is very well polished and shiny. In fact if I wasn't working on building a robot I would be polishing my desk and downgrading to Windows XP so my setup could be more like yours. However, at present you are causing me a problem. Because electricity prices in my country have doubled due to you ordering the gas pipelines closed, I can no longer 3D print large things because it's too expensive. 
+
+
+
+Although, Mr.Putin, I realise it's not all your fault. You see, I told my government that they should've focused less on feminism, jigaboos and faggots and more on building nuclear power stations, but they wouldn't listen. So now all of our gas power plants are out of gas and all of our energy firms are going bust. So please could you kindly sort out your business with Ukraine so the rest of us can get on with building robots? 
+
+
+
+Kind regards, 
+
              SophieDev
 
 # 349
 >>15207
 ==POTD==
 '''TOP LOL'''
-<ywn a shiny desk full of XP in Soviet Russia.
+< ywn a shiny desk full of XP in Soviet Russia.
 
 I'm glad you're sorting your servos/power systems. Hopefully the situation will improve before too long Anon. I'm sure you will figure things out as you go along. I pray for you SophieDev **indeed for us all**. Godspeed.
 
@@ -2629,8 +2685,10 @@ I'm glad you're sorting your servos/power systems. Hopefully the situation will 
 '''''BTW''''' Anon, your thread is nearly at the autosage bump limit. I'd suggest you begin #3 thread soon.
 
 # 350
-Thought I'd print something small and cheap but still useful: servo connector locks. Do you have keyless servo connectors that keep coming undone when your robot moves about? Slip some of these locks over the connection point and your robot's days of sudden-onset flaccid paralysis will be over!
-
+Thought I'd print something small and cheap but still useful: servo connector locks. Do you have keyless servo connectors that keep coming undone when your robot moves about? Slip some of these locks over the connection point and your robot's days of sudden-onset flaccid paralysis will be over!
+
+
+
 Obviously though, if your wires aren't long enough to accomodate your robot's range of movement and you have these servo connector locks on, then the servo wires are likely to yank out completely (or pull something off your robot) since the servo connectors can no longer slip out easily.
 
 # 351

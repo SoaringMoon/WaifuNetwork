@@ -8,7 +8,8 @@ https://www.forbes.com/sites/frankicookney/2020/05/21/sex-doll-sales-surge-in-qu
 I'm assuming the ones in your pic are some derivative of Harmony, and there actually are robowaifus.
 
 # 3
->>4163
+>>4163
+
 Assuming the momentum stays after Covid, but momentum is going to build regardless. I know the article says it's not just lonely men any more who buy these things but I'm sure the steady rise in that demographic will only help.
 
 # 4

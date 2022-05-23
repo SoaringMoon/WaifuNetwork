@@ -16,10 +16,14 @@ Recorded one month ago by the Speecys guy. I think this is almost beautiful tbh.
 https://www.invidio.us/watch?v=ywm4cQCyVi8
 
 # 3
-Very interesting development on joints, this wrist mechanism using a parallel or delta style approach is easy to manufacture for how complex it is and could work for the neck/ankle/hip too. There's a link to a github in the comments to 3d print your own.
-https://hackaday.com/2019/10/20/humanoid-robot-has-joints-that-inspire/
-
-That site also has another project for a humanoid robot project here, the GPLv3 software it uses is still being updated.
+Very interesting development on joints, this wrist mechanism using a parallel or delta style approach is easy to manufacture for how complex it is and could work for the neck/ankle/hip too. There's a link to a github in the comments to 3d print your own.
+
+https://hackaday.com/2019/10/20/humanoid-robot-has-joints-that-inspire/
+
+
+
+That site also has another project for a humanoid robot project here, the GPLv3 software it uses is still being updated.
+
 https://hackaday.com/2014/03/25/open-source-humanoid-robot-is-awesom-o/
 
 # 4
@@ -41,8 +45,10 @@ That joint is effin amazing tbh. At first I just assumed it was so flexible beca
 
 
 # 7
->>1392
-Not exactly link but, well...
+>>1392
+
+Not exactly link but, well...
+
 **Sage for double-posting.**
 
 # 8
@@ -50,8 +56,10 @@ Not exactly link but, well...
 Thanks for the videos anon. Please post more of them in this thread.
 
 # 9
->>1394
-They post videos and updates on their **twitter** pages.
+>>1394
+
+They post videos and updates on their **twitter** pages.
+
 I like this two projects. The ST-01 seems like something the lapis anon (>>266) would like to see.
 
 # 10
@@ -87,7 +95,8 @@ I guess we would find the files on Thingiverse or alternatives, though.
 >comments and also saving is turned off
 Use youtube-dl, and then just 
 ```cpp
-youtube-dl https://youtu.be/RXhtcWz5GBg```
+youtube-dl https://youtu.be/RXhtcWz5GBg
+```
 to save any videos from YT.
 
 BTW, just an FYI; when cross-linking to another post, use '''two''' greater than chars, like this:
@@ -129,7 +138,8 @@ Poppy is the most impressive of those to me with human-like movement and gait. I
 I dont know, Poppy is based on very expensive servos. I'm impressed, but not that much. If I had the time and knowledge, and maybe soon this will be the case, then I would take the files and combine it with cheaper sensors in the joints and cheaper motors, also maybe some pneumatics.
 
 # 22
->>5358
+>>5358
+
 Had a good look at James Bruton's "Performance Robots". He uses fairly expensive ODrive brushless DC motor drivers ($119 dollars each and there's three per robot). The movement of the arms was very impressive. However, the main drawback I could see in his design was the stiffness of the torso. There was very little sideways motion and not much more front-back movement either. Basically what we need is a version of the Poppy torso but using much cheaper servo motors.
 
 # 23
@@ -510,14 +520,22 @@ Kibo-chan compilation 12: https://youtu.be/umRoMN3Ln4E
 Oh, this is neat. I had the idea to use flight as a crutch since programming real bipedal walking is so complex. The only problem is that it's so noisy. Maybe with a well-made AI it could learn how to move around gradually  weakening its reliance on flight.
 
 # 74
->>14076 
-'''Kibo-chan a cute!'''
-==CUTE!!!==
->yfw they grow up so fast...  ;~;
-
-Anon is making such excellent progress with his dear little Kibo-chan. Thanks for posting this Anon.
-
->===
+>>14076 
+
+'''Kibo-chan a cute!'''
+
+==CUTE!!!==
+
+>yfw they grow up so fast...  ;~;
+
+
+
+Anon is making such excellent progress with his dear little Kibo-chan. Thanks for posting this Anon.
+
+
+
+>===
+
 -''add hotlink''
 
 # 75
@@ -530,14 +548,19 @@ Hydraulic humanoid robot 'LIGHT': https://youtu.be/aVqlnwyfUiA
 GITEX 2021 Robot Exhibition: https://youtu.be/QQXvxZp_hPk
 
 # 76
-Another Engineered Arts Mesmer video: https://www.youtube.com/watch?v=jTny-MYb4tE
-
-The reason I'm posting this is that, in a comment, they said they've "been thinking about an open-source version!" While the Mesmer platform as it stands might not be fit for robowaifu (way too expensive), having a professionally designed animatronic head to build off of could be a hell of a boost.
-
+Another Engineered Arts Mesmer video: https://www.youtube.com/watch?v=jTny-MYb4tE
+
+
+
+The reason I'm posting this is that, in a comment, they said they've "been thinking about an open-source version!" While the Mesmer platform as it stands might not be fit for robowaifu (way too expensive), having a professionally designed animatronic head to build off of could be a hell of a boost.
+
+
+
 Fellow anons, do us all a favor if you don't mind and show Engineered Arts some interest in the open source version!
 
 # 77
-Thoroughly in depth video on the history of MaSiRo that clearly shows exactly how she works. 
+Thoroughly in depth video on the history of MaSiRo that clearly shows exactly how she works. 
+
 https://www.youtube.com/watch?v=7C33JQVZBuY
 
 # 78
@@ -629,10 +652,15 @@ They still don't seem to get the importance of keeping mass and slung/thrown wei
 Still, there is something to be learned by studying their work, we'll just do it smarter & better. :^)
 
 # 80
->>16357
-Thanks for this helpful tool!
->>16373
-From what I can tell, that robot is designed to be plugged in 24/7. (Judging from its heavy duty frame.) I completely ovelooked it at first due to the obvious mass issues but, that knee mechanism is genuinely worth interesting. 
->We'll just do it smarter & better. :^)
+>>16357
+
+Thanks for this helpful tool!
+
+>>16373
+
+From what I can tell, that robot is designed to be plugged in 24/7. (Judging from its heavy duty frame.) I completely ovelooked it at first due to the obvious mass issues but, that knee mechanism is genuinely worth interesting. 
+
+>We'll just do it smarter & better. :^)
+
 You know it Chobitsu! :^)
 

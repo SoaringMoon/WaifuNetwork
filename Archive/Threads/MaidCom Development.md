@@ -2,7 +2,8 @@
 Welcome to the /robowaifu/ board's project. Together, we will engineer a modular robot that will serve and provide companionship to their Anon faithfully. See picrel for details on the current design. This robot will begin with a basic maid robot then move forward towards more capable robots with functionality approaching Chii/2B/Dorothy. First goal is to have a meter tall robot which functions as a mobile server bearing an appearance that approximates her owners waifu. This should be completed by December 2022 with further major updates happening yearly until Anons can build a PersoCom class robot with relative ease and affordability.
 
 # 2
->>15630
+>>15630
+
 GitLab: https://gitlab.com/m9610/maidcom
 
 # 3
@@ -33,11 +34,16 @@ Great. I consider that pushing it for the deadline, but it would be glorious to 
 Cheers Kiwi, we're on the way with ''MaidCom''. Long may she live!! :^)
 
 # 5
->>15649
-Looking forward to working you too, hope Gobi comes back and others join. 
->Server
-I legitimately meant she'd function as a mobile server. You could store media and other digital files on her. This would help to broaden her appeal. She's cute and functional, the Com of MaidCom means both companion and computer.
-
+>>15649
+
+Looking forward to working you too, hope Gobi comes back and others join. 
+
+>Server
+
+I legitimately meant she'd function as a mobile server. You could store media and other digital files on her. This would help to broaden her appeal. She's cute and functional, the Com of MaidCom means both companion and computer.
+
+
+
 Here's the body so far. I made a VRoid model then converted to .glb to inport it into Blender then exported STL files so others can tinker with them. The files are hosted on the projects GitLab. Further refined versions will be uploaded as progress is made.
 
 # 6
@@ -58,9 +64,12 @@ Your reverse-Ascento is a good design if we have powerful actuators available, a
 Conversely, the parallel design choice is a smoother operation mechanism, and is probably a good compromise over the previous choice IMO.
 
 # 8
->>15672
->Space-frame
-I'll work on incorporating the concept.
+>>15672
+
+>Space-frame
+
+I'll work on incorporating the concept.
+
 Thanks for your input, I'm going to wait a bit to see if there's any other thoughts before moving forward. If no one else says anything, I'll go with the faster and cheaper method of springs.
 
 # 9
@@ -75,7 +84,8 @@ I'm sure we'll find the right answers, Kiwi.
 Cheers.
 
 # 10
->>15683
+>>15683
+
 I'd still like feedback and ideas from the team though, it's starting to feel like it's just me and you. What are your thoughts on her computer system? I was thinking of tearing down old Chromebooks and running ROS on them then using an Arduino to interface with her motors and sensors. I figure this would be the easiest and cheapest way of doing things. Being easily built by the average Anon is one of the most important goals. Since you're on software, do you think this is the best route to run her software?
 
 # 11
@@ -105,7 +115,8 @@ But we can address this revision years from now as greatly-increased resources a
 -''add 'toxic & problematic' cmnt''
 
 # 12
->>15691
+>>15691
+
 Are you good at design? I've been racking my brain trying to make good legs but, I'm much better at the internals of a robot then her outer part.
 
 # 13
@@ -128,10 +139,14 @@ Cheers.
 -''prose edit''
 
 # 14
->>15707
->Just make Roll
-That makes sense, I'll do that. Thus far all my designs look like Boston Dynamic but skeletal. 
->Far more complex in my opinion
+>>15707
+
+>Just make Roll
+
+That makes sense, I'll do that. Thus far all my designs look like Boston Dynamic but skeletal. 
+
+>Far more complex in my opinion
+
 It's all perspective, but thanks for your encouragement. I hope  to have software work for us soon.
 
 # 15
@@ -149,7 +164,8 @@ How's things coming along Kiwi? Seems like it's been a couple weeks or so since 
 Cheers.
 
 # 17
->>15802
+>>15802
+
 Been iterating on drive designs. I've simplified it down to a tail with a swivel drive. I'm hopeful a cheap easily built drive system will encourage adoption and others to build their own.
 
 # 18
@@ -173,9 +189,12 @@ The closer we manage to come to your ideal, the better & broader the adoption wi
 Cheers.
 
 # 19
->>15823
-MeidoDev was onto something with trying to extrapolate the basic concept of an RC car into a waifu. His designs lacked rigidity and he wanted the drive mechanisms in her crotch from what I can tell, which would have made her topple over. I'm glad to have his reference, as fundamentally flawed as it was. 
-
+>>15823
+
+MeidoDev was onto something with trying to extrapolate the basic concept of an RC car into a waifu. His designs lacked rigidity and he wanted the drive mechanisms in her crotch from what I can tell, which would have made her topple over. I'm glad to have his reference, as fundamentally flawed as it was. 
+
+
+
 Glad to hear you're on board with the current direction of the project partner. I'm currently thinking of switching to a simple DC motor as I think the use of steppers scares others off given the lack of interest in the project.
 
 # 20
@@ -208,7 +227,8 @@ Some interesting designs to help inspire Meta Ronin and Madtrickster in their de
 Good ideas. What about the Fuchikoma/Tachikoma wheeled-leg designs as an inspiration base Kiwi? Somewhat similar to our Wheelchair Waifu concepts in that it's an independent support & locomotion base (which the robowaifu can rise up from). But a) without the yuge sidewheels, and b) using it's legs can actually climb stairs too.
 
 # 23
->>15897
+>>15897
+
 Great suggestion Chobitsu! That design is truly fantastic in terms of stability and versatility.
 
 # 24
@@ -216,9 +236,12 @@ Great suggestion Chobitsu! That design is truly fantastic in terms of stability 
 Glad you agree. It's also is a mobile 'wagon' of sorts, that can support a metric fun-ton of logistical supplies (batteries, **batteries**, **batteries**) and probably move at high-speed on an open smooth surface like roadways/sidewalks -- just like in my Chinese cartoons! :^)
 
 # 25
->>15901
-They can also store police in the butt! (Atleast in my Japanese cartoons! :^])
-
+>>15901
+
+They can also store police in the butt! (Atleast in my Japanese cartoons! :^])
+
+
+
 On a more serious note, a large backpack/butt is the one aspect of the design which should not be incorporated. Hoping to see Meta Ronin's and Madtrickster's concept art soon. I finally got my resin printer set up so I'll start printing concepts and tests tomorrow.
 
 # 26
@@ -230,7 +253,8 @@ Fair enough, it certainly diminishes the 'unification' aesthetic of the thing as
 BTW, if you decide this is a legitimate area to R&D, then I'd suggest we start out things simply by simply re-purposing scooter wheel/brake assemblies. After all, **why '''''re-invent the wheel''''**? **:^)**
 
 # 27
->>15903
+>>15903
+
 I've actually been looking into skateboard wheels with built in brushless motors. They have incredible  torque for the price and are very easy to use. Just a tad pricey for prototypes. I like your thinking, it's good to remember that there are many parts we can repurpose.
 
 # 28
@@ -239,7 +263,8 @@ I've actually been looking into skateboard wheels with built in brushless motors
 Nice. Just keep the need for good braking in mind. We don't want our dear robowaifus to slip & topple down the stairs!
 
 # 29
->>15906
+>>15906
+
 I actually was really only thinking about electric breaking/using the detent torque of her drive for breaking. Active breaking external to the motor is a good idea for safety, I'll start considering it.
 
 # 30
@@ -248,27 +273,48 @@ I actually was really only thinking about electric breaking/using the detent tor
 Just a straightforward bicycle disc brake should be both lightweight, cheap, and sufficient, I'd say. Assuming we can locate ones small enough to work with skateboard wheels ofc.
 
 # 31
-Friday update for the project thus far:
-Team:
-Chobitsu and RobowaifuDev are on software.
-Meta Ronin and Madtrickster are on concept and design.
-
-To help solidify our projects goals, here's a list of topics that we will decide upon related to her design:
-What rods will we use for her internal frame? 
-3D printing an entire waifu would be arduous and time consuming. A basic frame based on internal rods connected via 3D printed parts would be faster to build and easier to repair. Though I am open to other opinions on her internal frame. Thus far I've been using 1/4 inch dowels. If no alternative is found, that will be the default.
-
- Will she wear clothes? Her design could be more skeletal and thus easier to build and repair if we rely on clothes to cover her. Functioning as an aesthetic and protective "skin".
-If she wears clothes, what size will she be?
-
-How will she be stored? (Aside from on the bed :^)
-How should she be transported? A large box? Within flight luggage? 
-
-Should she be able to be folded, perhaps a transformation as suggested by Chobitsu? Should she be easily separated into various pieces? 
-
-What physical capabilities are most essential? She will be capable of basic locomotion via a swerve drive (a rotary servo which positions her drive motor) with balancing wheels embedded in her soles. Beyond this absolute minimal configuration, what motions must she be capable of? (She will be upgradable, for now we are building a core for her Anon to work from.)
-
-Design and concepts are needed at this stage.
-
+Friday update for the project thus far:
+
+Team:
+
+Chobitsu and RobowaifuDev are on software.
+
+Meta Ronin and Madtrickster are on concept and design.
+
+
+
+To help solidify our projects goals, here's a list of topics that we will decide upon related to her design:
+
+What rods will we use for her internal frame? 
+
+3D printing an entire waifu would be arduous and time consuming. A basic frame based on internal rods connected via 3D printed parts would be faster to build and easier to repair. Though I am open to other opinions on her internal frame. Thus far I've been using 1/4 inch dowels. If no alternative is found, that will be the default.
+
+
+
+ Will she wear clothes? Her design could be more skeletal and thus easier to build and repair if we rely on clothes to cover her. Functioning as an aesthetic and protective "skin".
+
+If she wears clothes, what size will she be?
+
+
+
+How will she be stored? (Aside from on the bed :^)
+
+How should she be transported? A large box? Within flight luggage? 
+
+
+
+Should she be able to be folded, perhaps a transformation as suggested by Chobitsu? Should she be easily separated into various pieces? 
+
+
+
+What physical capabilities are most essential? She will be capable of basic locomotion via a swerve drive (a rotary servo which positions her drive motor) with balancing wheels embedded in her soles. Beyond this absolute minimal configuration, what motions must she be capable of? (She will be upgradable, for now we are building a core for her Anon to work from.)
+
+
+
+Design and concepts are needed at this stage.
+
+
+
 If there are other aspects that you'd like discussed, please be vocal. Your thoughts are valued.
 
 # 32
@@ -327,7 +373,8 @@ Cheers.
 -''add 'pelvic complex' cmnt''
 
 # 33
->>15983
+>>15983
+
 I don't think these tubes made out of thin chromed metal consist of aluminum. Also, it might be cheaper than wood, depended on the place of purchase.
 
 # 34
@@ -335,15 +382,24 @@ I don't think these tubes made out of thin chromed metal consist of aluminum. Al
 Good points Anon. Let's add ''Thin steel/tin tubing'' to the list of possible choices, I'd say.
 
 # 35
->>15983
-Thank you for your design input Chobitsu.
->Metal tubing
-Definitily worth looking into, nice idea.
->Papercraft Anon
-That was me, it's a lot more frustrating to work with then you'd expect. Also will crumble if worked with, even if coated/laminated. Have not tried layering silicone on it but, human clothes would be much simpler. Sophie does indeed demonstrate the value in wearing clothes.
-
-Given your input, current changes would be that she will wear clothes, womans xs, being a tad under 5 feet tall so that dresses don't look too weird on her. We'll figure out how to make that work. She'll be able to stand up/lay down, crouch/sit, and fold into a fetal position for transportation/storage. Hands will be a project once we get there. 
-
+>>15983
+
+Thank you for your design input Chobitsu.
+
+>Metal tubing
+
+Definitily worth looking into, nice idea.
+
+>Papercraft Anon
+
+That was me, it's a lot more frustrating to work with then you'd expect. Also will crumble if worked with, even if coated/laminated. Have not tried layering silicone on it but, human clothes would be much simpler. Sophie does indeed demonstrate the value in wearing clothes.
+
+
+
+Given your input, current changes would be that she will wear clothes, womans xs, being a tad under 5 feet tall so that dresses don't look too weird on her. We'll figure out how to make that work. She'll be able to stand up/lay down, crouch/sit, and fold into a fetal position for transportation/storage. Hands will be a project once we get there. 
+
+
+
 Still hoping to hear from other members of this project.
 
 # 36
@@ -376,16 +432,26 @@ Sounds good, Anon.
 Fair enough. Fortunately this has been a focus of a few anons around the Internet, so much of our design groundwork has already been laid for us.
 
 # 37
->>15972
-Head and eye movement are most essential for me. Moving objects by hand is second most important. Third is facial expression, and fourth, mobility. I'd like her to be poseable like a doll in the first prototype. Sitting up and stuff on her own isn't too important to me since I can't afford that many servos at the time being. I don't have much space in my closet so she'd have to be able to have her knees to her chest to go in there but that's not a big issue since I don't plan on storing her.
-
-It can take months to receive parts by mail where I live and the delays continue to get longer so I'd probably substitute the rods with 3D printed tubing rather than order parts hoping they're right and buying a hacksaw I only use once.
-
->>16013
-My robowaifu's model is designed to be 150 cm (4'11") and isn't designed to have realistic proportions. Given her underbust is only 46 cm, half the size of a woman, there really aren't any clothes on the market that will fit her so I've been planning to get her custom-made ones and throw a lab coat over her plastic shell in the meantime.
-
-I think adaptability of the design will be important so it can be reconfigured to different shapes and sizes. Smaller robowaifus will be much more practical to build. The dolls dancingdoll_rz makes are 60 cm (pic related) but creating hands at this scale is going to be a challenge, hence why I'm building a lifesize robowaifu. MaSiRo has fully working hands and she's 140 cm.
-
+>>15972
+
+Head and eye movement are most essential for me. Moving objects by hand is second most important. Third is facial expression, and fourth, mobility. I'd like her to be poseable like a doll in the first prototype. Sitting up and stuff on her own isn't too important to me since I can't afford that many servos at the time being. I don't have much space in my closet so she'd have to be able to have her knees to her chest to go in there but that's not a big issue since I don't plan on storing her.
+
+
+
+It can take months to receive parts by mail where I live and the delays continue to get longer so I'd probably substitute the rods with 3D printed tubing rather than order parts hoping they're right and buying a hacksaw I only use once.
+
+
+
+>>16013
+
+My robowaifu's model is designed to be 150 cm (4'11") and isn't designed to have realistic proportions. Given her underbust is only 46 cm, half the size of a woman, there really aren't any clothes on the market that will fit her so I've been planning to get her custom-made ones and throw a lab coat over her plastic shell in the meantime.
+
+
+
+I think adaptability of the design will be important so it can be reconfigured to different shapes and sizes. Smaller robowaifus will be much more practical to build. The dolls dancingdoll_rz makes are 60 cm (pic related) but creating hands at this scale is going to be a challenge, hence why I'm building a lifesize robowaifu. MaSiRo has fully working hands and she's 140 cm.
+
+
+
 Something to keep in mind though, by 2028 we'll likely have AI that can design robots through user feedback like DALL-E 2 and test millions of different designs to find the simplest and most efficient one. It might be possible then to do things we think are impossible now like 1:3 scale hands.
 
 # 38
@@ -418,21 +484,33 @@ Welcome to the project RobowaifuDev! Care to share your dsign? Would be great to
 -''edit greeting''
 
 # 39
->>16034
->It can take months to receive parts by mail where I live and the delays continue to get longer so I'd probably substitute the rods with 3D printed tubing rather than order parts hoping they're right and buying a hacksaw I only use once.
-
-3D printed tubing? Why? You can just outright buy pneumatic tubing by the meter. If you mean pistons then you can't go wrong with metal ones. 3D printed ones would not do too well with the focused pressure of a robowaifu's torso weight. 
-
->hence why I'm building a lifesize robowaifu.
-
-I am also making Pandora lifesized. She's more of a redesign and a bit taller than yours. Had come across some open source hand designs that looked very neat. Were a hell of a lot more complicated than the prosthetics floating around in recent months.
-
->>16035
->Metal could harm her Anon when showing their affection.
+>>16034
+
+>It can take months to receive parts by mail where I live and the delays continue to get longer so I'd probably substitute the rods with 3D printed tubing rather than order parts hoping they're right and buying a hacksaw I only use once.
+
+
+
+3D printed tubing? Why? You can just outright buy pneumatic tubing by the meter. If you mean pistons then you can't go wrong with metal ones. 3D printed ones would not do too well with the focused pressure of a robowaifu's torso weight. 
+
+
+
+>hence why I'm building a lifesize robowaifu.
+
+
+
+I am also making Pandora lifesized. She's more of a redesign and a bit taller than yours. Had come across some open source hand designs that looked very neat. Were a hell of a lot more complicated than the prosthetics floating around in recent months.
+
+
+
+>>16035
+
+>Metal could harm her Anon when showing their affection.
+
 ** Just don't fist android girls. Duh. That's always been the rule. /s**
 
 # 40
->>16037
+>>16037
+
 >This sticker may be needed :^)
 
 # 41
@@ -463,10 +541,14 @@ This domain happens to be a great interest for me personally BTW.
 A cute!
 
 # 42
->>16047
->Complex kinematic chains from hand to pelvis to ground
-I'm used to working with heavy metal robots bolted to the floor. An ultra light mobile waifu has fundamentally different physical properties that we must account for. As a failed med student (I suffer from severe vasovogal responses when presented with human blood stimuli, too squeamish to be a doctor.) I think relying on the designs the lord has blessed us with would be ideal. The human skeleton works by suspending bones in fascia, ligaments, and muscle. Whereby constant tension from this connective tissue provides the whole body with integrity via distributing loads across the connective tissues and bones. Allowing us to connect the kinematics of lifting something with our hands all the way to the ground, without relying on heavy rigid linkages that could individually handle the load. (2nd picrel illustrates a model of how this works in us.) Obviously, we are far too complex to be recreated wholly but, I can design a simplification based on the teams designs. **/clang/ing can still be accomplished with this method too :^)**
-
+>>16047
+
+>Complex kinematic chains from hand to pelvis to ground
+
+I'm used to working with heavy metal robots bolted to the floor. An ultra light mobile waifu has fundamentally different physical properties that we must account for. As a failed med student (I suffer from severe vasovogal responses when presented with human blood stimuli, too squeamish to be a doctor.) I think relying on the designs the lord has blessed us with would be ideal. The human skeleton works by suspending bones in fascia, ligaments, and muscle. Whereby constant tension from this connective tissue provides the whole body with integrity via distributing loads across the connective tissues and bones. Allowing us to connect the kinematics of lifting something with our hands all the way to the ground, without relying on heavy rigid linkages that could individually handle the load. (2nd picrel illustrates a model of how this works in us.) Obviously, we are far too complex to be recreated wholly but, I can design a simplification based on the teams designs. **/clang/ing can still be accomplished with this method too :^)**
+
+
+
 I've attached some other pics to help inspire the design team. As a note, they do not need to worry too much about her internal designs, we'll figure that out after choosing her external design.
 
 # 43
@@ -502,17 +584,28 @@ Cheers.
 -''minor prose edit''
 
 # 44
->>16059
-Glad to have you onboard with the tensegrity idea. for further reading that can benefit us all: 
-http://www.tensegrityinbiology.co.uk/biotensegrity/
-https://www.anatomytrains.com/fascia/tensegrity/
-https://tensegrityworld.com/
-http://www.tensegriteit.nl/e-simple.html
-
-For a quick TLDR; by having strings connecting floating elements in tension, all forces must balance. If it doesn't, the system will collapse. An ideal tensegrity system (as demonstrated by both picrels) is designed to prevent that ollapse, often with redundant strings and/or incorporating elasticity in those elements. 
-
-For a great demonstration, this tensegrity table (picrel 1) functions nearly identically to the tensegrity structure which allows the abdominals and latissimus dorsi to move the chest relative to the pelvis. The chest is balanced on the lower spinal column via a complex network of connective tissues and sinovial fluids, which acts basically the same way the center string of the table does. One of the out strings would be the abdominals with the other two outer strings representing the lats. The table would pivot in any of 360 degrees if you varried the tension of the three outer strings. The same way varying tension within our abs and lats causes our chests to pivot about our pelvis. Adding two more points to the table would give a complete tensegral model of the chest by accounting for the obliques that control our side to side chest movements. 
-
+>>16059
+
+Glad to have you onboard with the tensegrity idea. for further reading that can benefit us all: 
+
+http://www.tensegrityinbiology.co.uk/biotensegrity/
+
+https://www.anatomytrains.com/fascia/tensegrity/
+
+https://tensegrityworld.com/
+
+http://www.tensegriteit.nl/e-simple.html
+
+
+
+For a quick TLDR; by having strings connecting floating elements in tension, all forces must balance. If it doesn't, the system will collapse. An ideal tensegrity system (as demonstrated by both picrels) is designed to prevent that ollapse, often with redundant strings and/or incorporating elasticity in those elements. 
+
+
+
+For a great demonstration, this tensegrity table (picrel 1) functions nearly identically to the tensegrity structure which allows the abdominals and latissimus dorsi to move the chest relative to the pelvis. The chest is balanced on the lower spinal column via a complex network of connective tissues and sinovial fluids, which acts basically the same way the center string of the table does. One of the out strings would be the abdominals with the other two outer strings representing the lats. The table would pivot in any of 360 degrees if you varried the tension of the three outer strings. The same way varying tension within our abs and lats causes our chests to pivot about our pelvis. Adding two more points to the table would give a complete tensegral model of the chest by accounting for the obliques that control our side to side chest movements. 
+
+
+
 One could easily model such a system to move the chest of waifu using only 3 motors to control the tension of 6 points, similarly to a stewart platform. (See 3rd picrel)
 
 # 45
@@ -605,41 +698,61 @@ Make sense Kywy?
 <tfw literally years of thoughts & ideas all come together during that ''one'' post :^)
 
 # 48
->>16035
-The model is far from done yet and only intended for 3D at the moment. I don't really know enough about mechanical engineering to come up with a usable design for a robot.
-
->>16037
-3D printed tubing is quite strong so long as you print it horizontally. If you print it vertically then it snaps in half under load. It just seems like a hassle to order parts when stores are always out of stock, overpriced or charge a kidney for shipping. Just driving to the post office costs me $20 in gas. For someone living near the city it might be better to buy but I'd rather print everything I can and reinforce parts with bolts in the Z axis where extra strength is needed.
-
+>>16035
+
+The model is far from done yet and only intended for 3D at the moment. I don't really know enough about mechanical engineering to come up with a usable design for a robot.
+
+
+
+>>16037
+
+3D printed tubing is quite strong so long as you print it horizontally. If you print it vertically then it snaps in half under load. It just seems like a hassle to order parts when stores are always out of stock, overpriced or charge a kidney for shipping. Just driving to the post office costs me $20 in gas. For someone living near the city it might be better to buy but I'd rather print everything I can and reinforce parts with bolts in the Z axis where extra strength is needed.
+
+
+
 Ameca seems to have pretty advanced hands. I've been wondering how they're made. Do you have links to the hand designs you found? I've been thinking of going with Brunel from Open Bionics since it seems the simplest to implement a decently functional hand.
 
 # 49
->>16077
-I'm working on design documentation for MaidCom. https://docs.google.com/document/d/1KQqnWr3eTPegnPigpTv6FZQIpPWRYkVHtT_zz2wUuVY/edit
-Will allow access from others that demonstrate they are members of the project. 
->>16081
-Very fascinating ideas, I'm considering how to incorporate your ideas. Will reply with more depth later.
->>16089
-Cool design, please do keep refining it.
-
+>>16077
+
+I'm working on design documentation for MaidCom. https://docs.google.com/document/d/1KQqnWr3eTPegnPigpTv6FZQIpPWRYkVHtT_zz2wUuVY/edit
+
+Will allow access from others that demonstrate they are members of the project. 
+
+>>16081
+
+Very fascinating ideas, I'm considering how to incorporate your ideas. Will reply with more depth later.
+
+>>16089
+
+Cool design, please do keep refining it.
+
+
+
 In consideration of how long this project is taking, we will now have hard deadlines. Starting with exterior designs needing to be submitted by Wednesday with Friday being the extended date if some progress can be demonstrated by Wednesday and the Anon requires further time.
 
 # 50
->>16089
+>>16089
+
 I had not known your situation makes gathering resources so difficult. Do you not live near a Dollar Tree or home improvement store? I try to design around what is readily available for Anons. Knowing what you have available will help in designing with your constraints in mind when possible. 3D printable rods were always part of this either way.
 
 # 51
->>16081
-Still thinking of your design suggestions and was wondering if there is some hexagon mesh material that's prefabbed? Like a plastic role of hexagonal mesh?
->>16077
+>>16081
+
+Still thinking of your design suggestions and was wondering if there is some hexagon mesh material that's prefabbed? Like a plastic role of hexagonal mesh?
+
+>>16077
+
 For confirmation, was it you that just requested editing access?
 
 # 52
->>16096
+>>16096
+
 yes, I did
 
 # 53
->>16097
+>>16097
+
 Access granted
 
 # 54
@@ -665,7 +778,8 @@ WOW, she's gonna be awesome Anon! You're truly a man of many talents. Looking fo
 Living the dream tbh. I applaud your life choices Anon. May they reward you manyfold in the future.
 
 # 56
->>16104
+>>16104
+
 I've done some resaerch and have found many  hexagonal meshes. Here's a basic internal design. Designs are due for everyone, hoping to see a few, I value everyones ideas.
 
 # 57
@@ -679,10 +793,14 @@ Excellent! I can really see the 'floating chest' with that diagram much better t
 Looks like tensegrity is back on the menu boys! :^)
 
 # 58
->>16109
-https://www.amazon.com/MAPORCH-Upgraded-Plastic-Hexagonal-Gardening/dp/B0936GX5JB/ref=asc_df_B0936GX5JB/?tag=hyprod-20&linkCode=df0&hvadid=533302654497&hvpos=&hvnetw=g&hvrand=10175299579296854402&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030805&hvtargid=pla-1382615920529&th=1
-ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlBMM0ZLMEZUWkpZJmVuY3J5cHRlZElkPUEwOTE2Mjk1MkpPMkpENFo5Mk5KTyZlbmNyeXB0ZWRBZElkPUEwNDg1ODU5Njk4NFBMN0k1Skk2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ
-
+>>16109
+
+https://www.amazon.com/MAPORCH-Upgraded-Plastic-Hexagonal-Gardening/dp/B0936GX5JB/ref=asc_df_B0936GX5JB/?tag=hyprod-20&linkCode=df0&hvadid=533302654497&hvpos=&hvnetw=g&hvrand=10175299579296854402&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9030805&hvtargid=pla-1382615920529&th=1
+
+ZW5jcnlwdGVkUXVhbGlmaWVyPUExMlBMM0ZLMEZUWkpZJmVuY3J5cHRlZElkPUEwOTE2Mjk1MkpPMkpENFo5Mk5KTyZlbmNyeXB0ZWRBZElkPUEwNDg1ODU5Njk4NFBMN0k1Skk2JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ
+
+
+
 Here's a couple of examples, gardening mesh seems to be the best bet based on material properties. I'd appreciate it if you would endeavor to sketch your ideas out. Or provide images that are related to your conceptual idea. Would help everyone on the project better understand.
 
 # 59
@@ -692,7 +810,8 @@ Any updates from the design team?
 What's going on with everyone in the design team? Meta Ronin, Madtrickster, and RobowaifuDev, how are your design efforts going? Is there a way I could help you in designing her external design? We are kind here, any progress is appreciated and any help needed will be provided by the rest of the team to the best of our collective capability.
 
 # 61
->>16114
+>>16114
+
 Yes, sometime this weekend. I work fulltime through the week so weekends are when I have any time to really settle in and work out any ideas in detail.
 
 # 62
@@ -700,39 +819,69 @@ Yes, sometime this weekend. I work fulltime through the week so weekends are whe
 I'll have a look at things this weekend Kywy. Probably post something ITT on Sunday/Monday.
 
 # 63
->>16120
->>16121
+>>16120
+
+>>16121
+
 Thanks for the updates. All members, please reply with the day of the week you can work on waifus so we can work out a schedule for the project.
 
 # 64
->>16123
-Usually I have weekends free and sometimes a weekday.
-
->>16118
-Here's an idea for the shell that has been floating in my head for months but I have no idea how feasible it is and I'm spread too thin across my projects to focus on design.
-
-Pretty much everything I've been working on is to create a foundation for conversational AI. I could use some feedback on what particular features are desired most in MaidCom, since each of these takes a few weeks to a few months to implement. Some things I've already started:
->adjustable personality and voice
->finetuning with reinforcement learning and human feedback
->situational awareness (starting with the time and date and how long a response took)
->user-defined commands, tasks and events via natural language (such as telling her to check Arxiv once a day via a user-defined API and report anything interesting the next time you chat)
->guided sampling (language models often generate nonsense due to having no particular goal; reinforcement learning greatly improves this but the actual problem is in the generated tokens being inferred solely from the context which is missing the user's intention)
->discerning when something is not known and stating that, rather than making things up
-
-And some ones I want to work towards in the future:
->long-term memory
->using Monte Carlo tree search to spend extra time generating responses to find a much better one (and using this to further improve the model)
->speech recognition (expanding adjustable voices into an augmented cycle GAN model that goes from audio to text back to audio again to expand the variety of voices that can be generated and recognized, as well as save memory)
->learning from mistakes (guided sampling and a long-term memory will go a long way here)
->learning to discern useful features through interacting, such as the user's preferences, mood and intentions
->ability to respond to and learn from images, audio and video
->web search
->singing
->automating tasks by generating python scripts
->answering programming questions and other technical topics
->logical reasoning from first principles (requires a good long-term memory with few retrieval failures)
->introspection (analysing the language model and memory to correct inconsistencies and deepen understanding)
->curiosity-driven play in games (as a foundation for simulation training)
+>>16123
+
+Usually I have weekends free and sometimes a weekday.
+
+
+
+>>16118
+
+Here's an idea for the shell that has been floating in my head for months but I have no idea how feasible it is and I'm spread too thin across my projects to focus on design.
+
+
+
+Pretty much everything I've been working on is to create a foundation for conversational AI. I could use some feedback on what particular features are desired most in MaidCom, since each of these takes a few weeks to a few months to implement. Some things I've already started:
+
+>adjustable personality and voice
+
+>finetuning with reinforcement learning and human feedback
+
+>situational awareness (starting with the time and date and how long a response took)
+
+>user-defined commands, tasks and events via natural language (such as telling her to check Arxiv once a day via a user-defined API and report anything interesting the next time you chat)
+
+>guided sampling (language models often generate nonsense due to having no particular goal; reinforcement learning greatly improves this but the actual problem is in the generated tokens being inferred solely from the context which is missing the user's intention)
+
+>discerning when something is not known and stating that, rather than making things up
+
+
+
+And some ones I want to work towards in the future:
+
+>long-term memory
+
+>using Monte Carlo tree search to spend extra time generating responses to find a much better one (and using this to further improve the model)
+
+>speech recognition (expanding adjustable voices into an augmented cycle GAN model that goes from audio to text back to audio again to expand the variety of voices that can be generated and recognized, as well as save memory)
+
+>learning from mistakes (guided sampling and a long-term memory will go a long way here)
+
+>learning to discern useful features through interacting, such as the user's preferences, mood and intentions
+
+>ability to respond to and learn from images, audio and video
+
+>web search
+
+>singing
+
+>automating tasks by generating python scripts
+
+>answering programming questions and other technical topics
+
+>logical reasoning from first principles (requires a good long-term memory with few retrieval failures)
+
+>introspection (analysing the language model and memory to correct inconsistencies and deepen understanding)
+
+>curiosity-driven play in games (as a foundation for simulation training)
+
 >learning to walk and manipulate objects in a simulation to achieve a goal in natural language
 
 # 65
@@ -750,37 +899,59 @@ I commend every.single.anon. here to pay close attention to what this anon has t
 -''minor prose edit''
 
 # 66
->>16132
->AI
-Your conversational AI work is exactly on point. Learning from mistakes and maintaining long-term memory are the most valuable areas to focus on for future development. Those will allow her to grow and adapt to her Anon at a basic level. My personal suggestion would be to give her a meta editor, a subconscious that updates a dynamic database with new variables and values as needed. For example, her Anon could tell her that every Tuesday he has a meeting around 2 P.M. The meta editor would find the Tuesday entry of her database then append in: Meeting == 2 P.M. Then when her Anon asks when his Tuesday meeting is, she will respond that it's at 2 P.M. If her Anon then told her that his Tuesday meetings were now at 1 P.M. the meta editor would change the value assigned to the Meeting variable. Would be cute to store this table as "Memories.CSV". What are your thoughts on this approach? 
-
->Design
-Absolutely adore your design Anon. I appreciate that you clearly thought of how she could be fabricated. those small panels are a clever way to cut down on printing time. I've alluded to such being a design goal and I'm glad you figured out how to make the concept work on a practical and aesthetic level. 
-
->Broom Chucks
-Topkek
-
+>>16132
+
+>AI
+
+Your conversational AI work is exactly on point. Learning from mistakes and maintaining long-term memory are the most valuable areas to focus on for future development. Those will allow her to grow and adapt to her Anon at a basic level. My personal suggestion would be to give her a meta editor, a subconscious that updates a dynamic database with new variables and values as needed. For example, her Anon could tell her that every Tuesday he has a meeting around 2 P.M. The meta editor would find the Tuesday entry of her database then append in: Meeting == 2 P.M. Then when her Anon asks when his Tuesday meeting is, she will respond that it's at 2 P.M. If her Anon then told her that his Tuesday meetings were now at 1 P.M. the meta editor would change the value assigned to the Meeting variable. Would be cute to store this table as "Memories.CSV". What are your thoughts on this approach? 
+
+
+
+>Design
+
+Absolutely adore your design Anon. I appreciate that you clearly thought of how she could be fabricated. those small panels are a clever way to cut down on printing time. I've alluded to such being a design goal and I'm glad you figured out how to make the concept work on a practical and aesthetic level. 
+
+
+
+>Broom Chucks
+
+Topkek
+
+
+
 Looking forward to Meta Ronins contribution and potentially Madtricksters as well. Though, your design is frankly already almost exactly what I was hoping for.
 
 # 67
-Haven't read read  the design doc yet (google's asking for a login and I ain't logging in to that shit on main). Here are my general questions:
-
-1. Who is on board with the project? 
-2. Have you settled on a desired feature set/user experience for the first deadline (Dec 2022)?
+Haven't read read  the design doc yet (google's asking for a login and I ain't logging in to that shit on main). Here are my general questions:
+
+
+
+1. Who is on board with the project? 
+
+2. Have you settled on a desired feature set/user experience for the first deadline (Dec 2022)?
+
 3. Are you willing to use external collaboaration tools/chatrooms like matrix? (not counting the Gdoc you already have)
 
 # 68
->>16149
-1. Team Lead: Kywy
-Design: Meta Ronin, RobowaifuDev, and Madtrickster
-Software: Chobitsu and RobowaifuDev
-
-2. Yes, by Dec 2022 she will be capable of following her Anon and carrying out basic conversations. These conversations will include the ability to give her simple commands such as moving to a desired location. Of course, we would like her to be far more capable by then. Having the capacity to grasp objects and accomplish basic tasks based on audio/visual/hands-on training. Such as being trained to fetch her Anon a drink from a clearly labeled area.
-
+>>16149
+
+1. Team Lead: Kywy
+
+Design: Meta Ronin, RobowaifuDev, and Madtrickster
+
+Software: Chobitsu and RobowaifuDev
+
+
+
+2. Yes, by Dec 2022 she will be capable of following her Anon and carrying out basic conversations. These conversations will include the ability to give her simple commands such as moving to a desired location. Of course, we would like her to be far more capable by then. Having the capacity to grasp objects and accomplish basic tasks based on audio/visual/hands-on training. Such as being trained to fetch her Anon a drink from a clearly labeled area.
+
+
+
 3. Sure, though I'm completely unfamiliar with matrix and this platform would need to be usable by all members.
 
 # 69
->>16149
+>>16149
+
 An amendment to my response on your third point; Chobitsu is uncomfortable with using matrix for valid reasons. We already have plenty of room to chat it out on the board and there's no reason for secrecy. As for accessing the Google Doc, I'd like to host a copy of it here in a stickied thread that Chobitsu would update when necessary if he would agree to it. This project is meant to be a united effort open to us all so, having a version that is readable here would be good.
 
 # 70
@@ -802,52 +973,89 @@ Kywy, I know I said I'd have something by Monday, but it's not looking like I'll
 I'm here and presently working on this. Flying back east tomorrow for a few weeks but I will be in touch since I predict at least some down time. I like the organization that is taking place. Focus focus focus! Taking concrete steps is how we obtain results.
 
 # 73
-This is a prototype for a more detailed sketch with exact dimensions. In this example 1 grid = 2.0 cm. This example represents a 100cm form factor but here it is only about 80cm. Considerations in this sketch are:
-- head to body radio
-- does size of head accommodate 20 x 8 cm mobile device for "eye" emulation, master controller app, I/O considerations
-- frame with specialized (and interchangeable) hard points arranged in hexagonal symmetry with one additional (7th) hard point on the negative Z axis for backpack/power supply/toolkit module
-- universal "snap-lock" type mechanism (yet to be designed) for fixing modules to hard point. "modules" include neck, arms (2), legs (2), 6th (between legs), 7th (back). The idea is the snaplock is a ball type fixture that inserts, twists and snaps or screws into place and may also be removed as easily but not inadvertently during function. I will work on designing this feature.
-- removable "boot". Maido/Maidfu can recline, sit, lie down, etc. without boot, at the owner's wish.
-- Boot is Roll/Reploid style with some exxageration, powered by two angled wheels with two passive support wheels angled opposite "inside" and "rear" for balance (4 points of contact with the ground) Boots may be braced together if the additional stability is required.
-- joints must have ports or "room" for routing power and control wires/cables
-
-I will refine this design and provide more exact specifications next revision
-I will *design* concept for hardpoint snap-lock system
-I will *brainstorm* 
-- modular joints (replace one type of hand/arm with another)
-- power delivery methods (for both arms/hands and leg wheels)
-- incorporating tensegrity into frame via cables for additional stability
-- specialized servos to provide force where needed but allowing for flexibility and "give" where needed. Strongly considering solenoid applications. I would like to make use of available servos and solenoids but arrange and apply them in novel ways to meet these requirements.
-
+This is a prototype for a more detailed sketch with exact dimensions. In this example 1 grid = 2.0 cm. This example represents a 100cm form factor but here it is only about 80cm. Considerations in this sketch are:
+
+- head to body radio
+
+- does size of head accommodate 20 x 8 cm mobile device for "eye" emulation, master controller app, I/O considerations
+
+- frame with specialized (and interchangeable) hard points arranged in hexagonal symmetry with one additional (7th) hard point on the negative Z axis for backpack/power supply/toolkit module
+
+- universal "snap-lock" type mechanism (yet to be designed) for fixing modules to hard point. "modules" include neck, arms (2), legs (2), 6th (between legs), 7th (back). The idea is the snaplock is a ball type fixture that inserts, twists and snaps or screws into place and may also be removed as easily but not inadvertently during function. I will work on designing this feature.
+
+- removable "boot". Maido/Maidfu can recline, sit, lie down, etc. without boot, at the owner's wish.
+
+- Boot is Roll/Reploid style with some exxageration, powered by two angled wheels with two passive support wheels angled opposite "inside" and "rear" for balance (4 points of contact with the ground) Boots may be braced together if the additional stability is required.
+
+- joints must have ports or "room" for routing power and control wires/cables
+
+
+
+I will refine this design and provide more exact specifications next revision
+
+I will *design* concept for hardpoint snap-lock system
+
+I will *brainstorm* 
+
+- modular joints (replace one type of hand/arm with another)
+
+- power delivery methods (for both arms/hands and leg wheels)
+
+- incorporating tensegrity into frame via cables for additional stability
+
+- specialized servos to provide force where needed but allowing for flexibility and "give" where needed. Strongly considering solenoid applications. I would like to make use of available servos and solenoids but arrange and apply them in novel ways to meet these requirements.
+
+
+
 This concludes my update for this week. Will have more next week, however I have family events all weekend so this may delay my update until Monday or Tuesday of the following week.
 
 # 74
->>16158
->>16159
-Thank you for your update. I'll extend the deadline until May 16th. If there is any way I can help as an engineer, please do ask. 
->>16161
->>16163
-Thanks for your update Meta Ronin. Glad to see the high level of thought put into your design work. I've been brainstorming connectors and look forward to comparing our designs, the ball part has struck some inspiration. The removable drive boots are likely to make it into the final design as they're good for balance, acting as training wheels until active balancing is worked on. I'm curious on how you'll integrate your ideas on an engineering level, I'll endeavor to distill my ideas into clearer designs to share by Wednesday. I hope my ideas will help you hone yours when you get a chance to think between/after your family events. I hope your family events are jovial and blessed.
-
+>>16158
+
+>>16159
+
+Thank you for your update. I'll extend the deadline until May 16th. If there is any way I can help as an engineer, please do ask. 
+
+>>16161
+
+>>16163
+
+Thanks for your update Meta Ronin. Glad to see the high level of thought put into your design work. I've been brainstorming connectors and look forward to comparing our designs, the ball part has struck some inspiration. The removable drive boots are likely to make it into the final design as they're good for balance, acting as training wheels until active balancing is worked on. I'm curious on how you'll integrate your ideas on an engineering level, I'll endeavor to distill my ideas into clearer designs to share by Wednesday. I hope my ideas will help you hone yours when you get a chance to think between/after your family events. I hope your family events are jovial and blessed.
+
+
+
 (picrel is a cute OC reploid that vaguely encapulates elements from both designs submitted thus far.)
 
 # 75
->>16139
-**/robowaifu/ ****:^)** The design was inspired by @61laboratory, Aigis, Cocona Kosaka, Ameca and InMoov. I'll reply to the thread in a bit.
-
->>16142
->Learning from mistakes and maintaining long-term memory are the most valuable areas to focus on for future development. Those will allow her to grow and adapt to her Anon at a basic level.
-Agreed. Something else that could be tried too is imitation learning. I grew up playing with the Daisy chatbot that starts off knowing no words at all but gradually learns to form more and more complex sentences by imitating the user and making corrections from user feedback. I was obsessed with that program as a kid because it was the closest thing to having my own Chii.
-
->My personal suggestion would be to give her a meta editor
-The memories will be editable but editing them directly will only be for debugging. Remembering the new time for a meeting should be simple as telling her. I'm strongly against the idea of changing memories. The most relevant memories should always rise to the surface. Outdated rarely-accessed information will gradually sink away but still be accessible with very specific queries, such as "what time was my meeting before it changed to 1 PM?" She should remember anon had a meeting at 2 PM but it was changed later to 1 PM and perhaps use this new information for other things such as starting dinner an hour early. And if anon needs his full schedule or a report of anything stored in her memories, then she can generate it and return a CSV file if desired.
-
+>>16139
+
+**/robowaifu/ ****:^)** The design was inspired by @61laboratory, Aigis, Cocona Kosaka, Ameca and InMoov. I'll reply to the thread in a bit.
+
+
+
+>>16142
+
+>Learning from mistakes and maintaining long-term memory are the most valuable areas to focus on for future development. Those will allow her to grow and adapt to her Anon at a basic level.
+
+Agreed. Something else that could be tried too is imitation learning. I grew up playing with the Daisy chatbot that starts off knowing no words at all but gradually learns to form more and more complex sentences by imitating the user and making corrections from user feedback. I was obsessed with that program as a kid because it was the closest thing to having my own Chii.
+
+
+
+>My personal suggestion would be to give her a meta editor
+
+The memories will be editable but editing them directly will only be for debugging. Remembering the new time for a meeting should be simple as telling her. I'm strongly against the idea of changing memories. The most relevant memories should always rise to the surface. Outdated rarely-accessed information will gradually sink away but still be accessible with very specific queries, such as "what time was my meeting before it changed to 1 PM?" She should remember anon had a meeting at 2 PM but it was changed later to 1 PM and perhaps use this new information for other things such as starting dinner an hour early. And if anon needs his full schedule or a report of anything stored in her memories, then she can generate it and return a CSV file if desired.
+
+
+
 Also memories have dependencies so tinkering with them will likely cause undefined behaviour. If she remembers anon likes having his favourite food with rice and his favourite food is chicken but he changes his favourite food later to pizza, then he's going to have humorous situations like her serving pizza with rice. By only adding new memories though she can resolve this by knowing that memory was true when his favourite food was chicken and that he probably still likes chicken with rice but his new favourite food now is pizza. This is why I'm working on situational awareness because the time of events is really important.
 
 # 76
->>16165
-There's a misunderstanding, I meant the meta editor would be an internal editor for her definitions database. Her Anon wouldn't edit it directly, the editor would instead pick up on contextual clues from her conversations to edit the database as needed. From the way you're talking, it seems that AI could do something similar without need of external database. I have experience in manufacturing and programmed a database using Jupyter Notebook so that users could alter the values for variables without direct access to the programs  which referenced those variables. I thought something similar could work with a convoluted network of AI instead of human input. Kind of similar to how a human mind functions with many discrete subconscious processes that update our active and long term memories based on the input of other processes. I'm not particularly familiar with AI, though I understand psychology from my med student days and databases so that's where my frame of reference comes from. If you believe a single AI would do the job better then separate specialized AI working in parallel, I'll trust your judgement. You've demonstrated your knowledge and a mindfulness for context beyond what I would consider. 
-
+>>16165
+
+There's a misunderstanding, I meant the meta editor would be an internal editor for her definitions database. Her Anon wouldn't edit it directly, the editor would instead pick up on contextual clues from her conversations to edit the database as needed. From the way you're talking, it seems that AI could do something similar without need of external database. I have experience in manufacturing and programmed a database using Jupyter Notebook so that users could alter the values for variables without direct access to the programs  which referenced those variables. I thought something similar could work with a convoluted network of AI instead of human input. Kind of similar to how a human mind functions with many discrete subconscious processes that update our active and long term memories based on the input of other processes. I'm not particularly familiar with AI, though I understand psychology from my med student days and databases so that's where my frame of reference comes from. If you believe a single AI would do the job better then separate specialized AI working in parallel, I'll trust your judgement. You've demonstrated your knowledge and a mindfulness for context beyond what I would consider. 
+
+
+
 I'm looking forward to seeing where your personality AI will go. Though, I must add that current plans include running a version of her software as an application for Android phones and GNU/Linux computers. Please do share your thoughts on the matter. You and Chobitsu are working on the software and it's important that  hardware matches.
 
 # 77
@@ -871,11 +1079,13 @@ So, the weaving process looks to be more expensive in overall effort than I orig
 -''clarify large-vs-small hex distinctions''
 
 # 78
->>16167
+>>16167
+
 Hole sizes vary tremendously, I could devise a machine to sow together something like this with a few months of time and enough resources. I've been thinking of using molds based on some open source mannequin to form a mesh then sow cords onto that mesh to maintain the form through tension. Those meshes would then be sown together to form her body with servos strategically placed to actuate her via tugging her cords. At least, this is my understanding of your idea and how I would go about manufacturing it. Final result being similar to second picrel.
 
 # 79
->>16170
+>>16170
+
 Second pic didn't show up, here it is.
 
 # 80
@@ -897,8 +1107,10 @@ Make sense Kywy?
 -''add 'fast or slow strain effects' cmnt''
 
 # 81
->>16172
-3D printing the meshes actually makes a lot of sense. A PETG and TPU hybrid material would be perfect but, for now PETG would be ideal based on current low cost consumer options. I'm drawing up a design for basic elements of this design for 3D printing/molding, will post those soon. From what you're describing, we could model her forms, then use variational surface cutting to print her mesh flat and sow them into form.
+>>16172
+
+3D printing the meshes actually makes a lot of sense. A PETG and TPU hybrid material would be perfect but, for now PETG would be ideal based on current low cost consumer options. I'm drawing up a design for basic elements of this design for 3D printing/molding, will post those soon. From what you're describing, we could model her forms, then use variational surface cutting to print her mesh flat and sow them into form.
+
 https://www.cs.cmu.edu/~kmcrane/Projects/VariationalCuts/
 
 # 82
@@ -909,7 +1121,8 @@ Brilliant. I'd suggest proceeding with design explorations in this direction. Sh
 What a time to be alive! :^)
 
 # 83
->>16174
+>>16174
+
 Here's a quick drawing of my idea for her meshes nexus points.
 
 # 84
@@ -932,14 +1145,19 @@ Again, these eyeholes are the tension-cord mount points, as well as the actuator
 -''add 'Voilà!' cmnt''
 
 # 85
-I think I have enough info to start making plans, I'll get some charts made when I get the chance.
-
+I think I have enough info to start making plans, I'll get some charts made when I get the chance.
+
+
+
 I see that this is an ambitious project with planned features far beyond "follow anon". This means getting a modular, easily re-configurable architecture down (like the aforementioned WaifuAPI) will be critical in the long run.
 
 # 86
->>16176
-Glad we are on the same page Chobitsu. I'm feeling very confident in this new direction. After much thought on how this would work from a robotics, manufacturing, and durability perspective, I've decided to go with a tensioned mesh approach first. I'm considering different anchoring ideas and we'll need to test various options. I'm think this concept should be dubbed "meshtegrity".
->>16178
+>>16176
+
+Glad we are on the same page Chobitsu. I'm feeling very confident in this new direction. After much thought on how this would work from a robotics, manufacturing, and durability perspective, I've decided to go with a tensioned mesh approach first. I'm considering different anchoring ideas and we'll need to test various options. I'm think this concept should be dubbed "meshtegrity".
+
+>>16178
+
 I look forward to seeing your charts. It is indeed a very complex project with much to be done. Which is why we need good coordination and communication.
 
 # 87
@@ -948,102 +1166,165 @@ I look forward to seeing your charts. It is indeed a very complex project with m
 ==It Begins== **:^)**
 
 # 88
-(Explanation of chart)
-1. First, we have to officially get the  requirements/features set in stone for the December release.
-2. Once we know what features we want, we can make a bill of materials/components that the design needs to house (Battery, microphone, camera, etc)
-(the hardware design team can take care of the specifics as they experiment with different components)
-3. Make a mechanical prototype to make sure the robot can move and house the necessary hardware.
-4. Once the robot can move and see, then the software team can get to advanced features and voice commands, and the design team can get to making MC's design production-ready
-
-[Chart done in ProjectLibre]
-
-Do we have anybody who is already familiar with ROS?
+(Explanation of chart)
+
+1. First, we have to officially get the  requirements/features set in stone for the December release.
+
+2. Once we know what features we want, we can make a bill of materials/components that the design needs to house (Battery, microphone, camera, etc)
+
+(the hardware design team can take care of the specifics as they experiment with different components)
+
+3. Make a mechanical prototype to make sure the robot can move and house the necessary hardware.
+
+4. Once the robot can move and see, then the software team can get to advanced features and voice commands, and the design team can get to making MC's design production-ready
+
+
+
+[Chart done in ProjectLibre]
+
+
+
+Do we have anybody who is already familiar with ROS?
+
 (Deleted and reposted because of chart typo. is there a way to edit my posts?)
 
 # 89
->>16185
+>>16185
+
 I know some of the info for 1 and 2 is listed in the gitlab, but I want a confirmation so there's no confusion later on..
 
 # 90
->>16108
+>>16108
+
 How are you going to deal with vibrations? Won't tensegrity wobble a lot?
 
 # 91
->>16185
-We will be starting with a dev platform that is very minimal then work our way up. This very minimal version will be used for my answers.
-1. A 100 cm cute maid. One swerve drive in her tail with a steering servo and driving motor. She'll be posable by her Anon. She'll have basic conversational skills and offer basic companionship.
-2. Some of the BOM is dependent on the software teams needs. Her most basic version would rely on an Android phone, an external battery, an Arduino controlling her servo and an h-bridge, her initial body will just be 3D printed with string for tension.
-3. Working on it.
-4 Hope to get there this year!
-
-I have very limited knowledge of ROS. Chobitsu and RobowaifuDev being the software team will decide on her software. 
-
+>>16185
+
+We will be starting with a dev platform that is very minimal then work our way up. This very minimal version will be used for my answers.
+
+1. A 100 cm cute maid. One swerve drive in her tail with a steering servo and driving motor. She'll be posable by her Anon. She'll have basic conversational skills and offer basic companionship.
+
+2. Some of the BOM is dependent on the software teams needs. Her most basic version would rely on an Android phone, an external battery, an Arduino controlling her servo and an h-bridge, her initial body will just be 3D printed with string for tension.
+
+3. Working on it.
+
+4 Hope to get there this year!
+
+
+
+I have very limited knowledge of ROS. Chobitsu and RobowaifuDev being the software team will decide on her software. 
+
+
+
 (ProjectLibre seems neat, thanks for bringing it up.
 
 # 92
->>16188
+>>16188
+
 I'll do testing to ensure it's at an acceptable level. For reference, people are constantly wobbling, we just don't notice. Your concern is understandable but can be engineered around.
 
 # 93
->>16185
->Do we have anybody who is already familiar with ROS?
-A little bit!
-
->>16190
+>>16185
+
+>Do we have anybody who is already familiar with ROS?
+
+A little bit!
+
+
+
+>>16190
+
 I'll be very interested to see if you can get this "suspension bridge" body to be rigid and dependable. It's a radical departure from traditional robot design to say the least.
 
 # 94
->>16189
->Her most basic version would rely on an Android phone
+>>16189
+
+>Her most basic version would rely on an Android phone
+
 I'd avoid locking myself down to Android. Android programming sucks. Building around a Linux control computer will both be easier and more flexible in the long run. Fact: you can even run linux on top of Android via an app! (albeit slowly)
 
 # 95
->>16191
-Welcome to the team! Glad to have you, please fill out the form at your nearest convenience: >>15486
->>16192
+>>16191
+
+Welcome to the team! Glad to have you, please fill out the form at your nearest convenience: >>15486
+
+>>16192
+
 To be honest, she was originally planned to use a modified laptop. Android phones are much lighter though and very easy to access. I use Termux for Linux on Android and I would not want my waifu to have that kind of latency kek. The Pinephone may be a good choice though its low power SOC may be problematic. I'd suggest modded OnePlus 6/POCO F1's but, there availability cannot be guaranteed. I'd appreciate your input on a low cost, low power, easily attainable Linux computer for running waifu software.
 
 # 96
->>16192
->>16193
->Android phone
-Android programming is its own can of worms (unless you're building off of some easy to use framework). I think a web interface would be better because it's a cross-platform can of worms.
-
->low cost, low power linux computer
-Raspberry pi? It supports ROS and already has GPIO integrated into the board so you may be able to skip the Arduino.
-
->>16189
->servos and motors for mobility
->conversational AI
->posable by her anon
-So the top half is basically a doll, while the bottom half is like an RC car?
+>>16192
+
+>>16193
+
+>Android phone
+
+Android programming is its own can of worms (unless you're building off of some easy to use framework). I think a web interface would be better because it's a cross-platform can of worms.
+
+
+
+>low cost, low power linux computer
+
+Raspberry pi? It supports ROS and already has GPIO integrated into the board so you may be able to skip the Arduino.
+
+
+
+>>16189
+
+>servos and motors for mobility
+
+>conversational AI
+
+>posable by her anon
+
+So the top half is basically a doll, while the bottom half is like an RC car?
+
 I assume the "carry small loads" feature mentioned in the gitlab can be nixed for the December release?
 
 # 97
 If we gave MaidCom a bustle dress, we could put a cargo rack on the butt, lol.
 
 # 98
->>16198
->Web interface
-Whereas I personally would want this, I have a gut feeling most would be against it. The schizo shitposters are a sizable portion of our intended market. :^)
-
-Pi's are low in stock and expensive currently, especially when you consider everything that needs to be added.
-
-Well, she'll carry things you place on her at first. Next December will have the goal of her carrying things she picked up.
-
->>16199
+>>16198
+
+>Web interface
+
+Whereas I personally would want this, I have a gut feeling most would be against it. The schizo shitposters are a sizable portion of our intended market. :^)
+
+
+
+Pi's are low in stock and expensive currently, especially when you consider everything that needs to be added.
+
+
+
+Well, she'll carry things you place on her at first. Next December will have the goal of her carrying things she picked up.
+
+
+
+>>16199
+
 Kek, that makes some sense.
 
 # 99
->>16200
->Pi's are low in stock and expensive currently, especially when you consider everything that needs to be added.
->$100-$200 for a bare board
-Damn, how long has it been like this?
-We might have to make a rack for a thinkpad or a Core 2 desktop and battery, lol
->picrel
-
->can't have a web interface because of schizo shitposters
-Then android phones are out of the equation, too.
+>>16200
+
+>Pi's are low in stock and expensive currently, especially when you consider everything that needs to be added.
+
+>$100-$200 for a bare board
+
+Damn, how long has it been like this?
+
+We might have to make a rack for a thinkpad or a Core 2 desktop and battery, lol
+
+>picrel
+
+
+
+>can't have a web interface because of schizo shitposters
+
+Then android phones are out of the equation, too.
+
 A web interface doesn't have to be connected to another wifi network, it could have its own AP with a web server. If people are schizo about wifi, then we could offer a wired-only version.
 
 # 100
@@ -1074,8 +1355,10 @@ Talking of which. Why couldn't ''MaidCom'' just keep a tiny bar/fridge/hibachi/e
 Seem legit?
 
 # 102
->>16202
->We might have to make a rack for a thinkpad or a Core 2 desktop and battery, lol
+>>16202
+
+>We might have to make a rack for a thinkpad or a Core 2 desktop and battery, lol
+
 This is almost the best idea at this point (until something absurd causes the value of them to shoot up too much, you know it's coming). You could easily tuck away a laptop or "tiny form factor" PC inside a cute bag she wears, no awkward rack needed. This way you can use just about any computer you have on hand. No need to go out and buy something special.
 
 # 103
@@ -1087,34 +1370,56 @@ I really like this position in general **I have a few old boxes around**. I'm on
 But it's certainly a helpful expedient for us ATM to make good forward progress **and the manipulators trying to manipulate the markets can't keep it up forever -- the Chinese will eventually step in and there will be far more devices (and cheaper too!) than ever eventually**.
 
 # 104
->>16202
-As a fellow ass man, I understand.
-Are you implying a wireless method of controlling her via a web app? That can be added.
->>16205
-Back to Linux on a laptop then.
->>16204
-This future is wild. I won't build Fridge Chan but, I'll help you kek. I definitely want to add the curtsy behaviour once she has the degrees of freedom to allow it.
->>16206
+>>16202
+
+As a fellow ass man, I understand.
+
+Are you implying a wireless method of controlling her via a web app? That can be added.
+
+>>16205
+
+Back to Linux on a laptop then.
+
+>>16204
+
+This future is wild. I won't build Fridge Chan but, I'll help you kek. I definitely want to add the curtsy behaviour once she has the degrees of freedom to allow it.
+
+>>16206
+
 **I'm also a paranoid schizo, it's part of why deep down I want to go with a non-pozzed RISC V SBC but, they're just not powerful enough yet.**
 
 # 105
-It seems that while the hardware team is cooking up ideas, the software team can make progress by settling up a TTS engine, Speech recognition, and a conversational AI, because those don't rely on a working robot prototype. 
-Once we have the ingredients, it's just a matter of linking them all together and slapping it in whatever computer winds up powering MaidCom
-
+It seems that while the hardware team is cooking up ideas, the software team can make progress by settling up a TTS engine, Speech recognition, and a conversational AI, because those don't rely on a working robot prototype. 
+
+Once we have the ingredients, it's just a matter of linking them all together and slapping it in whatever computer winds up powering MaidCom
+
+
+
 Speech2Text->Chatbot->Text2Speech
 
 # 106
->>16207
->Are you implying a wireless method of controlling her via a web app? That can be added.
-What I mean by web interface isn't "You can remotely access your waifu from an internet connection" (schizo nightmare), I'm thinking something closer to:
->Waifu makes a personal wifi access point
->connect to AP
->connect to web server running on waifu
-The Waifu is controlled via a web browser, but it's all done through her personal LAN and not the regular internet.
-
->>16207
->>16206
->paranoid schizo
+>>16207
+
+>Are you implying a wireless method of controlling her via a web app? That can be added.
+
+What I mean by web interface isn't "You can remotely access your waifu from an internet connection" (schizo nightmare), I'm thinking something closer to:
+
+>Waifu makes a personal wifi access point
+
+>connect to AP
+
+>connect to web server running on waifu
+
+The Waifu is controlled via a web browser, but it's all done through her personal LAN and not the regular internet.
+
+
+
+>>16207
+
+>>16206
+
+>paranoid schizo
+
 Kidding aside, the only difference between paranoia and security is the value of the target. A waifu is no worse than a smartphone in terms of spying, but its ability to interact with the real world makes it potentially more dangerous than a smartphone. But if you're not a VIP (or your front door isn't left wide open), you should be safe with normal hardware.
 
 # 107
@@ -1164,28 +1469,47 @@ I realize this is a compromise, but it's just that: ''a compromise''. I say let'
 What think ye Anons?
 
 # 110
->>16210
->I think we probably need to consolidate onto one or (at most) two 'universal racks/storage volume' so Anon can have a standardized location to add his machine?
-What about an ATX motherboard mount in the bustle? Pretty much anything from a repurposed office desktop to a compute stick could be used (not counting the PSU and battery for desktop hardware).
-If that's too big/complicated, we could have a universal cavity in the bottom half for a compute stick, mini PC or laptop.
-
->>16212
->hack something together that just werks by December.
-We could have MC tethered to a desktop if  the onboard computer question takes too much time.
+>>16210
+
+>I think we probably need to consolidate onto one or (at most) two 'universal racks/storage volume' so Anon can have a standardized location to add his machine?
+
+What about an ATX motherboard mount in the bustle? Pretty much anything from a repurposed office desktop to a compute stick could be used (not counting the PSU and battery for desktop hardware).
+
+If that's too big/complicated, we could have a universal cavity in the bottom half for a compute stick, mini PC or laptop.
+
+
+
+>>16212
+
+>hack something together that just werks by December.
+
+We could have MC tethered to a desktop if  the onboard computer question takes too much time.
+
 A mini PC could easily fit in the backpack, maybe a small laptop (depending on her proportions), but full size desktop hardware is a no go.
 
 # 111
->>16209
-I actually planned on using MaidCom as a portable server before the Android idea. So, yes your suggestion is definitely going to be added. I've wanted a a cute monster girl maid that is also my media/file server. There's a lot to do before this.
->Schizo
-It's just slang for people that care about privacy and security on imageboards. 
->>16210
->Standards
-We do need those. I'll do some research into general laptop sizes to develop mounts. Though I was thinking that we should limit us to 14 inches or less as bigger laptops are much heavier.
->Foundations
-I appreciate your mindful development, it is a boon to MaidCom.
->>16212
->Rondoseru server 
+>>16209
+
+I actually planned on using MaidCom as a portable server before the Android idea. So, yes your suggestion is definitely going to be added. I've wanted a a cute monster girl maid that is also my media/file server. There's a lot to do before this.
+
+>Schizo
+
+It's just slang for people that care about privacy and security on imageboards. 
+
+>>16210
+
+>Standards
+
+We do need those. I'll do some research into general laptop sizes to develop mounts. Though I was thinking that we should limit us to 14 inches or less as bigger laptops are much heavier.
+
+>Foundations
+
+I appreciate your mindful development, it is a boon to MaidCom.
+
+>>16212
+
+>Rondoseru server 
+
 Nice idea, would require counter balancing or, be supported by her tail.
 
 # 112
@@ -1209,14 +1533,22 @@ Thanks! I mean to help every.single.project. here with it too. For instance ''Pa
 Yep. Might I suggest using a fannypack as well around the front girdle filled with batteries as a counter? It would certainly lend some geometrical lever advantage from there across the central mass point. Also, you'll to design pretty beefy '''''Meshtegrity''''' supporting tensionlines to deal with the extra mass up in the floating chest complex.
 
 # 113
->>16216
->>16214
->tail for support
-Picrel comes to mind.
-One of the pics posted earlier (>>15822) shows a foxgirl tail but a cat or fox tail that touches the ground enough to provide support would look disproportionate IMO. With a lizard, a tail touching the ground is natural.
-
->We haven't confirmed the bustle
-I should have said "lower half"
+>>16216
+
+>>16214
+
+>tail for support
+
+Picrel comes to mind.
+
+One of the pics posted earlier (>>15822) shows a foxgirl tail but a cat or fox tail that touches the ground enough to provide support would look disproportionate IMO. With a lizard, a tail touching the ground is natural.
+
+
+
+>We haven't confirmed the bustle
+
+I should have said "lower half"
+
 The designs I have seen so far (>>16163) feature legs fused together so it is already kind of a dress/bustle thing, just at different implied dimensions.
 
 # 114
@@ -1231,22 +1563,35 @@ While you certainly have a good point about the lever configuration being at an 
 Isn't that the Lizard House at the San Diego Zoo?
 
 # 116
->>16163
-Here's my designs thus far, hope they can help your designs.
-
-Her skeleton will be composed of meshes that are tied to nexus blocks. These nexus blocks would have block connectors and 5/6 connectors (see picrel). These block connectors will be used for connecting body panels and limbs physically. The 5/6 connectors will be used to connect limbs electrically to her primary/master microcrontroller.
-
+>>16163
+
+Here's my designs thus far, hope they can help your designs.
+
+
+
+Her skeleton will be composed of meshes that are tied to nexus blocks. These nexus blocks would have block connectors and 5/6 connectors (see picrel). These block connectors will be used for connecting body panels and limbs physically. The 5/6 connectors will be used to connect limbs electrically to her primary/master microcrontroller.
+
+
+
 I'm also considering servo horns with captive string to manipulate her sekeleton.
 
 # 117
->>16216
-I think an ESP32 makes sense for her primary microcontroller. This way she could have her software hosted on a Bluetooth/Wi-Fi/USB connecter server. Which could take the form of a rondoseru styled computer case or Thinlpad in her front apron (to name a few of many potential options for keeping her control server with her. 
->ATX
-Too big/heavy/power consuming. I was drawing up plans for a mini ITX case which could be 3D printed rather easily. But, I will also design a micro ATX case though due to it's size will require significantly more complexity in printing as most commonly used printers max out at around 200mm3 or 8in3. All desktops will use much more power compared to a laptop of equivalent performance within the same generation so, please bare in mind that these designs will be for high speed, low battery life. Planes and other regulations means she'll need her battery to be less then 100 watt hours but, I plan to make them hotswappable with internal capacitors so you could swap out batteries as needed. I'm also planning it out to look a lot like the rondoseru in my previous pic. I'm a big fan of a latching cover for easy access to her servers internals.
->>16219
->>16220
-Bustles are possible though I'm probably not going to design them. As a reminder, this project is completely open and designed to be modular so if someone wants bustles, they're encouraged to make one that's compatible with our system. (Once we figure out how our system will work.)
->Tails
+>>16216
+
+I think an ESP32 makes sense for her primary microcontroller. This way she could have her software hosted on a Bluetooth/Wi-Fi/USB connecter server. Which could take the form of a rondoseru styled computer case or Thinlpad in her front apron (to name a few of many potential options for keeping her control server with her. 
+
+>ATX
+
+Too big/heavy/power consuming. I was drawing up plans for a mini ITX case which could be 3D printed rather easily. But, I will also design a micro ATX case though due to it's size will require significantly more complexity in printing as most commonly used printers max out at around 200mm3 or 8in3. All desktops will use much more power compared to a laptop of equivalent performance within the same generation so, please bare in mind that these designs will be for high speed, low battery life. Planes and other regulations means she'll need her battery to be less then 100 watt hours but, I plan to make them hotswappable with internal capacitors so you could swap out batteries as needed. I'm also planning it out to look a lot like the rondoseru in my previous pic. I'm a big fan of a latching cover for easy access to her servers internals.
+
+>>16219
+
+>>16220
+
+Bustles are possible though I'm probably not going to design them. As a reminder, this project is completely open and designed to be modular so if someone wants bustles, they're encouraged to make one that's compatible with our system. (Once we figure out how our system will work.)
+
+>Tails
+
 There are many ways to dress up and pose her tail. A shark tail may be the best because of its width and girth. Either way, a cat/fox style tail like picrel 1 is what I'm going to design first.
 
 # 118
@@ -1268,7 +1613,8 @@ Yeah I was thinking that myself after anon's lizard tail post above. Again, lots
 Please keep up the good work Kywy! Looking forward to your designs.
 
 # 119
->>16226
+>>16226
+
 Finally got some somewhat successful prints after aggressively sanding my print bed. (Anyone know of a good brand of PETG? NOVAmaker and Duramic have similar failures/smell to ABS.) Glad to report everything from plastic thicknesses affecting material properties, my clipping machanism (I just have the clip on the otherside as it's way easier to print with trash PETG.), and tying things together works almost exactly as intended. Will add stabilizers to the mating surfaces of the mesh and nexus blocks as they wiggle too much. Also reducing the number of holes to two as you honestly only need one knot. Pictures were taken on an open notebook for a sense of scale. Looking forward to more tests soon.
 
 # 120
@@ -1276,8 +1622,10 @@ Finally got some somewhat successful prints after aggressively sanding my print 
 Neat! Nice work Anon. Once everything's assembled and the skin is in place **maybe some of the cosplay LARPfoam + thin prosthetic-grade silicone cured/powdered overcoat?** this kind of structural form will be very /comfy/. Good for huggles! :DD
 
 # 121
-Crosspost from foundations: >>16230
-Threw together a few libraries into a one-pager talking chatbot.
+Crosspost from foundations: >>16230
+
+Threw together a few libraries into a one-pager talking chatbot.
+
 Needs work, but it's a proof of concept.
 
 # 122
@@ -1290,12 +1638,15 @@ Thanks! I'll have a look at it over the weekend sometime Ricardo. **Lol sorry bu
 After careful examination of MaSiRo (https://www.masiro.cafe/tipping), I've realized that they essentially made a robot very similar to what MaidCom will be. I labeled much of her internals to give other Anons guidance on how she functions on an electronics level. Our MaidCom will be much cheaper and lighter mechanically but, nearly identical electrically.
 
 # 124
->>16222
+>>16222
+
 Checking in while I'm out of town and have a minute. I like these ideas, thanks!
 
 # 125
->>16212
-My crude prototype specifically allows for this with a rear hard point to attach a backpack type shape - which could accommodate extra battery, storage, tools, etc)
+>>16212
+
+My crude prototype specifically allows for this with a rear hard point to attach a backpack type shape - which could accommodate extra battery, storage, tools, etc)
+
 A "back" module is never a bad idea, I would like to keep this feature in the plans.
 
 # 126
@@ -1337,22 +1688,38 @@ I've been concerned repeatedly about pinching in the various externally-exposed 
 I suppose we'll contrive our own molds, etc., for this kind of thing in our own factory efforts one day tbh. But for now, at this point in time, front-loading as much as possible of that is practically always going to be a big benefit to us here.
 
 # 129
->>16228
-A foam padding would work well. Especially with an outer fabric skin like picrel 1.
->>16231
-Adding you to the software team, thanks for your contribution.
->>16251
->>16252
-Thanks for your check in. Both I and Chobitsu have started brainstorming ways for a backpack to work. Which we've been referring to as a Rondoseru as they are the cutest variant of backpack (to me).
->>16258
-Found it on 4chins, no idea where they found it.
-Those are linear actuators used to adjust her height. I recently came across a tutorial for designing your own which could be helpful for us. https://youtu.be/-C9e--3nvro
-MaSiRo robots are built for working in cafe's so they have fundamentally different needs. Though, more points of contact are better for stability, rocker bogie mechansims being a good example.
-I'm striving to keep her electronics as simple as possible. Part of the reason for the 5/6 connector being developed is to ensure clean simple wiring.
-I plan to post more infographics to help our mission.
->>16259
-We were very recently talking about using her tail to help with this dilemma. I'll lower her backpack expansion area to the lowest it can go as you're correct about how the thrown mass would affect her dynamics. Squaring this backpack expansion with her lightweight frame goals is no simple task. I'd appreciate any and all suggestions.
->>16260
+>>16228
+
+A foam padding would work well. Especially with an outer fabric skin like picrel 1.
+
+>>16231
+
+Adding you to the software team, thanks for your contribution.
+
+>>16251
+
+>>16252
+
+Thanks for your check in. Both I and Chobitsu have started brainstorming ways for a backpack to work. Which we've been referring to as a Rondoseru as they are the cutest variant of backpack (to me).
+
+>>16258
+
+Found it on 4chins, no idea where they found it.
+
+Those are linear actuators used to adjust her height. I recently came across a tutorial for designing your own which could be helpful for us. https://youtu.be/-C9e--3nvro
+
+MaSiRo robots are built for working in cafe's so they have fundamentally different needs. Though, more points of contact are better for stability, rocker bogie mechansims being a good example.
+
+I'm striving to keep her electronics as simple as possible. Part of the reason for the 5/6 connector being developed is to ensure clean simple wiring.
+
+I plan to post more infographics to help our mission.
+
+>>16259
+
+We were very recently talking about using her tail to help with this dilemma. I'll lower her backpack expansion area to the lowest it can go as you're correct about how the thrown mass would affect her dynamics. Squaring this backpack expansion with her lightweight frame goals is no simple task. I'd appreciate any and all suggestions.
+
+>>16260
+
 Bellows can be 3D printed though, I'm just going to use stretchy fabric and good engineering to prevent pinching.
 
 # 130
@@ -1385,8 +1752,10 @@ Onward! :^)
 -''add 'chest complex dynamics' cmnt''
 
 # 131
->>16258
->Sauce on pic?
+>>16258
+
+>Sauce on pic?
+
 https://www.masiro.cafe/masiro
 
 # 132
@@ -1394,7 +1763,8 @@ https://www.masiro.cafe/masiro
 Great, thanks Anon! I certainly wish them great success both with their Meido Cafe endeavor, and also with their robowaifu designs. Maybe they'll visit /robowaifu/ one day. :^)
 
 # 133
->>16260
+>>16260
+
 It's flexible pipe. You can buy it at Home Depot. It's often used for drainage pipes, drain hoses on RVs and protecting electrical connections.
 
 # 134
@@ -1406,17 +1776,25 @@ However, I think Kywy is already planning for this (important) issue, so the pip
 Thanks again Anon.
 
 # 135
->>16265
-Hm, good ideas on how to achieve balance. The Rocker bogie was just an example, it's patented so we can not use it aside from designs people make at home. (We will be making a version with notation that it is strictly DIY.)
->>16267
-Thanks
->>16270
-Huh, didn't even consider that but it is a good material to use.
-
+>>16265
+
+Hm, good ideas on how to achieve balance. The Rocker bogie was just an example, it's patented so we can not use it aside from designs people make at home. (We will be making a version with notation that it is strictly DIY.)
+
+>>16267
+
+Thanks
+
+>>16270
+
+Huh, didn't even consider that but it is a good material to use.
+
+
+
 Any updates on designs? Do we need another extension?
 
 # 136
->>16165
+>>16165
+
 Hi, I'm currently not part of the specific MaidCom project. But, since everything seems to now being discussed here I wanted to mention that I wanted to include regular Linux programs in the robowaifu AI. If something has been solved already, then there's no reason to reimplement it. There's a program called Taskwarrior for the console. Changes require commands in the console, which could also be coming from another program and of course being logged into a logfile or database.
 
 # 137
@@ -1452,10 +1830,14 @@ To put it another way; would you really want ''Syst*md'' to be any part of a ope
 I would suggest that what we are tackling here is at least as complex and delicate in the end, in some ways '''moreso'''. Throwing applications helter-skelter at our robowaifus, with no vetting whatsoever, is a sure recipe for disaster -- both for Anon and for his robowaifus.
 
 # 139
->>16275
-I plan to make a conversational user interface where people can define their own commands, tasks and events. So if you want to use a tasklist manager through your robowaifu you can do so after a dev sets it up with the CUI API.
-
->>16277
+>>16275
+
+I plan to make a conversational user interface where people can define their own commands, tasks and events. So if you want to use a tasklist manager through your robowaifu you can do so after a dev sets it up with the CUI API.
+
+
+
+>>16277
+
 Robowaifu security will follow the principle of least privilege. A tasklist manager has no need to access her memories, camera, microphone, servos or decision making process and can be restricted from accessing those, including having memory and bandwidth limits, network and file restrictions and lower process priority. Simply blocking all applications will make it difficult to do anything useful with robowaifus and block other devs from contributing. Updates to critical applications though will require vetting so we don't have a node-ipc malware incident or something similar. Applications could also run in a virtual machine or separate device entirely to prevent zero-days in the operating system from being used.
 
 # 140
@@ -1466,14 +1848,22 @@ Yep. In fact I sort of indicated this direction in my ''Robowaifu OS/Brain-clust
 Thanks RobowaifuDev, that input is very appreciated.
 
 # 141
->>16276
-Meta Ronin's contribution was more of an outline describing his prototype of a design. I shared some of my design ideas to help them crystalize their ideas. Now we await their actual designs. RobowaifuDev's contribution is noted and great but, I want to ensure everyone who wishes to contribute their voice is heard before anything is finalized. Also, you requested a deadline extension on your own design submission >>16159 though, I'm confused by this since you're on software.
->>16277
->Syst*md
-Not in my waifu! :^)
-Think we should use Antix Linux as our base distro with ROS on top?
->>16290
->>16292
+>>16276
+
+Meta Ronin's contribution was more of an outline describing his prototype of a design. I shared some of my design ideas to help them crystalize their ideas. Now we await their actual designs. RobowaifuDev's contribution is noted and great but, I want to ensure everyone who wishes to contribute their voice is heard before anything is finalized. Also, you requested a deadline extension on your own design submission >>16159 though, I'm confused by this since you're on software.
+
+>>16277
+
+>Syst*md
+
+Not in my waifu! :^)
+
+Think we should use Antix Linux as our base distro with ROS on top?
+
+>>16290
+
+>>16292
+
 Good to see the software team working together. Authentication and isolation principles will indeed be important.
 
 # 142
@@ -1505,9 +1895,12 @@ Indeed it is good! I think RobowaifuDev's '''CUI''' (command user interface) is 
 -''add 'years of time' & 'hardened systems' cmnts''
 
 # 143
->>16277
->>>Hi, I'm currently not part of the specific MaidCom project
->>Well, please join up! (>>15486) Hey, you can't expect us to carry all the load, right!? :^)
+>>16277
+
+>>>Hi, I'm currently not part of the specific MaidCom project
+
+>>Well, please join up! (>>15486) Hey, you can't expect us to carry all the load, right!? :^)
+
 Sorry, I'm working on my own project, but I want to keep it compatible where possible and also to go on sharing ideas. That's why I was writing that.
 
 # 144
@@ -1517,9 +1910,12 @@ Ahh, I see. Well I wanted to extend the offer to you. :^) I assume your project 
 Cheers.
 
 # 145
->>16294
-What do the other members think of the Alpine idea?
->>16300
+>>16294
+
+What do the other members think of the Alpine idea?
+
+>>16300
+
 As an open source project, your project being compatible with shared ideas is very much welcomed. The more compatible projects there are, the more entrenched our waifu standards become. On that note, if you have any questions, want any advice, or want to know any dimensions to ensure compatibility, feel free to ask.
 
 # 146
@@ -1535,18 +1931,24 @@ https://hackaday.com/2022/05/18/natural-language-ai-in-your-next-project-its-eas
 Thanks for the NLP HaD link Anon.
 
 # 148
->>16306
->What do the other members think of the Alpine idea?
+>>16306
+
+>What do the other members think of the Alpine idea?
+
 Never used it before but it looks pretty good.
 
 # 149
->>16313
-I thank it is wise to use the lightest, most specialized operating system possible. I might even suggest making our own custom distro.
+>>16313
+
+I thank it is wise to use the lightest, most specialized operating system possible. I might even suggest making our own custom distro.
+
 >PS testing trip
 
 # 150
->>16315
-Alright, tripcodes look stupid on this board.
+>>16315
+
+Alright, tripcodes look stupid on this board.
+
 Lesson learned.
 
 # 151
@@ -1559,74 +1961,125 @@ Lol. While I agree that tripcodes aren't so great here, that's entirely due to t
 Anyway, make yourself at home Anon.
 
 # 152
->Structure material
-First off, my go to material for the structure would be pvc pipes. They are readily available and rather cheap. 
-They could be interconnected with 3D printed joints.
-
->Tachikoma legs 
-Wheels are good for the inital phase 1 prototype as a way to get around, maybe wheels on 3 or 4 legs.
-
->Simplify the electronics
-Raspberry Pi and Arduino are rather cheap and readily available, easy to set up but can still accomplish a lot.
-Raspberry Pi is compatible with ROS;
-http://wiki.ros.org/ROSberryPi
-Its preferable as it takes a lot less space than a laptop
-The cables could potentially be run through the pvc pipes
-
->3D printing
-The hands, face and structure joints should preferably be 3d printed or injection molded
-
+>Structure material
+
+First off, my go to material for the structure would be pvc pipes. They are readily available and rather cheap. 
+
+They could be interconnected with 3D printed joints.
+
+
+
+>Tachikoma legs 
+
+Wheels are good for the inital phase 1 prototype as a way to get around, maybe wheels on 3 or 4 legs.
+
+
+
+>Simplify the electronics
+
+Raspberry Pi and Arduino are rather cheap and readily available, easy to set up but can still accomplish a lot.
+
+Raspberry Pi is compatible with ROS;
+
+http://wiki.ros.org/ROSberryPi
+
+Its preferable as it takes a lot less space than a laptop
+
+The cables could potentially be run through the pvc pipes
+
+
+
+>3D printing
+
+The hands, face and structure joints should preferably be 3d printed or injection molded
+
+
+
 These are my initial ideas, I kind of skimmed the thread so I might not be fully up to speed on the current status but I get the gist of it. I'm okay with coding but leave that to others with more experience for this project
 
 # 153
->>16356
->PVC pipes
-I fully welcome and will help with the parallel development of a version based on PVC pipes. The main branch will remain 3D printed.
->Raspberry Pi
-If you know of a place to get them near MSRP, please do share as I've only seen the sky high scalped prices recently. For now, cheap used laptops running ROS on Alpine Linux is the cheaper and more accessible option. I would have liked to make her based on a small cheap SBC if it was sensible.
->Injection molding
-I fully intend to make molds for much of MaidCom's parts to be able to sell kits and enable others to do so as well with permission from the group.
-
+>>16356
+
+>PVC pipes
+
+I fully welcome and will help with the parallel development of a version based on PVC pipes. The main branch will remain 3D printed.
+
+>Raspberry Pi
+
+If you know of a place to get them near MSRP, please do share as I've only seen the sky high scalped prices recently. For now, cheap used laptops running ROS on Alpine Linux is the cheaper and more accessible option. I would have liked to make her based on a small cheap SBC if it was sensible.
+
+>Injection molding
+
+I fully intend to make molds for much of MaidCom's parts to be able to sell kits and enable others to do so as well with permission from the group.
+
+
+
 Thanks for your input Hik, glad to have you on the team
 
 # 154
->>16360
-My concern is that it may take a long time to print every structural part for a 1 meter version (if that's what we're going for) but if that works then its fine. I'm not sure about the meshes
-
-In my area, even the latest model of Raspberry Pi (4b) is 5 times cheaper than the very cheapest laptop. I don't know about used ones. My old laptop is incredibly slow to start. The Raspberry Pi has pins (GPIO), so it should be easy to connect up to control stuff. I'm currently starting a project to test that out.
-
+>>16360
+
+My concern is that it may take a long time to print every structural part for a 1 meter version (if that's what we're going for) but if that works then its fine. I'm not sure about the meshes
+
+
+
+In my area, even the latest model of Raspberry Pi (4b) is 5 times cheaper than the very cheapest laptop. I don't know about used ones. My old laptop is incredibly slow to start. The Raspberry Pi has pins (GPIO), so it should be easy to connect up to control stuff. I'm currently starting a project to test that out.
+
+
+
 Were you Kiwi before? Your pic and the fact you have a name resembling that reminds me of someone from New Zealand I've sometimes chatted with
 
 # 155
->>16361
-Meshtegrity allows for high speed printing of very large structures with minimal assembly. I'm still developing the technique. Expect more examples within a week as I've recently made some breakthroughs worth sharing but design takes time. I'm in the process of designing a meter tall doll that should be easily printable as a demonstration.
-
->Are you Kiwi?
+>>16361
+
+Meshtegrity allows for high speed printing of very large structures with minimal assembly. I'm still developing the technique. Expect more examples within a week as I've recently made some breakthroughs worth sharing but design takes time. I'm in the process of designing a meter tall doll that should be easily printable as a demonstration.
+
+
+
+>Are you Kiwi?
+
 Indeed I am old friend, I changed my name to distance myself from existing entities. Y is because I'm a major fan of Clockwork Planet and in that series, Y is a man that created robot woman that changed the world.
 
 # 156
->>16362
-> I changed my name to distance myself from existing entities
-
+>>16362
+
+> I changed my name to distance myself from existing entities
+
+
+
 No, It's because he is an edgelord who will take advantage of generous anons and flake as soon as you put your foot down and expect him to do what he said he'd do. Like he did with both Madoka.mi and Pandora. >>15331
 
 # 157
->>16386
-I share your weariness with Canonical.
-
-From what I understand, ROS is bloated and inefficient but, in a way that's supposed to make it easy for the lay-man to use. I'm not the biggest fan personally but, the other members seemed interested. I had no idea it was so bad. Do you think it would be worth going for a different framework then? 
-
+>>16386
+
+I share your weariness with Canonical.
+
+
+
+From what I understand, ROS is bloated and inefficient but, in a way that's supposed to make it easy for the lay-man to use. I'm not the biggest fan personally but, the other members seemed interested. I had no idea it was so bad. Do you think it would be worth going for a different framework then? 
+
+
+
 An open invite for anyone to offer alternatives. Thus far the software is going to be Alpine Linux, we still need a framework for our software that's fast, light, extensible, and ideally FOSS. ROS was the choice but, is now in contention due to its flaws which could be detrimental to the project.
 
 # 158
->>16388
-I mean, I'm actually also wary of Canonical because of stuff like ads in the MOTD https://news.softpedia.com/news/canonical-under-fire-for-putting-ads-in-the-ubuntu-motd-530372.shtml, but I mean I'm wary of ROS' way of doing things, their way of writing C is misguided, their way of writing portable programs is just going to lead to more unnecessary and lower quality work too (#ifdefs for every platform), and it only took me skimming 2 files to find a buffer overread in code that shouldn't exist (turns out that extra byte can be beyond the end of the buffer in some cases, I already sent a PR). I don't believe they have the minimal competence necessary to write a working system.
-
-Alpine is probably the best choice as far as distros go, but we don't have to be married to a distro or even Linux. It's not too hard to make a program portable and even if the program is ported to a system nobody uses, that will help with finding a bug sooner or later.
-OpenWRT can produce even smaller installs than Alpine due to supporting root on squashfs (a compressed, read-only filesystem) and being more customizable (i.e. it's easier to cut out unnecessary parts) which helps with cost cutting and anything with less parts is more reliable. The whole setup should be portable to both either way because you can't use OpenWRT as a dev machine.
-I think Linux is the best free Unix system for real time stuff, I've used quite a few and ported programs to all of them. NetBSD is worth a try too.
-
-For now, it would be best to revisit all the robotics frameworks and use the best one. Bit by bit, if any component turns out to suck, it can be replaced. This is more work but actually a good thing, as it's hard to gauge what the programming interfaces should look like until after you use them, so we can mooch off from the fact that tools for doing what we need to do already exist, and then we can use the experiences acquired through hindsight to replace them after seeing what they do well and what they do badly.
-
+>>16388
+
+I mean, I'm actually also wary of Canonical because of stuff like ads in the MOTD https://news.softpedia.com/news/canonical-under-fire-for-putting-ads-in-the-ubuntu-motd-530372.shtml, but I mean I'm wary of ROS' way of doing things, their way of writing C is misguided, their way of writing portable programs is just going to lead to more unnecessary and lower quality work too (#ifdefs for every platform), and it only took me skimming 2 files to find a buffer overread in code that shouldn't exist (turns out that extra byte can be beyond the end of the buffer in some cases, I already sent a PR). I don't believe they have the minimal competence necessary to write a working system.
+
+
+
+Alpine is probably the best choice as far as distros go, but we don't have to be married to a distro or even Linux. It's not too hard to make a program portable and even if the program is ported to a system nobody uses, that will help with finding a bug sooner or later.
+
+OpenWRT can produce even smaller installs than Alpine due to supporting root on squashfs (a compressed, read-only filesystem) and being more customizable (i.e. it's easier to cut out unnecessary parts) which helps with cost cutting and anything with less parts is more reliable. The whole setup should be portable to both either way because you can't use OpenWRT as a dev machine.
+
+I think Linux is the best free Unix system for real time stuff, I've used quite a few and ported programs to all of them. NetBSD is worth a try too.
+
+
+
+For now, it would be best to revisit all the robotics frameworks and use the best one. Bit by bit, if any component turns out to suck, it can be replaced. This is more work but actually a good thing, as it's hard to gauge what the programming interfaces should look like until after you use them, so we can mooch off from the fact that tools for doing what we need to do already exist, and then we can use the experiences acquired through hindsight to replace them after seeing what they do well and what they do badly.
+
+
+
 What I think is the best design is to simply write portable programs. Let the operating system be your framework for providing an unified interface to all sorts of hardware.  Don't use a custom allocator, if it turns out the system's allocator is bad for real time, then replace the system's allocator, that way it affects not just the robotics-related programs but also the entire rest of the system, all without writing any extra code to add an allocator parameter to functions. For portability between operating systems, create a library that abstracts the operating systems. This design works rather well, we already have this for instance with audio: operating systems each implement their own drivers for audio devices and their own unified APIs for operating on all those devices, and people came along and wrote a libraries like OpenAL for doing audio on many operating systems. Ideally, there would be a library for moving arms, another for speech, another for sensors, and so on. This facilitates development, as it's easier to complete smaller pieces, changes to one component do not affect others, and pieces can be developed independently.
 

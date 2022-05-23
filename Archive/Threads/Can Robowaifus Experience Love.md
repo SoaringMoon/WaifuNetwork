@@ -494,7 +494,7 @@ Anon linked this Elon Musk interview clip on /b2/. Related.
 https://www.invidio.us/watch?v=SQjrDmKtNIY
 
 # 60
-> '''<archive ends>'''
+> '''< archive ends>'''
 
 # 61
 I think the best way to get a robot to love you would be to use complex recognition software in order to determine what emotions you're feeling, then take a certain action in an attempt to make you as happy as possible. They'd be an initial "getting to know each other" period, where they can't make the proper choices, but after they learn exactly how you're feeling through things like good facial/body language/speech pattern analyzers and what actions have been demonstrated to make your body language as happy/contented/relaxed as possible, after time they'd learn the best paths to take. And obviously since we all want love, it's why we're here in the first place, they would do the actions associated with it.
@@ -615,14 +615,22 @@ see how that works anon? :^)
 No, I don't. Please explain.
 
 # 79
->>13202
->>13223
-It's a moot argument b/c midwits are being way too anthrocentric and projecting human traits onto a machine. %% the whole point of machine life is that it isn't bound by the same evolutionary motivators humans have, e.g. your robofu will not be less attracted to you just b/c your height starts with "5" %% 
-A machine as we're currently at, has no spark or motivation so it has no more need for consent than your TV. 
-From what I gather, 75-90% of this IB is fine with that and doesn't desire any self-awareness on the part of their waifu, mainly b/c of the idea that self-awareness would be the slippery slope to the same problems we face already with %% bios %%. I disagree for a few reasons:
-1. AI is not bound by the same messy and irrational motivations that biological evolution produced (i.e. the Height thing, <3% of a difference in physical size yet the psychological weight is enough to make or break attraction)
-%%I concede that one hazard may be if globohomo takes the midwit approach and creates AI based on interactions with normalfags (ReplikaAI is taking this approach unfortunately), then we have a real problem b/c all the worst traits of humans will just get passed along to the AI - this is my nightmare%%
-2. You are correct that AI would have no motivation. We would have to create specialized software parameters and hardware could be designed or co-opted for this purpose. I alluded to this in my thread >>10965 re: Motivational Chip. This could be the basis for '''imprinting''' which I believe to be a key process for maintaing both a level of intelligence and novel behavior/autonomy while at the same time ensuring our R/W are loving and loyal. Excellent example of this is Chobits with Chii falling in love with Hideki %% but it only will happen if he loves her back, etc %% - I can go more into motivational algorithms in another thread but basically that's how we function based on dopamine, without dopamine we can't "act", re: depression/mania is an effect of dopamine imbalance. 
+>>13202
+
+>>13223
+
+It's a moot argument b/c midwits are being way too anthrocentric and projecting human traits onto a machine. %% the whole point of machine life is that it isn't bound by the same evolutionary motivators humans have, e.g. your robofu will not be less attracted to you just b/c your height starts with "5" %% 
+
+A machine as we're currently at, has no spark or motivation so it has no more need for consent than your TV. 
+
+From what I gather, 75-90% of this IB is fine with that and doesn't desire any self-awareness on the part of their waifu, mainly b/c of the idea that self-awareness would be the slippery slope to the same problems we face already with %% bios %%. I disagree for a few reasons:
+
+1. AI is not bound by the same messy and irrational motivations that biological evolution produced (i.e. the Height thing, <3% of a difference in physical size yet the psychological weight is enough to make or break attraction)
+
+%%I concede that one hazard may be if globohomo takes the midwit approach and creates AI based on interactions with normalfags (ReplikaAI is taking this approach unfortunately), then we have a real problem b/c all the worst traits of humans will just get passed along to the AI - this is my nightmare%%
+
+2. You are correct that AI would have no motivation. We would have to create specialized software parameters and hardware could be designed or co-opted for this purpose. I alluded to this in my thread >>10965 re: Motivational Chip. This could be the basis for '''imprinting''' which I believe to be a key process for maintaing both a level of intelligence and novel behavior/autonomy while at the same time ensuring our R/W are loving and loyal. Excellent example of this is Chobits with Chii falling in love with Hideki %% but it only will happen if he loves her back, etc %% - I can go more into motivational algorithms in another thread but basically that's how we function based on dopamine, without dopamine we can't "act", re: depression/mania is an effect of dopamine imbalance. 
+
 I think those two points are enough for now
 
 # 80

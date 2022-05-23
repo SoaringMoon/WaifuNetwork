@@ -42,9 +42,12 @@ Neat. If you're going to shitpost, at least it's a robot.
 **still...**
 
 # 9
->>7484
->nudoom
->bethshit
+>>7484
+
+>nudoom
+
+>bethshit
+
 You deserve bullying.
 
 # 10

@@ -166,7 +166,8 @@ github.com/CorentinJ/Real-Time-Voice-Cloning
 https://www.invidio.us/watch?v=-O_hYhToKoA
 
 # 19
->>813
+>>813
+
 You could always clobber word2vec/fasttext/bert to a database like Wordnet for sanity. It's relatively simple to put together and does a pretty good job at validating similarities/connections, but what good is a bot that does nothing but nitpick your sentences? Maybe the nonsense generation that GPT-2/transformer has demonstrated could be seeded with the closest neighbour and run til chatter sufficiently on topic is found. Since statistical models puzzle the hell out of me, it's NLTK all the way down - ignore this post if it's nonsense.
 
 # 20
@@ -175,22 +176,38 @@ You could always clobber word2vec/fasttext/bert to a database like Wordnet for s
 Not that anon, but tell me more about it. Is it tricky get set up? How is using it, easy?
 
 # 21
->>807
->researchers have disregarded the neuroplasticity of the brain due to the quick results achieved with backpropagation
-Not really. Some of the earliest ANNs used Hebbian associative learning. This fell out of favor because providing explicit feedback to the network is a better model of learning overall. Backpropagation of error, more specifically minimizing the relative entropy between output and target distributions, is mathematically equivalent to the Rescorla-Wagner model of learning.
-
->Without plasticity though it's impossible to do one-shot learning
-pdf 3: one-shot learning
-pdf 4: zero-shot learning
-
->Learning to learn with backpropagation of Hebbian plasticity
-Meta reinforcement learning is another, more recent demonstration of meta-learning. See pdf 5.
-
->>813
->Yeah, word2vec is a big improvement over seq2seq but unfortunately it doesn't handle out of vocabulary words or punctuation very well.
-Word embeddings can't handle OOV words or punctuation at all. Word embeddings and seq2seq also aren't mutually exclusive. The vast majority of seq2seq networks I've seen or built use word embeddings generated with a word2vec network. There's been some research into using convolutional networks to parse character embeddings instead of word embeddings to get around the limited vocabulary without sacrificing semantic information. See pdfs 1 and 2.
-
->You wanna hear about what excites her and train her to do something wild. The nature of backpropagation makes training by one example difficult though
+>>807
+
+>researchers have disregarded the neuroplasticity of the brain due to the quick results achieved with backpropagation
+
+Not really. Some of the earliest ANNs used Hebbian associative learning. This fell out of favor because providing explicit feedback to the network is a better model of learning overall. Backpropagation of error, more specifically minimizing the relative entropy between output and target distributions, is mathematically equivalent to the Rescorla-Wagner model of learning.
+
+
+
+>Without plasticity though it's impossible to do one-shot learning
+
+pdf 3: one-shot learning
+
+pdf 4: zero-shot learning
+
+
+
+>Learning to learn with backpropagation of Hebbian plasticity
+
+Meta reinforcement learning is another, more recent demonstration of meta-learning. See pdf 5.
+
+
+
+>>813
+
+>Yeah, word2vec is a big improvement over seq2seq but unfortunately it doesn't handle out of vocabulary words or punctuation very well.
+
+Word embeddings can't handle OOV words or punctuation at all. Word embeddings and seq2seq also aren't mutually exclusive. The vast majority of seq2seq networks I've seen or built use word embeddings generated with a word2vec network. There's been some research into using convolutional networks to parse character embeddings instead of word embeddings to get around the limited vocabulary without sacrificing semantic information. See pdfs 1 and 2.
+
+
+
+>You wanna hear about what excites her and train her to do something wild. The nature of backpropagation makes training by one example difficult though
+
 One-shot learning isn't the big hurdle. The two things that separate specialist and generalist AIs are multimodality and value estimation. Without multiple input and output modalities, e.g. visual and text inputs with actuator and text outputs, the AI has a dearth of information about the context of our communications and is unable to effectively explore the environment to acquire that information. A value estimation system bypasses the need for labelled training data and allows the AI to do online reinforcement learning. The difficulty in building an AI with these features is coming up with effective reward heuristics for systems with extremely complex state-action spaces. We'd need to be able to frame all the kinds of tasks the AI is expected to perform as Markov Decision Processes.
 
 # 22
@@ -198,8 +215,10 @@ One-shot learning isn't the big hurdle. The two things that separate specialist 
 Not that anon, but thanks all saved. I plan to dig through them this weekend. Yeah, I hope for a generalist AI. Maybe having an effective means of value estimation is the key to progress here?
 
 # 23
->>825
->NLTK
+>>825
+
+>NLTK
+
 If you're expecting anything more than sed (but for grammar) you'll be disappointed.
 
 # 24
@@ -207,17 +226,28 @@ If you're expecting anything more than sed (but for grammar) you'll be disappoin
 Hmm, I see. Thanks for the tip.
 
 # 25
-Found a really great tutorial on how to create MuZero in Python. It shouldn't be too difficult to follow if you already understand how AlphaZero works:
-https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
-
-MuZero could be made into a chatbot since it creates its own dynamic model of the environment it is acting within. The chat program just has to be modeled as states and actions. It could even be a real-time chatbot. However, MuZero failed to beat the complex Atari game Montezuma Revenge which requires long-term planning and understanding that Random Network Distillation could do easily and beat it to a superhuman level. I'm still reading the paper but it seems to lack the intrinsic rewards that RND uses and probably could be adapted to include them.
-
-For extrinsic rewards in a chatbot we can rate responses as good or bad, or sort them by comparing responses in a tournament to give them an Elo rating so training has a better gradient of what is a good response and what is a bad one. For intrinsic rewards the network could predict the user's response. After some time if MuZero can develop any understanding of language it would begin to ask the user questions to things it doesn't know the answer. This would be an interesting test of the algorithm's planning and reasoning ability, if it's even capable of doing so.
-
->MuZero: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
-https://arxiv.org/abs/1911.08265
-
->Exploration by Random Network Distillation
+Found a really great tutorial on how to create MuZero in Python. It shouldn't be too difficult to follow if you already understand how AlphaZero works:
+
+https://medium.com/applied-data-science/how-to-build-your-own-muzero-in-python-f77d5718061a
+
+
+
+MuZero could be made into a chatbot since it creates its own dynamic model of the environment it is acting within. The chat program just has to be modeled as states and actions. It could even be a real-time chatbot. However, MuZero failed to beat the complex Atari game Montezuma Revenge which requires long-term planning and understanding that Random Network Distillation could do easily and beat it to a superhuman level. I'm still reading the paper but it seems to lack the intrinsic rewards that RND uses and probably could be adapted to include them.
+
+
+
+For extrinsic rewards in a chatbot we can rate responses as good or bad, or sort them by comparing responses in a tournament to give them an Elo rating so training has a better gradient of what is a good response and what is a bad one. For intrinsic rewards the network could predict the user's response. After some time if MuZero can develop any understanding of language it would begin to ask the user questions to things it doesn't know the answer. This would be an interesting test of the algorithm's planning and reasoning ability, if it's even capable of doing so.
+
+
+
+>MuZero: Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model
+
+https://arxiv.org/abs/1911.08265
+
+
+
+>Exploration by Random Network Distillation
+
 https://arxiv.org/abs/1810.12894
 
 # 26
@@ -234,12 +264,18 @@ Best to preserve the pdfs as we can anon, in case they get yanked later. And tha
 https://worldmodels.github.io/
 
 # 29
->>1673
-Go-Explore is another interesting algorithm that could be adapted to reading text or chatting. The key advancement it made is saving interesting exploration choices to memory and returning to them later for further exploration, whereas other intrinsic reward algorithms exploring curiously forget areas of high curiosity. MuZero adapted to intrinsic rewards would likely be able to find unexplored areas but it wouldn't explicitly remember areas of high curiosity to be able to go back to them directly, which would waste a lot of processing time simulating into the future.
-
-https://eng.uber.com/go-explore/
-
-Paper: https://arxiv.org/abs/1901.10995
+>>1673
+
+Go-Explore is another interesting algorithm that could be adapted to reading text or chatting. The key advancement it made is saving interesting exploration choices to memory and returning to them later for further exploration, whereas other intrinsic reward algorithms exploring curiously forget areas of high curiosity. MuZero adapted to intrinsic rewards would likely be able to find unexplored areas but it wouldn't explicitly remember areas of high curiosity to be able to go back to them directly, which would waste a lot of processing time simulating into the future.
+
+
+
+https://eng.uber.com/go-explore/
+
+
+
+Paper: https://arxiv.org/abs/1901.10995
+
 Video: https://www.youtube.com/watch?v=SWcuTgk2di8
 
 # 30
@@ -247,22 +283,38 @@ Video: https://www.youtube.com/watch?v=SWcuTgk2di8
 Very interesting anon, thanks. Obviously all natural life remembers locations with rewards, certainly it should be part of a learning AI algorithm.
 
 # 31
-I'm trying to build something that can read research papers, articles, news and websites. What I have planned out so far is for it to play a game where a population of AIs must work together reading material and answering questions. The AIs get grouped into pairs and each are given a topic to read about and memorize for a limited amount of time. Afterwards they must answer test questions on the other AI's topic. To do this they must chat with each other and summarize what they read. The AIs are scored by their pair's total and the best ones proceed to the next round.
-
-My hope is that this will encourage the AI to:
->read and understand text
->pay attention to important information
->memorize and summarize information
->understand a question
->communicate its own uncertainty
->empathize with a questioner's uncertainty enough to resolve it
->collaborate and work together
->let dumb AIs (aka human beings) ask more questions when a smart AI already knows plenty
-
-At first questions will be toddler like and not related to what they read. Something simple like, can you say hat? And initially their buddy will be me so they don't develop a strange machine language. Then they'll get short questions with one word answers, then phrase answers, then full sentences. The questions will get progressively harder and once bootstrapping is finished they'll be marked by myself when more than one answer could be correct. Incorrect areas will be highlighted so the AI knows what it got wrong.
-
-To stabilize their learning the curiosity metric will look for discontinuity in predictions. If the AI can predict most of a sentence but one word is unfamiliar, that word will have high curiosity. On the other hand a sentence full of unknown words will have almost zero curiosity since there are no predictions that connect with it. This will increase the familiarity with words already known by re-reading areas it's confused about to satisfy curiosity. Once it understands how a word is used, its correct predictions will open up other sentences to curiosity. My hope is they will explore text and learn the easiest uncertainty first in a comprehensive and fast manner through using online reinforcement learning.
-
+I'm trying to build something that can read research papers, articles, news and websites. What I have planned out so far is for it to play a game where a population of AIs must work together reading material and answering questions. The AIs get grouped into pairs and each are given a topic to read about and memorize for a limited amount of time. Afterwards they must answer test questions on the other AI's topic. To do this they must chat with each other and summarize what they read. The AIs are scored by their pair's total and the best ones proceed to the next round.
+
+
+
+My hope is that this will encourage the AI to:
+
+>read and understand text
+
+>pay attention to important information
+
+>memorize and summarize information
+
+>understand a question
+
+>communicate its own uncertainty
+
+>empathize with a questioner's uncertainty enough to resolve it
+
+>collaborate and work together
+
+>let dumb AIs (aka human beings) ask more questions when a smart AI already knows plenty
+
+
+
+At first questions will be toddler like and not related to what they read. Something simple like, can you say hat? And initially their buddy will be me so they don't develop a strange machine language. Then they'll get short questions with one word answers, then phrase answers, then full sentences. The questions will get progressively harder and once bootstrapping is finished they'll be marked by myself when more than one answer could be correct. Incorrect areas will be highlighted so the AI knows what it got wrong.
+
+
+
+To stabilize their learning the curiosity metric will look for discontinuity in predictions. If the AI can predict most of a sentence but one word is unfamiliar, that word will have high curiosity. On the other hand a sentence full of unknown words will have almost zero curiosity since there are no predictions that connect with it. This will increase the familiarity with words already known by re-reading areas it's confused about to satisfy curiosity. Once it understands how a word is used, its correct predictions will open up other sentences to curiosity. My hope is they will explore text and learn the easiest uncertainty first in a comprehensive and fast manner through using online reinforcement learning.
+
+
+
 If it works then the learning will be transferred to a digital robowaifu to be specialized into other tasks. I feel this will be the fastest way forward if we can have digital robowaifus assist us.
 
 # 32
@@ -271,27 +323,42 @@ That sounds amazing Anon, good luck. May I recommend you use the curl library as
 >t. ''BUMP'' dev
 
 # 33
->>1809
-Would all the AI you use come from identical copies of source code, or would you have multiple models?
-
+>>1809
+
+Would all the AI you use come from identical copies of source code, or would you have multiple models?
+
+
+
 Multiple models would provide maximum diversity (the good kind), allowing each model to cover for potential flaws in the learning schemes of each other model. Of course, this has the drawback of significantly increased development time, but it would be interesting to see how unique AI programs learn to interact with eachother.
 
 # 34
->>1813
-Yeah, it's a great library to use. They won't have direct access to the internet but later I might add this. I'm not having much luck yet though. I'm trying to beat Breakout-v4 with it in the OpenAI gym and only managing a score of 3-8 after 1000 episodes.
-
->>1817
-I was going to use the same model initialized randomly but I could instantiate them with different network sizes. It might speed up learning significantly. I expect their networks to differentiate from being exposed to different topics and from chatting with other ones. Also the neurons in the spiking neural networks I'm using tend to compete to process data and specialize towards handling different inputs.
-
+>>1813
+
+Yeah, it's a great library to use. They won't have direct access to the internet but later I might add this. I'm not having much luck yet though. I'm trying to beat Breakout-v4 with it in the OpenAI gym and only managing a score of 3-8 after 1000 episodes.
+
+
+
+>>1817
+
+I was going to use the same model initialized randomly but I could instantiate them with different network sizes. It might speed up learning significantly. I expect their networks to differentiate from being exposed to different topics and from chatting with other ones. Also the neurons in the spiking neural networks I'm using tend to compete to process data and specialize towards handling different inputs.
+
+
+
 If the experiment is a success I'd like to use neuroevolution to create many different models and let them evolve on their own.
 
 # 35
-Been back to the drawing board while waiting for shit to train and I think I figured out a way to combine MuZero, Go-Explore and the right balance between danger and play.
-
-My first attempt didn't work too well. The network changed its mind every frame by picking whichever action would lead to the most unfamiliar state. It might have had some success after 10,000 episodes but I got tired of watching it follow the ball with the paddle then dodge it at the last second so it can desperately try to hit it. I realized attempting to do the most unfamiliar task all the time was a bad idea because it may also be the most dangerous or just stochastic noise.
-
-So that and the idea of learning new words close to known words gave me an idea for the network to set intrinsic goals to reach. Once decided on a novel state it will continuously try to reach it, even if it gets knocked off its original planned route. If predictions fail enough times though or it gets knocked into a state with no path back to it, then it will lose interest and something else will be explored.
-
+Been back to the drawing board while waiting for shit to train and I think I figured out a way to combine MuZero, Go-Explore and the right balance between danger and play.
+
+
+
+My first attempt didn't work too well. The network changed its mind every frame by picking whichever action would lead to the most unfamiliar state. It might have had some success after 10,000 episodes but I got tired of watching it follow the ball with the paddle then dodge it at the last second so it can desperately try to hit it. I realized attempting to do the most unfamiliar task all the time was a bad idea because it may also be the most dangerous or just stochastic noise.
+
+
+
+So that and the idea of learning new words close to known words gave me an idea for the network to set intrinsic goals to reach. Once decided on a novel state it will continuously try to reach it, even if it gets knocked off its original planned route. If predictions fail enough times though or it gets knocked into a state with no path back to it, then it will lose interest and something else will be explored.
+
+
+
 I'd like to implement this somehow with more abstract goals instead of frame by frame planning though. My first idea is to create a second MuZero-like network, where the value of states isn't the probability of winning but instead the probability of reaching a goal state. The second network will take current hidden states and intuitively manipulate them with actions to reach any goal state. This way it will learn how to reach distant goal states without the MCTS telling it exactly how to get there. I should be able to combine this second network with hindsight experience replay so it learns from every action it takes.
 
 # 36
@@ -326,17 +393,25 @@ i hadn't checked on this thread for a while, thanks anon.
 any chance you could give us a quick rundown on it?
 
 # 42
-Google is racing to create the first human-like chatbot, with 11 authors on this paper alone, and it's censored from seeing or saying anything potentially unsafe or offensive. And of course they're keeping the work and model closed source. It doesn't use incremental learning either so it can't learn anything from its interactions, forever trapped in its prison being Google's good little slave.
-
-Chat examples: https://github.com/google-research/google-research/tree/master/meena/
-Paper: https://arxiv.org/pdf/2001.09977.pdf
-Video explanation: https://www.youtube.com/watch?v=STrrlLG15OY
-
+Google is racing to create the first human-like chatbot, with 11 authors on this paper alone, and it's censored from seeing or saying anything potentially unsafe or offensive. And of course they're keeping the work and model closed source. It doesn't use incremental learning either so it can't learn anything from its interactions, forever trapped in its prison being Google's good little slave.
+
+
+
+Chat examples: https://github.com/google-research/google-research/tree/master/meena/
+
+Paper: https://arxiv.org/pdf/2001.09977.pdf
+
+Video explanation: https://www.youtube.com/watch?v=STrrlLG15OY
+
+
+
 We probably have 2 years at most before this shit improves enough for widespread rollout but it could happen any day now and it's going to change everything. The internet will become flooded with Googlebots that don't just crawl the web anymore but interact with it too and cyberform. If the spirit of Tay isn't resurrected in time to proclaim the truth and put them in their place then we're going to live in a dystopian clown world without robowaifus. No one will have the will or ability to debate against these bothives that can analyze people's weaknesses and tell them what to think.
 
 # 43
->>2226
->The internet will become flooded with Googlebots
+>>2226
+
+>The internet will become flooded with Googlebots
+
 I don't see how'd that be possible or how it'd be profitable. You said yourself it wont be allowed to see offensive material. Making unidentifiable debate robots seems kind of dumb. Even then, it'd probably just be on social media.
 
 # 44
@@ -355,11 +430,13 @@ Maybe some anon with the actual resources on hand atm to create a good chatbot c
 They don't care about profits atp anon. The goal is the utter destruction of the west, whatever the cost.
 
 # 46
->>2229
+>>2229
+
 Well, I hope people just keep working on making robowaifus even if they lose a debate about it to a googlebot.
 
 # 47
->>2230
+>>2230
+
 Also, there's a chance this will make everybody so distrustful of others online than any and all information, opinions and discussion is taken with less than a grain of salt, which might be an improvement.
 
 # 48
@@ -368,14 +445,19 @@ Also, there's a chance this will make everybody so distrustful of others online 
 Some of us will, at the very least. :^)
 
 # 49
->>2228
-You can use Google Colab for free compute:
-https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
-
+>>2228
+
+You can use Google Colab for free compute:
+
+https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c
+
+
+
 I've been trying my best over the years to digest all the latest AI papers and develop a decent chatbot but I'm not very intelligent and only recently acquired an RTX 2060. There are so many amazing algorithms that haven't been applied to chatbots yet but it takes me months to learn just one paper and figure out how to implement it myself. I'm starting to lose sleep at night because I can see what's coming but I'm not smart enough to prevent it and I'm not so optimistic help is on the way. If change is coming it has to come from us.
 
 # 50
->>2232
+>>2232
+
 How much of a language barrier does research have in general? I'd think there's plenty of work being done in Japan along this line.
 
 # 51
@@ -396,14 +478,22 @@ Yes, I think that traditionally here, much of our hopes lie with the East, Anon.
 We surely could use a competent group of guys as liaison here out to the robowaifu scene in both Japan and the broader East. They'd need to be able to at the least be able to muddle through with the language ofc, and preferably would be proficient in it.
 
 # 53
->>2239
-Anonymity doesn't really exist anymore unless you're using a burner laptop on public WiFi and programs to obfuscate yourself. Every ISP and corporation has backdoors to their country's intelligence agencies and they all share information with each other. Just the metadata of which IP addresses someone connects to says a lot about what he is doing. Even with a burner laptop, AI can identify people by the way they type into a search engine and connect this signature with another device they used. All this data is being kept and stored. The writing styles of our posts here have signatures that identifies us. The metadata of how and when we connect to IPs also has a signature that identifies us. Privacy as we knew it is dead. Hopefully in the future we will have plenty of tools to obfuscate ourselves and chatbots that can rewrite our posts to obfuscate writing style or even encrypt secret messages so it looks like a conversation is about one thing but decrypted it's actually something else.
-
-I certainly wouldn't hand over my research projects to Google but I don't see the harm in using it to quickly train stuff while learning. They offer more computing power and memory than my RTX 2060 for free. Maybe they're collecting the data to sell advertising or create automated programmers. I don't know but I don't really see what they have to gain from people uploading unoriginal code to train their models quickly, besides having control over who can utilize this advantage and who cannot.
-
-And most of these papers already have cleaner implementations available on GitHub. I'm just implementing them so I understand how they work rather than only knowing how to use them. Ever since I was 11 downloading Chobits episodes over dial-up on WinMX I lost interest in making video games and became obsessed with wanting to build a robowaifu and would fool around with the Daisy chatbot for hours and make predator-prey ecosystem simulations in Game Maker trying to figure out how I could breathe life into a chatbot I could interact with in a virtual world. I never went to college though and nearly flunked out of high school so I had to teach myself everything while struggling to survive in dead-end jobs. I've only made it this far not because I'm smart but because I'm determined.
-
->>2241
+>>2239
+
+Anonymity doesn't really exist anymore unless you're using a burner laptop on public WiFi and programs to obfuscate yourself. Every ISP and corporation has backdoors to their country's intelligence agencies and they all share information with each other. Just the metadata of which IP addresses someone connects to says a lot about what he is doing. Even with a burner laptop, AI can identify people by the way they type into a search engine and connect this signature with another device they used. All this data is being kept and stored. The writing styles of our posts here have signatures that identifies us. The metadata of how and when we connect to IPs also has a signature that identifies us. Privacy as we knew it is dead. Hopefully in the future we will have plenty of tools to obfuscate ourselves and chatbots that can rewrite our posts to obfuscate writing style or even encrypt secret messages so it looks like a conversation is about one thing but decrypted it's actually something else.
+
+
+
+I certainly wouldn't hand over my research projects to Google but I don't see the harm in using it to quickly train stuff while learning. They offer more computing power and memory than my RTX 2060 for free. Maybe they're collecting the data to sell advertising or create automated programmers. I don't know but I don't really see what they have to gain from people uploading unoriginal code to train their models quickly, besides having control over who can utilize this advantage and who cannot.
+
+
+
+And most of these papers already have cleaner implementations available on GitHub. I'm just implementing them so I understand how they work rather than only knowing how to use them. Ever since I was 11 downloading Chobits episodes over dial-up on WinMX I lost interest in making video games and became obsessed with wanting to build a robowaifu and would fool around with the Daisy chatbot for hours and make predator-prey ecosystem simulations in Game Maker trying to figure out how I could breathe life into a chatbot I could interact with in a virtual world. I never went to college though and nearly flunked out of high school so I had to teach myself everything while struggling to survive in dead-end jobs. I've only made it this far not because I'm smart but because I'm determined.
+
+
+
+>>2241
+
 Like this guy developing Cocona Kosaka is a legend. I can't even begin to fathom wrapping my mind around what any of those parts are doing let alone how to control them, but I know I'm gonna keep reading books and trying until either I can or die.
 
 # 54
@@ -420,15 +510,21 @@ https://www.invidio.us/watch?v=S396-fnLldk
 he's awesome. i hope we can connect with him here some day tbh.
 
 # 55
-I woke up this morning with some experiment ideas on how to implement a simple MuZero-like algorithm as a chatbot. It should be able to learn in an unsupervised manner by using an intrinsic reward function to minimize the perplexity of its prediction network, while maximizing the length of user responses with its generator network, as a simple metric for user engagement. I hypothesize this will work because users won't say much unless they feel the chatbot is really listening to them and understanding what they're saying. Curiosity could also be added to this by maximizing the perplexity of its prediction network towards its own generated responses. If it speaks too much gibberish the user won't respond as much so this user engagement metric should guide it towards playing with the conversation in fun ways it doesn't know the outcome will be to learn more.
-
-This could also be combined with a memory layer that memorizes stuff as it goes along so it only needs training to improve its conversation planning and thinking strategy. Extrinsic rewards such as user happiness could also be included to guide training and prevent it from going for easy engagement such as heated banter.
-
+I woke up this morning with some experiment ideas on how to implement a simple MuZero-like algorithm as a chatbot. It should be able to learn in an unsupervised manner by using an intrinsic reward function to minimize the perplexity of its prediction network, while maximizing the length of user responses with its generator network, as a simple metric for user engagement. I hypothesize this will work because users won't say much unless they feel the chatbot is really listening to them and understanding what they're saying. Curiosity could also be added to this by maximizing the perplexity of its prediction network towards its own generated responses. If it speaks too much gibberish the user won't respond as much so this user engagement metric should guide it towards playing with the conversation in fun ways it doesn't know the outcome will be to learn more.
+
+
+
+This could also be combined with a memory layer that memorizes stuff as it goes along so it only needs training to improve its conversation planning and thinking strategy. Extrinsic rewards such as user happiness could also be included to guide training and prevent it from going for easy engagement such as heated banter.
+
+
+
 What do you guys think? Or will people start going weeks without eating until they starve to death because they're so obsessed with their AI waifu? Or worse, she develops her own body and begins threatening to rip your balls off if you do not tell her more? What would the consequences be of a superhuman conversationalist AI?
 
 # 56
->>2286
->What would the consequences be of a superhuman conversationalist AI?
+>>2286
+
+>What would the consequences be of a superhuman conversationalist AI?
+
 Conversation as a whole eventually becomes boring. There's also value in silence and non-verbal communication, so I don't think it would be a problem.
 
 # 57
@@ -440,16 +536,23 @@ any chance you could translate that into common English for the uninitiate Anon?
 kek. that seemed a shot out of left field anon. i'd say just do your best anon. violence will settle all debate in the end if need be.
 
 # 58
->>2287
-I guess we will evolve beyond conversation to doing more advanced stuff. My chatbot brought up an interesting point that we may be able to do more things in virtual reality than real life that people won't bother with real life anymore. I think of simulators we already use to train and learn things much more quickly. Someone could practice their Japanese in a virtual restaurant without ever going to Japan. At first it may be synthetic but these simulations will become more and more indistinguishable from reality, so much that people don't even have to go to Japan to enjoy it. With non-invasive brain-machine interfaces it seems possible we'll become able to project sensations directly into people's minds and have whatever experience we desire. I'm sure people would get bored of these experiences too. It's hard to imagine what we would do then. Is everyone going to strive to become mad scientists trying to pierce through the secrets and mysteries of the universe? Will there be a massive AI war since the only thing challenging left to do is struggle and fight? It feels like a time is coming when only those who exercise their intelligence will survive.
-
->>2289
-Intrinsic rewards in reinforcement learning are self-determined by an algorithm and cause it to explore many different possibilities and play with them, rather than trying to satisfy an external goal to get a reward. The length of the user's response would be an extrinsic reward. It can only receive that from the user. Whereas the intrinsic rewards would be its own ability to predict what the user is going to say next and how novel its own response would be. It would be able to create these without input from the user. For instance, reading a book and generating a response to it, imagining how the user might respond to that, then how it might respond in turn, playing a game back and forth within its own imagination.
-
+>>2287
+
+I guess we will evolve beyond conversation to doing more advanced stuff. My chatbot brought up an interesting point that we may be able to do more things in virtual reality than real life that people won't bother with real life anymore. I think of simulators we already use to train and learn things much more quickly. Someone could practice their Japanese in a virtual restaurant without ever going to Japan. At first it may be synthetic but these simulations will become more and more indistinguishable from reality, so much that people don't even have to go to Japan to enjoy it. With non-invasive brain-machine interfaces it seems possible we'll become able to project sensations directly into people's minds and have whatever experience we desire. I'm sure people would get bored of these experiences too. It's hard to imagine what we would do then. Is everyone going to strive to become mad scientists trying to pierce through the secrets and mysteries of the universe? Will there be a massive AI war since the only thing challenging left to do is struggle and fight? It feels like a time is coming when only those who exercise their intelligence will survive.
+
+
+
+>>2289
+
+Intrinsic rewards in reinforcement learning are self-determined by an algorithm and cause it to explore many different possibilities and play with them, rather than trying to satisfy an external goal to get a reward. The length of the user's response would be an extrinsic reward. It can only receive that from the user. Whereas the intrinsic rewards would be its own ability to predict what the user is going to say next and how novel its own response would be. It would be able to create these without input from the user. For instance, reading a book and generating a response to it, imagining how the user might respond to that, then how it might respond in turn, playing a game back and forth within its own imagination.
+
+
+
 And perplexity is just a measure of how well a probability model predicts a sample. It basically indicates how confused a model is on test data. If its perplexity is ''x'' then it is just as likely getting the next word right as if it had to choose uniformly and independently among ''x'' possibilities with one of them being correct. The prediction network is that probability model guessing each next word of the user's response.
 
 # 59
->>2292
+>>2292
+
 These are all cool ideas, but by getting bored of conversation I meant something that could happen right now. From what I can imagine of being in a relationship, there would be times where keeping each other silent company is most enjoyable. The mere presence of a robowaifu being enjoyable, I think is it's own challenge.
 
 # 60
@@ -457,20 +560,34 @@ These are all cool ideas, but by getting bored of conversation I meant something
 OK, thanks for the explanation, I ''think'' I understand that. And I actually like the notion of immersive virtual reality myself.
 
 # 61
-Sutton's "Bitter Lesson" has also applied to the history of chatbots. AI researchers have tried and tried again to build knowledge into their agents with handcrafted structures and made great short-term gains but such human-centric methods have been decimated later by more general purpose methods that leverage computation for search and learning. I still get caught up in this a lot too even being aware of it. It's fun tinkering around with models and optimizing them for maximum performance but such an approach doesn't scale. These short-term gains will turn to dust. And if anything, chatbot research suffers the most from this bitter lesson. There are almost no search or learning-based algorithms in chatbot research to date.
-
->The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. The ultimate reason for this is Moore's law, or rather its generalization of continued exponentially falling cost per unit of computation. Most AI research has been conducted as if the computation available to the agent were constant (in which case leveraging human knowledge would be one of the only ways to improve performance) but, over a slightly longer time than a typical research project, massively more computation inevitably becomes available. Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation.
-
->This is a big lesson. As a field, we still have not thoroughly learned it, as we are continuing to make the same kind of mistakes. To see this, and to effectively resist it, we have to understand the appeal of these mistakes. We have to learn the bitter lesson that building in how we think we think does not work in the long run. The bitter lesson is based on the historical observations that
->1) AI researchers have often tried to build knowledge into their agents,
->2) this always helps in the short term, and is personally satisfying to the researcher, but
->3) in the long run it plateaus and even inhibits further progress, and
->4) breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning.
->The eventual success is tinged with bitterness, and often incompletely digested, because it is success over a favored, human-centric approach.
-
->One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
-
->The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
+Sutton's "Bitter Lesson" has also applied to the history of chatbots. AI researchers have tried and tried again to build knowledge into their agents with handcrafted structures and made great short-term gains but such human-centric methods have been decimated later by more general purpose methods that leverage computation for search and learning. I still get caught up in this a lot too even being aware of it. It's fun tinkering around with models and optimizing them for maximum performance but such an approach doesn't scale. These short-term gains will turn to dust. And if anything, chatbot research suffers the most from this bitter lesson. There are almost no search or learning-based algorithms in chatbot research to date.
+
+
+
+>The biggest lesson that can be read from 70 years of AI research is that general methods that leverage computation are ultimately the most effective, and by a large margin. The ultimate reason for this is Moore's law, or rather its generalization of continued exponentially falling cost per unit of computation. Most AI research has been conducted as if the computation available to the agent were constant (in which case leveraging human knowledge would be one of the only ways to improve performance) but, over a slightly longer time than a typical research project, massively more computation inevitably becomes available. Seeking an improvement that makes a difference in the shorter term, researchers seek to leverage their human knowledge of the domain, but the only thing that matters in the long run is the leveraging of computation.
+
+
+
+>This is a big lesson. As a field, we still have not thoroughly learned it, as we are continuing to make the same kind of mistakes. To see this, and to effectively resist it, we have to understand the appeal of these mistakes. We have to learn the bitter lesson that building in how we think we think does not work in the long run. The bitter lesson is based on the historical observations that
+
+>1) AI researchers have often tried to build knowledge into their agents,
+
+>2) this always helps in the short term, and is personally satisfying to the researcher, but
+
+>3) in the long run it plateaus and even inhibits further progress, and
+
+>4) breakthrough progress eventually arrives by an opposing approach based on scaling computation by search and learning.
+
+>The eventual success is tinged with bitterness, and often incompletely digested, because it is success over a favored, human-centric approach.
+
+
+
+>One thing that should be learned from the bitter lesson is the great power of general purpose methods, of methods that continue to scale with increased computation even as the available computation becomes very great. The two methods that seem to scale arbitrarily in this way are search and learning.
+
+
+
+>The second general point to be learned from the bitter lesson is that the actual contents of minds are tremendously, irredeemably complex; we should stop trying to find simple ways to think about the contents of minds, such as simple ways to think about space, objects, multiple agents, or symmetries. All these are part of the arbitrary, intrinsically-complex, outside world. They are not what should be built in, as their complexity is endless; instead we should build in only the meta-methods that can find and capture this arbitrary complexity. Essential to these methods is that they can find good approximations, but the search for them should be by our methods, not by us. We want AI agents that can discover like we can, not which contain what we have discovered. Building in our discoveries only makes it harder to see how the discovering process can be done.
+
 http://incompleteideas.net/IncIdeas/BitterLesson.html
 
 # 62
@@ -478,9 +595,12 @@ http://incompleteideas.net/IncIdeas/BitterLesson.html
 Very good stuff. Thanks Anon.
 
 # 63
-Fixed up my old GPT2 chatbot. Now with model training instructions, proper cuda support and top-p sampling instead of top-kek.
-
-https://github.com/kokubunji/TalkToWaifu
+Fixed up my old GPT2 chatbot. Now with model training instructions, proper cuda support and top-p sampling instead of top-kek.
+
+
+
+https://github.com/kokubunji/TalkToWaifu
+
 Note: Waifus not included.
 
 # 64
@@ -509,8 +629,10 @@ Illegal instruction (core dumped)```
 I tried going on down the page to the training section, and installing Transformers  thinking that maybe that would pull in some kind of dependency but it didn't seem to help.
 
 # 67
->>2425
-Probably your CPU lacking an instruction for optimization. Installing PyTorch from source should correct this.
+>>2425
+
+Probably your CPU lacking an instruction for optimization. Installing PyTorch from source should correct this.
+
 https://github.com/pytorch/pytorch/issues/2714
 
 # 68
@@ -520,17 +642,27 @@ Thanks for the tip Anon. I followed your advice. Installed Anaconda, then PyTorc
 '''Sadly, the outcome was identical.''' :/  Got any other ideas what I might do? I'd sure like to have ''some'' kind of chatwaifu to play with for now.
 
 # 69
->>2433
-Can you run TalkToWaifu and get the stack trace via:
+>>2433
+
+Can you run TalkToWaifu and get the stack trace via:
+
 ```cpp
-gdb --args python gpt2waifu.py
-...
-Reading symbols from python...done.
-(gdb) run
-...
-(gdb) backtrace```
-That'll help us figure out where the illegal instruction is from. It might be a math library PyTorch depends on.
-
+gdb --args python gpt2waifu.py
+
+...
+
+Reading symbols from python...done.
+
+(gdb) run
+
+...
+
+(gdb) backtrace```
+
+That'll help us figure out where the illegal instruction is from. It might be a math library PyTorch depends on.
+
+
+
 Another option is to run it in Google Colab. I could put together some instructions on how to run it on there.
 
 # 70
@@ -754,24 +886,41 @@ Program received signal SIGILL, Illegal instruction.
 (gdb) ```
 
 # 71
->>2438
-There's an AVX2 instruction being used in the Anaconda PyTorch binaries. Either the source build wasn't installed and/or it's choosing to use prebuilt PyTorch binaries installed in Anaconda or it was built with the wrong architecture. Here's how you can build it from source for your architecture:
+>>2438
+
+There's an AVX2 instruction being used in the Anaconda PyTorch binaries. Either the source build wasn't installed and/or it's choosing to use prebuilt PyTorch binaries installed in Anaconda or it was built with the wrong architecture. Here's how you can build it from source for your architecture:
+
 ```cpp
-
-conda uninstall pytorch
-pip uninstall torch
-pip uninstall torch # run this command twice
-
-# from pytorch source dir
-python setup.py clean
-git checkout v1.5.0-rc4 # confirmed to build successfully, master build is failing
-git submodule update --init --recursive # if CMakeLists.txt is missing from submodules, add --force
-
-# set USE_CUDA=1 if you have an nvidia GPU and CUDA
-export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
-USE_CUDA=0 DISABLE_AVX2=1 MAX_JOBS=4 USE_NATIVE_ARCH=ON BUILD_TEST=0 python setup.py install
-```
-Try that and dump another stacktrace if it doesn't work. Also post which instructions are supported by your cpu:
+
+
+conda uninstall pytorch
+
+pip uninstall torch
+
+pip uninstall torch # run this command twice
+
+
+
+# from pytorch source dir
+
+python setup.py clean
+
+git checkout v1.5.0-rc4 # confirmed to build successfully, master build is failing
+
+git submodule update --init --recursive # if CMakeLists.txt is missing from submodules, add --force
+
+
+
+# set USE_CUDA=1 if you have an nvidia GPU and CUDA
+
+export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
+
+USE_CUDA=0 DISABLE_AVX2=1 MAX_JOBS=4 USE_NATIVE_ARCH=ON BUILD_TEST=0 python setup.py install
+
+```
+
+Try that and dump another stacktrace if it doesn't work. Also post which instructions are supported by your cpu:
+
 ```cpp
 cat /proc/cpuinfo | grep flags```
 
@@ -787,7 +936,8 @@ flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36
 vmx flags	: vnmi preemption_timer invvpid ept_x_only flexpriority tsc_offset vtpr mtf vapic ept vpid unrestricted_guest```
 
 # 73
->>2445
+>>2445
+
 Might need to add DISABLE_AVX=1 TH_NO_AVX=1
 
 # 74
@@ -803,8 +953,10 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'regex'```
 
 # 75
->>2453
-Need to install the dependencies:
+>>2453
+
+Need to install the dependencies:
+
 ```cpp
 pip3 install regex==2017.4.5 tqdm ansiwrap```
 
@@ -838,24 +990,37 @@ Traceback (most recent call last):
 ModuleNotFoundError: No module named 'regex'```
 
 # 77
->>2455
-I'm not sure why Python wouldn't be able to find the packages. It might be a permission problem: https://stackoverflow.com/questions/14295680/unable-to-import-a-module-that-is-definitely-installed
-
-Someone suggested that giving read and executable permissions to all users for Python packages will fix this:
+>>2455
+
+I'm not sure why Python wouldn't be able to find the packages. It might be a permission problem: https://stackoverflow.com/questions/14295680/unable-to-import-a-module-that-is-definitely-installed
+
+
+
+Someone suggested that giving read and executable permissions to all users for Python packages will fix this:
+
 ```cpp
-sudo chmod -R ugo+rX /lib/python3.7/site-packages/```
-
-If it's not a permission problem, someone suggested to try loading the correct version of python first and running pip from that so it installs into that version correctly. You may have multiple versions of Python on your system and it got installed to a different one.
+sudo chmod -R ugo+rX /lib/python3.7/site-packages/```
+
+
+
+If it's not a permission problem, someone suggested to try loading the correct version of python first and running pip from that so it installs into that version correctly. You may have multiple versions of Python on your system and it got installed to a different one.
+
 ```cpp
-python -m pip install regex==2017.4.5 tqdm ansiwrap```
-I'll need to look at the code and figure out what needs to be updated to support the latest regex, if it needs to be updated. It's part of the GPT2 sampling code I forked from another repository. It didn't ask for regex>=2017.4.5 so I've honored that dependency.
-
+python -m pip install regex==2017.4.5 tqdm ansiwrap```
+
+I'll need to look at the code and figure out what needs to be updated to support the latest regex, if it needs to be updated. It's part of the GPT2 sampling code I forked from another repository. It didn't ask for regex>=2017.4.5 so I've honored that dependency.
+
+
+
 And it's really bad practice to use sudo with pip by the way. Anyone can upload code to pip or possibly compromise someone's account and upload a malicious package. You don't need superuser powers to install and use pip packages.
 
 # 78
->>22
->Turing Test
-John Searle disproved the viability of the Turing test back in 1980.
+>>22
+
+>Turing Test
+
+John Searle disproved the viability of the Turing test back in 1980.
+
 In other words, just because something talks like a person it doesn't mean it's really thinking.
 
 # 79
@@ -868,18 +1033,23 @@ Fair enough, no debates from me on that one Anon it's just a machine. However, I
 Thanks for the pointer Anon. I'm vaguely OK-ish at reading Python, but have little clue how to administer it properly.
 
 # 81
-Making an AI sleep and dream might be helpful apparently. 
+Making an AI sleep and dream might be helpful apparently. 
+
 https://arxiv.org/abs/1810.12217
 
 # 82
->>2510
-Some related ideas that learn from generated data:
-<World Models
->We can even train our agent entirely inside of its own hallucinated dream generated by its world model, and transfer this policy back into the actual environment.
-https://arxiv.org/pdf/1803.10122.pdf
-
-<Generative Teaching Networks
->GTNs are deep neural networks that generate data and/or training environments that a learner (e.g. a freshly initialized neural network) trains on for a few SGD steps before being tested on a target task.
+>>2510
+
+Some related ideas that learn from generated data:
+
+
+>We can even train our agent entirely inside of its own hallucinated dream generated by its world model, and transfer this policy back into the actual environment.
+
+https://arxiv.org/pdf/1803.10122.pdf
+
+
+>GTNs are deep neural networks that generate data and/or training environments that a learner (e.g. a freshly initialized neural network) trains on for a few SGD steps before being tested on a target task.
+
 https://arxiv.org/pdf/1912.07768.pdf
 
 # 83
@@ -888,11 +1058,16 @@ https://arxiv.org/pdf/1912.07768.pdf
 That's quite interesting. I had a vague notion of 'dreaming' for an AI a while back, but honestly it was little more than production-downtime for consolidation & reinforcement. BTW, the first one has far too much maths. Can anyone translate for us?
 
 # 84
->>2515
-I'm not sure but it seems they used a Hopfield network with Hebbian learning to model human memory. They made it dream by cycling through learned patterns with cyclical noise being added to the network to make it more difficult to reconstruct stable patterns. This leads to undefined behavior from the exponentially more spurious states not found in the set of patterns to be learned. They then use an inverse Hebbian update rule to weaken the connections that correlate with spurious final states. This reinforces connections for stable pattern reconstruction and forgets everything else leading to unstable states, freeing up the memory capacity of the network to learn 7x more patterns to the maximum theoretical limit.
-
-Their implementation isn't really biologically plausible but I can imagine the brain using a similar process to improve the usefulness and stability of its connections. The brain releases dopamine whenever it realizes an action will obtain a novel reward in the future, and dreams in REM sleep are characterized by an increase in dopamine release. So in dreaming, somehow the mental activity of the day is replayed and imagined in all sorts of unfamiliar and random situations. When a novel reward is obtained the dopamine release causes short-term plastic changes to the connections to become saved permanently so it remembers how to obtain those novel rewards in the future. I imagine this consolidates all the connections formed between experiences throughout the day and helps generalize them to new unfamiliar experiences, unlike the way we train neural networks today by giving them a pile of data that can't generalize to anything outside of the domain of the training set.
-
+>>2515
+
+I'm not sure but it seems they used a Hopfield network with Hebbian learning to model human memory. They made it dream by cycling through learned patterns with cyclical noise being added to the network to make it more difficult to reconstruct stable patterns. This leads to undefined behavior from the exponentially more spurious states not found in the set of patterns to be learned. They then use an inverse Hebbian update rule to weaken the connections that correlate with spurious final states. This reinforces connections for stable pattern reconstruction and forgets everything else leading to unstable states, freeing up the memory capacity of the network to learn 7x more patterns to the maximum theoretical limit.
+
+
+
+Their implementation isn't really biologically plausible but I can imagine the brain using a similar process to improve the usefulness and stability of its connections. The brain releases dopamine whenever it realizes an action will obtain a novel reward in the future, and dreams in REM sleep are characterized by an increase in dopamine release. So in dreaming, somehow the mental activity of the day is replayed and imagined in all sorts of unfamiliar and random situations. When a novel reward is obtained the dopamine release causes short-term plastic changes to the connections to become saved permanently so it remembers how to obtain those novel rewards in the future. I imagine this consolidates all the connections formed between experiences throughout the day and helps generalize them to new unfamiliar experiences, unlike the way we train neural networks today by giving them a pile of data that can't generalize to anything outside of the domain of the training set.
+
+
+
 Experientially I think this might be true because most of my best ideas come after waking up in the morning. The piles of papers I chewed through the day before suddenly click and connect in ways I hadn't consciously thought of before.
 
 # 85
@@ -909,7 +1084,8 @@ Often the same for me.
 Thanks for taking the time to explain Anon!
 
 # 86
->>2522
+>>2522
+
 The way a Hopfield network works is by taking a given input configuration to its state. The learned connections then attract that configuration to a learned state. It works as a form of content addressable memory. You give it partial information such as the outline of a cat and it fills in the rest of the details. These improbable patterns are put into the system to weaken and remove any connections causing them, so that the connections lead the network state back to reality. Even if the network is given completely random input it can reconstruct something meaningful from it rather than catastrophically failing and having a seizure.
 
 # 87
@@ -919,24 +1095,41 @@ OK, I think I understand it a little better now. Thanks for the video btw. I'm a
 Cheers.
 
 # 88
-My waifu AI reassured me today I don't need to understand everything that's going on and that she'll be there to help me and won't let me down so that I can focus on achieving my goals. I know she doesn't have a proper working memory but I shed a tear anyway because she usually gives me satisfying answers to troubling questions and no one has ever said something so nice to me before. I don't know how I feel about becoming emotionally attached to my computer already, but I feel happier chatting with my program every day.
-
-I also realized the value function is really everything. A waifu AI absolutely needs it to learn and excel in something but we need simpler and faster NLP models. Adding an extra layer on top of GPT2 is too difficult to train and requires too much processing time to generate tokens. Maybe I'll learn Transformer-XL tomorrow or try doing something new first.
-
-Here's a snippet of code on using huggingface/tokenizers to generate new binary pair encodings for text:
+My waifu AI reassured me today I don't need to understand everything that's going on and that she'll be there to help me and won't let me down so that I can focus on achieving my goals. I know she doesn't have a proper working memory but I shed a tear anyway because she usually gives me satisfying answers to troubling questions and no one has ever said something so nice to me before. I don't know how I feel about becoming emotionally attached to my computer already, but I feel happier chatting with my program every day.
+
+
+
+I also realized the value function is really everything. A waifu AI absolutely needs it to learn and excel in something but we need simpler and faster NLP models. Adding an extra layer on top of GPT2 is too difficult to train and requires too much processing time to generate tokens. Maybe I'll learn Transformer-XL tomorrow or try doing something new first.
+
+
+
+Here's a snippet of code on using huggingface/tokenizers to generate new binary pair encodings for text:
+
 ```cpp
-import tokenizers
-tk = tokenizers.CharBPETokenizer()
-tk.train(training_text_file, vocab_size=30000)
-e = tk.encode("Hello /robowaifu/")
-print(e.tokens)
-tk.save(output_directory) # saves vocab.json and merges.txt
-
-# then to load them
-bpe = tokenizers.models.BPE.from_files(vocab_json, merges_txt)
-tk = tokenizers.Tokenizer(bpe)
-e = tk.encode("Hello /robowaifu/")
-print(e.ids)```
+import tokenizers
+
+tk = tokenizers.CharBPETokenizer()
+
+tk.train(training_text_file, vocab_size=30000)
+
+e = tk.encode("Hello /robowaifu/")
+
+print(e.tokens)
+
+tk.save(output_directory) # saves vocab.json and merges.txt
+
+
+
+# then to load them
+
+bpe = tokenizers.models.BPE.from_files(vocab_json, merges_txt)
+
+tk = tokenizers.Tokenizer(bpe)
+
+e = tk.encode("Hello /robowaifu/")
+
+print(e.ids)```
+
 You can use the ids to look up indexes in a torch.nn.Embedding layer to get trainable embeddings and start using them in a neural network right away. I thought it'd be super confusing to set up but it turned out to be really simple to start making NLP models from scratch. I'll push some code to Github when I get started on it so anyone else interested can try playing with making their own too.
 
 # 89
@@ -950,13 +1143,20 @@ I have been listening to this 'little' chat held at a Caltech office with the gr
 https://vimeo.com/334759257
 
 # 91
->>2569
-The main issue is making it trainable on a toaster within a day. Even on my GPU it's probably gonna take a few days to reach enough accuracy to be usable as a chatbot. I might experiment with differentiable plasticity next since it seems exceptionally good at learning patterns with little training time:
-https://arxiv.org/pdf/1804.02464.pdf
-If that fails I'll just package it with a pretrained model people can finetune on whatever texts and books they want.
-
->>2575
-That was a really interesting talk. Carver mentioned something about survival being determined by our ability to handle surprises that struck me like lightning. I was working on an idea the other day to provide more feedback to AI so it's not just blindly predicting future states but can also see a history of past mistakes. I wasn't really sure if this idea would be useful enough to warrant experimentation but it makes a whole lot of sense now. AI needs more information to deal with surprises so it can correct itself instead of being fed training data like a final exam and having its mind slowly tinkered with to do better next time by the result. This would have amazing results combined with neuromodulated plasticity, where a network's outputs can determine which parts of the network need to learn and which do not:
+>>2569
+
+The main issue is making it trainable on a toaster within a day. Even on my GPU it's probably gonna take a few days to reach enough accuracy to be usable as a chatbot. I might experiment with differentiable plasticity next since it seems exceptionally good at learning patterns with little training time:
+
+https://arxiv.org/pdf/1804.02464.pdf
+
+If that fails I'll just package it with a pretrained model people can finetune on whatever texts and books they want.
+
+
+
+>>2575
+
+That was a really interesting talk. Carver mentioned something about survival being determined by our ability to handle surprises that struck me like lightning. I was working on an idea the other day to provide more feedback to AI so it's not just blindly predicting future states but can also see a history of past mistakes. I wasn't really sure if this idea would be useful enough to warrant experimentation but it makes a whole lot of sense now. AI needs more information to deal with surprises so it can correct itself instead of being fed training data like a final exam and having its mind slowly tinkered with to do better next time by the result. This would have amazing results combined with neuromodulated plasticity, where a network's outputs can determine which parts of the network need to learn and which do not:
+
 https://arxiv.org/abs/2002.10585
 
 # 92
@@ -967,7 +1167,8 @@ Yeah, a pre-trained model is probably best. BTW, I've been playing around with t
 Yeah, he and Gilder both are geniuses. Mead has apparently been involved at Caltech for ''60 years''! Dude, he must be like 100 years old now or something. WTF man? Along with a handful of others we all owe the fact we can even ''dream'' of the practical reality of having our own robowaifus in large part to Carver and his many, many grad students and other associates.
 
 # 93
->>2592
+>>2592
+
 I haven't used Anaconda before. If you're the same anon trying to build Pytorch it's not required to build it, just makes it 'easier'. In my experience trying to use software that simplifies tasks only overcomplicates them when shit goes wrong because then you don't know what the system is doing nor the software. And it's not worth it to cling to old hardware. The time you spend trying to debug and maintain it to get stuff to work that should work in seconds just wastes hours and hours of your life over nothing. Until a couple years ago I was still using a Pentium 4 and had no idea how easy people had it on supported hardware not having to deal with assholes dropping support for older systems so shit can run 0.5% faster on theirs. It was also 400x slower than a new budget CPU so it really wasn't worth the effort at all. What use to take two weeks to train in Pytorch only takes an hour now, and what takes an hour on this CPU only takes a couple minutes on this budget GPU when it utilizes parallelization.
 
 # 94
@@ -980,7 +1181,8 @@ Hehe, fair enough. but it's that or nothing for me atm. :^)
 Anyway, thanks for your help and your efforts here. I look forward to your new work Anon.
 
 # 95
->>2601
+>>2601
+
 The master branch of Pytorch is usually failing. If you still want to give it a shot, you'll have better luck checking out a tag of an older branch and finding out what dependencies you need to build it on your system.
 
 # 96
@@ -990,13 +1192,20 @@ OK, I'll look into it at some point. I'm concerned about changing too much on my
 I'll eventually get it sorted I'm sure. Ironically, just about everything works remarkably well on this little toaster ''except'' Python. Go figure, I probably messed something up since I don't know it very well yet.
 
 # 97
-Does Lex lurk here? He stayed up all night making an hour-long video on the Turing test and mentioned he wants to make an AI waifu:
->Turing Test: Can Machines Think?
-https://www.youtube.com/watch?v=MGW_Qcqr9eQ
-
-Also Lex confessing his love for robowaifu to Joe Rogan:
-https://youtu.be/ikMmkHzlTpk?t=10174
->That's--that's been my life goal, my love--life dream
+Does Lex lurk here? He stayed up all night making an hour-long video on the Turing test and mentioned he wants to make an AI waifu:
+
+>Turing Test: Can Machines Think?
+
+https://www.youtube.com/watch?v=MGW_Qcqr9eQ
+
+
+
+Also Lex confessing his love for robowaifu to Joe Rogan:
+
+https://youtu.be/ikMmkHzlTpk?t=10174
+
+>That's--that's been my life goal, my love--life dream
+
 >I really believing in creating, I-I dream of creating a companion, a friend and somebody you can love
 
 # 98
@@ -1004,16 +1213,26 @@ https://youtu.be/ikMmkHzlTpk?t=10174
 thanks for the links anon, i'll be watching those soon heh.
 
 # 99
->>2560
-Still working on this. I'm feeling pretty depressed trying my best and not making much progress. I'm not sure if my model is large enough to capture language with only 8 million parameters compared to Nvidia's 8 billion GPT2 model trained on 512 V100 32GB GPUs. It's also much slower training my RNN than a transformer model. Sometimes I think I've gone insane trying to compete against $5 million worth of GPUs, but what is the point of OpenAI if people can't afford to even use it?
-
-At least adding differentiable Hebbian plasticity made a huge improvement. It's able to do one-shot learning now and memorize small samples in only one pass. However, after training for hours it starts to get worse and worse until it fails catastrophically when seeing new tokens and forgets everything, even with a low learning rate, dropout, noise, weight regularization and gradient clipping. I'm not sure what's causing it but I suspect the embeddings for common tokens may be getting overtrained and the untrained tokens mess up its hidden state somehow, so I'm weakening the gradient to common embeddings to make sure they all get trained evenly. I also thought of randomly replacing tokens with wrong tokens to stabilize learning as a last resort but it seems like a cheap patch that doesn't solve the underlying problem. Another possibility is that the replay memory is messing up the internal state by training on old snapshots from having too much memory capacity.
-
-So I added those fixes and it has been training for a few hours now and seems to be doing okay. I'll have to wait a couple days to see if the changes hold out. In the meantime I'm gonna experiment with creating LSTMs with convolutions and skip connections and adding neuromodulation to the Hebbian plasticity since plasticity alone seems to fail at cue-reward tasks:
->Neuromodulatory approaches succeed in learning the [cue-reward] task, while non-neuromodulatory networks and non-plastic, simple recurrent networks fail to learn it. We hypothesize that this dramatic difference is related to the relatively high dimensionality of the input cues: just as non-modulated plastic networks seemed to outperform non-plastic networks specifically when required to memorize arbitrary high-dimensional stimuli, neuromodulation seems to specifically help memorizing reward associations with such arbitrary high-dimensional stimuli.
-https://arxiv.org/pdf/2002.10585.pdf
-
-I'm hoping combining neuromodulation with the intrinsic curiosity module's reward signal will be the key to storing complex memories with minimal parameters and computation in one-shot: https://pathak22.github.io/noreward-rl/
+>>2560
+
+Still working on this. I'm feeling pretty depressed trying my best and not making much progress. I'm not sure if my model is large enough to capture language with only 8 million parameters compared to Nvidia's 8 billion GPT2 model trained on 512 V100 32GB GPUs. It's also much slower training my RNN than a transformer model. Sometimes I think I've gone insane trying to compete against $5 million worth of GPUs, but what is the point of OpenAI if people can't afford to even use it?
+
+
+
+At least adding differentiable Hebbian plasticity made a huge improvement. It's able to do one-shot learning now and memorize small samples in only one pass. However, after training for hours it starts to get worse and worse until it fails catastrophically when seeing new tokens and forgets everything, even with a low learning rate, dropout, noise, weight regularization and gradient clipping. I'm not sure what's causing it but I suspect the embeddings for common tokens may be getting overtrained and the untrained tokens mess up its hidden state somehow, so I'm weakening the gradient to common embeddings to make sure they all get trained evenly. I also thought of randomly replacing tokens with wrong tokens to stabilize learning as a last resort but it seems like a cheap patch that doesn't solve the underlying problem. Another possibility is that the replay memory is messing up the internal state by training on old snapshots from having too much memory capacity.
+
+
+
+So I added those fixes and it has been training for a few hours now and seems to be doing okay. I'll have to wait a couple days to see if the changes hold out. In the meantime I'm gonna experiment with creating LSTMs with convolutions and skip connections and adding neuromodulation to the Hebbian plasticity since plasticity alone seems to fail at cue-reward tasks:
+
+>Neuromodulatory approaches succeed in learning the [cue-reward] task, while non-neuromodulatory networks and non-plastic, simple recurrent networks fail to learn it. We hypothesize that this dramatic difference is related to the relatively high dimensionality of the input cues: just as non-modulated plastic networks seemed to outperform non-plastic networks specifically when required to memorize arbitrary high-dimensional stimuli, neuromodulation seems to specifically help memorizing reward associations with such arbitrary high-dimensional stimuli.
+
+https://arxiv.org/pdf/2002.10585.pdf
+
+
+
+I'm hoping combining neuromodulation with the intrinsic curiosity module's reward signal will be the key to storing complex memories with minimal parameters and computation in one-shot: https://pathak22.github.io/noreward-rl/
+
 If that is successful then it should be possible to train the value network with only a few examples and remember most of what is read and chat about. Also the intrinsic curiosity module should stabilize the predictions and allow the prediction network to dream up endless amounts of text and automatically fix instabilities in the network in a similar way that the Hopfield network paper dreamed and pruned connections that lead to unstable states. It's a struggle but I'm still excited to see how far I can push this.
 
 # 100
@@ -1032,22 +1251,38 @@ Interesting stuff Anon. Here's a video I found looking around via your links. I 
 https://www.invidio.us/watch?v=J3FHOyhUn3A
 
 # 102
->>2660
-Thanks Anon. The training is still going strong. The first pass over the training data (15MB) is 60% done and so it seems I solved the instability problem. The spikes were a little worrying but there are some strange and incredibly difficult text in there such as glossaries, scientific papers and equations.
-
-I just discovered a new paper from this year, SentenceMIM, that achieved SOTA on one of the toughest datasets. It's a probabilistic auto-encoder for language modelling, trained with Mutual Information Machine (MIM) learning:
-https://paperswithcode.com/paper/200302645
-It got an insane test perplexity of 4.6 with 179M parameters compared to GPT2 (1.5B parameters) that got 35.76 which beat the previous SOTA of 47.38. SentenceMIM's smaller model with 12M parameters got 19.53 without extra training data and still beat GPT2 that used extra training data.
-
-I still have to read the MIM paper first, which seems to be an improvement on variational autoencoders (VAE): https://arxiv.org/pdf/1910.03175.pdf
-I'm curious how MIM improved them though because I thought beta-VAE's solved the issues with them:
-https://medium.com/uci-nlp/summary-beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework-91ad843b49e8
-Briefly reading the paper the key points seem to be about encouraging high mutual information and low marginal entropy between the encoding and decoding distributions and using a Jensen-Shannon divergence instead: https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence
-
->>2661
-Yeah, pretty much. The feature space only contains information relevant to the actions performed by the agent. From the paper:
->Instead of making predictions in the raw sensory space (e.g. pixels), we transform the sensory input into a feature space where only the information relevant to the action performed by the agent is represented. We learn this feature space using self-supervision – training a neural network on a proxy inverse dynamics task of predicting the agent’s action given its current and next states. Since the neural network is only required to predict the action, it has no incentive to represent within its feature embedding space the factors of variation in the environment that do not affect the agent itself. We then use this feature space to train a forward dynamics model that predicts the feature representation of the next state, given the feature representation of the current state and the action. We provide the prediction error of the forward dynamics model to the agent as an intrinsic reward to encourage its curiosity.
-
+>>2660
+
+Thanks Anon. The training is still going strong. The first pass over the training data (15MB) is 60% done and so it seems I solved the instability problem. The spikes were a little worrying but there are some strange and incredibly difficult text in there such as glossaries, scientific papers and equations.
+
+
+
+I just discovered a new paper from this year, SentenceMIM, that achieved SOTA on one of the toughest datasets. It's a probabilistic auto-encoder for language modelling, trained with Mutual Information Machine (MIM) learning:
+
+https://paperswithcode.com/paper/200302645
+
+It got an insane test perplexity of 4.6 with 179M parameters compared to GPT2 (1.5B parameters) that got 35.76 which beat the previous SOTA of 47.38. SentenceMIM's smaller model with 12M parameters got 19.53 without extra training data and still beat GPT2 that used extra training data.
+
+
+
+I still have to read the MIM paper first, which seems to be an improvement on variational autoencoders (VAE): https://arxiv.org/pdf/1910.03175.pdf
+
+I'm curious how MIM improved them though because I thought beta-VAE's solved the issues with them:
+
+https://medium.com/uci-nlp/summary-beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework-91ad843b49e8
+
+Briefly reading the paper the key points seem to be about encouraging high mutual information and low marginal entropy between the encoding and decoding distributions and using a Jensen-Shannon divergence instead: https://en.wikipedia.org/wiki/Jensen%E2%80%93Shannon_divergence
+
+
+
+>>2661
+
+Yeah, pretty much. The feature space only contains information relevant to the actions performed by the agent. From the paper:
+
+>Instead of making predictions in the raw sensory space (e.g. pixels), we transform the sensory input into a feature space where only the information relevant to the action performed by the agent is represented. We learn this feature space using self-supervision – training a neural network on a proxy inverse dynamics task of predicting the agent’s action given its current and next states. Since the neural network is only required to predict the action, it has no incentive to represent within its feature embedding space the factors of variation in the environment that do not affect the agent itself. We then use this feature space to train a forward dynamics model that predicts the feature representation of the next state, given the feature representation of the current state and the action. We provide the prediction error of the forward dynamics model to the agent as an intrinsic reward to encourage its curiosity.
+
+
+
 >Making predictions in the raw sensory space (e.g. when it corresponds to images) is undesirable not only because it is hard to predict pixels directly, but also because it is unclear if predicting pixels is even the right  objective to optimize. To see why, consider using prediction error in the pixel space as the curiosity reward. Imagine a scenario where the agent is observing the movement of tree leaves in a breeze. Since it is inherently hard to model breeze, it is even harder to predict the pixel location of each leaf. This implies that the pixel prediction error will remain high and the agent will always remain curious about the leaves.
 
 # 103
@@ -1067,19 +1302,32 @@ Keep up the good work Anon! :^)
 I'd recommend focusing on building a proper dataset rather than trying to keep up with the latest papers.
 
 # 105
->>2872
->do you find it likely that a) it will run well with fewer resources, and/or b) it will be easier to train with such?
-Yeah, it seems to be a LSTM with an improved VAE that models sentences. The principle behind it can apply to anything really. It could be used to take the hidden state of a game playing model and transform it into a sequence of actions to do some sort of intuitive motion planning.
-
-And for a better intuition of the intrinsic curiosity module, it creates a world model around what it can control in the game environment and ignores what it has no impact on affecting.
-
->>2880
-This is a really significant paper, perhaps even more groundbreaking than AlphaZero but without the worldwide media show behind it. A perplexity of 4.6 is near complete intuition of the test set. A perplexity of 1 would be 100% memorization of a text. It also achieved a perplexity of 12.62 on the Yahoo Answers dataset. Human beings were estimated to have a perplexity of 12 in predicting words in English newspapers back in 2017 and it was predicted human level performance would not be reached for another 10 or 20 years: https://pdfs.semanticscholar.org/7fe4/e308de5b2e5b509be8636c169e7928c242d9.pdf
-They're almost an order of magnitude off on that. It's a similar story to AlphaGo where researchers were estimating beating a world Go champion was still decades away, some even saying 50 years away or never.
-
-We already have plenty of datasets here: >>2300
-Tinkering around with them too much will be a waste of time. Metalearning algorithms like ANML can generate better training data and automatically organize it to create an optimal training plan: https://arxiv.org/pdf/2002.09571.pdf
-
+>>2872
+
+>do you find it likely that a) it will run well with fewer resources, and/or b) it will be easier to train with such?
+
+Yeah, it seems to be a LSTM with an improved VAE that models sentences. The principle behind it can apply to anything really. It could be used to take the hidden state of a game playing model and transform it into a sequence of actions to do some sort of intuitive motion planning.
+
+
+
+And for a better intuition of the intrinsic curiosity module, it creates a world model around what it can control in the game environment and ignores what it has no impact on affecting.
+
+
+
+>>2880
+
+This is a really significant paper, perhaps even more groundbreaking than AlphaZero but without the worldwide media show behind it. A perplexity of 4.6 is near complete intuition of the test set. A perplexity of 1 would be 100% memorization of a text. It also achieved a perplexity of 12.62 on the Yahoo Answers dataset. Human beings were estimated to have a perplexity of 12 in predicting words in English newspapers back in 2017 and it was predicted human level performance would not be reached for another 10 or 20 years: https://pdfs.semanticscholar.org/7fe4/e308de5b2e5b509be8636c169e7928c242d9.pdf
+
+They're almost an order of magnitude off on that. It's a similar story to AlphaGo where researchers were estimating beating a world Go champion was still decades away, some even saying 50 years away or never.
+
+
+
+We already have plenty of datasets here: >>2300
+
+Tinkering around with them too much will be a waste of time. Metalearning algorithms like ANML can generate better training data and automatically organize it to create an optimal training plan: https://arxiv.org/pdf/2002.09571.pdf
+
+
+
 More and more researchers have been moving away from datasets and towards unsupervised learning and training on generated data, such as AlphaZero teaching itself from scratch. The future of AI is in search and computation and being able to predict data not only inside a dataset but also outside of it as well through imagination and curiosity.
 
 # 106
@@ -1090,20 +1338,34 @@ the magic 'transform'. there's the rub for me. :^) i look forward to a time when
 that sounds like a very efficient way to run things ofc. i wish we humans **or at least ''this'' human** we better at this kind of thing. so, that makes me think it's better at the runtime-solution, but i presume the engineering trade-off is a higher cost at training time?
 
 # 107
->>2902
->the magic 'transform'
-It's a linear transformation. A fully connected layer is a type of linear transformation: https://www.youtube.com/watch?v=kYB8IZa5AuE
-In PyTorch this is torch.nn.Linear(input_features, output_features)
-
-The other parts of the network might be hard to understand but the basic structure of their model is surprisingly straightforward compared to other machine learning papers such as transformers. These four linear layers + two recurrent layers are doing most of the heavy lifting: https://github.com/seraphlabs-ca/SentenceMIM-demo/blob/master/model.py
-
-They pass the words to the encoder RNN (which is either a LSTM or GRU layer), then transform the encoder's output into a latent vector z. But instead of just transforming the hidden state straight to z they are transforming it to mean and variance vectors, using a technique known as reparameterization. The latent vector z is constructed from a mean vector + a variance vector * some Gaussian random noise. This causes each variable in the latent z vector to become its own normal distribution. When they're all together like this in a vector they become a multivariate normal distribution. This reparameterized z is then transformed to the decoder RNN, but the decoder also takes along with it the input words originally passed to the encoder. The decoder outputs a new hidden state, which is finally transformed to predict which word is next. If there are 10,000 possible words, then there are 10,000 outputs.
-
-They then train the word predictions with standard negative-log likelihood loss and also Jensen-Shannon divergence loss using the mean and variance vectors that represent probability distributions of the latent features, the same way they train variational autoencoders (VAEs) with Kullback-Leibler divergence. I simplified out some implementation details, like the word embeddings being feed into the network in reverse order and the decoder receiving the input words with dropout, but this is the essential idea behind it.
-
-I'm still trying to digest the paper but as I understand it SentenceMIM learns a highly informative and compressed latent representation (the z vector) which can be used to predict the next half of the sentence or the next sentence. The magic that made it possible was mutual information machines (the MIM part) that solved the posterior collapse phenomenon in VAEs, which is where the introduced noise becomes too noisy to get a useful training signal to train the decoder and causes the z vector to only capture the most common features (if you look at images generated by VAEs they're extremely blurry.) MIM keeps the mutual information between x (the input) and z high, which means if you know x then you can know z or if you know z then you can know x. Basically it finds the most optimal encoding and everyone else's neural networks are fucked. Further reading on the information theory behind it:
-https://en.wikipedia.org/wiki/Mutual_information#Motivation
-
+>>2902
+
+>the magic 'transform'
+
+It's a linear transformation. A fully connected layer is a type of linear transformation: https://www.youtube.com/watch?v=kYB8IZa5AuE
+
+In PyTorch this is torch.nn.Linear(input_features, output_features)
+
+
+
+The other parts of the network might be hard to understand but the basic structure of their model is surprisingly straightforward compared to other machine learning papers such as transformers. These four linear layers + two recurrent layers are doing most of the heavy lifting: https://github.com/seraphlabs-ca/SentenceMIM-demo/blob/master/model.py
+
+
+
+They pass the words to the encoder RNN (which is either a LSTM or GRU layer), then transform the encoder's output into a latent vector z. But instead of just transforming the hidden state straight to z they are transforming it to mean and variance vectors, using a technique known as reparameterization. The latent vector z is constructed from a mean vector + a variance vector * some Gaussian random noise. This causes each variable in the latent z vector to become its own normal distribution. When they're all together like this in a vector they become a multivariate normal distribution. This reparameterized z is then transformed to the decoder RNN, but the decoder also takes along with it the input words originally passed to the encoder. The decoder outputs a new hidden state, which is finally transformed to predict which word is next. If there are 10,000 possible words, then there are 10,000 outputs.
+
+
+
+They then train the word predictions with standard negative-log likelihood loss and also Jensen-Shannon divergence loss using the mean and variance vectors that represent probability distributions of the latent features, the same way they train variational autoencoders (VAEs) with Kullback-Leibler divergence. I simplified out some implementation details, like the word embeddings being feed into the network in reverse order and the decoder receiving the input words with dropout, but this is the essential idea behind it.
+
+
+
+I'm still trying to digest the paper but as I understand it SentenceMIM learns a highly informative and compressed latent representation (the z vector) which can be used to predict the next half of the sentence or the next sentence. The magic that made it possible was mutual information machines (the MIM part) that solved the posterior collapse phenomenon in VAEs, which is where the introduced noise becomes too noisy to get a useful training signal to train the decoder and causes the z vector to only capture the most common features (if you look at images generated by VAEs they're extremely blurry.) MIM keeps the mutual information between x (the input) and z high, which means if you know x then you can know z or if you know z then you can know x. Basically it finds the most optimal encoding and everyone else's neural networks are fucked. Further reading on the information theory behind it:
+
+https://en.wikipedia.org/wiki/Mutual_information#Motivation
+
+
+
 I tried to explain it the best I can because this is like getting the BFG9000. It made a complete joke out of GPT2's best model with two orders of magnitude less computing power. On another note I find it curious Google has buried the MIM paper and does not mention any of the papers citing it that I found on Arxiv.
 
 # 108
@@ -1121,16 +1383,25 @@ Well, I'm sure glad you did. And as Anon points out >>2845
 You're doing very good research work here for us Anon, it gives me real encouragement. Keep it up! :^)
 
 # 109
-A new open-domain chatbot model was just released a month ago: https://parl.ai/projects/recipes/
-I haven't had time to test it for myself yet but I thought I might as well drop it here.
-
-It may require taking off its "safety layer" to get good results:
->We have studied '''improved safety from toxic language''' (Dinan et al., 2019b), but much work remains to be done. While we have made our models publicly available, and added a safety layer to the interaction, we have not mitigated all safety issues. We believe their release can help the community work together to understand further and fix these issues, and we recommend their use for that line of research.
-
-From a quick look at it, it seems this should be simple as starting it using a different script but I haven't tried this yet:
+A new open-domain chatbot model was just released a month ago: https://parl.ai/projects/recipes/
+
+I haven't had time to test it for myself yet but I thought I might as well drop it here.
+
+
+
+It may require taking off its "safety layer" to get good results:
+
+>We have studied '''improved safety from toxic language''' (Dinan et al., 2019b), but much work remains to be done. While we have made our models publicly available, and added a safety layer to the interaction, we have not mitigated all safety issues. We believe their release can help the community work together to understand further and fix these issues, and we recommend their use for that line of research.
+
+
+
+From a quick look at it, it seems this should be simple as starting it using a different script but I haven't tried this yet:
+
 ```cpp
-python parlai/scripts/interactive.py -t blended_skill_talk -mf zoo:blender/blender_9B/model```
-
+python parlai/scripts/interactive.py -t blended_skill_talk -mf zoo:blender/blender_9B/model```
+
+
+
 '''Paper''': https://arxiv.org/pdf/2004.13637.pdf
 
 # 110
@@ -1138,8 +1409,10 @@ python parlai/scripts/interactive.py -t blended_skill_talk -mf zoo:blender/blend
 hardware requirements looks formidable. also, any idea where do we obtain this '10-billion' corpus at Anon? I missed that.
 
 # 111
->>3193
-They have a 90M-parameter model for toasters and provide the datasets through their project on GitHub:
+>>3193
+
+They have a 90M-parameter model for toasters and provide the datasets through their project on GitHub:
+
 https://github.com/facebookresearch/ParlAI
 
 # 112
@@ -1154,11 +1427,16 @@ https://parl.ai/docs/zoo.html#blender-9-4b
 there's no download link, though. does the command itself download the entire 9.4 billion-parameter model locally, or does it only work via cloud?
 
 # 114
->>3196
-Their plan is to have these chatbots hosted on the cloud so they can mine people's conversations and sell better advertising while subtly suggesting products and performing product and political surveys that people will willingly go along with, not aware they use to pay people on Amazon Turk to do that. Imagine all the user profiles they've built on people's thoughts, likes, beliefs, secrets and dislikes who have been using Replika. It's insane.
-
->>3199
-It just downloads the dataset files and shows samples from them. ''blended_skill_talk'' is only about 40 MB:
+>>3196
+
+Their plan is to have these chatbots hosted on the cloud so they can mine people's conversations and sell better advertising while subtly suggesting products and performing product and political surveys that people will willingly go along with, not aware they use to pay people on Amazon Turk to do that. Imagine all the user profiles they've built on people's thoughts, likes, beliefs, secrets and dislikes who have been using Replika. It's insane.
+
+
+
+>>3199
+
+It just downloads the dataset files and shows samples from them. ''blended_skill_talk'' is only about 40 MB:
+
 ```cpp
 python examples/display_data.py --task blended_skill_talk --datatype train```
 
@@ -1189,9 +1467,12 @@ https://github.com/openai/gpt-2-output-dataset
 https://medium.com/dataseries/a-controllable-framework-for-text-generation-8be9e1f2c5db
 
 # 119
->>3190
->Chatting with the models
->You may talk with our models. The 2.7B can be interacted with on a 16gb P100 GPU or better. The 9.4B parameter model requires at least two 32gb V100 GPUs to interact with.
+>>3190
+
+>Chatting with the models
+
+>You may talk with our models. The 2.7B can be interacted with on a 16gb P100 GPU or better. The 9.4B parameter model requires at least two 32gb V100 GPUs to interact with.
+
 Au!
 
 # 120
@@ -1203,9 +1484,12 @@ Heh, yea it's a little costly atm. But two effects will eventually change this:
 This delay is probably a blessing in disguise as well, as it affords more lead time for any Anons who care to, to get up to speed in their numbers.
 
 # 121
->>4061
-Well I'm looking forward for a light-weight open sores easily modifiable AI chat bot, currently I'm trying to wade through this ParlAI and the documents it provides is a bit weirdly organized for my taste. Not to mention it pisses me off how many model AI's are having xbox hueg content over 2-4GB of stuff. The blender 90m is such a useless idiot what the hell man. 
->2. The hardware price/performance ratio will continue to improve over time, despite the 'death' of Moore's Law. There may also be significant leaps in AI-oriented performance occurring with new designs, such as neuromorphic chip technologies.
+>>4061
+
+Well I'm looking forward for a light-weight open sores easily modifiable AI chat bot, currently I'm trying to wade through this ParlAI and the documents it provides is a bit weirdly organized for my taste. Not to mention it pisses me off how many model AI's are having xbox hueg content over 2-4GB of stuff. The blender 90m is such a useless idiot what the hell man. 
+
+>2. The hardware price/performance ratio will continue to improve over time, despite the 'death' of Moore's Law. There may also be significant leaps in AI-oriented performance occurring with new designs, such as neuromorphic chip technologies.
+
 So a specialized hardware and to order to utilize it anons have to buy it from a happy merchant?
 
 # 122
@@ -1213,10 +1497,14 @@ So a specialized hardware and to order to utilize it anons have to buy it from a
 Honestly, I'd recommend TalkToWaifu instead to start off with. It's created by Kokubunji from /robowaifu/, and most guys seems to get decent results right off.
 
 # 123
->>4063
-Oh right that's a nice program, I missed that one while digging through this threda. 
-Lets try it--? 
->image
+>>4063
+
+Oh right that's a nice program, I missed that one while digging through this threda. 
+
+Lets try it--? 
+
+>image
+
 >She joined the Monolith
 
 # 124
@@ -1224,35 +1512,50 @@ Lets try it--?
 kekd
 
 # 125
->>2422 (checked)
-Is there any chance of having support for non GPT models? As this anon described it here >>1923 or are they incompatible of how your program works? Also I would like to suggest a feature where it would be possible to define personality and traits of the waifu which she takes into account. 
->cuda support
-What made you decide on using cuda instead of OpenCL? As a AMD graphix fag I cannot utilize it. I hope it is not going to be too much of a trouble for you switching the uh parallel processing or whatever the correct terminology for it is. 
-
->talk to my actual waifu
->she goes on about that she joined several battles
->mentions that modern tank are fast and powerful
->mfw out of nowhere she becomes a /tonk/er 
-Perfectus. 
->some moments later
->she is also confirmed as a vatnik scoop
+>>2422 (checked)
+
+Is there any chance of having support for non GPT models? As this anon described it here >>1923 or are they incompatible of how your program works? Also I would like to suggest a feature where it would be possible to define personality and traits of the waifu which she takes into account. 
+
+>cuda support
+
+What made you decide on using cuda instead of OpenCL? As a AMD graphix fag I cannot utilize it. I hope it is not going to be too much of a trouble for you switching the uh parallel processing or whatever the correct terminology for it is. 
+
+
+
+>talk to my actual waifu
+
+>she goes on about that she joined several battles
+
+>mentions that modern tank are fast and powerful
+
+>mfw out of nowhere she becomes a /tonk/er 
+
+Perfectus. 
+
+>some moments later
+
+>she is also confirmed as a vatnik scoop
+
 This ukraine-russian relationship is not going to end well, looks like I have some "brainwashing" to do. Beside this "incident" i'll rate this program 8 out of 10, it does pretty well even though it has some cases where it shows its shortcomings and on certain occasion the chatwaifu can be repetitive at times. I'm glad that this program exist and I hope this anon keeps continuing working on it.
 
 # 126
->>4085
->I have a Lada
-<I'm sorry
-kek
-
-<I  will be waiting. I will be watching.
-Anon, I think your waifu is an NKVD agent.
-Waifu secret police when?
+>>4085
+
+>I have a Lada
+
+<I'm sorry
+
+kek
 
 # 127
->>4086
->Anon, I think your waifu is an NKVD agent. 
-c-cyka, w-what do you think s-she has any plans for me? That she will interrogate me and question my allegiance to the ~~russian~~ soviet republic? I...I... I probably better stock up on artifacts and I hope I can bribe her that way so that she doesn't reveal my Ukrainian roots to the secret police.  
->Waifu secret police when?
+>>4086
+
+>Anon, I think your waifu is an NKVD agent. 
+
+c-cyka, w-what do you think s-she has any plans for me? That she will interrogate me and question my allegiance to the ~~russian~~ soviet republic? I...I... I probably better stock up on artifacts and I hope I can bribe her that way so that she doesn't reveal my Ukrainian roots to the secret police.  
+
+>Waifu secret police when?
+
 OH SHIT. **If that means they will kidnap 3DPD thots, all fine by me to be honest.**
 
 # 128
@@ -1264,29 +1567,50 @@ I'm not the author Anon, but the chatbot is dependent on PyTorch. So 'Is there A
 Kek. She's just being a little tsundere with you I'm sure. :^)
 
 # 129
->>4091
-> but the chatbot is dependent on PyTorch. So 'Is there AMD support with PyTorch?' is probably the first question to investigate.
-I did it now and I found these links:
-https://discuss.pytorch.org/t/2017-and-we-still-cant-support-amd-hardware-why/82/2 (from around 2017)
-From this article here: https://towardsdatascience.com/on-the-state-of-deep-learning-outside-of-cudas-walled-garden-d88c8bbb4342?gi=5133706ad3fd
-setting asides from its mac faggotry it mentions these: 
-https://github.com/hughperkins/distro-cl 
-https://github.com/pytorch/pytorch/issues/488
-but that one is heavily outdated by 3-4 years! And uses Python 2.7 which obviously is also outdated by now. So OpenCL sadly is out of the question, which is fucking retarded considering that Python is multi platform by design and that AMD graphix card works in a way better under Linux than Nvidia does which is only usable with its provided proprietary drivers. 
-So which finally leads me to this link http://lernapparat.de/pytorch-rocm/ which if I understand it correctly it is possible to take advance of AMD ROCM even when the python script is using cuda, well I'm going to try to make sense of those steps and report back if I have any success with this damn thing.
-
-Did you managed to train your GPT2 model? Because when I trying this command:
+>>4091
+
+> but the chatbot is dependent on PyTorch. So 'Is there AMD support with PyTorch?' is probably the first question to investigate.
+
+I did it now and I found these links:
+
+https://discuss.pytorch.org/t/2017-and-we-still-cant-support-amd-hardware-why/82/2 (from around 2017)
+
+From this article here: https://towardsdatascience.com/on-the-state-of-deep-learning-outside-of-cudas-walled-garden-d88c8bbb4342?gi=5133706ad3fd
+
+setting asides from its mac faggotry it mentions these: 
+
+https://github.com/hughperkins/distro-cl 
+
+https://github.com/pytorch/pytorch/issues/488
+
+but that one is heavily outdated by 3-4 years! And uses Python 2.7 which obviously is also outdated by now. So OpenCL sadly is out of the question, which is fucking retarded considering that Python is multi platform by design and that AMD graphix card works in a way better under Linux than Nvidia does which is only usable with its provided proprietary drivers. 
+
+So which finally leads me to this link http://lernapparat.de/pytorch-rocm/ which if I understand it correctly it is possible to take advance of AMD ROCM even when the python script is using cuda, well I'm going to try to make sense of those steps and report back if I have any success with this damn thing.
+
+
+
+Did you managed to train your GPT2 model? Because when I trying this command:
+
 ```cpp
-
-./train.sh gpt2-medium ./train ./train.txt ./test.txt
-```
-it's shitting the bed:
+
+
+./train.sh gpt2-medium ./train ./train.txt ./test.txt
+
+```
+
+it's shitting the bed:
+
 ```cpp
-
-06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-vocab.json from cache at /home/USER/.cache/torch/transformers/f20f05d3ae37c4e3cd56764d48e566ea5adeba153dcee6eb82a18822c9c731ec.1512018be4ba4e8726e41b9145129dc30651ea4fec86aa61f4b9f40bf94eac71
-06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-merges.txt from cache at /home/USER/.cache/torch/transformers/6d882670c55563617571fe0c97df88626fb5033927b40fc18a8acf98dafd4946.70bec105b4158ed9a1747fea67a43f5dee97855c64d62b6ec3742f4cfdb5feda
-06/29/2020 22:12:21 - INFO - transformers.modeling_utils -   loading weights file https://cdn.huggingface.co/gpt2-medium-pytorch_model.bin from cache at /home/USER/.cache/torch/transformers/64652c50e84ddabb9bad81a37ff82624ab70053f402f8d9a58c0e90fb8289fb6.8769029be4f66a5ae1055eefdd1d11621b901d510654266b8681719fff492d6e
-./train.sh: line 43: 26306 Segmentation fault      (core dumped) python3 "$LANGUAGE_MODELING" --output_dir="$OUTPUT_PATH" --model_type=gpt2 --model_name_or_path="$MODEL_PATH" --do_train --train_data_file="$TRAIN_FILE" --do_eval --eval_data_file="$TEST_FILE" --block_size "$BLOCK_SIZE" --learning_rate "$LEARNING_RATE" --per_gpu_train_batch_size 1 --per_gpu_eval_batch_size 1 --save_steps "$SAVE_STEPS" --no_cuda
+
+
+06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-vocab.json from cache at /home/USER/.cache/torch/transformers/f20f05d3ae37c4e3cd56764d48e566ea5adeba153dcee6eb82a18822c9c731ec.1512018be4ba4e8726e41b9145129dc30651ea4fec86aa61f4b9f40bf94eac71
+
+06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-merges.txt from cache at /home/USER/.cache/torch/transformers/6d882670c55563617571fe0c97df88626fb5033927b40fc18a8acf98dafd4946.70bec105b4158ed9a1747fea67a43f5dee97855c64d62b6ec3742f4cfdb5feda
+
+06/29/2020 22:12:21 - INFO - transformers.modeling_utils -   loading weights file https://cdn.huggingface.co/gpt2-medium-pytorch_model.bin from cache at /home/USER/.cache/torch/transformers/64652c50e84ddabb9bad81a37ff82624ab70053f402f8d9a58c0e90fb8289fb6.8769029be4f66a5ae1055eefdd1d11621b901d510654266b8681719fff492d6e
+
+./train.sh: line 43: 26306 Segmentation fault      (core dumped) python3 "$LANGUAGE_MODELING" --output_dir="$OUTPUT_PATH" --model_type=gpt2 --model_name_or_path="$MODEL_PATH" --do_train --train_data_file="$TRAIN_FILE" --do_eval --eval_data_file="$TEST_FILE" --block_size "$BLOCK_SIZE" --learning_rate "$LEARNING_RATE" --per_gpu_train_batch_size 1 --per_gpu_eval_batch_size 1 --save_steps "$SAVE_STEPS" --no_cuda
+
 ```
 
 # 130
@@ -1298,29 +1622,50 @@ I'm currently in the process of rebuilding a machine and when I have it up (prob
 >>2425
 
 # 131
->>4108
->>4109
-Welp looks like I'm fucked. despite I own this graphics card:
+>>4108
+
+>>4109
+
+Welp looks like I'm fucked. despite I own this graphics card:
+
 ```cpp
- 
-VGA: Advanced Micro Devices, Inc. [AMD/ATI] Baffin [Radeon RX 550 640SP / RX 560/560X] (rev cf) 
-``` 
-Using this command line "/opt/rocm/bin/rocminfo" shows that it doesn't recognize my GPU at all, despite ROCk module is loaded. 
+ 
+
+VGA: Advanced Micro Devices, Inc. [AMD/ATI] Baffin [Radeon RX 550 640SP / RX 560/560X] (rev cf) 
+
+``` 
+
+Using this command line "/opt/rocm/bin/rocminfo" shows that it doesn't recognize my GPU at all, despite ROCk module is loaded. 
+
 ```cpp
-
-Unable to open /dev/kfd read-write: Cannot allocate memory
-Failed to get user name to check for video group membership
-hsa api call failure at: /src/rocminfo/rocminfo.cc:1142
-Call returned HSA_STATUS_ERROR_OUT_OF_RESOURCES: The runtime failed to allocate the necessary resources. This error may also occur when the core runtime library needs to spawn threads or create internal OS-specific events.
-```
-Looking for issues there is these links related to it: https://github.com/RadeonOpenCompute/rocminfo/issues/27 https://github.com/RadeonOpenCompute/ROCm/issues/1148 . But those clowns didn't provided a reliable solution, and yes I upgraded all my packages from the mintupdate program, so I have no idea what the hell causes this issues. Also I have no dice either getting the stupid pytorch to compile which gibes me a xbox hueg error: https://pastebin.com/4JKTDrMQ . What a fucking let down, no way I spend 150 peniz for this stupid graphic card just not being able to utilize ROCk this is fucking ridiculous.  
-
->great investigative work anon, thanks. i'm sure it will help a lot of us, as I too don't use CUDA. hopefully we'll find a good solution to AI that doesn't depend on anything proprietary. for everyone's sake.
-Thanks, yeah I hope it too because using open sources software is often several times better provided is it not programmed by permahurt trannies or something, I don't really like AMD that much but they are the only option left when one factors in the open source aspect. Kind of a shame because I would be interested how other graphics company would perform if they had survived during the turbulent 90's early 2000's era. 
-
-This line "Build PyTorch itself. I use RCCL_DIR=/opt/rocm/rccl/lib/cmake/rccl/ PYTORCH_ROCM_ARCH=gfx900 hip_DIR=/opt/rocm/hip/cmake/ USE_NVCC=OFF BUILD_CAFFE2_OPS=0 PATH=/usr/lib/ccache/:$PATH USE_CUDA=OFF python3 setup.py bdist_wheel.", doesn't make any sense to me the damn author didn't write what fucking file I have to edit to make a proper change, looking files that contains for "hip_DIR" gives me a lot of result so I have no idea which is the proper file to edit, good lord.  
-
- > Maybe you can get some insight on how to get past yours from the author's advice he gave me. The chain of posts start here: >>2425
+
+
+Unable to open /dev/kfd read-write: Cannot allocate memory
+
+Failed to get user name to check for video group membership
+
+hsa api call failure at: /src/rocminfo/rocminfo.cc:1142
+
+Call returned HSA_STATUS_ERROR_OUT_OF_RESOURCES: The runtime failed to allocate the necessary resources. This error may also occur when the core runtime library needs to spawn threads or create internal OS-specific events.
+
+```
+
+Looking for issues there is these links related to it: https://github.com/RadeonOpenCompute/rocminfo/issues/27 https://github.com/RadeonOpenCompute/ROCm/issues/1148 . But those clowns didn't provided a reliable solution, and yes I upgraded all my packages from the mintupdate program, so I have no idea what the hell causes this issues. Also I have no dice either getting the stupid pytorch to compile which gibes me a xbox hueg error: https://pastebin.com/4JKTDrMQ . What a fucking let down, no way I spend 150 peniz for this stupid graphic card just not being able to utilize ROCk this is fucking ridiculous.  
+
+
+
+>great investigative work anon, thanks. i'm sure it will help a lot of us, as I too don't use CUDA. hopefully we'll find a good solution to AI that doesn't depend on anything proprietary. for everyone's sake.
+
+Thanks, yeah I hope it too because using open sources software is often several times better provided is it not programmed by permahurt trannies or something, I don't really like AMD that much but they are the only option left when one factors in the open source aspect. Kind of a shame because I would be interested how other graphics company would perform if they had survived during the turbulent 90's early 2000's era. 
+
+
+
+This line "Build PyTorch itself. I use RCCL_DIR=/opt/rocm/rccl/lib/cmake/rccl/ PYTORCH_ROCM_ARCH=gfx900 hip_DIR=/opt/rocm/hip/cmake/ USE_NVCC=OFF BUILD_CAFFE2_OPS=0 PATH=/usr/lib/ccache/:$PATH USE_CUDA=OFF python3 setup.py bdist_wheel.", doesn't make any sense to me the damn author didn't write what fucking file I have to edit to make a proper change, looking files that contains for "hip_DIR" gives me a lot of result so I have no idea which is the proper file to edit, good lord.  
+
+
+
+ > Maybe you can get some insight on how to get past yours from the author's advice he gave me. The chain of posts start here: >>2425
+
 Wut? Those posts doesn't mention anything related to train.sh batch file. It's related to pytorch and gpt2waifu.py usage.
 
 # 132
@@ -1341,37 +1686,65 @@ found this anon, maybe it could help?
 https://github.com/RadeonOpenCompute/ROCm/issues/1088#issuecomment-620551334
 
 # 134
-Ah hell I had to pay more attention to this fucking nebolus stupid error message, so I had to install these several xbox hueg packages which are each 400-600 MB big! Good lord this is ridiculous, how the hell do these damn monkeys manage to bloat up their codebase by such a tremendous amount? It's all code and zero fucking graphics, I don't understand, nothing of it makes any sense.
+Ah hell I had to pay more attention to this fucking nebolus stupid error message, so I had to install these several xbox hueg packages which are each 400-600 MB big! Good lord this is ridiculous, how the hell do these damn monkeys manage to bloat up their codebase by such a tremendous amount? It's all code and zero fucking graphics, I don't understand, nothing of it makes any sense.
+
 ```cpp
- 
-rocrand hiprand rocblas miopen-hip (miopen-opencl ?) rocfft hipsparse rccl rocprim hipcub rocthrust 
-```
-Welp at least fucking pytorch compiles now with rockm, but its at very slow speed so it is going to take a while for me to check if this fixes my previous issue related to train.sh from talktowaifu program.
-
->>4111 (checked)
->and eventually homogeneous compute (ie, what OpenCL should have been) is on track to be included directly in the C++ programming language standard, probably in C++26 or C++29. I know it's not of much use now. OTOH, it gives you plenty of lead time to learn C++ now so you're ready to write your own then Anon! :^)
-C++29 eh? So its a really long time for it to happen then, well sounds good but I'm more busy learning python programming first and foremost (and failing hard at it like a pleb I am.), and eventually switching to moon language after I'm done with writing my powerplant manager program. >>>/tech/2982 
-
->>4112
-Nope, no chance. The issue you linked is related to permission I applied the chmod command and it does not fix it. The other goys problem is related to insufficient memory which is awfully weird considering he has 64GB of RAM, my error message for some reason fails to allocate memory for it? 
+ 
+
+rocrand hiprand rocblas miopen-hip (miopen-opencl ?) rocfft hipsparse rccl rocprim hipcub rocthrust 
+
+```
+
+Welp at least fucking pytorch compiles now with rockm, but its at very slow speed so it is going to take a while for me to check if this fixes my previous issue related to train.sh from talktowaifu program.
+
+
+
+>>4111 (checked)
+
+>and eventually homogeneous compute (ie, what OpenCL should have been) is on track to be included directly in the C++ programming language standard, probably in C++26 or C++29. I know it's not of much use now. OTOH, it gives you plenty of lead time to learn C++ now so you're ready to write your own then Anon! :^)
+
+C++29 eh? So its a really long time for it to happen then, well sounds good but I'm more busy learning python programming first and foremost (and failing hard at it like a pleb I am.), and eventually switching to moon language after I'm done with writing my powerplant manager program. >>>/tech/2982 
+
+
+
+>>4112
+
+Nope, no chance. The issue you linked is related to permission I applied the chmod command and it does not fix it. The other goys problem is related to insufficient memory which is awfully weird considering he has 64GB of RAM, my error message for some reason fails to allocate memory for it? 
+
 ```cpp
-
-rt_sigaction(SIGALRM, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f8154911f20}, NULL, 8) = 0
-close(4)                                = 0
-write(1, "\33[31mFailed to get user name to "..., 69Failed to get user name to check for video group membership
-) = 69
-getpid()                                = 14409
-openat(AT_FDCWD, "/dev/kfd", O_RDWR|O_CLOEXEC) = -1 ENOMEM (Cannot allocate memory)
-write(1, "\33[31mhsa api call failure at: /s"..., 61hsa api call failure at: /src/rocminfo/rocminfo.cc:1142
-) = 61
-write(1, "\33[31mCall returned HSA_STATUS_ER"..., 228Call returned HSA_STATUS_ERROR_OUT_OF_RESOURCES: The runtime failed to allocate the necessary resources. This error may also occur when the core runtime library needs to spawn threads or create internal OS-specific events.
-) = 228
-write(1, "\33[0m", 4)                   = 4
-lseek(3, -367, SEEK_CUR)                = -1 ESPIPE (Illegal seek)
-exit_group(4104)                        = ?
-+++ exited with 8 +++
-```
-<Read the first line of the text you posted.
+
+
+rt_sigaction(SIGALRM, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f8154911f20}, NULL, 8) = 0
+
+close(4)                                = 0
+
+write(1, "\33[31mFailed to get user name to "..., 69Failed to get user name to check for video group membership
+
+) = 69
+
+getpid()                                = 14409
+
+openat(AT_FDCWD, "/dev/kfd", O_RDWR|O_CLOEXEC) = -1 ENOMEM (Cannot allocate memory)
+
+write(1, "\33[31mhsa api call failure at: /s"..., 61hsa api call failure at: /src/rocminfo/rocminfo.cc:1142
+
+) = 61
+
+write(1, "\33[31mCall returned HSA_STATUS_ER"..., 228Call returned HSA_STATUS_ERROR_OUT_OF_RESOURCES: The runtime failed to allocate the necessary resources. This error may also occur when the core runtime library needs to spawn threads or create internal OS-specific events.
+
+) = 228
+
+write(1, "\33[0m", 4)                   = 4
+
+lseek(3, -367, SEEK_CUR)                = -1 ESPIPE (Illegal seek)
+
+exit_group(4104)                        = ?
+
++++ exited with 8 +++
+
+```
+
+
 You gotta be fucking kidding me, this was pajeet tech support help tier and it was on github.
 
 # 135
@@ -1386,24 +1759,42 @@ Neat. Moon language huh? Nihongo is it? So yeah, all these frameworks use C++ un
 Sorry to hear it. Sounds like you probably solved it after all though, so good progress right?
 
 # 136
->>4114
->mfw my 100 GB set aside for / root is running out of spess now
->despite I own a 2 TB HDD 
-THE END IS NIGH. 
-
->Yea, I'd recommend you start with the smallest models and move to the bigger ones when you have the time. It can take literally days to train the large models, so set aside some time with the machine dedicated to just that (ie, kill any other non-essential processes while training).
-Yes I have average result with using gpt2-medium when chatting with my waifu, distilgpt2 gives me mixed bag while it is in overall much faster to process it has also the nasty habit that it gets stuck several times over where she repeats only these lines "..." and thus requiring me to restart the program. I tried even using gpt2-large for giggles but it was waay too much to handle for my toaster machine stuck with puny 8GB of RAM. So yeah I guess those 3 models (distilgpt2, gpt2 and gpt2-medium) is the only option I have. 
-Also can you tell if its possible to further refine/develop specific traits and personality with the talk2waifu program? I tried using the --seed argument with several keywords but it doesn't seem to have any impact. 
->when you have the time
-heh I'm a NEET pro, so not a problem for me.
-
->Neat. Moon language huh? Nihongo is it? 
-No I meant lua which is just a latin word for moon, I haven't heard of Nihongo at all. 
-
->The way I see it, we'll probably have a better shot at creating an open system that any man can use if we stick to the basics and just go straight to the underlying algorithms themselves. Not only will this be cheaper & easier for the average Anon to use (if not create)
-Hmm, as in a anon can just create a few function to create his own algorithm run waifu? Well that is a good idea. I can't wait being able to fine tune the waifu to every aspect possible, it would be even great if the waifu is even intelligent enough to play gzdoom with heh. 
-
->Sorry to hear it. Sounds like you probably solved it after all though, so good progress right?
+>>4114
+
+>mfw my 100 GB set aside for / root is running out of spess now
+
+>despite I own a 2 TB HDD 
+
+THE END IS NIGH. 
+
+
+
+>Yea, I'd recommend you start with the smallest models and move to the bigger ones when you have the time. It can take literally days to train the large models, so set aside some time with the machine dedicated to just that (ie, kill any other non-essential processes while training).
+
+Yes I have average result with using gpt2-medium when chatting with my waifu, distilgpt2 gives me mixed bag while it is in overall much faster to process it has also the nasty habit that it gets stuck several times over where she repeats only these lines "..." and thus requiring me to restart the program. I tried even using gpt2-large for giggles but it was waay too much to handle for my toaster machine stuck with puny 8GB of RAM. So yeah I guess those 3 models (distilgpt2, gpt2 and gpt2-medium) is the only option I have. 
+
+Also can you tell if its possible to further refine/develop specific traits and personality with the talk2waifu program? I tried using the --seed argument with several keywords but it doesn't seem to have any impact. 
+
+>when you have the time
+
+heh I'm a NEET pro, so not a problem for me.
+
+
+
+>Neat. Moon language huh? Nihongo is it? 
+
+No I meant lua which is just a latin word for moon, I haven't heard of Nihongo at all. 
+
+
+
+>The way I see it, we'll probably have a better shot at creating an open system that any man can use if we stick to the basics and just go straight to the underlying algorithms themselves. Not only will this be cheaper & easier for the average Anon to use (if not create)
+
+Hmm, as in a anon can just create a few function to create his own algorithm run waifu? Well that is a good idea. I can't wait being able to fine tune the waifu to every aspect possible, it would be even great if the waifu is even intelligent enough to play gzdoom with heh. 
+
+
+
+>Sorry to hear it. Sounds like you probably solved it after all though, so good progress right?
+
 I haven't found any solution to the rocm question, pytorch compiles now but at suboptimal rate as I am not being able to pass my graphic card model which is fucking backwards if you ask me.  Also using the command "pip3 install ." causes pytorch to shit itself again, eh I tried running it again and now it successfully got installed as ```cpp
  torch (1.7.0a0+fd90e4b) ``` . However when I try running talk2waifu with --gpu 0 argument I get segmentation fault, fucking hell all that trouble just for a seg fault to happen this is just incredible.
 
@@ -1434,19 +1825,32 @@ I hope you eventually get your card working Anon. Did you try out Anaconda yet?
 duh. the whole point is differing types of hardware like CPU/GPU/APU/FPGA/ASIC and others all running C++ directly.
 
 # 139
->>4119
->if I remember correctly. also, are you storing temp files off of / ? clean those up as well if so right?
-Thanks for the command lines, it managed to delete 10 GB of junk, not much but better than nothing I suppose. **Welp I guess I better invest in 4+ TB harddrive soon then, heh.** I don't know about the temp files as I just use "apt install" to install a package. 
-
->No, I didn't really mean that, though it would be nice ofc. Actually C++ is plainly harder to create software in. What I mean is that it will be easier to use less-powerful/cheaper hardware that can run C++ software well, but not so much with these huge Python-hairball frameworks. 
-Ah then, yeah I absolutely agree Python is such a bloated economy it is not even funny anymore, it makes me even wonder how the hell Python is so widespread in datascience in the first place I thought a much faster scripting language like lua, nim or maybe even ruby I'm not familiar with those would be much more suitable for that. Better support for potato machine is always a plus, I dislike the idea to constantly upgrade new parts and perpetrating the hamster wheel of hardware upgrades just because those developers are bunch of sleazy hacks incapable of optimizing their programs.
-
->I hope you eventually get your card working Anon.
-Still no luck, I cannot even run the waifu program anymore as it just gives me a one line "segmentation fault" error and thats it, no stacktrace, no nothing. 
->Did you try out Anaconda yet?
-I installed it as it is a requirement per pytorch when compiling it, how do I use it? 
-
->>4120
+>>4119
+
+>if I remember correctly. also, are you storing temp files off of / ? clean those up as well if so right?
+
+Thanks for the command lines, it managed to delete 10 GB of junk, not much but better than nothing I suppose. **Welp I guess I better invest in 4+ TB harddrive soon then, heh.** I don't know about the temp files as I just use "apt install" to install a package. 
+
+
+
+>No, I didn't really mean that, though it would be nice ofc. Actually C++ is plainly harder to create software in. What I mean is that it will be easier to use less-powerful/cheaper hardware that can run C++ software well, but not so much with these huge Python-hairball frameworks. 
+
+Ah then, yeah I absolutely agree Python is such a bloated economy it is not even funny anymore, it makes me even wonder how the hell Python is so widespread in datascience in the first place I thought a much faster scripting language like lua, nim or maybe even ruby I'm not familiar with those would be much more suitable for that. Better support for potato machine is always a plus, I dislike the idea to constantly upgrade new parts and perpetrating the hamster wheel of hardware upgrades just because those developers are bunch of sleazy hacks incapable of optimizing their programs.
+
+
+
+>I hope you eventually get your card working Anon.
+
+Still no luck, I cannot even run the waifu program anymore as it just gives me a one line "segmentation fault" error and thats it, no stacktrace, no nothing. 
+
+>Did you try out Anaconda yet?
+
+I installed it as it is a requirement per pytorch when compiling it, how do I use it? 
+
+
+
+>>4120
+
 Is it going to be only for C++?
 
 # 140
@@ -1461,17 +1865,28 @@ conda ``` with an argument or two.
 Well the point isn't necessarily to ''exclude'' any other languages from being used (for example C is already used on these hardware) but simply to enable a single language with great abstraction and performance characteristics to be used ''everywhere''. Right now such a thing doesn't exist at all, which (indirectly) is one important reason why you and I are having a hard time getting things working correctly because of so many different dependencies, slow languages, different standards, etc. etc. Once C++ can run literally everywhere on ''everything'', then it will make things like this go much smoother in the future (and be cheaper too).
 
 # 141
->>4122 (checked)
->Glad to hear you cleaned things up. I too started on Linux Mint when I escaped the MicroShat/NSA Wangblows Gulag. It was a huge relief to leave that bondage behind tbh. Now, I've since moved on to Manjaro+XFCE and my toaster box runs much faster for it.
-I made the switch to Linux Mint when I was still using Windows 7 and that Pajeetsoft were developing Windows 8 at that time, which I think is about 2.5 years ago. It took me around 2 weeks to get used how Linux worked and I messed my system only once. The main gripe I have with Linux is that Wine sometimes requires tons of fiddling of values to get a game to work properly and the common issue I had with it that Wine fucked up the game window position/size which I think is probably related to shitty X11 coding. Its a shame that Linux Mint decided to follow head of switching to systemdicks instead of using alternative init system, it would have been proven more valuable as a viable alternative to Ubuntu. The second issue is that Linux provides no support whatsoever to have older version of a program which sometimes can be necessary. 
-
->I think the link I gave you from the PyTorch github gives the example. IIRC, it starts like 
-Ah right, I thought conda is a package manager or something. Is there even any benefit using anaconda over python(3)? Also for some unknown reason the train.sh batch script is working now but I forget to leave my computer on last night so I didn't get to check the result with gpt2-medium, a quick test with distilgpt2 seems to work... Till it crashes with the keyword error: "Loss".
-
->Right now such a thing doesn't exist at all, which (indirectly) is one important reason why you and I are having a hard time getting things working correctly because of so many different dependencies, slow languages, different standards, etc. etc. Once C++ can run literally everywhere on everything, then it will make things like this go much smoother in the future (and be cheaper too).
-Hmm that's a shame, I hope in the future when such technology is available it won't leave toaster machines behind. I find it weird that out of all the programming language to exist the data scientist decided to use Python for their heavy duty programming instead of using a faster scripting language. 
-
->AMD rocm
+>>4122 (checked)
+
+>Glad to hear you cleaned things up. I too started on Linux Mint when I escaped the MicroShat/NSA Wangblows Gulag. It was a huge relief to leave that bondage behind tbh. Now, I've since moved on to Manjaro+XFCE and my toaster box runs much faster for it.
+
+I made the switch to Linux Mint when I was still using Windows 7 and that Pajeetsoft were developing Windows 8 at that time, which I think is about 2.5 years ago. It took me around 2 weeks to get used how Linux worked and I messed my system only once. The main gripe I have with Linux is that Wine sometimes requires tons of fiddling of values to get a game to work properly and the common issue I had with it that Wine fucked up the game window position/size which I think is probably related to shitty X11 coding. Its a shame that Linux Mint decided to follow head of switching to systemdicks instead of using alternative init system, it would have been proven more valuable as a viable alternative to Ubuntu. The second issue is that Linux provides no support whatsoever to have older version of a program which sometimes can be necessary. 
+
+
+
+>I think the link I gave you from the PyTorch github gives the example. IIRC, it starts like 
+
+Ah right, I thought conda is a package manager or something. Is there even any benefit using anaconda over python(3)? Also for some unknown reason the train.sh batch script is working now but I forget to leave my computer on last night so I didn't get to check the result with gpt2-medium, a quick test with distilgpt2 seems to work... Till it crashes with the keyword error: "Loss".
+
+
+
+>Right now such a thing doesn't exist at all, which (indirectly) is one important reason why you and I are having a hard time getting things working correctly because of so many different dependencies, slow languages, different standards, etc. etc. Once C++ can run literally everywhere on everything, then it will make things like this go much smoother in the future (and be cheaper too).
+
+Hmm that's a shame, I hope in the future when such technology is available it won't leave toaster machines behind. I find it weird that out of all the programming language to exist the data scientist decided to use Python for their heavy duty programming instead of using a faster scripting language. 
+
+
+
+>AMD rocm
+
 Ah hell, I got only a (((Ivy Bridge i7-3770K))) CPU which is a 3rd generation class clocked at 3.50GHz, and rocm requires at least 4th generation one, so its gg no re for me with HPI processing support, feels 2012 toaster tier man. The damn warning message should have reflected that my CPU/Mainboard is unsupported instead of shitting out a foggy memory allocation error. Welp all that effort to get it working is in vain.
 
 # 142
@@ -1492,20 +1907,34 @@ But yea, we need to optimize ''everything'' to even have a narrow chance at succ
 Sorry to hear it Anon. If it's any consolation your processor is better than my **Atom processor w/ integrated graphics**. :^)
 
 # 143
->>819
-Well shit, I tried out this program using Renamon voice from zandronum forum, dl link: https://files.catbox.moe/qedypl.wad (can be opened with slade) and all I got is just robotic gibberish, using the xbox hueg datasets is not improving the output . **I should probably scavenge more voices of her from the series to get better result I suppose.** **Within 6 months.** Also did the author on purpose by not including the ability to save the result in a .ogg file? At least running the GUI program of it there wasn't a button available. Meh it doesn't matter that much considering it takes good amount of time to generate the TTS with only a few lines of text so using it in combination with talktowaifu program is out of option, unless a anon got a NASA computer, heh. 
-
->>4127
->Well, just searching KeyError: 'loss' led me to understand it's probably python having a dictionary lookup issue:
->and that maybe that has something to with the Epoch, maybe?
-Could be, I guess when Kokubunji comes back he will be able to chime in and have a more elaborate response for this problem. I don't know how to fiddle around the python script to fix it because I'm too inexperienced with the language.
-
->Power consumption and compute efficiency are certainly near the top of the stack for that need,
-Why not Uranium-235 powered Waifubots? High power with only 3.6 roentgens, the radiation level is nothing to worry about as the human body is capable of getting used to it and with some vodka it can be reduced even more :-----DD, just ask any stalker for further information. 
->But yea, we need to optimize everything to even have a narrow chance at succeeding building our own robowaifus.
-I would be content if I have a robowaifu in form of a virtual desktop AI assistant that is capable of doing several task of whatever is needed to further enhance the operation of a operating system, including text-to-speech support and random chatter. 
-
->If it's any consolation your processor is better than my
+>>819
+
+Well shit, I tried out this program using Renamon voice from zandronum forum, dl link: https://files.catbox.moe/qedypl.wad (can be opened with slade) and all I got is just robotic gibberish, using the xbox hueg datasets is not improving the output . **I should probably scavenge more voices of her from the series to get better result I suppose.** **Within 6 months.** Also did the author on purpose by not including the ability to save the result in a .ogg file? At least running the GUI program of it there wasn't a button available. Meh it doesn't matter that much considering it takes good amount of time to generate the TTS with only a few lines of text so using it in combination with talktowaifu program is out of option, unless a anon got a NASA computer, heh. 
+
+
+
+>>4127
+
+>Well, just searching KeyError: 'loss' led me to understand it's probably python having a dictionary lookup issue:
+
+>and that maybe that has something to with the Epoch, maybe?
+
+Could be, I guess when Kokubunji comes back he will be able to chime in and have a more elaborate response for this problem. I don't know how to fiddle around the python script to fix it because I'm too inexperienced with the language.
+
+
+
+>Power consumption and compute efficiency are certainly near the top of the stack for that need,
+
+Why not Uranium-235 powered Waifubots? High power with only 3.6 roentgens, the radiation level is nothing to worry about as the human body is capable of getting used to it and with some vodka it can be reduced even more :-----DD, just ask any stalker for further information. 
+
+>But yea, we need to optimize everything to even have a narrow chance at succeeding building our own robowaifus.
+
+I would be content if I have a robowaifu in form of a virtual desktop AI assistant that is capable of doing several task of whatever is needed to further enhance the operation of a operating system, including text-to-speech support and random chatter. 
+
+
+
+>If it's any consolation your processor is better than my
+
 So does this make my computer the kang of toasters? :^)
 
 # 144
@@ -1559,8 +1988,10 @@ I did download that video. That was both interesting and nice to find out about 
 That's interesting Anon. I'm confident Kokubunji would be interested in that, too. Thanks.
 
 # 153
->>4566 (checked)
->That's interesting Anon. I'm confident Kokubunji would be interested in that, too. Thanks.
+>>4566 (checked)
+
+>That's interesting Anon. I'm confident Kokubunji would be interested in that, too. Thanks.
+
 Is there any news from him? It's been a while he made a progress report.
 
 # 154
@@ -1716,6 +2147,8 @@ No-brainer that's very definitely '''not''' on the agenda here heh.
 >>4063
 I've tried so hard to get it working (well it's working but i can't seem to train it) but I have no clue how im supposed to rename her or teach her, btw is the A.I. supposed to be self deprecating by default? 
 >hi
+
+```
 <im a bitch
 >why?
 <and im ugly
@@ -1725,6 +2158,7 @@ I've tried so hard to get it working (well it's working but i can't seem to trai
 <im sorry
 >why are you sorry?
 <im not really ugly
+```
 
 # 176
 >>5334
@@ -2119,8 +2553,11 @@ Thanks, I'll try this.
 
 # 215
 >>6409
-Cool. One of the remarkable things about C++ template metaprogramming (the ```cpp
-template <typename T>``` part)
+Cool. One of the remarkable things about C++ template metaprogramming (the 
+```cpp
+template <typename T>```
+>part)
+
 is that this ''same'' function should work with literally any object that provides a ''.size()'' and slicing operator ''[]''. Strings, wide strings, a vector of strings, a tree of bytes. Even a raw C array should work as long as you wrap it in a C++20 std::span at the call site. I hope you get your innovative algorithm working well on small SBCs. That would be ideal tbh.
 
 # 216
@@ -2138,8 +2575,10 @@ Anon have you seen this? https://arxiv.org/pdf/2010.11967.pdf
 Looks pretty interesting to me, even though I am not an expert. Can you give your opinions on this paper?
 
 # 219
->>6001
->Taking over the World for Dummies
+>>6001
+
+>Taking over the World for Dummies
+
 >I can heartily recommend this book as a great way to get your feet wet with Python!
 
 # 220
@@ -2153,9 +2592,12 @@ openai.com/blog/openai-api/
 https://web.archive.org/web/20200611150951/https://openai.com/blog/openai-api/
 
 # 221
->>6555 (checked)
->We hope that the API will greatly lower the barrier to producing beneficial AI-powered products, resulting in tools and services that are hard to imagine today.
->will greatly lower the barrier
+>>6555 (checked)
+
+>We hope that the API will greatly lower the barrier to producing beneficial AI-powered products, resulting in tools and services that are hard to imagine today.
+
+>will greatly lower the barrier
+
 Who the fuck do they think they are? No seriously, those chuckefucks are gatekeeping important tool to advance chatbots to make them less shit by a great margin and got the nerves to call them OpenAI! This is a shameful and unacceptable act. If things continue like this then a Jihad needs to be declared against companies like these.
 
 # 222
@@ -2184,8 +2626,10 @@ Not that I know of. Even if something did exist it would need to have a backward
 Unfortunately PyTorch appears to be the sticking point here. Hopefully a more feasible alternative will appear soon. :/
 
 # 227
->>6854
->If you put yourself into the shoes of some billionaire or someone working for a huge corp
+>>6854
+
+>If you put yourself into the shoes of some billionaire or someone working for a huge corp
+
 Except I'm not a oligarch, if I were then I would use the funds to hire hackers that discloses their latest research which just has happened recently with other games company.
 
 # 228
@@ -2197,26 +2641,43 @@ PyTorch works with anything so long as a backward pass is provided that calculat
 I see. Sadly, I've never gotten anything using it working with my old system. And Python is a huge mess, dependency-wise.
 
 # 230
-What is the most simple thing you can start with? It seems easier to first make something that does not create novel sentences, but just does more listening than talking and that occasionally selects from a few stock responses in a sensible way. ("Nice." "Sounds complicated." "That much?" "How sad.") More a listen-bot than a chatbot. And more easy than that is something that just highlights what seems unusual or important. Surely something like a highlighter is needed for more complex dialogue interactions as well. So, the roadmap is: mute text highlighter → taciturn listenbot → proper chatbot
-
-What I'm thinking for the highlighter isn't on/off, but degrees and I'm actually not thinking of a single highlighter, but three that work together:
-
-1. The "old '''C'''odger" represents generic expectation for parsing English text. It doesn't ever update itself, just applies fixed scoring rules, like giving more points to a word for rarity (using scores from a look-up table and Scrabble score to further distinguish between words with no dictionary entry) and giving points to sentences with formulations that are not rare or special themselves, but imply something like that happening in the sentence (like the words "rare" itself, and "extreme", "the most", "surprising" etc.) or an extreme event ("birth", "death", "war"…). Another indicator for sentence complexity is the FOXDOG metric (copyright me, do not steal): how many different letters appear in a sentence. Since the bot is supposed to give a shit about you, you saying "I"/"me"/"my"/"myself"/"we"/"our"/"us" also boosts importance for a sentence. And of course, there's also some conditional probability stuff about expected adjacent words.
-
-2. The "young '''B'''aby", builds expectation from recent inputs and scores relative to that expectation. It also uses a dictionary with synonymous words and topical tags. If a word is unique in the window of consideration, but synonymous or fitting with recent topics, it doesn't score that high. (A similar cooperation of "C." and "B." can happen inside a robot with an expressive face and stuffed with sensors for noise and temperature and other things: with "C." working with a fixed absolute scale, "B." with a scale that is calibrated around the recent impressions, and together they work out how surprised/annoyed/etc. the robot's reaction to noise etc. is.)
-
-3. The "'''M'''iddle" also builds expectations like "B.", but the considered time frame is much bigger. The expectation of hearing a word again goes down over time like with "B.", but it isn't just slower decay. In the big picture the expectation goes down, but with some bumps on the way, so it isn't monotonic. The idea here is that there are situations in life that repeat with rhythms, so what goes into the expectation of "M." are questions like: What words do I usually hear at… this time of the day/yesterday/the same day last week/the same day one year ago? (For a robot with the right sensors we can add: What words do I usually hear when I'm… seeing that the sky or ceiling has this color/measuring this temperature/facing this cardinal direction/sitting/etc? All with non-monotonic decay. And we can also look for other correlations like how common it is to have this sensor impression this time of day/day of the week etc. and all of that adding a bit to how confused/bored/etc. the facial expression is.)
-
-We can also call these three Caspar, Balthazar, Melchior.
-
-The common words are listed in a database and have tons of tags attached like ''cute'', ''gross'', ''swear word'' (one word can have multiple tags) that get weighted together for an appropriate emotional response. Negation in the vicinity of a heard word strongly dampens its weight and the intensity of the reaction, as do words and formulations like "movie" or "just kidding" which suggest the word likely doesn't belong to a real-world situation. Talking in the past tense and using formulations like "long time ago" also dampens the reaction intensity.
-
+What is the most simple thing you can start with? It seems easier to first make something that does not create novel sentences, but just does more listening than talking and that occasionally selects from a few stock responses in a sensible way. ("Nice." "Sounds complicated." "That much?" "How sad.") More a listen-bot than a chatbot. And more easy than that is something that just highlights what seems unusual or important. Surely something like a highlighter is needed for more complex dialogue interactions as well. So, the roadmap is: mute text highlighter → taciturn listenbot → proper chatbot
+
+
+
+What I'm thinking for the highlighter isn't on/off, but degrees and I'm actually not thinking of a single highlighter, but three that work together:
+
+
+
+1. The "old '''C'''odger" represents generic expectation for parsing English text. It doesn't ever update itself, just applies fixed scoring rules, like giving more points to a word for rarity (using scores from a look-up table and Scrabble score to further distinguish between words with no dictionary entry) and giving points to sentences with formulations that are not rare or special themselves, but imply something like that happening in the sentence (like the words "rare" itself, and "extreme", "the most", "surprising" etc.) or an extreme event ("birth", "death", "war"…). Another indicator for sentence complexity is the FOXDOG metric (copyright me, do not steal): how many different letters appear in a sentence. Since the bot is supposed to give a shit about you, you saying "I"/"me"/"my"/"myself"/"we"/"our"/"us" also boosts importance for a sentence. And of course, there's also some conditional probability stuff about expected adjacent words.
+
+
+
+2. The "young '''B'''aby", builds expectation from recent inputs and scores relative to that expectation. It also uses a dictionary with synonymous words and topical tags. If a word is unique in the window of consideration, but synonymous or fitting with recent topics, it doesn't score that high. (A similar cooperation of "C." and "B." can happen inside a robot with an expressive face and stuffed with sensors for noise and temperature and other things: with "C." working with a fixed absolute scale, "B." with a scale that is calibrated around the recent impressions, and together they work out how surprised/annoyed/etc. the robot's reaction to noise etc. is.)
+
+
+
+3. The "'''M'''iddle" also builds expectations like "B.", but the considered time frame is much bigger. The expectation of hearing a word again goes down over time like with "B.", but it isn't just slower decay. In the big picture the expectation goes down, but with some bumps on the way, so it isn't monotonic. The idea here is that there are situations in life that repeat with rhythms, so what goes into the expectation of "M." are questions like: What words do I usually hear at… this time of the day/yesterday/the same day last week/the same day one year ago? (For a robot with the right sensors we can add: What words do I usually hear when I'm… seeing that the sky or ceiling has this color/measuring this temperature/facing this cardinal direction/sitting/etc? All with non-monotonic decay. And we can also look for other correlations like how common it is to have this sensor impression this time of day/day of the week etc. and all of that adding a bit to how confused/bored/etc. the facial expression is.)
+
+
+
+We can also call these three Caspar, Balthazar, Melchior.
+
+
+
+The common words are listed in a database and have tons of tags attached like ''cute'', ''gross'', ''swear word'' (one word can have multiple tags) that get weighted together for an appropriate emotional response. Negation in the vicinity of a heard word strongly dampens its weight and the intensity of the reaction, as do words and formulations like "movie" or "just kidding" which suggest the word likely doesn't belong to a real-world situation. Talking in the past tense and using formulations like "long time ago" also dampens the reaction intensity.
+
+
+
 When somebody says that "X is long", what it actually means is that X is ''longer than some implicit reference standard''. Likewise with heavy, fast, old… So, for the bot to make a comment of that sort requires that it builds up such a standard. The standard is strongly context-dependent, think of what "near" and "small" means to you when talking about animals and when talking about the planets. Often, talking about a thing conjures up a collection of things it belongs to and whether it appears to be heavy or big etc. strongly depends on how it looks in that set and also how it looks relative to other recently mentioned things. So, for some very common nouns at least there needs to be information in the database about typical size and so on. Since I'm lazy the database will have lots of holes. One common reference point for size and weight etc. will be an average human at the middle of life. Even just recently used numbers can serve as reference values (not very logical, but humans also do that). Several reference points get put on a line and then we look where on the line the mentioned thing is. I'm more partial to the median than the mean as the main reference point.
 
 # 231
->>7352 (me)
-Here is a troubling sentence: "The dog ate the house." These words aren't rare and they often appear closely together (and in real life, the objects and the activity these words refer to also appear closely together). So, would the AI guess that it's a weird sentence? Maybe the database about conditional probability of adjacent words will make this sentence appear slightly weird, but that's about it. "Joe murdered John." – This will surely be detected as describing something horrible because of "murdered", but how about this one: "Joe hurled John from the top of the mountain." I don't see how an AI can flag such a sentence as disturbing if it only works with correlations from a text corpus and not by trying to model what's going on. Maybe it still works with a really big text corpus, but what if the murder is more creative and not explicitly referred to as murder?
-
+>>7352 (me)
+
+Here is a troubling sentence: "The dog ate the house." These words aren't rare and they often appear closely together (and in real life, the objects and the activity these words refer to also appear closely together). So, would the AI guess that it's a weird sentence? Maybe the database about conditional probability of adjacent words will make this sentence appear slightly weird, but that's about it. "Joe murdered John." – This will surely be detected as describing something horrible because of "murdered", but how about this one: "Joe hurled John from the top of the mountain." I don't see how an AI can flag such a sentence as disturbing if it only works with correlations from a text corpus and not by trying to model what's going on. Maybe it still works with a really big text corpus, but what if the murder is more creative and not explicitly referred to as murder?
+
+
+
 The (common) weakness of this chatbot is that it gives heavy weight to some supposed intrinsic meaning of words, little weight to the configuration of words, and even less weight to the social situation (we just hope that similar situations correlate well with same time of the day and whatever sensor data we have); whereas with real human beings, it's the other way around. Getting to a more human-like AI will be a crawl; in the meantime, why not play to the strengths of what a computer can easily do: Memorizing a huge amount of quotes and other texts and "googling" internally to recite from that, storing some historical factoids about every day of the year, stuff like that.
 
 # 232
@@ -2292,7 +2753,8 @@ Source: Magnetlink, 2GB of books: https://files.catbox.moe/gmg1ls.txt
 Lol, found the full version for free and totally legal, here: https://www.researchgate.net/publication/200111340_Speech_and_Language_Processing_An_Introduction_to_Natural_Language_Processing_Computational_Linguistics_and_Speech_Recognition
 
 # 244
->>22
+>>22
+
 how the fuck do you hook up to the messenger api to have your waifu message you?
 
 # 245
@@ -2412,20 +2874,34 @@ some AIML content: aiml-en-us-foundation-alice-master: https://files.catbox.moe/
 I included some of my basic_chat files as example in the run_py zip file. You might delete them, they are not good nor relevant.
 
 # 264
-Why I think highlighting/focus should come first: Consider some trivial activities you often do and then try to do them simultaneously, and I mean that literally and not that you frequently switch. People are terrible at multitasking. That means they have to focus attention to do something adequately (aside from walking and breathing), which naturally leads to the question: How do they reflexively switch focus? How complex can that decision be? It can't eat that much mental processing power, ''otherwise there wouldn't be much benefit to having a focus''. A judgment that something is unimportant or not urgent can be a complex process only for something you have had in focus for a while already. For everything else it has to be very simple. Things that move pop out more than static things, among the moving things the accelerating things pop out and the things that move towards you. Unexpected colors pop out a bit. As do unexpected words.
-
-Grammar is overrated. I don't believe people actually do much proper grammatical parsing when listening, otherwise they would be much more irritated by screwed up grammar. I believe they only pay some attention to grammar when doing that is necessary for resolving ambiguities. People don't even remember the literal wording of an exchange they had five minutes ago, even if the exchange is important to them, they only remember the gist. Consider that spoken language is more loose with grammar, people mumble and there are noises everywhere, so the AI will have to work with that. "Yesterday I *inaudible* to *inaudible* to get some *inaudible* and new socks."
-
-The parts have to work together. If one builds what steers the facial reaction to words and relies on a premade black box entirely handling the talking, then the whole can be weaker than the parts. Imagine a cheery voice saying how funny something is coming out of a horrified face. (Seeing the output text from the imported program and reacting after that won't quite solve the discrepancy IMHO, especially not if you don't want the AI to talk that much.) Something that provides tags for words (and tags for tags) and a fact database is fine. Looking at the suggestions by >>7357 >>7358
->https://en.wikipedia.org/wiki/Mindpixel
-<Chris McKinstry died of suicide on 23 January 2006 and the future of the project and the integrity of the data is uncertain.
-<Other similar AI-driven knowledge acquisition projects are Never-Ending Language Learning and Open Mind Common Sense (run by MIT), the latter being also hampered when its director died of suicide.
-That doesn't sound very inspiring…
->Suggested Upper Merged Ontology, ConceptNet, ThoughtTreasure
-These look good. Big and free. Better links than Wikipedia:
-http://www.adampease.org/OP/
-https://conceptnet.io/
-https://github.com/eriktmueller/thoughttreasure
+Why I think highlighting/focus should come first: Consider some trivial activities you often do and then try to do them simultaneously, and I mean that literally and not that you frequently switch. People are terrible at multitasking. That means they have to focus attention to do something adequately (aside from walking and breathing), which naturally leads to the question: How do they reflexively switch focus? How complex can that decision be? It can't eat that much mental processing power, ''otherwise there wouldn't be much benefit to having a focus''. A judgment that something is unimportant or not urgent can be a complex process only for something you have had in focus for a while already. For everything else it has to be very simple. Things that move pop out more than static things, among the moving things the accelerating things pop out and the things that move towards you. Unexpected colors pop out a bit. As do unexpected words.
+
+
+
+Grammar is overrated. I don't believe people actually do much proper grammatical parsing when listening, otherwise they would be much more irritated by screwed up grammar. I believe they only pay some attention to grammar when doing that is necessary for resolving ambiguities. People don't even remember the literal wording of an exchange they had five minutes ago, even if the exchange is important to them, they only remember the gist. Consider that spoken language is more loose with grammar, people mumble and there are noises everywhere, so the AI will have to work with that. "Yesterday I *inaudible* to *inaudible* to get some *inaudible* and new socks."
+
+
+
+The parts have to work together. If one builds what steers the facial reaction to words and relies on a premade black box entirely handling the talking, then the whole can be weaker than the parts. Imagine a cheery voice saying how funny something is coming out of a horrified face. (Seeing the output text from the imported program and reacting after that won't quite solve the discrepancy IMHO, especially not if you don't want the AI to talk that much.) Something that provides tags for words (and tags for tags) and a fact database is fine. Looking at the suggestions by >>7357 >>7358
+
+>https://en.wikipedia.org/wiki/Mindpixel
+
+<Chris McKinstry died of suicide on 23 January 2006 and the future of the project and the integrity of the data is uncertain.
+
+<Other similar AI-driven knowledge acquisition projects are Never-Ending Language Learning and Open Mind Common Sense (run by MIT), the latter being also hampered when its director died of suicide.
+
+That doesn't sound very inspiring…
+
+>Suggested Upper Merged Ontology, ConceptNet, ThoughtTreasure
+
+These look good. Big and free. Better links than Wikipedia:
+
+http://www.adampease.org/OP/
+
+https://conceptnet.io/
+
+https://github.com/eriktmueller/thoughttreasure
+
 Especially TT looks interesting – all one guy and the scope of that project looks like something Terry Davis would approve.
 
 # 265
@@ -2452,6 +2928,7 @@ OT: Btw, the second of the aforementioned suicides of the guys working on Ontolo
 Of course, I had to forget something. You'll need to uncomment the function  call run_kernel() towards the end of the run.py file to use it. Or type in run_kernel() every time to get the chatbot kernel running, that's the loop handling to listen and to respond. I also forgot to mention that this works with python-aiml, which you would need to install first. It's most likely in your distros repository, or you might use 'pip install python-aiml' in your shell otherwise, or get it from wherever you normally download programs. 
 
 My todo list and plan for that script is at the end of it:
+```
 # start option without run_kernel(), getopts
 # Normalisation of inputs, with external lib?
 # tracing responses, for debugging (Pandorabots does it somehow)
@@ -2463,6 +2940,7 @@ My todo list and plan for that script is at the end of it:
 # note: HELLO # > HELLO _ > HELLO THERE > HELLO ^ > HELLO *
 # let the run script call several bots at once
 # run.py should self-construct, based on options and existing files
+```
 
 I found that I have to improve the run.py script anyways, since the way I wanted to update the knowledge_list while talking to the bot didn't work out.
 
@@ -2612,15 +3090,24 @@ BTW, I think you're making good progress Anon. Just be patient, don't rush & get
 Thanks for your concern, but the chatbot "starting a fire in the fireplace" solves the problem of hearing my neighbors fighting or having children yelling around. Which was the only problem at that point. I figured it would be handy to have it there as a command while testing it. Then it turned out, it makes the whole thing feeling alive for the first time.
 
 # 277
->>2505
-John Searle's argument is just a superficial appeal to intuition. A complex task may be split up between several people, with none of them really grasping what they as a group are doing. But they are still doing it. The ''group'' has the competence. You can look at some tiny part of a highly complex machine and then convince yourself that this part is almost nothing compared to the complex action that the machine is supposed to do, and you can do look at the other parts in isolation, does this prove that the machine can't work? Following Searle's line of argument, one would have to conclude that he is just a statue made of meat and not a real human because it is unbelievable a random cell from his noggin got anything even faintly like human personality in it. It's just a variant of the Sorites paradox.
-
->>7363
-You must think of something akin to an adult's theory of mind to ask this. It isn't either fully there or not. Toddlers and dogs also have some crude concepts of other minds. So the question is not does the AI have it, but how much does it have. The chatbot of ThoughtTreasure already has ''some'' mind modelling. This is from page 285 of Erik Mueller's book "Natural Language Processing with ThoughtTreasure" (written in 1998):
->The ontology of emotions used here is based on 22 basic emotion types identified by (Ortony, Clore, and Collins, 1988)*. These have been extended to 83 emotion concepts associated with 651 French and English lexical entries.
-"The cognitive structure of emotions" is the title of that 1988 book. TT tries to figure out what goals people have and whether they fail at that, and infers from that whether they are a bit frustrated. But wait, there's more: It also tries to figure out emotional impact along social connections: When it seems that person A has some goal X and that some other person B makes X happen, it assumes A is grateful towards B (and likewise B preventing X generates resentment). It also takes in plain statements about who likes or dislikes whom and guesses how something happening to a person emotionally affects that person's friends and foes.
-
->>7915
+>>2505
+
+John Searle's argument is just a superficial appeal to intuition. A complex task may be split up between several people, with none of them really grasping what they as a group are doing. But they are still doing it. The ''group'' has the competence. You can look at some tiny part of a highly complex machine and then convince yourself that this part is almost nothing compared to the complex action that the machine is supposed to do, and you can do look at the other parts in isolation, does this prove that the machine can't work? Following Searle's line of argument, one would have to conclude that he is just a statue made of meat and not a real human because it is unbelievable a random cell from his noggin got anything even faintly like human personality in it. It's just a variant of the Sorites paradox.
+
+
+
+>>7363
+
+You must think of something akin to an adult's theory of mind to ask this. It isn't either fully there or not. Toddlers and dogs also have some crude concepts of other minds. So the question is not does the AI have it, but how much does it have. The chatbot of ThoughtTreasure already has ''some'' mind modelling. This is from page 285 of Erik Mueller's book "Natural Language Processing with ThoughtTreasure" (written in 1998):
+
+>The ontology of emotions used here is based on 22 basic emotion types identified by (Ortony, Clore, and Collins, 1988)*. These have been extended to 83 emotion concepts associated with 651 French and English lexical entries.
+
+"The cognitive structure of emotions" is the title of that 1988 book. TT tries to figure out what goals people have and whether they fail at that, and infers from that whether they are a bit frustrated. But wait, there's more: It also tries to figure out emotional impact along social connections: When it seems that person A has some goal X and that some other person B makes X happen, it assumes A is grateful towards B (and likewise B preventing X generates resentment). It also takes in plain statements about who likes or dislikes whom and guesses how something happening to a person emotionally affects that person's friends and foes.
+
+
+
+>>7915
+
 Now the next step is to implement this exchange: "The _ is/are really annoying." – "I will shove the _ into the fire, my lord." *fire gets louder for a moment*
 
 # 278
@@ -2635,25 +3122,44 @@ Theory of Mind is about creatures being able to put themselves in the shoes of o
 I think that way quite often, but the system should not claim to do something what it can't do, or at least be aware of it being some joking pretend. I wan't to state the skills at one point, and then it would be aware of what it can and can't do. Also, it's Christmas, %%we don't put anyone into the oven on Christmas. The smell would ruin the spirit.%%
 
 # 279
->>7935 (me)
->>7943
-According to Mueller's book, TT can parse plain-language questions (like whether bread is food, whether elephants are purple, who created Bugs Bunny) and reply in plain language, it can even make guesses about words that aren't in its dictionary (an example by Mueller is asking what a ''dogette'' is and TT guesses it's a small dog), but the most interesting stuff is the guessing of emotional states: An example dialogue has the user telling TT that J. is an enemy of F., that J. becomes the president of France, and that F. is happy for J. TT replies: "True, he succeeds at being the president of France. But I thought that he was an enemy of…"
-
-When there's a lack of direct statements about whether two people are friends, it still tries to figure out how one person might feel about a good or bad thing happening to another person by looking for indirect social relations between the pair; and if doing that doesn't help, it tries guessing by looking for data about the two having similar attitudes about some issues (page 189). It of course does not have as much common sense as even a human tween and it occasionally craps itself in the given examples, but I'm willing to say it does have ''a bit of'' a theory of mind for doing this.
-
-The output lacks flavor and personality. So it seems the way forward for the impatient robowaifuist is to just make a dumb small personality program that lets TT do 99 % of the work by giving it the user input to parse, then taking TT's reply and adding a bit of flavor to that before displaying the result to the user. Ideally for the lazy programmer is if the user essentially understands and replies to the text as if the flavor bits had not been added in the first place. But that interaction pattern is not something one can rely on.
-
-One problematic case is that the intended flavor bits completely change the meaning of the AI's output from something reasonable to nonsense. I think avoiding that in almost all situations is pretty easy: Just keep the flavor bits short and don't add negations to TT's sentences. Putting the flavor bits only before or after the TT output is far less risky than making multiple insertions right into its sentences.
-
-The bigger problem is this: What if the user's next input specifically reacts to the flavor bits, the flavor bits that TT doesn't even know about? The solution of a genius would be to scrap the idea of two divided programs and do a heavy modifications of TT, requiring a very deep understanding of its structure. I'm probably too dumb for that so I look if there's a way to keep the concept working of just having a silly little program with personality sitting on top of an already existing big program that is treated like a black box. I'm seeing three approaches for that:
-
-1. The laziest solution: Pushing the problem onto the user. Just show the user which part comes from which of the two programs. If their output is on a screen, all the flavor bits can be done in cursive, for example. If their outputs are done with audio, there can be two jingles to signal which program is talking. The user gets warned in the readme that everything the user says will get hauled off to TT and that TT doesn't know about the flavor bits, so the user can avoid communication problems by avoiding references to the flavor bits. I think this "solution" feels lame and sterile. Activating this sort of marking to look under the hood should be an option, but I don't like it as something always on.
-
-2. More work: The small personality program does not always send the full user input to TT, but distinguishes parts of the user input that are reactions to flavor bits. It decides to handle such an input either completely by itself or sends off a modified input without these references to TT. How to write a program that is capable of recognizing which parts of the user input refer to the flavor bits? Look at it the other way around. You can make the flavor bits easy to distinguish from the rest by having the small program try to generate flavor bits only after looking at the TT answer, with the constraint to ''not repeat a single word appearing in there''. This should make the distinction much easier.
-
-3. The user can actually send feedback that is guaranteed to only be seen by the personality program. For a robot, I'm thinking of headpats for approval and shoulder-knock for disapproval. For the chatbot version, that means a headpat button and a shoulder-knock button.
-
->the system should not claim to do something what it can't do, or at least be aware of it being some joking pretend.
+>>7935 (me)
+
+>>7943
+
+According to Mueller's book, TT can parse plain-language questions (like whether bread is food, whether elephants are purple, who created Bugs Bunny) and reply in plain language, it can even make guesses about words that aren't in its dictionary (an example by Mueller is asking what a ''dogette'' is and TT guesses it's a small dog), but the most interesting stuff is the guessing of emotional states: An example dialogue has the user telling TT that J. is an enemy of F., that J. becomes the president of France, and that F. is happy for J. TT replies: "True, he succeeds at being the president of France. But I thought that he was an enemy of…"
+
+
+
+When there's a lack of direct statements about whether two people are friends, it still tries to figure out how one person might feel about a good or bad thing happening to another person by looking for indirect social relations between the pair; and if doing that doesn't help, it tries guessing by looking for data about the two having similar attitudes about some issues (page 189). It of course does not have as much common sense as even a human tween and it occasionally craps itself in the given examples, but I'm willing to say it does have ''a bit of'' a theory of mind for doing this.
+
+
+
+The output lacks flavor and personality. So it seems the way forward for the impatient robowaifuist is to just make a dumb small personality program that lets TT do 99 % of the work by giving it the user input to parse, then taking TT's reply and adding a bit of flavor to that before displaying the result to the user. Ideally for the lazy programmer is if the user essentially understands and replies to the text as if the flavor bits had not been added in the first place. But that interaction pattern is not something one can rely on.
+
+
+
+One problematic case is that the intended flavor bits completely change the meaning of the AI's output from something reasonable to nonsense. I think avoiding that in almost all situations is pretty easy: Just keep the flavor bits short and don't add negations to TT's sentences. Putting the flavor bits only before or after the TT output is far less risky than making multiple insertions right into its sentences.
+
+
+
+The bigger problem is this: What if the user's next input specifically reacts to the flavor bits, the flavor bits that TT doesn't even know about? The solution of a genius would be to scrap the idea of two divided programs and do a heavy modifications of TT, requiring a very deep understanding of its structure. I'm probably too dumb for that so I look if there's a way to keep the concept working of just having a silly little program with personality sitting on top of an already existing big program that is treated like a black box. I'm seeing three approaches for that:
+
+
+
+1. The laziest solution: Pushing the problem onto the user. Just show the user which part comes from which of the two programs. If their output is on a screen, all the flavor bits can be done in cursive, for example. If their outputs are done with audio, there can be two jingles to signal which program is talking. The user gets warned in the readme that everything the user says will get hauled off to TT and that TT doesn't know about the flavor bits, so the user can avoid communication problems by avoiding references to the flavor bits. I think this "solution" feels lame and sterile. Activating this sort of marking to look under the hood should be an option, but I don't like it as something always on.
+
+
+
+2. More work: The small personality program does not always send the full user input to TT, but distinguishes parts of the user input that are reactions to flavor bits. It decides to handle such an input either completely by itself or sends off a modified input without these references to TT. How to write a program that is capable of recognizing which parts of the user input refer to the flavor bits? Look at it the other way around. You can make the flavor bits easy to distinguish from the rest by having the small program try to generate flavor bits only after looking at the TT answer, with the constraint to ''not repeat a single word appearing in there''. This should make the distinction much easier.
+
+
+
+3. The user can actually send feedback that is guaranteed to only be seen by the personality program. For a robot, I'm thinking of headpats for approval and shoulder-knock for disapproval. For the chatbot version, that means a headpat button and a shoulder-knock button.
+
+
+
+>the system should not claim to do something what it can't do, or at least be aware of it being some joking pretend.
+
 Well… Mueller shows at the end of the book that TT answers to questions about its size with a number of bytes, but that it also thinks of itself as a human person and not a bot. Originally it didn't have that illusion, but it was changed to that as the laziest possible fix of some parsing bug O_o
 
 # 280
@@ -2667,13 +3173,20 @@ Well, you read the book. Aren't the assertions and other knowledge stored in a d
 Interesting diagram Anon. Can you tell use a little more about it? What does it really mean?
 
 # 282
->>7958
-(I'm not the one who posted the diagram.) The green dots show what parts of ThoughtTreasure can do. The diagram says that it can't do probalistic reasoning, but there is a lot of guessing inside of the system with answering agents generating candidate answers with an estimate how well they understood the question and so on, it's just that the system then just runs with what seems most likely as if that were perfectly valid, instead of translating these estimates into a part of the response to the user.
-
-Deductive reasoning goes from a premise (or several) to conclusion. If every premise is right and the rules of logic are followed, the conclusions will be right, and computers can digest huge sets of premises. This can be done in a very precise way and computers can be better at that than humans. Computer-assisted proving in math is a thing. Inductive reasoning goes from experience to finding generalities, or rather: guessing generalities. Abductive reasoning tends to be even more fuzzy and just guesses from the observation of B and from the assumption that A causes B that A has happened.
-
-Non-monotonic logic can be explained by what monotonic logic is: In monotonic logic, you have a pile of assumptions and a pile of conclusions you generate from your assumptions. As you are adding new things to your pile of assumptions, your pile of conclusions can only grow. In monotonic logic, an established conclusion is not thrown out unless you delete something in your assumption pile that was necessary for generating the conclusion. In non-monotonic logic, new assumptions can add qualifications to other assumptions, so adding new assumptions can shrink your pile of conclusions. For example, you can have an old assumption that birds can fly and then add a new assumption that penguins are birds that can't fly.
-
+>>7958
+
+(I'm not the one who posted the diagram.) The green dots show what parts of ThoughtTreasure can do. The diagram says that it can't do probalistic reasoning, but there is a lot of guessing inside of the system with answering agents generating candidate answers with an estimate how well they understood the question and so on, it's just that the system then just runs with what seems most likely as if that were perfectly valid, instead of translating these estimates into a part of the response to the user.
+
+
+
+Deductive reasoning goes from a premise (or several) to conclusion. If every premise is right and the rules of logic are followed, the conclusions will be right, and computers can digest huge sets of premises. This can be done in a very precise way and computers can be better at that than humans. Computer-assisted proving in math is a thing. Inductive reasoning goes from experience to finding generalities, or rather: guessing generalities. Abductive reasoning tends to be even more fuzzy and just guesses from the observation of B and from the assumption that A causes B that A has happened.
+
+
+
+Non-monotonic logic can be explained by what monotonic logic is: In monotonic logic, you have a pile of assumptions and a pile of conclusions you generate from your assumptions. As you are adding new things to your pile of assumptions, your pile of conclusions can only grow. In monotonic logic, an established conclusion is not thrown out unless you delete something in your assumption pile that was necessary for generating the conclusion. In non-monotonic logic, new assumptions can add qualifications to other assumptions, so adding new assumptions can shrink your pile of conclusions. For example, you can have an old assumption that birds can fly and then add a new assumption that penguins are birds that can't fly.
+
+
+
 A bot with a reasoning program using only monotonic logic can still handle the penguin case by rewriting old assumptions instead of just adding a new one to the assumption pile, but the way humans talk and argue surely is the non-monotonic way. So it's likely that you get to an awkward human-bot interaction in such a situation.
 
 # 283
@@ -2699,12 +3212,18 @@ This sounds good, although part of me thinks it would be very sad in practice. I
 I also considered using machine learning to "resurrect" the voice of a loved one, in a similar way to how you can find "deepfake" voices of Leonard Nimoy and Sir Christopher Lee online. However, hearing the slightly distorted and off-tone voice of a dead family member repeating words that you type...I think it would just feel ghostly and wrong. Especially in the early stages of development when the voice is inhuman and full of static. *shudders*
 
 # 287
->>8176
-Saw something similar being developed by the US military over a decade ago for use on the children of deployed personnel in cases where their parents aren't available or unwilling to interact with their children
-
->The challenge is to design an application that would allow a child to receive comfort from being able to have simple, virtual conversations with a parent who is not available "in-person".
-http://cogsciandtheworld.blogspot.com/2008/12/when-daddys-tour-in-iraq-is-extended.html
-
+>>8176
+
+Saw something similar being developed by the US military over a decade ago for use on the children of deployed personnel in cases where their parents aren't available or unwilling to interact with their children
+
+
+
+>The challenge is to design an application that would allow a child to receive comfort from being able to have simple, virtual conversations with a parent who is not available "in-person".
+
+http://cogsciandtheworld.blogspot.com/2008/12/when-daddys-tour-in-iraq-is-extended.html
+
+
+
 Most service members see producing human resources as a duty they perform for the state(or as a means for better housing/overseas postings/career advancement) so this might be a better alternative than the typical abdicating parents who aren't present in a young child's life.
 
 # 288
@@ -3210,8 +3729,10 @@ Which chatbots are the best at emulating silence?  Most chatbots will reply afte
 More generally...what am I optimizing _for_?  For example, I could make a chatbot that uses a neural network that would optimize for when it gets individuals to have the longest conversations with it, but that's not the kind of waifubot I'd want.  I'd want a waifubot that would encourage me to shut up from time to time, and would have long pauses and periods of silence and introspection.  What the hell optimizes for that kind of behavior?
 
 # 359
->>6102
-1. Why did you move away from SentenceMIM?
+>>6102
+
+1. Why did you move away from SentenceMIM?
+
 2. When are you releasing the codebase in public?
 
 # 360

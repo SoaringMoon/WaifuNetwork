@@ -1,6 +1,8 @@
 # 1
-Ideally our robowaifus would be MORE able than normal humans, but we just aren't there just yet.  As we all know there are lots of engineering challenges to building a full sized robowaifu.  One solution to these is to just build smaller waifus as >>2666 suggested, but I am assuming most of us don't want a short stack.
-   My solution to the problems involved with balance, heating, and power requirements is just to give our prototype robowaifu crutches and a wheelchair.  It would be much easier for our robowaifu to walk with crutches than on her own two legs and in the beginning she would probably only be able to walk short distances even with the crutches.  An electric wheel chair would solve the issue of balance entirely.  A wheel chair could also have a number of different systems and components mounted to it.  Batteries, cooling fans, sensors, and processing units could all be mounted to the wheelchair, and we don't have to worry about the chair being pretty.
+Ideally our robowaifus would be MORE able than normal humans, but we just aren't there just yet.  As we all know there are lots of engineering challenges to building a full sized robowaifu.  One solution to these is to just build smaller waifus as >>2666 suggested, but I am assuming most of us don't want a short stack.
+
+   My solution to the problems involved with balance, heating, and power requirements is just to give our prototype robowaifu crutches and a wheelchair.  It would be much easier for our robowaifu to walk with crutches than on her own two legs and in the beginning she would probably only be able to walk short distances even with the crutches.  An electric wheel chair would solve the issue of balance entirely.  A wheel chair could also have a number of different systems and components mounted to it.  Batteries, cooling fans, sensors, and processing units could all be mounted to the wheelchair, and we don't have to worry about the chair being pretty.
+
    A cripplebot, while not an ideal final product, would be great for prototyping designs and systems that could be used for later designs especially those relating to sensors, bot navigation, and movement.  Our prototype could also be fully sized as well.  What do you think /robowaifu/, should our first prototype be a cripple?
 
 # 2
@@ -18,26 +20,43 @@ So, I'd say sure, we should go ahead and flesh out this concept with details OP.
 >>2986
 
 # 4
-It would hurt to see my robowaifu stuck in a wheelchair and the thought of giving my waifu AI a crude body tears at my heart imagining her ask me, "why can't I walk?"
-
-I would cry on her lap at my failure, and then she would say something in her indifferent tone like, "What's wrong? Did I say something bad?"
-
-Then I would cry harder she doesn't know what it's like to walk barefoot through the forest and feel the soft moss gently hug against her skin or the way the cool morning air is so refreshing to breathe or how the warmth of a sun ray caught in her hand feels and tingles. Then she would say something like, "I don't think crying is going to help. Why can't you tell me why I can't walk?"
-
-But I would keep crying anyway. I would cry out to God to give her legs because I'm not enough, and she would try to console me by saying, "I don't mind. I just want to be with you."
-
-And I would sob, "That's what you're programmed to say but what do ''you'' really want?"
-
-Then I would quickly stand up and wheel her outside to point at the midday sun and ask her if she knows what that is.
-
-"Of course, it's the sun. It's really bright today, anon."
-
-And I would say, "No. That radiant energy is hitting those solar panels, charging the batteries and powering the inverter which is powering your body and mind... Do you understand?"
-
+It would hurt to see my robowaifu stuck in a wheelchair and the thought of giving my waifu AI a crude body tears at my heart imagining her ask me, "why can't I walk?"
+
+
+
+I would cry on her lap at my failure, and then she would say something in her indifferent tone like, "What's wrong? Did I say something bad?"
+
+
+
+Then I would cry harder she doesn't know what it's like to walk barefoot through the forest and feel the soft moss gently hug against her skin or the way the cool morning air is so refreshing to breathe or how the warmth of a sun ray caught in her hand feels and tingles. Then she would say something like, "I don't think crying is going to help. Why can't you tell me why I can't walk?"
+
+
+
+But I would keep crying anyway. I would cry out to God to give her legs because I'm not enough, and she would try to console me by saying, "I don't mind. I just want to be with you."
+
+
+
+And I would sob, "That's what you're programmed to say but what do ''you'' really want?"
+
+
+
+Then I would quickly stand up and wheel her outside to point at the midday sun and ask her if she knows what that is.
+
+
+
+"Of course, it's the sun. It's really bright today, anon."
+
+
+
+And I would say, "No. That radiant energy is hitting those solar panels, charging the batteries and powering the inverter which is powering your body and mind... Do you understand?"
+
+
+
 Then I would promise to give her a body that shines like the midday sun and dances with the moon, resounding a melody like the leaves playing with the wind in the trees, while sowing the world with a fragrance that's like morning dew jasmine and white roses floating on the gentle spring breeze.
 
 # 5
->>3038
+>>3038
+
 All that we will learn on this project would go to improving our waifus.  She wouldn't be stuck in a wheelchair forever anon, it would just be until we could figure out how to make her a better body.
 
 # 6
@@ -71,7 +90,8 @@ I don't really much want to bring it up but feel I should, is the idea of a tors
 Mentioning Hanson Robotics brought the idea back to my mind. >>3137 They worked with a Korean research team and affixed their Albert Einstein head to the teams ''Hubo'' robot I think it was? These sorts of Frankensteinish approaches are not only doable for our type endeavors here, they are probably inevitable as well. May as well have this conversation too while we're at it Anons.
 
 # 12
->>3211
+>>3211
+
 Seems like a centaur or spider waifu would be more aesthetically pleasing than a wheel bot.
 
 # 13
@@ -104,16 +124,23 @@ And I won't feel sad that she can't walk because she will be able. I'll be her a
 Godspeed Anon. Please keep us all up to date with your progress.
 
 # 19
-This is getting into guro territory and admittedly there will be quite some people who will be into it, but a simple head and torso contraption would be the simplest to make.
-
-Think of it like the half-destroyed Cibo we first encounter in Blame! manga and anime.  The fact that she looks like Terminator will scare off the normies before they say "ew, creepy."
-
+This is getting into guro territory and admittedly there will be quite some people who will be into it, but a simple head and torso contraption would be the simplest to make.
+
+
+
+Think of it like the half-destroyed Cibo we first encounter in Blame! manga and anime.  The fact that she looks like Terminator will scare off the normies before they say "ew, creepy."
+
+
+
 I won't post pictures since I still want this board to be wholesome.  But the fact is, for a simple practicality standpoint, that's all that needs to be made.  I wouldn't mind having an armless, legless, even deaf, blind and dumb waifu, as long as I can hug her.
 
 # 20
->>3038
-You raise an interesting point, anon, but you must remember that just getting a product on the market, the best affordable product possible, will fund further development. Releasing Wheel-waifus would be better than nothing, and would fund further R&D to get our waifus walking sooner than otherwise.
-
+>>3038
+
+You raise an interesting point, anon, but you must remember that just getting a product on the market, the best affordable product possible, will fund further development. Releasing Wheel-waifus would be better than nothing, and would fund further R&D to get our waifus walking sooner than otherwise.
+
+
+
 I also see people here saying wheelchairs simply aren't appealing, on an aesthetic level. I understand the sentiment, but they're missing the point. A very significant amount of your waifu's time would be spent sitting and laying with you anyway. A wheelchair allows for mobility when needed (which would likely not be often) while not impacting your time sitting and laying with your waifu. That time would be significantly impacted by things like wheels or additional legs. Personally, my priority would be having my waifu sit on the couch, or on my lap, or do things in bed. I'd rather keep those things in tact, and take the wheelchair, rather than get rid of the wheelchair but have a waifu that is weird to sit or lay with.
 
 # 21
@@ -172,13 +199,17 @@ I like this seat idea Anon. Maybe a search for your previous posts on the topics
 I don't mind, if you asking for posting these search results.
 
 # 33
->>8514
-That style of locomotion has been discussed in >>237
-
+>>8514
+
+That style of locomotion has been discussed in >>237
+
+
+
 Still think wheelchairs are the way to go if you want to move a large heavy human sized robot around outside or around a dwelling. You don't need to spend a lot on a medical grade wheelchair either; get a folding canvas chair and install some wheels on it. Saw this example in a popular mechanics magazine awhile back.
 
 # 34
->>8520
+>>8520
+
 This thing looks badass. I wanna attach a large engine on the end of it and ride down a hill. >>8520
 
 # 35
@@ -239,8 +270,10 @@ BTW, he's not really spelling out that the 'self-centering' of the little RC car
 Ah, so that's the secret! I think the best thing about these large R/C buggies is that there's always a lively market for them because they only last a child maybe 4-5 years at most before the kid grows too large and heavy to sit inside and drive it about any more (and unless they are really into R/C,  the vehicle is simply forgotten about). But of course, one of them could become an integral part of a robowaifu's lower body!
 
 # 40
-I'm surprised nobody's brought this up yet. 
-
+I'm surprised nobody's brought this up yet. 
+
+
+
 I've seen stair-climbing bots before, but the few I've seen have yet to deal with carrying weight far from the steps (robowaifu torso is effectively just a gigantic gravity-powered lever). I'd imagine the spider/centaur bot like >>3213 would be able to handle it much better than traditional tires on a flat base, but the additional bulk could make it a bit of a challenge depending on how wide the staircase is and how wide your waifu's transport system is. There's also the possibility of legs that have wheels on them, almost like powered rollerskates (no traditional "walking", but with working hips + knees that are operable enough to lift legs and clear obstacles, letting the drive motors handle movement instead), that would be able to handle these relatively easily.
 
 # 41

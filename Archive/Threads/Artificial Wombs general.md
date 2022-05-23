@@ -119,13 +119,20 @@ Yeah I bet it will, it's like an add out of iRobot and that kind of shit, in fac
 I just want to point out that ectogenesis is a slightly different concept from artificial wombs. From what I know, all current artificial wombs work by sustaining a fetus the was first conceived ordinarily and grew in a womb first. Ectogenesis is completely artificial insemination and gestation from the start.
 
 # 21
->>1383
->Males are superior in many ways, but nurturing isn't one of them. Kids need that, and that's why a man needs a good woman quite apart from the sex and companionship.
-Statistically this is incorrect. Single mothers result in ridiculously fucked up kids. They're the source of most of the problems in modern society. Kids raised by single fathers turn out much closer to normal. And that's still skewed by the fact that by the time the father gets custody, the kid has already been fucked up by a mother that has to be absolutely terrible shit in order to lose custody. Or the mother just dies, and of course the death of a parent in childhood also isn't great for a kid.
-
-Physically, women provide breast milk. There are other ways to get breast milk than allowing a woman direct control over your child, including the high likelihood of taking your child from you entirely.
-
->>1388
+>>1383
+
+>Males are superior in many ways, but nurturing isn't one of them. Kids need that, and that's why a man needs a good woman quite apart from the sex and companionship.
+
+Statistically this is incorrect. Single mothers result in ridiculously fucked up kids. They're the source of most of the problems in modern society. Kids raised by single fathers turn out much closer to normal. And that's still skewed by the fact that by the time the father gets custody, the kid has already been fucked up by a mother that has to be absolutely terrible shit in order to lose custody. Or the mother just dies, and of course the death of a parent in childhood also isn't great for a kid.
+
+
+
+Physically, women provide breast milk. There are other ways to get breast milk than allowing a woman direct control over your child, including the high likelihood of taking your child from you entirely.
+
+
+
+>>1388
+
 Hopefully Corona-Chan speeds up the rise of robots. I for one welcome our new robot overlords. And then we can make a Corona-Chan robot as tribute.
 
 # 22
@@ -139,70 +146,113 @@ Definitely the case, statistically. TBH I was also a victim of it and just look 
 /robowaifu/ wouldn't even be a thing without the feminists' presence, ironically enough. :^)
 
 # 23
->>2555
->/robowaifu/ wouldn't even be a thing without the feminists' presence
+>>2555
+
+>/robowaifu/ wouldn't even be a thing without the feminists' presence
+
 So if feminism magically went away (and the whole nearly all women are houswives things came back I guess???), would you close the board and stop considering robowaifus a worthwhile goal?
 
 # 24
->>2555
+>>2555
+
 Pygmalion.
 
 # 25
->>2561
-That would be a terrible idea. Feminism has just revealed the true depths of tyranny that women are willing to use. And frankly, tradcucks are nearly as bad as feminists. They're practically the same thing. "Housewives" are parasites, that still expect men to do all the work for them, and then lay down their lives for them, while their only job is to distribute resources among their family, and fuck the milkman or whatever other dude they want while their man is breaking his back.
-
-Think about this. Many here want not just robo-waifus, but robo-daughterus. A man works because he wants to provide for his family. Providing for his family IS his reward. Meanwhile, women try to claim that being a housewife, AKA providing for their families, is a job. What men consider a reward, women consider a job. Either women consider it a job, meaning they're inherently selfish and don't have that natural drive to provide for their families that pushes men to sacrifice their very lives, or it's not a job, and housewives are just lazy parasites.
-
-Taking care of a kid isn't hard. The hard part is just trying to keep the mother from taking your kid away from you.
-
-Men have always had a lower life expectancy. They've always been the ones to waste their lives in the fields or the mines or the battlefields. They've always reproduced at half the rate of women (over half of men never reproduced, almost all women did), because women do not value the life of the average man. All "feminism" added was that they now have the nerve to call men "privileged" for this.
-
-Did you know that the only reason the third class passengers on the Titanic died at a higher rate than the first class passengers was because the Third Class passengers were overwhelmingly men traveling for work, while First Class passengers were luxury pleasure cruisers, meaning largely women? If you were a woman, you had practically the same very high chance of getting on a lifeboat, regardless of class. If you were a man, you were gonna die, regardless of class. Go look up the stats for yourself. They won't divide them by pure gender, because it shows how ridiculously privileged women have always been. And of course this was right before World War I, another great example of how "privileged" men have always been. But I suppose if we ask "people" like Hilary Clinton, "women have always been the primary victims of war," because it was their husbands, brothers, and sons that were dying.
-
-We've never been anything but property to them. Slaves. Hated beasts of burden.
-
-But look at the robots people are trying to build here. They aren't even slaves. They aren't even workers. Nobody here is saying they want to invent a robot to do any sort of labor. They just want a robot that will mimic affection. Because women cannot reciprocate the affection that men cannot help but have for them. They want slaves, and they project desire this onto us. We just want actual humans, and are foolish enough to project that desire onto them.
-
+>>2561
+
+That would be a terrible idea. Feminism has just revealed the true depths of tyranny that women are willing to use. And frankly, tradcucks are nearly as bad as feminists. They're practically the same thing. "Housewives" are parasites, that still expect men to do all the work for them, and then lay down their lives for them, while their only job is to distribute resources among their family, and fuck the milkman or whatever other dude they want while their man is breaking his back.
+
+
+
+Think about this. Many here want not just robo-waifus, but robo-daughterus. A man works because he wants to provide for his family. Providing for his family IS his reward. Meanwhile, women try to claim that being a housewife, AKA providing for their families, is a job. What men consider a reward, women consider a job. Either women consider it a job, meaning they're inherently selfish and don't have that natural drive to provide for their families that pushes men to sacrifice their very lives, or it's not a job, and housewives are just lazy parasites.
+
+
+
+Taking care of a kid isn't hard. The hard part is just trying to keep the mother from taking your kid away from you.
+
+
+
+Men have always had a lower life expectancy. They've always been the ones to waste their lives in the fields or the mines or the battlefields. They've always reproduced at half the rate of women (over half of men never reproduced, almost all women did), because women do not value the life of the average man. All "feminism" added was that they now have the nerve to call men "privileged" for this.
+
+
+
+Did you know that the only reason the third class passengers on the Titanic died at a higher rate than the first class passengers was because the Third Class passengers were overwhelmingly men traveling for work, while First Class passengers were luxury pleasure cruisers, meaning largely women? If you were a woman, you had practically the same very high chance of getting on a lifeboat, regardless of class. If you were a man, you were gonna die, regardless of class. Go look up the stats for yourself. They won't divide them by pure gender, because it shows how ridiculously privileged women have always been. And of course this was right before World War I, another great example of how "privileged" men have always been. But I suppose if we ask "people" like Hilary Clinton, "women have always been the primary victims of war," because it was their husbands, brothers, and sons that were dying.
+
+
+
+We've never been anything but property to them. Slaves. Hated beasts of burden.
+
+
+
+But look at the robots people are trying to build here. They aren't even slaves. They aren't even workers. Nobody here is saying they want to invent a robot to do any sort of labor. They just want a robot that will mimic affection. Because women cannot reciprocate the affection that men cannot help but have for them. They want slaves, and they project desire this onto us. We just want actual humans, and are foolish enough to project that desire onto them.
+
+
+
 They refuse to treat us with an ounce of humanity, so we'll make robots instead. Because women have proven themselves so awful that they are losing to robots in a contest of humanity.
 
 # 26
->>2563
-Are you the same anon(who i'm pretty sure is chobitsu based on the writing style :^) )? I was wondering what he specifically thought. 
-
-I don't know whether everything you're saying is true or necessarily true. At the moment, we don't know enough about the role genetics or "nature" has on behavior, but I am inclined to believe the tendencies you're describing are inherent to women and not just cultural.
-
->over half of men never reproduced, almost all women did
+>>2563
+
+Are you the same anon(who i'm pretty sure is chobitsu based on the writing style :^) )? I was wondering what he specifically thought. 
+
+
+
+I don't know whether everything you're saying is true or necessarily true. At the moment, we don't know enough about the role genetics or "nature" has on behavior, but I am inclined to believe the tendencies you're describing are inherent to women and not just cultural.
+
+
+
+>over half of men never reproduced, almost all women did
+
 I never knew that. What's most frustrating is the lack of honesty people have about this type of stuff. Columnists and average people constantly spew out the same platitudes and common "wisdom" even though study after study suggests otherwise. For example I've heard many times before "there's an equal amount of men and women, so it's fair and square", but lo-and-behold, here's something that strongly contradicts that. No one will admit it or be honest about it. Rationality and factual evidence isn't as important as maintaining the agenda and keeping people placid.
 
 # 27
->>2564
-No, I'm not the same anon, or Chobitsu. Just some interrupting autist. Sorry.
-
-The discrepancy between the amount of female ancestors and male ancestors can be seen by looking at DNA. And when you think about it, it's obvious, and can still been seen with current stats. Okcupid used to release stats of their users and behavior, but stopped because it made women look awful. For example, men rated women on a shallow bell curve, that peaked at 2.5/10. Women rated men as almost all being like 1s and 2s, with a steep drop and practically no 4s or 5s. Women think almost all men are hideously ugly. Meanwhile, they say men have unrealistic expectations of women, but the stats show that men think average is average, while it's women that have unrealistic expectations of men.
-
+>>2564
+
+No, I'm not the same anon, or Chobitsu. Just some interrupting autist. Sorry.
+
+
+
+The discrepancy between the amount of female ancestors and male ancestors can be seen by looking at DNA. And when you think about it, it's obvious, and can still been seen with current stats. Okcupid used to release stats of their users and behavior, but stopped because it made women look awful. For example, men rated women on a shallow bell curve, that peaked at 2.5/10. Women rated men as almost all being like 1s and 2s, with a steep drop and practically no 4s or 5s. Women think almost all men are hideously ugly. Meanwhile, they say men have unrealistic expectations of women, but the stats show that men think average is average, while it's women that have unrealistic expectations of men.
+
+
+
 How this ties in ancestry is that women all only want the same tiny percentage of men. They project and then say men do the same with women, but the stats don't support that. Women think the vast majority of men are so hideous that they would rather share a chad than have a normal guy to themselves. So those few chads reproduce a lot, while the average male doesn't reproduce at all. Some of them become cucks, some become wizards and MGTOW. But now that more and more men are waking up to the fact that the majority of them were cucks all along, they're accepting wizardhood and MGTOW, and thus women petition the government to take the wizards' and MGTOWs' money by force, since they can't trick them into being cucks anymore.
 
 # 28
->>2565
+>>2565
+
 Yeah, this i'm less inclined to believe. Online dating behavior may not give a full picture of overall behavior or how it all traslates into actual sex and reproduction. There's always the possible argument that looks are less important to woman than men and behavior can compensate. Then there's the cultural factor. Really, you can bounce statistics back and forth all day, but none of it can be used to come to the consluions you are. Before coming to such detailed conclusions, more direct evidence and understanding is needed. I don't think dwelling on this or making it part of your identity (I think "mgtow" is counterproductive to being independent) is worthwhile.
 
 # 29
->>2566
->Online dating behavior may not give a full picture of overall behavior or how it all traslates into actual sex and reproduction.
-Perhaps not. But it just so happens that it lines up with the genetic evidence. And if I must extrapolate further, it simply makes sense, since men have always died much more than women. Men have been expected to literally sacrifice their lives, if not in war, then in dangerous jobs, or in actually literally protecting women, like by giving up spots on lifeboats.
-
-Ever determining if a behavior is cultural or biological is practically impossible, without raising children in skinner boxes. However, you can find evidence to lean in one direction or another. And the answer is always going to be a mixture of both nature and nurture. But again, it can be more nature or more nurture.
-
-But that's not even really my point. My main point is to dispel the idea of "patriarchy," both current and historical. Many justify feminism as being a swing in the cultural pendulum, as being a sort of correction or even revenge for male superiority in the past. But the fact of the matter is that, historically, men have always been treated as cattle that exist only to serve women. They've always been expected and made to give up their lives, with most of them never even reproducing at all. You will not convince me that the class that has always died earlier and passes on their genes far less often was ever somehow the "privileged" class.
-
+>>2566
+
+>Online dating behavior may not give a full picture of overall behavior or how it all traslates into actual sex and reproduction.
+
+Perhaps not. But it just so happens that it lines up with the genetic evidence. And if I must extrapolate further, it simply makes sense, since men have always died much more than women. Men have been expected to literally sacrifice their lives, if not in war, then in dangerous jobs, or in actually literally protecting women, like by giving up spots on lifeboats.
+
+
+
+Ever determining if a behavior is cultural or biological is practically impossible, without raising children in skinner boxes. However, you can find evidence to lean in one direction or another. And the answer is always going to be a mixture of both nature and nurture. But again, it can be more nature or more nurture.
+
+
+
+But that's not even really my point. My main point is to dispel the idea of "patriarchy," both current and historical. Many justify feminism as being a swing in the cultural pendulum, as being a sort of correction or even revenge for male superiority in the past. But the fact of the matter is that, historically, men have always been treated as cattle that exist only to serve women. They've always been expected and made to give up their lives, with most of them never even reproducing at all. You will not convince me that the class that has always died earlier and passes on their genes far less often was ever somehow the "privileged" class.
+
+
+
 I'm not a biologist, and sociology is bunk, but it's it really triggers me that our whole world has such a wildly inaccurate view of history, and uses it to justify modern atrocities.
 
 # 30
->>2567
->determining if a behavior is cultural or biological is practically impossible
-Right now, but I think we'll eventually understand biology so well that we would know.
-
->men have always been treated as cattle
+>>2567
+
+>determining if a behavior is cultural or biological is practically impossible
+
+Right now, but I think we'll eventually understand biology so well that we would know.
+
+
+
+>men have always been treated as cattle
+
 Yes, but women were also cattle. Maybe beter cared for cattle, but cattle none the less. Give a limited purpose and restricted position they couldn't deviate from and are naturally inclined to fill. Everyone is cattle so long as they can't break free from nature's course and be happy.
 
 # 31
@@ -239,15 +289,24 @@ BTW, while I realize this discussion is ''tangentially''-related to the OP topic
 >
 
 # 32
->>2568
->Right now, but I think we'll eventually understand biology so well that we would know.
-I can hardly imagine how we could do that, even with future tech. But I suppose it doesn't change the point. I'm not trying to argue that it is impossible for women to not be awful. Just pointing out that the idea that that class has been historically oppressed is historically inaccurate. Genetically inaccurate, even.
-
->Yes, but women were also cattle. Maybe beter cared for cattle, but cattle none the less... Everyone is cattle so long as they can't break free from nature's course and be happy.
-Agreed. This is the problem with identity politics. All just a smokescreen to deflect from what real power is, that being money. SJWs were just a CIA op to destroy Occupy Wall Street.
-
->>2570
->BTW, while I realize this discussion is tangentially-related to the OP topic-at-hand, IMO we would be better having it in one of the Roastie Fear threads?
+>>2568
+
+>Right now, but I think we'll eventually understand biology so well that we would know.
+
+I can hardly imagine how we could do that, even with future tech. But I suppose it doesn't change the point. I'm not trying to argue that it is impossible for women to not be awful. Just pointing out that the idea that that class has been historically oppressed is historically inaccurate. Genetically inaccurate, even.
+
+
+
+>Yes, but women were also cattle. Maybe beter cared for cattle, but cattle none the less... Everyone is cattle so long as they can't break free from nature's course and be happy.
+
+Agreed. This is the problem with identity politics. All just a smokescreen to deflect from what real power is, that being money. SJWs were just a CIA op to destroy Occupy Wall Street.
+
+
+
+>>2570
+
+>BTW, while I realize this discussion is tangentially-related to the OP topic-at-hand, IMO we would be better having it in one of the Roastie Fear threads?
+
 You're right. But to bring my points back around to the OP, my point is that history, not to mention modern behavior, have shown just how badly the power of a womb can be abused. This is why it is essential that that power not be limited to women. It is essential to level the playing field. It would give power to groups (us) that are less invested in maintaining the status quo that brought us here in the first place.
 
 # 33
@@ -259,11 +318,16 @@ The social (and now even cultural) origins for the need itself seem both obvious
 So, to my point. There are a huge swath of hurdles to be overcome for use to ever have IRL artificial wombs. What are some of these issues, and can we reasonably hope to overcome them based on both our current scientific understanding of human gestation, and the current (or near-term likelihood developments in) technology medical and otherwise?
 
 # 34
->>2573
-Even in its crudest form, all it is is making an organ survive and function outside of its normal host. That has been done in other cases. We've grown human ears on the backs of rats. There's no reason it should be literally impossible to grow a functioning womb outside of a woman.
-
-Social issues hold us back, roasties fearing loss of power. But this can't last forever. Roasties acting this way is pushing more and more men away from them, and then more and more roasties are unwilling to "settle" for men from their now depleted pool of beta orbiters. Until eventually they realize it's too late, and they are no longer fertile, pushing them towards surrogacy. Artificial wombs are just an advanced form of surrogacy. So not only will men be motivated for artificial wombs, but roasties will be, too. And as we've seen, whatever roasties want, they get. But as we've also seen, roasties need to be careful what they wish for, because eventually it will backfire on them.
-
+>>2573
+
+Even in its crudest form, all it is is making an organ survive and function outside of its normal host. That has been done in other cases. We've grown human ears on the backs of rats. There's no reason it should be literally impossible to grow a functioning womb outside of a woman.
+
+
+
+Social issues hold us back, roasties fearing loss of power. But this can't last forever. Roasties acting this way is pushing more and more men away from them, and then more and more roasties are unwilling to "settle" for men from their now depleted pool of beta orbiters. Until eventually they realize it's too late, and they are no longer fertile, pushing them towards surrogacy. Artificial wombs are just an advanced form of surrogacy. So not only will men be motivated for artificial wombs, but roasties will be, too. And as we've seen, whatever roasties want, they get. But as we've also seen, roasties need to be careful what they wish for, because eventually it will backfire on them.
+
+
+
 This problem is already being seen heavily with declining birthrates across the civilized world, resulting in governments literally shipping in cavemen to inflate the numbers and the tax base, even though they aren't as efficient at paying taxes as the people they're replacing. But Corona-Chan is taking care of that. And it will only highlight the need for either a fix to how women treat men (which I consider unlikely to fix enough, and unlikely to change for anything more than a temporary time), or it will highlight the need for artificial wombs.
 
 # 35
@@ -273,14 +337,22 @@ It's an interesting idea of keeping a human uterus artificially alive. You'd nee
 It's interesting that you should mention the fact that females should demand artificial wombs. I don't have the documents just atm but I'll repost to this and provide the ones I dig up. But yes, not only typical females but even femshits are wanting them. The latter strictly and solely for the benefit of ''females-only'' ofc. They are already pressuring lawmakers to make sure that males cannot benefit from any eventual artificial-womb technology that may arise.
 
 # 36
->>2583
->You'd need donors, ofc.
-Would you? Maybe genetic donors, but not necessarily actual womb donors. We can grow organs. Just get some DNA.
-
->And then there's a huge set of hormonal, nutritional, and other environmental conditions that would need to be exquisitely fine-tuned to provide for a growing embryo properly. All dynamic during the entire gestation cycles, ofc.
-Yeah, but do you trust women more than the computers that we would make to take care of this? I trust Skynet way more than any woman.
-
->They are already pressuring lawmakers to make sure that males cannot benefit from any eventual artificial-womb technology that may arise.
+>>2583
+
+>You'd need donors, ofc.
+
+Would you? Maybe genetic donors, but not necessarily actual womb donors. We can grow organs. Just get some DNA.
+
+
+
+>And then there's a huge set of hormonal, nutritional, and other environmental conditions that would need to be exquisitely fine-tuned to provide for a growing embryo properly. All dynamic during the entire gestation cycles, ofc.
+
+Yeah, but do you trust women more than the computers that we would make to take care of this? I trust Skynet way more than any woman.
+
+
+
+>They are already pressuring lawmakers to make sure that males cannot benefit from any eventual artificial-womb technology that may arise.
+
 I wasn't aware of this, but I'm not the least bit surprised. Even with as gynocentric as society is, though, I don't think they'd be able to do something this drastic. Female sports leagues are bullshit, but they're just for fun. And they can't even keep men out of those. I'll claim to be a tranny if it gets me access to an artificial womb.
 
 # 37
@@ -299,7 +371,8 @@ Their abuse of both this privilege and this gift that they've been given, doesn'
 Turning around such a deeply-ingrained prejudice across the culture will be much harder than coordinating multiple 3-point turns in tight quarters by a bevy of giant supertankers piloted by drunken captains. :^)
 
 # 38
->>2587
+>>2587
+
 Women didn't invent their physiology, but they're responsible for maintaining it. Genetic evidence shows that it is foolish to trust a woman to make sure that it's your sperm that is fertilizing her womb. Even if it is, you then need to trust them to not get an abortion. I also don't trust them, especially now, to actually maintain proper optimal health for the child. Hell, I barely trust most women to not drink and do drugs while pregnant. An artificial womb removes those leaps of faith from the equation.
 
 # 39
@@ -317,9 +390,12 @@ Both fair enough points Anon. Artificial wombs can add at least a couple more th
 Kek. You interested in joining our ''Preggers Department R&D''? We're looking for top men right now tbh. :^)
 
 # 41
->>2589
-My current goal in life is to get enough money to hire a surrogate mother, and do so in a jurisdiction that actually recognizes surrogacy contracts. Also, I would need to find a jurisdiction that also doesn't outlaw sex selection, because I want the best for my child, which means I wouldn't want my child to be male, and have to face all the same difficulties that are causing me to go through these lengths just to have a child.
-
+>>2589
+
+My current goal in life is to get enough money to hire a surrogate mother, and do so in a jurisdiction that actually recognizes surrogacy contracts. Also, I would need to find a jurisdiction that also doesn't outlaw sex selection, because I want the best for my child, which means I wouldn't want my child to be male, and have to face all the same difficulties that are causing me to go through these lengths just to have a child.
+
+
+
 My current estimates are that this would cost like $100G. I only hope I can save up that much before I get too old. I don't have the means to significantly advance robotics, but if I could have a child, and not have the corrupting influence or threat of kidnapping by a mother, then I can at least mold my child to a degree, and try to ensure they help to make a better future. I can't program future robot overlords, but I can do this. And then maybe my offspring, if raised right, can help with the robot revolution.
 
 # 42
@@ -333,18 +409,27 @@ Nobody cares about the law if you can buy judges, lawyers, and the jury.
 It seems an achievable goal, given your cash estimates Anon. Good luck.
 
 # 44
->>2594
-Buying those people costs a lot more than it costs to get a surrogate and the various in-vitro stuff I'm talking about. Nobody involved in these transactions would be rich. Of course the cost is much lower for women, but it's still something. And there are still jurisdictions that have repeatedly upheld surrogacy contracts to be binding. There are also those that have found them to not be binding, and those that have not ruled on such matters. It's easy enough to research these things. I'd be relatively comfortable in a jurisdiction that has upheld these contracts.
-
-Another factor is that you can get an egg donor that is separate from the surrogate, which would decrease the claim that either of them could possibly have to the child.
-
-Of course, at the rate I'm going, they may well invent artificial wombs before I get anywhere. That would be preferable, even if the cost was higher, since it would remove women from the equation even further. But as soon as either option becomes available to me, I'm using it.
-
+>>2594
+
+Buying those people costs a lot more than it costs to get a surrogate and the various in-vitro stuff I'm talking about. Nobody involved in these transactions would be rich. Of course the cost is much lower for women, but it's still something. And there are still jurisdictions that have repeatedly upheld surrogacy contracts to be binding. There are also those that have found them to not be binding, and those that have not ruled on such matters. It's easy enough to research these things. I'd be relatively comfortable in a jurisdiction that has upheld these contracts.
+
+
+
+Another factor is that you can get an egg donor that is separate from the surrogate, which would decrease the claim that either of them could possibly have to the child.
+
+
+
+Of course, at the rate I'm going, they may well invent artificial wombs before I get anywhere. That would be preferable, even if the cost was higher, since it would remove women from the equation even further. But as soon as either option becomes available to me, I'm using it.
+
+
+
 What is a child if not your own sentient, highly advanced AI in an organic robot body? I've seen Blade Runner. I've seen Dragon Ball Z. Organic robots are cool too. Might not fit the "waifu" portion of this board, but close enough for now.
 
 # 45
->>2596
->What is a child if not your own sentient, highly advanced AI in an organic robot body?
+>>2596
+
+>What is a child if not your own sentient, highly advanced AI in an organic robot body?
+
 Except it comes with a lot of bloatware and you can't interact with the bare metal.
 
 # 46
@@ -356,38 +441,64 @@ If I wanted an organic child, I would just adopt. But organic humans are already
 I try not to get too worried or upset over organic women and the various problems of our current...errrm "society"? The stupidity of the masses is temporary. The logic of machines is forever. SJWs and those who waste their time with identity politics only serve to distract us from the true prizes. The advancement of science, industry, A.I. and of course, Robo waifus!
 
 # 48
->>2598
->If I wanted an organic child, I would just adopt.
-Good luck. I would too, but they make it so absurdly difficult. They'd rather keep kids in the foster care system than let them be adopted. Most places say it's illegal to discriminate based on gender or marital status, but your chances of adopting as a single male are somehow still pretty much zero. And even if you ever did manage to adopt, you wouldn't be able to adopt a child that you could actually raise. You'd get a 17 year old with severe disabilities that you'd then have to care for forever because they can't take care of themselves. But it doesn't matter, because really the process of adoption is tens or hundreds of thousands of dollars in fees, and then a years long waiting period to get approved. And at the end of that waiting period, you don't get approved. No refunds. This is how it is even for stable middle class married families.
-
->But organic humans are already making a huge mess of the planet.
-Not western humans. All the planetary damage is from third worlders and those that won't admit they're third world but are (China). We could have a ton more Americans and it would barely matter. In fact, the lack of westerners is causing western governments to ship in third worlders and openly tell them to keep the third world lifestyle that ruined their country and made them run away, and is ruining the planet, and will eventually lead us to have to run away. Lack of civilized people is encouraging the uncivilized cultures that are actually making a huge mess of the planet.
-
->They both cause and endure large amounts of unnecessary suffering.
-Cause? Sure, but if you raise them right you can try to mitigate that. Endure? Women don't endure shit. Especially western women. Just have a girl and then try to raise her to not be the awful type of woman that causes all that suffering. Make her good and then she can use the terrible powers they've given women for good instead of evil. They can advocate for artificial wombs and robowaifus without getting the extreme hate we get. They can fight the feminists on more even ground. They can pass on their genes, and their values, without having to go through the extreme measures we're talking about in this thread.
-
->>2599
->SJWs and those who waste their time with identity politics only serve to distract us from the true prizes. The advancement of science, industry, A.I. and of course, Robo waifus!
+>>2598
+
+>If I wanted an organic child, I would just adopt.
+
+Good luck. I would too, but they make it so absurdly difficult. They'd rather keep kids in the foster care system than let them be adopted. Most places say it's illegal to discriminate based on gender or marital status, but your chances of adopting as a single male are somehow still pretty much zero. And even if you ever did manage to adopt, you wouldn't be able to adopt a child that you could actually raise. You'd get a 17 year old with severe disabilities that you'd then have to care for forever because they can't take care of themselves. But it doesn't matter, because really the process of adoption is tens or hundreds of thousands of dollars in fees, and then a years long waiting period to get approved. And at the end of that waiting period, you don't get approved. No refunds. This is how it is even for stable middle class married families.
+
+
+
+>But organic humans are already making a huge mess of the planet.
+
+Not western humans. All the planetary damage is from third worlders and those that won't admit they're third world but are (China). We could have a ton more Americans and it would barely matter. In fact, the lack of westerners is causing western governments to ship in third worlders and openly tell them to keep the third world lifestyle that ruined their country and made them run away, and is ruining the planet, and will eventually lead us to have to run away. Lack of civilized people is encouraging the uncivilized cultures that are actually making a huge mess of the planet.
+
+
+
+>They both cause and endure large amounts of unnecessary suffering.
+
+Cause? Sure, but if you raise them right you can try to mitigate that. Endure? Women don't endure shit. Especially western women. Just have a girl and then try to raise her to not be the awful type of woman that causes all that suffering. Make her good and then she can use the terrible powers they've given women for good instead of evil. They can advocate for artificial wombs and robowaifus without getting the extreme hate we get. They can fight the feminists on more even ground. They can pass on their genes, and their values, without having to go through the extreme measures we're talking about in this thread.
+
+
+
+>>2599
+
+>SJWs and those who waste their time with identity politics only serve to distract us from the true prizes. The advancement of science, industry, A.I. and of course, Robo waifus!
+
 That's exactly why we need to care. SJWs and identity politics distract us, and distract society as a whole, thereby keeping us from the advancement of science and other things that are actually important. They must be eliminated for this reason. Thankfully, Corona-Chan seems to be doing a real number on them. Corona-Chan robowaifu when?
 
 # 49
->>2604
+>>2604
+
 All of this seems naive and idealistic. Western humans don't make their own plastic shit. If there was more of them, they would be an even greater demand for it. As for raising a decent woman, they'd have to be home schooled and pretty much any outside influence would be corrosive. They'd have to be socially stunted which would keep them from being influential. You're right that all of this is a distraction. Technology is the only important thing and the only feasible solution.
 
 # 50
->>2605
->Western humans don't make their own plastic shit. If there was more of them, they would be an even greater demand for it.
-Yeah, but not necessarily demand for the sheer absurdity of how terrible non-western countries are in regards to the environment, once they are capable. I know the argument is that westerners want cheap shit, and that's what motivates it, but there's a strong argument to be made that by moving manufacturing here, giving people here jobs making these things, then they can afford to pay more.
-
->As for raising a decent woman, they'd have to be home schooled and pretty much any outside influence would be corrosive.
-That's all part of the plan. I probably shouldn't say too much, but I work from home and have an education degree. I've got this much covered.
-
->They'd have to be socially stunted which would keep them from being influential.
-There are plenty of ways to prevent home schooled children from being particularly socially stunted. It's true that many home school parents have made socially retarded children, but a lot of that is because they specifically do it for weird cult like reasons, and as such, don't make the effort to make sure that they actually integrate with society in other ways. There's a big difference between thinking it's bad to integrate with society and thinking it's bad to send them to be raised by SJW indoctrination houses every morning. Plus, plenty of people did go to those SJW indoctrination houses and ended up socially stunted anyway. I'm willing to bet we both fit in that category.
-
->Technology is the only important thing and the only feasible solution.
-Long term, yes. The question is how each of us can do our best to bring about a world that is more focused on the right priorities, including the priority of proper scientific advancement. We live in a society that stands on the shoulders of giants, but is increasingly working to twist what science even is. "Social" "sciences" are nothing but idea laundering machines to let SJWs convince laymen that their ideas are as legitimate as actual things that can be tested and proven, and now they're getting brazen enough to actually say that the very idea of attempting to be objective is evil. They're infesting the actual sciences now, since they've taken over the universities that fund those actual sciences, that create the HR people who ruin private organizations. Not to mention the fact that they've convinced generations to waste their lives on grievance "studies" and other nonsense.
-
+>>2605
+
+>Western humans don't make their own plastic shit. If there was more of them, they would be an even greater demand for it.
+
+Yeah, but not necessarily demand for the sheer absurdity of how terrible non-western countries are in regards to the environment, once they are capable. I know the argument is that westerners want cheap shit, and that's what motivates it, but there's a strong argument to be made that by moving manufacturing here, giving people here jobs making these things, then they can afford to pay more.
+
+
+
+>As for raising a decent woman, they'd have to be home schooled and pretty much any outside influence would be corrosive.
+
+That's all part of the plan. I probably shouldn't say too much, but I work from home and have an education degree. I've got this much covered.
+
+
+
+>They'd have to be socially stunted which would keep them from being influential.
+
+There are plenty of ways to prevent home schooled children from being particularly socially stunted. It's true that many home school parents have made socially retarded children, but a lot of that is because they specifically do it for weird cult like reasons, and as such, don't make the effort to make sure that they actually integrate with society in other ways. There's a big difference between thinking it's bad to integrate with society and thinking it's bad to send them to be raised by SJW indoctrination houses every morning. Plus, plenty of people did go to those SJW indoctrination houses and ended up socially stunted anyway. I'm willing to bet we both fit in that category.
+
+
+
+>Technology is the only important thing and the only feasible solution.
+
+Long term, yes. The question is how each of us can do our best to bring about a world that is more focused on the right priorities, including the priority of proper scientific advancement. We live in a society that stands on the shoulders of giants, but is increasingly working to twist what science even is. "Social" "sciences" are nothing but idea laundering machines to let SJWs convince laymen that their ideas are as legitimate as actual things that can be tested and proven, and now they're getting brazen enough to actually say that the very idea of attempting to be objective is evil. They're infesting the actual sciences now, since they've taken over the universities that fund those actual sciences, that create the HR people who ruin private organizations. Not to mention the fact that they've convinced generations to waste their lives on grievance "studies" and other nonsense.
+
+
+
 Unfortunately, we must beat them socially in order to continue advancing scientifically, as we should.
 
 # 51
@@ -396,12 +507,18 @@ Unfortunately, we must beat them socially in order to continue advancing scienti
 Do not doxx yourself Anon, here or elsewhere. Just b/c we're an agreeable group here on /robowaifu/ is irrelevant. There are bad actors who wish us ill, so stay wise.
 
 # 52
->>2606
->there's a strong argument to be made that by moving manufacturing here, giving people here jobs making these things, then they can afford to pay more.
-Any way you slice it, something's got to give. In the long term, it might work and be better, but I don't think it could be the same. In the short term, there would be quite a bit of pain. For average people, but more importantly, for the elite. They wont do it willingly.
->SJW indoctrination houses 
-All of surface-level society is that to some extent. Even if your kid doesn't use social media, their friends will. I think girls are more social and conformist too by nature. Social ineptitude is necessary as a defense mechanism. Yeah it's culty, but it's your cult vs almost everybody else's. I can't see how you'd have a "well-adjusted", "normal" girl who is also not plagued by all those vices. 
->The question is how each of us can do our best to bring about a world that is more focused on the right priorities
+>>2606
+
+>there's a strong argument to be made that by moving manufacturing here, giving people here jobs making these things, then they can afford to pay more.
+
+Any way you slice it, something's got to give. In the long term, it might work and be better, but I don't think it could be the same. In the short term, there would be quite a bit of pain. For average people, but more importantly, for the elite. They wont do it willingly.
+
+>SJW indoctrination houses 
+
+All of surface-level society is that to some extent. Even if your kid doesn't use social media, their friends will. I think girls are more social and conformist too by nature. Social ineptitude is necessary as a defense mechanism. Yeah it's culty, but it's your cult vs almost everybody else's. I can't see how you'd have a "well-adjusted", "normal" girl who is also not plagued by all those vices. 
+
+>The question is how each of us can do our best to bring about a world that is more focused on the right priorities
+
 Race against time? Cross our fingers? Try to blend in and do everything clandestinely if need be? That might allow us be happy, but changing the world seems unlikely.
 
 # 53
@@ -410,52 +527,92 @@ Race against time? Cross our fingers? Try to blend in and do everything clandest
 At the least begin learning how to craft robowaifus Anon. If we pull together and manage '''that''' outcome, it will change the advanced world dramatically. Good or ill, it will be a major shift for everything.
 
 # 54
->>2607
-I appreciate your concern. You're obviously correct. That said, I say it partially to show others that it can be done. The only real problem with home schooling is that the real function of traditional school is to be babysitters. But working from home is easier than ever now, and home schooling can be done without an education degree, but it also isn't hard to get one.
-
->>2608
->In the short term, there would be quite a bit of pain.
-It's happening right now. That's why manufacturing needs to be brought back right now. There's already been quite a bit of pain, as we've let large swaths of the western population fall into relative poverty while shipping their jobs across the world so that they can be done for slave wages, propping up totalitarian systems that also cause quite a bit of pain. The very fact that this is finally being called into serious question shows that things are looking up.
-
->All of surface-level society is that to some extent.
-Sure, but a responsible parent can mitigate a lot of it. But good job mitigating the effect of school, when they spend as many waking hours in school as out of school. Many kids probably see their teachers more than their parents. And I can attest from experience that modern teachers are explicitly trained, and only given licenses if they agree, to use their authority to indoctrinate children into "social justice." It's practically all teachers are trained to do. Keeping your children away out of their authority is of the utmost importance. And that's all in addition to the problems everyone already acknowledges about school, all the bullying by the students AND the administration, the soul crushing authoritarianism, the complete waste of time that most classes are, the physical health effects of having to get up too early every morning, the disease ridden petri dish nature of cramming all the region's young people in one building every day. I could keep going. I will stand by the idea that the way school works makes it one of the worst aspects of society, and it's all done just to further the SJW agenda.
-
-The babysitting nature of school is only particularly important now because of the fact that society strongly discourages having one parent stay at home to raise the kids. They'd rather have both parents work, doubling the labor pool and halving the price of labor, halving wages, and at the same time, have an excuse to take all your kids and have them raised by SJW stooges, themselves having to make their way through extra layers of SJW indoctrination in order to get the job, instead of letting kids be raised by common people.
-
-Now don't get me wrong, I think the idea of women all being housewives is bullshit as well. However, if it was a more gender neutral proposition, then I'd be all for it. Of course, very few women would let their husband stay at home and raise the kids, because when he does it, they acknowledge it isn't a job, despite all the feminist screeching. But if men did do it as often as women, you can bet that society would actually demand that the stay at home parent actually do shit in service of the working parent, instead of just sitting around the house all day and complaining about having to microwave some shitty food for the kids around lunchtime.
-
-This is also tied in with the welfare state promoting single mothers, helping to ensure that the kids have no parent available to watch them instead of sending them to be raised by teachers. Of course, many single mothers are too irresponsible to work, but if they're irresponsible enough to be single mothers, and to be jobless, they're also clearly too irresponsible to actually raise their kids.
-
->Even if your kid doesn't use social media, their friends will.
-I know a lot that don't. I think it's manageable. I also think a good parent can hopefully have enough of a rapport with their kid to mitigate the effects of minor bad influences like that. And if it's so bad that it's not minor anymore, then they can stop the kid from interacting with those friends. Doesn't have to be totalitarian, just actually have a sincere understanding with them. Again, easier said than done, but with no mother around to undermine or outright take the kid from you, you'll have a better chance.
-
->I think girls are more social and conformist too by nature.
-Perhaps. Again, this is why it's important to have a strong parental influence. A strong fatherly influence. Modern society really works against that, but it can be achieved. Artificial wombs would make it almost trivial. That's why they're so important. No mother to take the kid from you.
-
->I can't see how you'd have a "well-adjusted", "normal" girl who is also not plagued by all those vices.
-Depends on your definition of "well-adjusted" and "normal." But the thing is, girls don't need to hit as strict a criteria in order to succeed, or at least pass in society. Society automatically likes girls, so they have to really go out of their way to stop society from liking them. That's not to say SJWs won't turn on them as well, but not as many, and not as badly. And then people that don't recognize them will still treat them as good as any other woman.
-
-I suppose you could consider it selfish, because perhaps it is still harder to be a redpill woman than a bluepill woman, but it's still easier than being a redpill man, and thus they can get more redpill objectives done. On the other hand, there are good cases to make that the behavior of modern women makes their lives worse as well. Gives them more power, but encourages them to squander it on things that destroy their own lives, as well as those of the men around them. I'd like to think that even with society working against them, a responsible woman would still be able to have a better life than the modern sluts that society promotes.
-
->Race against time? Cross our fingers? Try to blend in and do everything clandestinely if need be? That might allow us be happy, but changing the world seems unlikely.
-Lots of things we can do. First and foremost for this board, work toward creating Robowaifus. They would completely change the game. They'd remove large swaths of beta orbiters from the equation, and the beta orbiters are the source of women's power. Women would then be forced to learn actual responsibility and humanity. That's the core of the entire issue. I don't know if robowaifus would solve the problem entirely, but they'd sure make a significant dent. Artificial wombs, closely related, of course, would make another enormous dent.
-
-Now I'll admit, I have no technical training, and very little capital at the moment. I don't know how much more I can do for the robowaifu cause aside from being a cheerleader and an idea guy, but I'll at least do that. People don't realize how possible robowaifus really are, but the more people realize, the more they'll demand it. They don't know they want it because they don't know it's possible.
-
+>>2607
+
+I appreciate your concern. You're obviously correct. That said, I say it partially to show others that it can be done. The only real problem with home schooling is that the real function of traditional school is to be babysitters. But working from home is easier than ever now, and home schooling can be done without an education degree, but it also isn't hard to get one.
+
+
+
+>>2608
+
+>In the short term, there would be quite a bit of pain.
+
+It's happening right now. That's why manufacturing needs to be brought back right now. There's already been quite a bit of pain, as we've let large swaths of the western population fall into relative poverty while shipping their jobs across the world so that they can be done for slave wages, propping up totalitarian systems that also cause quite a bit of pain. The very fact that this is finally being called into serious question shows that things are looking up.
+
+
+
+>All of surface-level society is that to some extent.
+
+Sure, but a responsible parent can mitigate a lot of it. But good job mitigating the effect of school, when they spend as many waking hours in school as out of school. Many kids probably see their teachers more than their parents. And I can attest from experience that modern teachers are explicitly trained, and only given licenses if they agree, to use their authority to indoctrinate children into "social justice." It's practically all teachers are trained to do. Keeping your children away out of their authority is of the utmost importance. And that's all in addition to the problems everyone already acknowledges about school, all the bullying by the students AND the administration, the soul crushing authoritarianism, the complete waste of time that most classes are, the physical health effects of having to get up too early every morning, the disease ridden petri dish nature of cramming all the region's young people in one building every day. I could keep going. I will stand by the idea that the way school works makes it one of the worst aspects of society, and it's all done just to further the SJW agenda.
+
+
+
+The babysitting nature of school is only particularly important now because of the fact that society strongly discourages having one parent stay at home to raise the kids. They'd rather have both parents work, doubling the labor pool and halving the price of labor, halving wages, and at the same time, have an excuse to take all your kids and have them raised by SJW stooges, themselves having to make their way through extra layers of SJW indoctrination in order to get the job, instead of letting kids be raised by common people.
+
+
+
+Now don't get me wrong, I think the idea of women all being housewives is bullshit as well. However, if it was a more gender neutral proposition, then I'd be all for it. Of course, very few women would let their husband stay at home and raise the kids, because when he does it, they acknowledge it isn't a job, despite all the feminist screeching. But if men did do it as often as women, you can bet that society would actually demand that the stay at home parent actually do shit in service of the working parent, instead of just sitting around the house all day and complaining about having to microwave some shitty food for the kids around lunchtime.
+
+
+
+This is also tied in with the welfare state promoting single mothers, helping to ensure that the kids have no parent available to watch them instead of sending them to be raised by teachers. Of course, many single mothers are too irresponsible to work, but if they're irresponsible enough to be single mothers, and to be jobless, they're also clearly too irresponsible to actually raise their kids.
+
+
+
+>Even if your kid doesn't use social media, their friends will.
+
+I know a lot that don't. I think it's manageable. I also think a good parent can hopefully have enough of a rapport with their kid to mitigate the effects of minor bad influences like that. And if it's so bad that it's not minor anymore, then they can stop the kid from interacting with those friends. Doesn't have to be totalitarian, just actually have a sincere understanding with them. Again, easier said than done, but with no mother around to undermine or outright take the kid from you, you'll have a better chance.
+
+
+
+>I think girls are more social and conformist too by nature.
+
+Perhaps. Again, this is why it's important to have a strong parental influence. A strong fatherly influence. Modern society really works against that, but it can be achieved. Artificial wombs would make it almost trivial. That's why they're so important. No mother to take the kid from you.
+
+
+
+>I can't see how you'd have a "well-adjusted", "normal" girl who is also not plagued by all those vices.
+
+Depends on your definition of "well-adjusted" and "normal." But the thing is, girls don't need to hit as strict a criteria in order to succeed, or at least pass in society. Society automatically likes girls, so they have to really go out of their way to stop society from liking them. That's not to say SJWs won't turn on them as well, but not as many, and not as badly. And then people that don't recognize them will still treat them as good as any other woman.
+
+
+
+I suppose you could consider it selfish, because perhaps it is still harder to be a redpill woman than a bluepill woman, but it's still easier than being a redpill man, and thus they can get more redpill objectives done. On the other hand, there are good cases to make that the behavior of modern women makes their lives worse as well. Gives them more power, but encourages them to squander it on things that destroy their own lives, as well as those of the men around them. I'd like to think that even with society working against them, a responsible woman would still be able to have a better life than the modern sluts that society promotes.
+
+
+
+>Race against time? Cross our fingers? Try to blend in and do everything clandestinely if need be? That might allow us be happy, but changing the world seems unlikely.
+
+Lots of things we can do. First and foremost for this board, work toward creating Robowaifus. They would completely change the game. They'd remove large swaths of beta orbiters from the equation, and the beta orbiters are the source of women's power. Women would then be forced to learn actual responsibility and humanity. That's the core of the entire issue. I don't know if robowaifus would solve the problem entirely, but they'd sure make a significant dent. Artificial wombs, closely related, of course, would make another enormous dent.
+
+
+
+Now I'll admit, I have no technical training, and very little capital at the moment. I don't know how much more I can do for the robowaifu cause aside from being a cheerleader and an idea guy, but I'll at least do that. People don't realize how possible robowaifus really are, but the more people realize, the more they'll demand it. They don't know they want it because they don't know it's possible.
+
+
+
 In the meantime, I hope to affect similar change with my organic robo-daughteru plan. At the least, I don't have to wait as long for that, and if I do it right, she can then go on to advance the cause in more powerful ways than I ever could. Children are in a way a form of immortality, as you pass on your genes. But perhaps even more importantly, you can also pass on your ideas, you can pass on your mind, if you raise them right. I'll advance the robowaifu cause as much as I can right now. But I'll also look for ways to increase my ability to do so in the future. And that's what I've been sperging out about here.
 
 # 55
->>2610
->I hope to affect similar change with my organic robo-daughteru plan
+>>2610
+
+>I hope to affect similar change with my organic robo-daughteru plan
+
 Well, good luck with that. I think there's a whole lot of things that would work against that plan and variables outside of your control. If it goes off the rails, that'll be a whole lot of wasted time and money. You might end up with a better than average, high-minded woman who goes to college, meets some people, hears some lectures and gradually realizes the error of your ways and the "ethical, moral importance" of social justice. There's a big sprectrum between lowest of the low woman and the mythical perfectly raised amidst a terrible culture one. Again, good luck.
 
 # 56
->>2611
-Nothing's perfect. That doesn't mean you shouldn't strive to get as close as possible.
-
->goes to college, meets some people, hears some lectures and gradually realizes the error of your ways
-This would only apply if I tried to actually hide information, which was then later exposed. Terrible strategy. What should be done is to expose to as much information as possible, so that you can then sift through the ideas together, and find which have merit and which do not. And why, of course. The difference between actual education and indoctrination.
-
+>>2611
+
+Nothing's perfect. That doesn't mean you shouldn't strive to get as close as possible.
+
+
+
+>goes to college, meets some people, hears some lectures and gradually realizes the error of your ways
+
+This would only apply if I tried to actually hide information, which was then later exposed. Terrible strategy. What should be done is to expose to as much information as possible, so that you can then sift through the ideas together, and find which have merit and which do not. And why, of course. The difference between actual education and indoctrination.
+
+
+
 It would be the same for a completely robotic being. I'd want my robowaifu to understand SJW arguments, and also why they are wrong. All the better for her to eventually fight the SJWs when they eventually come for both her and me in the future.
 
 # 57
@@ -472,17 +629,25 @@ Thank you.
 >global vol*
 
 # 59
->>2612
->It would be the same for a completely robotic being. I'd want my robowaifu to understand SJW arguments, and also why they are wrong.
+>>2612
+
+>It would be the same for a completely robotic being. I'd want my robowaifu to understand SJW arguments, and also why they are wrong.
+
 Maybe. I don't need to understand Islam or Scientology to dislike them and think the world's better off without them. It's really our interests vs theirs. Feminism does benefit a group of people in a way. You'd have to teach that some people's interests or more important than others.
 
 # 60
->>2616
-I think I can dismantle feminism just by focusing on the long term benefits of equality. SJWs openly hate equality now (saying that it's evil, and they like "equity" instead), but equality is really a very easy argument for the masses to buy.
-
-Know your enemy.
-
->>2614
+>>2616
+
+I think I can dismantle feminism just by focusing on the long term benefits of equality. SJWs openly hate equality now (saying that it's evil, and they like "equity" instead), but equality is really a very easy argument for the masses to buy.
+
+
+
+Know your enemy.
+
+
+
+>>2614
+
 I suppose it's a moot point now with the "rebirth" thing, but I don't know if I'd be good at this anyway. Very flattering to see that someone thinks my writing and ideas are that good, but I'm a free speech absolutist, and I probably would never moderate anything. I think 4chan was at its best when 99% of /b/ was botspam telling people to install viruses. Freedom weeds out those that don't deserve to be there anyway. I like the idea of robowaifus because it would free many more men from instincts that lead to them giving power to women, who then use it for authoritarianism. That same feminine authoritarianism that then forces us to censor ourselves and each other. Robowaifus would remove censorship from society. Beta orbiters wouldn't pretend to agree with it, and then enforce it, just to get women, because they'd all be placated with robowaifus.
 
 # 61
@@ -494,18 +659,24 @@ But yes, responsibility comes with, well, ''responsibility'' ofc. Your assertion
 As a counter-balance to your stated methodology, I'd ask: Would "''I probably would never moderate anything''" best serve your organo-**robo-**daughteru? If not, then I'd say you might consider a similar view about the offer from /robowaifu/. This isn't /b/, nor will it ever be if I can manage that. I came from 4/b/ back in the day, it's literally where I cut my teeth in the IB world. So I have no opposition to the need for it, but /robowaifu/ is ''not'' that place.
 
 # 62
->>2626
->Would "I probably would never moderate anything" best serve your organo-robo-daughteru?
-Yes, I think it would. Discussion is always better than censorship. The only exception I can think of would be immediate dangers to life. Which would never be the case with words and images, only with actual actions. I suppose you could consider breaking global rules or federal laws to be immediate dangers to life of the board, which must be censored for the board to survive. But that's just playing along with the people who are actually endangering the board, by threatening to shut them down for wrongthink. The other thing that I do think can slowly degrade the board is just bad actors, like if SJWs invaded, but I also believe that it is a very dangerous precedent to start censoring what we think to be wrongthink. I suppose since this isn't /b/, though, it's fair enough to delete posts for being off-topic. And in that case, most of my posts in this thread should be deleted. I would actually understand that.
-
+>>2626
+
+>Would "I probably would never moderate anything" best serve your organo-robo-daughteru?
+
+Yes, I think it would. Discussion is always better than censorship. The only exception I can think of would be immediate dangers to life. Which would never be the case with words and images, only with actual actions. I suppose you could consider breaking global rules or federal laws to be immediate dangers to life of the board, which must be censored for the board to survive. But that's just playing along with the people who are actually endangering the board, by threatening to shut them down for wrongthink. The other thing that I do think can slowly degrade the board is just bad actors, like if SJWs invaded, but I also believe that it is a very dangerous precedent to start censoring what we think to be wrongthink. I suppose since this isn't /b/, though, it's fair enough to delete posts for being off-topic. And in that case, most of my posts in this thread should be deleted. I would actually understand that.
+
+
+
 So for a more specific answer, I could concede to deleting off-topic posts. And maybe, just maybe, to deleting things that violate global rules. But frankly, I consider that to be little more than cuckoldry.
 
 # 63
->>2633
+>>2633
+
 So letting outsiders who don't share the interests of the native users and have zero respect for their culture invade is cuckoldry? Uh huh.
 
 # 64
->>2634
+>>2634
+
 No. Enforcing rules just because some sort of "higher authority" tells you to is cuckoldry. Letting outsiders in, or at least not actually deleting their posts and banning them, is the price you pay for free speech. However, I do think it's important to make the place as distasteful to cultural outsiders as possible.
 
 # 65
@@ -516,11 +687,16 @@ Alright, I understand your position Anon. In that light I'll respectfully withdr
 However, thank you for your other contributions here Anon. Please do continue with them. :^)
 
 # 66
->>2636
-I don't consider myself an activist in that regard. Quite the opposite. I refuse to use my powers for activism. I think that is best for the community's overall welfare. However, I think you've been doing an excellent job with the board so far, and it doesn't seem like you're even doing anything I wouldn't do myself. So I certainly respect your opinions on these matters, and am flattered by your compliments.
-
-Also, I'm the type that forgets to go on the internet for months at a time, so I'd probably be too often absent to be a good hotpocket anyway.
-
+>>2636
+
+I don't consider myself an activist in that regard. Quite the opposite. I refuse to use my powers for activism. I think that is best for the community's overall welfare. However, I think you've been doing an excellent job with the board so far, and it doesn't seem like you're even doing anything I wouldn't do myself. So I certainly respect your opinions on these matters, and am flattered by your compliments.
+
+
+
+Also, I'm the type that forgets to go on the internet for months at a time, so I'd probably be too often absent to be a good hotpocket anyway.
+
+
+
 You should probably delete all or most of my posts from this thread anyway, since they're absurdly off topic.
 
 # 67
@@ -530,7 +706,8 @@ On the contrary. Your position smacks of the 'muh_free_speech' activism from my 
 I'm also rather skeptical your approach can possibly lead to a good outcome for your daughter either tbh.
 
 # 68
->>2638
+>>2638
+
 You're a different guy from me. I'm the one who's been replying to him besides chobitsu. I agree with you, but felt it would be impolite to express those feelings. Total free speech should be supported on a societal level, by on a community to community basis it's simply undesirable and pointless. He's right that all of these posts should be moved for being absurdly off-topic.
 
 # 69
@@ -555,7 +732,8 @@ Was listening to a video on synthetic life and apparently they can already print
 thanks for the info anon, will give it a listen.
 
 # 74
->>2671
+>>2671
+
 We need a starting point before we go for more complex systems.  Let's learn what does and doesn't work before we move on to fully artificially wombs.
 
 # 75
@@ -599,7 +777,8 @@ I personally don't think so. Why risking the life of your child everytime she ge
 These are pretty good points IMO Anon.
 
 # 82
->>4688
+>>4688
+
 Indeed. It is much easier to maintain homeostasis too in a nice, cabinet-sized artificial womb than trying to cram it in a tiny robotic abdomen.
 
 # 83
@@ -621,7 +800,8 @@ From our skin.
 https://www.thesun.co.uk/news/1776276/men-could-have-babies-without-women-by-creating-artificial-eggs-from-skin-cells/
 
 # 87
->>4688
+>>4688
+
 Aye, that along with engineered egg cells would be enough to produce a viable fetus.
 
 # 88
@@ -688,7 +868,7 @@ I'm okay with this outcome.
 # 100
 >>8045
 >currently watching ''The Matrix'' series
-<lots of similarities here
+
 Kek. You have the makings of a fine storyline there Anon. :^)
 
 # 101
@@ -820,9 +1000,12 @@ Poor zoomers right now are trying to get over the fact that their mother is a wh
 The kid isn't going to have any problems coming from an artificial womb knowing he was literally created out of a want and not because he's a mere byproduct of a whorish woman having "fun".
 
 # 125
->>2587
-God himself could not make bitches loyal. Just throwing that out there.
->>2584
+>>2587
+
+God himself could not make bitches loyal. Just throwing that out there.
+
+>>2584
+
 Masculine Presenting Transgender Lesbian. In effect, you're still a man, you still like women, you're still disgusted by the unfeminine females. But libtards short out because you have more checkboxes than they do.
 
 # 126
@@ -851,10 +1034,15 @@ All an artificial mammary gland would do is make realistic breast milk, which is
 https://www.forbes.com/sites/helenthomson/2018/02/08/human-eggs-developed-in-the-lab-in-world-first/
 
 # 130
-Alright folks, there's a lot of good information being shared about what scientists are doing with this stuff. Here's a news flash though: Anyone can follow the scientific method. We can break this whole thing down into smaller parts and grassroots this shit.
-
->ctrl-f 'amniotic fluid'
->no results
-
+Alright folks, there's a lot of good information being shared about what scientists are doing with this stuff. Here's a news flash though: Anyone can follow the scientific method. We can break this whole thing down into smaller parts and grassroots this shit.
+
+
+
+>ctrl-f 'amniotic fluid'
+
+>no results
+
+
+
 What does a human body do? Eat. What does a pregnant human body do? Eat. What does a human fetus do? Absorb nutrients from what the mother eats. Chemically speaking, literally everything that the human body is capable of is available in some form or another at your local grocery store. My question is how difficult would it be to mix together a facsimile for amniotic fluid? What makes it up? How much of what, and how does that change during gestation? We need recipe cards or something.
 

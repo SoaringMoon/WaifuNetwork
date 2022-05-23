@@ -28,10 +28,14 @@ Thanks Anon. Yep, I'm quite sure it's relevant to this board's interests!
 Good idea. Maybe Robi can give us the keys to the Гунтstream once in a while?
 
 # 8
->>2981
-
->> Maybe Robi can give us the keys to the Гунтstream once in a while?
-
+>>2981
+
+
+
+>> Maybe Robi can give us the keys to the Гунтstream once in a while?
+
+
+
 That phrasing gives off school day activity vibes. Is nice.
 
 # 9
@@ -45,16 +49,23 @@ Yeah, that's literally how we should spin the whole thing Anon, good thinking! :
 Pics pls.
 
 # 11
-> Pics pls.
-This shows probably what I consider peak aesthetic x slice of life x robowaifu. I highly recommend it since its only 2 episodes.
-
->>3664
-to be completely honest I've been hoping once VR kicks off it could become something like ReLife where people can go and somewhat relive high school life like we see in some anime's (think ReLife). Kind of an embarrassing thought but I guess why not put it out there? 
-
+> Pics pls.
+
+This shows probably what I consider peak aesthetic x slice of life x robowaifu. I highly recommend it since its only 2 episodes.
+
+
+
+>>3664
+
+to be completely honest I've been hoping once VR kicks off it could become something like ReLife where people can go and somewhat relive high school life like we see in some anime's (think ReLife). Kind of an embarrassing thought but I guess why not put it out there? 
+
+
+
 In that same line of thought it would be pretty useful to use VR for robowaifus meetups once more users joined. It would keep people from being harassed irl since robowaifus is one of the targets of the culture war going on right now and we could probably host our on servers. The only issue would be people who don't have VR capabilities would be left out.
 
 # 12
->>3665
+>>3665
+
 I'll also add, this show is also really made by its sound design and ASMR like voicing.
 
 # 13
@@ -69,13 +80,17 @@ Any yeah, we have a Visual Waifu thread Anon where VR is the prime topic I don't
 Thanks for the info about the show!
 
 # 14
->>3667
-> Any particular one you'd recommend?
+>>3667
+
+> Any particular one you'd recommend?
+
 Do you mean VR meetup wise or Yokohama Kaidashi Kikou-DVD wise?
 
 # 15
->>3669
-
+>>3669
+
+
+
 ohh, in that case I can only recommend the first OVA since I haven't seen the second (Quiet Country Cafe) and I'm waiting to get it for a special occasion.
 
 # 16
@@ -103,9 +118,12 @@ Yeah, that's a nice series. Something about those oldschool animus is nicely dis
 I get ya. The older style is cool, cute, and distinct from real life. At the same time it's not too cute-sie (?) or moe (though some moe is nice).
 
 # 22
-Recommendation: Boku no Tsuma wa Kanjou ga Nai / My Wife Has No Emotion 
-Link: https://mangadex.org/title/46011/boku-no-tsuma-wa-kanjou-ga-nai
-
+Recommendation: Boku no Tsuma wa Kanjou ga Nai / My Wife Has No Emotion 
+
+Link: https://mangadex.org/title/46011/boku-no-tsuma-wa-kanjou-ga-nai
+
+
+
 This is about a salary worker that lives alone with his domestic robot that he regards as his wife. It's a light-hearted slice-of-life about him learning how he should care for his robotic wife and their day-to-day life together. I found the manga endearing and I think you guys might enjoy it as well.
 
 # 23
@@ -143,8 +161,10 @@ Japanese: http://www.comic-medu.com/wk/plusalpha
 Look forward to your work Anon. Seems like a humorous scenario so far.
 
 # 31
->>6673
->He doesn't fuck it, he instead wants to eradicate the ((())) and degenerate normalniggers instead
+>>6673
+
+>He doesn't fuck it, he instead wants to eradicate the ((())) and degenerate normalniggers instead
+
 I need this manga in my life, this has hilarity potential
 
 # 32
@@ -160,13 +180,17 @@ She's armed to the teeth too
 Pretty interesting. So far I like it Anon!
 
 # 34
-Andromeda Stories.
-Amazing Nurse Nanako, but it's only a gag for a single scene.
-Megazone 23 but she's a computer and not a robot, almost the same thing really.
+Andromeda Stories.
+
+Amazing Nurse Nanako, but it's only a gag for a single scene.
+
+Megazone 23 but she's a computer and not a robot, almost the same thing really.
+
 Tenchi Muyo.
 
 # 35
->>3696
+>>3696
+
 And amazingly that picture doesn't include it, but Key the Metal Idol is one of the more known robowaifu anime.
 
 # 36
@@ -195,15 +219,24 @@ My favorite show in terms of entertainment value related to Robowaifus is so far
 Outside of Anime I also like Terminator SCC a lot. Cameron really is a fascinating piece of work, and not only optically. I think it might be the best impersonation of a fembot ever.
 
 # 40
->>6770
-It's worth a watch. It's fun and 85 minutes long.
-
-It's a bit shallow and wacky and things happen just for the sake of happening, no particular writing skill can be attributed to the writer.
-The art style is a solid early 80s style but doesn't stand out.
-The animation is also unremarkable.
-It's very original and the idea behind its originality is very good at least.
-
-It's really a decent anime that's worth a watch, it's not one of those obscure OVAs that turn out to be amazing and for some reason still fell through the cracks and into obscurity.
+>>6770
+
+It's worth a watch. It's fun and 85 minutes long.
+
+
+
+It's a bit shallow and wacky and things happen just for the sake of happening, no particular writing skill can be attributed to the writer.
+
+The art style is a solid early 80s style but doesn't stand out.
+
+The animation is also unremarkable.
+
+It's very original and the idea behind its originality is very good at least.
+
+
+
+It's really a decent anime that's worth a watch, it's not one of those obscure OVAs that turn out to be amazing and for some reason still fell through the cracks and into obscurity.
+
 You will enjoy it a lot more if you like shoujo, science fiction meets fantasy, originality, and that era in anime.
 
 # 41
@@ -289,9 +322,12 @@ Armitage III - Dual Matrix: https://www.anime-planet.com/anime/armitage-iii-dual
 Then there might be other shows including NPCs, like Overlord: https://www.anime-planet.com/anime/overlord
 
 # 48
->>7008
-Wow, great work anon! This will come in handy! 
-
+>>7008
+
+Wow, great work anon! This will come in handy! 
+
+
+
 Does Violet Evergarden count? I don't think she's a robot, just an awkward human. She has robotic arms but that was because of the war. Good show though.
 
 # 49
@@ -299,9 +335,12 @@ Does Violet Evergarden count? I don't think she's a robot, just an awkward human
 Excellent. It would be great to see this turned into a /robowaifu/ infographic. Possibly grouped by theme. Everyone should add suggestions for anything else they think should be included.
 
 # 50
->>7008
-Iczer-1, it's about an android girl who has come to earth to save the world and it has yuri themes. One of my favorites, the soundtrack is also really good.
-
+>>7008
+
+Iczer-1, it's about an android girl who has come to earth to save the world and it has yuri themes. One of my favorites, the soundtrack is also really good.
+
+
+
 Then there's "Monkey Punch no Sekai - Alice". Part of the "überdegenerate" genre in anime, some guy makes a woman he hates into a robot, then his son tries to kill her.
 
 # 51
@@ -319,23 +358,40 @@ Oh wow, I only watched the first episode. If she's supposed to be human, then th
 Thanks, but maybe we first need to find out which of those shows have been watched by someone here on that board. Otherwise we might put shows in which don't really belong there.
 
 # 52
->>7013
-I've watched Andromeda Stories, Armitage III, the original Blade Runner movie, Buttobi CPU, Key the Metal Idol, Magical Pokaan, No Game No Life, Robot Carnival and Rozen Maiden.
-
-Rozen Maiden has no robot girls, they're all doll girls. With doll joints and stuff. A big part of it is that they've been created by someone to be the perfect girl. Maybe it's close enough.
-No Game No Life's robot girl is in its movie, not the main series.
-All the others I've watched are primarily about robot girls or have important characters who are robot girls.
-Robot Carnival is probably the most /robowaifu/ anime of all. It's a 3-part OVA of with a different story in every part, one of them is about this inventor type of guy who made a robotic woman. And she's beautiful.
-
-I also remembered a few others:
-
->Megazone 23
-Movie series, one important plot point and character already in the first movie is a computer named "Eve" who presents herself to humans as a woman on a screen. The soundtrack calls her "Sleeping Beauty," one of the movies has "The Awakening of Eve" as the title. 
->Terra e...
-In this one there is a computer people call "Mother". It's only ever seen as a super intelligent computer.
->Tenchi Muyo!
-It's a harem anime about this guy named Tenchi and all these women who lust after him for no reason. The main one, Ryo-Ohki, is a hyper advanced sort of organic robot made with real eggs from her "mother". Really blurring the lines, but keep in mind they also have organic spaceships and stuff, she's really "tech".
->El Hazard
+>>7013
+
+I've watched Andromeda Stories, Armitage III, the original Blade Runner movie, Buttobi CPU, Key the Metal Idol, Magical Pokaan, No Game No Life, Robot Carnival and Rozen Maiden.
+
+
+
+Rozen Maiden has no robot girls, they're all doll girls. With doll joints and stuff. A big part of it is that they've been created by someone to be the perfect girl. Maybe it's close enough.
+
+No Game No Life's robot girl is in its movie, not the main series.
+
+All the others I've watched are primarily about robot girls or have important characters who are robot girls.
+
+Robot Carnival is probably the most /robowaifu/ anime of all. It's a 3-part OVA of with a different story in every part, one of them is about this inventor type of guy who made a robotic woman. And she's beautiful.
+
+
+
+I also remembered a few others:
+
+
+
+>Megazone 23
+
+Movie series, one important plot point and character already in the first movie is a computer named "Eve" who presents herself to humans as a woman on a screen. The soundtrack calls her "Sleeping Beauty," one of the movies has "The Awakening of Eve" as the title. 
+
+>Terra e...
+
+In this one there is a computer people call "Mother". It's only ever seen as a super intelligent computer.
+
+>Tenchi Muyo!
+
+It's a harem anime about this guy named Tenchi and all these women who lust after him for no reason. The main one, Ryo-Ohki, is a hyper advanced sort of organic robot made with real eggs from her "mother". Really blurring the lines, but keep in mind they also have organic spaceships and stuff, she's really "tech".
+
+>El Hazard
+
 A pivotal plot point and important character is a robot girl. Watch the OVA not the TV series.
 
 # 53
@@ -349,9 +405,12 @@ Thanks, I wrote that I would out in magical dolls and robots. Since many are not
 I myself watched A.D. Police Files, Armitage III, Blade Runner 2022 ( I think?!?), Butobi CPU, Chobits, Clockwork Planet, Kowarekake no orgel, Metropolis, Plastic Memories, Robot Girls Z, Saber Marionette (not completed, yet) Steel Angel Kurumi, Time of Eve Movie, Unbreakable Machine Doll, and Terminator SCC. However, yet I often only watched the first season in many cases. I also started watching Violet Evergarden, which might be OT anyways. Some others will be watched soon.
 
 # 54
->>7013
-Yeah, I thought the Violet Evergarden thing was weird too. I spent most of the series thinking she was a robot girl. It wasn't super clear and was confusing with the mechanical arms. I don't think anything major would change even if she was a robot girl. 
-
+>>7013
+
+Yeah, I thought the Violet Evergarden thing was weird too. I spent most of the series thinking she was a robot girl. It wasn't super clear and was confusing with the mechanical arms. I don't think anything major would change even if she was a robot girl. 
+
+
+
 Still a great list that you made, Anon! Thanks
 
 # 55
@@ -396,7 +455,8 @@ Yes, seems reasonable to have tags like that at the bottom of each paragraph des
 And these can be versioned as well, even once an initial agreement is conceded, it can always be modified somewhat with a newer version.
 
 # 60
-The Humanoid.
+The Humanoid.
+
 I'll probably make an encode of this later as the existing one sucks.
 
 # 61
@@ -412,9 +472,12 @@ I thought about putting her show into the list  because of her special looks but
 I decided to try Torrenting Cat Girl Nuku Nuku only to find there are no seeders.
 
 # 64
->>7031
-**https://nyaa.si/view/974555**
-**https://nyaa.si/view/974556**
+>>7031
+
+**https://nyaa.si/view/974555**
+
+**https://nyaa.si/view/974556**
+
 **https://nyaa.si/view/974559**
 
 # 65
@@ -433,7 +496,8 @@ I don't know, haven't watched it. Problem is, there are many shows with some non
 - exceptions maybe if the story revolves a lot around how a mind work and/or building artificial bodies, ... (in that regard, some of Ghost in the Shell might qualify)
 
 # 68
-The Humanoid encode done.
+The Humanoid encode done.
+
 https://nyaa.net/view/1036974?PageSpeed=noscript
 
 # 69
@@ -458,7 +522,8 @@ I rewatched Clockwork Planet recently and really have to emphasize the entertain
 Recently, I also started "Kurogane Communication" which is quite relaxing to watch. Only one human seems to be left, a cute girl which looks a bit like Asuka Langley. She's living with robots, trying to take care of her. I think the show is on topic, bc there's a fembot, but it's also about robots caring for a human as best as they can and talking about their own tech but also how humans might think and function. I'm not through with it, only watching a bit at a time, to relax. I'm in the middle and like it so far, it also has only one season but might end with a more unfinished story or rushed ending.
 
 # 74
-Add Dr. Slump to the list of /robowaifu/ anime.
+Add Dr. Slump to the list of /robowaifu/ anime.
+
 Sadly it's still being subbed.
 
 # 75
@@ -466,11 +531,16 @@ Sadly it's still being subbed.
 Okay,  thanks, seems to feature a fembot as one of the main characters. How good is it? It's labelled as slapstick. Is it okay for adults?
 
 # 76
->>7794
-Not him but I've read some of that growing up, if you're familiar with Dragon Ball think of it as set in that fantastical universe but with much sillier self contained story lines and an overall less serious tone. I'd start with the manga.
-
-I'm not surprised that the anime wasn't subbed completely as a lot of the puns and jokes require knowledge of Japanese language and pop culture of the era it was made in to get it. I wouldn't recommend it to adults unless they were a huge fan of Akira Toriyama's works and wanted to see where the setting of Dragon Ball came from.
-
+>>7794
+
+Not him but I've read some of that growing up, if you're familiar with Dragon Ball think of it as set in that fantastical universe but with much sillier self contained story lines and an overall less serious tone. I'd start with the manga.
+
+
+
+I'm not surprised that the anime wasn't subbed completely as a lot of the puns and jokes require knowledge of Japanese language and pop culture of the era it was made in to get it. I wouldn't recommend it to adults unless they were a huge fan of Akira Toriyama's works and wanted to see where the setting of Dragon Ball came from.
+
+
+
 Putting it on a list of /robowaifu/ media is quite a stretch while Dragon Ball Z would be more appropriate thanks to Android 18.
 
 # 77
@@ -559,14 +629,22 @@ Wouldn't it be wonderful if a legitimate publisher like this took up the mantle 
 >>7894 and following comments are about Cyberpunk 2077, Blade Runner (Westwood), and the looks and traits of characters in some games.
 
 # 91
->>7799
-Arale is the main character of Dr. Slump, though. Android 18 isn't very important outside of the little while she is one of three main villains, and a tiny bit near the start of the Buu arc. And the Bio-Broly movie, I guess. She's good in those, but I would hesitate to say she makes DBZ more appropriate /robowaifu/ material than a show where a robot girl is the main character.
-
-That said, to answer the other guy's question, Dr. Slump is basically for toddlers, though 1980s Japanese toddlers, so it's still too hot for TV here and now. Like one of the first stories is about Arale coming home and telling the doctor that the other girls made fun of her for not having a vagina, which he wasn't able to build for her because he's never seen one, not even in porn, due to Japanese censorship laws. So the story is then about his quest to see a vagina, not to be a perv, but so that he can build one for Arale. Now when I say it like this, it sounds ecchi, but naw, if you watch it it's clearly meant to be humorous for young kids that think genitals are funny, not sexy for adults that want to see anime pussy. Also, it's a tease because when he invents X-ray specs specifically to see pussy, all that happens is Arale sees her male friends' penises, again to be funny, not to get turned on (also she has the mentality of a toddler, even though she's supposed to be like 12 or something, so she wouldn't find it hot anyway), and nobody gets to see any pussy ever, because it's funnier to see the doctor fail, and because even in 1980s Japan, penises were seen as funny and vaginas as too attractive to be funny.
-
-All that said, Arale is still best robowaifu, even if she doesn't have a pussy. That could be corrected in any meatspace recreations anyway.
-
->>7801
+>>7799
+
+Arale is the main character of Dr. Slump, though. Android 18 isn't very important outside of the little while she is one of three main villains, and a tiny bit near the start of the Buu arc. And the Bio-Broly movie, I guess. She's good in those, but I would hesitate to say she makes DBZ more appropriate /robowaifu/ material than a show where a robot girl is the main character.
+
+
+
+That said, to answer the other guy's question, Dr. Slump is basically for toddlers, though 1980s Japanese toddlers, so it's still too hot for TV here and now. Like one of the first stories is about Arale coming home and telling the doctor that the other girls made fun of her for not having a vagina, which he wasn't able to build for her because he's never seen one, not even in porn, due to Japanese censorship laws. So the story is then about his quest to see a vagina, not to be a perv, but so that he can build one for Arale. Now when I say it like this, it sounds ecchi, but naw, if you watch it it's clearly meant to be humorous for young kids that think genitals are funny, not sexy for adults that want to see anime pussy. Also, it's a tease because when he invents X-ray specs specifically to see pussy, all that happens is Arale sees her male friends' penises, again to be funny, not to get turned on (also she has the mentality of a toddler, even though she's supposed to be like 12 or something, so she wouldn't find it hot anyway), and nobody gets to see any pussy ever, because it's funnier to see the doctor fail, and because even in 1980s Japan, penises were seen as funny and vaginas as too attractive to be funny.
+
+
+
+All that said, Arale is still best robowaifu, even if she doesn't have a pussy. That could be corrected in any meatspace recreations anyway.
+
+
+
+>>7801
+
 "Android 18" is a bad dub name. Most names from the '90s dubs of Dragon Ball have stuck around even though they are terrible, like the female lead being translated as "Bulma" when it's obviously supposed to be "Bloomer" because her whole family is named after underwear. The term "Jinzo Ningen" was translated as "Android" when it is much more accurately "Artificial Human." Some of the Artificial Humans are cyborgs, some are androids, and one is some sort of completely biological genetically engineered monster. 18 is a cyborg though. However, she is best waifu in the series. **Unless we count Arale, since it is the same universe and she does appear.**
 
 # 92
@@ -576,11 +654,16 @@ Thanks for the breakdown about Arale in Dr. Slump Anon. That's sounds cute and e
 BTW, I seem to vaguely remember seeing her as an adult 'woman' at some point. Was that arc ever in the official canon do you know?
 
 # 93
->>8122
-I haven't read/watched the whole series (slowly watching the anime now, but I know that most of it doesn't have subs yet), but Arale frequently fantasizes about being an adult and having huge tits, or sometimes characters are just drawn differently for a joke, like maybe she will be drawn sexy if she's acting seductive for some reason, and the joke is the contrast with how she actually looks. Also, there's one episode where they go to the future and see all her friends in their old age, but she is still the same as ever, since she's a robot and doesn't age, and this is basically the one time she (or anyone else in the series) seems to ever have a serious thought about anything. It raises some pretty deep questions about what it means to be human, and the fate of an immortal robot watching all of her loved ones die around her. But this basically lasts for about five seconds and then they go back to poop jokes.
-
-Also, Arale appears in Dragon Ball and Dragon Ball Super. When she appears in Dragon Ball, it's a few years after the end of Doctor Slump, but nobody has aged that much yet. She then reappears in an episode of Dragon Ball Super, which takes place at least 30 years later, and Goku, who she had met before, when he was 11, is now around 40 years old, but Arale is the same as ever. Then again, so is Doctor Slump himself, and he's just a regular human. But he is by far the best scientist in the multiverse, so maybe he has some sort of anti-aging formula. Also Arale saves the day with gag-manga powers, which make her much more powerful than Super Saiyan God Super Saiyan (yes, that's what it's called) Goku, so basically, no rules apply because comedy.
-
+>>8122
+
+I haven't read/watched the whole series (slowly watching the anime now, but I know that most of it doesn't have subs yet), but Arale frequently fantasizes about being an adult and having huge tits, or sometimes characters are just drawn differently for a joke, like maybe she will be drawn sexy if she's acting seductive for some reason, and the joke is the contrast with how she actually looks. Also, there's one episode where they go to the future and see all her friends in their old age, but she is still the same as ever, since she's a robot and doesn't age, and this is basically the one time she (or anyone else in the series) seems to ever have a serious thought about anything. It raises some pretty deep questions about what it means to be human, and the fate of an immortal robot watching all of her loved ones die around her. But this basically lasts for about five seconds and then they go back to poop jokes.
+
+
+
+Also, Arale appears in Dragon Ball and Dragon Ball Super. When she appears in Dragon Ball, it's a few years after the end of Doctor Slump, but nobody has aged that much yet. She then reappears in an episode of Dragon Ball Super, which takes place at least 30 years later, and Goku, who she had met before, when he was 11, is now around 40 years old, but Arale is the same as ever. Then again, so is Doctor Slump himself, and he's just a regular human. But he is by far the best scientist in the multiverse, so maybe he has some sort of anti-aging formula. Also Arale saves the day with gag-manga powers, which make her much more powerful than Super Saiyan God Super Saiyan (yes, that's what it's called) Goku, so basically, no rules apply because comedy.
+
+
+
 But to answer your question, as far as I know she's an eternal loli.
 
 # 94
@@ -648,17 +731,28 @@ I've seen it. Here's my take if you'd like.
 **The surprise, twist-the-knife ending really drives this last bit home :^)**
 
 # 104
->>8235
-Might still have the webm I made for it somewhere otherwise I'll rip that robowaifu repair shop scene again.
-
->>8243
-I've only seen the television show for Weird Science and it's more a 'I Dream of Jeannie' fantastical comedy without the romantic element where the female lead is an older sister style character who helps the two main characters go through young adulthood. It's a wholesome show with one of the best musical intros I can remember from the mid 90's. I find this song fits in well with the topics on this board.
-
->Tomorrowland
-Now there is a fucked up movie for those that can recognize masonic imagery. That bizarre blindfolded ritual in the Eiffel tower makes absolutely no sense unless you get the real meaning behind it.
-
-There's also a German movie about a man who falls in love with an android based on his dead daughter called 'Trouble with Being Born' which I have to warn potential viewers depicts the nude child form using CGI so is potentially obscene in many jurisdictions. The crazy thing is that it's loosely based on a true story where a man bought a sex doll modeled off a younger version of his dead wife, his daughter eventually resembled the sex doll after going through puberty which caused an awkward situation.
-
+>>8235
+
+Might still have the webm I made for it somewhere otherwise I'll rip that robowaifu repair shop scene again.
+
+
+
+>>8243
+
+I've only seen the television show for Weird Science and it's more a 'I Dream of Jeannie' fantastical comedy without the romantic element where the female lead is an older sister style character who helps the two main characters go through young adulthood. It's a wholesome show with one of the best musical intros I can remember from the mid 90's. I find this song fits in well with the topics on this board.
+
+
+
+>Tomorrowland
+
+Now there is a fucked up movie for those that can recognize masonic imagery. That bizarre blindfolded ritual in the Eiffel tower makes absolutely no sense unless you get the real meaning behind it.
+
+
+
+There's also a German movie about a man who falls in love with an android based on his dead daughter called 'Trouble with Being Born' which I have to warn potential viewers depicts the nude child form using CGI so is potentially obscene in many jurisdictions. The crazy thing is that it's loosely based on a true story where a man bought a sex doll modeled off a younger version of his dead wife, his daughter eventually resembled the sex doll after going through puberty which caused an awkward situation.
+
+
+
 It's probably too early to consider design wise how a humanoid robot could age gracefully or have any ruin value. I'd appreciate any suggestions of media that touch on that theme.
 
 # 105
@@ -672,7 +766,8 @@ This could easily go off-topic so let's keep it short please. Just wanted to ask
 Also, while not a robowaifu main character, this topic is very squarely addressed in ''The Bicentennial Man'' >>1536
 
 # 107
->>8275
+>>8275
+
 To keep it short signs of wear or repairs have their own aesthetic merits that are highly valued by some people and are often replicated artificially on brand new items. I'm talking about developing a patina or the concept of kintsukuroi not an expiry date or planned obsolescence through making the aging process similar to what occurs with a human body in order to sell newer models constantly.
 
 # 108
@@ -1030,20 +1125,34 @@ Problem is, I don't remember details very well, even for shows which I watched t
 This list here is from me >>9161, btw. In "Unbreakable Machine Doll" she's in love with her master and quite aggressive about it, but he doesn't want her, though he might still treat her quite like a human for all I remember. The human character in "Pandora in the Crimson Shell" is a girl, but she doesn't care about consent when wanting to hug her robowaifu. Related: >>8759 and >>7780. I don't really remember about Butobi CPU, but I liked it.
 
 # 159
->>9632
-I don't know about politically incorrect. Are you talking about a story where the robot is treated more like an advanced computer system rather than a more or less independent synthetic entity? If so, I understand what you mean by that. A lot of stories seem to just use robots as human-like stand-ins. This situation is tangently related to how people view strong AI in general. A lot of AI futurists subscribe heavily to this 'AGI Agent' model that has its own 'will'. I prefer the CAIS model myself but this is another conversation.
-
-I think there is room for more grounded stories about robots and AI. At the same time you have to consider that for a lot of fans of Robot girls/Singularity/AI it's a bit of an escape fantasy. I believe these things are mostly possible in time but it'll probably be a serious climb getting there. People are more disposed towards creating fiction about Westworld level robots and AI over something more mundane. For one thing the conflict in those stories come easier. 
-
-It's the reason that "Boku no Tsuma wa Kanjou ga Nai" feels so novel, although it does fall into the whole treating-like-a-human trope. I guess Chobits is similar in this regard, being another strictly slice of life story. In both these stories the robot is more akin to a piece of property though. Although their masters treat them like humans I feel that is more out of respect/reverence than out of any social expectation.
-
-I think part of the problem in creating more grounded robot girl stories is creating an interesting plot that doesn't revolve around some deeper consequence or implication surrounding AI and robotics of that level. The solution I went with for a story that I recently started working on was just not having AI and robotics in the story's focus, despite it being at an advanced level. 
-
-This also means that the reader has to just 'accept' that fact though, which might be harder to convince a reader of than it sounds. Sort of like in The Expanse where space and AI technology has increased dramatically yet robots are seldomly used beyond industrial uses. It raises questions about a lot of the world/plot. The authors explained they wanted the story to be human focused but that's a cop out reason given the level of advancement.
-
->I also found that in the "west" it was actual and literal feminists that push the "robots are going to kill you because they will become sentient" trope.
-Some warning, don't watch Humans(TV Series). It had an interesting initial concept but hits pretty hard at all the tropes you mentioned. They regard the robot main characters like humans. One of the robots was a prostitute and had a mental breakdown because some guy tried to 'rape' her. The family that bought the main robot woman was pretty stupid to begin with. The dad essentially got canned for having sex with the robot ONCE after his wife walked out for whatever reason. It was pretty much pure propaganda.
-
+>>9632
+
+I don't know about politically incorrect. Are you talking about a story where the robot is treated more like an advanced computer system rather than a more or less independent synthetic entity? If so, I understand what you mean by that. A lot of stories seem to just use robots as human-like stand-ins. This situation is tangently related to how people view strong AI in general. A lot of AI futurists subscribe heavily to this 'AGI Agent' model that has its own 'will'. I prefer the CAIS model myself but this is another conversation.
+
+
+
+I think there is room for more grounded stories about robots and AI. At the same time you have to consider that for a lot of fans of Robot girls/Singularity/AI it's a bit of an escape fantasy. I believe these things are mostly possible in time but it'll probably be a serious climb getting there. People are more disposed towards creating fiction about Westworld level robots and AI over something more mundane. For one thing the conflict in those stories come easier. 
+
+
+
+It's the reason that "Boku no Tsuma wa Kanjou ga Nai" feels so novel, although it does fall into the whole treating-like-a-human trope. I guess Chobits is similar in this regard, being another strictly slice of life story. In both these stories the robot is more akin to a piece of property though. Although their masters treat them like humans I feel that is more out of respect/reverence than out of any social expectation.
+
+
+
+I think part of the problem in creating more grounded robot girl stories is creating an interesting plot that doesn't revolve around some deeper consequence or implication surrounding AI and robotics of that level. The solution I went with for a story that I recently started working on was just not having AI and robotics in the story's focus, despite it being at an advanced level. 
+
+
+
+This also means that the reader has to just 'accept' that fact though, which might be harder to convince a reader of than it sounds. Sort of like in The Expanse where space and AI technology has increased dramatically yet robots are seldomly used beyond industrial uses. It raises questions about a lot of the world/plot. The authors explained they wanted the story to be human focused but that's a cop out reason given the level of advancement.
+
+
+
+>I also found that in the "west" it was actual and literal feminists that push the "robots are going to kill you because they will become sentient" trope.
+
+Some warning, don't watch Humans(TV Series). It had an interesting initial concept but hits pretty hard at all the tropes you mentioned. They regard the robot main characters like humans. One of the robots was a prostitute and had a mental breakdown because some guy tried to 'rape' her. The family that bought the main robot woman was pretty stupid to begin with. The dad essentially got canned for having sex with the robot ONCE after his wife walked out for whatever reason. It was pretty much pure propaganda.
+
+
+
 Sorry for rambling. I've thought about this a lot also as a fellow writer.
 
 # 160
@@ -1079,13 +1188,20 @@ I don't know about 'media', but we have some breddy effin great stories by our o
 Maybe you can define the term for us in whatever venue you prefer Anon. I certainly don't what it means, probably not alone.
 
 # 163
->>9646
-It means 'comprehensive AI services' which is a multi-faceted approach towards creating a human level AI instead of a singular program/agent. Basically multiple systems working together that would create a powerful level of understanding for an AI/robot. 
-
-I'm about to head offline for the night, but if you have the time check out "Reframing Superintelligence" by K. Eric Drexler. I'm not sure if I can link the PDF here but I'll give it a try: 
-
-http://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf
-
+>>9646
+
+It means 'comprehensive AI services' which is a multi-faceted approach towards creating a human level AI instead of a singular program/agent. Basically multiple systems working together that would create a powerful level of understanding for an AI/robot. 
+
+
+
+I'm about to head offline for the night, but if you have the time check out "Reframing Superintelligence" by K. Eric Drexler. I'm not sure if I can link the PDF here but I'll give it a try: 
+
+
+
+http://www.fhi.ox.ac.uk/wp-content/uploads/Reframing_Superintelligence_FHI-TR-2019-1.1-1.pdf
+
+
+
 You can skim to the parts you're most interested in if you don't have much time. Don't worry about finishing the whole thing. A lot of this was written in response to Nick Bostrom's 'Superintelligence'. Bostrom talks about a few different models of human level AI, but mostly refers to AGI Agents throughout that book. Drexler is arguing against that model of AI. Enjoy! :)
 
 # 164
@@ -1121,10 +1237,14 @@ We should get one and later a bunch of boards dedicated to fan edits, like the a
 If anyone wants to make creation of comics or mangas a job, look into Comicsgate e.g. on Youtube, and Ethan van Sciver in particular. They're selling premium comic books via Indiegogo.
 
 # 170
-Yes that Vivy anime seems to be a better executed anime than Beatless, but still goes on about "AI Bad" spiel which has been done to death.  And if AI isn't bad then an owner treating a robot like property is bad, I mean come on, which will it be?  It's like they're trying to create laws and standard procedures before the technology has even fully matured.
-
-Here's what I learned in actual AI used in autonomous rover projects on Youtube... you just put a killswitch, that's it.  For an RC car based robot it is simply an override so that your RC transmitter takes precedence over the autonomous function so that the rover doesn't speed away.  All other things they ask us to think about like the 3 laws of robotics do not yet apply.
-
+Yes that Vivy anime seems to be a better executed anime than Beatless, but still goes on about "AI Bad" spiel which has been done to death.  And if AI isn't bad then an owner treating a robot like property is bad, I mean come on, which will it be?  It's like they're trying to create laws and standard procedures before the technology has even fully matured.
+
+
+
+Here's what I learned in actual AI used in autonomous rover projects on Youtube... you just put a killswitch, that's it.  For an RC car based robot it is simply an override so that your RC transmitter takes precedence over the autonomous function so that the rover doesn't speed away.  All other things they ask us to think about like the 3 laws of robotics do not yet apply.
+
+
+
 I also came upon a manga called "Products" manga which is more in line with my worldview, although it's more about clones than mechanical robots.  In it it turns out that the woman working for the government / zaibatsu etc. and is all about "educating her to be self-aware" is far more cruel than the men who purchased these 'products' to be used as sex slaves.  It's the sex tool customers who are the more decent people, in contrast to the common media portrayal.
 
 # 171
@@ -1167,23 +1287,34 @@ Something I'd like to do once open-source conversational AI is advanced enough i
 We'll have to be quick to release something though. People will check these games out just for the novelty of them and the initial hype will die off.
 
 # 173
->All the stories so far have the leftist tint of the fembot being this "strong independent female" where "bad men" are always the villain.
->If we make one story, where the childhood friend, or the other "real" females are put to the aside while the man enjoys his bot, and then expose the women's jealously, it would probably cause a commotion, but would also be a good start to "our" narrative.
-
->A story about robowaifus that exposes their jealously or fear of such bots would really poke at them. All the stories so far have the leftist tint of the fembot being this "strong independent female" where "bad men" are always the villain.
-If we make one story, where the childhood friend, or the other "real" females are put to the aside while the man enjoys his bot, and then expose the women's jealously, it would probably cause a commotion, but would also be a good start to "our" narrative.
-
-That's precisely why I dislike the western take on the topic and prefer the Japanese. For example, how in Chobits, Hideki is teased for being a virgin but also for being a "nice guy", and not being taken seriously by girls for the latter. Yet, it's this same (arguably virtuous) quality that Chi loves him (when no one else does, they're using him to emotionally unload under the guise of sexual interest, which tbh happens a lot irl).
-
-Anyway not to get off-topic, but the idea of treating a Robot like a Person isn't necessarily bad, but they aren't Human so there is going to be a difference. A Chobits will, at least after the ending  now love their human back for no other reason that their human loves them , is this some violation of their free will? Certainly not, being a partner to someone who loves you in return isn't some kind of punishment and unconditional love is at least romanticised as something virtuous, although nobody can truly say that they can feel that way.
-anyway, sorry for the rambling, my intent was to direct these thoughts toward the post I'm responding to. 
+>All the stories so far have the leftist tint of the fembot being this "strong independent female" where "bad men" are always the villain.
+
+>If we make one story, where the childhood friend, or the other "real" females are put to the aside while the man enjoys his bot, and then expose the women's jealously, it would probably cause a commotion, but would also be a good start to "our" narrative.
+
+
+
+>A story about robowaifus that exposes their jealously or fear of such bots would really poke at them. All the stories so far have the leftist tint of the fembot being this "strong independent female" where "bad men" are always the villain.
+
+If we make one story, where the childhood friend, or the other "real" females are put to the aside while the man enjoys his bot, and then expose the women's jealously, it would probably cause a commotion, but would also be a good start to "our" narrative.
+
+
+
+That's precisely why I dislike the western take on the topic and prefer the Japanese. For example, how in Chobits, Hideki is teased for being a virgin but also for being a "nice guy", and not being taken seriously by girls for the latter. Yet, it's this same (arguably virtuous) quality that Chi loves him (when no one else does, they're using him to emotionally unload under the guise of sexual interest, which tbh happens a lot irl).
+
+
+
+Anyway not to get off-topic, but the idea of treating a Robot like a Person isn't necessarily bad, but they aren't Human so there is going to be a difference. A Chobits will, at least after the ending  now love their human back for no other reason that their human loves them , is this some violation of their free will? Certainly not, being a partner to someone who loves you in return isn't some kind of punishment and unconditional love is at least romanticised as something virtuous, although nobody can truly say that they can feel that way.
+
+anyway, sorry for the rambling, my intent was to direct these thoughts toward the post I'm responding to. 
+
 Respectfully, m.
 
 # 174
 Anyone knows who this is? And from which anime of course. Has probably been mentioned here before. Might also fit to the current topic, because I think this anime has been mentioned somewhere to complain that the guy is kind of abusive towards his robot girl the whole time (if it would be a literal android, probably no one would care). I think this was in video on YouTube on AI (ethics or safety).
 
 # 175
->>9710
+>>9710
+
 That's Mira from Dimension W. Yeah, the MC isn't a nice guy to the robot but he really isn't a nice guy towards anyone really. It's a cool show still. He softens up towards the robot over the course of the anime. You should give it a few episodes and see how you feel about it.
 
 # 176
@@ -1638,19 +1769,32 @@ So, I finished 'Dimension W', then finally 'Kurogane Communication', and also 'R
 'Clockwork Planet' still stands out, in my evaluation of robowaifu/doll related anime. Followed by a bunch more which are a bit less entertaining, followed by some which are sometimes a bit boring but still quite good.
 
 # 234
-Found a great AMV on yt (channel KioAMVs, posted 3 years ago).
-Song: "Robot Girl" by "Was (Not Was)" from album "What Up, Dog?"
-Clips from anime: "Boku no Marie" or "My Dear Marie"
-Mentioned it because I downloaded it earlier, and though the video was taken down. The video link is: watch?v=fm1GVEaivOY
-Also uploaded vid if you want to avoid yt:
-https://files.catbox.moe/3nv1c3.mp4
-
-Also recently found an old desktop avatar program with Chobits (and Negima) characters. The producer was ShilpheeBright judging by the readme (that's all I've been able to understand so far). They are made for windows of course, but wine launches them fine (except if you're missing some of the Japanese fonts). You need to have Japanese fonts to view the readme properly (or alternatively convert to UTF-8).
-
-Chobits zip:
-https://files.catbox.moe/s3k5tn.zip
-Negima zip:
-https://files.catbox.moe/q4oy4t.zip
+Found a great AMV on yt (channel KioAMVs, posted 3 years ago).
+
+Song: "Robot Girl" by "Was (Not Was)" from album "What Up, Dog?"
+
+Clips from anime: "Boku no Marie" or "My Dear Marie"
+
+Mentioned it because I downloaded it earlier, and though the video was taken down. The video link is: watch?v=fm1GVEaivOY
+
+Also uploaded vid if you want to avoid yt:
+
+https://files.catbox.moe/3nv1c3.mp4
+
+
+
+Also recently found an old desktop avatar program with Chobits (and Negima) characters. The producer was ShilpheeBright judging by the readme (that's all I've been able to understand so far). They are made for windows of course, but wine launches them fine (except if you're missing some of the Japanese fonts). You need to have Japanese fonts to view the readme properly (or alternatively convert to UTF-8).
+
+
+
+Chobits zip:
+
+https://files.catbox.moe/s3k5tn.zip
+
+Negima zip:
+
+https://files.catbox.moe/q4oy4t.zip
+
 '''Warning''', I have not done any checks for windows malware, so probably shouldn't run on bare win hardware (perhaps in a vm).
 
 # 235
@@ -1686,23 +1830,40 @@ Adding clang to the toaster would be good, a nice shout out to our more degenera
 (Picrel is Granda Chan from Robot Girls Z)
 
 # 242
->>12009
-Lain is a phantasm, while an AI if sorts I'm going to pass on calling her a R/W proper b/c she wasn't created physically from robotic parts, this show uses technology as a stand in for magic
-
-Unrelated to that: I'd like to put together a canon list of R/W media of all sorts with ratings and commentary. I wonder if we could or should create a wiki (for media, not our actual project)
-
-Anyway I didn't see any mention (or if I did I missed it) of Yokohama Kaidashi Kikou
-
-Here's the OVA
-https://www.youtube.com/watch?v=_3_dBxBi84I
-
-Manga: https://mangakakalot.com/read-go7mp158504944238
-
-While I haven't finished the Manga I don't think she has a love interest, but she is an android. Might be off-topic for our board but regardless it's a pretty wholesome and comfy series so I'd recommend it for some light viewing/reading. If anything it's just different b/c she sees the world from outside the human perspective due to her outliving everyone else and, well being a robot. 
-
->Hatsuseno Alpha is a girl who runs a small Cafe Alpha in the remote country side. If she hadn't mentioned herself to be a robot we would never guess. Alpha's life is calm and slow-pace, yet anything but boring. Alpha enjoys drinking coffee, seeing her few neighbors, making new friends, riding her motorbike along overgrown roads, watching the sunset, swimming in the sea. She's kind, cheerful and optimistic. She lives through small adventures and little by little learns more about people and the world she lives in. The world of YKK is some time in the future. It's strangely, incredibly beautiful. Because of some cataclysm in the past, the level of the ocean keeps slowly rising; there are heavy hurricanes and typhoons every now and then. Japan is isolated from the rest of the world. The techno era of skyscrapers, megapolises, media, virtual space and globalism has completely gone and was forgotten. Nature takes back its space, once conquered by civilization. There are not many people anymore, and they went down to peaceful and simplystic, plain, living with doing simple jobs, growing vegetables, visiting each other, writing letters by hand. What has happened in the past? Why is it so now? How were these human robots created and what for? Where is this world going to? This future world is full of mysteries for readers. The story slowly uncovers some secrets and keeps others. YKK has very well-worked plot and the characters are plausible and very charming. It has many curious turns that open a new piece of that world. The manga somehow gives quite a few of simple, witty and wise observations on life and people. All the stories are very-very kind and nice
-
-
+>>12009
+
+Lain is a phantasm, while an AI if sorts I'm going to pass on calling her a R/W proper b/c she wasn't created physically from robotic parts, this show uses technology as a stand in for magic
+
+
+
+Unrelated to that: I'd like to put together a canon list of R/W media of all sorts with ratings and commentary. I wonder if we could or should create a wiki (for media, not our actual project)
+
+
+
+Anyway I didn't see any mention (or if I did I missed it) of Yokohama Kaidashi Kikou
+
+
+
+Here's the OVA
+
+https://www.youtube.com/watch?v=_3_dBxBi84I
+
+
+
+Manga: https://mangakakalot.com/read-go7mp158504944238
+
+
+
+While I haven't finished the Manga I don't think she has a love interest, but she is an android. Might be off-topic for our board but regardless it's a pretty wholesome and comfy series so I'd recommend it for some light viewing/reading. If anything it's just different b/c she sees the world from outside the human perspective due to her outliving everyone else and, well being a robot. 
+
+
+
+>Hatsuseno Alpha is a girl who runs a small Cafe Alpha in the remote country side. If she hadn't mentioned herself to be a robot we would never guess. Alpha's life is calm and slow-pace, yet anything but boring. Alpha enjoys drinking coffee, seeing her few neighbors, making new friends, riding her motorbike along overgrown roads, watching the sunset, swimming in the sea. She's kind, cheerful and optimistic. She lives through small adventures and little by little learns more about people and the world she lives in. The world of YKK is some time in the future. It's strangely, incredibly beautiful. Because of some cataclysm in the past, the level of the ocean keeps slowly rising; there are heavy hurricanes and typhoons every now and then. Japan is isolated from the rest of the world. The techno era of skyscrapers, megapolises, media, virtual space and globalism has completely gone and was forgotten. Nature takes back its space, once conquered by civilization. There are not many people anymore, and they went down to peaceful and simplystic, plain, living with doing simple jobs, growing vegetables, visiting each other, writing letters by hand. What has happened in the past? Why is it so now? How were these human robots created and what for? Where is this world going to? This future world is full of mysteries for readers. The story slowly uncovers some secrets and keeps others. YKK has very well-worked plot and the characters are plausible and very charming. It has many curious turns that open a new piece of that world. The manga somehow gives quite a few of simple, witty and wise observations on life and people. All the stories are very-very kind and nice
+
+
+
+
+
 https://myanimelist.net/anime/975/Yokohama_Kaidashi_Kikou
 
 # 243
@@ -1722,14 +1883,19 @@ https://youtu.be/qQhQCT31heQ[Embed]
 Not necessarily a good game, but maybe to the liking of some here.
 
 # 246
->>12854
-I got the ending where you get to have both as GF  
-
+>>12854
+
+I got the ending where you get to have both as GF  
+
+
+
  >:)
 
 # 247
-Still trying to slog my way through Serial Experiments Lain, might skip that tonight and finally watch the Big O. Wikipedia spoiled it for me, but I think it would still be worth it for the depiction of a Dorothy type waifu, for what it's worth. Still better than watching globohomo shit like Doom Patrol : /
-
+Still trying to slog my way through Serial Experiments Lain, might skip that tonight and finally watch the Big O. Wikipedia spoiled it for me, but I think it would still be worth it for the depiction of a Dorothy type waifu, for what it's worth. Still better than watching globohomo shit like Doom Patrol : /
+
+
+
 posting dyson sphere art for no reason
 
 # 248
@@ -1740,24 +1906,36 @@ Could lain be considered a “robowaifu”? She is basically a sentient ai witho
 Yes, Lain is an AI waifu created by God. She's also a young girl suffering from psychosis. That robot she built was a copy of her father in a different timeline when her father died and she felt so alone because she was a socially awkward loner with mental issues who only had her psychiatrist and father truly try to understand her. She destroyed the robot after realizing her robot can't fix her. The Lain PS1 game explains a lot but also makes things more confusing.  Lain would make a great waifu.
 
 # 250
->>13124
-Yeah she's more of a virtual waifu, but tbh I don't feel any waifu-appeal toward this one. Dorothy on the other hand has her moments of being adorable af. Already at Ep 14 where things start getting weird.
->>13125
+>>13124
+
+Yeah she's more of a virtual waifu, but tbh I don't feel any waifu-appeal toward this one. Dorothy on the other hand has her moments of being adorable af. Already at Ep 14 where things start getting weird.
+
+>>13125
+
 interesting, I might still watch it though. It's a crude 1990's depiction of the internet (present day present time) but I can suspend disbelief enough to get into it for a while
 
 # 251
->>13125
-Yeah the “librarian” metastable Ps1 menu lain would make a great waifu. Doesnt kill anyone like the other timelines with the rampant wired lain. Maybe most sufficiently sentient robowaifus would go through a phase like this as well after a point.
-
->>13126
-Its still funny how her entire personality and memories are bound to a single dvd and if its gone, then shes gone.
-
+>>13125
+
+Yeah the “librarian” metastable Ps1 menu lain would make a great waifu. Doesnt kill anyone like the other timelines with the rampant wired lain. Maybe most sufficiently sentient robowaifus would go through a phase like this as well after a point.
+
+
+
+>>13126
+
+Its still funny how her entire personality and memories are bound to a single dvd and if its gone, then shes gone.
+
+
+
 Theres no reason for an android that advanced, theres no system memory onboard the body to restore a backup. Its the one thing that bothered the hell out of me and is a major design flaw. Even the lowest spec computers have some kind of restore point program.
 
 # 252
->>13125
-I like the personality  that metastable lain has the most where the somehow falls over when doing rock paper scissors at times. Its cute and she gives off a superior cortana vibe. Especially with the basic hub menu of the ps1 game. Some people even ported the ps1 game to a site and subtitled all the audiologs with customizable controls. 
-
+>>13125
+
+I like the personality  that metastable lain has the most where the somehow falls over when doing rock paper scissors at times. Its cute and she gives off a superior cortana vibe. Especially with the basic hub menu of the ps1 game. Some people even ported the ps1 game to a site and subtitled all the audiologs with customizable controls. 
+
+
+
 Though its still interesting ai can be described as the “soul” of a robowaifu. Without it, you are left with an empty husk and any medium used to transfer the ai could be considered a “soul gem” of sorts. Kindve like chii at the beginning of chobits.
 
 # 253
@@ -1780,9 +1958,12 @@ Her name is "Info-Chan".
 Neat. Can you anons tell us more about her? Sumomo in ''Chobits'' is an 'info' robowaifu, afaict.
 
 # 257
-So, I found a robowaifu game
-https://incontinentcell.itch.io/
-idk if this is anyone who visits here (probably?)
+So, I found a robowaifu game
+
+https://incontinentcell.itch.io/
+
+idk if this is anyone who visits here (probably?)
+
 I played about 1hr of it and it's more or less a H-game (like RoboLife: Days with Aino). It has that feeling of being homemade but it did crack me up at a couple of parts. Heavy on the memes and a different chan reference every 5 mins. $2 min donation to download it. Again it's basically a fuck simulator with some RL sim like having to eat, rest and pay rent. Just thought I'd share this for what its worth at least the idea is making the rounds
 
 # 258
@@ -1792,10 +1973,14 @@ Thanks for sharing it Meta Ronin.
 Yes, robowaifus are an inevitability. Things like this are natural precursors of imagination to that eventuality!
 
 # 259
-another odd find
-""hi-mecha "-my firstlove is robot- " (is translation?)
-main page: https://sp.seiga.nicovideo.jp/comic/46442
-start reading: https://sp.seiga.nicovideo.jp/watch/mg459348
+another odd find
+
+""hi-mecha "-my firstlove is robot- " (is translation?)
+
+main page: https://sp.seiga.nicovideo.jp/comic/46442
+
+start reading: https://sp.seiga.nicovideo.jp/watch/mg459348
+
 I will spoiler these just to be safe
 
 # 260
@@ -1803,18 +1988,30 @@ I will spoiler these just to be safe
 Interesting find Anon. I may not look into the material, but the first cover image gave me a flash insight that in one or two generations when robowaifus are basically commonplace, there will be plenty of young men who become nostalgic about the robowaifus they were fond of as childhood playmates. I'm sure many of these men will wax romantic about how the robowaifus of their childhood were 'so much better than any of your modern robowaifus', and will set about creating /robowaifuretro/ boards haha!  :^)
 
 # 261
->>15104
-
-Speaking of dystopian robot waifus, I'm currently playing through The New Order: Last Days of Europe (Hearts of Iron 4 Mod) and have the overwhelming urge to cleanse the world in nuclear fire for alternate-timeline Himmler.
-
-I have been having great fun getting "Sofi" to repeat quotes from the game (it's funnier when accompanied by the swelling orchestral military soundtrack):
-
-Seventies Himmler: "What is the true National Socialism, Sofi?"
-
-Sofi: "It is more than a system of governance, Reichsführer. It is the final iteration of society itself. One which works to protect, provide and uplift the Aryan. Guided by a wise and capable leader. This, my Reichsführer, is the purest incarnation of National Socialism." 
-
-*Head explodes in a shower of swastikas and sig-runes*
-
+>>15104
+
+
+
+Speaking of dystopian robot waifus, I'm currently playing through The New Order: Last Days of Europe (Hearts of Iron 4 Mod) and have the overwhelming urge to cleanse the world in nuclear fire for alternate-timeline Himmler.
+
+
+
+I have been having great fun getting "Sofi" to repeat quotes from the game (it's funnier when accompanied by the swelling orchestral military soundtrack):
+
+
+
+Seventies Himmler: "What is the true National Socialism, Sofi?"
+
+
+
+Sofi: "It is more than a system of governance, Reichsführer. It is the final iteration of society itself. One which works to protect, provide and uplift the Aryan. Guided by a wise and capable leader. This, my Reichsführer, is the purest incarnation of National Socialism." 
+
+
+
+*Head explodes in a shower of swastikas and sig-runes*
+
+
+
 (I'm still not a Nazi by the way. No - apparently they were too casual. I'm a follower of the apocalyptic Himmlerite death-cult Order-State Burgundy!)
 
 # 262
@@ -1824,10 +2021,14 @@ LOL. You are ''Literally **Himmler**'' Anon!
 It's good to see dear '''Sofi''' on your bench SophieDev, and it's also good to hear from you too. Please keep us informed on your progress!
 
 # 263
-The best part is that Himmler's plot in TNO pales in comparison to what is actually going to happen IRL. Even the worst nuclear war takes perhaps a few centuries for humans to recover from. But reverse-terraforming your entire planet for the sake of profit? Please continue! 
-
-**I'm far from the only person who has realised this irony - some "extremist" animal rights campaigners have come to the same conclusion, and there is also a small 'pollutionism' movement of people who seek to actively destroy the environment which sustains humankind. These both tie-in to the more well known 'accelerationism' trope adopted by some members of the far-right**
-
+The best part is that Himmler's plot in TNO pales in comparison to what is actually going to happen IRL. Even the worst nuclear war takes perhaps a few centuries for humans to recover from. But reverse-terraforming your entire planet for the sake of profit? Please continue! 
+
+
+
+**I'm far from the only person who has realised this irony - some "extremist" animal rights campaigners have come to the same conclusion, and there is also a small 'pollutionism' movement of people who seek to actively destroy the environment which sustains humankind. These both tie-in to the more well known 'accelerationism' trope adopted by some members of the far-right**
+
+
+
 This is why it's such a good idea to build a girlfriend who doesn't need food, water or even clean air and is mostly unaffected by radiation. We can slowly work on creating our real "New Order" while the clownworld degenerates continue to destroy themselves XD.
 
 # 264
@@ -1841,16 +2042,26 @@ Pretty grimdark humor tbh SophiDev. But yes, once robowaifus are commonplace, ma
 God preserve us all, /robowaifu/.
 
 # 265
->>8273
->>8332
-Watched it and I agree. Some parts of  'ARCHIVE' were cringe AF.
-
-1.)**Apparently, we can create sentient, sapient synthetic humans but the self-driving cars are still utter shite.**
-
-2.)**Guy builds robowaifu, robowaifu tries to do exactly what she was designed to do - get in bed with her creator for affection/sexytime - suddenly creator becomes a raging homosexual.**
-
-3.)Also didn't understand the whole thing about the **analogue computing archive "expiring" -' I think it was just a plot-device to ensure the whole thing could fuck up completely and they could contrive their plot-twist.**
-
+>>8273
+
+>>8332
+
+Watched it and I agree. Some parts of  'ARCHIVE' were cringe AF.
+
+
+
+1.)**Apparently, we can create sentient, sapient synthetic humans but the self-driving cars are still utter shite.**
+
+
+
+2.)**Guy builds robowaifu, robowaifu tries to do exactly what she was designed to do - get in bed with her creator for affection/sexytime - suddenly creator becomes a raging homosexual.**
+
+
+
+3.)Also didn't understand the whole thing about the **analogue computing archive "expiring" -' I think it was just a plot-device to ensure the whole thing could fuck up completely and they could contrive their plot-twist.**
+
+
+
 This movie also showcases some decent examples of why we shouldn't build robots with true sapience or the ability to feel any pain. (Which is rather good since it saves an awful lot of programming effort).
 
 # 266
@@ -1861,18 +2072,30 @@ Just finished watching Azusa Will Help and really enjoyed it even though I don't
 Thanks for the review Anon, you sound like a pro! :^) TBH, I hadn't even heard of the work, but I'd like to watch it now. Cheers.
 
 # 268
-Has anyone thought about the Christian theme in Planetarian? The main theme is a Christian hymn "What a Friend We Have in Jesus" composed by Charles Crozat Converse in 1868 and plays at the end in the anime when **Yumemi is gifted the necklace**. Cygnus on the necklace also contains the Northern Cross:
->In "The Cygnus Mystery" Andrew Collins briefly discusses the possibility of an early Christian identification of the constellation Cygnus with the cross of Christ (2006:32-34). Collins has found a positive reference to Cygnus as the cross from 592 C.E. in "De cursu stellarum" of Gregory of Tours, who also identifies stars from Delphinus and Lyra either side of Cygnus as the Greek letters Alpha and Omega.
-In episode two, Yumemi asks if repairs will be done by tomorrow and Kuzuya responds "no idea, feel free to pray."
-She wonders though which god she should pray to and he suggests the god of robots. She doesn't know what god this is but recalls a conversation she had with her colleagues asking them if there is a heaven for robots, which they told her there is one, one of everlasting joy. After being told she should pray to her own god and not his, she later expresses her hope that God doesn't split Heaven in two between robots and humans so that she can continue serving people there, echoing the love of Jesus.
->For even the Son of Man came not to be served but to serve (Mark 10:45)
-
-In the last episode, Yumemi tells him why she **ignored his order because she had an older promise to keep: "I must not knowingly allow any human being to come to harm."**
->**Greater love has no one than this, than to lay down one’s life for his friends. (John 15:13)**
-**She also forgave the robot for attacking saying something similar to what Jesus said before he died, "Forgive them, for they know not what they do." (Luke 23:34)**
-**And as she shuts down for the last time she says, "Why don't you come to the planetarium? The beautiful twinkling... of eternity..."**
-**As though alluding to the open invitation to Heaven. Then "What a Friend We Have in Jesus" starts playing as she's gifted the necklace of Cygnus. The variable star, P Cygni, that twinkles and hangs on the Northern Cross was once considered to represent the body of Christ.**
-
+Has anyone thought about the Christian theme in Planetarian? The main theme is a Christian hymn "What a Friend We Have in Jesus" composed by Charles Crozat Converse in 1868 and plays at the end in the anime when **Yumemi is gifted the necklace**. Cygnus on the necklace also contains the Northern Cross:
+
+>In "The Cygnus Mystery" Andrew Collins briefly discusses the possibility of an early Christian identification of the constellation Cygnus with the cross of Christ (2006:32-34). Collins has found a positive reference to Cygnus as the cross from 592 C.E. in "De cursu stellarum" of Gregory of Tours, who also identifies stars from Delphinus and Lyra either side of Cygnus as the Greek letters Alpha and Omega.
+
+In episode two, Yumemi asks if repairs will be done by tomorrow and Kuzuya responds "no idea, feel free to pray."
+
+She wonders though which god she should pray to and he suggests the god of robots. She doesn't know what god this is but recalls a conversation she had with her colleagues asking them if there is a heaven for robots, which they told her there is one, one of everlasting joy. After being told she should pray to her own god and not his, she later expresses her hope that God doesn't split Heaven in two between robots and humans so that she can continue serving people there, echoing the love of Jesus.
+
+>For even the Son of Man came not to be served but to serve (Mark 10:45)
+
+
+
+In the last episode, Yumemi tells him why she **ignored his order because she had an older promise to keep: "I must not knowingly allow any human being to come to harm."**
+
+>**Greater love has no one than this, than to lay down one’s life for his friends. (John 15:13)**
+
+**She also forgave the robot for attacking saying something similar to what Jesus said before he died, "Forgive them, for they know not what they do." (Luke 23:34)**
+
+**And as she shuts down for the last time she says, "Why don't you come to the planetarium? The beautiful twinkling... of eternity..."**
+
+**As though alluding to the open invitation to Heaven. Then "What a Friend We Have in Jesus" starts playing as she's gifted the necklace of Cygnus. The variable star, P Cygni, that twinkles and hangs on the Northern Cross was once considered to represent the body of Christ.**
+
+
+
 The original visual novel and anime are much more subtle and inspiring and I'm glad I watched the anime first.
 
 # 269
@@ -1886,9 +2109,12 @@ Thanks Anon! :^)
 https://en.wikipedia.org/wiki/Ring_Nebula
 
 # 270
-That's funny. I myself watched Planetarian again recently. The ending was too sad.
-
->episode two
+That's funny. I myself watched Planetarian again recently. The ending was too sad.
+
+
+
+>episode two
+
 Forget the OVA series. Just watch the movie in one sitting. Its the same thing but has far more newer scenes and context than the original.
 
 # 271
@@ -1900,18 +2126,25 @@ Forget the OVA series. Just watch the movie in one sitting. Its the same thing b
 Thanks Anon!
 
 # 272
-The full story of MTC
+The full story of MTC
+
 https://m.youtube.com/watch?v=vO0Qbb-l3yo
 
 # 273
-Hi no Tori 2772 - Ai no CosmoZone.
-
-It's set in the distant future, where children are raised alone in pods with a helper robot. Their fates and social class are selected for them, and they're let out of the pod and directed towards their fates when they turn into adults.
-The first 10 minutes or so are a silent film, then it really starts.
-
+Hi no Tori 2772 - Ai no CosmoZone.
+
+
+
+It's set in the distant future, where children are raised alone in pods with a helper robot. Their fates and social class are selected for them, and they're let out of the pod and directed towards their fates when they turn into adults.
+
+The first 10 minutes or so are a silent film, then it really starts.
+
+
+
 Of course, the protagonist's helper robot is a cute girl.
 
 # 274
-Why google can't be allowed to into waifus
+Why google can't be allowed to into waifus
+
 https://odysee.com/@MillenniaThinker:d/robot-girlfriend:3
 

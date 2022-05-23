@@ -39,7 +39,8 @@ requests:
 -3rd one, can you make May easier to see? Too dark. Also, the /robowaifu/ could be a little more visible.
 
 # 10
->>2548
+>>2548
+
 How's this?
 
 # 11
@@ -62,7 +63,8 @@ Haha, great stuff Anon.
 BTW, I realize that my requests may create a spot of bother to do. If so, then I'll just use them as-is Anon, they are all good enough now.
 
 # 15
->>2776
+>>2776
+
 I tried but I couldn't make it look good on the other two.
 
 # 16
@@ -84,7 +86,8 @@ https://fontzone.net/font-details/xband-rough
 I'm asking just b-because of a science project is all...
 
 # 19
->>3226
+>>3226
+
 No idea, I used a different font and edited it to look similar.
 
 # 20
@@ -102,8 +105,10 @@ Thanks Anon, done.
 I like it, but our byline is so lengthy it's like reading for ants. What do you think about reversing the size priority Anon? Maybe 3 full lines for the byline with /ROBOWAIFU/ down in the corner maybe?
 
 # 24
->>4938
-I screwd the resolution on that one. Also made the text a lil bigger.
+>>4938
+
+I screwd the resolution on that one. Also made the text a lil bigger.
+
 **Sorry for double-posting so much, BO.**
 
 # 25
@@ -130,7 +135,8 @@ GITS-inspired
 Lovely. Both done.
 
 # 30
->>5095
+>>5095
+
 I make more than one version so you can choose the one you like better. Don't feel obligated to use all the versions. **Just so you know :^)**
 
 # 31
@@ -141,7 +147,8 @@ Thank you. They're both good though.
 From >>5109
 
 # 33
->>5114
+>>5114
+
 Alt version just because.
 
 # 34
@@ -150,7 +157,8 @@ Alt version just because.
 I really like them, but I see one minor issue. With the massive presence of the huge bold 'industry' font, the /robowaifu/ board tag seems almost redundant-looking at that scale. Any chance of scaling the tag down by at least half and using a thin font as well? I think it might look a little better that way.
 
 # 35
->>5129
+>>5129
+
 You're right. But, to tell the truth, I don't like the presence of the ロ in this logo/banner. I mean, it serves as parody for the Toua Heavy Industry's logo but not so much for Mitsubishi's. I will try to come up with a MHI's logo parody and give it another try **(or not :^)**.
 
 # 36
@@ -158,7 +166,8 @@ You're right. But, to tell the truth, I don't like the presence of the ロ in th
 Heh, that's fine. I'll certainly honor your decision in the matter, but I actually rather like the idea basically and hope you find a design you like. I like both the color schemes as well tbh. :^)
 
 # 37
-Dunno if it's any better, but here it is :P
+Dunno if it's any better, but here it is :P
+
 **I don't like it 'cause it doesn't have any meaning, unlike the mitsubishi mon**
 
 # 38
@@ -166,9 +175,12 @@ Dunno if it's any better, but here it is :P
 can you go ahead and riff on the 3-gears motif a little? i like it and i think you might be able to find something suitable there tbh.
 
 # 39
-Safety first, lads :^)
-
->>5229
+Safety first, lads :^)
+
+
+
+>>5229
+
 Could you be more specific, anon?
 
 # 40
@@ -188,8 +200,10 @@ I just think some motif with 3 gears is really well-aligned with the general not
 Also, the 'Heavy Industries' parody is top-gear IMO, so yea.
 
 # 42
-It's been a long time. Hi guys. Hey Chobitsu. Found my way back here somehow (I don't remember how really) and decided to fix up my old banner a little bit. With that, I think I'm gonna go back to doing nothing and wasting away now. It was nice to see this place still around.
-
+It's been a long time. Hi guys. Hey Chobitsu. Found my way back here somehow (I don't remember how really) and decided to fix up my old banner a little bit. With that, I think I'm gonna go back to doing nothing and wasting away now. It was nice to see this place still around.
+
+
+
 btw nice banners everyone
 
 # 43
@@ -207,13 +221,20 @@ BTW, do you still have your account on nuJulay? If you'd like to just put a capc
 Done.
 
 # 45
->>6291
-Ayy lmao. When's the birthday? Someone could get a robowaifu themed cake and take pictures or something.
->sounds like you're a little down
-Yeah I have my ups and downs.
->We've actually made some solid progress in the past year. Anons have made some working AI and full-body robowaifu prototypes.
-Then I think I'll stay and lurk and post a bit. This place is super comfy anyway.
->BTW, do you still have your account on nuJulay?
+>>6291
+
+Ayy lmao. When's the birthday? Someone could get a robowaifu themed cake and take pictures or something.
+
+>sounds like you're a little down
+
+Yeah I have my ups and downs.
+
+>We've actually made some solid progress in the past year. Anons have made some working AI and full-body robowaifu prototypes.
+
+Then I think I'll stay and lurk and post a bit. This place is super comfy anyway.
+
+>BTW, do you still have your account on nuJulay?
+
 I have no clue, I signed in like once (on julayworld) after I retired, but I have no idea if my account got migrated onto the new site. I suppose I could check later today or something.
 
 # 46
@@ -231,10 +252,14 @@ It's ''my'' favorite spot heh. :^)
 You did a great job at the helm, and should anything happens to me **again :^)** I've asked Robi to pick a leaders from the vols. I'll move you to the front of the list if you'd like to be a part again here mate.
 
 # 47
->>6298
->You did a great job at the helm
-You're probably the only one who thinks that due to some retarded shitstorm that some idiot decided to stir up shortly before I retired. But thanks, it wasn't fucking fun that's for sure, lmao
->I'll move you to the front of the list if you'd like to be a part again here mate.
+>>6298
+
+>You did a great job at the helm
+
+You're probably the only one who thinks that due to some retarded shitstorm that some idiot decided to stir up shortly before I retired. But thanks, it wasn't fucking fun that's for sure, lmao
+
+>I'll move you to the front of the list if you'd like to be a part again here mate.
+
 I don't know. Modding is a shit job. If I ever go back to doing it, I'm in no hurry to.
 
 # 48
@@ -244,7 +269,8 @@ Heh, fair enough. If I GAF about what other people think I never would have star
 Regardless, welcome back Euphoria. Look forward to having you here again.
 
 # 49
->>6303
+>>6303
+
 Just decided to check out of curiosity and see if my account got transferred, it didn't. Honestly, it's for the better, I don't want to do it for free anymore. You've probably got moderation handled anyway. Good luck with the board.
 
 # 50
@@ -264,7 +290,8 @@ sure, i'll try to get to that soonish anon.
 lmfao
 
 # 54
->>6686
+>>6686
+
 Those are smoll tetten m8, it wouldn't bounce as nicely compared to a gal with big tetten.
 
 # 55
@@ -292,9 +319,12 @@ There are some others not currently in rotation ofc, but that's the bulk of it.
 Cute. Our friends at /clang/ might like that one Anon.
 
 # 62
->>6691
-I like my tetten small. It takes a very big brain and a very high IQ to appreciate the small, proportional boobies and the delicious flat chest. :^)
->>6698
+>>6691
+
+I like my tetten small. It takes a very big brain and a very high IQ to appreciate the small, proportional boobies and the delicious flat chest. :^)
+
+>>6698
+
 But I made it for us. I don't use 8kun.
 
 # 63
@@ -308,10 +338,14 @@ Give it another try and let's see what you come up with Anon. :^)
 Don't rightly blame you for that, heh. We have a friendship with /clang/ pre-dating 8kun.
 
 # 64
->>6707
->I see. Well, it needs a /robowaifu/ tag somewhere. Also, we're not a sexdoll forum. There's a reason we're named /robowaifu/, not /sexdoll/.
-I didn't think the banner implied in any way that we are a sex doll board.
->Cute and saucy innuendo is fine, but I would prefer our banners be somewhat less blatant. The 'boobs' bit, yea?
+>>6707
+
+>I see. Well, it needs a /robowaifu/ tag somewhere. Also, we're not a sexdoll forum. There's a reason we're named /robowaifu/, not /sexdoll/.
+
+I didn't think the banner implied in any way that we are a sex doll board.
+
+>Cute and saucy innuendo is fine, but I would prefer our banners be somewhat less blatant. The 'boobs' bit, yea?
+
 I've been using /geimu/ a lot more lately and laughed my ass off at a game that was posted there with that "featuring BOUNCIN' BOOBS technology" sticker on it. The whole joke was the amusing nature of the sticker, so I whipped up that banner real fast for a laugh. If you don't actually want to use it, it's fine I just think it's funny. You can visit /geimu/ for context if you want.
 
 # 65
@@ -330,7 +364,8 @@ Decided to fix an old banner someone made of me talking to Mitsuku
 Think you can darken up the perimeter shadow on the /robowaifu/ tag Anon? I think that might make it a bit more readable.
 
 # 69
->>7295
+>>7295
+
 Best I can do
 
 # 70
@@ -379,7 +414,8 @@ Glad to see you getting creative Anon. B2 is a queen among robowaifus. Are you p
 I'll drop some quotes/pictures that could make some okay banners. But you'd have to edit them yourself.
 
 # 76
->>9619
+>>9619
+
 I'd like to refine these some more. I wanted to at least post something, more to come. Working on Chobits theme too. For now here are a couple non-banner ads which could be modified with whatever slogan or tagline
 
 # 77
@@ -402,11 +438,13 @@ Any chance you could have another go at these Anon? Maybe with a different font 
 That's cute. Sauce?
 
 # 81
->>9649
+>>9649
+
 its a "circuit" font and would look better with the leading adjusted wider. Personally I like the lavender hue with 2B, but I am working on a few other takes. Spent over an hour searching for and downloading new fonts as I'm on a whole new rig and lost my last HD.
 
 # 82
->>9649
+>>9649
+
 to be truer to the GAME however I can adjust that to be red in another edit
 
 # 83
@@ -430,7 +468,8 @@ Done.
 Eve counts - I'll get back to 2B in a little while
 
 # 86
-is this more along the lines of what you were envisioning for 2B?
+is this more along the lines of what you were envisioning for 2B?
+
 (sorry took me 3 tries to get the right size lol)
 
 # 87
@@ -441,8 +480,10 @@ Done.
 Yes, but if I had my preferences, I would prefer the text were a bit smaller & lower, and 2B was a bit bigger in the frame. After all, she's what we mainly want to see here, right Anon? ;)
 
 # 88
->>9717
-are we there yet?
+>>9717
+
+are we there yet?
+
 %% this is bringing me back to my days as a graphic design hack doing 20 revisions on for a client %%
 
 # 89
@@ -455,7 +496,8 @@ Hey, I already recognized it in you. :^)
 some attempts at the Chobits banner
 
 # 91
->>9737
+>>9737
+
 nice!
 
 # 92
@@ -465,7 +507,8 @@ I tend to like the burned version on the left, but I'd say it's a bit overabunda
 Maybe a bit of a easier to read tag? And please, riff on Chobits all you'd like to. There's certainly numerous recognizable robowaifus in there!
 
 # 93
->>9778
+>>9778
+
 ok, I tweaked it a little bit
 
 # 94
@@ -486,14 +529,19 @@ AFAICT ''ADEPTUS'' is masculine, was this intentional? ''ADEPTA'' would be femin
 Good idea anon! We need a separate branch to those miserable puritans! If the Mechanicus wishes to outlaw "Abominable Intelligences" as heresy, then they can go worship their corpse emperor without any robowaifus. Pah!
 
 # 98
->>10258
->was this intentional?
+>>10258
+
+>was this intentional?
+
 Yes. We are the ''Adeti''.
 
 # 99
->>10313
->''Adepti''
-
+>>10313
+
+>''Adepti''
+
+
+
 **Why TH can't I delete my posts?**
 
 # 100
@@ -544,10 +592,14 @@ Regardless, it's certainly usable atp if this is the muse you're going for Anon,
 One other point to consider Anon, if you added just the tiniest bit of glow to the board tag, it might plus it just that bit more.
 
 # 109
->>15137
->>15139
-I really appreciate it and the criticism! Doing this reminded me of making avatars and signatures on anime forums.  
-I think I made it better? I couldn't tell which looked text best. So I'm adding all three for you to choose :)
+>>15137
+
+>>15139
+
+I really appreciate it and the criticism! Doing this reminded me of making avatars and signatures on anime forums.  
+
+I think I made it better? I couldn't tell which looked text best. So I'm adding all three for you to choose :)
+
 Personally I think RoboWaifuBanner0.png does, but I'm not sure.
 
 # 110
@@ -557,7 +609,8 @@ Very nice work Anon, and y/w.
 I'm inclined to agree, it follows the color scheme a bit better. One thing you might do is compare the BG with the original one. IMO the BG is a bit ''too'' dark now. I'd suggest burning the centroid oval of the BG just a bit now. Brings back the 'Electro' theme a bit more?
 
 # 111
->>15149
+>>15149
+
 Ah yeah, that makes it feel much better
 
 # 112
@@ -566,26 +619,40 @@ Excellent. Nice work Anon.
 Done.
 
 # 113
->>5231
->So it's really dumb
-
+>>5231
+
+>So it's really dumb
+
+
+
 someone doesn't know how to appreciate a joke
 
 # 114
->>15159
+>>15159
+
 Hi anon, it would be appreciated if you would stick to the theme of the board and not necro years old threads just to start drama.
 
 # 115
->>15161
-not starting anything, just pointing something out
-
->and not necro years old threads
-the thread is and was on the first page. last post by BO himself
-
-also, >>15031
->we don't have such a thing as necro'ing here on /robowaifu/
-
-so don't start rulecucking
+>>15161
+
+not starting anything, just pointing something out
+
+
+
+>and not necro years old threads
+
+the thread is and was on the first page. last post by BO himself
+
+
+
+also, >>15031
+
+>we don't have such a thing as necro'ing here on /robowaifu/
+
+
+
+so don't start rulecucking
+
 **not sage'ing this post because there is no point**
 
 # 116
@@ -608,10 +675,14 @@ No really. We need the help of talented, motivated individuals here. If you're i
 Cheers.
 
 # 117
->>15164
->then why not lend us a hand
-did and do, since 8ch
-
+>>15164
+
+>then why not lend us a hand
+
+did and do, since 8ch
+
+
+
 had to comment on that because **I, anonymous, made that banner**
 
 # 118

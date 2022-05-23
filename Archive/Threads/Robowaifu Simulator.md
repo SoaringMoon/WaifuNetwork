@@ -52,7 +52,7 @@ Topkek.
 # 11
 >>155
 >some type of PCG solution
-<PCG
+< PCG
 I'll link this here instead of the C++ thread since it's probably more on topic here.
 
 https://www.invidio.us/watch?v=F9tGa-hbmTU
@@ -115,30 +115,54 @@ related
 [[4789
 
 # 23
-Does anyone know a good open-source game engine we could use for building a robowaifu simulation? The ones I've found so far depend on their own scripting languages which make them garbage for machine learning. It'd be useful if we could combine a physics engine with a PCB and electronics simulator. Here's some physics engines we could use:
-
-==Bullet==
-'''C++''' https://github.com/bulletphysics/bullet3
-'''Python''' https://pybullet.org/wordpress/
->Rigid body and soft body simulation with discrete and continuous collision detection
->Collision shapes include: sphere, box, cylinder, cone, convex hull using GJK, non-convex and triangle mesh
->Soft body support: cloth, rope and deformable objects
->A rich set of rigid body and soft body constraints with constraint limits and motors
->Plugins for Maya, Softimage, integrated into Houdini, Cinema 4D, LightWave 3D, Blender and Godot and import of COLLADA 1.4 physics content
-This one is designed and used for robotics. Some robotics simulations and papers using PyBullet:
-
-TossingBot: Learning to Throw Arbitrary Objects with Residual Physics
-https://www.youtube.com/watch?v=f5Zn2Up2RjQ
-
-Hierarchical Policy Design for Sample-Efficient Learning of Robot Table Tennis Through Self-Play
-Website: https://www.cs.utexas.edu/~reza/
-Paper: https://arxiv.org/pdf/1811.12927.pdf
-
-Godot 3.0 is open-source and uses Bullet for physics, but its scripting language is even slower than Python. There's a Godot fork with Tensorflow 2.0 support: https://github.com/godot-extended-libraries/godot-tensorflow-workspace
-
-==PhysX==
-'''Website''' https://developer.nvidia.com/gameworks-physx-overview
-'''Github''' https://github.com/NVIDIAGameWorks/PhysX
+Does anyone know a good open-source game engine we could use for building a robowaifu simulation? The ones I've found so far depend on their own scripting languages which make them garbage for machine learning. It'd be useful if we could combine a physics engine with a PCB and electronics simulator. Here's some physics engines we could use:
+
+
+
+==Bullet==
+
+'''C++''' https://github.com/bulletphysics/bullet3
+
+'''Python''' https://pybullet.org/wordpress/
+
+>Rigid body and soft body simulation with discrete and continuous collision detection
+
+>Collision shapes include: sphere, box, cylinder, cone, convex hull using GJK, non-convex and triangle mesh
+
+>Soft body support: cloth, rope and deformable objects
+
+>A rich set of rigid body and soft body constraints with constraint limits and motors
+
+>Plugins for Maya, Softimage, integrated into Houdini, Cinema 4D, LightWave 3D, Blender and Godot and import of COLLADA 1.4 physics content
+
+This one is designed and used for robotics. Some robotics simulations and papers using PyBullet:
+
+
+
+TossingBot: Learning to Throw Arbitrary Objects with Residual Physics
+
+https://www.youtube.com/watch?v=f5Zn2Up2RjQ
+
+
+
+Hierarchical Policy Design for Sample-Efficient Learning of Robot Table Tennis Through Self-Play
+
+Website: https://www.cs.utexas.edu/~reza/
+
+Paper: https://arxiv.org/pdf/1811.12927.pdf
+
+
+
+Godot 3.0 is open-source and uses Bullet for physics, but its scripting language is even slower than Python. There's a Godot fork with Tensorflow 2.0 support: https://github.com/godot-extended-libraries/godot-tensorflow-workspace
+
+
+
+==PhysX==
+
+'''Website''' https://developer.nvidia.com/gameworks-physx-overview
+
+'''Github''' https://github.com/NVIDIAGameWorks/PhysX
+
 >It supports rigid body dynamics, soft body dynamics (like cloth simulation, including tearing and pressurized cloth), ragdolls and character controllers, vehicle dynamics, particles and volumetric fluid simulation.
 
 # 24
@@ -183,12 +207,18 @@ https://github.com/CMU-Perceptual-Computing-Lab/openpose
 https://www.invidio.us/watch?v=pW6nZXeWlGM
 
 # 29
->>1643
-Yeah, I mean like being able to simulate damaged components and electronics. Falls, vibrations and mishaps could easily cause damage and undefined behavior within a system in real world scenarios. It's probably beyond what any of us could create at the moment but maybe one day when there are lots of people working on robots somebody will make open-source software for such simulations.
-
->>1668
-Great find, anon. This is what I'm looking for. Thanks!
-
+>>1643
+
+Yeah, I mean like being able to simulate damaged components and electronics. Falls, vibrations and mishaps could easily cause damage and undefined behavior within a system in real world scenarios. It's probably beyond what any of us could create at the moment but maybe one day when there are lots of people working on robots somebody will make open-source software for such simulations.
+
+
+
+>>1668
+
+Great find, anon. This is what I'm looking for. Thanks!
+
+
+
 Once I get my robowaifu model finished I'll see if I can get a generic version rigged up in this and let everyone experiment with it.
 
 # 30
@@ -197,7 +227,8 @@ Once I get my robowaifu model finished I'll see if I can get a generic version r
 nprb anon. i'm rebuilding a box from scratch using manjaro to see if i can get it running myself.
 
 # 31
->>1672
+>>1672
+
 Just leaving a note here for the future. Once we get some test data on artificial muscles (>>1692) we can emulate them inside a simulation too.
 
 # 32
@@ -206,7 +237,8 @@ Just leaving a note here for the future. Once we get some test data on artificia
 Heh **that's what I've been doing here since the beginning anon**
 
 # 33
->>1694
+>>1694
+
 It's a bit like working on a spaceship but we're still drafting the parts.
 
 # 34
@@ -214,8 +246,10 @@ Alright, I decided to try my hand at crafting my own simulator in OpenGL using G
 https://gitlab.com/Chobitsu/muh-robowaifu-simulator
 
 # 35
->>1814
-Good luck, anon. For great justice.
+>>1814
+
+Good luck, anon. For great justice.
+
 **AR waifu simulations when?**
 
 # 36
@@ -256,7 +290,8 @@ a recent screen-capp
 >2 related
 
 # 42
->>1861
+>>1861
+
 You might want to switch over to SDL2 once you start expanding on your application, as SDL handles many more things such as sound, keyboard input, events etc. The switch from glfw to SDL is straightforward and I have done it myself. The function calls are pretty much named the same, just look up "sdl with opengl" on DuckDuckGo.
 
 # 43
@@ -278,7 +313,8 @@ Anyway, made a new push. Have a happy new year /robowaifu/.
 Added a wireframe mode and did a lot of cleanups and refactoring preparing for expansion and adding multiple windows and a rigged character.
 
 # 47
->>1893
+>>1893
+
 You probably have to enable and disable wireframe between rendering the UI elements and rendering the actual scene.
 
 # 48
@@ -289,7 +325,8 @@ I've added a fair amount of code updates, and added the ability to fly the camer
 Thanks for the tip anon.
 
 # 49
->>1899
+>>1899
+
 Good shit. Can I ask though, why you decided to write basic graphics routines and raw OpenGL yourself instead of using an engine or framework? I know all the open-source engines out there are huge balls of cruft, but minimal ones surely exist.
 
 # 50
@@ -305,11 +342,16 @@ i think that covers most of the reasons anon.
 perhaps so, but i'm not aware of them tbh.
 
 # 51
->>2017
-Fair enough. By the way, were you around for the failed/stalled waifu simulator from a few years back? We tried to do a similar thing using Urho3D. The idea was to build a small, enclosed environment, in our case the interior of a small house, and work on navigation within the space and interaction with common objects )and the user. Also kicked around speech recognition and synthesis, and using SmartBody for procedural animations.
-
->but minimal ones surely exist.
->perhaps so, but i'm not aware of them tbh.
+>>2017
+
+Fair enough. By the way, were you around for the failed/stalled waifu simulator from a few years back? We tried to do a similar thing using Urho3D. The idea was to build a small, enclosed environment, in our case the interior of a small house, and work on navigation within the space and interaction with common objects )and the user. Also kicked around speech recognition and synthesis, and using SmartBody for procedural animations.
+
+
+
+>but minimal ones surely exist.
+
+>perhaps so, but i'm not aware of them tbh.
+
 Damn. I thought you might have come across some before deciding to start from scratch. Personally, I had thought that raylib would fit the bill for my graphical projects, but it quickly turned into segfault city when I tried to build larger applications on top of the examples.
 
 # 52
@@ -357,7 +399,8 @@ https://github.com/catchorg/Catch2/blob/master/docs/tutorial.md
 https://www.gameenginebook.com/figures.html
 
 # 59
->>2046
+>>2046
+
 Why would you want to use ray tracing for rendering? That is very computationally expensive and it would give you less room to have a more elaborate waifu A.I. Or is there any recent development that gibes silky smooth 60 FPS now?
 
 # 60
@@ -367,7 +410,8 @@ It's a fair point. But the long-term goal, at least for the ''Visual Waifu'' sub
 Along with advances in both multicore CPUs, hybrid APUs, and ofc GPUs, the notion of adding raytracing to a sim isn't to difficult to envision. Along with concurrency and parallelism advances in the base C++ language, I'd estimate it will be quite feasible by the end of 2023.
 
 # 61
->>2046
+>>2046
+
 Well fuck that means it's gg no re for my toaster machine.
 
 # 62

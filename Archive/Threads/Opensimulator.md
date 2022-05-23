@@ -38,25 +38,36 @@ Thanks, but this should be moved to the simulator thread. >>155
 Curious why you're starting a new thread to promote this OP? We already have a robowaifu simulator thread.
 
 # 4
->>12066
-This reminds me of a video I saw of someone making a VRChat alternative that functions like a VR internet. People could physically hand people files, play with objects affected by physics, share pictures, open YouTube videos and do all kinds of fun shit. It reminded me of Dennou Coil in a way. People could explore other people's servers but also mix in their own stuff with it like augmented VR. If anyone knows what I'm talking about and knows the link, please post it. It was all anime too.
-
->>12070
+>>12066
+
+This reminds me of a video I saw of someone making a VRChat alternative that functions like a VR internet. People could physically hand people files, play with objects affected by physics, share pictures, open YouTube videos and do all kinds of fun shit. It reminded me of Dennou Coil in a way. People could explore other people's servers but also mix in their own stuff with it like augmented VR. If anyone knows what I'm talking about and knows the link, please post it. It was all anime too.
+
+
+
+>>12070
+
 Agreed if OP doesn't have a server that warrants its own thread.
 
 # 5
->>12076
->Agreed if OP doesn't have a server that warrants its own thread.
+>>12076
+
+>Agreed if OP doesn't have a server that warrants its own thread.
+
 I do but i feel like is not production level yet, not at least for the project, I need to make a PoC region for this. Just wanna to share .
 
 # 6
->>12073
->Curious why you're starting a new thread to promote this OP?
+>>12073
+
+>Curious why you're starting a new thread to promote this OP?
+
 I had the intention to do it in the past, but  I am bad explaining, don't want people to confuse it another simple game.
 
 # 7
->>12076
->This reminds me of a video I saw of someone making a VRChat alternative that functions like a VR internet. People could physically hand people files, play with objects affected by physics, share pictures, open YouTube videos and do all kinds of fun shit. It reminded me of Dennou Coil in a way. People could explore other people's servers but also mix in their own stuff with it like augmented VR. If anyone knows what I'm talking about and knows the link, please post it. It was all anime too
-
+>>12076
+
+>This reminds me of a video I saw of someone making a VRChat alternative that functions like a VR internet. People could physically hand people files, play with objects affected by physics, share pictures, open YouTube videos and do all kinds of fun shit. It reminded me of Dennou Coil in a way. People could explore other people's servers but also mix in their own stuff with it like augmented VR. If anyone knows what I'm talking about and knows the link, please post it. It was all anime too
+
+
+
 works exactly like that but is not VR well there are some VR viewers but they are experiments.
 

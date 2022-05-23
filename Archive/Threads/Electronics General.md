@@ -70,7 +70,8 @@ i said, i can't understand even the basics of electricity and electronics; i can
 represent
 
 # 13
->>742
+>>742
+
 Think of it like water flowing in a river.
 
 # 14
@@ -78,7 +79,8 @@ Think of it like water flowing in a river.
 Can you elaborate on that further anon?
 
 # 15
-NEETS (Navy Electricity and Electronics Training Series)
+NEETS (Navy Electricity and Electronics Training Series)
+
 https://www.fcctests.com/neets/neets.htm
 
 # 16
@@ -86,7 +88,8 @@ https://www.fcctests.com/neets/neets.htm
 Thanks anon, good stuff. Bookmarked.
 
 # 17
->>745
+>>745
+
 Electricity, like water, flows down the path of least resistance.
 
 # 18
@@ -94,7 +97,8 @@ Electricity, like water, flows down the path of least resistance.
 I guess that makes sense. Any idea how it knows to do that? Gravity doesn't work on electricity does it?
 
 # 19
->>827
+>>827
+
 It's always trying to find its way back to the Earth. Hence why everything has a ground wire/point. It's trying to find a positive charge to balance itself out. It'll always keep flowing until it finds balance.
 
 # 20
@@ -103,11 +107,16 @@ It's always trying to find its way back to the Earth. Hence why everything has a
 But just like cars, robowaifus aren't attached to the ground with a wire. How do cars or planes work?
 
 # 21
->>835
-Cars and airplanes ground to the chassis. This is why it's important that all parts of the chassis are linked together in some way so the ground is spread out equally among them. In the case of a car you'll sometimes feel a discharge of energy when you leave it. It'll feel like static shock but it's really just stored electricity in the chassis jumping to you and then into the Earth.
-
-I used to install car stereos and we'd add in after market amplifiers. Sometimes we'd install one and get this annoying hum through the speakers. It was caused by a bad ground because the chassis wasn't properly linked together. This is called a ground loop and is caused when electricity is grounded out to two different points. To solve this problem we'd have to put in a solid ground block somewhere in the chassis of the car and ensure everything was properly grounded to it using only one connection.
-
+>>835
+
+Cars and airplanes ground to the chassis. This is why it's important that all parts of the chassis are linked together in some way so the ground is spread out equally among them. In the case of a car you'll sometimes feel a discharge of energy when you leave it. It'll feel like static shock but it's really just stored electricity in the chassis jumping to you and then into the Earth.
+
+
+
+I used to install car stereos and we'd add in after market amplifiers. Sometimes we'd install one and get this annoying hum through the speakers. It was caused by a bad ground because the chassis wasn't properly linked together. This is called a ground loop and is caused when electricity is grounded out to two different points. To solve this problem we'd have to put in a solid ground block somewhere in the chassis of the car and ensure everything was properly grounded to it using only one connection.
+
+
+
 A robowaifu would have a similar set-up. You could ground everything to one block and allow her to ground herself to the Earth when she was in contact with it. You'd have to take care the everything was grounded properly not to cause problems.
 
 # 22
@@ -115,26 +124,40 @@ A robowaifu would have a similar set-up. You could ground everything to one bloc
 So, that chassis is a ground? Then electricity in a robowaifu would flow back into that? It's a little hard to understand. Also, when a plane lands is there a little lightning bolt or something when it lands?
 
 # 23
->>837
-I don't know how planes work because I've never worked or operated one but I imagine it's similar to cars. Yes, the chassis would be your ground. As long as you're not allowing energy to flow back into the circuit all is well. This is why one ground point is important. There are a lot of devices you own that use a chassis ground with no external ground that you probably aren't even aware of.
-
-You're imagining a large build up of electricity because there is no ground to Earth. The build up even in a car is minimal. The important thing is you don't want to create loops (multiple grounds to chassis) to avoid problems like I mentioned with the stereo humming.
-
-A robowaifu isn't going to require too much power to run. You'll probably be looking at 12 volts which is comparable to a car. You don't really have to worry about hard grounds to Earth unless you're looking to ground power from the mains or a lighting bolt.
-
-This video can probably explain better than I can: https://www.youtube.com/watch?v=P-W42tk-fWc
-
+>>837
+
+I don't know how planes work because I've never worked or operated one but I imagine it's similar to cars. Yes, the chassis would be your ground. As long as you're not allowing energy to flow back into the circuit all is well. This is why one ground point is important. There are a lot of devices you own that use a chassis ground with no external ground that you probably aren't even aware of.
+
+
+
+You're imagining a large build up of electricity because there is no ground to Earth. The build up even in a car is minimal. The important thing is you don't want to create loops (multiple grounds to chassis) to avoid problems like I mentioned with the stereo humming.
+
+
+
+A robowaifu isn't going to require too much power to run. You'll probably be looking at 12 volts which is comparable to a car. You don't really have to worry about hard grounds to Earth unless you're looking to ground power from the mains or a lighting bolt.
+
+
+
+This video can probably explain better than I can: https://www.youtube.com/watch?v=P-W42tk-fWc
+
+
+
 I'm not an expert on this subject I just know how electricity works well enough to do my own wiring, repair/build my own electronics, and work on my house without burning the place to the ground.
 
 # 24
->>838
-I see where you might be not understanding me now. I forgot to mention that while the chassis is the ground it's also connected to the battery as well. By that I mean the battery is grounded to the chassis along with the main ground wire from the rest of the electronics in the car. So by grounding to the chassis you're routing the power back to the positive terminal of your power source (in this case, the battery).
-
+>>838
+
+I see where you might be not understanding me now. I forgot to mention that while the chassis is the ground it's also connected to the battery as well. By that I mean the battery is grounded to the chassis along with the main ground wire from the rest of the electronics in the car. So by grounding to the chassis you're routing the power back to the positive terminal of your power source (in this case, the battery).
+
+
+
 A robowaifu would use a similar set-up.
 
 # 25
->>839
-*positive
+>>839
+
+*positive
+
 Negative. I need sleep. Also I should mention that using the chassis saves you wiring. It's possible to ground without it in a car but you'll be adding double the wiring.
 
 # 26
@@ -144,9 +167,12 @@ Negative. I need sleep. Also I should mention that using the chassis saves you w
 Alright thanks anon. I'll watch the video.
 
 # 27
->>841
-It's a good video. I actually learned some things I didn't know myself. Electricity isn't something to just fool around with but I'll admit to having done it and gotten zapped for my trouble multiple times. It isn't complicated or magic you just have to start working with it to understand the basics. Forget volts, amps, and ohms for the moment and just try to understand that electricity always flows in a loop down the most easy path it can find.
-
+>>841
+
+It's a good video. I actually learned some things I didn't know myself. Electricity isn't something to just fool around with but I'll admit to having done it and gotten zapped for my trouble multiple times. It isn't complicated or magic you just have to start working with it to understand the basics. Forget volts, amps, and ohms for the moment and just try to understand that electricity always flows in a loop down the most easy path it can find.
+
+
+
 Also, the video deals with AC power. A robowaifu will probably use DC power which is simpler to work with and understand. I'm thinking robowaifus will be powered by a simple battery and be recharged from the mains until something better can be worked out.
 
 # 28

@@ -1,11 +1,18 @@
 # 1
-What programming language would suit us and our waifus best? For those of us with limited experience programming, it's a daunting question.
-Would a language with a rigid structure be best?
-Do we want an object-oriented language?
-How much do ''you'' care about wether or not a given language is commonly used and widespread?
-What the fuck does all that terminology mean?
-Is LISP just a meme, or will it save us all?
-
+What programming language would suit us and our waifus best? For those of us with limited experience programming, it's a daunting question.
+
+Would a language with a rigid structure be best?
+
+Do we want an object-oriented language?
+
+How much do ''you'' care about wether or not a given language is commonly used and widespread?
+
+What the fuck does all that terminology mean?
+
+Is LISP just a meme, or will it save us all?
+
+
+
 In this thread, we will discuss these questions and more so those of us who aren't already settled into a language can find our way.
 
 # 2
@@ -22,15 +29,24 @@ Scala is probably a very good choice for a beginner as well. Kind of a mashup of
 https ://scala-lang.org/
 
 # 3
-I have minimal experience programming. I've dabbled with Python, HTML, CSS, and know very little beyond the very basics.
-That being said, I'm not afriad to go in any direction I see fit, and I work well under a steep learning curve if the topic at hand interests me.
-With that in mind, no languages are off the table as far as I'm concerned. Only problem is I have basically no fucking idea about what language I should really use.
-If it helps narrow things down, I'm not concerned with the hardware aspect of things at the moment. I'm just concerned about making the personality, and I'm looking to have her be an emergent system. The more heavy lifting I can offload to the computer, the better. I also want her scope to be easily expandable.
-For instance: let's say I've already succeeded in getting her to be fairly competent, and I want to see if I can get her to play a game to test her capability for logical reasoning. This hypothetical game is a game that I didn't program myself. I'll want to build that bridge as easily as possible.
-
-On a final note, both logical reasoning and abstraction tend to come naturally to me, but usually from weird angles.
-
->>130
+I have minimal experience programming. I've dabbled with Python, HTML, CSS, and know very little beyond the very basics.
+
+That being said, I'm not afriad to go in any direction I see fit, and I work well under a steep learning curve if the topic at hand interests me.
+
+With that in mind, no languages are off the table as far as I'm concerned. Only problem is I have basically no fucking idea about what language I should really use.
+
+If it helps narrow things down, I'm not concerned with the hardware aspect of things at the moment. I'm just concerned about making the personality, and I'm looking to have her be an emergent system. The more heavy lifting I can offload to the computer, the better. I also want her scope to be easily expandable.
+
+For instance: let's say I've already succeeded in getting her to be fairly competent, and I want to see if I can get her to play a game to test her capability for logical reasoning. This hypothetical game is a game that I didn't program myself. I'll want to build that bridge as easily as possible.
+
+
+
+On a final note, both logical reasoning and abstraction tend to come naturally to me, but usually from weird angles.
+
+
+
+>>130
+
 Kek, you posted literally right as I was finishing typing all this shit.
 
 # 4
@@ -43,9 +59,12 @@ TBH, you're dealing with a question I think every guy who wants to learn program
 AMA, but in the end you'll still be faced with the original conundrum anon: You still have to decide. This will probably means months (years?) of serious research and trial and error. You've stated that logical thinking comes easy to you, so that should ease the process for you.
 
 # 5
->>132
-I guess the two biggest questions I have for you right now are:
-1 - In regards to my previously posted concerns about expandibility, how does this play into the equation? Is C++ a good language for that, is it something that can be done with just about any language, or am I looking for something that doesn't really exist?
+>>132
+
+I guess the two biggest questions I have for you right now are:
+
+1 - In regards to my previously posted concerns about expandibility, how does this play into the equation? Is C++ a good language for that, is it something that can be done with just about any language, or am I looking for something that doesn't really exist?
+
 2 - I should have mentioned this earlier, but both of my servers use archaic architectures (Alpha64). If at all possible, I want to incorporate those into my designs. Essentially this would mean having them mostly do behind-the-scenes number crunching, and little else. Of course, I also have a modern desktop which is considerably more powerful, so it's not a matter of life or death, but the inclusion of those servers is ideal.
 
 # 6
@@ -77,14 +96,22 @@ then you're golden.
 hmm. looks like newlines don't render inside code tags. :/
 
 # 8
->>134
-Certainly food for thought.
-By "expandability" I mean: Taking a program I wrote, and making it do something that wasn't accounted for in the original code.
-As an example, let's take my general plan for developing the presently hypothetical AI.
-I will probably just have her start out as a really basic chatbot that can read large datasets. But later on, I will want her to be able to interface with other programs. This may include: playing a game, crawling the web for more data, maybe even communicating with different AIs that other anons programmed.
-I might also want her to have a graphical interface later on. I will even want her to be able to make her ''own'' programs at some point.
-One thing I will certainly want to do over time is optimize and adjust the way she parses data, and at some point have her be able to do that herself.
-
+>>134
+
+Certainly food for thought.
+
+By "expandability" I mean: Taking a program I wrote, and making it do something that wasn't accounted for in the original code.
+
+As an example, let's take my general plan for developing the presently hypothetical AI.
+
+I will probably just have her start out as a really basic chatbot that can read large datasets. But later on, I will want her to be able to interface with other programs. This may include: playing a game, crawling the web for more data, maybe even communicating with different AIs that other anons programmed.
+
+I might also want her to have a graphical interface later on. I will even want her to be able to make her ''own'' programs at some point.
+
+One thing I will certainly want to do over time is optimize and adjust the way she parses data, and at some point have her be able to do that herself.
+
+
+
 Of course, I won't be jumping straight into all that shit from the get-go like a maniac. Version 1.0 is going to be so basic that she won't even be able to count to potato. But I will want a language that makes the process of adding random shit like that as easy as possible.
 
 # 9
@@ -107,11 +134,16 @@ Also BTW
 **Nano best gril**
 
 # 11
->>137
-When I said "easy", I wasn't really thinking my words through. I apologize.
-What I really meant was that I want a language that's built to do the kind of shit I described, as opposed to something super rigid or limited that I'd have to use fucky workarounds with.
-
-Also, I briefly spoke with one of my professors earlier today about it (though not in so much detail).
+>>137
+
+When I said "easy", I wasn't really thinking my words through. I apologize.
+
+What I really meant was that I want a language that's built to do the kind of shit I described, as opposed to something super rigid or limited that I'd have to use fucky workarounds with.
+
+
+
+Also, I briefly spoke with one of my professors earlier today about it (though not in so much detail).
+
 His recommendations were: C++, R, or Clojure. He also mentioned another language I can't remember the name of that's supposed to be C++ on steroids or something.
 
 # 12
@@ -129,10 +161,14 @@ Wouldn't be a bad choice, if rather esoteric. Scala has most of the good things 
 Hmm, can't say I've ever heard of that. C++ literally ''is'' pure steroids, almost by definition.
 
 # 13
->>145
-**I really wish we had more than just three people here, it's hard to get fired up in a ghost town**
-I already have a somewhat abstract plan of attack. Study a language, make a bunch of tiny programs and fuck around with features as I do so, study existing examples of AI, make note of interesting things, repeat ad nauseam until I get to the point where I feel like I can write something basic that is only 99% terrible, and build up from there. I have no delusions of this being any less impossibly difficult and time consuming than I'm imagining.
-At this point, as far as I'm concerned, it's a choice between C++ or Clojure. I'll sleep on it and make my choice in the morning. Whatever I choose, I'll shell out some shekels for a few books and just get into it.
+>>145
+
+**I really wish we had more than just three people here, it's hard to get fired up in a ghost town**
+
+I already have a somewhat abstract plan of attack. Study a language, make a bunch of tiny programs and fuck around with features as I do so, study existing examples of AI, make note of interesting things, repeat ad nauseam until I get to the point where I feel like I can write something basic that is only 99% terrible, and build up from there. I have no delusions of this being any less impossibly difficult and time consuming than I'm imagining.
+
+At this point, as far as I'm concerned, it's a choice between C++ or Clojure. I'll sleep on it and make my choice in the morning. Whatever I choose, I'll shell out some shekels for a few books and just get into it.
+
 If I don't force myself in a direction while there's still a fire under my ass, then it'll be a long-ass time before that fire comes again.
 
 # 14
@@ -148,10 +184,14 @@ Heh, sounds like a plan. :^)
 Yeah, it's important in life to move while you have momentum anon. Whatever you decide on, I'll try to help you to the degree I can.
 
 # 16
->>147
->>148
-The three people %% possibly 4, I don't know if you are including me. %% are loyal men to their brothers in arms. I am glad I found a small wholesome community like this where we can freely share ideas between each other without the fear of losing our jobs or being grounded by our parents.%% (^: %% I mean this in the most literal sense, I love this community. Also when you guys get time, I wanna speak about something concerning in the meta thread. 
-
+>>147
+
+>>148
+
+The three people %% possibly 4, I don't know if you are including me. %% are loyal men to their brothers in arms. I am glad I found a small wholesome community like this where we can freely share ideas between each other without the fear of losing our jobs or being grounded by our parents.%% (^: %% I mean this in the most literal sense, I love this community. Also when you guys get time, I wanna speak about something concerning in the meta thread. 
+
+
+
 Sage for off topic
 
 # 17
@@ -164,12 +204,15 @@ I plan to set up my box with Clojure and follow along with you anon, so hopefull
 lol nice
 
 # 19
->>175
+>>175
+
 I got it from /b2/ on the final days of 8chan before it was shut down. It's a little scary to think about. I guess it's kind of like reading a German news paper from early 1945...
 
 # 20
-I'm back, and I decided to go with C++.
-Clojure was certainly tempting, being a LISP dialect with full Java support and a growing corporate userbase. In the end though I coudn't deny the far superior wealth of support and documentation that already exists for C++.
+I'm back, and I decided to go with C++.
+
+Clojure was certainly tempting, being a LISP dialect with full Java support and a growing corporate userbase. In the end though I coudn't deny the far superior wealth of support and documentation that already exists for C++.
+
 Bought a guide for learning it, and a book about algorithms because I have a feeling I'll need that down the line.
 
 # 21
@@ -182,11 +225,16 @@ BTW, you'll need to figure out a good editor that you can be comfortable with so
 I hope your C++ studies work out for you anon.
 
 # 23
->>130
-This is good advice. I'd modify it slightly to say that a true novice should cut their teeth on Python (I hear that Python The Hard Way is a good primer) and then add some C on embedded systems - preferably something real-time - before touching C++. Python, "magic" and all, has the main advantage of laying down fundamental patterns of thought, and time-sensitive embedded C gets you close to the machine so that Python's abstractions won't damage long-term development. All learning consists of telling lies to small children; the trick is knowing when to take the lies away and replace them with the next, slightly less untrue set. In any case don't learn with JavaScript and definitely don't touch PHP until you have several better languages under your belt. I've observed that people who start with either of those two languages seem to suffer some kind of brain damage that carries over insufferably into other languages.
-
-Clojure is also a decent choice as a first functional language. Functional experience pays dividends in any language. I hear that "Clojure for the Brave and True" is a good primer.
-
+>>130
+
+This is good advice. I'd modify it slightly to say that a true novice should cut their teeth on Python (I hear that Python The Hard Way is a good primer) and then add some C on embedded systems - preferably something real-time - before touching C++. Python, "magic" and all, has the main advantage of laying down fundamental patterns of thought, and time-sensitive embedded C gets you close to the machine so that Python's abstractions won't damage long-term development. All learning consists of telling lies to small children; the trick is knowing when to take the lies away and replace them with the next, slightly less untrue set. In any case don't learn with JavaScript and definitely don't touch PHP until you have several better languages under your belt. I've observed that people who start with either of those two languages seem to suffer some kind of brain damage that carries over insufferably into other languages.
+
+
+
+Clojure is also a decent choice as a first functional language. Functional experience pays dividends in any language. I hear that "Clojure for the Brave and True" is a good primer.
+
+
+
 Don't neglect your tradecraft. Learn version control early. Understand how to collaborate with your future and past selves. Learn what good, disciplined thought feels and smells like and what sloppy thought feels and smells like. The Jargon File is a decent source of tips on developing your mindset, although some of it must be understood in its historical context.
 
 # 24
@@ -202,7 +250,8 @@ Anyway, thanks for the advice and the tips. That kind of post helps out here a l
 Thanks anon.
 
 # 26
->>134
+>>134
+
 Could you please tell me the browser and OS you made this post on? Thanks.
 
 # 27
@@ -214,9 +263,12 @@ Chromium derivative & Ubuntu.
 It's funny, but I keep rethinking back to your words anon, especially the "Understand how to collaborate with your future and past selves." bit. That idea is helping to guide me in how to choose better function and variable naming, how to refactor code out to stay focused in the 'inner core' of a program, and generally how to do better architecture of my stuff. Thanks for the tip anon!
 
 # 29
->>1271
-I am glad that the words helped you, but don’t thank me, Anon - thank Master Foo: http://www.catb.org/~esr/writings/unix-koans/prodigy.html
-
+>>1271
+
+I am glad that the words helped you, but don’t thank me, Anon - thank Master Foo: http://www.catb.org/~esr/writings/unix-koans/prodigy.html
+
+
+
 >“Moving in accordance with the law of nature, it unfolds inexorably in the minds of programmers, assimilating designs to its own nature. All software that would compete with it must become like to it; empty, empty, profoundly empty, perfectly void, hail!”
 
 # 30
@@ -226,34 +278,62 @@ very nice, here's one for you anon (though regrettably you'd probably have to ge
 www.goodreads.com/book/show/106728.The_Timeless_Way_of_Building
 
 # 31
-Some lisp and AI related books:
->Structure and Interpretation of Computer Programs (SICP)
-Book: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
-Lectures: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090&index=1
-
->Paradigms of Artificial Intelligence Programming
-Book and code: https://github.com/norvig/paip-lisp
-
->Practical Common Lisp
-Book and code: http://www.gigamonkeys.com/book/
-
->The Common Lisp Cookbook
-Book: https://lispcookbook.github.io/cl-cookbook/
-
->Clojure For The Brave and True
-Book: https://www.braveclojure.com/clojure-for-the-brave-and-true/
-
->>128
->Is LISP just a meme, or will it save us all? 
-Lisp is good for learning (Scheme and SICP) and it allows one to build working programs fast (Clojure and Common Lisp), in addition, lisp has been traditionally used in AI programming.
-
->How much do you care about wether or not a given language is commonly used and widespread? 
-It's important that the language...
-1) is tested and that it actually works
-2) has a community, so you can get libraries, tools, learning resources and help
-lisp (Common Lisp and Clojure), java and C++ are examples of languages that fulfill these requirements.
-
->What the fuck does all that terminology mean?
+Some lisp and AI related books:
+
+>Structure and Interpretation of Computer Programs (SICP)
+
+Book: https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book.html
+
+Lectures: https://www.youtube.com/watch?v=-J_xL4IGhJA&list=PLE18841CABEA24090&index=1
+
+
+
+>Paradigms of Artificial Intelligence Programming
+
+Book and code: https://github.com/norvig/paip-lisp
+
+
+
+>Practical Common Lisp
+
+Book and code: http://www.gigamonkeys.com/book/
+
+
+
+>The Common Lisp Cookbook
+
+Book: https://lispcookbook.github.io/cl-cookbook/
+
+
+
+>Clojure For The Brave and True
+
+Book: https://www.braveclojure.com/clojure-for-the-brave-and-true/
+
+
+
+>>128
+
+>Is LISP just a meme, or will it save us all? 
+
+Lisp is good for learning (Scheme and SICP) and it allows one to build working programs fast (Clojure and Common Lisp), in addition, lisp has been traditionally used in AI programming.
+
+
+
+>How much do you care about wether or not a given language is commonly used and widespread? 
+
+It's important that the language...
+
+1) is tested and that it actually works
+
+2) has a community, so you can get libraries, tools, learning resources and help
+
+lisp (Common Lisp and Clojure), java and C++ are examples of languages that fulfill these requirements.
+
+
+
+>What the fuck does all that terminology mean?
+
 Object-oriented programming (OOP) just means that the language support one particular way of programming. nowadays, OOP is most widely used in the industry but functional programming is gaining a lot attention lately.
 
 # 32
@@ -261,8 +341,10 @@ Object-oriented programming (OOP) just means that the language support one parti
 Thanks for the links, Lisper-Anon.
 
 # 33
-This is an open-ended question so feel free to respond with your own opinion or thoughts.
-
+This is an open-ended question so feel free to respond with your own opinion or thoughts.
+
+
+
 As I understand it, compilers are continuing to improve to the point where even very savvy coders have a hard time beating them. So if a higher level programming language still compiles to fast code, then what are some advantages of using a lower level language in the context of AI and robotics?
 
 # 34
@@ -381,16 +463,26 @@ You're welcome. Glad to have you here.
 >>6712
 
 # 48
-Here's something that might be useful. It seems to be picking up a lot of adherents. Nim
-
-https://nim-lang.org/
-
-It's supposed to be easy to use like python but has a lot of advanced features without so much complication. Some features.
-
-It has macros which can make programs rewrite themselves according to situations and is supposed to raise productivity if you know how to use them. Macros are a big deal in LISP and C++.
-
-It can compile itself or to C or javascript. It has more than one level of garbage protection and memory protection so you can dash off stuff to test then advance speed by allocating memory yourself if what you wrote works well.
-
+Here's something that might be useful. It seems to be picking up a lot of adherents. Nim
+
+
+
+https://nim-lang.org/
+
+
+
+It's supposed to be easy to use like python but has a lot of advanced features without so much complication. Some features.
+
+
+
+It has macros which can make programs rewrite themselves according to situations and is supposed to raise productivity if you know how to use them. Macros are a big deal in LISP and C++.
+
+
+
+It can compile itself or to C or javascript. It has more than one level of garbage protection and memory protection so you can dash off stuff to test then advance speed by allocating memory yourself if what you wrote works well.
+
+
+
 Seems like something easier to use than C++ and LISP but more useful than python without being so big.
 
 # 49
@@ -398,13 +490,20 @@ Seems like something easier to use than C++ and LISP but more useful than python
 Python is very common in science and education, though. It also has a lot of libraries, and speed isn't always a matter. However, I wanted to try out NIM for a while now. If it  becomes popular here, I'm quite sure I will do so.
 
 # 50
-One thing is that if we're going to have different languages interacting then the language that will make this happen is C.
-Additionally, robowaifus are cutting edge tech, so we won't be able to cut ourselves some slack with convenient off the shelf hardware and operating systems, we'll have to deal with purpose-built hardware and software which inevitably comes with odd behaviors and optimizations, and to create and make use of those knowing the theory behind assembly is required, so that when the hardware pops up an assembly programmer will already know all about memory models and vector instructions and whatnot and be able to pick up programming for this new hardware with just an instruction set listing.
-Why are soundcards cheap? Because inside them is a DSP with a native word size of 24 bits and which can only read and manipulate data in that one size, it also has weird instructions that optimize reading an array in an unusual order common in DSPs, not a full-blown ARM core that's made with many more millions of transistors providing features a soundcard will never use. 
-Similarly, the average router until recently had a MIPS CPU with no floating point unit, floats aren't relevant for router tasks.
-
-At this point the whole range of programming languages is required somewhere. Straight up machine code, compiled languages, and scripting languages.
-
+One thing is that if we're going to have different languages interacting then the language that will make this happen is C.
+
+Additionally, robowaifus are cutting edge tech, so we won't be able to cut ourselves some slack with convenient off the shelf hardware and operating systems, we'll have to deal with purpose-built hardware and software which inevitably comes with odd behaviors and optimizations, and to create and make use of those knowing the theory behind assembly is required, so that when the hardware pops up an assembly programmer will already know all about memory models and vector instructions and whatnot and be able to pick up programming for this new hardware with just an instruction set listing.
+
+Why are soundcards cheap? Because inside them is a DSP with a native word size of 24 bits and which can only read and manipulate data in that one size, it also has weird instructions that optimize reading an array in an unusual order common in DSPs, not a full-blown ARM core that's made with many more millions of transistors providing features a soundcard will never use. 
+
+Similarly, the average router until recently had a MIPS CPU with no floating point unit, floats aren't relevant for router tasks.
+
+
+
+At this point the whole range of programming languages is required somewhere. Straight up machine code, compiled languages, and scripting languages.
+
+
+
 Focus on theory, general experience, and topics related to robowaifu engineering. Whatever you know will likely be of use somewhere.
 
 # 51
@@ -464,7 +563,8 @@ Fast.ai will use Swift for Tensorflow in a few years, and already uses it in som
 I have experience in some Lisp, and will go on using it and learn more dialects. However, it always depends on the job, because of libraries and such.
 
 # 57
->>128
+>>128
+
 Probably a more advanced set of programming than what we already have with c++ and machine code with manufacturing machines to make the waifu have perception and be able to not try to punch a hole in a wall trying to reach for the remote.
 
 # 58
@@ -472,14 +572,19 @@ Probably a more advanced set of programming than what we already have with c++ a
 So, have any productive suggestions Anon, or just plying dystopic imagery here?
 
 # 59
->>12335
+>>12335
+
 You clearly don’t anon
 
 # 60
->>12329
-this isn't resolved via language but mechanical strength stepping via complex algorithm
-tl;dr there's a reason we as biological organisms have adrenaline and super strength when we are under its effects. In a clam relaxed state we are "Weaker" but this is why we don't constantly injure ourselves or break tools and utensils. This is also why we have superior fine motor coordination and dexterity relative to other primates (who have superior strength and power). 
-Our R/Ws are going to need to have different types of actuators for soft touch versus when power is needed (to lift, walk, jump, etc). Otherwise a missed line of code would result in a hole in the wall or worse a sensitive part getting pinched or ending up seriously injured. Simply put, when a R/W is in intimate mode, turn off hydraulic/strong pneumatic actuators and only run e/m servos, solenoids (with resisting springs, counterweights, etc) and nitrile fiber. When R/W has the "all clear" to do outdoor type activity, resume full power. 
+>>12329
+
+this isn't resolved via language but mechanical strength stepping via complex algorithm
+
+tl;dr there's a reason we as biological organisms have adrenaline and super strength when we are under its effects. In a clam relaxed state we are "Weaker" but this is why we don't constantly injure ourselves or break tools and utensils. This is also why we have superior fine motor coordination and dexterity relative to other primates (who have superior strength and power). 
+
+Our R/Ws are going to need to have different types of actuators for soft touch versus when power is needed (to lift, walk, jump, etc). Otherwise a missed line of code would result in a hole in the wall or worse a sensitive part getting pinched or ending up seriously injured. Simply put, when a R/W is in intimate mode, turn off hydraulic/strong pneumatic actuators and only run e/m servos, solenoids (with resisting springs, counterweights, etc) and nitrile fiber. When R/W has the "all clear" to do outdoor type activity, resume full power. 
+
 Just one example. Anyway probably belongs in the actuator thread >>12131 or another thread but I've been sitting on this concept for a while and wanted to type it out before it's lost.
 
 # 61
@@ -487,12 +592,18 @@ Just one example. Anyway probably belongs in the actuator thread >>12131 or anot
 It's a good point that we'll need multi-level forces within our robowaifus for them to work properly for us Anon
 
 # 62
-A good, actually very good alternative would be Forth
-
-https://en.wikipedia.org/wiki/Forth_(programming_language)
-
-Forth was designed when computers had very little memory or power. It's very concise and is productive in an environment where speed and close to the hardware work is needed. It's very small and fast. One of the big benefits is it is made up of words that can be combined. So once you write a routine you can use the word to preform and action. It's used for all kinds of task that demand productivity, speed and are based on limited one of kind type programming jobs or very specific hardware. Look it up I think you will be impressed.
-
+A good, actually very good alternative would be Forth
+
+
+
+https://en.wikipedia.org/wiki/Forth_(programming_language)
+
+
+
+Forth was designed when computers had very little memory or power. It's very concise and is productive in an environment where speed and close to the hardware work is needed. It's very small and fast. One of the big benefits is it is made up of words that can be combined. So once you write a routine you can use the word to preform and action. It's used for all kinds of task that demand productivity, speed and are based on limited one of kind type programming jobs or very specific hardware. Look it up I think you will be impressed.
+
+
+
 There is also a version for ESP32 microcontrollers which I think look to be some of the most powerful best cost versatile microcontrollers built today.
 
 # 63
@@ -500,24 +611,39 @@ There is also a version for ESP32 microcontrollers which I think look to be some
 Interesting. Is it low-level enough though? We'd need direct access to hardware resources via pointers to do many to the practical things we'd need to to build software for a robowaifu. I know C & C++ offer this, and I'm ''pretty'' sure that Ada and D do as well. There are probably others, but tbh there are pretty solid reasons that C & C++ absolutely dominate the systems programming world. And it's not b/c politics or power really, but that '''other''' p-word; P**ointers**.
 
 # 64
->>12951
->Interesting. Is it low-level enough though?
-
-Yes. Forth used to be, not sure now, THE language that motherboard manufacturers used to boot the computer and set up all the hardware for the OS.
-
-It was originally invented by this guy to run a big science telescope.
-
+>>12951
+
+>Interesting. Is it low-level enough though?
+
+
+
+Yes. Forth used to be, not sure now, THE language that motherboard manufacturers used to boot the computer and set up all the hardware for the OS.
+
+
+
+It was originally invented by this guy to run a big science telescope.
+
+
+
 When micro-processors had limited memory and power Forth was used a lot because it's small and very versatile.
 
 # 65
->>12951
->Pointers
-"...A compiled Forth program is a collection of words, each of which contains a statically allocated list of pointers to other words..."
-
-"...Forth programmers traditionally value complete understanding and control over the machine and their programming environment. Therefore, what Forth compilers don't do reveals something about the language and its use. Type checking, macro preprocessing, common subexpression elimination, and other traditional compiler services are feasible, but usually not included in Forth compilers. This simplicity allows Forth development systems to be small enough to fit in the on-chip ROM of an 8-bit microcontroller. On the other hand, Forth's extensibility allows "full-featured" systems to consume over 100K bytes and provide comprehensive window-based programming environments. Forth also allows (and often encourages) programmers to completely understand the entire compiler and run-time system. Forth supports extremely flexible and productive application development while making ultimate control of both the language and hardware easily attainable. ..."
-
-http://users.ece.cmu.edu/~koopman/forth/hopl.html
-
+>>12951
+
+>Pointers
+
+"...A compiled Forth program is a collection of words, each of which contains a statically allocated list of pointers to other words..."
+
+
+
+"...Forth programmers traditionally value complete understanding and control over the machine and their programming environment. Therefore, what Forth compilers don't do reveals something about the language and its use. Type checking, macro preprocessing, common subexpression elimination, and other traditional compiler services are feasible, but usually not included in Forth compilers. This simplicity allows Forth development systems to be small enough to fit in the on-chip ROM of an 8-bit microcontroller. On the other hand, Forth's extensibility allows "full-featured" systems to consume over 100K bytes and provide comprehensive window-based programming environments. Forth also allows (and often encourages) programmers to completely understand the entire compiler and run-time system. Forth supports extremely flexible and productive application development while making ultimate control of both the language and hardware easily attainable. ..."
+
+
+
+http://users.ece.cmu.edu/~koopman/forth/hopl.html
+
+
+
 Since most waifus will revolve around passing messages and reading positions you don't need any large OS. So forth is likely good for waifus.
 
 # 66
@@ -525,15 +651,21 @@ Since most waifus will revolve around passing messages and reading positions you
 Wow sounds like a pretty compelling position Anon. I'll plan to make time at some point to have a go with it. Thanks.
 
 # 67
-Here's a link to the history of forth and should give a better idea of it's strengths and weaknesses.
-
+Here's a link to the history of forth and should give a better idea of it's strengths and weaknesses.
+
+
+
 https://www.forth.com/resources/forth-programming-language/
 
 # 68
-One more forth link. It's microForth which is written in C so it's portable. If you search for microForth you get manuals.
-
-https://github.com/Earlz/microforth
-
+One more forth link. It's microForth which is written in C so it's portable. If you search for microForth you get manuals.
+
+
+
+https://github.com/Earlz/microforth
+
+
+
 This is just one there ar emany Forths because it's so small people write their own.
 
 # 69
@@ -541,18 +673,27 @@ This is just one there ar emany Forths because it's so small people write their 
 Thanks Anon I'll look into it.
 
 # 70
->>13025
-
-To be fair I need to point out some disadvantages. The way it's constructed you have to think about what you are doing. Modern languages have a ton of programs written already so a lot of it is just stringing together already written code. Forth you will write a lot of it yourself. Since it's a little different it might be harder to read and figure what's going on.
-
-My perception is that Forth is kind of like LISP, not that it's any way LISP but since it's a little different and takes some thought to  get things going people have a harder time with it. Meaning that it doesn;t grow. It's the same as comparing C++, C, Python and then HTML you have less people able to make good use of these in turn because the level of thought is a little higher in each case with HTML being much easier to grasp than C++.
-
+>>13025
+
+
+
+To be fair I need to point out some disadvantages. The way it's constructed you have to think about what you are doing. Modern languages have a ton of programs written already so a lot of it is just stringing together already written code. Forth you will write a lot of it yourself. Since it's a little different it might be harder to read and figure what's going on.
+
+
+
+My perception is that Forth is kind of like LISP, not that it's any way LISP but since it's a little different and takes some thought to  get things going people have a harder time with it. Meaning that it doesn;t grow. It's the same as comparing C++, C, Python and then HTML you have less people able to make good use of these in turn because the level of thought is a little higher in each case with HTML being much easier to grasp than C++.
+
+
+
 To end on a high note building waifus is not likely to have a lot of ready to burn code for it so Forth is a fast way to prototype and build working devices. The other languages that are easy to use like Python and Java will be too slow and C is too cryptic and liable to errors frequently.
 
 # 71
->>13027
-"Meaning that it doesn;t grow."
-
+>>13027
+
+"Meaning that it doesn;t grow."
+
+
+
 Strike that out. I have no idea even what I was trying to say there but that's not right. It happens sometimes you start a sentence thinking about one thing, stop then when you continue you don't tie it together then miss correcting it when proof reading.
 
 # 72
@@ -560,8 +701,10 @@ Strike that out. I have no idea even what I was trying to say there but that's n
 Heh, no worries Anon it's fine. We all do that. :^)
 
 # 73
-I've been a C/C++ programmer for 5 years. While the languages are excellent at low-level abstraction work, they come with a number of unignorable safety issues. A language that is designed to be safe from the ground up, can do everything C can do, and just as fast, is Rust. 
-
+I've been a C/C++ programmer for 5 years. While the languages are excellent at low-level abstraction work, they come with a number of unignorable safety issues. A language that is designed to be safe from the ground up, can do everything C can do, and just as fast, is Rust. 
+
+
+
 Rust is not easy to learn, but it has an already large and growing community with many resources.
 
 # 74
@@ -582,27 +725,42 @@ Complete, ready-to-run, command-line and script-driven programs.
 Though, the development has currently stalled: https://hackage.haskell.org/package/swish
 
 # 75
->>13847
+>>13847
+
 Did you compile in --release mode?
 
 # 76
-C and Scheme.
-C for power and speed, generally minding the machine as low level languages do.
-Scheme for simplicity, ease of use, and speed of writing the code, as well as convenience while ignoring the machine's details.
-Not that Scheme is slow or C is hard, but that is where one beats the other.
-
-These are well designed languages with standards, high quality implementations, and which are widely supported. They're also the languages used in many good books that could be used for self teaching.
-
+C and Scheme.
+
+C for power and speed, generally minding the machine as low level languages do.
+
+Scheme for simplicity, ease of use, and speed of writing the code, as well as convenience while ignoring the machine's details.
+
+Not that Scheme is slow or C is hard, but that is where one beats the other.
+
+
+
+These are well designed languages with standards, high quality implementations, and which are widely supported. They're also the languages used in many good books that could be used for self teaching.
+
+
+
 Forget jobs, forget what people use, forget what companies use, forget what has the frameworks for webshitting, forget everything else but this question: which are some good programming languages? C and Scheme tower far above all else.
 
 # 77
->>13850
->look at this ruffle code
-That's a fast and well optimized DoS resistant hash function (1). While it's not the same, you can find similar assembly with a sip hash in C at -03 (2, hashmap_sip). Ruffle is slow because it's a proof of concept and not feature complete, it says so in the readme (3). I'm not sure why you have a problem with stack pointers, is it panic unwinding the call stack? You can disable that for embedded programming (4). If you would like to learn panic-free Rust, I found a neat guide that was written for you (5).
-(1) https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md#Speed
-(2) https://github.com/tidwall/hashmap.c
-(3) https://github.com/ruffle-rs/ruffle#project-status
-(4) https://docs.rust-embedded.org/embedonomicon/smallest-no-std.html
+>>13850
+
+>look at this ruffle code
+
+That's a fast and well optimized DoS resistant hash function (1). While it's not the same, you can find similar assembly with a sip hash in C at -03 (2, hashmap_sip). Ruffle is slow because it's a proof of concept and not feature complete, it says so in the readme (3). I'm not sure why you have a problem with stack pointers, is it panic unwinding the call stack? You can disable that for embedded programming (4). If you would like to learn panic-free Rust, I found a neat guide that was written for you (5).
+
+(1) https://github.com/tkaitchuck/aHash/blob/master/compare/readme.md#Speed
+
+(2) https://github.com/tidwall/hashmap.c
+
+(3) https://github.com/ruffle-rs/ruffle#project-status
+
+(4) https://docs.rust-embedded.org/embedonomicon/smallest-no-std.html
+
 (5) https://docs.opentitan.org/doc/ug/rust_for_c/
 
 # 78
@@ -611,9 +769,12 @@ I'm another anon. I barely know anything about that stuff. I wonder what you thi
 I always wondered how good the code of such languages is and how hard it would be to update their behavior to create better code.
 
 # 79
->>13883
-why would you compile to c? you wouldnt get any performance benefit since the problem is the way the code is written, heavily abstracted languages just dont translate well compared to c, you cant just rip out the abstraction unless you were coding without it in the first place, just look at c--, its basically c yet c-- is almost always slower than c, only because idiomatic c-- is stupidly more abstract and the retard oop mentality promotes an inefficient way to write code, translating those abstractions like oop into procedural code ( which is the only real way a computer works ) is inevitably going to produce inefficiency and bloat
-you can still optimize with c in another language though, most languages have ways to call external c functions precisely for optimization, just look up "c call in (language)" people usually just write performance critical code in c, compile to an object file or shared library, and call it from from inside the program, python scripts do this all the time because of how slow python is
+>>13883
+
+why would you compile to c? you wouldnt get any performance benefit since the problem is the way the code is written, heavily abstracted languages just dont translate well compared to c, you cant just rip out the abstraction unless you were coding without it in the first place, just look at c--, its basically c yet c-- is almost always slower than c, only because idiomatic c-- is stupidly more abstract and the retard oop mentality promotes an inefficient way to write code, translating those abstractions like oop into procedural code ( which is the only real way a computer works ) is inevitably going to produce inefficiency and bloat
+
+you can still optimize with c in another language though, most languages have ways to call external c functions precisely for optimization, just look up "c call in (language)" people usually just write performance critical code in c, compile to an object file or shared library, and call it from from inside the program, python scripts do this all the time because of how slow python is
+
 you could probably go further with the optimization, I know c and c-- have inline assembly too, so you can optimize on the hardware, I dont know every language but I assume other languages would have this too or at least a way to link a custom object file during compilation or with a shared library
 
 # 80
@@ -624,12 +785,15 @@ What?!? Benefit compared to what? Do you honestly believe compiling some high le
 You lack fantasy and I'm sure this is wrong.
 
 # 81
->>13887
+>>13887
+
 Why not use Java?
 
 # 82
->>13887
-do you not know how a compiler works, all compilers just compile to assembly, theres nothing special about the c compiler its only better at optimizing only because c code is way more explicit and deterministic with the least abstraction from assembly, your giving the compiler so much information to work with that theres little guessing for the compiler, thats all code is, youre just instructing the compiler what you want to do and it figures out the assembly for it and optimizes it, the c compiler just demands more for less, higher languages do the opposite more abstraction, more implicity and less code, its easier to write but the compiler has more guesswork to fill in the blanks and figure out what youre trying to do
+>>13887
+
+do you not know how a compiler works, all compilers just compile to assembly, theres nothing special about the c compiler its only better at optimizing only because c code is way more explicit and deterministic with the least abstraction from assembly, your giving the compiler so much information to work with that theres little guessing for the compiler, thats all code is, youre just instructing the compiler what you want to do and it figures out the assembly for it and optimizes it, the c compiler just demands more for less, higher languages do the opposite more abstraction, more implicity and less code, its easier to write but the compiler has more guesswork to fill in the blanks and figure out what youre trying to do
+
 compilers for high level languages are already specialized around optimizing implicities and the guesswork required,  trying to compile an abstract language to c is just as difficult as trying to compile it to assembly, your not going to outperform the regular compiler unless you actually rewrite abstract code to be less abstract and less implicit, the only way to do that is to just use a more expressive language
 
 # 83
@@ -667,8 +831,11 @@ The other language I'd like to bring to your attention is Grakn: https://en.m.wi
 Ignore the trolling. Stay focused. Use the best tool for each job or the one you get along with.
 
 # 88
->>13958
-more like an inflatable hammer
-it looks solid and shinny, it looks useful, you start thinking about all the things you could build using that hammer
+>>13958
+
+more like an inflatable hammer
+
+it looks solid and shinny, it looks useful, you start thinking about all the things you could build using that hammer
+
 then you pick it up and realize its just full of air and utterly useless
 

@@ -14,7 +14,8 @@ Their promo shots are getting better. Also, they are adding more characters (as 
 >It's a complete botnet under Gatebox*
 
 # 4
->>248
+>>248
+
 The best shot we've got for holograms at the moment is with several layers of transparent rotating LED strips, you can see what I'm talking about on youtube if you look up "LED holograms". It wouldn't look very good unless the transparent material was immersed in a liquid that made it almost invisible through some optical trickery. There's more to a hologram than just taking a typical LCD screen and making it transparent which is what those cheap waifuboxes do.
 
 # 5
@@ -33,34 +34,59 @@ The /agdg/ community inhabiting the cakejew's /v/ board had a breddy gud wiki pu
 8agdg.wikidot.com/resources
 
 # 8
-I was going to make a thread but this one seems like a good place to put this. I don't know if any of you anons are race fans but there is a trend of going to an all digital dash in the top racing series these days. When combined with the microphones/voice controls and touch screens in modern cars there exists an easy way to take your visual waifu on the go.
-
-I'm currently in the middle of a project where I'm gutting a street car, putting in an engine that is entirely too big for it, racing seats, new ECU, and basically building a street legal race car. I'm putting in an all digital dash because I need to replace the stock cluster anyway (it won't wire up to the next ECU/engine without heavy modification). At first I was going to ditch the stock radio/touch screen because I don't like the botnet but now I'm going to re-purpose it.
-
-I've decided to build a small computer with solid state storage to hold entertainment (many GBs of Eurobeat) and other applications like weather forecasting and things of that nature. I've decided that I'll be programming a waifu/mascot for my car. She'll cheer me on as I drift the mountain passes and will be able to respond to voice commands. I'm hoping to allow the computer to control tuning the ECU on the fly so I can easily switch between race/track tune and street/cruising tune as well as slightly changing the tune to suit road conditions. I'm also going to program her to monitor the status of the car (temperatures, oil levels, optimal gear shifts etc.) and give me feedback/warnings.
-
-It's all very basic and just on paper at the moment but I'm exited to see how this turns out. I'll share it with you guys of course but if this turns out the way I'm hoping it will I'll probably look into marketing this to other weebs because I could use the cash. I'm even thinking about putting in dash/rear view cameras and having her yell at niggers that attempt to steal her. If one gets too close she'll cry Reipu/Hentai to scare them away and alert people in the area.
-
+I was going to make a thread but this one seems like a good place to put this. I don't know if any of you anons are race fans but there is a trend of going to an all digital dash in the top racing series these days. When combined with the microphones/voice controls and touch screens in modern cars there exists an easy way to take your visual waifu on the go.
+
+
+
+I'm currently in the middle of a project where I'm gutting a street car, putting in an engine that is entirely too big for it, racing seats, new ECU, and basically building a street legal race car. I'm putting in an all digital dash because I need to replace the stock cluster anyway (it won't wire up to the next ECU/engine without heavy modification). At first I was going to ditch the stock radio/touch screen because I don't like the botnet but now I'm going to re-purpose it.
+
+
+
+I've decided to build a small computer with solid state storage to hold entertainment (many GBs of Eurobeat) and other applications like weather forecasting and things of that nature. I've decided that I'll be programming a waifu/mascot for my car. She'll cheer me on as I drift the mountain passes and will be able to respond to voice commands. I'm hoping to allow the computer to control tuning the ECU on the fly so I can easily switch between race/track tune and street/cruising tune as well as slightly changing the tune to suit road conditions. I'm also going to program her to monitor the status of the car (temperatures, oil levels, optimal gear shifts etc.) and give me feedback/warnings.
+
+
+
+It's all very basic and just on paper at the moment but I'm exited to see how this turns out. I'll share it with you guys of course but if this turns out the way I'm hoping it will I'll probably look into marketing this to other weebs because I could use the cash. I'm even thinking about putting in dash/rear view cameras and having her yell at niggers that attempt to steal her. If one gets too close she'll cry Reipu/Hentai to scare them away and alert people in the area.
+
+
+
 I'll let you guys know how this comes along. I fitted the new engine and transmission in last week. I have to take the engine back out and build it plus get a body kit installed because I need to be wider tires on the car and I don't want them poking out and looking totally retarded. I won't be getting into the software for awhile yet.
 
 # 9
->>1124
-Some other things I've thought of:
->She will only start the engine if I'm sitting in the car. I'll probably do this with voice command but I may add a weight sensor. I don't like the idea of a camera on my face but I may added something to scan my face or at least my finger print. I want multiple verifications in place to make it harder for anyone to steal her
->Extending on the above: I'll give her the ability to let pre-approved people I know to drive her but only with certain tunes (race mode would be locked out for them).
->I want this to be a self contained system with no internet access but I might add the ability for her to use the internet via a phone at a later time to give her more abilities
->I'm looking into something that would project her on to the windshield itself in my FOV so I don't have to look down at the dash to admire her while I'm at speed
->I'm not an artfag so I'll need to find someone that can animate her for me. Will look into this once I have the basic software worked out
->I want her to monitor everything like tire pressure so I'll need to see if there are aftermarket sensors for this or re-purpose ones from other cars. Most car technology isn't FOSS so I might have to live without some stuff until I figure it out
->I want her to be able to interact with the passengers. I'll probably add another screen/monitor where the passenger airbag is currently located because it's coming out anyway. She'll suggest anime and video games for them to play that is stored on the local SDD
->The PC I'm building needs to be small but powerful. I'm not using a raspberry pi or similar machine for this because it simply won't be enough. I have some ideas on building a small machine that won't break under G forces and the general wear and tear that electronics will have to put up with in a race car
->I need to figure out a way for my waifu to change the ride height of the car without sacrificing stability. Right now the only thing I can think of on my budget is an airbag system but I'm worried it isn't going to work for track days. I'm going to look around to see if there is anything better on the market.
-I want everything to be FOSS and the hardware to be an close to open/free as possible. I'll be careful about what I select hardware wise. The OS I'm choosing is Gentoo to cut as much bloat as possible. It won't need to be updated very often for this application and I'll be compiling everything on another PC. I'm going to focus on getting her basic functionality and add things bit by bit after I have her animated and responding to voice commands. I'll post updates and share the software once I'm finished with it.
-
-Right now I'm focused on building the car itself. I've got it gutted and most of what I need for the engine is already here. The hard part was modifying the chassis to fit the new engine/transmission. I'm about 90% done with that. If you're wondering I'm doing an LS swap to an Scion FRS. Right now I'm just planning on keeping it NA but I might look into adding turbo or super chargers down the road. It's going to be my track car but I do plan on driving it pretty regularly on the street so it has to be able to do both without many problems.
-
-This is my first attempt at a full rebuild like this and I'm learning as I go. I've been a race car driver most of my life and I'm familiar with some mechanical work but I've never attempted a big project like this before. All my other cars were built by other people and I've been spoiled in that regard. With this car I'm doing everything on my own aside from building the engine itself. The man that built the engines for me in the past is doing this one but allowing me to shadow him as he's getting on in years and I want to learn how he works his magic.
-
+>>1124
+
+Some other things I've thought of:
+
+>She will only start the engine if I'm sitting in the car. I'll probably do this with voice command but I may add a weight sensor. I don't like the idea of a camera on my face but I may added something to scan my face or at least my finger print. I want multiple verifications in place to make it harder for anyone to steal her
+
+>Extending on the above: I'll give her the ability to let pre-approved people I know to drive her but only with certain tunes (race mode would be locked out for them).
+
+>I want this to be a self contained system with no internet access but I might add the ability for her to use the internet via a phone at a later time to give her more abilities
+
+>I'm looking into something that would project her on to the windshield itself in my FOV so I don't have to look down at the dash to admire her while I'm at speed
+
+>I'm not an artfag so I'll need to find someone that can animate her for me. Will look into this once I have the basic software worked out
+
+>I want her to monitor everything like tire pressure so I'll need to see if there are aftermarket sensors for this or re-purpose ones from other cars. Most car technology isn't FOSS so I might have to live without some stuff until I figure it out
+
+>I want her to be able to interact with the passengers. I'll probably add another screen/monitor where the passenger airbag is currently located because it's coming out anyway. She'll suggest anime and video games for them to play that is stored on the local SDD
+
+>The PC I'm building needs to be small but powerful. I'm not using a raspberry pi or similar machine for this because it simply won't be enough. I have some ideas on building a small machine that won't break under G forces and the general wear and tear that electronics will have to put up with in a race car
+
+>I need to figure out a way for my waifu to change the ride height of the car without sacrificing stability. Right now the only thing I can think of on my budget is an airbag system but I'm worried it isn't going to work for track days. I'm going to look around to see if there is anything better on the market.
+
+I want everything to be FOSS and the hardware to be an close to open/free as possible. I'll be careful about what I select hardware wise. The OS I'm choosing is Gentoo to cut as much bloat as possible. It won't need to be updated very often for this application and I'll be compiling everything on another PC. I'm going to focus on getting her basic functionality and add things bit by bit after I have her animated and responding to voice commands. I'll post updates and share the software once I'm finished with it.
+
+
+
+Right now I'm focused on building the car itself. I've got it gutted and most of what I need for the engine is already here. The hard part was modifying the chassis to fit the new engine/transmission. I'm about 90% done with that. If you're wondering I'm doing an LS swap to an Scion FRS. Right now I'm just planning on keeping it NA but I might look into adding turbo or super chargers down the road. It's going to be my track car but I do plan on driving it pretty regularly on the street so it has to be able to do both without many problems.
+
+
+
+This is my first attempt at a full rebuild like this and I'm learning as I go. I've been a race car driver most of my life and I'm familiar with some mechanical work but I've never attempted a big project like this before. All my other cars were built by other people and I've been spoiled in that regard. With this car I'm doing everything on my own aside from building the engine itself. The man that built the engines for me in the past is doing this one but allowing me to shadow him as he's getting on in years and I want to learn how he works his magic.
+
+
+
 I am familiar with programming/computers so that part I feel good about. It'll be slow going but I'm excited to have something unique and designed mostly by me in the end. I've saved up for years to be able to afford this toy. I really hope I don't wreck it like a retard once it's finished.
 
 # 10
@@ -81,10 +107,14 @@ yes, please don't!
 https://www.invidio.us/watch?v=atuFSv2bLa8
 
 # 11
->>1153
-I'll make a thread once it's further along. I don't want to just make blogposts when this is still a ways off. The plan is to build it over the next 4-5 months and that's assuming everything goes exactly as planned.
->Have you picked out a particular waifu yet?
-I want an original design. I have some ideas but nothing is set in stone yet. At this point all I know is she'll have long dark hair, blue eyes, and she'll be very cheerful. To give you an idea of the personality I more or less want /kind/ riding shotgun at all times. She'll cheer when I make perfect shifts and offer words of encouragement when I screw up. I forgot to mention it in my last post but I want to have a way for her to monitor the road/track itself and G forces so she can help me hit my marks and stay in the racing line.
+>>1153
+
+I'll make a thread once it's further along. I don't want to just make blogposts when this is still a ways off. The plan is to build it over the next 4-5 months and that's assuming everything goes exactly as planned.
+
+>Have you picked out a particular waifu yet?
+
+I want an original design. I have some ideas but nothing is set in stone yet. At this point all I know is she'll have long dark hair, blue eyes, and she'll be very cheerful. To give you an idea of the personality I more or less want /kind/ riding shotgun at all times. She'll cheer when I make perfect shifts and offer words of encouragement when I screw up. I forgot to mention it in my last post but I want to have a way for her to monitor the road/track itself and G forces so she can help me hit my marks and stay in the racing line.
+
 **I have major autism when it comes to being perfect on the track. I've been racing since I was old enough to walk. My Dad was basically the American Bunta.**
 
 # 12
@@ -101,14 +131,22 @@ so jelly tbh. :^)
 This whole idea is pretty inspiring anon. I'm going to go re-watch Initial D before long and re-imagine it with your ideas in place. Good Luck!
 
 # 13
->>1152
-Have you considered running a custom RISCV board for your hardware needs?
-
-You are going have to run your own firmware for nearly everything anyways so might as well go fully free and you can still use Gentoo.
-Might also help with the size/fragility aspect since you wouldn't be limited to the usual form factors.
-
-I wish you many enjoyable drives with your carfu.
-
+>>1152
+
+Have you considered running a custom RISCV board for your hardware needs?
+
+
+
+You are going have to run your own firmware for nearly everything anyways so might as well go fully free and you can still use Gentoo.
+
+Might also help with the size/fragility aspect since you wouldn't be limited to the usual form factors.
+
+
+
+I wish you many enjoyable drives with your carfu.
+
+
+
 Ps.What is your opinion on allowing the on board system control over steering/the brakes etc? I would normally consider it too dangerous but it might be ok if the system is air-gapped
 
 # 14
@@ -130,15 +168,18 @@ Check out vroid studio for an easy to use software for making visual waifus
 https://vroid.com/en/studio/
 
 # 17
-Just start by reading things up at
+Just start by reading things up at
+
 https://github.com/search?o=desc&q=pose+estimation&s=stars&type=Repositories
 
 # 18
-What about https://twitter.com/Crypko since those guys know what they are doing?
+What about https://twitter.com/Crypko since those guys know what they are doing?
+
 They are the makers behind https://github.com/makegirlsmoe/makegirlsmoe_web
 
 # 19
-There are visual waifu apps now. This one of Megumin uses 50 prerecorded lines to respond to spoken keywords.
+There are visual waifu apps now. This one of Megumin uses 50 prerecorded lines to respond to spoken keywords.
+
 https://www.youtube.com/watch?v=Y_oQYv9Oh0s
 
 # 20
@@ -789,13 +830,17 @@ Pretty sure that's already the case with SoCs thanks to the locked down bootload
 Well, that sounds like a real blackpill tbh. But before I buy into the "It's hopeless, just give up now!" position offhand, I'll try to do more research about this topic on my own. Thanks anyway anon.
 
 # 126
-> '''<archive ends>'''
+> '''< archive ends>'''
 
 # 127
->>4021
->Windows only
->No source code
->700~ KB only
+>>4021
+
+>Windows only
+
+>No source code
+
+>700~ KB only
+
 heh looks a bit suspicious if you ask me. How does this program hold up to a GPT2 based chatbot? >>2422
 
 # 128
@@ -817,12 +862,18 @@ https://en.wikipedia.org/wiki/Richard_Wallace_(scientist)
 I'll assume that clarifies things Anon.
 
 # 130
->>4136
-Nice research agent. From a quick glance the program performs worse than the GPT 2 based chatbot, it only good merit is that has very good performance and doesn't take about 10-30~ seconds to respond though given its size its seems to be obvious that its vocabulary capabilities is severely limited. 
->The account owner that posted that video is a poseur, he didn't author the software, nor is it his project. 
-So then all he did was modifying the lines to make it more of a typical anime character based then, I looked through its text files and oh man does it look like hell to edit it. 
->>4135
-> I'm going to leave it up for now unless something intentionally exploitative is discovered about it later on, which I don't really anticipate with it ATP.
+>>4136
+
+Nice research agent. From a quick glance the program performs worse than the GPT 2 based chatbot, it only good merit is that has very good performance and doesn't take about 10-30~ seconds to respond though given its size its seems to be obvious that its vocabulary capabilities is severely limited. 
+
+>The account owner that posted that video is a poseur, he didn't author the software, nor is it his project. 
+
+So then all he did was modifying the lines to make it more of a typical anime character based then, I looked through its text files and oh man does it look like hell to edit it. 
+
+>>4135
+
+> I'm going to leave it up for now unless something intentionally exploitative is discovered about it later on, which I don't really anticipate with it ATP.
+
 Well that clarified then since the source code of this program is available, though I have no idea how the hell those .aiml files are used, and the readme.md the author provides is highly informative.
 
 # 131
@@ -838,15 +889,24 @@ IMO, this entire approach is mostly a dead-end from the dark ages of AI, unless 
 Statistical approaches already are the 'future' today, and particularly once we can integrate neuromorphics along with the NLP processes.
 
 # 132
->>4139
->It's an XML markup variant created by this professor to support his research project with ALICE.
->XML
-Big gay.
-
->Yeah, it's a throwback to the old-school 'expert systems' approach (thus probably why it was basically abandoned). The reason it performs quicker with fewer resources is that it's mostly relying on pre-architected, canned responses with very little by way of statistical processing.
-Figures it, so that's why its "intelligence" is severely limited, it's a surprise that this AI even won 3x prize for that. So if I get it right it just quickly finds a pattern of the user response and then scans over its own text files to find closet match and make a response based on that, so in short a very primitive form of chatbot. 
-
->or some hyper-autist literally spent most of his entire life devoted to building 100'000s of response variations.
+>>4139
+
+>It's an XML markup variant created by this professor to support his research project with ALICE.
+
+>XML
+
+Big gay.
+
+
+
+>Yeah, it's a throwback to the old-school 'expert systems' approach (thus probably why it was basically abandoned). The reason it performs quicker with fewer resources is that it's mostly relying on pre-architected, canned responses with very little by way of statistical processing.
+
+Figures it, so that's why its "intelligence" is severely limited, it's a surprise that this AI even won 3x prize for that. So if I get it right it just quickly finds a pattern of the user response and then scans over its own text files to find closet match and make a response based on that, so in short a very primitive form of chatbot. 
+
+
+
+>or some hyper-autist literally spent most of his entire life devoted to building 100'000s of response variations.
+
 Sounds like a waste of time, it would be probably better to devise some kind of algorithm or uh malleable objects/entity component system that defines several aspects of how the AI should respond, or whatever those fancy terms is being used by the likes of GPT, BERT and so on. It sounds like madness to me editing thousand upon thousand of text files just to have more varied responses.
 
 # 133
@@ -865,10 +925,14 @@ I think a good system would use such prepared answers as a base or as one of its
 I like the sound of those ideas Anon. Can you expand them with some specific details for us?
 
 # 136
-It's chinese software but the movements - the mocap and the cloth physics are so fluid:
-
-https://www.youtube.com/c/LumiN0vaDesktop/videos
-
+It's chinese software but the movements - the mocap and the cloth physics are so fluid:
+
+
+
+https://www.youtube.com/c/LumiN0vaDesktop/videos
+
+
+
 Seems to be in beta as its just prerendered sequences, no contextual interactivity yet.
 
 # 137
@@ -913,7 +977,7 @@ class test(Node):
         x = torch.rand(2)
         y = l(x)
         print(l(x))```
-It should output a result to the terminal something like tensor([-0.2603,  0.2927, -0.8231], grad_fn=<AddBackward0>)
+It should output a result to the terminal something like``` tensor([-0.2603,  0.2927, -0.8231], grad_fn=<AddBackward0>)```
 
 I'll be updating TalkToWaifu to make it easier to use and more modular so it can be integrated into Godot easily.
 
@@ -935,7 +999,8 @@ Neat! Thanks for the detailed instructions Anon. That's pretty encouraging to se
 You. I like you Anon.
 
 # 143
->>5440
+>>5440
+
 Ah, this looks interesting, unfortunately my weebshit making machine is windows only, I got to installing the PythonScript, which exe would I be running to get the equivalent, thanks!
 
 # 144
@@ -945,18 +1010,27 @@ I don't have access to a Windows VM at the moment but I think all you need to do
 >On Windows, pip must be installed first with `ensurepip`:
 ```cpp
 $ <pythonscript_dir>/windows-64/python.exe -m ensurepip
-$ <pythonscript_dir>/windows-64/python.exe -m pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html```
+$ <pythonscript_dir>/windows-64/python.exe -m pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+```
 https://godotengine.org/asset-library/asset/179
 
 # 145
->>5458
-That does the job, thanks!
-
-How are you going to use the AI, in human recognition?  In training to create new animations?
-
-If you're going with 3D, will you still use stock animations e.g. from Mixamo, and you'll just use the AI for selecting the behavior and corresponding animation?
-
-I'm thinking of maybe trying with 2D first.
+>>5458
+
+That does the job, thanks!
+
+
+
+How are you going to use the AI, in human recognition?  In training to create new animations?
+
+
+
+If you're going with 3D, will you still use stock animations e.g. from Mixamo, and you'll just use the AI for selecting the behavior and corresponding animation?
+
+
+
+I'm thinking of maybe trying with 2D first.
+
 I was going back to Godot to try to make a cheapass version of Live2D.  When researching Vtuber tools, I noticed that the free Facerig clones were written in Unity game engine.  So there is potential for Godot AI to take the place of both Live2D and Facerig:  Read and process facial recognition from the webcam, then adjust the waifu puppet animation accordingly, all within the same game engine.
 
 # 146
@@ -1007,9 +1081,12 @@ Thanks Anon, Yeah I'd say this or the ''Waifu Simulator'' >>155  thread are both
 So, we definitely want our robowaifu's ai to be able to travel around with us, whether she's wearing her physical robo-form, or more lightweight in her non-atoms version. Securing/protecting her physical shell is pretty common-sense , but how do we protect her from assault when she's virtual. Specifically, how do we protect her properly when she's on our phones/tablets/whatever when we're away from the privacy of our own home networks?
 
 # 157
->>8592
-The obvious solution is to do what the Gatebox device in the OP does and keep the device that the AI runs on at home and interact with the user through text messages or phone calls when the user is outside. All the AI assistants from major tech companies work on this principle through edge gateways keeping the important parts of the AI secure in cloud computing. 
-
+>>8592
+
+The obvious solution is to do what the Gatebox device in the OP does and keep the device that the AI runs on at home and interact with the user through text messages or phone calls when the user is outside. All the AI assistants from major tech companies work on this principle through edge gateways keeping the important parts of the AI secure in cloud computing. 
+
+
+
 Not only is the way they process user data a valuable trade secret but so is the data itself which is why they spend so much on developing virtual assistants. If you really wanted it to be secure you'd have several instances of it running on different types of hardware in several locations. Any compromises could be quickly detected and dealt with.
 
 # 158
@@ -1073,7 +1150,8 @@ https://www.youtube.com/watch?v=H6NzzTyglEw
 Wow that's actually quite impressive for the date, thanks Anon. I sure wish I'd known about this back then.
 
 # 168
->>8592
+>>8592
+
 she'll always be backed up on a bunker orbiting earth ; )
 
 # 169
@@ -1170,16 +1248,26 @@ These agencies are plainly just ZOG puppets today, and have become obviosly evil
 Glowniggers of any stripe are not the friends of men in general, and White men in particular.
 
 # 183
-Stumbled across a Kickstarter for holographic AI companions on YouTube.
-https://www.youtube.com/watch?v=jsAUbxRePMo
-They're basically doing the shoebox method >>9570 but with patented lenses to increase the display size of a phone that's inserted into one of their cardboard boxes. The largest plastic one has its own display and battery.
-
-The output of the AI is slow and non-engaging yet they're promising a fun, talkative, and emotionally intelligent sidekick by June 2022.
-https://www.youtube.com/andwatch?v=M111_7Rh1mY
-
-As of now they've raised $800,000 in a month.
-https://www.kickstarter.com/projects/crazies/sidekicksai/description
-
+Stumbled across a Kickstarter for holographic AI companions on YouTube.
+
+https://www.youtube.com/watch?v=jsAUbxRePMo
+
+They're basically doing the shoebox method >>9570 but with patented lenses to increase the display size of a phone that's inserted into one of their cardboard boxes. The largest plastic one has its own display and battery.
+
+
+
+The output of the AI is slow and non-engaging yet they're promising a fun, talkative, and emotionally intelligent sidekick by June 2022.
+
+https://www.youtube.com/andwatch?v=M111_7Rh1mY
+
+
+
+As of now they've raised $800,000 in a month.
+
+https://www.kickstarter.com/projects/crazies/sidekicksai/description
+
+
+
 How do they have 1700 backers with no marketing, no viral video, and almost zero social media presence? Why is the average pledge $470? Is it an elaborate money laundering scheme?
 
 # 184
@@ -1192,14 +1280,19 @@ Finding inexpensive ways to produce components will certainly be vital to bringi
 Thanks for the insights, FANG anon. The comments situation does seem telling.
 
 # 185
->>11637
-This is a great video. I had an idea before to use head tracking to create better 3D illusions. I hadn't even thought it'd be possible to make the illusion seem like it's coming out of the screen.
-
+>>11637
+
+This is a great video. I had an idea before to use head tracking to create better 3D illusions. I hadn't even thought it'd be possible to make the illusion seem like it's coming out of the screen.
+
+
+
 I think other properties could be calibrated for as well such as Fresnel reflection, since the angle of reflection changes the intensity of reflections. Color correction could be done as well to compensate for the background and birefringence so it looks less ghostly and rainbow colored.
 
 # 186
-VR is getting cheaper, better, and lightweight.
-Personally I got a quest 2 and mi vision about waifus changed radically , I think we should focus in a robot that just assist us while being in VR and match the position of the robot with the VR waifu. 
+VR is getting cheaper, better, and lightweight.
+
+Personally I got a quest 2 and mi vision about waifus changed radically , I think we should focus in a robot that just assist us while being in VR and match the position of the robot with the VR waifu. 
+
 As an example of very good games https://sexywaifus.com/_vr/simpleselection-vr.html
 
 # 187
@@ -1221,9 +1314,12 @@ Top kek. I think it's pretty humorous that the machine developers thought ahead 
 Admittedly, I'm somewhat clueless about the necessary association with the sensory inputs to the ''language model'' Anon? Maybe it's just my nerdish engineering viewpoint, but it strikes me that's more of a systems event, that will trigger lots of cascading effects -- language responses included.
 
 # 190
->>15954
-Part of the program would need to respond to the touch event immediately, such as if you stroke a waifu's hair it should move right away. The language model would also take into account this touch event to produce a sensible response instead of making responses that are oblivious to them.
-
+>>15954
+
+Part of the program would need to respond to the touch event immediately, such as if you stroke a waifu's hair it should move right away. The language model would also take into account this touch event to produce a sensible response instead of making responses that are oblivious to them.
+
+
+
 It could also generate more complex animation instructions in the first tokens of a response, which would have about a 250ms delay similar to human reaction time. It's not really desirable to have a set of pre-made animations that the waifu is stuck to since after seeing them over and over again the waifu will feel rigid and stuck to replaying them. With the language model though you could generate all kinds of different reactions that take into account the conversation and touch events.
 
 # 191
@@ -1234,9 +1330,12 @@ OK, I'll take your word for it Anon. I'm sure I'll understand as we work through
 BTW, thanks for taking the trouble of posting this Anon. Glad to see what these game manufacturers are up to. Nihongo culturalisms are pretty impactful to our goals here on /robowaifu/ tbh. Frankly they are well ahead of us for waifu aesthetics in most ways. Time to catch up! :^)
 
 # 192
->>15953
-That Madoka is the epitome of cuteness. If only there were a way to capture that voice and personality and translate it into English. 
- >>15956
+>>15953
+
+That Madoka is the epitome of cuteness. If only there were a way to capture that voice and personality and translate it into English. 
+
+ >>15956
+
 Timing of reactivity is important for preventing the uncanny valley from a communications standpoint. For her animations, it may be effective to have several possible animations for various responses that are chosen at random, though never repeating. Like, having a "welcome home" flag that triggers an associated animation when she's saying "welcome home".
 
 # 193

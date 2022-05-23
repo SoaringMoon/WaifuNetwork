@@ -47,9 +47,12 @@ I'd suggest you take the former tack to optimize bandwidth consumption. GPU powe
 Add on top of that housing unit demand for (((Netflix))), et al, and you have a recipe for high-competition for available bandwidth that will only grow over time. GPU power growth OTOH is actually still on a steady projection for ever-better price/performance.
 
 # 6
-The way hentai@home created a giant distributed CDN built off of bittorrent was to provide the people that run instances of it a local copy of the media they want that gets automatically updated with proper tags instead of having to deal with downloading it manually themselves. There's also a reward structure that lets users download at high speeds so it turns into an offsite backup service for their hentai collection.
-https://ehwiki.org/wiki/Hentai@Home
-
+The way hentai@home created a giant distributed CDN built off of bittorrent was to provide the people that run instances of it a local copy of the media they want that gets automatically updated with proper tags instead of having to deal with downloading it manually themselves. There's also a reward structure that lets users download at high speeds so it turns into an offsite backup service for their hentai collection.
+
+https://ehwiki.org/wiki/Hentai@Home
+
+
+
 Asides for the altruistic donation of bandwidth and GPU processing power to help speed development of an AI they might want to use what would running robowaifu@home provide as a benefit to the end user?
 
 # 7
@@ -94,14 +97,22 @@ I sure hope they pull it off, and then give it away practically for free. **A ma
 One point to mention here are goyphones *[shudders externally]*. If you could somehow quantify the 'total compute power potential' as a measure of which silicon die technology is being most heavily rolled out, I suspect the phones are already ahead of servers/desktops. Throw in Starlink etc. and mobile represents a sizable potential for raw compute power.
 
 # 11
->>8990
->They might only have a 2 GB toaster GPU.
-Even if they have a 16GB high end GPU it might be incompatible with some tasks as AMD uses a different memory structure that can't run many popular CUDA compute libraries. That's why my low end 4GB nvidia GPU almost tripled in price in the last year while similarly specced or slightly more powerful AMD cards haven't.
-
->But there could also be a sandboxed version
-Nowadays thanks to PCI passthrough with virtualization this project could be 100% OS independent with little to no performance penalty on top of having built in security. That requires very modern hardware to work properly but virtualization is going to be a huge game changer in personal computing in the upcoming decade. Wendell from Level1Tech has been talking about the potential of this as it comes out of the server space for years now. He's also one of the few people that probably has 16 x 48GB GPUs in a server rack but is smart enough to both use them to keep quiet about it.
-
->A virtual waifu and all her functions.
+>>8990
+
+>They might only have a 2 GB toaster GPU.
+
+Even if they have a 16GB high end GPU it might be incompatible with some tasks as AMD uses a different memory structure that can't run many popular CUDA compute libraries. That's why my low end 4GB nvidia GPU almost tripled in price in the last year while similarly specced or slightly more powerful AMD cards haven't.
+
+
+
+>But there could also be a sandboxed version
+
+Nowadays thanks to PCI passthrough with virtualization this project could be 100% OS independent with little to no performance penalty on top of having built in security. That requires very modern hardware to work properly but virtualization is going to be a huge game changer in personal computing in the upcoming decade. Wendell from Level1Tech has been talking about the potential of this as it comes out of the server space for years now. He's also one of the few people that probably has 16 x 48GB GPUs in a server rack but is smart enough to both use them to keep quiet about it.
+
+
+
+>A virtual waifu and all her functions.
+
 I can understand a collaborative effort at optimizing AI rather than having everyone do their own thing or replicate the same work but what would be the benefits of running RW@H compared to just downloading the models it has done and running it on your own hardware without using up extra bandwidth or electricity? That's the hard thing to come up with and would really sell this project.
 
 # 12
@@ -283,8 +294,10 @@ I'm quite skeptical of the fundamentals of that claim. I'm familiar with the art
 We'll probably get there in the future with ''software programming waifus'', but it certainly isn't here just now.
 
 # 27
->>9000
-https://www.mlcathome.org/mlcathome/
+>>9000
+
+https://www.mlcathome.org/mlcathome/
+
 I've managed to find a new project that's just popped up using BOINC. It seems to be something for "Un-black-box-ifying" a lot of traditional machine learning algorithms.
 
 # 28
@@ -299,15 +312,21 @@ https://github.com/tensorflow/mesh
 Please forgive my naivete if this isn't related.
 
 # 30
->>8995
+>>8995
+
 So does that mean even AMD GPUs with support for ROCam and having the appropriate motherboards would not be able to support this future crowd computed robowaifu project?
 
 # 31
->>10532
-It would depend on the code libraries that are used. Right now most of the most popular ones for AI are designed for Nvidia thanks to CUDA being the industry and academic standard. It might be possible to port it over to run on AMD's GPU computing platform if there's enough demand.
-
-My comment was about how the memory was laid out on some AMD card, this isn't the first time this problem comes up in the GPU world. Last time it was with the GTX 970 which ended in a class action lawsuit. This time it's just an issue with cryptocurrencies that need large amounts to store the entire blockchain, some of them can't be mined on AMD cards even if the CUDA code was ported over.
-
+>>10532
+
+It would depend on the code libraries that are used. Right now most of the most popular ones for AI are designed for Nvidia thanks to CUDA being the industry and academic standard. It might be possible to port it over to run on AMD's GPU computing platform if there's enough demand.
+
+
+
+My comment was about how the memory was laid out on some AMD card, this isn't the first time this problem comes up in the GPU world. Last time it was with the GTX 970 which ended in a class action lawsuit. This time it's just an issue with cryptocurrencies that need large amounts to store the entire blockchain, some of them can't be mined on AMD cards even if the CUDA code was ported over.
+
+
+
 What I'm going to do in the future is get two cards, a powerful AMD one due to better drivers on GNU/Linux and a weaker CUDA capable one for use in a virtual machine so all my bases are covered.
 
 # 32
@@ -315,7 +334,8 @@ What I'm going to do in the future is get two cards, a powerful AMD one due to b
 Not him, but thanks for the explanation Anon.
 
 # 33
->>10533
+>>10533
+
 So OpenCL is dead in the water or something?
 
 # 34
@@ -324,7 +344,8 @@ So OpenCL is dead in the water or something?
 Long story short, till AMD invests much more into the eco system: Forget it.
 
 # 35
->>10556
+>>10556
+
 Welp that is quite unfortunate that AMD doesn't bother to improve Rocm support. I find it a bit odd that AMD doesn't try to compete with Nvidia on this part too and instead allows Nvidia to gain a whopping market share in machine learning.
 
 # 36
@@ -340,11 +361,16 @@ Sadly, certain (((interests))) in the US Govt approved Nvidia's buyout of ARM, a
 Nvidia owns ARM now, lock, stock, and barrel.
 
 # 38
->>10568
-Hmm right, I recall there was a news or blog post what's the difference? I forget, anyway which says that only the bri'ish people buy AMD because it is cheaper and the other people are all buying Nvidia only. 
->>10577
->Nvidia owns ARM completely now
->US Gov' sees no problem with a giant getting even bigger
+>>10568
+
+Hmm right, I recall there was a news or blog post what's the difference? I forget, anyway which says that only the bri'ish people buy AMD because it is cheaper and the other people are all buying Nvidia only. 
+
+>>10577
+
+>Nvidia owns ARM completely now
+
+>US Gov' sees no problem with a giant getting even bigger
+
 This shit just makes me sad.
 
 # 39

@@ -24,12 +24,18 @@ Okay, I'm to busy with other stuff, but curious: What are you going to do with i
 ROS is definitely not in the plan for these little boxes, but stepper control is definitely on the list.
 
 # 4
-Nice, really appreciate it.
-
-Btw some other boards like Nvidia Jetson Nano, when I bought it they gave a disk image to download that's pretty much complete.  I haven't booted it since before the pandemic and I don't remember if the disk image already had Tensorflow pre-installed, but basically they enroll you in a couple of courses that are free with the purchase, it seems that there are already a couple of built-in AI functionality which you access through JupyterLab.
-
-Of course, they want you to be beholden to their system.
-
+Nice, really appreciate it.
+
+
+
+Btw some other boards like Nvidia Jetson Nano, when I bought it they gave a disk image to download that's pretty much complete.  I haven't booted it since before the pandemic and I don't remember if the disk image already had Tensorflow pre-installed, but basically they enroll you in a couple of courses that are free with the purchase, it seems that there are already a couple of built-in AI functionality which you access through JupyterLab.
+
+
+
+Of course, they want you to be beholden to their system.
+
+
+
 Perhaps later on with this R Pi-based system we can have a shareable disk image that will contain the essentials.
 
 # 5
@@ -1293,7 +1299,7 @@ Thank, just build it. The ... behind the cmake command should be ../ for the pat
 # 67
 >>8772
 Great, well done. Building worked.
-For the sake of completing the turorial, in case you make a textfile out of it: In point 2/> #1. One needs to create a build folder again, go into it, then use meson <path>, then call ninja. Obvious for experinced users, but I needed a moment to try stuff out.
+For the sake of completing the turorial, in case you make a textfile out of it: In point 2/> #1. One needs to create a build folder again, go into it, then use meson < path>, then call ninja. Obvious for experinced users, but I needed a moment to try stuff out.
 Also the .sites.config file needs to be copied into the build folder to work. Actually, it needs to be in the current working dir. Calling Bump from a folder /Backups/ requires the file to be in that folder.
 
 Testing it after building... Sorry, it failed. You might have choosen the naive approach when it comes to downloading files. It assumes if it started the download, that it worked? My backup of the board has 10.9 MB and it tells me that's all when restarting it. My connection very shacky, so it skipped a lot.
@@ -1426,7 +1432,8 @@ rm all_jsons/*_file_404s.json
 rm all_jsons/7143.json 
 rm all_jsons/273.json  
 cp -f all_jsons/* /home/johnny/_prj/waifusearch/all_jsons/ 
-cd ..```
+cd ..
+```
 >tl;dr
 ''All of them'' (well except the library/archive threads).
 

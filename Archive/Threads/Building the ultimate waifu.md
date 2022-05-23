@@ -168,11 +168,16 @@ I think she'd be an attractive choice, physically at least. Ever hear of Ricky M
 >>153
 
 # 31
->>1151
-Well now that it's near the end of 2020 and you'll need a Facebook account to use a VR headset from Oculus soon maybe that point is being made clearer.
-
-The situation with Valve isn't any better. If you want to use any of their headsets without installing Steam and setting up an account with them you need to install 'Vive Enterprise Device Manager' and pay to activate it, assuming they allow your use case. It's just as locked down.
-
+>>1151
+
+Well now that it's near the end of 2020 and you'll need a Facebook account to use a VR headset from Oculus soon maybe that point is being made clearer.
+
+
+
+The situation with Valve isn't any better. If you want to use any of their headsets without installing Steam and setting up an account with them you need to install 'Vive Enterprise Device Manager' and pay to activate it, assuming they allow your use case. It's just as locked down.
+
+
+
 This has nothing to do with being depressed about the current situation but a realistic look at what modern VR is. And it's my belief that the lack of freedom is directly responsible for the dearth of creative experimentation in this field.
 
 # 32
@@ -184,11 +189,16 @@ https://github.com/relativty/Relativty
 >(via >>5440 , et al)
 
 # 33
->>7643
-This isn't blackpilling. Someone asked why we haven't seen much advancement in innovative tech demos as we did back when VR was hacked together using off the shelf parts.
-
-As someone who wanted to experiment in this field, had the money to spend, time to waste and skills to get involved then looked up what it would entail I explain why I was unbelievably disgusted at the current state of VR. I'm not the only one that feels this way, it's not just that all the low hanging fruit was picked away early on.
-
+>>7643
+
+This isn't blackpilling. Someone asked why we haven't seen much advancement in innovative tech demos as we did back when VR was hacked together using off the shelf parts.
+
+
+
+As someone who wanted to experiment in this field, had the money to spend, time to waste and skills to get involved then looked up what it would entail I explain why I was unbelievably disgusted at the current state of VR. I'm not the only one that feels this way, it's not just that all the low hanging fruit was picked away early on.
+
+
+
 I receive a quick dismissive reply stating that things will get better. A year later I point out that things have gotten worse. At least now that's undeniable so I'm glad to get that now. The sooner we face reality instead of pretending that things will just work out or magically get better maybe things will start turning around. I'm still optimistic about what VR could be.
 
 # 34
@@ -199,32 +209,58 @@ I consider it to be so. If you can't at least make a token effort to provide a s
 So, please detail your suggested approaches/solutions to this issue Anon. I've already gotten one for you in the right direction. Do you have others?
 
 # 35
->>246
-My ideal robowaifu would be as close to human in function as possible, but with abilities and functions somewhat different to the point of improvement.
-For the best idea to emerge, clear goals have to be defined and listed. The idea can be open ended to be improved upon. Study of mechatronics may improve one's ability to work on such a thing, but idea and "soul" as in the preferred characterists are also important.
-I'll do my best to make a proper list here of the goals for my ultimate robowaifu project;
--Tensegrity endoskeleton tendon structure
--Modular yet sturdy, of durable materials
--Responsive strong fast lowpower-use actuators
--A learning computer program for intelligence
--Something akin to a central nervous system
--Slow silky hair growth on top of head
--Capacitive skin for total sensory of touch
--Ingestion system, can eat things and excrete
--Facial expressions
--Soft and smooth skin
--Body heat
--Simple olfactory sensory
--Speech and speech recognition (singing optional)
--Eyes, depth perception and pattern recognition
--Ability to stand, walk, run and jump
--Ability to handle things and learn hand skills
--Breath and heartbeat
-...
-
-Regardless of how difficult it may seem, once you have set goals and can envision what the goals entail, you're actually a step closer to the realization of it.
-
-Things like this already exist; https://hackaday.com/2020/11/06/spider-silk-spider-silk-made-using-a-strain-of-yeast/
+>>246
+
+My ideal robowaifu would be as close to human in function as possible, but with abilities and functions somewhat different to the point of improvement.
+
+For the best idea to emerge, clear goals have to be defined and listed. The idea can be open ended to be improved upon. Study of mechatronics may improve one's ability to work on such a thing, but idea and "soul" as in the preferred characterists are also important.
+
+I'll do my best to make a proper list here of the goals for my ultimate robowaifu project;
+
+-Tensegrity endoskeleton tendon structure
+
+-Modular yet sturdy, of durable materials
+
+-Responsive strong fast lowpower-use actuators
+
+-A learning computer program for intelligence
+
+-Something akin to a central nervous system
+
+-Slow silky hair growth on top of head
+
+-Capacitive skin for total sensory of touch
+
+-Ingestion system, can eat things and excrete
+
+-Facial expressions
+
+-Soft and smooth skin
+
+-Body heat
+
+-Simple olfactory sensory
+
+-Speech and speech recognition (singing optional)
+
+-Eyes, depth perception and pattern recognition
+
+-Ability to stand, walk, run and jump
+
+-Ability to handle things and learn hand skills
+
+-Breath and heartbeat
+
+...
+
+
+
+Regardless of how difficult it may seem, once you have set goals and can envision what the goals entail, you're actually a step closer to the realization of it.
+
+
+
+Things like this already exist; https://hackaday.com/2020/11/06/spider-silk-spider-silk-made-using-a-strain-of-yeast/
+
 Imagine your waifu growing hair that you can cut and style
 
 # 36
@@ -244,8 +280,10 @@ That's a great list Anon. I'll pass on the eat/excrete haha but will breathing o
 So, it all starts with our imaginations! **Then comes the 99% '''perspiration''' haha**
 
 # 38
->>7666
-It can be a long term thing, like a great life work or magnum opus
+>>7666
+
+It can be a long term thing, like a great life work or magnum opus
+
 Some of the goals can be realized before others and then eventually (it being modular) it might get finalized
 
 # 39
@@ -259,6 +297,7 @@ Godspeed to /robowaifu/ during this approaching Christmas season.
 -''minor prose edit''
 
 # 40
->>246
+>>246
+
 I wouldn't care as long as she is cute and her AI doesn't take over the world
 

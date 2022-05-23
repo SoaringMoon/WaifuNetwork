@@ -74,10 +74,14 @@ Are the fatchan dudes already ded?
 I'm assuming you mean the fatchan/robotwives/ board. The board itself has been deleted yes, but I wouldn't be surprised if some of those anons are still around Anon. Certainly they're still welcome here ofc.
 
 # 6
->>8541
->>8545
-I'm a bit out of the loop. What exactly happened with the fatchan situation? Was there some kind of beef between chobitsu and the people at fatchan? I recall reading the sticky of the fatchan board and the tone came off really condescending like he had a problem with this /robowaifu/ board. 
-
+>>8541
+
+>>8545
+
+I'm a bit out of the loop. What exactly happened with the fatchan situation? Was there some kind of beef between chobitsu and the people at fatchan? I recall reading the sticky of the fatchan board and the tone came off really condescending like he had a problem with this /robowaifu/ board. 
+
+
+
 I feel like such a retard myself as I basically pulled a chobitsu by not even shitposting in the /b/ or metatread on /robowaifu/ for most of 2020. I just feel like an ass for that and I'm sorry. I still have aspirations for programming an AI but I have a long way to go. Also I heard that chobitsu is moving. From the previous times I've spoken with you, I think you mentioned you were in the south. Obviously opsec is important so I'm not asking you where you are moving to but I've done a cross country move and it's a pain in the ass.
 
 # 7
@@ -122,19 +126,29 @@ I hope to see you guys on the pitch!
 -''protip: you might think about updating your pasta to reflect the current year friend.''
 
 # 11
->>8578
+>>8578
+
 Did we travel through time?
 
 # 12
->>8569
->Kek. I think you're misusing me here as a mis-attributed proverb Anon. I strongly believe in what we're attempting to do here, and my vision behind it is unironically intended for the benefit of mankind. 'Delusions of Grandeur', yes. 'Pipe dreams', yes. 'Not involved', definitely not. :^)
-Yeah I was being sarcastic when I said that. I was actually referencing that time when you got busy and didn't appear on /robowaifu/ for more than a month and people thought the CIA had killed you or something and then you came back safe and sound. 
->>8571
-I assumed it had something to do with politics. We don't have to agree with each other on everything because as a long as we can work together on our project or at the very least, not kill each other then it's fine. A good example of this is my dad and best friend are libertarians while I lean more on the authoritarian right side of things. 
->At least one anon got mad about it ... Lack or rules, guidelines ... Dictatorship!! ... And so he opened his own forum.
-This might sound vaguely insulting but I would actually consider Chobitsu to be a benevolent dictator. In fact, If I was the ruler of my own country I would actually model my government style off the way he manages /robowaifu/. He protects his people from literal faggotry and and feminism, allows his people to conduct their own conversations among themselves about various topics without forcing one way of thinking, and even allow people to criticize him and doesn't mind of they leave or go make their own boards. From my own perspective, I find chobitsu to be one the best BOs on image boards in general. 
-
-
+>>8569
+
+>Kek. I think you're misusing me here as a mis-attributed proverb Anon. I strongly believe in what we're attempting to do here, and my vision behind it is unironically intended for the benefit of mankind. 'Delusions of Grandeur', yes. 'Pipe dreams', yes. 'Not involved', definitely not. :^)
+
+Yeah I was being sarcastic when I said that. I was actually referencing that time when you got busy and didn't appear on /robowaifu/ for more than a month and people thought the CIA had killed you or something and then you came back safe and sound. 
+
+>>8571
+
+I assumed it had something to do with politics. We don't have to agree with each other on everything because as a long as we can work together on our project or at the very least, not kill each other then it's fine. A good example of this is my dad and best friend are libertarians while I lean more on the authoritarian right side of things. 
+
+>At least one anon got mad about it ... Lack or rules, guidelines ... Dictatorship!! ... And so he opened his own forum.
+
+This might sound vaguely insulting but I would actually consider Chobitsu to be a benevolent dictator. In fact, If I was the ruler of my own country I would actually model my government style off the way he manages /robowaifu/. He protects his people from literal faggotry and and feminism, allows his people to conduct their own conversations among themselves about various topics without forcing one way of thinking, and even allow people to criticize him and doesn't mind of they leave or go make their own boards. From my own perspective, I find chobitsu to be one the best BOs on image boards in general. 
+
+
+
+
+
 Now, on to a little bit of a lighter topic, what did /robowaifu/ do for valentine's day?
 
 # 13
@@ -146,7 +160,8 @@ I literally said loud "Nooo" when I saw that. Then I tried to even understand it
 Kek. We could have used it to tell people on social media about this board.
 
 # 14
->>8582
+>>8582
+
 I don't know if I would want to tell people about this board on social media but I see your point. Maybe I'm just afraid of normal fags coming here and fucking the board up. I am probably too paranoid.
 
 # 15
@@ -164,15 +179,24 @@ Honestly, of any imageboard I can think of, I believe /robowaifu/ will actually 
 I think it's an actual amateur vidya elimination tourney. Never saw it myself, but it's been going on between a few boards since before 8ch was red-flagged. It migrated over when the webring arose.
 
 # 17
->>8578
-Pardon me, it seems I have forgotten to change the year...AGAIN.
->>8579
-Time is a closed loop
->>8582
->Fantasy soccer between boards or whatever? 
-Pretty much, yes.
-You can see what it looks like here:
-https://sfo2.digitaloceanspaces.com/vods/replay/SKF_replay_1613329226272.mp4
+>>8578
+
+Pardon me, it seems I have forgotten to change the year...AGAIN.
+
+>>8579
+
+Time is a closed loop
+
+>>8582
+
+>Fantasy soccer between boards or whatever? 
+
+Pretty much, yes.
+
+You can see what it looks like here:
+
+https://sfo2.digitaloceanspaces.com/vods/replay/SKF_replay_1613329226272.mp4
+
 We try and have as many webring boards as possible as well as provide a way to advertise boards if you so wish thanks to the matchups and the wiki.
 
 # 18
@@ -239,10 +263,14 @@ Do you have other questions about it Anon?
 We are not working on one design, but pushing a variety of options how those waifus could be build. Some parts will certainly be 3D printed, at least the biggest part of the bones.
 
 # 28
->>8736
->And then other thing like wide plastic 'skins' will be better manufactured in other ways than printing.
-That depends on what you consider 3d printing to be. Once I get everything going I can imagine the armature for the limb or skeleton for an entire body suspended in a several piece mold that has silicon poured in while a SCARA arm or two(maybe one arm if it can move around the mold) injects different types of silicon or air bubbles inside the skin for a more realistic texture. This approach is the only way I can think of to install tubing for a heated water or compressed air circulation system. Or to print complex air muscles as seen in this video inside the skin.
-
+>>8736
+
+>And then other thing like wide plastic 'skins' will be better manufactured in other ways than printing.
+
+That depends on what you consider 3d printing to be. Once I get everything going I can imagine the armature for the limb or skeleton for an entire body suspended in a several piece mold that has silicon poured in while a SCARA arm or two(maybe one arm if it can move around the mold) injects different types of silicon or air bubbles inside the skin for a more realistic texture. This approach is the only way I can think of to install tubing for a heated water or compressed air circulation system. Or to print complex air muscles as seen in this video inside the skin.
+
+
+
 I'm still in the early planning phases of thinking this through, best case scenario I can scrounge up enough money to do some small tests this year.
 
 # 29
@@ -286,12 +314,18 @@ https://signal.org/docs/
 https://github.com/signalapp
 
 # 36
->>8742
-
-Direct 3D printing of silicone elastomer soft robots and their performance comparison with molded counterparts
-
-http://libgen.rs/scimag/10.1109%2FROBOSOFT.2018.8404935
-
+>>8742
+
+
+
+Direct 3D printing of silicone elastomer soft robots and their performance comparison with molded counterparts
+
+
+
+http://libgen.rs/scimag/10.1109%2FROBOSOFT.2018.8404935
+
+
+
 try one of the links at the bottom of the page
 
 # 37
@@ -319,7 +353,8 @@ It seems that most people are scared of this video, but then most poeple refer t
 I think it's probably mainly the music. There's a concept called 'The Language of Cinema' where music plays an important role in adding to the subtext of a story. We've all been trained by it to expect bad things when suspenseful music is playing in a movie/video.
 
 # 43
->>8790
+>>8790
+
 are you still doing the hand thing?
 
 # 44
@@ -1014,15 +1049,24 @@ Agreed. The idea of creating a 'Christ-chan' AI pluggable-module for robowaifus 
 -''add 'wayward prophet' comment''
 
 # 117
-I've been sort of pro TITS and almost missed this discussion.  But I also understand the risks.
-
-Some of my observations:
-*Vtubers is a huge market and will remain a major force.  TITS robots adds the extra dimension and gives us a chance to tap into that market and redirect some of the cashflow our way.  We just need to ensure that the robots aren't dependent on a "superstar voice actress" but instead on an anonymous bank of service workers.
-
-Poor women make excellent employees.  If you're the boss, you're the alpha.  They rarely act up if it's a professional setting.  Hence why almost all our electronics have been soldered by women in China for decades now.
-
-If we hire women, why not hire bros as well?  There's a difference between a remotely operated bot compared to your regular degenerate.  I'm pretty sure bros know best what guys consider cute or sexy, we've been fapping to male-drawn comics and stories for years.  A male operator need not necessarily need a voice changer, he can be simply hitting the prerecorded "Onii-chan asa da yo" standard greeting button.  The behavoir of the bot will then seem more tomboyish, which is actually attractive to many men.
-
+I've been sort of pro TITS and almost missed this discussion.  But I also understand the risks.
+
+
+
+Some of my observations:
+
+*Vtubers is a huge market and will remain a major force.  TITS robots adds the extra dimension and gives us a chance to tap into that market and redirect some of the cashflow our way.  We just need to ensure that the robots aren't dependent on a "superstar voice actress" but instead on an anonymous bank of service workers.
+
+
+
+Poor women make excellent employees.  If you're the boss, you're the alpha.  They rarely act up if it's a professional setting.  Hence why almost all our electronics have been soldered by women in China for decades now.
+
+
+
+If we hire women, why not hire bros as well?  There's a difference between a remotely operated bot compared to your regular degenerate.  I'm pretty sure bros know best what guys consider cute or sexy, we've been fapping to male-drawn comics and stories for years.  A male operator need not necessarily need a voice changer, he can be simply hitting the prerecorded "Onii-chan asa da yo" standard greeting button.  The behavoir of the bot will then seem more tomboyish, which is actually attractive to many men.
+
+
+
 Remote control and autonomy are two sides of the same coin and go hand in hand whenever we talk about robotics.  Battlebots are RC robots without AI, but are still robots.  You actually need the remote control in case the autonomous function goes haywire, and vice versa.  Ideally the kill switch is local, but what if the user is disabled in some way?  You don't want the robot remote control to be hosted by Globohomo Cloud, but you still need a trusted means to diagnose a remote machine and shut it down if necessary.
 
 # 118
@@ -1529,8 +1573,8 @@ This would be a very complex set of issues to solve correctly and safely.
 Trust me, that set of issues alone is more than enough of a concern. There are obviously several others as well.
 >Those dependent on how it is implemented, 
 >and how careful the users are.
-<Users
-<Careful
+< Users
+< Careful
 Heh, as already discussed ITT, even if ''perfect-quality'' safety, security, operational, communications & hygienic protocols are all understood thoroughly by all end-users of a system as complex as this one (a very tall order indeed), it's a well-known phenomenon across basically all industries that users will eventually become lax with following them over time. It's simply human nature. 
 
 Since this isn't just some normal guy typing text into some VTuber whore's chat window, but rather an autonomous functional robot ''actually, physically'' located inside Anon's house, I don't think all precautions possible on our parts is out of place. In fact I consider it an obligation on our parts if we proceed with the idea.
@@ -1577,7 +1621,7 @@ Fair enough. I'd suggest though, that this is probably more a 'normalcattle' typ
 Again, normalcattle usage scenarios.
 
 >Since they don't have their own generated voice, or the users doesn't care about the shift, they could use the (probably altered) voice of the remote woman.
-<entirely open-mic for TITS thots
+< entirely open-mic for TITS thots
 '''Absolutely not''', at least in the case of the TITS thots themselves. As already amply discussed ITT, giving these thots unregulated communications and control into a TITS Robowaifu is a recipe for potential disaster to the Anon himself. After all, what does it cost the whore that's involved? What does she risk? She's located at some type of console somewhere, anonymously safe, and thousands of miles away. For the Anon, however, the results could be devastating. **'''__Permanently__''', even.**
 
 However, as mentioned ITT, what an Anon chooses to do with his own GF is his own affair ofc.
@@ -1979,8 +2023,10 @@ Why don't you give robowaifus your treatment. I doubt you'd have a positive outl
 Do a robowaifu revolution hitpiece.
 
 # 175
->>10151
->Updated version is still using GPT-2 
+>>10151
+
+>Updated version is still using GPT-2 
+
 fugg
 
 # 176
@@ -1991,9 +2037,12 @@ The team running GPT-3 has chosen not to release that 'open-source' system ''"to
 As I understand it, there are other, __non__-Globohomo Big Tech/Gov efforts that have sprung up to combat this abuse, and are endeavoring to create effective alternatives.
 
 # 177
->>10329
-I read from other pages and some have mentioned that GPT-3 requires a NASA super computer to run including multiple GPU to make the performance acceptable, looks like its not such a good option then welp. 
->As I understand it, there are other, non-Globohomo Big Tech/Gov efforts that have sprung up to combat this abuse, and are endeavoring to create effective alternatives.
+>>10329
+
+I read from other pages and some have mentioned that GPT-3 requires a NASA super computer to run including multiple GPU to make the performance acceptable, looks like its not such a good option then welp. 
+
+>As I understand it, there are other, non-Globohomo Big Tech/Gov efforts that have sprung up to combat this abuse, and are endeavoring to create effective alternatives.
+
 What are those?
 
 # 178
@@ -2084,7 +2133,7 @@ Why have we not seen cheap Chinese knockoffs of Atlas yet like there have been w
 # 190
 >>11035
 >like there have been with Spot?
-<just for a convenient cross-ref here:
+< just for a convenient cross-ref here:
 (>>1198, >>1199, >>1215, >>8415)
 
 # 191
@@ -2123,14 +2172,22 @@ I'll consider myself being some kind of  Transhumanist, at least one of the very
 Another aspect of such people is the approach of being open to psychedelic drugs, other mind altering drugs or techniques, microdosing, meditation, exploration of ones mind, which is often shared by people interested in AI as well.
 
 # 196
->>11066
->I am not too fussed about being mortal and dying myself. (Who'd want to have to live sentiently on this ball of shit and nightmares forever?)
-
-The endgame is to get off this "ball of shit and nightmares" - compare the earth to a womb, and leaving here we can emerge into our birth and explore (or conquer) the galaxy. 
-The WQ (w*man question) is pivotal to this. While I love my mom, and my daughter and am polite and cordial to almost every femaled human in my life, I honestly believe that they are inherently more tied to nature and the "great filter" is actually their influence on us. One example being the argument against spending on space and tech research when there are "starving 3rd worlders", "LGTBBQ-POC" or whatever the cause of the week is, since w*men, understandably are prioritized for the group and to take care of the weakest and most "oppressed" (spoiler, life has winners and losers, moving everyone who is last to the front of the race doesn't change the fact that there will still be someone who is "last")
-Further, as I've probably brought up before, the amount of time, physical and psychic energy that men spend to gain the approval of w*men (which many will just siphon off like vampires, encouraging men, "just a little more and you'll have me") is a waste which should instead be channelled toward objectives such as AI, Immortality/longevity and space colonization. 
-The earth is a crab bucket and to get off this rock and become self-sufficient will launch us into a Type-II Kardishev civilization in no time (Dyson Swarms/Spheres are the next step after Space-Arks IMO)
-I'll admit some of this speak of my own personal shortcomings at life, prioritizing social and sexual conquests and in the process adopting a slacker attitude (probably via osmosis) while missing the big picture that completing my education would have provided me with crucial applicable skills necessary to push us all along toward these ends. Now all I have is an overactive imagination and a few useful quirks like Big-Picture thinking and a near photographic memory but I still struggle with producing anything tangible at the end of the day.
+>>11066
+
+>I am not too fussed about being mortal and dying myself. (Who'd want to have to live sentiently on this ball of shit and nightmares forever?)
+
+
+
+The endgame is to get off this "ball of shit and nightmares" - compare the earth to a womb, and leaving here we can emerge into our birth and explore (or conquer) the galaxy. 
+
+The WQ (w*man question) is pivotal to this. While I love my mom, and my daughter and am polite and cordial to almost every femaled human in my life, I honestly believe that they are inherently more tied to nature and the "great filter" is actually their influence on us. One example being the argument against spending on space and tech research when there are "starving 3rd worlders", "LGTBBQ-POC" or whatever the cause of the week is, since w*men, understandably are prioritized for the group and to take care of the weakest and most "oppressed" (spoiler, life has winners and losers, moving everyone who is last to the front of the race doesn't change the fact that there will still be someone who is "last")
+
+Further, as I've probably brought up before, the amount of time, physical and psychic energy that men spend to gain the approval of w*men (which many will just siphon off like vampires, encouraging men, "just a little more and you'll have me") is a waste which should instead be channelled toward objectives such as AI, Immortality/longevity and space colonization. 
+
+The earth is a crab bucket and to get off this rock and become self-sufficient will launch us into a Type-II Kardishev civilization in no time (Dyson Swarms/Spheres are the next step after Space-Arks IMO)
+
+I'll admit some of this speak of my own personal shortcomings at life, prioritizing social and sexual conquests and in the process adopting a slacker attitude (probably via osmosis) while missing the big picture that completing my education would have provided me with crucial applicable skills necessary to push us all along toward these ends. Now all I have is an overactive imagination and a few useful quirks like Big-Picture thinking and a near photographic memory but I still struggle with producing anything tangible at the end of the day.
+
 Sorry if this is too much of a rant or O/T but I don't see any intro or bio threads so this is as good a place as any.
 
 # 197
@@ -2384,14 +2441,16 @@ Seems to be due to the content security policy of the server. Replacing it with 
 Thanks! I've just discovered some kind of bug that's preventing me from updating it. I'll try to connect with Robi to let him know sometime soon. Hopefully the BG image will be back soon.
 
 # 228
-Help me out, what time zone is this server supposed to be on, the post times make no sense to me
+Help me out, what time zone is this server supposed to be on, the post times make no sense to me
+
 %% I guess I could look at my own post time and extrapolate the difference but I am really curious how or why we are offset by so many hours, in comparison to any North American time zone %%
 
 # 229
 If you enable JavaScript, then you can click the 'Settings' link along the page header bar, and then adjust the time display under the 'Other' tab.
 
 # 230
->>11545
+>>11545
+
 Outstanding!
 
 # 231
@@ -2424,12 +2483,15 @@ Chobitsu
 -''hand-patch gunt links''
 
 # 233
->>11620
->>11622
+>>11620
+
+>>11622
+
 Sorry for not noticing this, my bad. I recently added CSP rules to prevent any sort of potential XSS, and forgot to consider that embeds need to be enabled too. Working on it now, they should work again soon.
 
 # 234
->>11626
+>>11626
+
 Alright, they seem to work again for me. Make sure to clear your cache if they don't work for you.
 
 # 235
@@ -2460,11 +2522,16 @@ I've been wanting to really focus on programming and trying to "catch up" to wha
 It's going to be shitty if society falls apart before we can make significant progress on robowaifus.
 
 # 239
->>11701
-its been a concern of mine too but I don't see us "collapsing" into something irreversibly pre-industrial. If anything it would still be like the poorer parts of Star Wars where they still have technology it's just old, re-purposed and fixed up with gum and duct tape.
-
-That being said, is there any reason why we can't have IRL collaboration? It would show a level of seriousness if some of us had actual workshops and space dedicated to this cause. I'd be the first if I was at a better place in my life.%% (It is getting there, but going through a divorce at the worst possible time, and then Covid right as I was getting back on my feet)%%
-
+>>11701
+
+its been a concern of mine too but I don't see us "collapsing" into something irreversibly pre-industrial. If anything it would still be like the poorer parts of Star Wars where they still have technology it's just old, re-purposed and fixed up with gum and duct tape.
+
+
+
+That being said, is there any reason why we can't have IRL collaboration? It would show a level of seriousness if some of us had actual workshops and space dedicated to this cause. I'd be the first if I was at a better place in my life.%% (It is getting there, but going through a divorce at the worst possible time, and then Covid right as I was getting back on my feet)%%
+
+
+
 Idk what I have for a vision of this other than maybe a shared or accessible space with spare parts, 3d printers, resources, etc. A Robowaifu Research Institute (and Laboratory) in so many words.
 
 # 240
@@ -2486,7 +2553,8 @@ Hello Anon, welcome. If you actually want to try your hand at it, then you might
 BTW, you can feel free to ask any 'silly' questions ITT, we welcome newcomers on our board.
 
 # 244
->Also, any doll owners or prospective doll owners, I would recommend you go to the gym and start lifting. It makes moving the doll around, especially laying her down MUCH easier. You don't even have to do a crazy amount. Just start with a basic bench press, deadlift, row, and arm routine.
+>Also, any doll owners or prospective doll owners, I would recommend you go to the gym and start lifting. It makes moving the doll around, especially laying her down MUCH easier. You don't even have to do a crazy amount. Just start with a basic bench press, deadlift, row, and arm routine.
+
 I find it hilarious imagining a bunch of buff classy men being robofuckers, probably rich too from pioneering robowaifus. I'm going to start lifting for my waifu.
 
 # 245
@@ -2494,7 +2562,8 @@ I find it hilarious imagining a bunch of buff classy men being robofuckers, prob
 Good idea. I did that for a 3DPD, so why not much moreso for an actually-classy companion instead? Anyone have some robowaifu-themed '''DO IT FOR HER''''s?
 
 # 246
->>11733
+>>11733
+
 It will also increase bloodflow and productivity.
 
 # 247
@@ -2559,7 +2628,8 @@ I'm no expert on natural language processing (NLP) Anon, but I think one reasona
 Does that kinda make sense?
 
 # 255
->>11704
+>>11704
+
 I wouldn't mind IRL collaboration with someone I trust but I live in the middle of nowhere off the grid. It's just not practical. Also building a lab too soon would just be burning money. I estimate I'll need at least $50k to make a full-size robowaifu and $2k to comfortably start printing a body and prototype, so I'm focusing on making big fuck you money first. Without money there's no chance anyone is going to build a robowaifu. Without a positive cash flow whatever workshop is created will shutdown.
 
 # 256
@@ -2599,12 +2669,15 @@ I'd suggest thinking about also setting up an RSS feed for your online newslette
 Did the two responses answer your question well enough Anon?
 
 # 263
->>11852
-"middle of nowhere" might be the best idea IMO. Seattle or Tech Valley are overpriced and already dominated by liberal elites. What if we found some inexpensive place (flyover country like Oklahoma or Nebraska) and bought an old warehouse that was being auctioned off. That's one idea I've been floating around.
+>>11852
+
+"middle of nowhere" might be the best idea IMO. Seattle or Tech Valley are overpriced and already dominated by liberal elites. What if we found some inexpensive place (flyover country like Oklahoma or Nebraska) and bought an old warehouse that was being auctioned off. That's one idea I've been floating around.
+
 I currently work from home (but not for myself) so technically I could move to anywhere, if that were something I needed to do.
 
 # 264
->>11930
+>>11930
+
 as far as any of the rurals would be concerned we'd just be a robotics startup. It would be above the heads or interest of anyone nosy and we would be a thousand miles out of sign of any feminists or whatnot looking to pick an easy target.
 
 # 265
@@ -2622,8 +2695,10 @@ What do you Anons think of that idea?
 What a gorgeous field of daisies. Splendid.
 
 # 267
->>11933
-exactly, we'd be approaching the objective from the OPPOSITE end of the degenerate sex-doll companies. The %% sexual capabilities %% could be the very last thing and could even be a mod kit. 
+>>11933
+
+exactly, we'd be approaching the objective from the OPPOSITE end of the degenerate sex-doll companies. The %% sexual capabilities %% could be the very last thing and could even be a mod kit. 
+
 aside from that, we could have a very mundane "face", a non-descript warehouse, which even if someone enters they just see machine parts, shelves, tools, computers. If we're common sense about it there's literally no worry.
 
 # 268
@@ -2636,7 +2711,8 @@ I don't see how it can go wrong, honestly. Of course I'm not so foolish to liter
 Lol where'd you go Anon? I hope I didn't say something wrong, I'll delete my post too. :^)
 
 # 270
->>11939
+>>11939
+
 nah it's all good, I just dont want to leave too much of a paper trail about myself or distract from the point of my original response
 
 # 271
@@ -2665,14 +2741,22 @@ Since the business idea is basically to do 'stealth', but fully-capable, robowai
 So, again, it's a given we're still dealing with a highly-complex humanoid robot here, it's well-understood.
 
 # 274
->>11943
-great ideas anon
-the good news is we don't really even need to go this deep though
-
-1. it doesnt have to be anonymous, simply have a basic robotics research company. We don't even have to specify that its "humanoid", and we certainly wouldn't mention the waifu aspect, that would be (metaphorically speaking) %% our black project accessible only on the secret basement level ; ) %%. 95% of the research is going to be on things like embedded hardware, OS, actuators, materials and fabrication, etc etc etc. All of this can be done in the open without needing to explain "what" it is for. Bonus: any advances or innovations can be patented and sold, they'd certainly be useful toward other applications
-
-2. Moreso the vision I had was simply for a physical place we could pool (some, not all, obviously) our resources and therefore get some leverage from our money and time, doing more together than we could in our own garages and typing to each other on a board. It would be voluntary and optional and anyone wishing to participate would obviously need some vetting and screening %% face it we're all weirdos but there's a difference between functionally eccentric geniuses and well.. those who are trouble. Speaking from experience %%
-Those who wish to live nearby can participate at a higher level but others can commit to a weekend or week a year if they want, sort of thing. 
+>>11943
+
+great ideas anon
+
+the good news is we don't really even need to go this deep though
+
+
+
+1. it doesnt have to be anonymous, simply have a basic robotics research company. We don't even have to specify that its "humanoid", and we certainly wouldn't mention the waifu aspect, that would be (metaphorically speaking) %% our black project accessible only on the secret basement level ; ) %%. 95% of the research is going to be on things like embedded hardware, OS, actuators, materials and fabrication, etc etc etc. All of this can be done in the open without needing to explain "what" it is for. Bonus: any advances or innovations can be patented and sold, they'd certainly be useful toward other applications
+
+
+
+2. Moreso the vision I had was simply for a physical place we could pool (some, not all, obviously) our resources and therefore get some leverage from our money and time, doing more together than we could in our own garages and typing to each other on a board. It would be voluntary and optional and anyone wishing to participate would obviously need some vetting and screening %% face it we're all weirdos but there's a difference between functionally eccentric geniuses and well.. those who are trouble. Speaking from experience %%
+
+Those who wish to live nearby can participate at a higher level but others can commit to a weekend or week a year if they want, sort of thing. 
+
 Our very own Legion of Doom ; )
 
 # 275
@@ -2686,7 +2770,8 @@ I'm not here to build a company and have to deal with all that is related to tha
 In worst case it would end in people fighting each other with lawyers and in best case with a lot of politics and overhead, while getting distracted from the goal for the next 10 years or so.
 
 # 277
->>11958
+>>11958
+
 You don't want to be part of a robowaifu legion of doom then. Your loss : (
 
 # 278
@@ -2725,7 +2810,8 @@ But I certainly agree we don't want companies or their politics or agendas to __
 ==Pay it forward, everyone.==
 
 # 283
->>11982
+>>11982
+
 Trust me Anon, the LAST thing you want is some satan worshipping commie big tech corporation trying to demand  exorbitant prices on a pozzed series of robo waifus.
 
 # 284
@@ -2735,17 +2821,25 @@ Oh, I do trust you on that one Anon. So do we all here...it's literally the last
 They're going to do their evil regardless of us. Our agenda is simply to outpace them and get it broadcast far-and-wide __''first''__.
 
 # 285
->>11982
->keeping companies out' is definitely not a goal here on /robowaifu/
+>>11982
+
+>keeping companies out' is definitely not a goal here on /robowaifu/
+
 agreed, think about what innovations could be jumpstarted through R/W projects. Much like space exploration did. Say some of us create a specific kind of solenoid for example, and manufacture them for sale. How would that be "selling out our waifus" to corporate overloards? From an external pov we'd just be a robotics research facility that manufactured a very unique and useful specific part. Literally no one would have any idea how or why we were coming up with it, and they would probably not care or just assume it was for something mundane like a burger flipper robot.
 
 # 286
->>12137
-I think the issue anons have is more so most startups are just in it to make money. If a larger corporation or investors come along, 99 in 100 are going to take the money and exit, and then they're going to attack competitors tooth and nail, including open-source that might threaten their business. People generally think open-source is low quality but it's not necessarily because they're lacking man-power or skill. It's because businesses do market research, analyze competing projects, find their weaknesses that users care about and simply outdo them since their bottom line depends on it.
-
-For anything we do to even stand a chance it needs to be convenient to use and run fast on common hardware. Look at NovelAI for example. People could train their own models with pre-existing scripts but they still pay a company to do it instead because it's easier and gets fast results. In terms of chatbots NovelAI is leaps and bounds ahead of what anyone here is doing. If someone gets a linear transformer model pretrained or fast weight programmers working it might level the playing field for a little while but companies will catch up and outcompute us.
-
->>11986
+>>12137
+
+I think the issue anons have is more so most startups are just in it to make money. If a larger corporation or investors come along, 99 in 100 are going to take the money and exit, and then they're going to attack competitors tooth and nail, including open-source that might threaten their business. People generally think open-source is low quality but it's not necessarily because they're lacking man-power or skill. It's because businesses do market research, analyze competing projects, find their weaknesses that users care about and simply outdo them since their bottom line depends on it.
+
+
+
+For anything we do to even stand a chance it needs to be convenient to use and run fast on common hardware. Look at NovelAI for example. People could train their own models with pre-existing scripts but they still pay a company to do it instead because it's easier and gets fast results. In terms of chatbots NovelAI is leaps and bounds ahead of what anyone here is doing. If someone gets a linear transformer model pretrained or fast weight programmers working it might level the playing field for a little while but companies will catch up and outcompute us.
+
+
+
+>>11986
+
 Honestly, if we're going to compete on that level we need a better plan than wishful thinking that our tinkering around is going to amount to anything. It's great we've come a long ways from knowing fuck all and inspired more anons to get involved, back in 2017 I couldn't imagine we'd make 1/10th the progress we have by now, but the reality is we're still falling behind and I don't have any ideas how to up my game besides burning money on GPUs to get a linear FWP model working that achieves sub 12 perplexity.
 
 # 287
@@ -2822,7 +2916,8 @@ Still, it's a good point. As I've said many times in numerous venues, I absolute
 -''minor prose edit''
 
 # 293
->>12291
+>>12291
+
 Well I got some cash and time to burn so why not. I'll post the link here once everything is setup.
 
 # 294
@@ -2857,7 +2952,8 @@ Lol, nothing could be quite that bad OP. Besides, would that really fix anything
 If we can ever create even __one__ open-source robowaifu that is at least as good a companion as your OP pic, then we'll all be absolutely golden.
 
 # 302
->you gonna end up like Chris Chan °3°
+>you gonna end up like Chris Chan °3°
+
 this implies the existence of a Chris Chan "2"
 
 # 303
@@ -2953,23 +3049,31 @@ Despite that, I'll go ahead and unlock the roastie thread #2. But be advised thi
 Perfection has been achieved. Ice cream chan ushers in new golden era of world peace and prosperity.
 
 # 315
->>12580
->ice cream waifu
-sir, you are on the wrong board
+>>12580
+
+>ice cream waifu
+
+sir, you are on the wrong board
+
 ;-)
 
 # 316
 Not a robowaifu, but my single-celled companions shall never be forgotten. May they rest eternally in putrid jelly.
 
 # 317
->>12623
-hope you're not planning on culturing cells to put inside waifu
-
+>>12623
+
+hope you're not planning on culturing cells to put inside waifu
+
+
+
 https://onezero.medium.com/lab-grown-mini-brains-have-human-like-brain-activity-2b5eeac9e969
 
 # 318
->>12624
-there are so many reasons I'm leaving this one off the table
+>>12624
+
+there are so many reasons I'm leaving this one off the table
+
 aside from visceral disgust
 
 # 319
@@ -2984,7 +3088,7 @@ Despite this, even plain nutrient agar-based microbiology for revealing a few of
 >>12580
 >Perfection has been achieved. Ice cream chan ushers in new golden era of world peace and prosperity.
 LOL. 
-<Unleash Icecream-chan robowaifu on an unsuspecting world
+< Unleash Icecream-chan robowaifu on an unsuspecting world
 >'''The Madmen'''
 
 >>12584
@@ -3008,7 +3112,8 @@ Thanks for the heads-up Anon. Mind linking to the the specific thread you mean h
 Never mind. I think te forum has problems. My comment wasn't there, so the thread got not bumped.
 
 # 324
-Ey there, i'm someone interested in making robo waifus possible, what would you say is the biggest hurdle right now? Programming? Modeling? materials?
+Ey there, i'm someone interested in making robo waifus possible, what would you say is the biggest hurdle right now? Programming? Modeling? materials?
+
 I ask because i want to know what kind of money would need to be put where to have this kind of stuff be an actual possibility, would i need to give money to a hardware engineer? etc? give me some info on what the people here would actually like funding for.
 
 # 325
@@ -3018,19 +3123,26 @@ This is a great set of questions OP but it's not really something that supports 
 And actually, there are answers to your questions already here on the board in various places. If you can afford the time in your schedule, you might have a look around (or task someone else to do so) and see what's already been discussed here. Also, if no one else steps up to answer you in the other thread, I'll take a shot at it later in the week there myself. Regards.
 
 # 326
->>>12721
+>>>12721
+
 lightweight streamlined and powerful actuators, power storage and delivery systems, a kinesthetic AI with the processing power to translate all of the small movements and on the fly adjustments into actual functions of a type we would understand (walk over here, pick that object up, turn on light switch, don't step on that cat) and that being said the ability to model it's environment and make sense of it all on the fly.
 
 # 327
->>12723
-i think he forgot to properly move the post over....
+>>12723
+
+i think he forgot to properly move the post over....
+
 but hold on let me break that down, lightweight streamlined and powerful actuators, what do you mean by this, can you show me examples? how much are they normally?
 
 # 328
->>12724
-This guy is onto something
-https://www.youtube.com/channel/UCEVelHmwuCqyje6YTAP2UIA
-But still to build a waifu from all those parts you might end up with something bulky, noisy, and overheated. Granted there are innovations such as miniature/micro pneumatics, hydraulic transformers (as someone else brought up). But yes, as far as moving like a we do, seems animals still have the market on efficient energy storage, delivery and power per pound. It's theoretically possible, but it seems like rather than duplicating flexible natural movements of opposing muscle groups - robotics is still stuck on robots that move via electrical/mechanical servos, slow, rigid, awkward and often requiring a large bulky battery to power. 
+>>12724
+
+This guy is onto something
+
+https://www.youtube.com/channel/UCEVelHmwuCqyje6YTAP2UIA
+
+But still to build a waifu from all those parts you might end up with something bulky, noisy, and overheated. Granted there are innovations such as miniature/micro pneumatics, hydraulic transformers (as someone else brought up). But yes, as far as moving like a we do, seems animals still have the market on efficient energy storage, delivery and power per pound. It's theoretically possible, but it seems like rather than duplicating flexible natural movements of opposing muscle groups - robotics is still stuck on robots that move via electrical/mechanical servos, slow, rigid, awkward and often requiring a large bulky battery to power. 
+
 If we could deliver power enough to create a fully self-ambulatory waifu, in streamlined, feminine form-factor, while via creative use of cabling/hydraulics deliver the massive power necessary and coordinate it properly so the thing doesn't hurt others or itself in the process, this would be a significant leap toward our goal.
 
 # 329
@@ -3041,7 +3153,8 @@ Heh apologies. Because of the typically sporadic nature of traffic on imageboard
 Just let us know if we can help you with further information (but you already have a well-versed anon helping you out it seems).
 
 # 330
->>12725
+>>12725
+
 Well we don't need to jump the gun, but you didn't answer me, how much would moving towards even somewhat okay movement cost? what parts would you need? how much would they cost, would they need to be custom made? give me ballpark ranges
 
 # 331
@@ -3055,12 +3168,15 @@ I could only think of some specialist from the outside building something which 
 Idk. What kind of hardware? For a full robowaifu? He wouldn't know how to do that, just bc he's an engineer.
 
 # 332
->>12733
->- Model of a simplified female skeleton (probably in OpenScad or Blender), which can be changed in size or in some details as easy as possible.
+>>12733
+
+>- Model of a simplified female skeleton (probably in OpenScad or Blender), which can be changed in size or in some details as easy as possible.
+
 This sounds feasible and rather cheap, i'll ask around the 3d lads i know for you.
 
 # 333
->>12727
+>>12727
+
 I'd imagine in the tens of thousands of dollars are a bare minimum entry level enthusiast garage lab, asking for a price point on such a project is really up for grabs. Maybe someone else here who has an active project in the works might have a better idea. My goal is to eventually budget 20k for a starter garage/outbuilding lab.
 
 # 334
@@ -3075,14 +3191,19 @@ Thanks.
 I have no idea how you come up with such a number. Doing deep learning might be expensive, the rest is rather about learning and trial and error.
 
 # 335
->>12746
->I have no idea how you come up with such a number. Doing deep learning might be expensive, the rest is rather about learning and trial and error.
-
+>>12746
+
+>I have no idea how you come up with such a number. Doing deep learning might be expensive, the rest is rather about learning and trial and error.
+
+
+
 you're going to want parts to build the body right? even if you're reverse engineering another robot body you're going to need tools, spare parts and testing equipment. If you're just looking at making a disembodied AI like that anon with the chatbot/waifu, then that's a whole other thing.
 
 # 336
->>12746
-here's a good thread for that question
+>>12746
+
+here's a good thread for that question
+
 >>4797
 
 # 337
@@ -3098,11 +3219,13 @@ I believe it's way harder than you think. If you actually do that, maybe break i
 I don't see the expensive tool part. Space for building different prototypes and testing parts will become more and more important, though. It's better to live in a house than flat, or even better to have some big hall.
 
 # 338
->>12809
+>>12809
+
 So one anon has a workshop with a milling machine, aluminum foundry, welding gear and lathe. Not counting the structure I can't image all of that was under 10k - I'd consider that bare minimum, and I can't imagine not also needing more specialized and durable tools than your basic set at w*l-mart. Plus materials. That's where I got that ballpark from tbh.
 
 # 339
->>12809
+>>12809
+
 Can you give me a full shopping list of what you want in the model then? I think if i just get a basic skeleton and then add onto it that would be easier at first, so far i haven't found anybody who can do the job.
 
 # 340
@@ -3115,7 +3238,8 @@ Here my spine early prototype: >>12882
 obj bone models: >>12878
 
 # 341
->>12884
+>>12884
+
 You want a female pelvis, to be modeled?
 
 # 342
@@ -3163,7 +3287,8 @@ It didn't work with Summer Glau's roles, have to try again later, but still got 
 The website is somewhat overrun, currently down, and it seems not to know about Chi?!? Didn't get a result including her after more than a day.
 
 # 351
->>12967
+>>12967
+
 I think the idea is to ask it to show you the face of something more general and not specific but who knows, keep trying I guess
 
 # 352

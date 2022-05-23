@@ -4,11 +4,13 @@ Does the government have the will and the talent to finally provide us with cute
 What do you think anon? Can The Don actually make anime real?
 
 # 2
->>251
+>>251
+
 No this ship sailed at the middle of 2017. Sorry.
 
 # 3
->Let government make our robowaifus so they can be spy robowaifus
+>Let government make our robowaifus so they can be spy robowaifus
+
 Why would you want that?
 
 # 4
@@ -18,12 +20,18 @@ Good point. As this was a shitpost thread, I'm tempted to shitpost in reply. :^)
 But yeah actually really good point anon, /robowaifu/ is very aware of the issue of privacy and security. As the posts get repopulated across the board, that should become quite obvious to anyone following along.
 
 # 5
-I know this is a shitpost thread but the issue of governments and their shills and bureaucrats and corporate sponsors and whatever other (((friends))) they have, and how they have affected the current landscape (including the social landscape) leading to the desire (or even need) for robowaifus is understandable. Governments waste resources so that those involved in the very top have an easier, better life than you. In the current corporate era they're mostly wasting your money, which is your leverage for trading for more goods and services, and in the current social climate, women, love, and sex. Every time they waste your money, that's basically one new expense you can't have. Most governments of the western world promise you some "economic freedom" line of bullshit (which you do not have) but it is only ever granted to the wealthiest corporate monopolies who pay a little up front and get huge returns as their governments now allow them to get away with murder. If you line the pockets of the politicians and the bureaucrats and the ((())) and whoever else, you get some interesting exemptions. But any time there's a legitimate public service to fulfill, they come taking from those with the least power, and they take the most from them.
-
-The government is interesting in that it will create its own problems and rely on the public to fund fixes, or waste their time trying to at the least. Feminism and all of that women's "liberation" shit served no purpose other than to have a larger amount of people eligible to be taxed, and keep them working and not having babies and worrying about family so the money just keeps rolling in indefinitely. Think of it: if it works, you can damn near double your profits due to doubling the working class. But when you have a world without women fulfilling their role, you get some catastrophic results. Even if we haven't seen the total catastrophe yet, if things continue, it's only a matter of time before we do.
-
-Those at the very top are not interested in you having love and companionship. To the government, an expense of "give men robowaifus" would get laughed at by all of them who are currently snorting cocaine off of hookers. For all of the money they could be spending on robotics to fulfill personal needs of the men of their country, they instead are spending it to shill you social policies like feminism and others that are damn near strangling the life out of the societies they inflict. The only interest in robotics that these faggots have is surely for manufacturing and other labor so that they can automate and replace you ''entirely'' and then you serve absolutely no purpose at all. And once you are worth nothing to them, what do you think they'll do to you?
-
+I know this is a shitpost thread but the issue of governments and their shills and bureaucrats and corporate sponsors and whatever other (((friends))) they have, and how they have affected the current landscape (including the social landscape) leading to the desire (or even need) for robowaifus is understandable. Governments waste resources so that those involved in the very top have an easier, better life than you. In the current corporate era they're mostly wasting your money, which is your leverage for trading for more goods and services, and in the current social climate, women, love, and sex. Every time they waste your money, that's basically one new expense you can't have. Most governments of the western world promise you some "economic freedom" line of bullshit (which you do not have) but it is only ever granted to the wealthiest corporate monopolies who pay a little up front and get huge returns as their governments now allow them to get away with murder. If you line the pockets of the politicians and the bureaucrats and the ((())) and whoever else, you get some interesting exemptions. But any time there's a legitimate public service to fulfill, they come taking from those with the least power, and they take the most from them.
+
+
+
+The government is interesting in that it will create its own problems and rely on the public to fund fixes, or waste their time trying to at the least. Feminism and all of that women's "liberation" shit served no purpose other than to have a larger amount of people eligible to be taxed, and keep them working and not having babies and worrying about family so the money just keeps rolling in indefinitely. Think of it: if it works, you can damn near double your profits due to doubling the working class. But when you have a world without women fulfilling their role, you get some catastrophic results. Even if we haven't seen the total catastrophe yet, if things continue, it's only a matter of time before we do.
+
+
+
+Those at the very top are not interested in you having love and companionship. To the government, an expense of "give men robowaifus" would get laughed at by all of them who are currently snorting cocaine off of hookers. For all of the money they could be spending on robotics to fulfill personal needs of the men of their country, they instead are spending it to shill you social policies like feminism and others that are damn near strangling the life out of the societies they inflict. The only interest in robotics that these faggots have is surely for manufacturing and other labor so that they can automate and replace you ''entirely'' and then you serve absolutely no purpose at all. And once you are worth nothing to them, what do you think they'll do to you?
+
+
+
 If the world governments wanted to waste time, money, and energy to give men robowaifus they'd be better off just undoing feminism and then we wouldn't need them. Get women back into their roles as women, supporting their men. It'd be easier and likely cheaper for them to do. But governments are part of the reason why we need robowaifus in the first place.
 
 # 6
@@ -54,14 +62,22 @@ kek
 >attack against the West ''from'' having healthy...*
 
 # 9
->>1953
->And feminism is the gateway drug to depravity. It leads directly to the majority of the other '-isms' plaguing our civilization today.
-It'll eventually lead to replacement if nothing else. If your people don't reproduce and have strong family values, they will perish.
-
->Not that I think you're actually suggesting they will attempt to, but realistically it can't happen anyway. Feminism is a literal Pandora's Box
-Oh they won't, even if they could. And you're probably right, I don't know how to reverse this. It could possibly be done with some serious force and serious un-brainwashing of the masses. Maybe.
-
->I like you anon. I'm gonna build you two robowaifus for a Christmas starter-pack someday. :^)
+>>1953
+
+>And feminism is the gateway drug to depravity. It leads directly to the majority of the other '-isms' plaguing our civilization today.
+
+It'll eventually lead to replacement if nothing else. If your people don't reproduce and have strong family values, they will perish.
+
+
+
+>Not that I think you're actually suggesting they will attempt to, but realistically it can't happen anyway. Feminism is a literal Pandora's Box
+
+Oh they won't, even if they could. And you're probably right, I don't know how to reverse this. It could possibly be done with some serious force and serious un-brainwashing of the masses. Maybe.
+
+
+
+>I like you anon. I'm gonna build you two robowaifus for a Christmas starter-pack someday. :^)
+
 Well thank you, I look forward to the catgrill meido harem. Actually think about it, in a production-based world of companionship, robowaifus could outnumber men. Your anime harem of your dreams could be a reality. ''IMAGINE''.
 
 # 10
@@ -70,8 +86,10 @@ The world's gonna need a whole lot bigger stock of cat-toys someday soon anon.
 ==SOON==
 
 # 11
->>1957
-Shit, how am I gonna fug all this catgirl? I ain't even mad, even if it kills me. Sounds like a good way to go.
+>>1957
+
+Shit, how am I gonna fug all this catgirl? I ain't even mad, even if it kills me. Sounds like a good way to go.
+
 %%Soon.%%
 
 # 12
@@ -83,10 +101,14 @@ https://www.invidio.us/watch?v=SJ2hJezvd2I
 >>1959
 
 # 14
->>1959
-God, I want to **hug** Azu-nyan so badly. I also hope for that I'll be able to read Nekopara Vol. 4 before I **die.** **Shigure** ==needs== to be lewded.
->Not posting this
-https://invidio.us/watch?v=KxGRhd_iWuE
+>>1959
+
+God, I want to **hug** Azu-nyan so badly. I also hope for that I'll be able to read Nekopara Vol. 4 before I **die.** **Shigure** ==needs== to be lewded.
+
+>Not posting this
+
+https://invidio.us/watch?v=KxGRhd_iWuE
+
 http://axqzx4s6s54s32yentfqojs3x5i7faxza6xo3ehd4bzzsg2ii4fv2iid.onion/watch?v=KxGRhd_iWuE
 
 # 15
@@ -95,9 +117,12 @@ heh, thanks for correcting me on that video anon. now i'm motivated to go back a
 >makes coffee, fires up editor*
 
 # 16
->>1962
-Which editor do you use and with which language, if I may ask?
-I honestly prefer tea or hot chocolate over coffee, and I've just made some hot chocolate to eat with a paluch (literally means a stubby finger/big toe in Polish). Pic related is how paluch looks like.
+>>1962
+
+Which editor do you use and with which language, if I may ask?
+
+I honestly prefer tea or hot chocolate over coffee, and I've just made some hot chocolate to eat with a paluch (literally means a stubby finger/big toe in Polish). Pic related is how paluch looks like.
+
 Now I'm going to watch my **huge** backlog of anime!
 
 # 17
@@ -110,14 +135,19 @@ You may. I generally use Juci++ for project work, vim+tmux for systems mgmt and 
 sounds good, i'll have to try it someday anon.
 
 # 18
->>1957
->>1959
-I made us a cute little meme based on the exchange we had today. Hope you like it.
-
+>>1957
+
+>>1959
+
+I made us a cute little meme based on the exchange we had today. Hope you like it.
+
+
+
 ''IMAGINE''.
 
 # 19
->>1965
+>>1965
+
 Shit I forgot to make a "drowning in pussy" joke. Get it? Because they're cats? %%Sorry, I'm leaving now.%%
 
 # 20
@@ -125,8 +155,10 @@ Shit I forgot to make a "drowning in pussy" joke. Get it? Because they're cats? 
 a cute. could you possibly figure some way to pare this down to a 100x300 png? i imagine the bo would be open to adding to the board's banners if you can manage it somehow.
 
 # 21
->>1968
-%%I am the BO.%%
+>>1968
+
+%%I am the BO.%%
+
 Not sure how it'd look at that resolution. Banners are tough.
 
 # 22

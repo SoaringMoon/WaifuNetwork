@@ -53,12 +53,18 @@ www.ebay.com/itm/Japanese-silicone-sex-doll-silicone-vagina-japaneese-love-infla
 >inb4 robosquidwaifuhair full **body jobs**
 
 # 11
-Powered exoskeletons for construction workers are on the horizon, this from Makita's pending patents. We'll probably start seeing them sold around 2021.
-
->>707
-A big development in soft robotics is the creation of flexible low powered pump that can be installed inside the robot
->The pump has a tube-shaped channel, 1mm in diameter, inside of which rows of electrodes are printed. The pump is filled with a dielectric liquid. When a voltage is applied, electrons jump from the electrodes to the liquid, giving some of the molecules an electrical charge. These molecules are subsequently attracted to other electrodes, pulling along the rest of the fluid through the tube with them. “We can speed up the flow by adjusting the electric field, yet it remains completely silent,” says Vito Cacucciolo, a post-doc at the LMTS and the lead author of the study.
-https://robohub.org/a-miniature-stretchable-pump-for-the-next-generation-of-soft-robots/
+Powered exoskeletons for construction workers are on the horizon, this from Makita's pending patents. We'll probably start seeing them sold around 2021.
+
+
+
+>>707
+
+A big development in soft robotics is the creation of flexible low powered pump that can be installed inside the robot
+
+>The pump has a tube-shaped channel, 1mm in diameter, inside of which rows of electrodes are printed. The pump is filled with a dielectric liquid. When a voltage is applied, electrons jump from the electrodes to the liquid, giving some of the molecules an electrical charge. These molecules are subsequently attracted to other electrodes, pulling along the rest of the fluid through the tube with them. “We can speed up the flow by adjusting the electric field, yet it remains completely silent,” says Vito Cacucciolo, a post-doc at the LMTS and the lead author of the study.
+
+https://robohub.org/a-miniature-stretchable-pump-for-the-next-generation-of-soft-robots/
+
 http://archive.is/GZRc4
 
 # 12
@@ -75,8 +81,10 @@ That pump is surprising, thanks anon.
 Anyone know of any good designs or prosthetics for artificial spines?
 
 # 14
->>719
-Saw the practical first exoskeleton being sold online today, pretty expensive for what it is.
+>>719
+
+Saw the practical first exoskeleton being sold online today, pretty expensive for what it is.
+
 https://www.japantrendshop.com/muscle-suit-every-wearable-exoskeleton-tight-fit-p-5135.html
 
 # 15
@@ -94,17 +102,25 @@ https://www.titech.ac.jp/english/news/2019/044723.html
 Could these designs lead to high-reliability body positional-awareness robowaifu systems? That is, strategically load the robo-armature up with these things all the way out to the fingertips and then integrate all the data using TensorFlow (or some other mathematical modeling system) to calculate the details of the waifu's body pose  in realtime?
 
 # 17
->>1697
->To my thinking, this is little more than just a fancy weight belt. It appears to have little to no active behavioral capacity, which a real exoskeleton would have.
+>>1697
+
+>To my thinking, this is little more than just a fancy weight belt. It appears to have little to no active behavioral capacity, which a real exoskeleton would have.
+
 it seems to be a passive mobility suit more than an attempt at an exoskeleton, it seem to help the support by compressing air when bending over, just like how fat belly are used as spring by powerlifter when squatting.
 
 # 18
-I've been looking at sex doll skeletons and they're all specifically designed for high pressure TPE injection, probably the same with silicone dolls since they're heat cured to save time. Doesn't seem like they'll be of much use in any robotics project and because of the manufacturing process adding automation in sex dolls is practically impossible.
-https://www.finelovedolls.com/forums/topic/skeletons-connectors/
-
->>1697
-It is a real exoskeleton even if it's soft and works passively using air resistance. Using the same principle inside a robot connected to the skeleton this design cuts down weight and applies mechanical leverage where and when you need it.
-
+I've been looking at sex doll skeletons and they're all specifically designed for high pressure TPE injection, probably the same with silicone dolls since they're heat cured to save time. Doesn't seem like they'll be of much use in any robotics project and because of the manufacturing process adding automation in sex dolls is practically impossible.
+
+https://www.finelovedolls.com/forums/topic/skeletons-connectors/
+
+
+
+>>1697
+
+It is a real exoskeleton even if it's soft and works passively using air resistance. Using the same principle inside a robot connected to the skeleton this design cuts down weight and applies mechanical leverage where and when you need it.
+
+
+
 I've seen similar exoskeletons for the legs that use air inside pistons being tested by the US military to help soldiers carry weight.
 
 # 19
@@ -121,16 +137,26 @@ Soft robotics is good for hands for robowaifus, also nether regions. Got to keep
 A mix of hard and soft robotics is the ideal, for safety.
 
 # 21
-Just buy plastic skeleton and install appropriate mechanical joints between bones.
-Ball joints and bearings for efficiency.
-You could go classic and slap some lubricant between the original joints and have the skin hold the whole thing together.
-Polyurethane for the spine and other areas that need to be flexible but only acutely.
-They look to cost on average 200 American pesos.
-Just have to find someone selling a 4ft 10in cutie.
-
-Should hold up just fine as long as you're not abusive to your waifu %%you sick fuck%%.
-
-You could 3D print customized parts.
+Just buy plastic skeleton and install appropriate mechanical joints between bones.
+
+Ball joints and bearings for efficiency.
+
+You could go classic and slap some lubricant between the original joints and have the skin hold the whole thing together.
+
+Polyurethane for the spine and other areas that need to be flexible but only acutely.
+
+They look to cost on average 200 American pesos.
+
+Just have to find someone selling a 4ft 10in cutie.
+
+
+
+Should hold up just fine as long as you're not abusive to your waifu %%you sick fuck%%.
+
+
+
+You could 3D print customized parts.
+
 I'm no skeleton expert but the main variability seems to be in the skull, hips, and ribcage.
 
 # 22
@@ -138,9 +164,12 @@ I'm no skeleton expert but the main variability seems to be in the skull, hips, 
 Whereas, using a human like skeleton has obvious advantages, the cheap plastic ones are really only good for wheelchair waifus. This mostly because altering the legs to the point of being able to use them for bipedal locomotion would require similar effort to building from scratch. Upper body seems like a great idea though. May be worth looking into.
 
 # 23
->>1884
-I had one class with a skeleton and I remember it being really durable. Considering that a real human skeleton is like 3 grand, I doubt someone is selling a quality skeleton made with composite materials. I might buy a skeleton just to see how it is because I found a shorter one for $90.
-If only the legs were the problem anons could spend a few hours reinforcing the tibia, fibia, and femur. I imagine the process would simply be cutting the bones down the middle and slapping the metal in the middle and screwing the sandwich together. We don't have to worry about compressive strength, just bending.
+>>1884
+
+I had one class with a skeleton and I remember it being really durable. Considering that a real human skeleton is like 3 grand, I doubt someone is selling a quality skeleton made with composite materials. I might buy a skeleton just to see how it is because I found a shorter one for $90.
+
+If only the legs were the problem anons could spend a few hours reinforcing the tibia, fibia, and femur. I imagine the process would simply be cutting the bones down the middle and slapping the metal in the middle and screwing the sandwich together. We don't have to worry about compressive strength, just bending.
+
 There's also some 3D printing filaments that have glass fiber in them. Obviously not longchain but it might be good enough.
 
 # 24
@@ -342,18 +371,30 @@ website:http://sansogyorai00.blog54.fc2.com/blog-entry-9.html
 Is there more info on such joints?
 
 # 53
->>7422
-I've never seen such an elaborate papier mâché style model before. The more recent blog post of his has higher resolution images but it's difficult to tell what the joints are made of.
-
-If I had to guess it might be custom joints based on the ones used in 1/12 scale model gundam & evangelion kits. But according to his site everything is 100% custom and of his own design;
-私は電力を必要とする機械器械道具を使いません
-紙以外の素材も一切使用していません
-全て脳内設計と
-完全な手作業のみで製作しました｡
-
-I don't use machines, instruments, tools that require power.
-No materials other than paper are used
-It's all about brain design
+>>7422
+
+I've never seen such an elaborate papier mâché style model before. The more recent blog post of his has higher resolution images but it's difficult to tell what the joints are made of.
+
+
+
+If I had to guess it might be custom joints based on the ones used in 1/12 scale model gundam & evangelion kits. But according to his site everything is 100% custom and of his own design;
+
+私は電力を必要とする機械器械道具を使いません
+
+紙以外の素材も一切使用していません
+
+全て脳内設計と
+
+完全な手作業のみで製作しました｡
+
+
+
+I don't use machines, instruments, tools that require power.
+
+No materials other than paper are used
+
+It's all about brain design
+
 It was made only by complete handwork.
 
 # 54
@@ -440,11 +481,16 @@ I'm looking forward to find out myself about that.
 My browser offered translation, but didn't look into it yet. The inspiration is more important to me right now. Would need to be in a usable CAD file format anyways, and then skills to adept it to the way one wants to build a bot out of it. I'd like to learn to do this on my own. Then the rest should be easier. Hopefully I'm going to do so, soon.
 
 # 70
-I'd like to try some tests with a special composite aluminum panel called 'Hylite' but finding this material is next to impossible. From the reviews I've seen on some consumer products that use it(ergonomic folding laptop holders) and a 3d printer called Zatsit that appeared on kickstarter but seemed to have gone nowhere this might be the perfect material for building lightweight robotic frames with built in joints. There were some samples sold on ebay several years back but they're not there anymore. One store in the UK still sells it but they don't ship internationally, it may have been the same seller on ebay.
-
->>7762
-You wouldn't necessarily need those files if the pictures released publicly are detailed enough to reverse engineer. When I first saw the eye movement mechanism here >>7725 I immediately tried to figure out how it worked but it took me awhile as the belt on the motor was the same color as everything else. The perspective also threw me off a bit. But there's enough there to recreate it.
-
+I'd like to try some tests with a special composite aluminum panel called 'Hylite' but finding this material is next to impossible. From the reviews I've seen on some consumer products that use it(ergonomic folding laptop holders) and a 3d printer called Zatsit that appeared on kickstarter but seemed to have gone nowhere this might be the perfect material for building lightweight robotic frames with built in joints. There were some samples sold on ebay several years back but they're not there anymore. One store in the UK still sells it but they don't ship internationally, it may have been the same seller on ebay.
+
+
+
+>>7762
+
+You wouldn't necessarily need those files if the pictures released publicly are detailed enough to reverse engineer. When I first saw the eye movement mechanism here >>7725 I immediately tried to figure out how it worked but it took me awhile as the belt on the motor was the same color as everything else. The perspective also threw me off a bit. But there's enough there to recreate it.
+
+
+
 He's probably using TPU or TPE filament for the outside of the ball so it's constantly gripping properly inside the joint. Would also explain why they're black. Would be fine for a doll that you'd want to pose but for a robot all that friction would make it difficult to have smooth movements. I'd try using high friction silicon tape instead of TPU/TPE in this situation as it's much cheaper.
 
 # 71
@@ -628,7 +674,8 @@ i'm only starting to get into the technical side of the robowaifu idea, but this
 Thanks Anon! Yes, that is a really clever set of designs that team are using. Keeping the mass of the actuators themselves ''out'' of the limbs themselves may prove to be the key to giving us all fluid, smoothly-moving robowaifus. Please drop more interesting things here for us.
 
 # 104
->>8461
+>>8461
+
 gladly :3 of course everything i'll find will be shared as to further the good cause! a friend of mine, who works with orthopedics showed this to me, he has a project idea i'd like to help him with to make affordable opensource prosthetics, i'm sure i'll learn a good deal to make those useful for this kind of robotics >>8461
 
 # 105
@@ -964,7 +1011,8 @@ The ''Medical Prosthetics'' industry may inform our approaches with the material
 Good luck with your prototyping efforts Anon. Please keep us up to date!
 
 # 166
->>15194
+>>15194
+
 Interesting. I will look into making negatives of my molds so that the silicone can go over a shell.
 
 # 167

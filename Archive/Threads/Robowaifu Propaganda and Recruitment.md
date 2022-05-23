@@ -1,17 +1,30 @@
 # 1
-Attention drawfags and writefags!  Your skills will be needed.
-   The task of building and designing a robowaifu is a herculean quest.  As great as this community is, /robowaifu/ simply does not have the manpower to real our goal of DIY robowaifus.  Luckily for us there are several communities on the internet that we could find new recruits or allies to help us build our waifus:
-
-MGTOW - These guys know all about the legal pitfalls of marriage and the dangers of feminism.  There is already a lot of talk about sex robots in MGTOW communities.  It shouldn't be a hard sell to get them to come here.
-
-Incels - Guys that can't get laid.  The opportunity for love and companionship should be enough to bring some of these guys over.  We need to be careful when recruiting from some of their communities.  We don't want to attract negative attention.
-
-Monster girls/furry/mlp fandoms - The only way these guys are going to be able to have their harpy/elf/goblin/anthro/pony/whatever gf is with a robowaifu.  They have an interest in seeing us succeed.  Again we need to be careful here not to attract the wrong kind of people that will bring us the wrong kind of attention.
-
-Male STEM students - Generally these guys aren't going to get laid until after they have established themselves.  A robowaifu could really help them.  This may be a harder sell because many of them have been brainwashed in university, but they have skills that we could really use.
-
-Transhumanists/biohackers - Many of the technologies involved in building a robowaifu could be used in transhumanist or biohacking applications such as building an avatar.  They may have some interest in helping us out.  We will need to be careful which transhumanist communities we go after as many of them are full of feminism, tumblr tier sexualities and genders, and SJW's.
-
+Attention drawfags and writefags!  Your skills will be needed.
+
+   The task of building and designing a robowaifu is a herculean quest.  As great as this community is, /robowaifu/ simply does not have the manpower to real our goal of DIY robowaifus.  Luckily for us there are several communities on the internet that we could find new recruits or allies to help us build our waifus:
+
+
+
+MGTOW - These guys know all about the legal pitfalls of marriage and the dangers of feminism.  There is already a lot of talk about sex robots in MGTOW communities.  It shouldn't be a hard sell to get them to come here.
+
+
+
+Incels - Guys that can't get laid.  The opportunity for love and companionship should be enough to bring some of these guys over.  We need to be careful when recruiting from some of their communities.  We don't want to attract negative attention.
+
+
+
+Monster girls/furry/mlp fandoms - The only way these guys are going to be able to have their harpy/elf/goblin/anthro/pony/whatever gf is with a robowaifu.  They have an interest in seeing us succeed.  Again we need to be careful here not to attract the wrong kind of people that will bring us the wrong kind of attention.
+
+
+
+Male STEM students - Generally these guys aren't going to get laid until after they have established themselves.  A robowaifu could really help them.  This may be a harder sell because many of them have been brainwashed in university, but they have skills that we could really use.
+
+
+
+Transhumanists/biohackers - Many of the technologies involved in building a robowaifu could be used in transhumanist or biohacking applications such as building an avatar.  They may have some interest in helping us out.  We will need to be careful which transhumanist communities we go after as many of them are full of feminism, tumblr tier sexualities and genders, and SJW's.
+
+
+
 Cyberpunks and technophiles - These guys (and they are usually guys) are all around into technology and may just enjoy working on the kinds of projects we need to do.  They are often into programming and AI.
 
 # 2
@@ -34,12 +47,15 @@ It may be wise to target imageboard communities first so we don't have to integr
 Seems a reasonable idea, I think I'd agree with this Anon.
 
 # 5
-Ok, I guess you might be able to call me a writefag. I am also a newfag to programming and this board in general I feel that we need some psychology threads and in those to discuss things like the included pictures, but also what changes we would make to make our individual version of our waifu. I get that programming is important and more important probably, but you need to know WHAT you want your waifu's small mannerisms and such to be. Pretty much another part of this whole robowaifu thing. And not everyone is an artfag or writefag. But there has to be certain things that attracted you to a character to the point you want to make a robowaifu of them? I think opening up to certain creative communites could be helpful at some point if done right.
-
+Ok, I guess you might be able to call me a writefag. I am also a newfag to programming and this board in general I feel that we need some psychology threads and in those to discuss things like the included pictures, but also what changes we would make to make our individual version of our waifu. I get that programming is important and more important probably, but you need to know WHAT you want your waifu's small mannerisms and such to be. Pretty much another part of this whole robowaifu thing. And not everyone is an artfag or writefag. But there has to be certain things that attracted you to a character to the point you want to make a robowaifu of them? I think opening up to certain creative communites could be helpful at some point if done right.
+
+
+
 www.youtube.com/watch?v=R1ndTCR4aKg
 
 # 6
->>2705
+>>2705
+
 I got Seiken Densetsu 3 working in OpenAI retro gym. I'm going to try integrating two player once I finish implementing my learning algorithm and semi-supervised learning so I can take control and guide it when it gets stuck. It's also possible to record inputs so perhaps if /v/'s interested in playing with it they can upload their session data and contribute training data towards creating AI waifus that can play video games.
 
 # 7
@@ -59,7 +75,8 @@ Interesting. Good work Anon, please keep us up to date on your progress.
 I think there's a lot of potential crossover-interest in both /v/ and /agdg/.
 
 # 8
->>2708
+>>2708
+
 My next plans are finding places to recruit from and coming up with ways to appeal to them.  As of now I think 8/cyber/, 4/r9k/, 4/sci/, 8/tech/, 8/g/, 4/g/, 8/fur/,8/pone/, 4/mlp/, mlpol.net, 4/pol/, 4/tg/, 4/quest/, end/b/, and 9/b/ are all good candidates for our first wave of recruitment.  In later stages we will go after forums and youtube comments.  Maybe even reddit or twitter if there are still communities worth going after on those platforms.  Eventually we could even do IRL recruitment on college campuses with fliers.
 
 # 9
@@ -69,11 +86,13 @@ A controversial list around these parts, but I like it! Please proceed Anon, I t
 BTW, care to share your pasta and OP images here so we can all have a look at them first?
 
 # 10
->>2715
+>>2715
+
 I don't have a pasta or OP images yet and I want to have different pastas for different types of communities.  Also lainchan and wizchan may also be worth recruiting on.
 
 # 11
->>2716
+>>2716
+
 Possibly fchan too, but I don't know anything about the community there.
 
 # 12
@@ -102,11 +121,13 @@ Anywhere on the webring. It's already sort of self-moderating. I would say ''not
 I'm on a potato-box too but it runs GIMP fine under Arch. Sadly, I'm not much into arts rn, being more left-brained focused. I'd say just grab some appropriate memes, etc., and post them here. Then I or others can try to edit them for you.
 
 # 17
->>2713
+>>2713
+
 I just save the pics as resources. I don't use every question or prompt in it's entirety. You have to answer those things 1:1 without any creative liberty. I also think it's important to take note of what you don't want, which is why I don't edit these things beyond file names. Your waifu has to have dislikes too.
 
 # 18
->>2723
+>>2723
+
 I meant to say don' have to answer these things 1:1 without creative liberty. Fuuuuck
 
 # 19
@@ -115,7 +136,8 @@ I meant to say don' have to answer these things 1:1 without creative liberty. Fu
 No worries, it's nothing personal lad. I'm just pointing it out for reference. As I said, it's a highly-important topic to us. Please proceed and create your threads for us.
 
 # 20
->>2722
+>>2722
+
 The webring?
 
 # 21
@@ -123,7 +145,8 @@ The webring?
 Yep, it's a new-fangled invention sure to make Bell's voice-telegraph system look like nothing more than the semaphore. It's a little thing we like to call '''The Webring''' around these here parts, partner.
 
 # 22
->>2730
+>>2730
+
 Please delete this post. I am tired and suck.
 
 # 23
@@ -133,13 +156,17 @@ haha, no worries. we all do this kind of thing mate. :^)
 BTW **you can delete your own posts on /robowaifu/**
 
 # 24
->>2713
+>>2713
+
 Whew, got audio now and can now switch back and forth between supervision. Almost got two player implemented as well. Now I just gotta plug in the learning algorithm and pray it doesn't take a century to train. If it works I'll see what aggy daggy thinks and put a thread up here.
 
 # 25
-/server/ & /hover/ here
-This board is still linked on 8kun /hover/, updated since it moved sites.
-
+/server/ & /hover/ here
+
+This board is still linked on 8kun /hover/, updated since it moved sites.
+
+
+
 I do my best to be active when able, but had some issues lately (like with tooling, resources and health concerns) There's a lot to consider. Good oscilloscopes are expensive in general. Artificial intelligence deep learning can take a long time to get into properly. Security issues and so on.
 
 # 26
@@ -154,17 +181,28 @@ Yes, it's a big set of problems we're trying to tackle here, but hey that's wher
 Our kiwi-doll thread from back in the day, and progress with chatboxes more recently make me think that Anon can be producing those kinds of daki pillows for inexpensive-and-entirely-doable-today kits, for starters. Could be a good start without mucking about with all the expensive gear etc, you mention.
 
 # 27
-(Pasta tailored to tech and cyberpunk communities)
-Subject: /robowaifu/ wants you
-   The future is now, anon.  AI, robotics, and material science have reached a point where robowaifus are now in the realm of possibility.  We need anons with skills of all kinds: artists, scientists, engineers, programmers, makers, writefags and more are all needed to bring our robotic wives into reality.  Come and join our multidisciplinary team of robowaifus technicians and be a part of a better tomorrow.
-
-(Pasta for incels, MGTOW, lonely men)
-Subject:  Join the robowaifu revolution
-  Let's face it anon, modern women just aren't worth it.  Feminism and modernity have made relationships into nightmare for men, but we have a solution.  Our multidisciplinary team of robowaifu technicians is working tirelessly to make robot wives into a reality.  Join us in our charge to build and design the women of the future.
-
-(Pasta for furfags, horsefuckers, and monster girl fans)
-   How badly do you want your (horse/monster/anthro) gf, anon?  What would you do to feel her fluffy tail in your hand?  (To stroke her fur/brush her mane/tail(s))?  To hold her in your arms?  Our multidisciplinary team of robowaifu technicians is here to help.  Robots can take any shape you desire, anon.  With your help we can bring your waifu into reality.
-
+(Pasta tailored to tech and cyberpunk communities)
+
+Subject: /robowaifu/ wants you
+
+   The future is now, anon.  AI, robotics, and material science have reached a point where robowaifus are now in the realm of possibility.  We need anons with skills of all kinds: artists, scientists, engineers, programmers, makers, writefags and more are all needed to bring our robotic wives into reality.  Come and join our multidisciplinary team of robowaifus technicians and be a part of a better tomorrow.
+
+
+
+(Pasta for incels, MGTOW, lonely men)
+
+Subject:  Join the robowaifu revolution
+
+  Let's face it anon, modern women just aren't worth it.  Feminism and modernity have made relationships into nightmare for men, but we have a solution.  Our multidisciplinary team of robowaifu technicians is working tirelessly to make robot wives into a reality.  Join us in our charge to build and design the women of the future.
+
+
+
+(Pasta for furfags, horsefuckers, and monster girl fans)
+
+   How badly do you want your (horse/monster/anthro) gf, anon?  What would you do to feel her fluffy tail in your hand?  (To stroke her fur/brush her mane/tail(s))?  To hold her in your arms?  Our multidisciplinary team of robowaifu technicians is here to help.  Robots can take any shape you desire, anon.  With your help we can bring your waifu into reality.
+
+
+
 This is what I have so far.  Thoughts?
 
 # 28
@@ -189,7 +227,8 @@ You'll need to regularly ''run your trap-line'' to check for responsive question
 I'll think about any scenes with waifus that are suitable for the Uncle Sam Poster mashups, maybe some other Anons can too. Good work Anon.
 
 # 30
->>2780
+>>2780
+
 What are some good examples of projects and progress made by our board that I can use.  I am almost certain that I will be asked about it.  I would try to make examples myself but I won't be able to start my goblin project for a while.
 
 # 31
@@ -214,12 +253,15 @@ Here are direct rips of the scene from the best available copy that I know of An
 >>2794
 
 # 35
->>2792
-Ripped from: https://9anime.to/watch/chobits.29ql/o1kqm8
+>>2792
+
+Ripped from: https://9anime.to/watch/chobits.29ql/o1kqm8
+
 Work in progress, how is this?
 
 # 36
->>2794
+>>2794
+
 These are better quality I will rework it with this.
 
 # 37
@@ -257,9 +299,12 @@ Alright, this is literally the best I think I can manage. Thanks for the patienc
 If we are going to do a mass recruitment it might be a good idea to have a flag or symbol for our board.  People like to have symbols and this IS a "movement" of sorts.
 
 # 45
-https://8kun.top/tech/res/1083973.html
-https://8kun.top/g/res/13413.html
-https://8kun.top/cyber/res/57706.html
+https://8kun.top/tech/res/1083973.html
+
+https://8kun.top/g/res/13413.html
+
+https://8kun.top/cyber/res/57706.html
+
 https://lainchan.org/%CE%A9/res/27483.html
 
 # 46
@@ -273,10 +318,14 @@ Thanks, lads.
 kek, i'll give those commies this their hotpockets are obsessive.
 
 # 48
-https://wizchan.org/lounge/res/243385.html
-https://8kun.top/8bantb/res/5484.html
-https://8kun.top/doomer/res/27184.html
-https://endchan.net/b/res/27686.html
+https://wizchan.org/lounge/res/243385.html
+
+https://8kun.top/8bantb/res/5484.html
+
+https://8kun.top/doomer/res/27184.html
+
+https://endchan.net/b/res/27686.html
+
 https://9chan.tw/b/thread/31681
 
 # 49
@@ -285,12 +334,15 @@ https://9chan.tw/b/thread/31681
 I'd suggest using some kind of VPN or other proxy to make these threads Anon. My apologies for not thinking of it earlier.
 
 # 50
-https://8kun.top/fur/res/117342.html
-https://8kun.top/pone/res/328009.html
+https://8kun.top/fur/res/117342.html
+
+https://8kun.top/pone/res/328009.html
+
 https://mlpol.net/mlpol/267948
 
 # 51
->>2811
+>>2811
+
 Way ahead of you, anon.
 
 # 52
@@ -320,13 +372,17 @@ heh.
 ehh, we're the #1 hit on DDG, Startpage, & Bing. I imagine they can find us alright.
 
 # 57
->>2810
-https://16chan.xyz/b/res/10639.html#
-https://10chan.net/b/res/223.html
+>>2810
+
+https://16chan.xyz/b/res/10639.html#
+
+https://10chan.net/b/res/223.html
+
 https://7chan.org/b/res/798181.html#798181
 
 # 58
->>2815
+>>2815
+
 Then go post the link.
 
 # 59
@@ -342,9 +398,12 @@ Great idea, done. Someone send help pls with my cheesy OP text haha.
 >>2823
 
 # 62
-https://22chan.org/b/res/7648
-https://3chan.co/shill/thread/20
-https://enrive.org/b/thread/234725
+https://22chan.org/b/res/7648
+
+https://3chan.co/shill/thread/20
+
+https://enrive.org/b/thread/234725
+
 https://neet.moe/g/thread/57
 
 # 63
@@ -357,11 +416,13 @@ It's a good point in general, but
 It's not likely something I'm going to take on, I have a lot on my plate already and more on the soon horizon. If someone else is interested in managing this process and is serious about the welfare of the board and our community, then make an account here on Julay, and I'll add you as a /robowaifu/ vol. Then you can feel free to set up accounts, etc., elsewhere on our behalf.
 
 # 65
->>2804
+>>2804
+
 Done. Maybe a drawfriend can add some flair to it one day.
 
 # 66
->>2827
+>>2827
+
 Alright give me a bit.
 
 # 67
@@ -373,7 +434,8 @@ Nice work Anon.
 >>2830
 
 # 69
->>2828
+>>2828
+
 Here's all the flair you'll ever need
 
 # 70
@@ -381,8 +443,10 @@ Here's all the flair you'll ever need
 heh, noice. can you put the '/robowaifu/' tag on it Anon?
 
 # 71
->>2836
-Can do my dude.
+>>2836
+
+Can do my dude.
+
 I enhanced the image a little more too, because why not
 
 # 72
@@ -395,12 +459,18 @@ Mind having a go at this idea Anon?
 >>2814
 
 # 74
->>2839
-That one looks like it'll require actual effort on my part.
-I can easily pull it off, but it'll take time and right now I'm just popping in between writing all of my final papers at once at the last possible minute.
-
-I'll definitely do the logo sometime late tomorrow. It's been a while since I've last done an edit by hand **and even longer since I've done a high-effort one**, and it's always great fun.
-
+>>2839
+
+That one looks like it'll require actual effort on my part.
+
+I can easily pull it off, but it'll take time and right now I'm just popping in between writing all of my final papers at once at the last possible minute.
+
+
+
+I'll definitely do the logo sometime late tomorrow. It's been a while since I've last done an edit by hand **and even longer since I've done a high-effort one**, and it's always great fun.
+
+
+
 **This one didn't age so well**
 
 # 75
@@ -430,7 +500,8 @@ Ok I've made an account.  I will make the voat and gab accounts shortly after I 
 OK, you should be all set. Please make a post using your capcode so I can confirm you're good to go, ribose.
 
 # 82
->>2859
+>>2859
+
 My what?
 
 # 83
@@ -483,15 +554,18 @@ But please, feel free to remix on this premise and present any variations on it 
 Cheers!
 
 # 93
->>2881
+>>2881
+
 It looks like an onahole.
 
 # 94
 What do you guys think about targeting the far right as potential allies in the fight for robowaifus.  On one hand they will almost certainly see it as degenerate, but on the other they know what robowaifus are going to do to feminism.  Would they actually help us?
 
 # 95
->>2881
->>2882
+>>2881
+
+>>2882
+
 This
 
 # 96
@@ -503,15 +577,18 @@ heh, i saw that too. ok, something else then. but don't just complain Anons, get
 certainly the feminism/effeminism effects that have effectively doomed the West and led to the need for robowaifus in the first place certainly come from the left and not from the right. not sure how 'far' far right you mean anon. conservatives sure, but they would be 3rd in line to condemn us right behind the feminsts & SJWs haha.
 
 # 97
->>2885
+>>2885
+
 I'm think about traditionalists, fascists, monarchists, and white nationalists types.
 
 # 98
->>2887
+>>2887
+
 One of the other reasons I think they may help us is because there are a lot of lonely guys in those movements.  Sure they have their morals, but how strictly would they adhere to them when they have the real possibility of companionship?
 
 # 99
->>2885
+>>2885
+
 How about a gear with the symbol for female in the middle of it with the words "mulier ex machina" stretching across the top of the gear and /robowaifu/ under the female symbol.
 
 # 100
@@ -536,9 +613,12 @@ Heh, I'm sure I have no idea Anon.
 Sound advice.
 
 # 103
-https://erischan.org/b/res/2170.html
-http://www.operatorchan.org/t/res/113354.html
-https://desuchan.net/ot/res/18203.html
+https://erischan.org/b/res/2170.html
+
+http://www.operatorchan.org/t/res/113354.html
+
+https://desuchan.net/ot/res/18203.html
+
 https://9san.ch/b/thread/886
 
 # 104
@@ -561,9 +641,12 @@ Something with 'V' would be nice maybe. Even something related to the famous Ven
 Human hand holding dolljoints hand, the arms would make the v shape you're looking for.
 
 # 108
->>2839
-Alright, I finished your logo to what I ''think'' the specifications were.
-I made three versions. Two with the slashes in different places, and one without and slashes.
+>>2839
+
+Alright, I finished your logo to what I ''think'' the specifications were.
+
+I made three versions. Two with the slashes in different places, and one without and slashes.
+
 If anyone wants to try something else, they can use the transparent hairband image I made.
 
 # 109
@@ -580,11 +663,16 @@ Thanks Anon. Unfortunately, I think the general consensus now is that in isolati
 Sorry to put you out like that Anon.. Mind presenting some other ideas of your own?
 
 # 110
->>2905
-I noticed that, but hoped that a side view of the hair thing would be more acceptable.
-
-Would a heart with traces be good? I made a 3D model of a sort-of medallion thing which used this as a concept.
-It prints quite nicely on my potato-grade 3D printer, but it was a bitch to get off the bed.
+>>2905
+
+I noticed that, but hoped that a side view of the hair thing would be more acceptable.
+
+
+
+Would a heart with traces be good? I made a 3D model of a sort-of medallion thing which used this as a concept.
+
+It prints quite nicely on my potato-grade 3D printer, but it was a bitch to get off the bed.
+
 I could do something like that, but 2D and with a baby blue and white background.
 
 # 111
@@ -606,9 +694,12 @@ ribose, please take note:
 these are to be permabans for any non-TOR posts ofc, ribose.
 
 # 113
-https://sportschan.org/76/res/563.html
-https://waifuist.pro/etc/res/832.html
-https://onee.ch/b/res/12085.html
+https://sportschan.org/76/res/563.html
+
+https://waifuist.pro/etc/res/832.html
+
+https://onee.ch/b/res/12085.html
+
 https://grimchan.xyz/b/res/1499.html
 
 # 114
@@ -622,7 +713,8 @@ There used to be a discord on the old board I believe. I refuse to touch the stu
 Why not only go for /sci/ and /g/ boards? While these other groups may have an interest in the topic and some among them may be knowledgable, wouldn't it be better to only go to places where you know people are into STEM? Some people like that may also be put off if they come and see most of the first page filled with religion, politics and magic discussion, which is probably all that some of these groups will contribute.
 
 # 117
->>2954
+>>2954
+
 We can simply get rid of off topic posts.  Keep in mind we need more than just STEM in this fight.
 
 # 118
@@ -646,32 +738,43 @@ Just fucking kill me.
 ==FUUUUUUUUU==
 
 # 121
-https://zchan.cc/b/thread/267.html#267
-https://www.intern3ts.com/general/random/res/7500.php
+https://zchan.cc/b/thread/267.html#267
+
+https://www.intern3ts.com/general/random/res/7500.php
+
 https://kissu.moe/b/res/3486
 
 # 122
 We have advertised on just about any alternative imageboard worth advertising on.  We don't have the numbers to advertise in the comments of 4chan or the larger boards on 8kun.  Anyone have any idea what communities we should target next?
 
 # 123
-https://8kun.top/miku/res/242191.html
-https://8kun.top/fast/res/21243.html
-https://www.1chan.net/rail/res/1743.html#1743
-https://fch.bet/int/res/1950.html
-https://rikchan.pythonanywhere.com/b/1881
-https://not99chan.org/b/index.html
-https://rikchan.pythonanywhere.com/b/1881
+https://8kun.top/miku/res/242191.html
+
+https://8kun.top/fast/res/21243.html
+
+https://www.1chan.net/rail/res/1743.html#1743
+
+https://fch.bet/int/res/1950.html
+
+https://rikchan.pythonanywhere.com/b/1881
+
+https://not99chan.org/b/index.html
+
+https://rikchan.pythonanywhere.com/b/1881
+
 https://niuchan.org/int/res/3424.html#i3424
 
 # 124
 I am unable to post to ponychan, furchan, fchan, and 2ch.hk/int over tor.  I would appreciate it if someone else could post the appropriate pastas on those sites.
 
 # 125
->>3040
+>>3040
+
 Oh and 420chan
 
 # 126
-https://8kun.top/pnd/res/106800.html
+https://8kun.top/pnd/res/106800.html
+
 Can't imagine that this is going to last very long.
 
 # 127
@@ -698,16 +801,26 @@ So one anon in the meta thread brought up a good point, and that is that lots of
 Probably a decent idea. It would have to be a 'sister site' alongside us, and I'm not up for managing more than just the /robowaifu/ IB itself, currently Anon. If anyone wants to step up, just make an account here on julay, and I'll add you as a board vol. Then you can make sites, etc., on our behalf.
 
 # 132
->>3120
-
-That's probably me you're referencing, and yeah from the perspective of a new anon here I had my reservations at first about exploring to much of Julay since I thought foreign boards besides 4chan were likely reserved for full on p-bears. The only reason I kept on was because Reddit kept deleting all the good "wrong think" subs and I was desperate for a new non conformist community. 
-
-Honestly I don't really foresee anyone making as much effort as I which was required to find this place since at first google seemed to outright block most of my queries involving companion / waifu bots / alternative forums and even then I had to crawl through many duckduckgo results while simultaneously navigating a bunch of other IBs which were either dead, suspicious or slow/dying (looking at you LainChain).
-
-In terms of a forum, I feel like it'd only be possible if it was private and invite only. While it'd be infinitely easier to navigate, organize and interpret info, it would for sure dampen user join rates (which would otherwise be possible on a public platform).
-
->>3125
-
+>>3120
+
+
+
+That's probably me you're referencing, and yeah from the perspective of a new anon here I had my reservations at first about exploring to much of Julay since I thought foreign boards besides 4chan were likely reserved for full on p-bears. The only reason I kept on was because Reddit kept deleting all the good "wrong think" subs and I was desperate for a new non conformist community. 
+
+
+
+Honestly I don't really foresee anyone making as much effort as I which was required to find this place since at first google seemed to outright block most of my queries involving companion / waifu bots / alternative forums and even then I had to crawl through many duckduckgo results while simultaneously navigating a bunch of other IBs which were either dead, suspicious or slow/dying (looking at you LainChain).
+
+
+
+In terms of a forum, I feel like it'd only be possible if it was private and invite only. While it'd be infinitely easier to navigate, organize and interpret info, it would for sure dampen user join rates (which would otherwise be possible on a public platform).
+
+
+
+>>3125
+
+
+
 Like Chobitsu mentioned, I think a sister board would be the best option.
 
 # 133
@@ -722,23 +835,40 @@ So after hearing your adventure to get to us, first off let me say congratulatio
 There's an Anon who mentioned starting a wiki for us, and I've been tinkering around learning the basics of writing a **thick** book.
 
 # 134
->>3147
-
-> What was the one key
-
-Funny enough while Reddit drove me away, it also helped me find you guys. Usually when I'm looking for more niche communities I add "reddit" to see if there any discussions on any subject. The process went roughly like this though (ommitting useless queries)
-
-r/KIA2 warns that IBs are begin attacked and most likely they were going to be as well. They mention 8chan. 
-https://www.reddit.com/r/kotakuinaction2/comments/gewvte/8chanmoe_is_live_supporting_free_speech_gg/
-
-googling 4chan sites brings me this but nothing more, read about and started trying to figure out what lynxchan vs Vichan is.
-https://www.16chan.xyz/b/res/9601.html
-
-I eventually duckduckgo "lynxchan" + "reddit" and find the infinitechan sub where someone mentions julay.world
-https://www.reddit.com/r/infinitechan/comments/gayhfj/hey_retards_heres_the_alt_sites_anons_are_going/     
-
-I figure this is a reference to Chris Chan (is it? kek) so I visit right before the site goes down. However just before it goes down I lock eyes with /robowaifus/ and realize I found my new home. 
-
+>>3147
+
+
+
+> What was the one key
+
+
+
+Funny enough while Reddit drove me away, it also helped me find you guys. Usually when I'm looking for more niche communities I add "reddit" to see if there any discussions on any subject. The process went roughly like this though (ommitting useless queries)
+
+
+
+r/KIA2 warns that IBs are begin attacked and most likely they were going to be as well. They mention 8chan. 
+
+https://www.reddit.com/r/kotakuinaction2/comments/gewvte/8chanmoe_is_live_supporting_free_speech_gg/
+
+
+
+googling 4chan sites brings me this but nothing more, read about and started trying to figure out what lynxchan vs Vichan is.
+
+https://www.16chan.xyz/b/res/9601.html
+
+
+
+I eventually duckduckgo "lynxchan" + "reddit" and find the infinitechan sub where someone mentions julay.world
+
+https://www.reddit.com/r/infinitechan/comments/gayhfj/hey_retards_heres_the_alt_sites_anons_are_going/     
+
+
+
+I figure this is a reference to Chris Chan (is it? kek) so I visit right before the site goes down. However just before it goes down I lock eyes with /robowaifus/ and realize I found my new home. 
+
+
+
 The next day the site disappears followed by my brief hysteria, but as you can tell I figured out there's a bunker and not all was lost.
 
 # 135
@@ -754,7 +884,8 @@ So, do you have any specific areas of interest you know of yet? For example, I'm
 Regardless, we're all glad you're here Anon, welcome.
 
 # 137
->>3120
+>>3120
+
 To add to this, the culture of 8chan and its off shoots like julay in particular can be an obstacle. Every board that originated there in some way has a feel to it that can be offputting. There's a lot of people outside of the 4chan and 8chan circles even among imageboard users, they don't use the same lingo. The kissu.moe thread kind of shows this.  Robowaifu is better in that regard. I found it through /monster/, which I only briefly looked at. During that short period I saw posts of anons telling each other to set themself on fire and that kind of thing. Bascially violent 'tism symptoms, and I've seen other people with the same opinion.
 
 # 138
@@ -765,14 +896,19 @@ Heh, you can still find angsty shitposting inside ''The Lounge'' containment thr
 So yea, we're very definitely part of that whole lineage you described. But we have a bigger goal here than just being spergy edgelords, so we keep the conversation on a higher level everywhere else on the board, I think. But we will '''never''' just fit in with 'polite' society here, I think. **At least we ''better'' never do so haha :^)**
 
 # 139
->>3160
+>>3160
+
 That's fair. There's drawbacks to everything.
 
 # 140
->>3156
-
-Well I'm studying to be a CS major and in terms of robowaifu I'm really interested in functional and open sourced 3D printed skeleton structures. However my job just layed everybody off so I've put buying a 3D printer on the back burner. The moment I can secure a pandemic proof job is the moment I'll jump in and start working on designs. 
-
+>>3156
+
+
+
+Well I'm studying to be a CS major and in terms of robowaifu I'm really interested in functional and open sourced 3D printed skeleton structures. However my job just layed everybody off so I've put buying a 3D printer on the back burner. The moment I can secure a pandemic proof job is the moment I'll jump in and start working on designs. 
+
+
+
 I've amateur experience in many useful areas like Blender, programming, photoshop and am planning on really trying to hone and put my skills to test this summer
 
 # 141
@@ -787,12 +923,18 @@ Smart thinking. Don't worry, they keep getting better/cheaper over time so you'l
 Sounds awesome. I look forward to seeing what you devise. Just out of curiosity mind if I ask what type of programming you do? I have a specific interest in systems programming myself here.
 
 # 142
->>3163
-
-Well to be honest I'd still consider myself a novice without a focus atm since the core of my programming experience is comprised of Java and x86 Assembly. I originally planned to study C and progress to C++ during summer and from what I've read around in this board it seems like that's a pretty standard route to get up to date. 
-
-For all intents and purposes (since that was kind of a vague answer), I guess it's best to say I want to focus on game deving with unity(C) then move to unreal engine(C++) as a hobby and eventually move on to embedded systems(C++) career-wise while applying that knowledge to whatever /robowaifu/ project I'd be working on.
-
+>>3163
+
+
+
+Well to be honest I'd still consider myself a novice without a focus atm since the core of my programming experience is comprised of Java and x86 Assembly. I originally planned to study C and progress to C++ during summer and from what I've read around in this board it seems like that's a pretty standard route to get up to date. 
+
+
+
+For all intents and purposes (since that was kind of a vague answer), I guess it's best to say I want to focus on game deving with unity(C) then move to unreal engine(C++) as a hobby and eventually move on to embedded systems(C++) career-wise while applying that knowledge to whatever /robowaifu/ project I'd be working on.
+
+
+
 Also, sorry for the late replies. I'm pretty new to IBs and I've been getting lost trying to sift through as much of the board as I can. If you don't mind me bombarding you with questions, how do you keep track of all your conversations/replies? Also, would you happen to know where I'd be able to find the latest update to the RDD pdf? And has a wiki been established yet?
 
 # 143
@@ -839,7 +981,8 @@ This board's activity seems to be slowing down and this website seems to be hemo
 heh, you just did Anon. :^)
 
 # 148
->>3242
+>>3242
+
 I mean I can post here all day long, but if the site is losing users we need to quickly stop that trend and get more people in here.
 
 # 149
@@ -858,32 +1001,58 @@ Cheers.
 BTW, we all appreciate all the efforts you've made at promotion. :^)
 
 # 151
-A poem I found.
-Roastie toastie pudding and pies
-Can't get a boyfriend so she cries
-Goes to /pol/ and finds a thread
-Shocked to find that in her stead
-Males are done, they've had enough
-Of roasties cries and mental stuff
-Robots soon, the future's near
-And that which gives the roastie fear
-No longer will guys have to try
-with perfect waifus they will lie
-She kicks and screams and throws a fit
-A well rehearsed and vocal skit
-Her only worth has been tossed out
-And all she can do is cry and pout
-Her posts are short and fraught with rage
-How can she compete at ripe old age?
-Fingers pounding at the keys
-Dumping endless pointless sleaze
-Stuck inside her private hell
-"I've got you now, you fucking incel!"
-But nobody listened, cared or heard
-Not a single bloody word
-The men rejoiced and had a pint
-Together on a joyous night
-Roasties no longer waste our lives
+A poem I found.
+
+Roastie toastie pudding and pies
+
+Can't get a boyfriend so she cries
+
+Goes to /pol/ and finds a thread
+
+Shocked to find that in her stead
+
+Males are done, they've had enough
+
+Of roasties cries and mental stuff
+
+Robots soon, the future's near
+
+And that which gives the roastie fear
+
+No longer will guys have to try
+
+with perfect waifus they will lie
+
+She kicks and screams and throws a fit
+
+A well rehearsed and vocal skit
+
+Her only worth has been tossed out
+
+And all she can do is cry and pout
+
+Her posts are short and fraught with rage
+
+How can she compete at ripe old age?
+
+Fingers pounding at the keys
+
+Dumping endless pointless sleaze
+
+Stuck inside her private hell
+
+"I've got you now, you fucking incel!"
+
+But nobody listened, cared or heard
+
+Not a single bloody word
+
+The men rejoiced and had a pint
+
+Together on a joyous night
+
+Roasties no longer waste our lives
+
 Now that we've got robot wives.
 
 # 152
@@ -955,19 +1124,26 @@ YW.
 No, not yet at least. For now my thinking is a little closer Tor-based solutions, specifically supporting a hidden service in the tool, and allowing for some kind of anonymous lookup to connect together with. It's a ways off, I still have a lot to learn about things yet.
 
 # 164
->>2705
-
+>>2705
+
+
+
 Perhaps you'd be interested in another possible community your could draw from. >>4336
 
 # 165
->>4909
-I forgot to delete a circle on the right side. Will fix and upload another version.
->0 threads and 0 posts were successfully deleted.
+>>4909
+
+I forgot to delete a circle on the right side. Will fix and upload another version.
+
+>0 threads and 0 posts were successfully deleted.
+
 ==REEEEEEEEEEEE==
 
 # 166
->>4909
->>4910
+>>4909
+
+>>4910
+
 v2
 
 # 167
@@ -991,8 +1167,10 @@ You might ask on the banners thread Anon. Perhaps someone will help out?
 >>252
 
 # 171
->>4927
-How much is "half size"? Anyway, here's is a smaller version of the "static" one.
+>>4927
+
+How much is "half size"? Anyway, here's is a smaller version of the "static" one.
+
 Also, **I am not the anon that posted ITT a couple months ago. (But we are all anonymous anyway :^)**
 
 # 172
@@ -1003,7 +1181,8 @@ Ahh, I see then. That size is fine, and thanks again. Nice work!
 So I was inspired by the Toua Juukou (Toua Heavy Industry) logo from Sidonia no Kishi (and others mangas) that uses a stylized "to" (ト) and made a robowaifu variant with the katakana "ro" (ロ).
 
 # 174
->>4933
+>>4933
+
 Worked on the font of the weeboo version.
 
 # 175
@@ -1024,7 +1203,8 @@ I'd like to think that somehow at least some of us here from /robowaifu/ will be
 >whey they say that robots can't replace women
 
 # 179
->>5096
+>>5096
+
 **:^)**
 
 # 180
@@ -1068,8 +1248,10 @@ But heh, you already live in ''Airstrip One'' don't you? No need to remind you, 
 Absolutely. That's the whole point here, and you seem to understand that very well so thanks for reminding us.
 
 # 188
->>2898
->>2889
+>>2898
+
+>>2889
+
 The Mercury symbol ☿ is the Venus symbol with protusions coming out of it, we can call them antennas and associate it with robowaifus.
 
 # 189

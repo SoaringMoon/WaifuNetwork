@@ -498,7 +498,8 @@ Which can be used like this:
 ```cpp
 $ getarxiv('2006.04768',"title")
 > Linformer: Self-Attention with Linear Complexity
-``` Also works with the file path instead of the id based name.
+```
+Also works with the file path instead of the id based name.
 
 It can also get the summary and other stuff. I'm not exactly sure how I''m going to use that, but one use case would be having a text or html file with all the summaries for the papers I have, maybe with tags based in which folder they are or what keywords are in the title. We'll see. it's certainly going to help to find or sort the papers, or to put up a posting or even a website with the summaries and links to the download of each. The other program, pdfx also extracts links to papers which are referenced in the input document. So if one want's to batch download them just in case, it could be easier that way.
 
@@ -547,10 +548,14 @@ Again, sorry I don't remember it, but again, it was available in the Linux Mint 
 Wow that sounds amazing Anon, thanks.
 
 # 45
-N00b with 0 practical experience with AI with a bit of an idea. I was gonna put this in the AI design thread, but seeing as it's more a structural question than a nitty-gritty AI question, thought it'd do here.
-
-Say you have a chatbot style AI developed. It can take in external information in text, and return information back to the user in text. Before the output text reaches the user, it's run through a script that checks for commands, and when it detects one, triggers an action that the robowaifu body carries out. These actions aren't manually completed by the AI, and instead are pre-scripted or carried out by a dedicated movement AI. Is it possible to train the chatbot AI to consistently understand how to send out commands accurately? How do you incorporate that sort of thing into training data? And, in another way, is it possible to take a robowaifu's senses and pipe them into a chatbot's interface via text in the same manner? 
-
+N00b with 0 practical experience with AI with a bit of an idea. I was gonna put this in the AI design thread, but seeing as it's more a structural question than a nitty-gritty AI question, thought it'd do here.
+
+
+
+Say you have a chatbot style AI developed. It can take in external information in text, and return information back to the user in text. Before the output text reaches the user, it's run through a script that checks for commands, and when it detects one, triggers an action that the robowaifu body carries out. These actions aren't manually completed by the AI, and instead are pre-scripted or carried out by a dedicated movement AI. Is it possible to train the chatbot AI to consistently understand how to send out commands accurately? How do you incorporate that sort of thing into training data? And, in another way, is it possible to take a robowaifu's senses and pipe them into a chatbot's interface via text in the same manner? 
+
+
+
 Pic related is a better way of explaining it. Is this model feasible, or would an in/out system like this hamper training speed to a no longer viable amount? I know that there's obviously more steps in the chain to this (for one, an always-open microphone will confuse the AI into thinking you're always talking to it, so there has to be an "are you talking to me?" filter in the path), but given this rough draft, is such a model possible with the technology that the average anon has (barring RW@home that other anons have suggested)?
 
 # 46
@@ -617,19 +622,26 @@ What I meant was that we won't need to design every move to every detail, only s
 I would also prefer to grab data from me doing things with some glove which measures hand movements and such, instead of programming it. However, the basic movements shouldn't be such a problem to write down anyways. After that it might work with pose estimation and the way I described above. Optimizing something like grabbing could then be defined by having more contact to the object at every time, but then not squeezing it, and holding it in a correct way (e.g. plates with food). Or not to much contact, but sufficient, maybe for reason of hygiene. How to handle each object would be determined by the object detection and the knowledge (probably via some graph database) about the object.
 
 # 52
-First post on the board. I hope this is relevant for this thread but I had what I think is a very very important idea while reading this board about how things must be as abstracted as possible in the AI herself. 
-
-For example, the "personality" component should not have to dictate the exact electrical parameters to every motor, but she should just have to will her arm to move as we do. Perhaps this would involve something like a "world model" like I found on this board with things like this
-https://worldmodels.github.io/ .
-
-This idea that the mind would only deliver abstract ideas to another "component", perhaps even a more basic machine learning model, kind of suggests the idea of multiple computers within the same AI system. 
-
+First post on the board. I hope this is relevant for this thread but I had what I think is a very very important idea while reading this board about how things must be as abstracted as possible in the AI herself. 
+
+
+
+For example, the "personality" component should not have to dictate the exact electrical parameters to every motor, but she should just have to will her arm to move as we do. Perhaps this would involve something like a "world model" like I found on this board with things like this
+
+https://worldmodels.github.io/ .
+
+
+
+This idea that the mind would only deliver abstract ideas to another "component", perhaps even a more basic machine learning model, kind of suggests the idea of multiple computers within the same AI system. 
+
+
+
 Again I hope this is relevant enough as I couldn't think of anywhere else to put it, haven't seen anyone mention the concept except people talking about world models, and wanted to share the idea because it could make breaking down of the problem easier. I'm eager to hear your opinions.
 
 # 53
 Also, I'm considering making some diagrams. I already started one about all existing robowaifu projects. This is currently kind of stuck, because I would need to collect more data on each one. I will care about that one later.
 One new idea is to make a diagram for how to get started with robowaifu development. I post the first ideas here, maybe someone has suggestions how to improve it. I want to model it in text to some extend before I start putting it onto a PNG diagram. Of course, the diagram can't go too deep into each topic, this would be something for other diagrams.
-
+```
 | Python / basic math -- statistics / linear algebra -- ML -- DL
               -- NLP -- NLTK -- ML
 | graph databases -- RDF primer -- programming
@@ -645,17 +657,26 @@ One new idea is to make a diagram for how to get started with robowaifu developm
 | skeleton -- plastics / 3D modelling 
 | vision -- electronics -- object detection 
 | skin -- silicone / textiles / sensors
-
+```
 # 54
->>10357 (me)
->>10400
->What does chatbot-style-AI mean? Some already existing system?
-Basically, Cleverbot, Evie, Replika, anything that has a user input text, then responds with an AI-derived response to mimick a back-and-forth conversation. I had the thought of a model like this to allow hot-swappable AIs, just so if a newer, better-coded AI comes to light, as long as it has the same basic text-in, text-out system, it can be swapped in and trained to utilize the rest of its body. 
->>10427
->This idea that the mind would only deliver abstract ideas to another "component", perhaps even a more basic machine learning model
-This is what I was trying to get at. Instead of forcing the chatbot AI (which is designed first and foremost to speak like a human, not move like a human) to learn the nitty gritty of each action down at the metal (move ABC servo XYZ degrees, move DEF servo XYZ degrees, etc) it calls out an abstract command that other code can pick up on and carry out in place of the AI directly. The chatbot isn't moving, the action handler is, and all the chatbot has to do is invoke a command, and the action handler can then carry it out. Granted, this leaves a whole lot open to interpretation from the action handler, but there can be other information that text analysis can give that can influence how the action handler carries out its actions aside from just the command invocation (like those ML scripts that can predict emotion behind words into a set of confidence values, which can be plugged in and used to further give emotion to movement by understanding the AI's mood.) Full, direct-control of the waifubody by the AI would be cool, but the level of computing power, effort in training data, and effort in building a virtual training environment needed to train the AI both to SOUND human and ACT human seems improbable for a proof-of-concept.
->>10400
->if it's a high level command which has man sub-commands and requires recognizing objects and planing motion, it's way more difficult. What happens in you text analyzer, and from there to the action, will be very complex. 
+>>10357 (me)
+
+>>10400
+
+>What does chatbot-style-AI mean? Some already existing system?
+
+Basically, Cleverbot, Evie, Replika, anything that has a user input text, then responds with an AI-derived response to mimick a back-and-forth conversation. I had the thought of a model like this to allow hot-swappable AIs, just so if a newer, better-coded AI comes to light, as long as it has the same basic text-in, text-out system, it can be swapped in and trained to utilize the rest of its body. 
+
+>>10427
+
+>This idea that the mind would only deliver abstract ideas to another "component", perhaps even a more basic machine learning model
+
+This is what I was trying to get at. Instead of forcing the chatbot AI (which is designed first and foremost to speak like a human, not move like a human) to learn the nitty gritty of each action down at the metal (move ABC servo XYZ degrees, move DEF servo XYZ degrees, etc) it calls out an abstract command that other code can pick up on and carry out in place of the AI directly. The chatbot isn't moving, the action handler is, and all the chatbot has to do is invoke a command, and the action handler can then carry it out. Granted, this leaves a whole lot open to interpretation from the action handler, but there can be other information that text analysis can give that can influence how the action handler carries out its actions aside from just the command invocation (like those ML scripts that can predict emotion behind words into a set of confidence values, which can be plugged in and used to further give emotion to movement by understanding the AI's mood.) Full, direct-control of the waifubody by the AI would be cool, but the level of computing power, effort in training data, and effort in building a virtual training environment needed to train the AI both to SOUND human and ACT human seems improbable for a proof-of-concept.
+
+>>10400
+
+>if it's a high level command which has man sub-commands and requires recognizing objects and planing motion, it's way more difficult. What happens in you text analyzer, and from there to the action, will be very complex. 
+
 This feels like a more achievable goal than native control, at least to me. For lack of a better way of explaining it, BostonDynamics' Spot can scan its environment, create a model, and determine the best way to move around without falling over or bumping into things, and the end user can code movement in without having to manually tell each servo how to move and where to step- it's all abstracted away, and, without code, is simple enough to use with a gamepad-style controller. Granted, this is a bit of an unfair comparison since Spot is an engineering masterpiece with over 30yrs of development (and is indeed, very complex), but considering Spot-like bots exist, Replika-like AI exist, but robowaifus don't yet, I think this model is a good way of cross-breeding these two technologies together if direct-control isn't viable. At least to me, coding movement control in this way seems way easier than trying to wrap my head around AI and ML trying to learn to walk in a virtual environment then trying to translate virtual movement to IRL movement.
 
 # 55

@@ -39,7 +39,8 @@ That's neat. Now I think we should all start working to make our robowaifu's hea
 I checked out her hands. Did you use Teflon tube to move some Nylon threads through them, or did it work without that? These hands are very small anyways, so the holes are probably very small.
 
 # 8
->>4826
+>>4826
+
 I used thin steel gardener's wire. 1 to 1.2mm in diameter. The kind of stuff they use to tie back vines with.
 
 # 9
@@ -47,11 +48,13 @@ I used thin steel gardener's wire. 1 to 1.2mm in diameter. The kind of stuff the
 Thanks, I didn't use my brains. This hand is build for wires of course. I wanted to animate it, didn't realize the holes were for wires. Did it work well?
 
 # 10
->>4856
+>>4856
+
 I'd say it's semi-functional. She can hold small objects like a comb or microphone. However, there is very little dexterity. She can't really make a proper 'thumbs up' signal, but she can do an 'A-okay' sign. It's mainly because the thumb knuckles lack movement range. However, rather than try to upgrade this articulated hand, I plan to experiment with proper robot hands and arms (specifically the PROTO1 Humanoid Robotic Torso by Ryan Gross). It will require quite a bit of redesigning in order to look right on Sophie though. https://www.myminifactory.com/object/3d-print-humanoid-robotic-torso-proto1-48754
 
 # 11
->>4858
+>>4858
+
 Might want to do some research on hand alternatives, from my experience the design used in PROTO1 is rather lackluster. The flexible material that straightens the fingers needs to be balanced with strong enough servos to resist it and apply grip strength to grabbed object. Though my opinion is based on an ancient version of the OpenBionics Brunel hand.
 
 # 12
@@ -61,9 +64,12 @@ I was or still am interested in Sophias hands, as a placeholder. Since hands are
 Sadly, I'm having issues with my new printer, so it might take a while anyways.
 
 # 13
->>4862
-Yup, that's the same hand by the same guy. Meanwhile...
-
+>>4862
+
+Yup, that's the same hand by the same guy. Meanwhile...
+
+
+
 "I only want your skin, anon. So that I may become real!"
 
 # 14
@@ -85,7 +91,8 @@ Is that facemask supposed to be covered by silicone skin later? Because if so, I
 Whatever, congrats to your progress.
 
 # 17
->>4874
+>>4874
+
 Thanks! This is the first version of Sophie's robotic head, and it has some big design problems. But after running the Arduino sketch for about an hour, I have been able to diagnose  them. First I gotta join the "head-plug" to the lower cranium. Then I must replace the elastic band pulley in her neck with a pair of gears. The flex in that elastic band means that her head currently flops back and forth, and sometimes falls off entirely. I will also probably need to make some changes to that lower jaw. But there you go. Test, iterate, improve!
 
 # 18
@@ -100,20 +107,31 @@ Both are a kind of fallacy. To the first point, doing '''anything''' productive 
 Everyone should just do ''something'', just start. The rest will naturally begin to work itself out for you if you are persistent, just like Sophie-Anon shows us here with his wonderful robowaifu.
 
 # 19
->>4882
+>>4882
+
 Yeah, even if you fail quite often it learns you something useful or gives you parts or even tools that end up being converted or used later on. Also, it helps to remember that once started, your robowaifu "absolutely will not stop." so neither can I XD
 
 # 20
-I have just finished testing my 'Elfdroid' head and neck, and uploaded the .stl files to Sophie's Google Drive folder:
-
-https://drive.google.com/drive/folders/18MDF0BwI9tfg0EE4ELzV_8ogsR3MGyw1?usp=sharing
-
-She now has eyes that move left and right, a jaw that opens and closes and a head/neck that can both rotate and nod thanks to the use of a couple of spur-gear assemblies. I know she looks a bit uncanny valley now, but so would you without any hair, eyebrows, eyelashes, irises or pupils XD.
-
-I have to write some proper 3d printing and building instructions but I am tired atm from doing lots of measuring and re-measuring, filing, sanding, gluing and hammering.
-
-I will say she uses 2x SPRINGRC SR431 servos for the neck and 2x SPRINGRC SR311 servos for the eyes and jaw. You'll also need 5 cupboard door magnets to hold her detachable faceplate and forehead on. The small spur-gears for her eyes should all be 3d printed on at least fine setting (0.1mm) using 100% infill for strength.
-
+I have just finished testing my 'Elfdroid' head and neck, and uploaded the .stl files to Sophie's Google Drive folder:
+
+
+
+https://drive.google.com/drive/folders/18MDF0BwI9tfg0EE4ELzV_8ogsR3MGyw1?usp=sharing
+
+
+
+She now has eyes that move left and right, a jaw that opens and closes and a head/neck that can both rotate and nod thanks to the use of a couple of spur-gear assemblies. I know she looks a bit uncanny valley now, but so would you without any hair, eyebrows, eyelashes, irises or pupils XD.
+
+
+
+I have to write some proper 3d printing and building instructions but I am tired atm from doing lots of measuring and re-measuring, filing, sanding, gluing and hammering.
+
+
+
+I will say she uses 2x SPRINGRC SR431 servos for the neck and 2x SPRINGRC SR311 servos for the eyes and jaw. You'll also need 5 cupboard door magnets to hold her detachable faceplate and forehead on. The small spur-gears for her eyes should all be 3d printed on at least fine setting (0.1mm) using 100% infill for strength.
+
+
+
 Oh, and no matter how well calibrated your 3D printer is, you will end up with small seams between the external parts. I close them up using a thin layer of white decorator's caulk along each edge.
 
 # 21
@@ -139,17 +157,25 @@ Any chance you can post all your work on a more available file host Anon. Many o
 Nice, thanks Anon. I like how his design achieves 3-DOF orbital motion for the eyeball shells using just two servos. I expect the number of servos can be reduced by at least two if the eyelids were linked and moved together.
 
 # 24
->>5017
-> Any chance you can post all your work on a more available file host
-
-I have uploaded all my files to MEGA:
-
-https://mega.nz/folder/lj5iUYYY#Zz5z6eBy7zKDmIdpZP2zNA
-
+>>5017
+
+> Any chance you can post all your work on a more available file host
+
+
+
+I have uploaded all my files to MEGA:
+
+
+
+https://mega.nz/folder/lj5iUYYY#Zz5z6eBy7zKDmIdpZP2zNA
+
+
+
 Am also in the process of uploading to Thingiverse and MyMinifactory.
 
 # 25
->>5015
+>>5015
+
 Wow! That eye mechanism looks professionally made. Way more advanced than mine XD. One thing I learned when making my eye mechanism though, is that they are quite difficult to align properly with the inside of the eye sockets (and still get them to move unrestricted). Also, it's best to keep the inside of the head as light as possible because the more weight there, the more difficult it is to make the neck move.
 
 # 26
@@ -164,9 +190,12 @@ seems related, Anon.
 >>5134
 
 # 28
->>5159
-I used Ultimaker Cura as my Slicer. Had to position the cranium with the back of the head touching the build-plate so it generated minimal supports. The cranium is a long print. It took my Copymaster 3D machine a whole 24 hours on 0.15mm layer height. Then I spent another 2 hours with sprue cutters, long-nose pliers, modelling files and sand paper neatening it all up. But that's fused filament fabrication for ya! Cheap, but quite high-effort for larger, complicated shapes.
-
+>>5159
+
+I used Ultimaker Cura as my Slicer. Had to position the cranium with the back of the head touching the build-plate so it generated minimal supports. The cranium is a long print. It took my Copymaster 3D machine a whole 24 hours on 0.15mm layer height. Then I spent another 2 hours with sprue cutters, long-nose pliers, modelling files and sand paper neatening it all up. But that's fused filament fabrication for ya! Cheap, but quite high-effort for larger, complicated shapes.
+
+
+
 I have also uploaded the Elfdroid head design and internal mechanisms as a DXF file (40 MB), as requested.
 
 # 29
@@ -177,7 +206,8 @@ I only print sized down models yet, and even then sometimes with a bit higher la
 Are we the only ones with a printer here? I seem to be the only other one printing your files.
 
 # 30
->>5179
+>>5179
+
 Glad to hear you are also having a go. TBH when I upload parts to Thingiverse or MyMiniFactory, they usually end up being used as some kind of articulated GoPro camera mount or borrowed for some drama project completely unrelated to Robowaifus. But then, people who click on the links to the STLs will still see where they originated, thus increasing exposure of people to the idea of the 3D printed robowaifu.
 
 # 31
@@ -186,7 +216,8 @@ Glad to hear you are also having a go. TBH when I upload parts to Thingiverse or
 Why?!? In all you pics you were putting something on her face anyways. Post-processing might be the better way anyways: >>5137
 
 # 32
->>5186
+>>5186
+
 In Cura 0.15mm layer height is classed as "normal". Also, I really dislike the ridges that come with coarse settings. I found that they tend to show through the paint, especially in certain lighting situations. I still have cleaning up to do (particularly her forehead seam, which I'm not happy with yet) but I wanted to work out more electronics and do the meat and potatoes of getting my servos working first. The first set of servos I had were for a Tinkerkit Braccio arm, and Arduino seems to have programmed them so that they are only compatible with the Braccio Shield, not interchangeable with other devices. This meant that they would always jerk violently to a "safety position" whenever I powered them on, so as you can imagine programming was a nightmare. Sophie's head used to fall apart very frequently. To overcome this unexpected flaw, I purchased some generic 25kg.cm servos, an Elegoo MEGA2560 and a Pololu Maestro servo control board. Now I am back in business.
 
 # 33
@@ -194,7 +225,8 @@ In Cura 0.15mm layer height is classed as "normal". Also, I really dislike the r
 Not that anon, but that sounds great! Thanks for the updates.
 
 # 34
-Video of Sophie's head/neck movement test is here:
+Video of Sophie's head/neck movement test is here:
+
 https://www.youtube.com/watch?v=_NL4fXr8QHo
 
 # 35
@@ -217,10 +249,14 @@ Congrats, very nice to see some progress. Are you now trying to synchronize the 
 https://www.instructables.com/id/Simple-Animatronic-Mouth-Using-3D-Printing-Arduino/
 
 # 39
->>5302
-Good point! XD No matter how gorgeous CGI is, you can't reach out and feel it (or have it reach out and touch you!) 
->>5307
-Yep, you read my mind. I have been looking at those very links today during my lunchbreak and reading about MyRobotLab/MarySpeech. 
+>>5302
+
+Good point! XD No matter how gorgeous CGI is, you can't reach out and feel it (or have it reach out and touch you!) 
+
+>>5307
+
+Yep, you read my mind. I have been looking at those very links today during my lunchbreak and reading about MyRobotLab/MarySpeech. 
+
 I must confess it all looks quite complicated. Maybe not to implement as-is, but for me to get  that code working with what I already have is definitely going to take some time since I am just a noob when it comes to Python. Also since I am working full-time (must obtain funds to build robo-waifu!) I am going to focus on building/adapting her robot arms next. Programming tends to take me ages and I make achingly slow progress XD. I think I'll get more done if I tackle the "low-hanging fruit first".
 
 # 40
@@ -239,7 +275,8 @@ My creative spirit is rising
 kekd
 
 # 43
->>5348
+>>5348
+
 Unfortunately I had to cut her bum off my model. I didn't have the balls to 3D print a mold for a nice, squeezable silicone ass with my parents and relatives always hovering around. Her 3D printed PLA boobies got me enough trouble as it is, even after I'd taken the nipples off, and they're only average size! But that's the reason I open-source all her parts. The rest of you guys can go wild XD
 
 # 44
@@ -248,8 +285,10 @@ Unfortunately I had to cut her bum off my model. I didn't have the balls to 3D p
 Thanks Anon, we appreciate that.
 
 # 45
->>5352
-I have plans for dat ass, btw. It mustn't just be squeezable, but warm too (same with all the large, squishy parts). I'm thinking slide a few of these electrical silicone heater mats inside slots cut into the silicone outer layer. Hopefully my waifu won't burst into flames due to overheating. Will have to get one of those sex toys and use it as a test-butt before designing the real thing.
+>>5352
+
+I have plans for dat ass, btw. It mustn't just be squeezable, but warm too (same with all the large, squishy parts). I'm thinking slide a few of these electrical silicone heater mats inside slots cut into the silicone outer layer. Hopefully my waifu won't burst into flames due to overheating. Will have to get one of those sex toys and use it as a test-butt before designing the real thing.
+
 Also, before I get too side-tracked by ass-cheeks, I have uploaded a few build-instructions for the Elfdroid head and neck. More to follow.
 
 # 46
@@ -277,7 +316,8 @@ You. I like you Anon. Also,
 >pic related
 
 # 51
->>5394
+>>5394
+
 The head and neck (with wig on top) weighs around 855 grams.
 
 # 52
@@ -285,7 +325,8 @@ The head and neck (with wig on top) weighs around 855 grams.
 heh, she looks like she's about to go to town for some shopping **and doesn't want the paparazzi hounding her again. :^)**
 
 # 53
->>5393
+>>5393
+
 I kind of have to make Sophie a little-family friendly. This is going to cause me personally huge problems making any sexy bits more advanced. Therefore I am aiming for a modular design where she can be respectable enough to roll into a church fete in the afternoon, but with a few parts on pegs and magnets you can change her into "nightclub mode" the same evening XD. I would probably have to swap out her hard plastic chest and a flat bottom for the squishy, warmable, silicone sexy-time ones. Plus, modularity should make testing easier (and perhaps concealment).
 
 # 54
@@ -293,8 +334,10 @@ I kind of have to make Sophie a little-family friendly. This is going to cause m
 great ideas. look forward to what you come up with. these issues will be commonplace for many years, and it would be nice if we can adopt a standard approach to them.
 
 # 55
-All fingers and thumb flex. That Ryan Gross is a man of his word! Beware when purchasing the paracord for the PROTO1 hand though. Not sure what type he uses, but my standard cord was too thick to fit through the holes in the fingers, so I ended up using string instead. A couple of the finger ligaments need tightening and the servo wires need labeling but if an electronics noob like me can muddle his way through building this hand, anyone can! 
-
+All fingers and thumb flex. That Ryan Gross is a man of his word! Beware when purchasing the paracord for the PROTO1 hand though. Not sure what type he uses, but my standard cord was too thick to fit through the holes in the fingers, so I ended up using string instead. A couple of the finger ligaments need tightening and the servo wires need labeling but if an electronics noob like me can muddle his way through building this hand, anyone can! 
+
+
+
 I didn't even have to buy the metal servohorns, I just 3d printed some instead. I will upload those to Sophie's file archive in case anyone else wants to use them. This is about as quick and cheap as robotics can get!
 
 # 56
@@ -302,13 +345,20 @@ I didn't even have to buy the metal servohorns, I just 3d printed some instead. 
  Great work Anon. Looking forward to Sophie's next improvements!
 
 # 57
->>5565
-Thanks! Oh, a couple more tips for anyone thinking of building this hand;
-
-1.) Don't bother printing out the back cover panel for the forearm because it is highly unlikely to fit. I'm leaving my forearm open with the servos exposed for the time being. May cover it with white cloth later on.
-
-2.) You may need to drill/cut a couple of small slots in the front of the forearm so that the servohorns can rotate properly. As you assemble the servos on the holder, you will soon realize that there isn't much room inside the forearm shell.
-
+>>5565
+
+Thanks! Oh, a couple more tips for anyone thinking of building this hand;
+
+
+
+1.) Don't bother printing out the back cover panel for the forearm because it is highly unlikely to fit. I'm leaving my forearm open with the servos exposed for the time being. May cover it with white cloth later on.
+
+
+
+2.) You may need to drill/cut a couple of small slots in the front of the forearm so that the servohorns can rotate properly. As you assemble the servos on the holder, you will soon realize that there isn't much room inside the forearm shell.
+
+
+
 3.) Self-locking forceps (surgical forceps) come in very handy for stringing the fingers with fishing line. It's a very similar process to holding the elastic in place when stringing a ball-jointed-doll.
 
 # 58
@@ -391,7 +441,8 @@ This is about as expedient a solution as I could find. Prior to this I was consi
 -''patched codetag''
 
 # 62
->>6013
+>>6013
+
 Feck. The code tags didn't work. I am retard so I always need about five iterations to get anything working XD.
 
 # 63
@@ -399,7 +450,8 @@ Feck. The code tags didn't work. I am retard so I always need about five iterati
 I can fix it for you lad.
 
 # 64
->>6015
+>>6015
+
 Thank you! I plan to use this breakthrough to make Soph sing some Vocaloid songs. Her first hymn will be "Give me oil in my joints keep me moving."
 
 # 65
@@ -407,8 +459,10 @@ Thank you! I plan to use this breakthrough to make Soph sing some Vocaloid songs
 It's actually a clever approach you used. Good work, and we look forward to Sophie's progress!
 
 # 66
-Video of Sophie's first jaw movement test. I decided to use a Vocaloid song that I made earlier. It's only a simple puppet-like up-and-down jaw movement. Adding convincing lips that don't look like some kind of wrinkly horror movie animatronic is tricky. From what I've read syncing them up with individual phonemes is also extremely challenging (since a robot has no respiratory tract, breathing or voice-box, moving lips are kinda redundant anyway...unless you want to use them for....other purposes ;D). Besides, I can adjust the sound sensitivity via potentiometer and the movement delay through integers in the code, so this is enough for me.
-
+Video of Sophie's first jaw movement test. I decided to use a Vocaloid song that I made earlier. It's only a simple puppet-like up-and-down jaw movement. Adding convincing lips that don't look like some kind of wrinkly horror movie animatronic is tricky. From what I've read syncing them up with individual phonemes is also extremely challenging (since a robot has no respiratory tract, breathing or voice-box, moving lips are kinda redundant anyway...unless you want to use them for....other purposes ;D). Besides, I can adjust the sound sensitivity via potentiometer and the movement delay through integers in the code, so this is enough for me.
+
+
+
 https://www.youtube.com/watch?v=VeIk1eOLp7M
 
 # 67
@@ -430,22 +484,35 @@ Godspeed Anon
 I love that Vocaloid song. Great choice anon, Sophie a cute.
 
 # 70
->>6049
->>6051
-
-Thank you for your kind words! Now I just hope I don't burn my house down and/or electrocute myself because the next steps are going to require some heavy duty servo motors for the shoulders (120kg.cm) running off a bench-top power supply.
-
->>6035
-Will Cogley mentions something like this but using an Adafruit microcontoller instead of an Arduino Mega. I couldn't get any of his code working because I don't have an Adafruit and I don't think it fits with Sophie's simple design. (Also I suck at C++). But, if anyone else wants to have a go and maybe change the mouth design a bit so their robowaifu doesn't have a horrifying carnivorous maw, the download pack is located about a fifth the way down this webpage;
- 
+>>6049
+
+>>6051
+
+
+
+Thank you for your kind words! Now I just hope I don't burn my house down and/or electrocute myself because the next steps are going to require some heavy duty servo motors for the shoulders (120kg.cm) running off a bench-top power supply.
+
+
+
+>>6035
+
+Will Cogley mentions something like this but using an Adafruit microcontoller instead of an Arduino Mega. I couldn't get any of his code working because I don't have an Adafruit and I don't think it fits with Sophie's simple design. (Also I suck at C++). But, if anyone else wants to have a go and maybe change the mouth design a bit so their robowaifu doesn't have a horrifying carnivorous maw, the download pack is located about a fifth the way down this webpage;
+
+ 
+
 https://www.instructables.com/Simple-Animatronic-Mouth-Using-3D-Printing-Arduino/
 
 # 71
->>6051 Oh yeah, almost forgot. I uploaded the .vsqx file and the.stl for the little 3d-printable cone designed to fit around the Arduino sound sensor to Sophie's file repositories: 
-1.) https://drive.google.com/drive/folders/18MDF0BwI9tfg0EE4ELzV_8ogsR3MGyw1
-
-2.)https://mega.nz/fm/t7wgRIaI
-
+>>6051 Oh yeah, almost forgot. I uploaded the .vsqx file and the.stl for the little 3d-printable cone designed to fit around the Arduino sound sensor to Sophie's file repositories: 
+
+1.) https://drive.google.com/drive/folders/18MDF0BwI9tfg0EE4ELzV_8ogsR3MGyw1
+
+
+
+2.)https://mega.nz/fm/t7wgRIaI
+
+
+
 Just in case anyone else wants to use them for  testing purposes.
 
 # 72
@@ -456,7 +523,8 @@ Haha, stay safe in your lab Anon.
 Thank you. Any suggestions for the right software to use for your vocaloid files?
 
 # 73
->>6092
+>>6092
+
 I use Vocaloid v4 Editor. Vocaloid v5 is out, but the voices for that are quite expensive ($225 before tax), and the V4 + V3 voicebank torrents or zip files for it are much easier to find and download from the internet. (I used Avanna V3 for Sophie's singing voice in my clip, but I have also used a harmony combination of LukaV4, PrimaV3, SonikaV3 and Sweet AnnV3. (I would upload the voicebanks, but each one is quite large and I don't want to get Sophie's file repository deleted for hosting pirated content).
 
 # 74
@@ -467,11 +535,16 @@ Thanks! I'll look around.
 Yep, no keep your nose clean here Anon. :^)
 
 # 75
-Ryan Gross used the CAD software 'DesignSpark Mechanical' in order to create his Proto1 humanoid robot arm. Unfortunately this program creates some very high-density meshes that cannot be easily converted to boundary representations in Fusion360. This means that I am currently busy in Blender reducing the face counts of key components so that I can re-design the original Proto1 arm to be smaller, lighter, faster to print (and possibly better suited to a female frame - after all the original will make Sophie look like she has the arms of a wrestler).
-
-I have uploaded an .f3d file containing the fully assembled mesh of Mr.Gross's Proto1 arm 
-(un-optimised version). Just in case anyone wants to see exactly how each of the parts fit together before committing to 3d print.
-
+Ryan Gross used the CAD software 'DesignSpark Mechanical' in order to create his Proto1 humanoid robot arm. Unfortunately this program creates some very high-density meshes that cannot be easily converted to boundary representations in Fusion360. This means that I am currently busy in Blender reducing the face counts of key components so that I can re-design the original Proto1 arm to be smaller, lighter, faster to print (and possibly better suited to a female frame - after all the original will make Sophie look like she has the arms of a wrestler).
+
+
+
+I have uploaded an .f3d file containing the fully assembled mesh of Mr.Gross's Proto1 arm 
+
+(un-optimised version). Just in case anyone wants to see exactly how each of the parts fit together before committing to 3d print.
+
+
+
 Meantime, my 30V-10A benchtop power supply and DMM have arrived. Just waiting on a Co2 fire extinguisher and the high-power servo (a bucket of sand is also a wise precaution - just in case of any toasty electrical mishaps.)
 
 # 76
@@ -482,7 +555,8 @@ Sounds like exciting progress going on for you Anon. Glad to see you taking the 
 Godspeed.
 
 # 77
->>6035
+>>6035
+
 I think SAPI supports this, if you have a copy of Windows you can run, run TTSApp.exe and there's a visualization for every syllable. I can upload TTSApp if you can't find it or something, I don't even remember where I got a copy of it.
 
 # 78
@@ -765,13 +839,20 @@ Anon where did you learn robotics at? Can you give me a few pointers? I want to 
 Nice work, Enthusiast-kun. This is exactly the kind of ready-to-hand, creative approach that exemplifies the ''DIY spirit'' of this board. Craftwork like this can enable literally millions of men to piece together much of robowaifus from 'local materials' so to speak.
 
 # 102
->>6971
-Not Sophie creator, but you can get by with an introduction arduino kit with the most common sensor modules.
-
-For 3D printing Blender is all you need, most of the parts you need you can box-model.
-
-Granted, I took high school electronics and tried my hand at making 3D vidya but that's another story.  But I don't have as much dedication to the mechanical components as Sophie's creator.
-
+>>6971
+
+Not Sophie creator, but you can get by with an introduction arduino kit with the most common sensor modules.
+
+
+
+For 3D printing Blender is all you need, most of the parts you need you can box-model.
+
+
+
+Granted, I took high school electronics and tried my hand at making 3D vidya but that's another story.  But I don't have as much dedication to the mechanical components as Sophie's creator.
+
+
+
 I need a workshop, there's too many parts in my apartment.
 
 # 103
@@ -897,7 +978,8 @@ This issue, among several others, is what led me to feel that using Bowden cabli
 Okay, I hope this doesn't pull you down. Maybe you'll build a taller one someday, then they might fit. Or you can use them in the hips. What are these other motors inside doing? Maybe you mentioned that, but I overlooked or forgot it.
 
 # 116
->>7231
+>>7231
+
 What if you created custom servo gearboxes? Or placed them somewhere else inside the torso and used wires?
 
 # 117
@@ -941,7 +1023,8 @@ Anyway, just leaving this here in case anyone else buys this type of servo motor
 thanks anon, interesting.
 
 # 121
->>7284
+>>7284
+
 What the fuck? Is that glue in the gear teeth or lubricant? It looks like someone's first 3D print of a gearbox they took to a back alley machine shop.
 
 # 122
@@ -950,15 +1033,18 @@ What the fuck? Is that glue in the gear teeth or lubricant? It looks like someon
 Pretty sure that's White Grease, friend.
 
 # 123
->>7293
+>>7293
+
 That's machine grease my dude, prevents wear and corrosion
 
 # 124
->>7297
+>>7297
+
 On the gears but why the case?
 
 # 125
->>7307
+>>7307
+
 I've seen it slopped around rather carelessly like that.
 
 # 126
@@ -1110,7 +1196,8 @@ That design is fine Anon, carry on.
 It's not necessary to have fetish, to want all parts on a girl look pretty as they ideally do. However, this is just the first iteration and better what I build so far, so I won't complain.
 
 # 154
->>7545
+>>7545
+
 Honestly considering feet are probably going to be third place behind ass and tits it's probably a good idea to come up with good feet design. You could surely do a design with separate toes without stringing them like fingers just to start at least. Better than nothing. At the very least it doesn't need to be thrown on the back burner for long, it definitely needs consideration.
 
 # 155
@@ -1119,9 +1206,12 @@ Honestly considering feet are probably going to be third place behind ass and ti
 You forgot: Face and thighs,. Ugly male hands would also be a turnoff. Feet are similar to hands, which makes them complex to design.
 
 # 156
->>7552
-I'm pretty sure that feet are third place behind ass and tits in terms of sexually enjoyed body parts that are not primary sex organs. A pretty face is about as much of a given as a robowaifu having a vagina. It's why I didn't list vagina either. Never talked to anyone with a hand fetish, even online on anonymous imageboards where people would shamelessly admit such a thing. "Ugly male x would be a turnoff" can be said about anything as well. The entire thing needs to look feminine.
-
+>>7552
+
+I'm pretty sure that feet are third place behind ass and tits in terms of sexually enjoyed body parts that are not primary sex organs. A pretty face is about as much of a given as a robowaifu having a vagina. It's why I didn't list vagina either. Never talked to anyone with a hand fetish, even online on anonymous imageboards where people would shamelessly admit such a thing. "Ugly male x would be a turnoff" can be said about anything as well. The entire thing needs to look feminine.
+
+
+
 The point is, straight men like a pretty face and a vagina 100% of the time. In terms of other stuff that men like, ass, tits, and feet are top three. Probably in that order if I had to guess. %%Foot fetish is common as fuck.%%
 
 # 157
@@ -1139,9 +1229,12 @@ I would generally google for differences in body shape between sexes before buil
 space the sole a bit so it can absorb shocks from walking
 
 # 160
->>7556
-Feet are the most common fetish. Ass and tits are not considered a fetish because they're considered secondary sex characteristics. One can make the argument this isn't really true about ass since men have those as well but whatever. According to some 2006 internet study 16% of men have a foot fetish. According to a 2017 Belgian survey 17% of men have one.
-
+>>7556
+
+Feet are the most common fetish. Ass and tits are not considered a fetish because they're considered secondary sex characteristics. One can make the argument this isn't really true about ass since men have those as well but whatever. According to some 2006 internet study 16% of men have a foot fetish. According to a 2017 Belgian survey 17% of men have one.
+
+
+
 Every fifth anon you talk to probably has a foot fetish. Also it's just going to look wrong if the entire body is aiming to have good anatomy and the feet are webbed and look like flippers or something. I rest my case. %%also "lel foot fetish confirm" is not an argument%%
 
 # 161
@@ -1158,9 +1251,12 @@ I dislike that corpse-like look that robots get when they have a silicone skin s
 Of course, I will make another version of the foot with some cute little toes eventually (there are definitely 3D models of feet out there and one could just scale and graft the toes from one of those meshes onto the front of this mechanical foot. But for now I must continue actually 3D Printing and building her...and finish designing that ankle joint!
 
 # 162
->>7562
->Of course, I will make another version of the foot with some cute little toes eventually
-%%thanks%%
+>>7562
+
+>Of course, I will make another version of the foot with some cute little toes eventually
+
+%%thanks%%
+
 Keep up the good work
 
 # 163
@@ -1186,7 +1282,8 @@ We actually have posts on that very topic Anon. Here's one of them (and the surr
 Sorry, but the other crosspost numbers are from the old board on 8ch. If I find the specific ones I'll try to link them to you here again in the future. There's an index thread we're working on here that might help out with this eventually too.
 
 # 166
->>7520
+>>7520
+
 Have you thought about moving the location of the "hips" down? You'd have to elongate the central column and then condense the actuators for the upper legs. But I'm sure you could fit it all in. Or maybe smooth down the edges that protrude in front? If you did that though, you'd have to restructure the joint that the actuators attach to.
 
 # 167
@@ -1238,10 +1335,14 @@ https://mega.nz/folder/lj5iUYYY#Zz5z6eBy7zKDmIdpZP2zNA
 Good job tracking that down. Actually, you're doing rather well with so few electromechanical issue popping up for you. Goes to show you're working methodically and keeping things clean along the way.
 
 # 172
->>7569
->start argument
->lose argument
->"your argument is not on topic ITT"
+>>7569
+
+>start argument
+
+>lose argument
+
+>"your argument is not on topic ITT"
+
 What's it like being retarded, anon?
 
 # 173
@@ -1518,7 +1619,8 @@ Some 3D-printed external cosmetic "chassis plating" should help with this. But I
 That's pretty wise Anon. So, do you run any type of validity check on them sometimes? I mean just checking they are still intact. Also, do you have any way to keep redundant copies located geographically distant from each other? Kind of like datacenter's disaster recovery plans. I don't know if you can really trust any commercial cloud service with something as ''toxic & problematic'' as anything robowaifu-related, but for now one of the smaller, politically-incorrect domains might suffice.
 
 # 211
->>7894
+>>7894
+
 You mean the study that got taken over by jews and never made a good game and even struggled to make something that qualifies as a game (witcher 3 has no gameplay, therefore not a game) pumped out trash? I hope you at least had the decency to pirate it.
 
 # 212
@@ -1603,7 +1705,8 @@ Give us a little song, Sophie!
 <*lifts pint in cheer*
 
 # 224
->>8003
+>>8003
+
 As a long time 3D printer, you’re far better off with more wall layers then infill.
 
 # 225
@@ -1658,7 +1761,8 @@ That's endearing actually, thanks for taking the time to make the song and have 
 >that will facilitate ''steady'' progress for you.
 
 # 230
->>8025
+>>8025
+
 Multiple microcontrollers is in fact standard, each responsible for only one or two functions.  They have to be addressable though (SPI, I2C bus).  You can have a higher level computer (e.g. Raspberry Pi or laptop) sending each microcontroller the commands it needs.
 
 # 231
@@ -2621,7 +2725,8 @@ That way, you still have both options available to you in your calling code.
 
 BTW, since you would have a define for the standard delay time, why not test it out with different values as well? Say, turn it down to just 1/10th of it's original value. IE, edit the line to read like this instead:
 ```cpp
-#define std_delay 300```
+#define std_delay 300
+```
 If you try it out, please let us know how that works Anon. You could even try defining multiple, different delay values, sprinkling them around your code in place of the ''std_delay'' one. This would allow you to begin easily varying her animation control settings more specifically to suit her needs.
 
 # 335

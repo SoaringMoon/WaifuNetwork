@@ -1,3 +1,3 @@
 # 1
-<stay tuned
+< stay tuned
 

@@ -321,17 +321,25 @@ Also fixed the cartoonish proportions of the arms and they look right to me and 
 OH I SEE NOW. The forearms look a little like gauntlet sleeves to me. Very cool. The hands look good, and in nice proportion, with the rest of the arms. Actually I really like where you're going with this robowaifu's design Anon, please keep it up!
 
 # 39
-I've been considering how difficult it will be to include silicone into my robowaifu and thinking of reworking her model into a more armored look or something like Aigis. Then I only have to worry about casting her face. It would also make accessing parts and prototyping much easier too.
-
+I've been considering how difficult it will be to include silicone into my robowaifu and thinking of reworking her model into a more armored look or something like Aigis. Then I only have to worry about casting her face. It would also make accessing parts and prototyping much easier too.
+
+
+
 And it would be fun to make a robowaifu fighting game kind of like Cyberspace Girls Colosseum: https://youtu.be/e1NR-Q2gc6w?t=392 Except instead of controlling the robowaifu you program her AI and battle against other people's. I've been pretty unmotivated to finish her model since I don't have any use for it right now until I get a 3D printer but if I made a battlewaifu game then I'd be working on it every day and exploring a variety designs.
 
 # 40
->>11990
-Well I did the head and torso today. Have to do the eyes, hair, texturing, and rigging. Did most of the head accessories too.
-Thought it came out nice so far but have to find out why my pc has a burning plastic smell. The model as a whole is under 50k polys and I made the head and torso in a separate file...
-
-Dont want to spam the board with my WIP pics and will show a fully assembled model After I add her hair.
-
+>>11990
+
+Well I did the head and torso today. Have to do the eyes, hair, texturing, and rigging. Did most of the head accessories too.
+
+Thought it came out nice so far but have to find out why my pc has a burning plastic smell. The model as a whole is under 50k polys and I made the head and torso in a separate file...
+
+
+
+Dont want to spam the board with my WIP pics and will show a fully assembled model After I add her hair.
+
+
+
 No idea how to screw back on my 3D printer’s Extruder fan and I need to get some new tubing and a connector for it. The screws are super tiny and its not worth cutting myself by accident with the tiny chinesium tools since most actual hardware doesn’t go under 1 mm.
 
 # 41
@@ -387,9 +395,12 @@ Are you planning to rig and animate her Anon? One of the nice things about hard-
 Regardless, you deserve credit for finding your motivation spark. Keep it up! :^)
 
 # 48
->>12116
-Yes I am planning on rigging her so she is a playable character in Unreal Engine.
-
+>>12116
+
+Yes I am planning on rigging her so she is a playable character in Unreal Engine.
+
+
+
  Though Blender’s action editor is a huge PITA and I have no idea how to get the stash/ push down functions to work properly for more than 1 animation per model. Could not find a good tutorial on it.
 
 # 49
@@ -401,19 +412,29 @@ Please share it here (or a ''3D CGI General'' should we get one) if you figure i
 Have any others like this Anon, please thank you. :^)
 
 # 51
->>12128
-I thought we had a 3dcg?
-
+>>12128
+
+I thought we had a 3dcg?
+
+
+
 Will probably do more details tomorrow and go about fixing the hair bun.
 
 # 52
->>12127
-I'd also like a tutorial on this. I still have a hard time grasping how it works.
-
-Most of my confusion was cleared realizing I need to have both the action editor and non-linear animation editor open at the same time. Pushing down puts the active action in the NLA editor as a strip on a track, which acts like a layer in an image editor. Each track modifies the modified track below it. Each strip is a bit of animation data on that track that references an action's keyframes and blends/extrapolates them. The active action being edited always sits on top of all the tracks.
-
-Pressing N opens the context panel sidebar of the NLA editor which is important to have open, particularly the Strip tab where you can set the blending, extrapolation and playback scale of strips. Selecting a strip and pressing Tab in the NLA editor will enter tweak mode for its action, which will make it the active action being edited.
-
+>>12127
+
+I'd also like a tutorial on this. I still have a hard time grasping how it works.
+
+
+
+Most of my confusion was cleared realizing I need to have both the action editor and non-linear animation editor open at the same time. Pushing down puts the active action in the NLA editor as a strip on a track, which acts like a layer in an image editor. Each track modifies the modified track below it. Each strip is a bit of animation data on that track that references an action's keyframes and blends/extrapolates them. The active action being edited always sits on top of all the tracks.
+
+
+
+Pressing N opens the context panel sidebar of the NLA editor which is important to have open, particularly the Strip tab where you can set the blending, extrapolation and playback scale of strips. Selecting a strip and pressing Tab in the NLA editor will enter tweak mode for its action, which will make it the active action being edited.
+
+
+
 To get multiple animations, exporting as GLTF or FBX format will export each NLA track as an individual animation you can use in Godot and I imagine other game engines as well. I couldn't figure out the Godot exporter for animations. Each animation mode with it just merged them all together into one clusterfuck. I'm still not really sure how it all works but I think the NLA editor is just to help you blend and utilize existing actions to help create new tracks which get exported as individual animations, at least with GLTF and FBX, that can be blended together later in the engine if desired.
 
 # 53
@@ -610,14 +631,22 @@ Well I had done more practice on that design I shared a WIP of earlier over the 
 Still haven't gotten around to rigging since blender has been extremely frustrating not only automatically rigging the spine bones to L or R, but also folding in on itself so no matter how I turn it. I can get it to look right, but its often 90 degrees the wrong direction and still labels the spine/center bones L or R and being a major PITA and wont even move the mesh after I've parented the bones. So I instead learned more techniques and added much more detail and some custom textures in a design a bit more advanced than with allie.
 
 # 79
-Here's a quick tip for body panels.
-
-Use an edge split modifier with sharp edges ticked.
-Solidify for some thickness.
-Then use a subdivision modifier so you can get nice rounded body panels.
-
-It's really quick and hassle free, non-destructive too.
-
+Here's a quick tip for body panels.
+
+
+
+Use an edge split modifier with sharp edges ticked.
+
+Solidify for some thickness.
+
+Then use a subdivision modifier so you can get nice rounded body panels.
+
+
+
+It's really quick and hassle free, non-destructive too.
+
+
+
 That's assuming your topology isn't fugged.
 
 # 80
@@ -627,8 +656,8 @@ Very cool. Thanks for the good advice Anon. Nice-looking model BTW. Hard-surface
 # 81
 >>12500
 >those **julays**
-<mfw
-**(>>2681, ...)**
+
+>>2681
 
 # 82
 Making those slices in her face in a technically correct manner, without it looking completely derp was harder than I thought. 
@@ -907,38 +936,52 @@ Finally solved this MF of a problem that was making the arms and hands of my mes
 Congrats SophieDev, glad you got it sorted! Your detail comments in the graphs is appreciated too.
 
 # 126
->>11776
+>>11776
+
 The idea of battledroid robowaifus is really cool. Not only does it allow for really cool features like battling or even allowing them to fly by you also get to use more exotic designs when building them.
 
 # 127
->>14977
-Yup, the Japanons are masters of female battledroids. I remember in the early nineties TOMY released a series of toys called Z-Knights, which were all battledroids. I was fortunate enough to own one as a kid. I always thought Transformers were a little daft with the whole "disguising high-tech war machines as cars " thing. So I liked the Z-Knights more. They were all male I believe, but could still be another source for robowaifu inspiration. A female Z-Knight would be freaking awesome as well.
+>>14977
+
+Yup, the Japanons are masters of female battledroids. I remember in the early nineties TOMY released a series of toys called Z-Knights, which were all battledroids. I was fortunate enough to own one as a kid. I always thought Transformers were a little daft with the whole "disguising high-tech war machines as cars " thing. So I liked the Z-Knights more. They were all male I believe, but could still be another source for robowaifu inspiration. A female Z-Knight would be freaking awesome as well.
+
 .
 
 # 128
-M-66 has learned me lots about character modelling Blender (mainly what not to do and then how to correct it). Consequently, despite extensive repairs and improvements, her basemesh topology is still rather fugged because I made so many mistakes while working on her. I have almost completed the process of getting her into a fully rigged and weighted state (just some cleaning up of a few more vertex groups still to do). But after more than six months, 488MB of models and 36 iterations I decided to give myself a bit of a rest from M-66 for now. 
-
+M-66 has learned me lots about character modelling Blender (mainly what not to do and then how to correct it). Consequently, despite extensive repairs and improvements, her basemesh topology is still rather fugged because I made so many mistakes while working on her. I have almost completed the process of getting her into a fully rigged and weighted state (just some cleaning up of a few more vertex groups still to do). But after more than six months, 488MB of models and 36 iterations I decided to give myself a bit of a rest from M-66 for now. 
+
+
+
 Instead, I am starting the 'Honey Select to Blender Extraction Project'! Because the original 3D model for Sophie is still trapped inside Honey Select, which greatly limits where I can put her, what props she can interact with and how she could be animated. So I want to try and set her free from her mother-program by employing a combination of NinjaRipper, Noesis, the Blender knowledge I've gained working on M-66 and Marmoset Toolbag 4 for easier texturing.
 
 # 129
->>15075
-Lowering her poly count would be helpful. Be weary, game rips are designed to be used digitally. I have faith you can modify her design to work, just be mindful and careful when working with those designs.
-
+>>15075
+
+Lowering her poly count would be helpful. Be weary, game rips are designed to be used digitally. I have faith you can modify her design to work, just be mindful and careful when working with those designs.
+
+
+
 Wishing you the greatest of luck on your endeavor.
 
 # 130
->>14977
-Thanks for the design inspiration anon, had tried something similar to that outfit on my kos mos but ended up scrapping it since it was redundant.
-
->>15076
->lowering the polycount
+>>14977
+
+Thanks for the design inspiration anon, had tried something similar to that outfit on my kos mos but ended up scrapping it since it was redundant.
+
+
+
+>>15076
+
+>lowering the polycount
+
 That is something I keep in mind when modeling. Though at the moment I am learning how to make texture sheets again since the sources I was using were unclear.
 
 # 131
 
 
 # 132
-That actually posted! Didn't think it would LOL.
+That actually posted! Didn't think it would LOL.
+
 As you can see I have been messing about uploading .OBJ files to Mixamo. I couldn't get any of the textures to work on Sophie because the texture map will not align to the UV. Not even sure this is doable in Blender TBH. Also, M-66's knees are glued together, both her shoulders have collapsed and it looks like some vertices on her arms are assigned to her spine or some shit XD. Other than that, cracking show.
 
 # 133
@@ -952,37 +995,50 @@ You just need to tweak thinks a bit Anon. The UV unwrap looks clean AFAICT. Just
 Good luck SophieDev!
 
 # 134
-I have reason to believe that Illusion has encrypted or scrambled it's UV maps. Because I was following the Youtube tutorial by LotusEyes on how to export characters from Honey Select, and he mentioned that Illusion assets have "encryption" to stop them being ripped and used by people in other games/projects. So you can only export heavily modded (non-Illusion) assets. Unfortunately, Sophie uses no such modded assets. This might explain why my head appears covered in a really scrambled up tooth texture when I load the raw RIP file. The head that LotusEyes uses on the other hand, appears a transparent light-grey, which he says is 'already UV unwrapped'.
-
+I have reason to believe that Illusion has encrypted or scrambled it's UV maps. Because I was following the Youtube tutorial by LotusEyes on how to export characters from Honey Select, and he mentioned that Illusion assets have "encryption" to stop them being ripped and used by people in other games/projects. So you can only export heavily modded (non-Illusion) assets. Unfortunately, Sophie uses no such modded assets. This might explain why my head appears covered in a really scrambled up tooth texture when I load the raw RIP file. The head that LotusEyes uses on the other hand, appears a transparent light-grey, which he says is 'already UV unwrapped'.
+
+
+
 This doesn't just happen on the head either. Every ripped mesh is covered in scrambled textures. Bummer. My only choice now would be to paint textures of my own, but I will not be able to get anywhere near the quality of those used by Illusion, whose skin textures appear photo-real.
 
 # 135
->>15088
+>>15088
+
 Unfortunately I am unable to align the texture to the UV the way it unwraps from the ripped asset. I can get the eyes and nose and mouth aligned properly, but then because of the way the UV is shaped, the hairline and ears and inside of the mouth will be in completely the wrong place and vice versa. I think this is due to the UV data itself being scrambled because when LotusEyes shows his character's head UV, it is a completely different shape from the start, whereas mine starts off literally as a scrambled mess of lines and I have to press 'unwrap'. This gives the result above which looks like it might work, but when you come to position textures over it, they never fit properly. I will post some images later to explain the problem better.
 
 # 136
->>15100
+>>15100
+
 I can align the texture for her eye sockets, nose and lips closer than in image 3 by scaling and transforming the UV map and by using UV > Minimise stretch, but then her ear textures end up on the back of her neck and her hairline is all wrong. Unless I'm missing some major Blender UV voodoo ritual, I think the asset encryption is the problem, because LotusEyes UVs are all fine from the get-go, and he makes no mention of any additional steps in his tutorial.
 
 # 137
->>15101
+>>15101
+
 Ganbare SophieDev, your progress is great and you are on a path towards a beautiful future!
 
 # 138
->>15102
-Since it looks like ripping Sophie's textures directly from Honey Select is out of the question, I will just keep focusing on M-66 and IRL-animatronic Sophie instead. Removed another 400KB of un-needed polys from M-66 the other day. She is getting close to being a single, smooth manifold basemesh now. I know you can use 'merge by distance' to eliminate unrequired vertices, but this often eliminates required vertices too, which ruins the design. So  I have spend a lot of time manually merging vertices and waging war on triangle-fans. 
-
+>>15102
+
+Since it looks like ripping Sophie's textures directly from Honey Select is out of the question, I will just keep focusing on M-66 and IRL-animatronic Sophie instead. Removed another 400KB of un-needed polys from M-66 the other day. She is getting close to being a single, smooth manifold basemesh now. I know you can use 'merge by distance' to eliminate unrequired vertices, but this often eliminates required vertices too, which ruins the design. So  I have spend a lot of time manually merging vertices and waging war on triangle-fans. 
+
+
+
 The next model I make I'll be much more careful which shapes I place where and delete non-visible internal polys as I go along.
 
 # 139
->>11776
-Battle waifu robots would be really cool to see. Bonus points of they're maids too! 
-
+>>11776
+
+Battle waifu robots would be really cool to see. Bonus points of they're maids too! 
+
+
+
 But what kind of weapons could a robowaifu use? If you live in the US you could give them a firearm but if you're in Europe or another country you could probably only give them something like a taser or a sword, maybe a crossbow.
 
 # 140
->>15279
-A broom is great to help her fight the dust bunnies!
+>>15279
+
+A broom is great to help her fight the dust bunnies!
+
 CZ Delta is based
 
 # 141
@@ -990,9 +1046,12 @@ CZ Delta is based
 What a cute pic!
 
 # 142
->>15355
->Elfy is now the owner of a logistics company. I like to imagine the trailer is full of tens of thousands of small, plush elves.
-
+>>15355
+
+>Elfy is now the owner of a logistics company. I like to imagine the trailer is full of tens of thousands of small, plush elves.
+
+
+
 (I actually want to learn to crotchet at some point because you can make some cool stuffed toys using that technique. Although it is pretty skilled and takes a lot of practice. I could mount a couple of micro-servos into such a stuffed toy similar to Tickle-me-Elmo. Complete opposite end of the spectrum to M-66, I know. But this is broad-spectrum robowaifus!
 
 # 143
