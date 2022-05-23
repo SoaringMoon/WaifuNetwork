@@ -14,7 +14,7 @@ https://archive.is/7ESmt
 
 # 2
 >Unless you want to deck out you're waifubot in dark glasses and a white cane
-But, OP, what if the model for the waifubot is supposed to be blind? #triggered
+But, OP, what if the model for the waifubot is supposed to be blind? # triggered
 
 # 3
 >>97

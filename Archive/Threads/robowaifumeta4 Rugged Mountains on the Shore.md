@@ -1964,7 +1964,7 @@ I have not gotten a response yet.
 
 # 244
 >>14133
-OK thanks. Please keep me up to date. I'd suggest the #julayworld channel on freenode might be the shortest route to discussions with Robi.
+OK thanks. Please keep me up to date. I'd suggest the # julayworld channel on freenode might be the shortest route to discussions with Robi.
 
 # 245
 >>14130

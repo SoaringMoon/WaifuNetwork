@@ -1871,11 +1871,11 @@ For example, there was a set of video linked here where a brown man (possibly In
 James Bruton uses windshild wiper motors. >>10815
 
 # 218
-#Noise related
+Noise related
 Noise level reference: https://youtu.be/C62-Yl_V4NI
 Digital vs analog servos: https://youtu.be/2TVmWbIM3IM
 
-#Other servo topics
+Other servo topics
 Low quality servos might have shifting arms, not going back to the correct position: https://youtu.be/b4jAGz3YBSY
 Arduino and Servos (Drone Bot Workshop): https://youtu.be/kUHmYKWwuWs
 Removing jitter with 6000uf, 16V capacitor: https://youtu.be/S7EVRDPQmfE

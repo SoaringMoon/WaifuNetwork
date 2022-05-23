@@ -38,7 +38,7 @@ The RWBrain and RWOS will also house the waifu's personality and ability to comm
 (2 of 2)
 
 # 3
-Here's the creator of #include< OS>, the basic platform I intend to use for the clustered unikernel OS for the Robowaifu OS.
+Here's the creator of # include< OS>, the basic platform I intend to use for the clustered unikernel OS for the Robowaifu OS.
 
 (1 of 3)
 
@@ -163,7 +163,7 @@ I also don't see any reason for using a cluster of RPI rather than a normal moth
 >>11244
 >>11247
 >''Install Gentoo''
-OP here. So yes, I'm not against that idea in general since you can bypass systemdicks and other CIA-ware. But as I mentioned ITT, my hopeful goal is basically to avoid installing any OS whatsoever, and use something like #Include< OS> instead. Other than that I've work a bit with Alpine Linux, and think it's pretty well suited to the subsections of the overall system that would actually benefit from a full-blown OS image.
+OP here. So yes, I'm not against that idea in general since you can bypass systemdicks and other CIA-ware. But as I mentioned ITT, my hopeful goal is basically to avoid installing any OS whatsoever, and use something like # Include< OS> instead. Other than that I've work a bit with Alpine Linux, and think it's pretty well suited to the subsections of the overall system that would actually benefit from a full-blown OS image.
 
 >>11245
 >>11247
@@ -368,7 +368,7 @@ I don't think Minix will ever become interesting. It had it's chance, Linux won.
 >>12459
 >>12459
 >Mirage OS
-Interesting. Unikernel's greatly-reduced attack surface and concordant potential for dramatically-improved optimization as well (the greatest software is the one that isn't there!), are two important factors that led me to investigate '''#include < os>'''.
+Interesting. Unikernel's greatly-reduced attack surface and concordant potential for dramatically-improved optimization as well (the greatest software is the one that isn't there!), are two important factors that led me to investigate '''# include < os>'''.
 
 I can't say I know much about OCaml, apart from it's community strikes me generally as a '' 'snowflake coffee-language du jour' '' crowd. Not my idea of a good time tbh. OTOH, functional programming is quite a valuable paradigm and I was delighted to see the C++ community adopt strong support for it from C++17 onwards.
 

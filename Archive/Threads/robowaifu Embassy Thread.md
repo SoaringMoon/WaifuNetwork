@@ -120,8 +120,6 @@ FYI, I'll probably move this over to our /meta thread.
 Okay, I need to confirm. Is this where all of the 8ch anons from /robowaifu/ are now making their home? I was pretty sad when I found the board gone on the new 8ch/8kun.
 
 Also, apparently tripcodes don't work the same here. 
-
-#test#
 ```test2```
 
 # 16

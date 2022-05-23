@@ -417,7 +417,7 @@ cp ~/_repo/Catch2/extras/*amalgamated.* .
 
 > #2
 
-We'll be using these two files to perform testing on our software. Let's create a new ''test.cpp'' file and #include that new header file first thing.
+We'll be using these two files to perform testing on our software. Let's create a new ''test.cpp'' file and # include that new header file first thing.
 ```cpp
 #include "catch_amalgamated.hpp"```
 > #3
@@ -780,7 +780,7 @@ Since we've moved the sayings std::map off into it's own file, we'll need to inc
 
 > #3
 
-The test file now just contains the test (as we'd like), but we need to add an #include for the new Robowaifu.hpp file so the test can find the new location of the class itself.
+The test file now just contains the test (as we'd like), but we need to add an # include for the new Robowaifu.hpp file so the test can find the new location of the class itself.
 ```cpp
 #include "Robowaifu.hpp"
 ```

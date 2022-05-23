@@ -4106,7 +4106,7 @@ I ended up doing things like avoiding the gifSize "constant" entirely and the de
 
 
 
-you're wrong about the internal linking tho. g++ uses internal linking by default for symbols marked as "const" (and static, obviously). I never #include the libcaptcha.c file, so the compiler would throw an error (even before linking) if I tried to use those symbols anyway.
+you're wrong about the internal linking tho. g++ uses internal linking by default for symbols marked as "const" (and static, obviously). I never # include the libcaptcha.c file, so the compiler would throw an error (even before linking) if I tried to use those symbols anyway.
 
 
 

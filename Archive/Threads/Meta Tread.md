@@ -687,7 +687,7 @@ Actually wait, you could be an Aussie.
 # 94
 >>319
 >Will you model your robowaifu after Illustrious?
-<those udders
+< those udders
 Heh, I'm more of a hebe you mong.
 
 # 95
@@ -1241,7 +1241,7 @@ So, just stay calm and focus on learning how to create robowaifus and everything
 
 And to answer your specific question, Robi made it clear it was an issue with his NoSQL MongoDB setup. Most likely it was merely a technical glitch.
 
-<also
+< also
 >''The NSA_Botnet-OS Experience''
 Topkek. I hadn't actually ever watched that before. Poor bro needs some Linux love in his life tbh.
 
@@ -1269,12 +1269,12 @@ thanks for the explanation mate.
 # 173
 >>996
 
-No problem. I should mention in the future you can always come to #julayworld on Rizon if something like this happens again. I spent most of last night answering random people that showed up on cytube to ask about the error. #julayworld channel is the best place to get an answer from an admin. You shouldn't depend on the cytube, the only reason I was on there last night is because I was streaming an anime.
+No problem. I should mention in the future you can always come to # julayworld on Rizon if something like this happens again. I spent most of last night answering random people that showed up on cytube to ask about the error. # julayworld channel is the best place to get an answer from an admin. You shouldn't depend on the cytube, the only reason I was on there last night is because I was streaming an anime.
 
 # 174
 >>997
 will do.
-<also
+< also
 **loli raifus animu** tbh
 
 # 175
@@ -1337,7 +1337,7 @@ heh, aren't they all? anytime you undertake a sizable project they are never rea
 # 181
 >>1040
 **i like the 'do not fist robowaifus' tag anon.. :^)**
-<also
+< also
 **ghost urn best urn**
 
 # 182
@@ -3211,7 +3211,7 @@ why is this subject pinned? OP is clearly a tourist of some kind who hasn't even
 # 432
 >>14376
 You might try 'looking' at things here yourself friend. For example:
-<waifusearch>  '''Welcome OR Welcoming'''
+< waifusearch>  '''Welcome OR Welcoming'''
 
 # 433
 >>14453

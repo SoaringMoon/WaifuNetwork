@@ -568,7 +568,7 @@ Pic related is the most well-known of those "selfies", just to give an example w
 >>11880
 All good points Anon. I'm very anti-SJW in my thinking on this whole area for so-called 'roborights' b/c muh_raep meme. An incredibly fat, fugly feminist cow is already screeching loudly that sex dolls must be programmed with refusal to 'consent' to sex.
 '''A.Farking.Doll.'''
-==#robomeetoo==
+==# robometoo==
 
 Make no mistake about it, any efforts to give robowaifus will be directly related to an agenda to ''prevent'' rights for men. These leftists are our enemies, plain and simple.
 

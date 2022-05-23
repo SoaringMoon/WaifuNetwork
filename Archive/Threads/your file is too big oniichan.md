@@ -9,11 +9,16 @@ And (just to diverge a bit) the weird idea that some have pushed that a machine+
 Anyway, back to your question. Yes, I think it is right to create robowaifus in the same way I think it's right to create automobiles or phones. Ofc there are abuses, but overall the benefits pretty much overwhelmingly outweigh the detriments anon. Helping these millions of men suffering under this modern plague of gynocentrism is well worth dealing with the issues that will arise.
 
 # 3
->>669
-I enjoy the metaphor "Imagine building a toaster to make toast for you, and then programming it to not want to make toast for you, and in fact make it so that it refuses to make toast for you until you perform a series of elaborate, pointless, and costly rituals for it."
-
-Alternatively, you could build a toaster who wants nothing more than to make toast for you, as much as you want, no more, and no less. Doesn't that sound like a much better option?
-
+>>669
+
+I enjoy the metaphor "Imagine building a toaster to make toast for you, and then programming it to not want to make toast for you, and in fact make it so that it refuses to make toast for you until you perform a series of elaborate, pointless, and costly rituals for it."
+
+
+
+Alternatively, you could build a toaster who wants nothing more than to make toast for you, as much as you want, no more, and no less. Doesn't that sound like a much better option?
+
+
+
 This does not actually work on the sort of people who would bitch about it, of course. Their interest is not in the realm of reason, they just don't want competition and are acting off of knee-jerk emotional impulse, but it certainly will confuse and anger them.
 
 # 4
@@ -91,7 +96,8 @@ You never specified human level intelligence, at all. The thread was ambiguous a
 If you want to talk about a specific subset of AI, then specify that in your thread's initial post; don't just retcon it in.
 
 # 17
->>152
+>>152
+
 This board only exists to create robot waifus. If you want, you can create a board that is against the creation of robot waifus. I actually don't feel like building a robot waifu and instead I want a robot daughter like in the Spear Hero parody manga where motoyasu buys firorial eggs and suddenly gets a lot of daughters because the firorials can transform into humans.
 
 # 18
@@ -136,12 +142,18 @@ And not just the men either, but also (apparently ironically) women as well. If 
 OTOH, I have to take issue that you aren't important Anon. At the very least your work is already an inspiration and encouragement here. Godspeed to you.
 
 # 23
->>7782
->A lot of normies see what I am working on and their first reaction is naturally "Sexbot hur-dur-hur!" 
->I always tell them that it's MUCH worse than that. If I just wanted a doll to ejaculate into  then I could spend four or five grand on a high-quality silicone doll and be done with it.
-Normalniggerfaggottrannies such as ones who use the word "normie" need to be thoroughly BTFO at every occasion.
-
-Next time someone tells your NPC brain your sexbot is a sexbot, answer this:
+>>7782
+
+>A lot of normies see what I am working on and their first reaction is naturally "Sexbot hur-dur-hur!" 
+
+>I always tell them that it's MUCH worse than that. If I just wanted a doll to ejaculate into  then I could spend four or five grand on a high-quality silicone doll and be done with it.
+
+Normalniggerfaggottrannies such as ones who use the word "normie" need to be thoroughly BTFO at every occasion.
+
+
+
+Next time someone tells your NPC brain your sexbot is a sexbot, answer this:
+
 >If I wanted an object that is only good as a cumdump, I'd get a woman
 
 # 24

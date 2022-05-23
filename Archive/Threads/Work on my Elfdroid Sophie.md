@@ -2732,7 +2732,7 @@ If you try it out, please let us know how that works Anon. You could even try de
 # 335
 >>8923
 >Definitely gonna try these tips. 
-Sounds good Anon. Since all this kind of evolved together as a progression and might be hard to follow that way, I'm assembling everything all together and will post the final next. One nice thing to do (when you can), is to separate out 'boilerplate' code into it's own ~~containment~~ utility file. This keeps the code you're actually interested in clean and lets you focus more clearly on the problem at hand. Accordingly, I'll do this as a new file. Just save it out as '''Sophie_utility.h''' in the same folder as your sketch code. It's contents get #include'd into the main code and everything in it is available w/o being bothered cluttering up the main file.
+Sounds good Anon. Since all this kind of evolved together as a progression and might be hard to follow that way, I'm assembling everything all together and will post the final next. One nice thing to do (when you can), is to separate out 'boilerplate' code into it's own ~~containment~~ utility file. This keeps the code you're actually interested in clean and lets you focus more clearly on the problem at hand. Accordingly, I'll do this as a new file. Just save it out as '''Sophie_utility.h''' in the same folder as your sketch code. It's contents get include'd into the main code and everything in it is available w/o being bothered cluttering up the main file.
 
 These should work together as a drop-in replacement for this sketch code >>8907 .
 
@@ -2867,7 +2867,8 @@ void loop() {
 
 // pls rember that wen u feel scare or frigten never forget ttimes wen u feeled happy
 // wen day is dark alway rember happy day
-// https://i.ytimg.com/vi/x6LovY_DdEE/maxresdefault.jpg```
+// https://i.ytimg.com/vi/x6LovY_DdEE/maxresdefault.jpg
+```
 
 # 337
 That file is something special anon! Maybe not to professional programmers who work with this kind of thing all the time, but it is to Sophie and I. 
@@ -2889,7 +2890,7 @@ I think it's really great that you are taking measures to safeguard Sophie's ass
 # 339
 >>8931
 One other thing I may need to point out, since this is new to you. These code blocks represent ''two'' different file's contents. The first section is the new file, as  already mentioned. The second section, the one that begins with:
->#include "Sophie_utility.h"
+># include "Sophie_utility.h"
 is intended to replace the contents of the '''original''' sketch code posted in >>8907 . Just copypasta'ing that section into the editor & saving should work OK (save the original as a backup file first!).
 
 So, to recap, this post is ''two'' different files; '''Sophie_utility.h''', and whatever the original file was saved as. Cheers.

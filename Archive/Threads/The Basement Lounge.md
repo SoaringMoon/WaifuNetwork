@@ -1926,12 +1926,12 @@ Alright, it's done, you can come say hello and register your nick and stuff. Ser
 
 irc://irc.fatpeople.lol:+6697
 
-Join #robowaifu
+Join # robowaifu
 
 It'll be run however you see fit, and obviously the board still needs to be the main place for discussion. However IRC might solve the problem of less relevant discussion that doesn't really fit the board (shitposting and board culture)
 
 # 287
-To "Anon10324" if you come back to #robowaifu on irc.fatpeople.lol I can continue helping you set up. No, we're not on freenode lol.
+To "Anon10324" if you come back to # robowaifu on irc.fatpeople.lol I can continue helping you set up. No, we're not on freenode lol.
 
 # 288
 %%I guess I should post a quick guide for people who are young enough to have never used IRC before and have no clue what the fuck they're doing.%% If you don't know shit about what you're doing in regards to IRC, just start by getting this: https://hexchat.github.io/
@@ -1944,7 +1944,7 @@ Second choice: nickname_
 
 Third choice: nickname__
 
-Choose a username, tbh just set it to whatever your nickname is that you chose. In the network list, you're not going to find fatchan so don't bother looking for it. Instead, click "add" and name the new network "fatchan." Once that's done, select it and click "edit." Under "servers" at the top, click "add" and enter "irc.fatpeople.lol" to the server list. Click the box that says "use SSL for all servers on this network." Click close, select fatchan, and click connect. Once you're in, in the menu bar, click "server" and then "join a channel." The channel is #robowaifu. Feel free to ask any questions once you're there.
+Choose a username, tbh just set it to whatever your nickname is that you chose. In the network list, you're not going to find fatchan so don't bother looking for it. Instead, click "add" and name the new network "fatchan." Once that's done, select it and click "edit." Under "servers" at the top, click "add" and enter "irc.fatpeople.lol" to the server list. Click the box that says "use SSL for all servers on this network." Click close, select fatchan, and click connect. Once you're in, in the menu bar, click "server" and then "join a channel." The channel is # robowaifu. Feel free to ask any questions once you're there.
 
 # 289
 >>6871

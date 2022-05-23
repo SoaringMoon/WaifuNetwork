@@ -1787,7 +1787,7 @@ Cheers.
 
 # 172
 >>5478
-#julayworld is the channel
+julayworld is the channel
 
 # 173
 >>5478
