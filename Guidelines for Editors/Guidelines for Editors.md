@@ -2,6 +2,8 @@
 # Tagging
 Keep the tag block at the top of post below the heading for the post number.
 
+Filenames are lead with the number of words in the file so that shorter documents can be processed first.
+
 # Images
 We are no longer saving images in this database.
 

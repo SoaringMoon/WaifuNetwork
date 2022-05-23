@@ -7,12 +7,13 @@ So what do you think anons? What is the best programming approach to making all 
 
 # 2
 >from PPP2 by Stroustrup, p75
-```cpp
+```
 We can describe the process of developing a program as having four stages: 
 • Analysis: What’s the problem? What does the user want? What does the user need? What can the user afford? What kind of reliability do we need? 
 • Design: How do we solve the problem? What should be the overall structure of the system? Which parts does it consist of? How do those parts communicate with each other? How does the system communicate with its users? 
 • Programming: Express the solution to the problem (the design) in code. Write the code in a way that meets all constraints (time, space, money, reliability, and so on). Make sure that the code is correct and maintainable. 
-• Testing: Make sure the system works correctly under all circumstances required by systematically trying it out.```
+• Testing: Make sure the system works correctly under all circumstances required by systematically trying it out.
+```
 
 I like the simple breakdown here. Now, if I can just find a way to apply it to creating a robowaifu, then we should be all set. :^)
 

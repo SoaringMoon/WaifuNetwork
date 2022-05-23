@@ -6,7 +6,7 @@ What resources are there for decent chatbots? Obviously I doubt there would be a
 >I know a lot of you guys focus on the physical part of robo-waifus, but do any of you have anything to share on the intelligence part of artificial intelligence?
 <A quick check of the catalog reveals;
 
-<AI centric
+< AI centric
 [[3604
 [[4499
 [[450
@@ -19,7 +19,7 @@ What resources are there for decent chatbots? Obviously I doubt there would be a
 [[2583
 [[17
 
-<software centric
+< software centric
 [[24
 [[1080
 
