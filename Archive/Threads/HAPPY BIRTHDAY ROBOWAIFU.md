@@ -263,7 +263,8 @@ For a real life example of this design look at how modern light weight bike helm
 >>7977
 >RC robowaifu
 This is a good idea IMO and as you point out, brings a lot of advantages & prior art to the table for /robowaifu/ . Here's a waifusearch of the term ' ''RC'' ', some of them may be related & valuable  :
-[code](q to quit)  enter search phrase:  RC
+```cpp
+(q to quit)  enter search phrase:  RC
 
                    ORDERED:
                    ========
@@ -290,7 +291,7 @@ Making money with AI and robowai  >>1642    @ch: ~1605
 Work on my Elfdroid Sophie        >>7509    @ch: ~601
 Proto1 All Parts                  >>6886    @ch: ~34
 
-' rc '  [21 : 0] = 21 results[/code]
+' rc '  [21 : 0] = 21 results```
 
 # 37
 >>7977

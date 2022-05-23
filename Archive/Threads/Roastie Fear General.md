@@ -25,7 +25,7 @@ In the ''Chobits'' series, all the Persocons (robowaifus) had big plastic ear-li
 What image board did you go to?
 >>/girltalk/ ?
 I doubt it was /cuckquean/ because those girls love the idea of /robowaifu/.
-[spoiler] does cross linking work on the webring? [/spoiler]
+%% does cross linking work on the webring? %%
 
 # 7
 >>160

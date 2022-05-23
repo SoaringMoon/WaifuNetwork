@@ -86,7 +86,8 @@ I guess we would find the files on Thingiverse or alternatives, though.
 >>4392
 >comments and also saving is turned off
 Use youtube-dl, and then just 
-[code]youtube-dl https://youtu.be/RXhtcWz5GBg[/code]
+```cpp
+youtube-dl https://youtu.be/RXhtcWz5GBg```
 to save any videos from YT.
 
 BTW, just an FYI; when cross-linking to another post, use '''two''' greater than chars, like this:
@@ -165,7 +166,8 @@ A InMoov video from his creator himself, fom 2016: https://youtu.be/2sZOyCBbows 
 BTW, a Nanon on nano/g created a simple BASH script that retries youtube-dl downloads up to 10 times automatically if Y*utube rejects a torsocks-based connection with a 429 error. **You ARE using Tor to download anything from any G*ogle properties, aren't you, Anon? :^)**
 
 >tor_ytdl_retry.sh
-[code]#!/usr/bin/env bash
+```cpp
+#!/usr/bin/env bash
 maxtries=10
 em="ERROR: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: 'Too Many Requests'>); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output."
 
@@ -174,7 +176,7 @@ set -o pipefail
 while :; do
 	{ e=$(torsocks -i youtube-dl "$@" 2>&1 >&3 3>&- | tee /dev/stderr 3>&-); } 3>&1 && exit
 	[ $((--maxtries)) -gt 0 -a "$e" = "$em" ] || exit
-done[/code]
+done```
 
 # 28
 >>8439
@@ -301,7 +303,8 @@ Arm with wire driven wrist and servo driven fingers: https://nitter.1d4.us/itecl
 Brilliant. Thanks Anon. Downloaded everything and working my way through. Some of this is absolutely amazing work, truly inspiring.
 
 >full-pull:
-[code]youtube-dl -i --write-description https://youtu.be/pWz9J0TTuDw https://youtu.be/T507kt7g4JQ https://youtu.be/5b-pPO6iHsw https://youtu.be/pm9Umdwg9uo https://youtu.be/hW6rdAClX_8 https://youtu.be/1PYMT1U8qiM https://youtu.be/c7rhiCto4Kg https://youtu.be/9nB9VKpN6Hs https://youtu.be/t_203VAF4bE https://youtu.be/_uTwKkrBV04 https://youtu.be/o6UdXYxPFC0 https://youtu.be/7b4sXhheq6Q https://youtu.be/L39-7Ynu0ys https://youtu.be/uvb41JAC49E https://youtu.be/oJR_-9TZpCk https://youtu.be/kWeJyduvhwA https://youtu.be/VGKtpjnQWl0 https://youtu.be/pZnEoCdtp70 https://youtu.be/CfB8Mrh1dSI https://youtu.be/8THhkM8aZO4 https://youtu.be/bVDneXZ_YfQ https://youtu.be/gjfZfZwFAIo https://youtu.be/Htnq5ytj70s https://youtu.be/Fibe7rmQcEw[/code]
+```cpp
+youtube-dl -i --write-description https://youtu.be/pWz9J0TTuDw https://youtu.be/T507kt7g4JQ https://youtu.be/5b-pPO6iHsw https://youtu.be/pm9Umdwg9uo https://youtu.be/hW6rdAClX_8 https://youtu.be/1PYMT1U8qiM https://youtu.be/c7rhiCto4Kg https://youtu.be/9nB9VKpN6Hs https://youtu.be/t_203VAF4bE https://youtu.be/_uTwKkrBV04 https://youtu.be/o6UdXYxPFC0 https://youtu.be/7b4sXhheq6Q https://youtu.be/L39-7Ynu0ys https://youtu.be/uvb41JAC49E https://youtu.be/oJR_-9TZpCk https://youtu.be/kWeJyduvhwA https://youtu.be/VGKtpjnQWl0 https://youtu.be/pZnEoCdtp70 https://youtu.be/CfB8Mrh1dSI https://youtu.be/8THhkM8aZO4 https://youtu.be/bVDneXZ_YfQ https://youtu.be/gjfZfZwFAIo https://youtu.be/Htnq5ytj70s https://youtu.be/Fibe7rmQcEw```
 
 # 44
 >>9357
@@ -321,15 +324,17 @@ That Polymorph stuff is sweet. I'll have to look into obtaining some of it at so
 
 >full pull 2
 a) probably a bit better for everyone to place a list like that inside a code-block, so it works smoothly as a terminal copypasta:
-[code]youtube-dl -i --write-description https://youtu.be/XX3eG2hWybs https://youtu.be/jrCeb0JaZYY https://youtu.be/Xzs8cBcru4g https://youtu.be/PTNdDwtXfWU https://youtu.be/YiKXDV0B17w https://youtu.be/8yLiMXVUD2M https://youtu.be/j4JojoY-jDA https://youtu.be/iZe_E_Shs-M https://youtu.be/ycJir0GoDU4 https://youtu.be/yxktJP4pg2Y https://youtu.be/_7KpAFvlVdY https://youtu.be/irPGl2WW-JA https://youtu.be/O0NzNKF14os https://youtu.be/w0TLQHj2l5s https://youtu.be/E--WuUH2Pto https://youtu.be/ZET7e-ldhaM https://youtu.be/Htnq5ytj70s 
-https://youtu.be/MA8_MGaNqUA https://youtu.be/ffReTt6UCwg https://youtu.be/33S_TbyrTQE https://youtu.be/Tg2vtl1xbJc https://youtu.be/1JgyHewDNFU[/code]
+```cpp
+youtube-dl -i --write-description https://youtu.be/XX3eG2hWybs https://youtu.be/jrCeb0JaZYY https://youtu.be/Xzs8cBcru4g https://youtu.be/PTNdDwtXfWU https://youtu.be/YiKXDV0B17w https://youtu.be/8yLiMXVUD2M https://youtu.be/j4JojoY-jDA https://youtu.be/iZe_E_Shs-M https://youtu.be/ycJir0GoDU4 https://youtu.be/yxktJP4pg2Y https://youtu.be/_7KpAFvlVdY https://youtu.be/irPGl2WW-JA https://youtu.be/O0NzNKF14os https://youtu.be/w0TLQHj2l5s https://youtu.be/E--WuUH2Pto https://youtu.be/ZET7e-ldhaM https://youtu.be/Htnq5ytj70s 
+https://youtu.be/MA8_MGaNqUA https://youtu.be/ffReTt6UCwg https://youtu.be/33S_TbyrTQE https://youtu.be/Tg2vtl1xbJc https://youtu.be/1JgyHewDNFU```
 b) while I didn't do it (I was relying on your title listing already provided), it's always a more comfortable experience for everyone having some idea what we're getting into ''before'' we start a download, heh. :^)
 
 Regardless, thanks again Anon. Much appreciated!
 
 # 46
 One other thing to mention Anon, always good to keep '''youtube-dl''' updated regularly:
-[code]sudo youtube-dl -U[/code]
+```cpp
+sudo youtube-dl -U```
 as YT regularly changes their page interface, (apparently primarily in an attempt to foil youtube-dl users from being able to use the tool).
 
 # 47
@@ -340,7 +345,8 @@ That's pretty sweet. Looks like he has his robot standing fully upright without 
 >>9473
 '''Also BTW''' I think I've posted this elsewhere, but here's the script I use for youtube-dl over Tor:
 >tor_ytdl_retry.sh
-[code]#!/usr/bin/env bash
+```cpp
+#!/usr/bin/env bash
 maxtries=10
 em="ERROR: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: 'Too Many Requests'>); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output."
 
@@ -349,7 +355,7 @@ set -o pipefail
 while :; do
 	{ e=$(torsocks -i youtube-dl -i --write-description --write-auto-sub --sub-lang="en" "$@" 2>&1 >&3 3>&- | tee /dev/stderr 3>&-); } 3>&1 && exit
 	[ $((--maxtries)) -gt 0 -a "$e" = "$em" ] || exit
-done[/code]
+done```
 
 YT tries to block this kind of download with a 
 >''  HTTP Error 429: Too Many Requests''
@@ -378,7 +384,8 @@ Yup, that's definitely the way to go if you're on Linux, lad.
 >>9480
 >>9481
 Oh wait. I just presumed you were referring to installing youtube-dl ''the first time''. Once it's on your box, you simply run this command exactly as specified:
-[code]sudo youtube-dl -U[/code]
+```cpp
+sudo youtube-dl -U```
 
 youtube-dl does the rest from there. (BTW on W*ndows, you don't need the 'sudo')
 
@@ -447,7 +454,8 @@ The Dara dev is still on it. Humanoid male robot ( bc he's married), therefore a
 >>9477
 '''update:''' it seems there's been a minor change to the error message now.
 >tor_ytdl_retry.sh
-[code]#!/usr/bin/env bash
+```cpp
+#!/usr/bin/env bash
 maxtries=10
 em="ERROR: Unable to download webpage: HTTP Error 429: Too Many Requests (caused by <HTTPError 429: 'Too Many Requests'>); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; type  youtube-dl -U  to update. Be sure to call youtube-dl with the --verbose flag and include its complete output."
 
@@ -456,7 +464,7 @@ set -o pipefail
 while :; do
 	{ e=$(torsocks -i youtube-dl -i --write-description --write-auto-sub --sub-lang="en" "$@" 2>&1 >&3 3>&- | tee /dev/stderr 3>&-); } 3>&1 && exit
 	[ $((--maxtries)) -gt 0 -a "$e" = "$em" ] || exit
-done[/code]
+done```
 
 # 65
 Here's a video with an overview of the available technologies needed to build humanoid robots. With examples from more task orient robots which are not all human-like. https://youtu.be/YVi1r-krFsg
@@ -542,11 +550,13 @@ BTW, it occurs to me that some newer anons here may not know how to download rob
 >Warning: These following instructions are only for you if you are comfortable using the Linux terminal, etc.
 
 So (running on a *NIX, obvs.) run these commands to install '''yt-dlp''' if you haven't yet:
-[code]sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+```cpp
+sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
 
-sudo chmod a+rx /usr/local/bin/yt-dlp[/code]
+sudo chmod a+rx /usr/local/bin/yt-dlp```
 You can confirm it's installed by asking it's version afterwards:
-[code]yt-dlp -v[/code]
+```cpp
+yt-dlp -v```
 
 It's ''also'' a good idea to:
 a) download subtitles
@@ -557,11 +567,14 @@ Accordingly, here's a handy script you can use for doing all three at once.
 >note: Tor is needed for this script to work. You ''do'' have Tor installed on your systems, right Anon?
 
 Change to your home directory:
-[code]cd ~[/code]
+```cpp
+cd ~```
 Fire up (neo)vim and create a script file:
-[code]vim tor_ytdl_retry.sh[/code]
+```cpp
+vim tor_ytdl_retry.sh```
 Insert this text and save:
-[code]#!/usr/bin/env bash
+```cpp
+#!/usr/bin/env bash
 maxtries=10
 em="Unable to download webpage: HTTP Error 429: Too Many Requests"
 
@@ -571,22 +584,26 @@ while :; do
 	{ e=$(torsocks -i yt-dlp -i --write-description --write-auto-sub --write-sub --sub-lang="en" "$@" 2>&1 >&3 3>&- | tee /dev/stderr 3>&-); } 3>&1 && exit
 	[ $((--maxtries)) -gt 0 -a "$e" = "$em" ] || exit
 
-done[/code]
+done```
 This will repeat a failed download if YT gives you a 429 error. Occasionally YT changes error message text (among several other things). If you get a new version of 429, just replace the em="..." above with a copy of w/e it turns out being.
 
 Now make the script executable (user + read/execute permissions)
-[code]chmod u+rx tor_ytdl_retry.sh[/code]
+```cpp
+chmod u+rx tor_ytdl_retry.sh```
 
 That's it. You're all set now to run this script from w/e directory. So to grab this video Kywy just linked, you first cd into your robowaifu directory in your Videos folder:
-[code]cd Videos/RW/[/code]
+```cpp
+cd Videos/RW/```
 >you ''do'' have a robowaifu directory in your Videos folder, right Anon?
 
 Then run your new script to DL that video like this:
-[code]~/tor_ytdl_retry.sh https://www.youtube.com/watch?v=7C33JQVZBuY[/code]
+```cpp
+~/tor_ytdl_retry.sh https://www.youtube.com/watch?v=7C33JQVZBuY```
 (just adapt the URI to w/e video you're grabbing, Anon)
 
 Now that you've got your own personal copy of the video, you can watch it anytime, online or off, like this:
-[code]mpv '手繋ぎメイドロボット”ましろ”ができるまで　　（2018～2021の記録） [7C33JQVZBuY].webm'[/code]
+```cpp
+mpv '手繋ぎメイドロボット”ましろ”ができるまで　　（2018～2021の記録） [7C33JQVZBuY].webm'```
 (again, just adapt the mpv playback command to w/e video ofc)
 
 ==SAVE.EVERYTHING.ANON. :^)==

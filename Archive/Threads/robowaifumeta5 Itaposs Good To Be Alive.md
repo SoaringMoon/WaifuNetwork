@@ -1604,7 +1604,8 @@ Everything you've decribed is part of the MaidCom project aside from cars with s
 From the "front end", the developer would just need to know a very simple API to command the robot and link it to other programs. All the stuff that directly interfaces with the hardware is handled in the "back end" behind the API.
 
 Example:
-[code]
+```cpp
+
 #Make the robot speak
 
 import SomeTTS from FooLibrary
@@ -1620,7 +1621,7 @@ CameraArray[] = WaifuBot.Camera.GetAllStreams()
 FooSLAM.CameraInit(CameraArray)
 
 Waifubot.Movement.AutoMove(FooSLAM.Commands())
-[/code]
+```
 
 and so forth.
 

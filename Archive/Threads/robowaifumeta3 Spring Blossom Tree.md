@@ -488,13 +488,15 @@ If you choose to set it up, just follow the normal instructions and then copy th
 # 73
 Trying to retrain a slightly modified T5 model with a BBPE tokenizer that can translate between English, Japanese, Chinese, Korean, German, French, and Russian. I'm surprised it got to an average loss of 3.0 in 12 hours with only seeing half the training data but it's no where close to the 0.7 needed to do translation. An example output from English to French and back to English:
 
-[code]translate English to French: Do you speak French?
+```cpp
+translate English to French: Do you speak French?
 Je n'ai jamais un夏 sonっぱ ? » «告 ? ? »-
-When did you have a good idea? in the same? not to the same?. I[/code]''Je n'ai jamais'' means I have never in French, so at least it's getting the language correct for the most part and translated the random question marks into 3 sentences. Another sample from English to Japanese to English:
+When did you have a good idea? in the same? not to the same?. I```''Je n'ai jamais'' means I have never in French, so at least it's getting the language correct for the most part and translated the random question marks into 3 sentences. Another sample from English to Japanese to English:
 
-[code]translate English to Japanese: Do you speak English?
+```cpp
+translate English to Japanese: Do you speak English?
 変なこと勝ったか。ぼくのに誰の？？私の今同很便
-Is this a, but I have you've been in the problem? I can? a lot[/code]
+Is this a, but I have you've been in the problem? I can? a lot```
 I'm thinking of taking the decoder's last hidden state and putting it through a discriminator network to also train it with adversarial loss. Or perhaps I should take advantage of transfer learning and also train it on other tasks like text summarization and chat responses? I'm not really sure but I think I'll fine-tune a regular T5 model as a chatbot first to see how well it works then try it on the BBPE version.
 
 # 74
@@ -514,7 +516,8 @@ And along the way, you can relish the fact that this is a very interesting set o
 >>9486
 >Kek, the T5 tokenizer is designed to ignore new lines 
 Hmm. Seems to me they encode EOS just fine. They simply have chosen not to encode subunits on newlines, but rather EOS ''only''.
-[code]  def decode(self, ids: Iterable[int]):
+```cpp
+  def decode(self, ids: Iterable[int]):
     """Detokenizes int32 iterable to a string, up through first EOS."""
     clean_ids = list(ids)
 
@@ -529,7 +532,7 @@ Hmm. Seems to me they encode EOS just fine. They simply have chosen not to encod
     if self.eos_id is not None and self.eos_id in clean_ids:
       clean_ids = clean_ids[:clean_ids.index(self.eos_id) + 1]
 
-    return self._decode(clean_ids)[/code]
+    return self._decode(clean_ids)```
 
 I doubt it would be difficult to rework their system to use newlines, they simply CBA to by the look of the thing.
 
@@ -2382,7 +2385,7 @@ Thanks! I've just discovered some kind of bug that's preventing me from updating
 
 # 228
 Help me out, what time zone is this server supposed to be on, the post times make no sense to me
-[spoiler] I guess I could look at my own post time and extrapolate the difference but I am really curious how or why we are offset by so many hours, in comparison to any North American time zone [/spoiler]
+%% I guess I could look at my own post time and extrapolate the difference but I am really curious how or why we are offset by so many hours, in comparison to any North American time zone %%
 
 # 229
 If you enable JavaScript, then you can click the 'Settings' link along the page header bar, and then adjust the time display under the 'Other' tab.
@@ -2460,7 +2463,7 @@ It's going to be shitty if society falls apart before we can make significant pr
 >>11701
 its been a concern of mine too but I don't see us "collapsing" into something irreversibly pre-industrial. If anything it would still be like the poorer parts of Star Wars where they still have technology it's just old, re-purposed and fixed up with gum and duct tape.
 
-That being said, is there any reason why we can't have IRL collaboration? It would show a level of seriousness if some of us had actual workshops and space dedicated to this cause. I'd be the first if I was at a better place in my life.[spoiler] (It is getting there, but going through a divorce at the worst possible time, and then Covid right as I was getting back on my feet)[/spoiler]
+That being said, is there any reason why we can't have IRL collaboration? It would show a level of seriousness if some of us had actual workshops and space dedicated to this cause. I'd be the first if I was at a better place in my life.%% (It is getting there, but going through a divorce at the worst possible time, and then Covid right as I was getting back on my feet)%%
 
 Idk what I have for a vision of this other than maybe a shared or accessible space with spare parts, 3d printers, resources, etc. A Robowaifu Research Institute (and Laboratory) in so many words.
 
@@ -2620,7 +2623,7 @@ What a gorgeous field of daisies. Splendid.
 
 # 267
 >>11933
-exactly, we'd be approaching the objective from the OPPOSITE end of the degenerate sex-doll companies. The [spoiler] sexual capabilities [/spoiler] could be the very last thing and could even be a mod kit. 
+exactly, we'd be approaching the objective from the OPPOSITE end of the degenerate sex-doll companies. The %% sexual capabilities %% could be the very last thing and could even be a mod kit. 
 aside from that, we could have a very mundane "face", a non-descript warehouse, which even if someone enters they just see machine parts, shelves, tools, computers. If we're common sense about it there's literally no worry.
 
 # 268
@@ -2666,9 +2669,9 @@ So, again, it's a given we're still dealing with a highly-complex humanoid robot
 great ideas anon
 the good news is we don't really even need to go this deep though
 
-1. it doesnt have to be anonymous, simply have a basic robotics research company. We don't even have to specify that its "humanoid", and we certainly wouldn't mention the waifu aspect, that would be (metaphorically speaking) [spoiler] our black project accessible only on the secret basement level ; ) [/spoiler]. 95% of the research is going to be on things like embedded hardware, OS, actuators, materials and fabrication, etc etc etc. All of this can be done in the open without needing to explain "what" it is for. Bonus: any advances or innovations can be patented and sold, they'd certainly be useful toward other applications
+1. it doesnt have to be anonymous, simply have a basic robotics research company. We don't even have to specify that its "humanoid", and we certainly wouldn't mention the waifu aspect, that would be (metaphorically speaking) %% our black project accessible only on the secret basement level ; ) %%. 95% of the research is going to be on things like embedded hardware, OS, actuators, materials and fabrication, etc etc etc. All of this can be done in the open without needing to explain "what" it is for. Bonus: any advances or innovations can be patented and sold, they'd certainly be useful toward other applications
 
-2. Moreso the vision I had was simply for a physical place we could pool (some, not all, obviously) our resources and therefore get some leverage from our money and time, doing more together than we could in our own garages and typing to each other on a board. It would be voluntary and optional and anyone wishing to participate would obviously need some vetting and screening [spoiler] face it we're all weirdos but there's a difference between functionally eccentric geniuses and well.. those who are trouble. Speaking from experience [/spoiler]
+2. Moreso the vision I had was simply for a physical place we could pool (some, not all, obviously) our resources and therefore get some leverage from our money and time, doing more together than we could in our own garages and typing to each other on a board. It would be voluntary and optional and anyone wishing to participate would obviously need some vetting and screening %% face it we're all weirdos but there's a difference between functionally eccentric geniuses and well.. those who are trouble. Speaking from experience %%
 Those who wish to live nearby can participate at a higher level but others can commit to a weekend or week a year if they want, sort of thing. 
 Our very own Legion of Doom ; )
 
@@ -2906,7 +2909,8 @@ https://0bin.net/paste/QET3EII+#hKdk1Alw4WH7oNxJrmVb2JAEhxtiMEqR5Zv3d7ydycM
 
 So, to test this, just download the pdf file, rename it's extension to .7z, then extract it. Then run the sha256sum -c command as usual to confirm the inner .xz archive is uncorrupted, then proceed as typical for my projects to build and run.
 
-[code]c7cf0beb0e3f480949e39fbc1274296e81ae3e897bcce1cac70cb57f9756689a *rw_access_control-0.1c.tar.xz[/code]
+```cpp
+c7cf0beb0e3f480949e39fbc1274296e81ae3e897bcce1cac70cb57f9756689a *rw_access_control-0.1c.tar.xz```
 
 # 308
 >>12530
@@ -2933,7 +2937,7 @@ Can someone here tell me if I'm doing something wrong with zerobin?
 https://0bin.net/paste/vvKhHDt8#pfYGz17gkj0ANOd5KuDVfFlMhGm1wwibtcK5NCR0YZf
 
 # 312
-I feel like we could use more meta type threads of a general or /rant nature, building a culture around robowaifus is important even if the discussion isn't directly applicable to the construction or programming of them. We have a team morale and sometimes we need a timeout to just bullshit on certain topics and to [spoiler] redpill [/spoiler] newcomers about [spoiler] w*men [/spoiler] without it dragging other threads down.
+I feel like we could use more meta type threads of a general or /rant nature, building a culture around robowaifus is important even if the discussion isn't directly applicable to the construction or programming of them. We have a team morale and sometimes we need a timeout to just bullshit on certain topics and to %% redpill %% newcomers about %% w*men %% without it dragging other threads down.
 
 # 313
 >>12556

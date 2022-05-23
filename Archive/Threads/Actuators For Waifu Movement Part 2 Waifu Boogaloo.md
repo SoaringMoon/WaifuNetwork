@@ -37,8 +37,8 @@ https://youtu.be/wltLEzQnznM
 
 >Twisted string actuators (TSA)
 <I had the idea that they should in some cases be build with a loop. Grippers would hold a part of it and twist that. For fast release they coul let it go and grab the next part of the loop. Designing the gripper will be a bit of a challenge, though. But I think this is doable. Can't image I'm the first having that idea.
-<Not sure if this here >>12589 is already something like it bc I didn't understand it.
-<Here's some passive returning mechanism, followed by other videos on TSAs: 
+
+>12589 is already something like it bc I didn't understand it.
 https://youtu.be/J26y1nn7JMM
 https://youtu.be/QBQMZsSQJQM (freaking loud)
 Effect of bending: https://youtu.be/zYrHGMiqC9A
@@ -53,7 +53,6 @@ https://youtu.be/5PtXTI1t3Po
 https://youtu.be/Za0VeU9Ov7A
 https://youtu.be/2OuRX65xbKE
 <(Reminder: The do have a high life span >1M)
-<I plan to rather use water for heating and cooling.
 
 >Continuous ransmission (CVT) / torque converters
 https://youtu.be/kVPjhmTThPo
@@ -62,7 +61,7 @@ https://youtu.be/c9e2y-5DMNc
 https://youtu.be/PEq5_b4LWNY
 
 >Twisted string series elastic actuator (TsSEA)
-<This strikes me as particular interesting.
+	
 https://youtu.be/VBXykAIBKtA
 
 >Printed pneumatics
@@ -84,9 +83,12 @@ Welcome back Kiwi, good to see you found us again.
 Neat I had no idea that's how they worked. I figured it was some kind of gears tbh.
 
 # 4
->>12810
->Artificial muscles can be made by exploding a hydrogen and oxygen mixture in a piston, then using hydrolysis to turn the water back into hydrogen and oxygen.
-
+>>12810
+
+>Artificial muscles can be made by exploding a hydrogen and oxygen mixture in a piston, then using hydrolysis to turn the water back into hydrogen and oxygen.
+
+
+
 could we miniaturize this and make artificial muscle cells? granted they'd be larger than actual cells but what if we could mass print them each the size of a grain of rice? Just a thought, as 3d printing increases precision and resolution there's no reason we could not fabricate some pretty interesting structures on the micro-scale
 
 # 5
@@ -137,36 +139,63 @@ I suppose I could be more explicit exactly what I'm talking about.
 >
 
 # 12
-Adding another actuator which I think has great promise from the last thread.
-
-Hydraulically amplified self-healing electrostatic actuators with muscle-like performance
-
-https://www.science.org/doi/abs/10.1126/science.aao6139
-
-Also called "Dielectric Elastomers"
-
-Links to explanations and other links
-
->>10620
->>10639
-Rough calculation on cost, forces needed and the number of muscles needed for full human mimicry.(the micro-controller cost might be less)
->>12014
-Rough equivalence to the force Tesla gets out of their cars to human actual forces
->>12140
-Rough cost budget of actual existing transistor and micro-controller parts to get full human mimicry
+Adding another actuator which I think has great promise from the last thread.
+
+
+
+Hydraulically amplified self-healing electrostatic actuators with muscle-like performance
+
+
+
+https://www.science.org/doi/abs/10.1126/science.aao6139
+
+
+
+Also called "Dielectric Elastomers"
+
+
+
+Links to explanations and other links
+
+
+
+>>10620
+
+>>10639
+
+Rough calculation on cost, forces needed and the number of muscles needed for full human mimicry.(the micro-controller cost might be less)
+
+>>12014
+
+Rough equivalence to the force Tesla gets out of their cars to human actual forces
+
+>>12140
+
+Rough cost budget of actual existing transistor and micro-controller parts to get full human mimicry
+
 >>12172
 
 # 13
-One I believe of high importance, switched reluctance motors
-
-https://www.controleng.com/articles/resurgence-for-sr-motors-drives/
-
-One last one
-
-https://en.wikipedia.org/wiki/Piezoelectric_motor
-
-The piezo are very fast and powerful. They are used in pick and place machines for electronics parts at high rates of speed.
-
+One I believe of high importance, switched reluctance motors
+
+
+
+https://www.controleng.com/articles/resurgence-for-sr-motors-drives/
+
+
+
+One last one
+
+
+
+https://en.wikipedia.org/wiki/Piezoelectric_motor
+
+
+
+The piezo are very fast and powerful. They are used in pick and place machines for electronics parts at high rates of speed.
+
+
+
  The problem with piezo is high voltages. I think some of the actuator strategies used for piezo at the link could be used with solenoids or other magnetic type devices and it would make for low cost actuators.
 
 # 14
@@ -192,32 +221,55 @@ Yes. I agree.
 >related crosspost (>>6563)
 
 # 17
->>12936
->Not sure, there are these voltage boosters.
-
-I had to think about that for a minute then I remembered that there is such a thing as a voltage transformer made of piezos. Is that what you are referring to? I think they would be different from ones made for transducers, motors, etc.
-
-Did you know you can make piezos out of PVC. Like the water pipe stuff? You heat it up, apply a high voltage field across it then cool it down while keeping the field on til it cools.
-
- For a short while they were making speakers out of it. I screwed around and didn't get any to play with and now I don't think they are around any more.
-
-Piezos are really wondrous. A solid state thing you can put voltage on and they move. The problem is they are pain in the ass. They don't move far and it takes high voltage. To get a lot of movement you have to complicate them with levers and...they just suck to do real stuff with but..they are very cool.
-
-I think the Japanese putting them in cameras was in reality just a "look at the cool techno-wizardry we can do" move.
-
+>>12936
+
+>Not sure, there are these voltage boosters.
+
+
+
+I had to think about that for a minute then I remembered that there is such a thing as a voltage transformer made of piezos. Is that what you are referring to? I think they would be different from ones made for transducers, motors, etc.
+
+
+
+Did you know you can make piezos out of PVC. Like the water pipe stuff? You heat it up, apply a high voltage field across it then cool it down while keeping the field on til it cools.
+
+
+
+ For a short while they were making speakers out of it. I screwed around and didn't get any to play with and now I don't think they are around any more.
+
+
+
+Piezos are really wondrous. A solid state thing you can put voltage on and they move. The problem is they are pain in the ass. They don't move far and it takes high voltage. To get a lot of movement you have to complicate them with levers and...they just suck to do real stuff with but..they are very cool.
+
+
+
+I think the Japanese putting them in cameras was in reality just a "look at the cool techno-wizardry we can do" move.
+
+
+
 Succumbing to techno lust is a real thing and needs to be avoided. Some super complex wizard crap that is so difficult to get to work it becomes THE reason you work on something instead of what you were trying to build in the first place. Don't ask how I know about this.
 
 # 18
-I just now had an epiphany. What we need for a rough prototype is something that has fast movement when it's not under load but some strength when it's under load. Much like a regular human muscle. Well I was thinking about strings and came up with this. I really like this. Cheap and not too complicated. Now this is just a drawing. It's certainly not fleshed out. There would have to be some thinking done to make it work.
-
-You have motor with a cone shaped pulley on top of it. The string wraps around the cone. When you turn on the motor the string is pulled goes through a ring(purple) through a pulley(white) around and then up to the end of the limb. The purple ring acts just like the ring on a fishing pole that turns the string on a fishing pole.
-
- Now let's say the limb has little resistance to it moving then the motor winds the string up on the large part of the cone because the spring has pulled it down. High speed, low force.
-
- If the limb gets resistance the pulley and the ring that guides the string stretches the spring, pulling the sled the pulley and ring are mounted on up. This in turn means the ring that guides the string is now farther up the cone to a smaller section. The motor turning the same speed is now taking up much less string for every revolution. Higher torque but less speed. 
-
-The pulley and ring are mounted on a sled of sorts that has a guide way so it can only go up and down the (red) slot.
-
+I just now had an epiphany. What we need for a rough prototype is something that has fast movement when it's not under load but some strength when it's under load. Much like a regular human muscle. Well I was thinking about strings and came up with this. I really like this. Cheap and not too complicated. Now this is just a drawing. It's certainly not fleshed out. There would have to be some thinking done to make it work.
+
+
+
+You have motor with a cone shaped pulley on top of it. The string wraps around the cone. When you turn on the motor the string is pulled goes through a ring(purple) through a pulley(white) around and then up to the end of the limb. The purple ring acts just like the ring on a fishing pole that turns the string on a fishing pole.
+
+
+
+ Now let's say the limb has little resistance to it moving then the motor winds the string up on the large part of the cone because the spring has pulled it down. High speed, low force.
+
+
+
+ If the limb gets resistance the pulley and the ring that guides the string stretches the spring, pulling the sled the pulley and ring are mounted on up. This in turn means the ring that guides the string is now farther up the cone to a smaller section. The motor turning the same speed is now taking up much less string for every revolution. Higher torque but less speed. 
+
+
+
+The pulley and ring are mounted on a sled of sorts that has a guide way so it can only go up and down the (red) slot.
+
+
+
 You could adjust the force by picking the right cone size, length and the spring force.
 
 # 19
@@ -258,27 +310,45 @@ Btw, we don't need to build everything from the scratch. It's good to be able to
 Interesting, but I would like to see an experiment based on it. Also, space might be an issue.
 
 # 25
->>12947
->Aarrgh!!1! DO NOT HEAT UP PVC.
-
-I hate to be so blunt but the fact is you have no idea what you are talking about at all. Plumbers, electricians bend PVC by heating it up all the time.Here's a search for PVC heater bender. 
-
-https://duckduckgo.com/?q=pvc+heater+bender&t=ffcm&ia=web
-
+>>12947
+
+>Aarrgh!!1! DO NOT HEAT UP PVC.
+
+
+
+I hate to be so blunt but the fact is you have no idea what you are talking about at all. Plumbers, electricians bend PVC by heating it up all the time.Here's a search for PVC heater bender. 
+
+
+
+https://duckduckgo.com/?q=pvc+heater+bender&t=ffcm&ia=web
+
+
+
 They make a tool just for this.
 
 # 26
->>12948
->Boost converters is another name for those, wich can be buyed as a board, or build
-
-I see thirty of them here for $20
-
-https://www.banggood.com/30pcs-DC-2V-24V-To-5V-28V-2A-Step-Up-Boost-Converter-Power-Supply-Module-Adjustable-Regulator-Board-p-1614240.html?cur_warehouse=CN&rmmds=search
-
- but...what will you drive with them? If it's a motor then you have to make a bigger motor which cost big time. Also these little cheap things I don't think are going to drive piezos which to really drive them require much higher voltage.
-
-I'm not trying to be totally negative. I just don't think this will work out.
-
+>>12948
+
+>Boost converters is another name for those, wich can be buyed as a board, or build
+
+
+
+I see thirty of them here for $20
+
+
+
+https://www.banggood.com/30pcs-DC-2V-24V-To-5V-28V-2A-Step-Up-Boost-Converter-Power-Supply-Module-Adjustable-Regulator-Board-p-1614240.html?cur_warehouse=CN&rmmds=search
+
+
+
+ but...what will you drive with them? If it's a motor then you have to make a bigger motor which cost big time. Also these little cheap things I don't think are going to drive piezos which to really drive them require much higher voltage.
+
+
+
+I'm not trying to be totally negative. I just don't think this will work out.
+
+
+
 If you look back at what I've posted a lot of it really won't work or will be so tedious that it will be too much of a pain but I throw ideas out there anyways.
 
 # 27
@@ -288,9 +358,12 @@ Doesn't mean it's healthy, especially if you want to do it on abigger scale.
 The topic wasn't motors but dielectric muscles and small piezoelectric valves or such. My point was, that these boosters exist and some might work. One goes up to 500V from 3V.
 
 # 28
->>12987
->The topic wasn't motors but dielectric muscles
-
+>>12987
+
+>The topic wasn't motors but dielectric muscles
+
+
+
 Ok I didn't see that. It wasn't clear to me.
 
 # 29
@@ -299,7 +372,8 @@ Ok I didn't see that. It wasn't clear to me.
 Okay, no problem. Maybe I should have quoted better. I think high voltages could only be used for small moving parts anyways. Bigger motors or muscles would need more ampere, and I don't want to get a shock touching my girlfriend. Or think her of holding a baby...
 
 # 30
->>12810
+>>12810
+
 I will model that madokami mecha
 
 # 31
@@ -365,9 +439,12 @@ Indeed it is. Thrown-weight is a mechanic's term, which I am.
 You model her, I'll print her. Honestly, it would be nice if we could work together. I've always wanted to work on a waifu with another Anon. Please make a thread for her, I would be happy to make one for us if you'd like to work together. I'm not good at modelling exteriors but, I am a robotics engineer.
 
 # 38
->>13180
->no "C-3PO arms", so the blocks have to rest flat against each other, not having a linear motor or cables connecting the bicep to the forearm
-
+>>13180
+
+>no "C-3PO arms", so the blocks have to rest flat against each other, not having a linear motor or cables connecting the bicep to the forearm
+
+
+
 I'm not buying that. It's not like normal arms work See here
 
 # 39
@@ -375,86 +452,157 @@ I'm not buying that. It's not like normal arms work See here
 A normal, healthy-weight person can bend their leg to a squat where their heels to touch their ass, and can sit upright in a chair with their knees bent 90° and have the back of the knees touching the seat, instead of having a cable extending somewhere from the calf to the ass getting in between the knee and seat. It's better to have that range of motion available for all joints and not need it, than to need it and not have it.
 
 # 40
->>13180
->>I feel like we're overcomplicating things. We should be thinking of this as a simple physics problem: What method gives the best power-to-weight ratio for a simple bicep curl?
-
-I can't imagine we can get any cheaper type motor that a switched reluctance motor. It's a couple coils and metal rotors. The only thing I can see as better is 
-
-"Dielectric Elastomers"
->>12929 
-
-Regular motors are really expensive. All of them cost more than switched reluctance BUT it's not like you can buy switched reluctance motors all over the place because they need micro=controllers and MOSFETs or transistors to drive them. The cost of these has plummeted so to get the exact precise control we need we will need micro-controllers anyways.
-
-What do we need for power to run these things? Notice that a average human can only produce about 200 Watts or so of power over a good bit of time with world class athletes at about 400 watts but you can get much higher brief spurts.
-
-Power = Force * Distance/Time
-
-Where:
-
-Power is measured in watt.
-
-Force is measured in Newton.
-
-Distance is measured in meter.
-
-Time is measured in seconds.
-
-1 lbs force = 4.44822162 newtons
-
-We'll use 200lbs. force so someone can be picked up
-200lb. = 889.64 newtons
-
-Call the arm 0.5 meter
-
-Time call it a second
-
-Power = Force * Distance/Time
-So 
-889.64 newtons*0.5meter/1=
-444.82watts
-
-Now you can easily get a MOSFET that can be driven with 40volts and that gives us 11.12 Amps @ 40 volts. You can get MOSFET's that will do this for $0.50 USD all day long. You need two if you are running a switched reluctance motor and the micro-computer to drive 18 of these you can get for less than $10 USD.
-
-Link on force
-
-https://www.thecalculator.co/others/Horsepower-Calculator-490.html
-
-Link of force humans need to lift stuff. It's much less than the high 200lb. weight I used.
-
-https://www.quora.com/How-much-strength-would-you-need-to-lift-a-human-in-the-air?share=1
-
-There's a problem here. 11 Amps is a lot. It takes a #12 wire to carry 20 amps. It takes a #18 AWG to carry 10 amps.
-
-https://i.stack.imgur.com/QqXFg.png
-
-You could probably cut that in half because it's going to be intermittent and the current carrying capacity depends on the wire heating up which it won't if this power is in brief spurts.
-
-So maybe you could use #22 gauge. Lot cheaper. So here's something cheap and a little bigger .
-
- "100-ft 20/2 Twisted Doorbell Wire (By-the-Roll)"
-
-https://mobileimages.lowes.com/product/converted/032886/032886856167.jpg
-
+>>13180
+
+>>I feel like we're overcomplicating things. We should be thinking of this as a simple physics problem: What method gives the best power-to-weight ratio for a simple bicep curl?
+
+
+
+I can't imagine we can get any cheaper type motor that a switched reluctance motor. It's a couple coils and metal rotors. The only thing I can see as better is 
+
+
+
+"Dielectric Elastomers"
+
+>>12929 
+
+
+
+Regular motors are really expensive. All of them cost more than switched reluctance BUT it's not like you can buy switched reluctance motors all over the place because they need micro=controllers and MOSFETs or transistors to drive them. The cost of these has plummeted so to get the exact precise control we need we will need micro-controllers anyways.
+
+
+
+What do we need for power to run these things? Notice that a average human can only produce about 200 Watts or so of power over a good bit of time with world class athletes at about 400 watts but you can get much higher brief spurts.
+
+
+
+Power = Force * Distance/Time
+
+
+
+Where:
+
+
+
+Power is measured in watt.
+
+
+
+Force is measured in Newton.
+
+
+
+Distance is measured in meter.
+
+
+
+Time is measured in seconds.
+
+
+
+1 lbs force = 4.44822162 newtons
+
+
+
+We'll use 200lbs. force so someone can be picked up
+
+200lb. = 889.64 newtons
+
+
+
+Call the arm 0.5 meter
+
+
+
+Time call it a second
+
+
+
+Power = Force * Distance/Time
+
+So 
+
+889.64 newtons*0.5meter/1=
+
+444.82watts
+
+
+
+Now you can easily get a MOSFET that can be driven with 40volts and that gives us 11.12 Amps @ 40 volts. You can get MOSFET's that will do this for $0.50 USD all day long. You need two if you are running a switched reluctance motor and the micro-computer to drive 18 of these you can get for less than $10 USD.
+
+
+
+Link on force
+
+
+
+https://www.thecalculator.co/others/Horsepower-Calculator-490.html
+
+
+
+Link of force humans need to lift stuff. It's much less than the high 200lb. weight I used.
+
+
+
+https://www.quora.com/How-much-strength-would-you-need-to-lift-a-human-in-the-air?share=1
+
+
+
+There's a problem here. 11 Amps is a lot. It takes a #12 wire to carry 20 amps. It takes a #18 AWG to carry 10 amps.
+
+
+
+https://i.stack.imgur.com/QqXFg.png
+
+
+
+You could probably cut that in half because it's going to be intermittent and the current carrying capacity depends on the wire heating up which it won't if this power is in brief spurts.
+
+
+
+So maybe you could use #22 gauge. Lot cheaper. So here's something cheap and a little bigger .
+
+
+
+ "100-ft 20/2 Twisted Doorbell Wire (By-the-Roll)"
+
+
+
+https://mobileimages.lowes.com/product/converted/032886/032886856167.jpg
+
+
+
 Stranded would probably be better but not hard to find.
 
 # 41
->>13205
->I will literally model and break each and every part of that design down so it can be 3D printed into a model kit as a prototype design. Madokami and all.
-
+>>13205
+
+>I will literally model and break each and every part of that design down so it can be 3D printed into a model kit as a prototype design. Madokami and all.
+
+
+
 NICE!
 
 # 42
->>13229
->"Dielectric Elastomers"
-
-The problem with these is they are new and it's not like you can go out and buy one you have to make them.
-
+>>13229
+
+>"Dielectric Elastomers"
+
+
+
+The problem with these is they are new and it's not like you can go out and buy one you have to make them.
+
+
+
 Of course the advantage of these is exactly the same. You can make them yourself and don't have to go out and buy them.
 
 # 43
->>13231
->"Dielectric Elastomers"
-
+>>13231
+
+>"Dielectric Elastomers"
+
+
+
 I forgot to add no one really knows how long these will last or how well they will do. "IF" they work then long term there really seems to be nothing so satisfactory as these for muscles. They seem perfectly ideal in all ways.
 
 # 44
@@ -469,36 +617,63 @@ I would assume that a smaller scale piston design hidden by some casing might be
 As for the power source, the goal I believe was to make a recharable robowaifu, so either using rechargable drone tier batteries, or some kind of solar power would probably work. Since it probably takes far less energy to grasp an apple than to create lift and maintain flight for prolonged periods of time.
 
 # 46
->>12409
-
-In this comment earlier I figured the force directly from pound force, used it to get newtons with an online unit converter. Newtons can be directly substituted for watts. I wasn't sure if this was correct but now using the other formula
-
->>13229
-
- I see the calculations come out the same so it's a good short cut to finding the amps needed at a certain voltage.
-
+>>12409
+
+
+
+In this comment earlier I figured the force directly from pound force, used it to get newtons with an online unit converter. Newtons can be directly substituted for watts. I wasn't sure if this was correct but now using the other formula
+
+
+
+>>13229
+
+
+
+ I see the calculations come out the same so it's a good short cut to finding the amps needed at a certain voltage.
+
+
+
 pound force>convert to newtons>use amount in newtons to directly substitute for number of watts need for force
 
 # 47
->>13236
->nobody seems to understand what I'm saying.
-
-Your right. You asked what's the best power to weight ratio, what length and how many watts needed. So...
-
-There's also a lot of links further up that go to the last thread before this one that go over all this.
-
->The whole point of the idea was to get people to actually test to prove it and compete to create the most efficient arm, instead of just sitting around discussing and debating methods of actually testing it.
-
-If you build stuff and have no idea at all what forces are involved, no idea what power(watts) is needed then you are going to do a shit load of work that is not necessary when you could spend 10 minutes getting a ball park figure on what you need. Every time you change any of the weights, forces, etc. you need different wires, strength limbs, etc..
-
->Just saying to use a switched reluctance motor and showing a bunch of energy math doesn't really mean anything if you don't even explain where and how the motor is mounted to make the arm move.
-
-Picture of arm from above. 
-
->>13226
-
-Maybe you missed it, The calculations are what you asked for. As for efficiency there's a mass, a ton, a whole lot of literature on what efficiency you can get from different type motors, hydraulics, air pneumatics, etc. It's pointless to just start randomly building stuff without at least using the stuff that people have spent thousands of hours working on the facts of how they work and what the advantages and disadvantages of them are.
-
+>>13236
+
+>nobody seems to understand what I'm saying.
+
+
+
+Your right. You asked what's the best power to weight ratio, what length and how many watts needed. So...
+
+
+
+There's also a lot of links further up that go to the last thread before this one that go over all this.
+
+
+
+>The whole point of the idea was to get people to actually test to prove it and compete to create the most efficient arm, instead of just sitting around discussing and debating methods of actually testing it.
+
+
+
+If you build stuff and have no idea at all what forces are involved, no idea what power(watts) is needed then you are going to do a shit load of work that is not necessary when you could spend 10 minutes getting a ball park figure on what you need. Every time you change any of the weights, forces, etc. you need different wires, strength limbs, etc..
+
+
+
+>Just saying to use a switched reluctance motor and showing a bunch of energy math doesn't really mean anything if you don't even explain where and how the motor is mounted to make the arm move.
+
+
+
+Picture of arm from above. 
+
+
+
+>>13226
+
+
+
+Maybe you missed it, The calculations are what you asked for. As for efficiency there's a mass, a ton, a whole lot of literature on what efficiency you can get from different type motors, hydraulics, air pneumatics, etc. It's pointless to just start randomly building stuff without at least using the stuff that people have spent thousands of hours working on the facts of how they work and what the advantages and disadvantages of them are.
+
+
+
 So no I don't know what you are asking for. The stuff you explicitly asked for a lot of it was given. Even a picture of a normal arms attachments as an idea.
 
 # 48
@@ -515,11 +690,16 @@ I wasn't asking a question, as much as I was proposing standards for an experime
 I guess what I'm trying to propose is a simple community-driven challenge/experiment where we actually try to outperform each other instead of just a bunch of ideas on paper. I wanted to make as many constants as possible to keep the math simple, both so more people will be able to compete and so you don't end up with limbs that are only more efficient because of the scale, and such. I said 20 inches because that was the first thing to come to mind and I couldn't think of any constants for time or wattage, so I just used X & Y. I'd love to hear some better suggestions.
 
 # 50
->>13277
-> I was proposing standards for an experiment for people to do. I am terrible at writing and explaining things. I should have put the end of the post first: "it seems like something that can actually be made into class experiments or a challenge just about anyone could compete in." That's the point of what I said. Getting people to build and test out a different methods of flexing a single standardized limb, instead of just posting our thoughts here about what's the best way to do it.
-
-Ok, you lay out some standards, show a design to test and then build it, "...instead of just posting our thoughts here about what's the best way to do it...".
-
+>>13277
+
+> I was proposing standards for an experiment for people to do. I am terrible at writing and explaining things. I should have put the end of the post first: "it seems like something that can actually be made into class experiments or a challenge just about anyone could compete in." That's the point of what I said. Getting people to build and test out a different methods of flexing a single standardized limb, instead of just posting our thoughts here about what's the best way to do it.
+
+
+
+Ok, you lay out some standards, show a design to test and then build it, "...instead of just posting our thoughts here about what's the best way to do it...".
+
+
+
 You first. Show us.
 
 # 51
@@ -533,7 +713,8 @@ You're right. Building something is better than dreaming up technology. However,
 While working on OSRM, I've come to realize that DC cored motors inefficiency is a problem but brushless are too expensive. Coreless motors are where it's at. They're efficient like brushless but cheaper and don't need special controllers that increase costs.
 
 # 54
-check this.
+check this.
+
 https://www.youtube.com/watch?v=hhDdfiRCQS4
 
 # 55
@@ -546,13 +727,20 @@ I will. Sometime between that post and now, I've found I'm going to get fired fo
 It's just a general-purpose limb, mostly for bending at the elbow and knee. Scaling down to the fingers probably won't work and it won't be good for flexing face muscles or anything like that, but the application largely depends on what the leading design is. There's not gonna be one answer and best method regardless if the experiment is done or not, so why not do it anyway? It's application isn't just limited to waifubots either.
 
 # 56
->>13318
->>I've found I'm going to get fired for not taking the vax
-
-That's really sucks. F the vax, F the people trying to force it on people and F the people who engineered corona.
-
-What ever you do don't quit. They will try to make you quit. Don't do it. That way they will have no liability. They will really try hard to do this. Watch you'll see. It may very well be that they will some day have to pay you for firing you. Force them to fire you.
-
+>>13318
+
+>>I've found I'm going to get fired for not taking the vax
+
+
+
+That's really sucks. F the vax, F the people trying to force it on people and F the people who engineered corona.
+
+
+
+What ever you do don't quit. They will try to make you quit. Don't do it. That way they will have no liability. They will really try hard to do this. Watch you'll see. It may very well be that they will some day have to pay you for firing you. Force them to fire you.
+
+
+
 Of topic but we now have many serious test that show Ivermectin knocks out corona. We even have a whole country of billions, India, that has shown that corona can be stopped fast and eliminated. If they want to stop corona it's as easy as giving everyone Ivermectin, vit.  D, and vit. C and corona is done in a few months for a couple dollars per person.
 
 # 57
@@ -565,8 +753,10 @@ That was the plan, if only so it makes it easier to get unemployment if I can't 
 Good luck Anon.
 
 # 59
-I was about to give up on creating and humanoid robowaifu because I can't afford it but I think this mechanism could be my savior:
-https://makezine.com/projects/the-chinese-windlass/
+I was about to give up on creating and humanoid robowaifu because I can't afford it but I think this mechanism could be my savior:
+
+https://makezine.com/projects/the-chinese-windlass/
+
 I think using this we could create high torque actuators using cheap small motors.
 
 # 60
@@ -583,9 +773,12 @@ Capstan Drive: nema stepper motor with no gears?
 Anyone got a guide to which joints are safe to put your fingers and other fleshy bits near? Obviously it's not so important on low torque motors, but for life size waifubots you're getting into dangerous territory. I wouldn't want to use anything on a sexbot that might mangle my wangle. Imagine having to explain that one in the hospital.
 
 # 63
-Nylon actuators seem like a real bad idea also because you'll stress the thread way too much. I don't see why you would choose this method over a simple spool (which has been proven to be reliable and efficient since they use it on cranes) or pair of spools.
-
->who wants their waifu to bench press a car?
+Nylon actuators seem like a real bad idea also because you'll stress the thread way too much. I don't see why you would choose this method over a simple spool (which has been proven to be reliable and efficient since they use it on cranes) or pair of spools.
+
+
+
+>who wants their waifu to bench press a car?
+
 Patricians.
 
 # 64
@@ -606,8 +799,10 @@ We had this several times here on the site. You're thinking in terms of the opti
 Nylon actuators are also quite slow, so it's for some special use cases, especially support for other actuators in case of heavy lifting, but not generally useless. Don't judge everything based on your approach.
 
 # 66
->>13678
-Okay I totally misunderstood the way these things work. From the OP picture it looks like they are motor-based like a simple spool, but the motor is perpendicular and contraction is provided by overtwisting.
+>>13678
+
+Okay I totally misunderstood the way these things work. From the OP picture it looks like they are motor-based like a simple spool, but the motor is perpendicular and contraction is provided by overtwisting.
+
 I am now aware that that is not the case and I'll concede that they actually are cool and potentially useful.
 
 # 67
@@ -635,11 +830,16 @@ https://hackaday.io/project/181799-redacted-the-first-fully-open-bipedal-robo
 There are several great open-source projects which are a good place to start to actually build a robot instead of theorizing about what would be the perfect actuator and never getting anywhere. I was on a tear with nitinol braided actuators being the perfect actuator, but the part manufacturing held me back to the point where all I could work with wasn't nearly good enough. We need to start with something at all in order to have a hands-on perspective of what works and why to build these robots at all. Even a perfect first design nearly always has something go wrong with it, which is why iterating versions is a superior method to getting stuck in theoryland and never making anything.
 
 # 72
-found this just now 
-https://www.youtube.com/watch?v=guDIwspRGJ8
->We have achieved strong, fast, power-dense, high-efficiency, biomimetic, soft, safe, clean, organic and affordable robotic technology. Dumbbell weights 7 kg (15,6 lbs) , forearm with hand only 1 kg (2,2 lbs).
->This artificial muscles robotic arm is operated by water and consumes 200W at peak. We invent and produce our electro-hydraulic mini valves to have complete controllability of speed contraction and compress the whole powering system (for a full body) inside humanlike robot torso.
->At this moment our robotic arm is operated only by a half of artificial muscles when compared to a human body. Strongest finger-bending muscle still missing. Fingers are going to move from left to right but they don't have muscles yet. Metacarpal and left-to-right wrist movement are also blocked. This version has a position sensor in each joint but they are yet to be software-implemented. We are going to add everything mentioned above in the next prototype. 
+found this just now 
+
+https://www.youtube.com/watch?v=guDIwspRGJ8
+
+>We have achieved strong, fast, power-dense, high-efficiency, biomimetic, soft, safe, clean, organic and affordable robotic technology. Dumbbell weights 7 kg (15,6 lbs) , forearm with hand only 1 kg (2,2 lbs).
+
+>This artificial muscles robotic arm is operated by water and consumes 200W at peak. We invent and produce our electro-hydraulic mini valves to have complete controllability of speed contraction and compress the whole powering system (for a full body) inside humanlike robot torso.
+
+>At this moment our robotic arm is operated only by a half of artificial muscles when compared to a human body. Strongest finger-bending muscle still missing. Fingers are going to move from left to right but they don't have muscles yet. Metacarpal and left-to-right wrist movement are also blocked. This version has a position sensor in each joint but they are yet to be software-implemented. We are going to add everything mentioned above in the next prototype. 
+
 >The movement sequence was written and sent by simple commands to a hand.
 
 # 73
@@ -677,29 +877,49 @@ I answered here, in the meta thread: >>13737
 Hm, it would my personal biases have poisoned my judgment. I forgot there were those among us that would want a plug in waifu. I only want a waifu that can follow me so I only think about robowaifus through the lens of one that must be self powered.
 
 # 79
->>13724
-That's very impressive. Having hydrogen and oxygen in the same tube is...risky if I understand it correctly. Maybe he has a way to separate them. Not sure.
-
-He is making a gas to drive pneumatic actuators which is a good idea. It happened to occur to me possibly a spark gap which can expand water, or other liquid, would work as well??? Not sure it may be even more inefficient than splitting water.
-
-Maybe you could use some other sort of element that spit into a gas although I can't thing of one off hand.
-
+>>13724
+
+That's very impressive. Having hydrogen and oxygen in the same tube is...risky if I understand it correctly. Maybe he has a way to separate them. Not sure.
+
+
+
+He is making a gas to drive pneumatic actuators which is a good idea. It happened to occur to me possibly a spark gap which can expand water, or other liquid, would work as well??? Not sure it may be even more inefficient than splitting water.
+
+
+
+Maybe you could use some other sort of element that spit into a gas although I can't thing of one off hand.
+
+
+
 I'm complaining about the shortcomings but don't think I'm not impressed mightily by what he has done. It's very excellent.
 
 # 80
->>13755
->>13729
->the major problem of making sure the hydrogen and oxygen do not escape the system ...
->Having hydrogen and oxygen in the same tube ..
-
-H and o2 aren't going to be at standard pressure, that's something to factor in. No need to worry so much about escape, since that's still an issue in pneumatic and hydraulic systems regardless (and more dangerous in the latter).
-What's really interesting here is the way the actuators are arranged like muscles - with apparently opposing muscle pairs for greater control rather than jerky one-way movements or rigid machinelike movements. However don't rule servos out entirely they, and solenoids as well can do a lot still. Consider the human body, it has smooth muscle, skeletal muscle (slow and fast twitch) and cardiac muscle. Similarly, we should expect to use a diversity of tactics to the actuator problem. 
-1 .Hydraulics or large pneumatics where the most power is needed (shoulders, bicep, legs), 
-2. Where some power but more control is needed: wrists, neck, feet/ankles: smaller pneumatics (they don't have to be micro, but an array of micro pneumatics shouldn't be ruled out), the hydraulic transformer that other anon had mentioned, and/or pulleys
-[spoiler] which sound low-tech but don't have to be: try to envision something like a metallic herringbone chain inside a lubricated graphene or nylon weave bladder.[/spoiler]  
-3. Finally for fine dexterity: nitrile wire or something similar from the "soft robotics" school: fingertips, facial muscles (when we cross that bridge), etc.
-Anyway I wanted to respond to you both before sharing this too:
-https://www.youtube.com/watch?v=6JNq1COqB_s[Embed]
+>>13755
+
+>>13729
+
+>the major problem of making sure the hydrogen and oxygen do not escape the system ...
+
+>Having hydrogen and oxygen in the same tube ..
+
+
+
+H and o2 aren't going to be at standard pressure, that's something to factor in. No need to worry so much about escape, since that's still an issue in pneumatic and hydraulic systems regardless (and more dangerous in the latter).
+
+What's really interesting here is the way the actuators are arranged like muscles - with apparently opposing muscle pairs for greater control rather than jerky one-way movements or rigid machinelike movements. However don't rule servos out entirely they, and solenoids as well can do a lot still. Consider the human body, it has smooth muscle, skeletal muscle (slow and fast twitch) and cardiac muscle. Similarly, we should expect to use a diversity of tactics to the actuator problem. 
+
+1 .Hydraulics or large pneumatics where the most power is needed (shoulders, bicep, legs), 
+
+2. Where some power but more control is needed: wrists, neck, feet/ankles: smaller pneumatics (they don't have to be micro, but an array of micro pneumatics shouldn't be ruled out), the hydraulic transformer that other anon had mentioned, and/or pulleys
+
+%%which sound low-tech but don't have to be: try to envision something like a metallic herringbone chain inside a lubricated graphene or nylon weave bladder.%%
+
+3. Finally for fine dexterity: nitrile wire or something similar from the "soft robotics" school: fingertips, facial muscles (when we cross that bridge), etc.
+
+Anyway I wanted to respond to you both before sharing this too:
+
+https://www.youtube.com/watch?v=6JNq1COqB_s[Embed]
+
 https://spectrum.ieee.org/kenshiro-robot-gets-new-muscles-and-bones
 
 # 81
@@ -707,7 +927,8 @@ https://spectrum.ieee.org/kenshiro-robot-gets-new-muscles-and-bones
 >...to put your fingers and other fleshy bits near? 
 Redundant sensors are your friend. Also, having the system only use so much force as necessary for each movement. Also, there are the terms 'compliant' and 'backdriveable' 
 
-[code]waifusearch>  backdriveable OR backdrivable
+```cpp
+waifusearch>  backdriveable OR backdrivable
 
    THREAD SUBJECT                      POST LINK
 The Basement Lounge                >>4807    backdriveable
@@ -724,9 +945,10 @@ Work on my Elfdroid Sophie         >>7675      "
    "                               >>7701      " 
 Actuators For Waifu Movement Par   >>13761   backdriveable, backdrivable
 
-' backdriveable | backdrivable '  =  13 results[/code]
+' backdriveable | backdrivable '  =  13 results```
 
-[code]waifusearch>  compliant OR compliance
+```
+waifusearch>  compliant OR compliance
 
    THREAD SUBJECT                      POST LINK
 C++ General                        >>1073    compliant
@@ -750,7 +972,8 @@ Robowaifu Power and Control Syst   >>11175   compliant
 Actuators For Waifu Movement Par   >>13761   compliant, compliance
 Madoka.mi prototype thread & rob   >>13511   compliant
 
-' compliant | compliance '  =  20 results[/code]
+' compliant | compliance '  =  20 results
+```
 
 Cycloidal drives with a gear ratio of maximum 10:1 are backdriveable, along James Bruton. A soft outer shell might also help with your concerns. Doing such a search with waifusearch requires the option "-y false" when starting the program from the shell.
 

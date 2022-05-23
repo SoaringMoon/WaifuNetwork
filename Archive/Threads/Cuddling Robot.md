@@ -56,7 +56,7 @@ https://smuglo.li/monster/res/4977.html
 # 11
 >>619
 Indeed. robosnekwaifus will be better than rather lamias due to their ability to cook properly.
-[spoiler] Don't get me wrong lamias are good girls too but those girls can't cook worth a damn. They can't taste anything! robowaifus would be able to response to their husband's taste and have artificial taste buds.  [/spoiler]
+%% Don't get me wrong lamias are good girls too but those girls can't cook worth a damn. They can't taste anything! robowaifus would be able to response to their husband's taste and have artificial taste buds.  %%
 Do any images exist of robosnekwaifus?
 
 # 12

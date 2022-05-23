@@ -72,7 +72,7 @@ The world's gonna need a whole lot bigger stock of cat-toys someday soon anon.
 # 11
 >>1957
 Shit, how am I gonna fug all this catgirl? I ain't even mad, even if it kills me. Sounds like a good way to go.
-[spoiler]Soon.[/spoiler]
+%%Soon.%%
 
 # 12
 >>1958
@@ -118,7 +118,7 @@ I made us a cute little meme based on the exchange we had today. Hope you like i
 
 # 19
 >>1965
-Shit I forgot to make a "drowning in pussy" joke. Get it? Because they're cats? [spoiler]Sorry, I'm leaving now.[/spoiler]
+Shit I forgot to make a "drowning in pussy" joke. Get it? Because they're cats? %%Sorry, I'm leaving now.%%
 
 # 20
 >>1965
@@ -126,7 +126,7 @@ a cute. could you possibly figure some way to pare this down to a 100x300 png? i
 
 # 21
 >>1968
-[spoiler]I am the BO.[/spoiler]
+%%I am the BO.%%
 Not sure how it'd look at that resolution. Banners are tough.
 
 # 22

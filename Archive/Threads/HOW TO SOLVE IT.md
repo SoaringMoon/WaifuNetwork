@@ -479,7 +479,8 @@ I just thought repeatedly about wanting a method of being able to extract the ti
 Then I looked into the arxiv.py library for Python3, which I got from pip3 install arxiv. It's badly documented, in regards to the internal help, but it has a helpful github page: https://github.com/lukasschwab/arxiv.py
 
 This is just some kind of feedparser. So I put it into a function, using it: 
-[code]import arxiv
+```cpp
+import arxiv
 objects = ['entry_id', 'updated', 'published', 'title', 'authors', 'summary', 'comment', 'journal_ref', 'doi', 'primary_category', 'categories', 'links', '_raw']
 def getarxiv(id,object):
     if id.endswith('pdf'):
@@ -491,12 +492,13 @@ def getarxiv(id,object):
                 print(eval('paper.' + object))
             else:
             print('Try: paper. + ', objects)
-[/code]
+```
 
 Which can be used like this:
-[code]$ getarxiv('2006.04768',"title")
+```cpp
+$ getarxiv('2006.04768',"title")
 > Linformer: Self-Attention with Linear Complexity
-[/code] Also works with the file path instead of the id based name.
+``` Also works with the file path instead of the id based name.
 
 It can also get the summary and other stuff. I'm not exactly sure how I''m going to use that, but one use case would be having a text or html file with all the summaries for the papers I have, maybe with tags based in which folder they are or what keywords are in the title. We'll see. it's certainly going to help to find or sort the papers, or to put up a posting or even a website with the summaries and links to the download of each. The other program, pdfx also extracts links to papers which are referenced in the input document. So if one want's to batch download them just in case, it could be easier that way.
 
@@ -677,7 +679,8 @@ So, I was actually working on this. Here is the result, which is probably not th
 Maybe the arrows in my diagram should go the other way, idk. I made it starting from a point of a beginner, which then finds paths to move along. It could be better to think of an endpoint and build it that way. I'm not sure. For now, I just publish it, before it's one more project which I don't finish and publish because something could be improved. Also, I  watched this on my computer as a SVG file, with black background, but since I can't upload that format here, I upload it as a PNG file. Newer versions of PlantUML can use external resources to change the look, maybe mine can do this as well, but I don't know how yet. I want to use this program for getting a better overview over the whole topic we are covering, of course not by putting all in one diagram. It's quite complex already, just by covering the surface.
 
 PlantUML code
-[code]
+```cpp
+
 @startuml
 
 (*) --> "Python"
@@ -806,7 +809,7 @@ simulation ...> "advanced AI"
 "advanced AI" --> "psychology/philosophy/cognition" 
 
 @enduml
-[/code]
+```
 
 # 57
 >>10670
@@ -825,8 +828,9 @@ The main point is simply to '''keep moving forward'''.
 # 58
 I also want to look into Meermaid: https://mermaid-js.github.io/mermaid/#/
 This one translates something close to markdown into graphs of different kinds. It works within websites (nodejs) or on command line: 
-Here the command line version, first line downloads 50+ MB modules and builds it, second one starts the help: https://github.com/mermaid-js/mermaid-cli, I used yarnpkg for that, which I had to install first. [code] yarn add @mermaid-js/mermaid-cli 
-./node_modules/.bin/mmdc -h [/code] For now I got stuck with the installation, and wanted to write that I'm done for today. It needs some other stuff which takes time, and it seems to needs a program named Puppeteer which needs to install a whole instance of Chrom(ium?)?!? Whatever. Nodejs has a bad reputation. I wonder why. But then it finished after a fresh start. Not gonna test it today, though.
+Here the command line version, first line downloads 50+ MB modules and builds it, second one starts the help: https://github.com/mermaid-js/mermaid-cli, I used yarnpkg for that, which I had to install first. ```cpp
+ yarn add @mermaid-js/mermaid-cli 
+./node_modules/.bin/mmdc -h ``` For now I got stuck with the installation, and wanted to write that I'm done for today. It needs some other stuff which takes time, and it seems to needs a program named Puppeteer which needs to install a whole instance of Chrom(ium?)?!? Whatever. Nodejs has a bad reputation. I wonder why. But then it finished after a fresh start. Not gonna test it today, though.
 
 # 59
 >>10716

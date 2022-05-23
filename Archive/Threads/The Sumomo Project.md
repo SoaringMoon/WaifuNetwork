@@ -14,7 +14,8 @@ Anyway, happy birthday /robowaifu/ I love you guys! Here is my little birthday p
 '''==='''
 
 >rw_sumomo-v211124.tar.xz.sha256sum
-[code]8fceec2958ee75d3c7a33742af134670d0a7349e5da4d83487eb34a2c9f1d4ac *rw_sumomo-v211124.tar.xz[/code]
+```cpp
+8fceec2958ee75d3c7a33742af134670d0a7349e5da4d83487eb34a2c9f1d4ac *rw_sumomo-v211124.tar.xz```
 >backup drop
 https://files.catbox.moe/n2cffh.7z
 
@@ -695,7 +696,8 @@ So please be patient Anon, we'll all get there! :^)
 '''==='''
 
 >sumomo_version.log
-[code]   v.211127
+```cpp
+   v.211127
 ---------------
 -wired gets member; curly
 -begin Curly in rw::wired
@@ -713,9 +715,10 @@ So please be patient Anon, we'll all get there! :^)
 -begin RW Dollhouse library
 -begin RW Action! library
 -begin a rough coding standard treatment within this file (below)
--s/name_tag/handle/; 'handle' is actually a better description for the parameter[/code]
+-s/name_tag/handle/; 'handle' is actually a better description for the parameter```
 >rw_sumomo-v211127.tar.xz.sha256sum
-[code]69f32b27f3b7162473251c55e1fc74840c7787cf55fb7cba2847e89682c1f1db *rw_sumomo-v211127.tar.xz[/code]
+```cpp
+69f32b27f3b7162473251c55e1fc74840c7787cf55fb7cba2847e89682c1f1db *rw_sumomo-v211127.tar.xz```
 >backup drop
 https://files.catbox.moe/amykug.7z
 
@@ -949,7 +952,8 @@ Be patient Anon, Good Lord is willing we'll all eventually get there!  :^)
 '''==='''
 
 >version.log
-[code]   v.211204
+```cpp
+   v.211204
 ---------------
 -add global and local 'do_stamps' flags to control callstamping
 -begin 'stamps_.emplace()' calls into class' func defs
@@ -978,9 +982,10 @@ Be patient Anon, Good Lord is willing we'll all eventually get there!  :^)
 -ren sumomo_version.log>version.log; mv to RW Foundations lib's domain;
 -sumomo gets members; confetti, dustpan, whisk
 -begin Confetti, Dustpan, Whisk in rw::chibitsu::props
--moveit gets member; bones[/code]
+-moveit gets member; bones```
 >rw_bumpmaster-v211204.tar.xz.sha256sum
-[code]cbd8349074b85f5d096e365709a0dd31f6cd6f89c5452dbd7f6f864d16677355 *rw_bumpmaster-v211204.tar.xz[/code]
+```cpp
+cbd8349074b85f5d096e365709a0dd31f6cd6f89c5452dbd7f6f864d16677355 *rw_bumpmaster-v211204.tar.xz```
 >backup drop:
 https://files.catbox.moe/mw7rp7.7z
 
@@ -994,7 +999,8 @@ So, we stepped back and had a go at working on the callgraph 'stamping' (sort of
 We started fleshing out a fundamental mechanism to collect up the so-called 'Stampstack's (stack containers of function-call logging 'stamps') from all the active RW objects, and work through analyzing their inter-relationships between. R/n the 'analysis' of the ''analyze_callgraph()'' function is rather sparse atm **it just dumps the entire data out to console** so it's nothing special at this point. Still, even at this very early stage it's apparent the system is working properly in a basic sense, and everything is communicating well with everything else. That fact is both gratifying and encouraging.
 
 Here's a short example snippet from the callgraph display for the first two active objects of Bumpmaster:
-[code]Callgraph size (ie, the number of active RW objects) : 9
+```cpp
+Callgraph size (ie, the number of active RW objects) : 9
 
  - Object's Handle.ID : 'bumpmaster.0'
 	object's stampstack size : 4
@@ -1011,7 +1017,7 @@ Here's a short example snippet from the callgraph display for the first two acti
         bumpmaster_board.1  (self)  calls obj's :             Board_b() func at :  23m:58s:812ms:841us:660ns  past hr
         bumpmaster_board.1  (self)  calls obj's :        master_types() func at :  23m:58s:812ms:839us:944ns  past hr
         bumpmaster_board.1  (self)  calls obj's :            RW_slave() func at :  23m:58s:812ms:837us:628ns  past hr
-        bumpmaster_board.1  (self)  calls obj's :                  RW() func at :  23m:58s:812ms:831us:904ns  past hr[/code]
+        bumpmaster_board.1  (self)  calls obj's :                  RW() func at :  23m:58s:812ms:831us:904ns  past hr```
 Along with the high degree of flexibility possible by simply embedding any object within any other, and giving them all the potential for 'any-to-any' communications, this call-stamp system is reassuring. It seems like our architectural decisions are sound, and that no major revisions will be needed. We also plan to add more sophisticated system analyses later, adding animated graphical views of interactions. Possibly even a 'glass-cockpit' dashboard view of the systems ''in situ''. This would greatly increase the visibility into the robowaifu's running systems ofc.
 
 '''Additionally''', we began toying with some basic concepts for the '''RW Atashi''' library. There's not much we have to show yet, but the ideas are slowly coming into focus for us. We plan to simply take a deterministic, 'grass-roots' (ground-up) philosophical approach to the cognition & personification problems for robowaifus. We'll see what we can manage in that way using only very modest hardware to do it with (RPis, Beaglebones, etc.) This is definitely the problem-space we need to address to remain feasible, so we're going to take an honest whack at it! I would predict we'll have some degree of reasonable success for basic features of the library over the next year, all things being equal.
@@ -1023,7 +1029,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.211211
+```cpp
+   v.211211
 ---------------
 -add helper struct Hdl_id; adds support for common ops related to Hip 's
 -add nanosecond-scaled breakdowns of Callstamp Time 's; analyze_callgraph()
@@ -1035,9 +1042,10 @@ Cheers.
 -begin Analogy, Cognate, Concept, Percept in rw::atashi::cognate
 -begin Hand in rw::shell::hand
 -begin Gears_HAL in rw::gears::hal (hardware abstraction layer)
--begin Electro_HAL in rw::electro::hal (hardware abstraction layer)[/code]
+-begin Electro_HAL in rw::electro::hal (hardware abstraction layer)```
 >rw_bumpmaster-v211211.tar.xz.sha256sum
-[code]b926e043246a91dbcd29f92e3a31878cad6992c4c2ceb5be17f0b4fc619d8dc6 *rw_bumpmaster-v211211.tar.xz[/code]
+```cpp
+b926e043246a91dbcd29f92e3a31878cad6992c4c2ceb5be17f0b4fc619d8dc6 *rw_bumpmaster-v211211.tar.xz```
 >backup drop
 https://files.catbox.moe/8n6ee9.7z
 
@@ -1098,10 +1106,11 @@ This should be an approach that allows for Sumomo ''et al'' to still do lookups 
 
 BTW, we finally got around to adding a progress meter bar for it's downloads (within Dollnet, actually) and it works pretty much as expected. So yeah, that's a small but handy improvement for things moving forward.
 
-[code]            asked to pull a drop -               bumpmaster.0    	addr:    0x7ffe60bc4f80
+```cpp
+            asked to pull a drop -               bumpmaster.0    	addr:    0x7ffe60bc4f80
 - requested pull drop : 'example.com'
 
- 100.0% [================================================================================]  bytes :   1256 of   1256,  in  0.3 secs[/code]
+ 100.0% [================================================================================]  bytes :   1256 of   1256,  in  0.3 secs```
 
 Bumpmaster will be the first running program that we actually have going for the RW Foundations, and this should help us all answer a few of these safety-design questions along the way (one of the reasons we chose it ''first''). This is kind of an interesting problem to work on, actually.
 
@@ -1112,7 +1121,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.211218
+```cpp
+   v.211218
 ---------------
 -arigato gets member; hand
 -prepend hours UTC to Time displays
@@ -1122,9 +1132,10 @@ Cheers.
 -begin Gymnasium in rw::curator::sensei
 -begin Categories, Collections in rw::curator::alexandria
 -begin Alexandria, Sensei in rw::curator
--begin Dogfood in rw::util[/code]
+-begin Dogfood in rw::util```
 >rw_bumpmaster-v211218.tar.xz.sha256sum
-[code]d9a2c9dd9884bef461bc7940fe6886e9ed0fd95ca9f602452223487ca5de8ccc *rw_bumpmaster-v211218.tar.xz[/code]
+```cpp
+d9a2c9dd9884bef461bc7940fe6886e9ed0fd95ca9f602452223487ca5de8ccc *rw_bumpmaster-v211218.tar.xz```
 >backup drop
 https://files.catbox.moe/87zxc9.7z
 
@@ -1150,7 +1161,8 @@ Cheers, and Merry Christmas /robowaifu/ .
 '''==='''
 
 >version.log
-[code]   v.211225
+```cpp
+   v.211225
 ---------------
 -design gets members; beauty, form, symmetry
 -begin Form, Symmetry in rw::atashi::beauty
@@ -1160,9 +1172,10 @@ Cheers, and Merry Christmas /robowaifu/ .
 -ren ask_drop()>pull_w_hdr(); Dolldrop
 -mv Dollnet to private visibility w/ protected accessor(s); Mailstop
 -begin internal private class Mailstop; Dolldrop
--begin Dolldrop lib in rw::dollhouse::net; all networking moved out of Dollhouse[/code]
+-begin Dolldrop lib in rw::dollhouse::net; all networking moved out of Dollhouse```
 >rw_bumpmaster-v211225.tar.xz.sha256sum
-[code]ed4a00be0709aa0a9f8506e462c847edd665eb2174c95defe0d9b207b60c5ddd *rw_bumpmaster-v211225.tar.xz[/code]
+```cpp
+ed4a00be0709aa0a9f8506e462c847edd665eb2174c95defe0d9b207b60c5ddd *rw_bumpmaster-v211225.tar.xz```
 >backup drop
 https://files.catbox.moe/lklog5.7z
 
@@ -1190,7 +1203,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220108
+```cpp
+   v.220108
 ---------------
 -edits for general usage notes; ./dolldrops/tail_me.txt
 -add incremental file-numbering suffixes to dolldrops
@@ -1203,9 +1217,10 @@ Cheers.
 -edits for Coding Guidelines; bottom of version.log
 -rm analyze_callgraph() calls inside catch blocks (as unusable); main()
     (bug: program's callstack already unwound; objects dtor'd)
-    mv analyze_callgraph() calls inside error() 's instead (before throw)[/code]
+    mv analyze_callgraph() calls inside error() 's instead (before throw)```
 >rw_bumpmaster-v220108.tar.xz.sha256sum
-[code]0a685bbe7f7cdd47bba36343a8db9810c4a0beec9eb70374f2ed3fa71449d18d *rw_bumpmaster-v220108.tar.xz[/code]
+```cpp
+0a685bbe7f7cdd47bba36343a8db9810c4a0beec9eb70374f2ed3fa71449d18d *rw_bumpmaster-v220108.tar.xz```
 >backup drop
 https://files.catbox.moe/4ixguz.7z
 
@@ -1258,7 +1273,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220115
+```cpp
+   v.220115
 ---------------
 -battery gets member; charger
 -charger gets member; battery
@@ -1267,9 +1283,10 @@ Cheers.
 -begin Abstract, Elucidate; rw::atashi::cognate
 -add is_empty() utility func for ifstream 's; rw::util
 -add pull(), pull_hdr() func-chains; dolldrop/dollnet
--immediately show xfer times on curl requests, even w/o bytes flowing; dollnet[/code]
+-immediately show xfer times on curl requests, even w/o bytes flowing; dollnet```
 >rw_bumpmaster-v220115.tar.xz.sha256sum
-[code]0c720cc8aeef08b3fb21c029b89bf9e6e0f7ea88ef723df3f55ac8c6d86888d5 *rw_bumpmaster-v220115.tar.xz[/code]
+```cpp
+0c720cc8aeef08b3fb21c029b89bf9e6e0f7ea88ef723df3f55ac8c6d86888d5 *rw_bumpmaster-v220115.tar.xz```
 >backup drop
 https://files.catbox.moe/mjow26.7z
 
@@ -1296,7 +1313,8 @@ We also started up a very interesting new sub-library '''RW Mimicry''' in rw::at
 '''Also''', one other thing we'd like to begin doing for these drop posts is to add in little bits of the code itself from the projects. Rant on it, rip into it, or give it props. The main point is to begin a conversation here about the code itself. Accordingly, here's a little snip from today's drop:
 
 >main_bumpmaster.cpp snippet
-[code]string const test_uri{
+```cpp
+string const test_uri{
     "https://alogs.theГунтretort.com/robowaifu/catalog.json"};
 
 puts("\n\n     --=^=--\n\n");
@@ -1312,7 +1330,7 @@ if (! is_empty(hdr_A)) {  //
   }
 
 } else
-  cout << "hdr_A empty\n";[/code]
+  cout << "hdr_A empty\n";```
 This form of pull() function for '''RW::Dolldrop''' returns a stream containing a header response for the dolldrop itself. This little bit of code first transforms that into a container of strings, and then goes through it line-by-line looking for specified tags in the header. Tags such as ''last-modified'', and ''content-length'' (number of bytes), for instance. This will be a useful feature to have in a number of ways for Bumpmaster. Thoughts?
 
 Well we're starting to settle in to the new year, and we hope it brings good fortune and prosperity to every Anon here on /robowaifu/. Let's all press forward in earnest towards our goals this year! :^)
@@ -1322,7 +1340,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220122
+```cpp
+   v.220122
 ---------------
 -begin Mimicry; rw::atashi::cognate
 -add to_lower(), strmlines_2_vec() utility funcs; rw::util
@@ -1331,9 +1350,10 @@ Cheers.
     as parms in is_empty() utility funcs; rw::util
     as return types in pull() call-chains; dollnet
 -add 'JSON for Modern C++' hdr file (json.hpp), begin evaluations; ./extern/ dir
--enable './extern/' dir + add into bumpmaster includes; meson.build[/code]
+-enable './extern/' dir + add into bumpmaster includes; meson.build```
 >rw_bumpmaster-v220122.tar.xz.sha256sum
-[code]19414e73bdd1bbce309fab45ff5378c54086930e97e502bc1d9a10e4f960f010 *rw_bumpmaster-v220122.tar.xz[/code]
+```cpp
+19414e73bdd1bbce309fab45ff5378c54086930e97e502bc1d9a10e4f960f010 *rw_bumpmaster-v220122.tar.xz```
 >backup drop
 https://files.catbox.moe/x07805.7z
 
@@ -1423,39 +1443,46 @@ OK, here's a quick rundown excluding the dependencies (the readme has links):
 If you right-click on the ".pdf" file here (>>15050), you'll see AlogSpace's actual name of the file, just so you can confirm it's legitimacy. We'll be doing all our work here from the terminal.
 
 First, grab the archive file itself into w/e directory you want:
-[code]torsocks -i curl http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/.media/62a022ea91c78727fc222755f0d8f0286cce8a50dd2800bd2a7613aad28beb88.pdf -o rw_bumpmaster-v220122.7z
+```cpp
+torsocks -i curl http://bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion/.media/62a022ea91c78727fc222755f0d8f0286cce8a50dd2800bd2a7613aad28beb88.pdf -o rw_bumpmaster-v220122.7z
 
     or
 
-curl https://files.catbox.moe/x07805.7z -o rw_bumpmaster-v220122.7z[/code]
+curl https://files.catbox.moe/x07805.7z -o rw_bumpmaster-v220122.7z```
 
 '''--=^=--'''
 
 Next extract the outer 7zip file and have a look at the readme.txt:
-[code]7z e rw_bumpmaster-v220122.7z 
-cat bumpmaster_readme.txt[/code]
+```cpp
+7z e rw_bumpmaster-v220122.7z 
+cat bumpmaster_readme.txt```
 
 Confirm the tarball's intact, then if so extract it:
-[code]sha256sum -c rw_bumpmaster-v220122.tar.xz.sha256sum
-tar -xf rw_bumpmaster-v220122.tar.xz[/code]
+```cpp
+sha256sum -c rw_bumpmaster-v220122.tar.xz.sha256sum
+tar -xf rw_bumpmaster-v220122.tar.xz```
 
 Cd into the project's working directory:
-[code]cd rw_bumpmaster-v220122/[/code]
+```cpp
+cd rw_bumpmaster-v220122/```
 
 Configure it as a Meson Build project:
-[code]meson build[/code]
+```cpp
+meson build```
 
 Finally cd to build/ and make the project with Ninja:
-[code]cd build/ && ninja; cd .. [/code]
+```cpp
+cd build/ && ninja; cd .. ```
 
 '''--=^=--'''
 
 That's it, you're done Anon. To run either the ''bumpmaster'' or ''sumomos_world'' demo projects, just call them from the project's base directory:
-[code]build/bumpmaster
+```cpp
+build/bumpmaster
 
     or
 
-build/sumomos_world[/code]
+build/sumomos_world```
 
 '''--=^=--'''
 
@@ -1488,7 +1515,8 @@ Overall the code is a good bit cleaner and better organized in this busy drop. I
 So, here's some code from today's drop:
 
 >main_bumpmaster.cpp snippet
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 /** For each thread in @a catalog, print out specified target field's value data
  * @param catalog the @c Json to search through (an IB catalog)
  * @param targ_field the @c std::string to match against
@@ -1508,7 +1536,7 @@ void prt_targ_fields(Json const& catalog, std::string const& targ_field) {
              << field_nm << "  :  " << field_dat << "\n";
     }
   }
-}[/code]
+}```
 This cycles through all the thread elements in the catalog's JSON, and prints out w/e the target field's data value is (which in the basic example's case is the 'subject' field, but can be easily switched out for one of the dozen or so others Lynxchan uses). The ''JSON for Modern C++'' library pretty much directly supports both C++11 range-based for() loops and C++17 structured bindings, as can be readily seen in this snippet. That's actually really handy tbh.
 
 Well, I hope you are doing well r/n Anon. Please keep the vision alive in your heart and let's all press forward together towards our goals! '''''Rugged Adventurer''' onwards!'' :^)
@@ -1518,7 +1546,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]-add get_tag() utility func, + 2 wrappers (date, name); dollnet
+```cpp
+-add get_tag() utility func, + 2 wrappers (date, name); dollnet
 -add set_tag() utility func, + 3 wrappers (date, name, uri); dollnet
 -add dropfield(), chk_droptimes() utility funcs; dollnet
 -add chk_logfile(), mk_logfile() utility funcs; dollnet
@@ -1536,9 +1565,10 @@ Cheers.
 -add fstream_2_json() utility func; rw::json
 -begin rw::json namespace
 -add ./extern/ dir into sumomos_world includes; meson.build
--edit GCC build instructions, add ./extern/ dir includes; meson.build[/code]
+-edit GCC build instructions, add ./extern/ dir includes; meson.build```
 >rw_bumpmaster-v220129.tar.xz.sha256sum
-[code]032478231181af7ee843269d78c2c7657d26a1619b4ef45d8fedb4a9de980eb9 *rw_bumpmaster-v220129.tar.xz[/code]
+```cpp
+032478231181af7ee843269d78c2c7657d26a1619b4ef45d8fedb4a9de980eb9 *rw_bumpmaster-v220129.tar.xz```
 >backup drop
 https://files.catbox.moe/ktbqw3.7z
 
@@ -1555,7 +1585,8 @@ Accordingly, we created a new ''mailstop_util'' set of utility files, and moved 
 
 So, here's a key new algorithm from today's drop:
 >mailstop_util.cpp snippet
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 void set_tag(string const& uri, string const& tag, string const& tagdat) {  //
 
   if (! log_chkd) {
@@ -1600,9 +1631,10 @@ void set_name(string const& uri, string const& namedat) {
 }
 void set_uri(string const& uri, string const& uridat) {
   set_tag(uri, "uri", uridat);
-}[/code]
+}```
 It gets called (e.g. from the ''chk_droptimes()'' func) like this:
-[code]set_date(uri, currdate);[/code]
+```cpp
+set_date(uri, currdate);```
 This library function '''set_tag()''' reads in the ''./dolldrops/dropmod.json'' dolldrops log file, and looks through it's JSON for the URI that was passed in by the caller. If the record is found, then that specific tag (key) is updated with the new tag data (value). But if that tag's data isn't found, then a new triple-{key:value} element for that URI is added into the JSON array. The JSON is then written back out the log file. 
 
 That's it. Not exactly an ''ACID Transaction'' (from the database world), but it's sufficient for our current needs. Actually, we'll plan to further improve these processes in the future until we actually ''do have'' efficient ACID transactions for our JSON and other data systems. In the meantime, we have begun the testing of our JSON library candidates sufficiently well in this way. We're sure there will be plenty to learn along the way!
@@ -1614,13 +1646,15 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220205
+```cpp
+   v.220205
 ---------------
 -mv dolldrop-related funcs & aliases into mailstop_util; dolldrop/dollnet
 -add 'mailstop_util' decl/defn files; rw::dollhouse::net
--add multi-drop support for dolldrop-related utility funcs; dolldrop/dollnet[/code]
+-add multi-drop support for dolldrop-related utility funcs; dolldrop/dollnet```
 >rw_bumpmaster-v220205.tar.xz.sha256sum
-[code]00c097ab4573df01eb9cc1e0f37b3715daafd614802a15085091fbbae3f72cb5 *rw_bumpmaster-v220205.tar.xz[/code]
+```cpp
+00c097ab4573df01eb9cc1e0f37b3715daafd614802a15085091fbbae3f72cb5 *rw_bumpmaster-v220205.tar.xz```
 >backup drop
 https://files.catbox.moe/g72pd6.7z
 
@@ -1644,7 +1678,8 @@ There are specific issues with using exceptions in __'''''hard realtime'''''__ s
 Now, back to the task of abstracting utility functions out. When attempting to emplace a JSON data element into a JSON array, again, there might be a problem with either the data or even the 'array' itself. It ''might not be'' an array, actually. Here's a function ''try_emplace_back()'' that catches that specific type of problem and notifies the developer. One very cool thing about the '''JFMCPP''' library is it's extensive support and documentation around potential exceptions with JSON.
 
 >json_util.cpp snippet
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 template <typename T>
 auto try_emplace_back(Json& json, T const& typ) -> bool {
   bool res{false};
@@ -1669,7 +1704,7 @@ auto try_emplace_back(Json& json, T const& typ) -> bool {
   }
 
   return res;
-}[/code]
+}```
 This generic code attempts to emplace an object of any appropriate type into a JSON object. Since only JSON ''arrays'' are suited to these 'emplace_back()' operations, this specific type of error needs to be looked-out for. Not only does JFMCPP do this, but he conveniently links to the exception doc directly inside the library's javadocs. Pretty handy tbh.
 
 '''And with this''' example's demo code, we're already a fair way to reproducing the functionality of an IB index page's text-display out to the console. This is probably a good sign that we're basically ready to approach the Bumpmaster classes themselves and start implementing new algorithms there. Most of the underlying system support code for dolldrop-based networking seems to be in good working order now.
@@ -1681,7 +1716,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220212
+```cpp
+   v.220212
 ---------------
 -mv dolldrop file creation mgmt into mailstop funcs; dolldrop/dollnet
 -add 'chk_dropname()', 'build_dropname()' utility funcs; mailstop
@@ -1696,9 +1732,10 @@ Cheers.
 -consolidate pull() 's call-chains; dolldrop
 -add 'try_emplace_back()', 'try_idx_tag()' utility funcs; rw::json
 -add 'rd_json_file()', 'wrt_json_file()' utility funcs; rw::json
--improve checking in fstream_2_json(); rw::json[/code]
+-improve checking in fstream_2_json(); rw::json```
 >rw_bumpmaster-v220212.tar.xz.sha256sum
-[code]e7abc5155a7bb4dce277953e581a674c4bb6c631d8ff9dc213bd6843e73709ad *rw_bumpmaster-v220212.tar.xz[/code]
+```cpp
+e7abc5155a7bb4dce277953e581a674c4bb6c631d8ff9dc213bd6843e73709ad *rw_bumpmaster-v220212.tar.xz```
 >backup drop
 https://files.catbox.moe/3feacd.7z
 
@@ -1723,7 +1760,8 @@ Well we began implementing some initial functions inside the ''RW Bumpmaster'' c
 
 Back to the JSON-related code from last time. One of the nice ideas the JFMCPP has is a pair of overloads on the functions ''from_json()'', and ''to_json()''. They kind of sit 'in the background' performing a transformations to/from other types with JSON. Here's an example use (that calls the exceptions wrapper class from last time):
 >mailstop_util.cpp snippet
-[code]auto add_log_rec(Json&              json_out,
+```cpp
+auto add_log_rec(Json&              json_out,
                  std::string const& uri,
                  std::string const& tag,
                  std::string const& tagdat) -> bool {
@@ -1742,15 +1780,16 @@ Back to the JSON-related code from last time. One of the nice ideas the JFMCPP h
 
   // constructs a new JSON item in-place, via to_json()
   return try_emplace_back(json_out, d);
-}[/code]
+}```
 Did you catch that? No? Hint: **it actually happens in the ''emplace_back()'' op in the other function**. The final line makes that call, and passed a ''Dropdata'' struct along as an argument.
 
 Here's the related overload that does the 'magic':
-[code]void from_json(Json const& j, Dropdata& d) {
+```cpp
+void from_json(Json const& j, Dropdata& d) {
   d.date = j["date"];
   d.name = j["name"];
   d.uri  = j["uri"];
-}[/code]
+}```
 That's really all there is to it, nothing magical at all actually. The key reason this works so smoothly is that this library's author has created a generic mechanism so that this function overload works with ''any'' arbitrary type that is compatible with JSON. You simply need to define the details in your type's overload, as in this example.
 
 '''We also''' began what should turn out to be a fun new class '''RW Sempai'''. When a robowaifu needs a little help and encouragement, ''Sempai'' is always there for her! :^) Initially, this should be a sort of way to help her when she's using Waifusearch, or asking the Curator for outside information. Sempai can help guide her into better ways of approaching the questions, etc. if things aren't working too well for her. There should also eventually be several other ways this sub-system can help a robowaifu out in her day-to-day life as well.
@@ -1762,7 +1801,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220219
+```cpp
+   v.220219
 ---------------
 -add thrd_posts(); bumpmaster
 -add bump_thrd_uris(); bumpmaster
@@ -1772,9 +1812,10 @@ Cheers.
 -add parse_cat_uri() member func; bumpmaster
 -rm redundant type-checking, Master 's type already known at bind-time; dolldrop
 -minor disp patch hms(), (1 min period past hr); dollnet
--begin Sempai; rw::curator[/code]
+-begin Sempai; rw::curator```
 >rw_bumpmaster-v220219.tar.xz.sha256sum
-[code]7c8960a19b8051876e84b459a8aca5c533b43848363293b82cec57d2a6eb9d46 *rw_bumpmaster-v220219.tar.xz[/code]
+```cpp
+7c8960a19b8051876e84b459a8aca5c533b43848363293b82cec57d2a6eb9d46 *rw_bumpmaster-v220219.tar.xz```
 >backup drop
 https://files.catbox.moe/n8puds.7z
 
@@ -1782,9 +1823,10 @@ https://files.catbox.moe/n8puds.7z
 >>15240
 >Here's the related overload that does the 'magic':
 LOL. I just realized I posted the wrong function. We're going ''from'' Dropdata ''to'' JSON. Here's the proper, 'other-half' one:
-[code]void to_json(Json& j, Dropdata const& d) {
+```cpp
+void to_json(Json& j, Dropdata const& d) {
   j = Json{{"date", d.date}, {"name", d.name}, {"uri", d.uri}};
-}[/code]
+}```
 
 Apologies about that Anon.
 
@@ -1851,7 +1893,8 @@ So, one of the oddities about imageboard's APIs (at least we find it so) is that
 Within ''Bumpmaster'' at least, we'll be setting about to fix this. Basically the first order of business then is to combine all these elements together into a more appropriate data structure. Here's the basic (and rather simple) idea so far
 (BTW, please pardon me if you're already conversant with C++ programming, my goal with this explanation is to familiarize those a little new to it here) :
 >bumpmaster.hpp snippets
-[code]/** A simple data struct to help with catalog's thread's information
+```cpp
+/** A simple data struct to help with catalog's thread's information
  */
 struct Thrd_data {  // Lynxchan's JSON tag names:
   string   msg;     // message
@@ -1869,7 +1912,7 @@ struct Post_data {  // Lynxchan's JSON tag names:
   string   date;    // creation
   string   msg;     // message
   unsigned id;      // postId
-};[/code]
+};```
 These are a pair data structures we've created to hold the information we're actually interested in for Bumpmaster (we touched on a similar one last drop). We can talk about that '''std::vector''' member in the first one  later, but for now just think of it as an open-ended container for the second type of struct, ''Post_data''.
 
 Basically, we have one data struct that's about the threads, and another one that's about the posts. We collect up all the post's data into that data container in the first struct. After these data sets are combined together this way, it's a much easier task to iterate over them -- and also more efficient too. That's really all there is to it Anon. We can talk more later about how we process this new data structure with our algorithms. If you have any questions in the meantime please don't hesitate to ask ITT.
@@ -1881,7 +1924,8 @@ Cheers
 '''==='''
 
 >version.log
-[code]   v.220226
+```cpp
+   v.220226
 ---------------
 -add top_bump_thrds(); bumpmaster
 -add bump_thrd_dats(); bumpmaster
@@ -1890,9 +1934,10 @@ Cheers
 -add Thrd_data struct; bumpmaster
 -s/Postdata/Post_data/; bumpmaster
 -s/parse_cat_uri/parse_ib_uri/; bumpmaster
--rm rd_thread_id(), uneeded; bumpmaster[/code]
+-rm rd_thread_id(), uneeded; bumpmaster```
 >rw_bumpmaster-v220226.tar.xz.sha256sum
-[code]33a4ac51ee14a64de0b09247db5e5a9de75b4e839cd330ee00dc9c20d994fcfa *rw_bumpmaster-v220226.tar.xz[/code]
+```cpp
+33a4ac51ee14a64de0b09247db5e5a9de75b4e839cd330ee00dc9c20d994fcfa *rw_bumpmaster-v220226.tar.xz```
 >backup drop
 https://files.catbox.moe/00juix.7z
 
@@ -1905,15 +1950,17 @@ Have you thought about getting the sumomo ai to celebrate holidays and anniversa
 # 90
 >>15324
 Bumpmaster isn't working for me.
-[code]page_uri:    https://alogs.space/robowaifu/catalog.json
+```cpp
+page_uri:    https://alogs.space/robowaifu/catalog.json
   req made                                                                        0.4s
 
   Json::parse_error 
 '[json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - unexpected end of input; expected '[', '{', or a literal'
   caught in fstream_2_json()
-[/code]
+```
 I tried to debug it and it seems it's trying to parse the json before chkd_pull_g finishes downloading the file. Then it segfaults.
-[code]==845051== Invalid read of size 8
+```cpp
+==845051== Invalid read of size 8
 ==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
 ==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
 ==845051==    by 0x111482: main (main_bumpmaster.cpp:52)
@@ -1924,7 +1971,7 @@ I tried to debug it and it seems it's trying to parse the json before chkd_pull_
 ==845051==  Access not within mapped region at address 0x8
 ==845051==    at 0x4A58268: std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >::basic_string(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.29)
 ==845051==    by 0x12AC77: rw::curator::bumpmaster::Bumpmaster::top_bump_thrds(nlohmann::basic_json<std::map, std::vector, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >, bool, long, unsigned long, double, std::allocator, nlohmann::adl_serializer, std::vector<unsigned char, std::allocator<unsigned char> > > const&, int, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) (bumpmaster.cpp:247)
-==845051==    by 0x111482: main (main_bumpmaster.cpp:52)[/code]
+==845051==    by 0x111482: main (main_bumpmaster.cpp:52)```
 
 # 91
 >>15332
@@ -1954,7 +2001,8 @@ You encourage me Kiwi. For me this is a spiritual quest as much or more than a h
 # 93
 >>15334
 Quick update without much depth yet Anon. We were able to produce a similar effect by building the code in ''debug'' mode, rather than the specified ''release'' mode. This setting is specified in the project options in ''meson.build'' :
-[code]# basic & default project arguments
+```cpp
+# basic & default project arguments
 project('rw_bumpmaster', 'cpp',
         version : 'v220226', license : 'MIT',
         default_options : [
@@ -1962,10 +2010,11 @@ project('rw_bumpmaster', 'cpp',
                            'buildtype=release',
                            'warning_level=3',
                            'werror=true'
-                          ])[/code]
+                          ])```
 
 As a quick test, I'd suggest you set execute this command from the project's base directory:
-[code]cd build && meson configure -Dbuildtype=release && cd ..[/code]
+```cpp
+cd build && meson configure -Dbuildtype=release && cd ..```
 Then rebuild & try again. Let us know your results ITT please, thanks.
 
 We'll spend some time soon to understand the dynamics of what the compiler optimizations are doing under-the-table to order sequence timings that led to this bug. We'll patch it ofc as we do so, and will make note of that in the ''version.log'' entries.
@@ -1989,8 +2038,9 @@ Thanks again for the feedback Anon! :^)
 OK, looks like we've tracked the issue down to the most obvious one **which I neglected to check first thing** : ''the downloaded file is itself the issue''. That is, the server only sent partial data. Currently this isn't being caught by Dollnet, so we'll work on that.
 
 In the meantime, simply deleting the files and retrying should do it. (Just use the release build, that was purely coincidental timing of getting a bad file during that test. It's unrelated).
-[code]rm ./dolldrops/*
-build/bumpmaster[/code]
+```cpp
+rm ./dolldrops/*
+build/bumpmaster```
 
 Please give that a go Anon and let us know how it goes for you.
 
@@ -2026,7 +2076,8 @@ Cute robowaifu anime catgrill meidos. I wonder if Pygmalion would approve today?
 
 So, we talked last drop about data structures for threads. But how to we use them? The first order of business is to load them up with data. We use the IB JSON files provided by the site's servers for this. There are two steps for this in the higher-level sense. First, we iterate the JSON data and pull out the thread's details (the OP's details, really) from the catalog JSON:
 >bumpmaster.cpp snippets
-[code]auto Bumpmaster_b::bump_thrd_dats(Json const& cat_json)
+```cpp
+auto Bumpmaster_b::bump_thrd_dats(Json const& cat_json)
     -> std::vector<Thrd_data> {
   stamp("bump_thrd_dats()");
 
@@ -2038,9 +2089,10 @@ So, we talked last drop about data structures for threads. But how to we use the
   }
 
   return res;
-}[/code]
+}```
 This function gets called from another function actually. This one both downloads each ''thread'''s JSON, and then also loads it's 'posts' JSON into the thread structure (remember that open-ended container in this structure from last time? yeah, that one).
-[code]auto Bumpmaster::top_bump_thrds(Json const&        cat_json,
+```cpp
+auto Bumpmaster::top_bump_thrds(Json const&        cat_json,
                                 const int          thrd_lim,
                                 std::string const& site,
                                 std::string const& board)
@@ -2071,7 +2123,7 @@ This function gets called from another function actually. This one both download
   }
 
   return res;
-}[/code]
+}```
 We're all set now. Each thread structure is now populated, and has all it's data needed from the catalog and all the post's data as well. All that's left now is to output this information to the console. We can talk about that step later, as this is more than enough code for this time!
 
 '''We also''' began a new sub-library '''RW Cleaner''', as part of the ''RW Meido'' library. I think all of us would appreciate having our cute anime catgrill meidos clean up after us, right? :^) It will actually be a big challenge **but a fun one** to figure out these kinds of tasks for our robowaifus to perform. For example, washing dishes is literally filled with hundreds of 'judgement call' actions to perform for just this one type of chore alone.
@@ -2083,15 +2135,17 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220305
+```cpp
+   v.220305
 ---------------
 -add wrt_tailme() non-member utility func; mailstop.cpp
 -add preflight(), mk_dropdir() utility funcs; mailstop
 -add exists_fs() utility func; rw::sys
 -add 'dropdir' filepath const; dolldrop
--begin Cleaner; rw::meido[/code]
+-begin Cleaner; rw::meido```
 >rw_bumpmaster-v220305.tar.xz.sha256sum
-[code]d5fcc066e70b8e11f05fe971aecdf92919df89106732d93c1c46951192e7046d *rw_bumpmaster-v220305.tar.xz[/code]
+```cpp
+d5fcc066e70b8e11f05fe971aecdf92919df89106732d93c1c46951192e7046d *rw_bumpmaster-v220305.tar.xz```
 >backup drop
 https://files.catbox.moe/1wql8r.7z
 
@@ -2127,7 +2181,8 @@ So, last drop we were talking about the functions that load up the structure for
 '''As you recall''', we last left off at the top_bump_thrds() function. And so we pick back up with it again; but this time on the '''''other''''' side, and ''calling'' it from the Bumpmaster demo's main():
 
 >main_bumpmaster.cpp snippet
-[code]// load a new container with catalog's Page 1 threads + posts; in bump-order
+```cpp
+// load a new container with catalog's Page 1 threads + posts; in bump-order
 auto const top_thrds = bump.top_bump_thrds(cat_json, thrd_lim, site, board);
 
 // cycle the top threads (& print their data)
@@ -2155,7 +2210,7 @@ for (auto const& t : top_thrds) {  //
          << setw(8) << setfill(' ') << p.id << "  :  " << p.date << "\n' "
          << p.msg << " '\n";
   }
-}[/code]
+}```
 This code takes that container object (we named ''top_thrds'' since it's about the Page One threads) and traverses each element in it, one-by-one, via that C++ range-for loop (each of these elements happen to be one of those ''Thread Structures'' we talked about). We name these simply as ''t'' (for thread). Such a terse name is OK for this context, since it's a small scope inside the loop, and it's also a good symmetry with ''p'' (for post, which we'll name later). 
 
 First thing we do is print out the thread struct's first 3 fields, ''id, subj, & msg'' along with a few little formatting tweaks. Next, we calculate the starting printout-post's index inside the thread. We do this b/c we just want to print the ''latest'' 5 posts to the terminal, not all of them. You might recognize that this is pretty much how a standard IB index page works. 
@@ -2164,7 +2219,8 @@ Anyway, to get the correct starting index for post printouts, we just subtract t
 
 Finally, we just print out the 5 post's 3 fields, ''id, date, & msg'', again with some little formatting tweaks. That's it, we're done with that thread printout. Lather, rinse, repeat for the next 9 threads. Then repeat the whole cycle for all the board listed in this 'open-ended' container of URI strings:
 
-[code]// container of various IB URI strings
+```cpp
+// container of various IB URI strings
 // -try other boards you like, Anon!  :^)
 // clang-format off
 vector<string> const board_uris{
@@ -2176,7 +2232,7 @@ vector<string> const board_uris{
     "https://late.city/late/",
     "https://anon.cafe/christian/",
 
-};[/code]
+};```
 
 Congrats Anon! Over the past three drops, we've created a handy multi-board offline text reader for IBs. It's both lightweight on resources and ''fast''. BTW, you may need to increase your terminal's output buffer size, since this could easily grow to thousands of lines of text if you add lots of boards into your list. Later we'll add what ''BUMP'' does to allow other, non-Lynxchan boards as well.
 
@@ -2187,7 +2243,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220312
+```cpp
+   v.220312
 ---------------
 -check Json validity on pull_json_retry() calls; bumpmaster
 -add pull_json_retry(); bumpmaster
@@ -2200,9 +2257,10 @@ Cheers.
 -add chk_dropsizes(); mailstop_util
 -add set_sz(), get_sz() wrappers; mailstop_util
 -add 'sz' field, Dropdata; mailstop_util
--mv to fs::path filenames; general[/code]
+-mv to fs::path filenames; general```
 >rw_bumpmaster-v220312.tar.xz.sha256sum
-[code]57018697c25c6f137505e71aed2fe4f7d88169e8e1fa02fc487713ab6316cee6 *rw_bumpmaster-v220312.tar.xz[/code]
+```cpp
+57018697c25c6f137505e71aed2fe4f7d88169e8e1fa02fc487713ab6316cee6 *rw_bumpmaster-v220312.tar.xz```
 >backup drop
 https://files.catbox.moe/9rrvst.7z
 
@@ -2234,7 +2292,8 @@ This spin we did a little cleanup on the console's output text display, and gave
 So, we have a new function in ''RW Bumpmaster'' for this drop '''fmt_msg()'''. Till now, we've simply let the terminal handle text wrapping (with predictable results.) If you look at a terminal all day this kind of thing is just par for the course and no big deal; you get used to it. But even so, it still would be nice to have slightly better formatted output. Therefore:
 
 >bumpmaster.cpp snippet
-[code]auto Bumpmaster_b::fmt_msg(std::string const& msg) -> std::string {
+```cpp
+auto Bumpmaster_b::fmt_msg(std::string const& msg) -> std::string {
   stringstream iss{msg}, oss{};
 
   for (string line; getline(iss, line);) {  // read lines in one at a time
@@ -2269,7 +2328,7 @@ So, we have a new function in ''RW Bumpmaster'' for this drop '''fmt_msg()'''. T
   res      = res.substr(0, res.size() - 1);
 
   return res;
-}[/code]
+}```
 This code first reads the JSON source message text passed in by the caller, then line-by-line reassembles it for the function's output. 'Why do this' you ask Anon? Good question! :^) For any lines that are under the width limit, they are just appended right back over to the result string. But for the lines that are ''over'' the width, they get some attention to wrap them around to fit.
 
 First we convert that line over to a stringstream ''liness''. Now, C++'s '''std::stringstream''' 's have a nice overload on the 'get from' operator ''>>'' **thanks for the name Bjarne!** such that it will parse on any white space when the target type is a '''std::string'''. It will also return a '''bool''' indicating if any content was in fact parsed out. Putting all that together allows us to write this rather elegant statement: ''while (liness >> word) { ... }''. Hard to get much cleaner than that tbh.
@@ -2280,16 +2339,18 @@ Our only concern as engineers is correctness & efficiency. Since these stringstr
 
 BTW, that ''msg_width_lim'' variable is a const for the class (set at '''100''' currently, but you can change it to w/e you want.)
 >bumpmaster.hpp snippet
-[code]inline const unsigned msg_width_lim{100};[/code]
+```cpp
+inline const unsigned msg_width_lim{100};```
 
 OK, so we have this handy new formatting function and now here's what the post data printout statement looks like:
 >main_bumpmaster.cpp snippet
-[code]cout << '\n'
+```cpp
+cout << '\n'
      << setw(33) << setfill(' ')  // prt posts data
      << "r " << (p_idx + 1)
      << "\n  ------------------------------------\n"
      << setw(8) << setfill(' ') << p.id << "  :  " << p.date << "\n' "
-     << bump.fmt_msg(p.msg) << " '\n";[/code]
+     << bump.fmt_msg(p.msg) << " '\n";```
 You might notice that new function call wrapping the ''p.msg'' 's output. Yep, that's the one.
 
 Well, it looks like some big project things are afoot here on /robowaifu/, lads. I hope you're all well-secured & ready for the ride! :^)
@@ -2299,15 +2360,17 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220319
+```cpp
+   v.220319
 ---------------
 -enable all try/catch blocks, 'try_X()' funcs; mailstop
 -add disp_err() utility func; dollnet
 -add msg_width_lim const var; bumpmaster
 -add fmt_msg(); bumpmaster
--begin Cooker; rw::meido[/code]
+-begin Cooker; rw::meido```
 >rw_bumpmaster-v220319.tar.xz.sha256sum
-[code]0b3cb26b114d967162b75588b926a6f40daf384d3d39f01cc6a26e3d63245804 *rw_bumpmaster-v220319.tar.xz[/code]
+```cpp
+0b3cb26b114d967162b75588b926a6f40daf384d3d39f01cc6a26e3d63245804 *rw_bumpmaster-v220319.tar.xz```
 >backup drop
 https://files.catbox.moe/p1qnqj.7z
 
@@ -2354,7 +2417,8 @@ If you want to learn the language itself, then I simply can't recommend a better
 If you actually care to learn, then I myself am probably a good resource. I can explain in as much detail as necessary probably just about anything with the language you might be wondering about. We can start simply by going through every.single.thing. for the code contained in this post (>>15656) until you (or anyone else who cares to ask for that matter) understand it clearly.
 
 For example, just to start at the beginning, is there anything in this line of code that you're even a little unclear about?
-[code]auto Bumpmaster_b::fmt_msg(std::string const& msg) -> std::string { ... }[/code]
+```cpp
+auto Bumpmaster_b::fmt_msg(std::string const& msg) -> std::string { ... }```
 If so, just ask. 
 
 Remember, we all need to try and find ways to encourage others to step up to be able to take over our roles at the drop of a hat. We owe that as leaders to the community at large.
@@ -2370,7 +2434,8 @@ Starting with this drop we'll be supporting multiple projects simultaneously, th
 '''RW Pandora''' So, the big splash for this drop is the addition of RW Pandora to the lineup. For now it's simply the basic skeleton, but it's ''already'' the straight beneficiary of all the work that has gone before and is immediately up to speed with the current stable, with full access to everything available so far.
 
 Here's the program's current diagnostic output on my box:
-[code]build/pandora
+```cpp
+build/pandora
 
  entering main()...
 
@@ -2392,14 +2457,15 @@ Here's the program's current diagnostic output on my box:
 
              pandora.graphicom() -        pandora_graphicom.13    	addr:    0x562e7861c5c0
 
- ...leaving main()[/code]
+ ...leaving main()```
 This is exactly as predicted for this stage of development, so yep good to go. 
 
 ===
 
 For anons who may be wondering where these things come from, let's dip into C++ ''class hierarchies'' a bit **again, be patient if you already know this stuff**. RW Pandora is an '''RW Arigato'''-class robowaifu, so it's part of that namespace and directly inherits from that class too:
 >pandora.hpp snippet
-[code]namespace rw::arigato {
+```cpp
+namespace rw::arigato {
 
 class Pandora_b : public Arigato {
  public:
@@ -2408,10 +2474,11 @@ class Pandora_b : public Arigato {
 };
 ...
 
-}  // namespace rw::arigato[/code]
+}  // namespace rw::arigato```
 That ': public Arigato' bit is what does the trick. Here's a portion of RW Arigato's code:
 >arigato.hpp snippet
-[code]class Arigato : public Arigato_b {
+```cpp
+class Arigato : public Arigato_b {
  public:
 ...
   inline auto animeyes() const -> Animeyes& { return animeyes_; }
@@ -2427,14 +2494,15 @@ That ': public Arigato' bit is what does the trick. Here's a portion of RW Ariga
   inline auto meido() const -> Meido& { return meido_; }
   inline auto shell() const -> Shell& { return shell_; }
 ...
-};[/code]
+};```
 Hopefully you spot the similarity of these member field's names for RW Arigato, to the diagnostic above for RW Pandora. Yep, that's where they all come from; ''pandora '''inherits''' them from arigato''. To pickup that ''RW Graphicom'' member, here's the declaration in the derived RW Pandora code:
-[code]class Pandora : public Pandora_b {
+```cpp
+class Pandora : public Pandora_b {
  public:
 ...
   inline auto graphicom() const -> Graphicom& { return graphicom_; }
 ...
-};[/code]
+};```
 That's it. Anon, that accounts for each item that currently is part of RW Pandora's declaration. This will naturally grow as development begins in earnest for it. Please explore the codebase, and ask any questions about things ITT, we'll be happy to respond.
 
 '''Notice:''' ''We'll be putting Caturday drops on hold through the month of April.'' All things being equal, the plan is to pick everything back up on May 7th, and we'll dive back into things full-charge with some code cleanups and reorganizations for ''RW Bumpmaster'' as we press in towards our first GUI code for the Foundations.
@@ -2446,15 +2514,17 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220326
+```cpp
+   v.220326
 ---------------
 -pandora gets member; graphicom
 -add 'pandora' decl/defn files; rw::arigato
 -add pandora build configs; meson.build
 -add 'main_pandora.cpp'
--begin Pandora demo project[/code]
+-begin Pandora demo project```
 >rw_foundations-v220326.tar.xz.sha256sum
-[code]8441a9dc9a67406767cf504a496d5a090e8ecd04b0c45495c14e223b85f152c0 *rw_foundations-v220326.tar.xz[/code]
+```cpp
+8441a9dc9a67406767cf504a496d5a090e8ecd04b0c45495c14e223b85f152c0 *rw_foundations-v220326.tar.xz```
 >backup drop
 https://files.catbox.moe/smc6ey.7z
 
@@ -2486,13 +2556,15 @@ https://en.cppreference.com/w/cpp/container/map
 
 But we need a way to locate it repeatedly, and that's where the string comes in: it's simply the ''IB's site name itself'' (eg, '''"alogs.space"'''), and works quite well as a map key. Therefore, within the base class ''Dolldrop_b'' we've added a map-type member field:
 >dolldrop.hpp snippet
-[code]map<string, curl_easy> site_conns_;[/code]
+```cpp
+map<string, curl_easy> site_conns_;```
 Notice the two items in those angle brackets: ''string'', and ''curl_easy'' ? The string type is the '''key''', and the curl_easy type is the '''value''' for this specific map.
 
 Since we ''always'' know the site's name for any dolldrop pull, we just use ''it'' in the search and get back a reference to the stored curl connection itself. We created a simple function that goes and finds that curl object inside the map (or makes a new one if needed) and returns it:
 
 >dolldrop.cpp snippet
-[code]auto Dolldrop::get_ib_curl(std::string const& uri) -> curl_easy {
+```cpp
+auto Dolldrop::get_ib_curl(std::string const& uri) -> curl_easy {
   auto const& [site_nm, board_nm] = parse_ib_uri(uri);
 
   // obtain the previous curl_easy obj for this site if found, else create new
@@ -2506,7 +2578,7 @@ Since we ''always'' know the site's name for any dolldrop pull, we just use ''it
   }
 
   return conn;
-}[/code]
+}```
 This code first parses out the site name to be used for the map lookup. The '''.at()''' member function is range-checked (safety, etc.) and throws if the element isn't in the map. We use this approach for the first phase of the lookup, b/c we don't want to actually instantiate a new curl_easy object until we need to.
 
 If the element isn't found inside the map, then a new one is created, and the '''[]''' member operator is used to insert it into the map (for the next time around). The function then returns the retrieved/created curl_easy object specified to that URI. That's all there is to it, and it's handy to use from wherever needed inside Dolldrop.
@@ -2518,7 +2590,8 @@ Cheers.
 '''==='''
 
 >version.log
-[code]   v.220507
+```cpp
+   v.220507
 ---------------
 -add curl connection-specified pull call-chains; dolldrop/dollnet
 -add get_curl() call-chain; dolldrop/dollnet
@@ -2536,9 +2609,10 @@ Cheers.
 -tmp clear main_bumpmaster.cpp code; using pageone as it's current dev focus
 -add 'main_pageone.cpp'
 -add pageone build configs; meson.build
--begin Pageone demo project[/code]
+-begin Pageone demo project```
 >rw_foundations-v220507.tar.xz.sha256sum
-[code]72dc81265529fe19e229e07baec4f3c64707fc41aaa92404eeb01c3e67036220 *rw_foundations-v220507.tar.xz[/code]
+```cpp
+72dc81265529fe19e229e07baec4f3c64707fc41aaa92404eeb01c3e67036220 *rw_foundations-v220507.tar.xz```
 >backup drop
 https://files.catbox.moe/siytza.7z
 
@@ -2677,7 +2751,8 @@ One of the initial hurdles a beginning programmer faces with C is understanding 
 Now the close relationship between the two languages, and in particular Bjarne Stroustrup's adamant insistence that C++ remain backwards compatible with C (at some cost), allows us to write code like this:
 
 >dolldrop.cpp snippet
-[code]/** Append a @c curl -specified memory block to a target string
+```cpp
+/** Append a @c curl -specified memory block to a target string
  *
  * Writes an array of @a num_elems count of elements, each one @a elem_sz in
  * size, from the block of memory pointed to by @a addr, out to the current
@@ -2709,7 +2784,7 @@ auto wrt_str_cb(Address const      addr,
   return mem_blk_sz;
 
   // https://en.cppreference.com/w/cpp/string/basic_string/append
-}[/code]
+}```
 I imagine a Pure C Anon shudders in utter disgust at such horrors. C++ strings! Lol please bear with us. :^) So w/o going too much into it, one of those 'weird' things you can do is write data incrementally out to a std::string variable, rather than a FILE stream. Pointers are literally the greatest invention of nerds. Remember those immovable 8 bits? Yep, '''''cheap pointer tricks''''' are ways to have fun and profit using nothing but bits.
 
 curl 'chunks' up data, and then calls an attached, user-definable, so-called 'callback' periodically to let you do w/e you want with that data. In this case, we're storing it into a string (which just so happens to be inside one of those 'open-ended containers' [std::vector] we spoke of earlier ITT). This allows us to read out the data from curl networking facility with safety and security that's rather more tricky when using straight C. ''__Particularly__'' with exceptional states (see that try/catch block?)
@@ -2723,7 +2798,8 @@ Until next time then, cheers.
 '''==='''
 
 >version.log
-[code]   v.220521
+```cpp
+   v.220521
 ---------------
 -optimize thread reads via 'pulled cats' find_if() filter; pageone, bumpmaster
 -add 'chk_thrds' flag, to optimize on thread checks; pageone, bumpmaster
@@ -2735,9 +2811,10 @@ Until next time then, cheers.
 -begin mv to parallel curl transfers, w/ partial error corrections
 -begin mv to rm 'curlcpp' library dependency
 -add 'show_prog' flag parm, various; dolldrop/dollnet
--disable dolldrop() public member func, external access unneeded; bumpmaster[/code]
+-disable dolldrop() public member func, external access unneeded; bumpmaster```
 >rw_foundations-v220521.tar.xz.sha256sum
-[code]65105c5804b89edd01bf92aaa0c7865c480aec4c1cf415b5637c335d0dba8b55 *rw_foundations-v220521.tar.xz[/code]
+```cpp
+65105c5804b89edd01bf92aaa0c7865c480aec4c1cf415b5637c335d0dba8b55 *rw_foundations-v220521.tar.xz```
 >backup drop
 https://files.catbox.moe/mugvk3.7z
 

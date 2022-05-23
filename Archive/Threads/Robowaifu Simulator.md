@@ -448,9 +448,10 @@ And the 25 mb reindeer statue material if you really want it: https://files.catb
 Original statue model from here: https://sketchfab.com/3d-models/reindeer-head-statue-c8099ccd38364f68b26bf552cc461f00
 
 I'm not really satisfied with the physics but it's better than nothing. The simulation just has to be useful enough to give AI an advantage before training in real life and a place for us to prototype ideas. I'll see how well it does once I finish the claw crane. Once that's working I'll train AI with hindsight experience replay to learn how to control it. I also found some helpful command line options for running simulations as fast as possible while using Pytorch in Godot without the headless server edition:
-[code]--disable-render-loop  Disable render loop so rendering only occurs when called explicitly from script.
+```cpp
+--disable-render-loop  Disable render loop so rendering only occurs when called explicitly from script.
 --fixed-fps <fps>      Force a fixed number of frames per second. This setting disables real-time synchronization.
---time-scale <scale>             Force time scale (higher values are faster, 1.0 is normal speed).[/code]
+--time-scale <scale>             Force time scale (higher values are faster, 1.0 is normal speed).```
 Although I'm thinking it'll be far easier and better to use Pybullet with all the extra features for robots without all the overhead of Godot. I feel Godot will be better for demos and releases than developing AI and running complex physics simulations.
 
 # 75
@@ -619,7 +620,8 @@ https://www.raylib.com/ might be interesting for simulators or virtual waifus. I
 # 100
 >>8925
 Thanks for the reminder Anon. Some other anons mentioned it here before, but I'd gotten so busy I'd forgotten about. You've reminded me about it now. Here's a cleaned-up version of his animation example code, looks pretty simple to use:
-[code]/*******************************************************************************
+```cpp
+/*******************************************************************************
  *
  *   raylib [models] example - Load 3d model with animations and play them
  *
@@ -745,7 +747,7 @@ int main(void) {
   //----------------------------------------------------------------------------
 
   return 0;
-}[/code]
+}```
 
 https://www.raylib.com/examples.html
 

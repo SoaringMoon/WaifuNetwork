@@ -26,7 +26,7 @@ If your bedleveling wheels are falling of while trying to get it right, then the
 Slic3r on Raspian:
 https://github.com/iot-salzburg/Slic3r
 Delete subfolder "local-lib" after unpacking in Slic3r folder
-I did  [code]export BOOST_DIR=./xs/src/boost[code] but I'm not sure if this was just unnecessary.
+I did  ```export BOOST_DIR=./xs/src/boost``` but I'm not sure if this was just unnecessary.
 sudo perl Build.PL NOT ./Build.PL
 sudo apt install libwx-perl
 sudo perl Build.PL --gui

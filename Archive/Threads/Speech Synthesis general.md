@@ -477,7 +477,8 @@ Done: https://gitlab.com/kokubunji/clipchan
 # 69
 >>5537
 >clipchan error
-[code]ModuleNotFoundError: No module named 'ass'[/code]
+```cpp
+ModuleNotFoundError: No module named 'ass'```
 >
 
 Apparently I need a Python dependency? The .ass file was extracted w/ ffmpeg.
@@ -509,9 +510,10 @@ sample clipchan results, btw. had to convert to .mp3 so I could post them here, 
 # 73
 >>5541
 Found the Dialogue Event that broke things (the middle one)
-[code]Dialogue: 0,0:01:31.87,0:01:33.95,Chobits Dialogue,Comment,0,0,0,,I'm gonna go to Tokyo!
+```cpp
+Dialogue: 0,0:01:31.87,0:01:33.95,Chobits Dialogue,Comment,0,0,0,,I'm gonna go to Tokyo!
 Dialogue: 0,0:01:48.87,0:01:55.88,Chobits OP JP,,0,0,0,,{\fad(400,900)\be1}{\k15\1c&HDF6B7B&}Fu{\k21}ta{\k22}ri {\k23\1c&H4E4FDE&}ga {\k44\1c&HDE8162&}ki{\k45}tto {\k22\1c&HA1CA5D&}de{\k23}a{\k23}e{\k24}ru {\k43\1c&H226FCD&}you{\k48}na {\k20\1c&H56CED9&}ma{\k45}hou {\k26\1c&H7D79D7&}wo {\k47\1c&HDA90CB&}ka{\k48}ke{\k152}te.
-Dialogue: 0,0:01:48.87,0:01:55.88,Chobits OP EN,,0,0,0,,{\fad(400,900)\be1}Casting a spell that will make sure they meet.[/code]
+Dialogue: 0,0:01:48.87,0:01:55.88,Chobits OP EN,,0,0,0,,{\fad(400,900)\be1}Casting a spell that will make sure they meet.```
 
 # 74
 >>5537
@@ -528,7 +530,8 @@ I'll try to sort out longer audio/subtitle clips of Chii's speech from all the e
 >>5541
 >>5544
 BTW, this is the name of the source file itself, just to be on the same page:
-[code]01. Chobits [BD 720p Hi10P AAC][dual-audio][kuchikirukia] [3DD90125].mkv[/code]
+```cpp
+01. Chobits [BD 720p Hi10P AAC][dual-audio][kuchikirukia] [3DD90125].mkv```
 
 The 'kuchikirukia' version seems to be the best quality one I've found over the years of the ''Chobits'' series, so I've just standardized on it.
 
@@ -543,10 +546,12 @@ Godspeed anon.
 
 # 78
 >>5539
-Whoops, forgot to add requirements.txt. Anyone setting it up now can just do: [code]pip install -r requirements.txt[/code]
+Whoops, forgot to add requirements.txt. Anyone setting it up now can just do: ```cpp
+pip install -r requirements.txt```
 
 >>5541
-I could output subtitles too long to a csv file or something. Long audio clips need to be manually split up anyway. It seems the offending line is the opening with all the formatting code. You should be able to filter the events it clips to only character dialogue with [code]--style "Chobits Dialogue"[/code] But there may be still rare cases where English subtitles go over the 255 character limit. I'll start with scrubbing the formatting tags so openings can be clipped too.
+I could output subtitles too long to a csv file or something. Long audio clips need to be manually split up anyway. It seems the offending line is the opening with all the formatting code. You should be able to filter the events it clips to only character dialogue with ```cpp
+--style "Chobits Dialogue"``` But there may be still rare cases where English subtitles go over the 255 character limit. I'll start with scrubbing the formatting tags so openings can be clipped too.
 
 Also it might be useful to keep the raw audio clips and parameters used to generate them. Later when we clean them up we could use that data to train an AI to automatically crop and prepare clips.
 
@@ -578,7 +583,8 @@ Ofc during the first episode her only words were cute variations of 'Chii'. :^)
 # 82
 >>5556
 BTW, it's humorous to simply
-[code]mpv *[/code]
+```cpp
+mpv *```
 from inside the clip extract directory. Kind of like 'watching' the show on fast forward.
 
 # 83
@@ -608,7 +614,8 @@ Great, thanks for the inspect flag and fixes. So, again, any way to specify the 
 # 86
 >>5559
 Haha, want an ASMR? create a playlist of all 28 Chii clips from ep01 and then
-[code]mpv --playlist=01_chii.pls --loop-playlist=inf[/code]
+```cpp
+mpv --playlist=01_chii.pls --loop-playlist=inf```
 
 # 87
 >>5560
@@ -664,9 +671,10 @@ Actually, I guess this is the simplest approach, but it breaks on me worse:
 My bad, I forgot to push my code before going to bed, but I think inspect should have still worked with ''-b 3''.
 
 I've updated debug mode ''-d'' to provide some more useful output, such as what it's running FFmpeg with. FFmpeg is getting an invalid argument list somehow. It may be due to your version of FFmpeg. Can you pull the latest version of Clipchan and try running these commands to see what they output now?
-[code]python ../clipchan.py -i 01.mkv -b 3 -d
+```cpp
+python ../clipchan.py -i 01.mkv -b 3 -d
 python ../clipchan.py 01.mkv -d
-ffmpeg -version[/code]
+ffmpeg -version```
 
 # 95
 >>5581
@@ -680,13 +688,16 @@ What a difference a day brings! :^)
 >>5581
 >Can you pull the latest version of Clipchan and try running these commands to see what they output now?
 Sure thing, here we go:
-[code]python ../clipchan.py -i 01.mkv -b 3 -d[/code]
+```cpp
+python ../clipchan.py -i 01.mkv -b 3 -d```
 > #1
 
-[code]python ../clipchan.py 01.mkv -d[/code]
+```cpp
+python ../clipchan.py 01.mkv -d```
 > #2
 
-[code]ffmpeg -version[/code]
+```cpp
+ffmpeg -version```
 > #3
 
 # 97
@@ -732,7 +743,8 @@ That sounds clever. Look forward to trying it out. Sounds like you're almost the
 >>5574
 > I noticed the recent version wasn't removing {} stuff again
 I found an explicit example of the newline char still being left in the filenames/dialogue text
-[code]Dialogue: 0,0:05:36.45,0:05:39.03,Chobits Dialogue,Comment,0,0,0,,{\i1}What did I say in front\Nof such a beautiful lady?[/code]
+```cpp
+Dialogue: 0,0:05:36.45,0:05:39.03,Chobits Dialogue,Comment,0,0,0,,{\i1}What did I say in front\Nof such a beautiful lady?```
 
 The '\N'
 
@@ -746,7 +758,8 @@ Automated clipping and normalization is almost done. I think after this I'll try
 
 >>5597
 Newlines are being removed from my subtitles. The only place they should appear is in the log file in debug mode. Try pulling the latest update and running the same command with ''-d'' and inspecting ''clipchan.log''. It will show the reformatted text <> unedited subtitle text, something like this:
-[code][249] 00:20:2.960-00:20:5.980 (0.0) The magma of our souls burns with a mighty flame <> The magma of our souls\Nburns with a mighty flame![/code]
+```cpp
+[249] 00:20:2.960-00:20:5.980 (0.0) The magma of our souls burns with a mighty flame <> The magma of our souls\Nburns with a mighty flame!```
 
 # 107
 >>5601
@@ -839,7 +852,8 @@ Past couple days have been hell tracking down strange bugs and trying to get thi
 
 ''--auto-clean'' normalizes, removes silence and resamples clips to prepare them for machine learning and has a success rate of about 98%. It gives warnings for which clips need further attention. Most of the time these lines aren't usable anyway since they contain overlapping audio or other strong background noise.
 
-Also added another tool for quickly captioning audio clips called ''filelist.py''. It goes through all the wave files in a folder and plays them, prompting you what the line should be. Hopefully it's pretty straightforward to use. You will need to install playsound to use it:[code]pip install playsound[/code]
+Also added another tool for quickly captioning audio clips called ''filelist.py''. It goes through all the wave files in a folder and plays them, prompting you what the line should be. Hopefully it's pretty straightforward to use. You will need to install playsound to use it:```cpp
+pip install playsound```
 
 With that, Clipchan is pretty much done and ready for waifu datamining. Enjoy!
 https://gitlab.com/kokubunji/clipchan
@@ -859,9 +873,10 @@ Even when I successfully installed TF1.4 on a RaspberryPi (Debian Buster-based, 
 
 # 123
 Here's as far as I've gotten to :
-[code]spleeter 1.4.0 requires museval==0.3.0, but you'll have museval 0.3.1 which is incompatible.
+```cpp
+spleeter 1.4.0 requires museval==0.3.0, but you'll have museval 0.3.1 which is incompatible.
 spleeter 1.4.0 requires pandas==0.25.1, but you'll have pandas 1.1.3 which is incompatible.
-spleeter 1.4.0 requires tensorflow==1.14.0, but you'll have tensorflow 2.3.1 which is incompatible.[/code]
+spleeter 1.4.0 requires tensorflow==1.14.0, but you'll have tensorflow 2.3.1 which is incompatible.```
 
 # 124
 >>5651
@@ -876,10 +891,12 @@ Figures. Downgrading is always a nightmare. I'll see if I can port it to Tensorf
 
 # 126
 >>5677
-It seems just a few days ago Spleeter 2.0 was released on PyPI that's compatible with Python 3.8:[code]pip install spleeter[/code]
-I created a separate branch for Spleeter 2.0 and Tensorflow 2.3.0:[code]cd clipchan
+It seems just a few days ago Spleeter 2.0 was released on PyPI that's compatible with Python 3.8:```cpp
+pip install spleeter```
+I created a separate branch for Spleeter 2.0 and Tensorflow 2.3.0:```cpp
+cd clipchan
 git checkout python3.8
-pip install -r requirements.txt[/code]
+pip install -r requirements.txt```
 I've tested that it's compatible with the Spleeter 1.4 pretrained models. It seems people have already ported Tacotron2 and WaveGlow to Tensorflow 2 so I'll work on creating a Python 3.8 branch for WaifuSynth too.
 
 # 127
@@ -889,7 +906,8 @@ Great news! I'll give it a shot tonight.
 # 128
 >>5682
 BTW (OT) what bearing is the advice to use the '-m' flag with ''pip''? As in
-[code]pip -m install foobar[/code]
+```cpp
+pip -m install foobar```
 I've seen that advice (and examples) often, but I don't think I understand what difference it makes yet.
 
 # 129
@@ -906,14 +924,16 @@ Apparently, you can specify a version number (but guys recommend against this ap
 > #1
 
 I'm not sure if this means everything went ok now with
-[code]pip install spleeter[/code]
+```cpp
+pip install spleeter```
 > #2
 
 but I'll push ahead with checking out the 3.8 branch of clipchan...
 
 # 131
 Don't forget to 
-[code]git fetch[/code]
+```cpp
+git fetch```
 first before checkout.
 > #1
 
@@ -927,7 +947,8 @@ I'll give it a test in a while and see how ''--auto-clean'' goes. Any specific e
 
 # 132
 Here's the command I used:
-[code]python ../clipchan.py 01.mkv --output-path clips/en/01 --style "Chobits Dialogue" -b 3 --spleeter --auto-clean --track 2[/code]
+```cpp
+python ../clipchan.py 01.mkv --output-path clips/en/01 --style "Chobits Dialogue" -b 3 --spleeter --auto-clean --track 2```
 
 Which produced ~400 .wav files for me
 > #1
@@ -944,7 +965,8 @@ Also, I'm curious why ''filelist.txt'' is being written in the working directory
 
 # 134
 >>5686
-[code]python -m pip[/code] ''-m'' tells python to run a module, in this case pip, from that specific python installation.
+```cpp
+python -m pip``` ''-m'' tells python to run a module, in this case pip, from that specific python installation.
 
 >>5687
 Specifying certain versions leads to unnecessary dependency hell. Unfortunately, dependency hell is the reality because all these different machine learning libraries require specific versions or they break.
@@ -953,14 +975,16 @@ Specifying certain versions leads to unnecessary dependency hell. Unfortunately,
 Thanks, fixed the typo. Most of the flags are there to give some flexibility and don't need to be changed. It should work great with the default settings.
 
 >>5690
-If the log is empty I assume Spleeter failed to start. What happens when you run Spleeter by itself?[code]python -m spleeter separate -i clips/en/01/*.wav -o /tmp -n filename[/code]
+If the log is empty I assume Spleeter failed to start. What happens when you run Spleeter by itself?```cpp
+python -m spleeter separate -i clips/en/01/*.wav -o /tmp -n filename```
 
 >>5691
 You can change where filelist.txt is written to with ''--filelist-output-path'' / ''-l'' or name it to something else like ep1_filelist.txt with ''--filelist'' / ''-f''
 
 # 135
 Hmm, a surprise. I deleted all the output .wav files from the previous effort and decided to try again w/o the ''--spleeter'' flag
-[code]python ../clipchan.py 01.mkv --output-path clips/en/01 --style "Chobits Dialogue" -b 3 --auto-clean --track 2[/code]
+```cpp
+python ../clipchan.py 01.mkv --output-path clips/en/01 --style "Chobits Dialogue" -b 3 --auto-clean --track 2```
 but had the same outcome?
 >
 
@@ -1432,16 +1456,18 @@ Those aren't git repositories Anon. Browse there and read the pages.
 >>9163
 >FastPitch: https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch
 Hmm, the only way I can actually get a clone to work is by going up in the tree a bit?
-[code]git clone --recursive https://github.com/NVIDIA/DeepLearningExamples.git[/code]
+```cpp
+git clone --recursive https://github.com/NVIDIA/DeepLearningExamples.git```
 
 # 210
 >>9165
 Git 2.25.0 includes a new experimental sparse-checkout command:
 
-[code]git clone --filter=blob:none --sparse https://github.com/NVIDIA/DeepLearningExamples.git
+```cpp
+git clone --filter=blob:none --sparse https://github.com/NVIDIA/DeepLearningExamples.git
 cd DeepLearningExamples
 git sparse-checkout init --cone
-git sparse-checkout add PyTorch/SpeechSynthesis/FastPitch[/code]
+git sparse-checkout add PyTorch/SpeechSynthesis/FastPitch```
 
 # 211
 >>9150
@@ -1472,7 +1498,8 @@ Facebook made a great speech generator, circa a year ago: https://ai.facebook.co
 >>10393
 >Something like this might be something very useful to us, if we could run our own knock-off on a small SBC inside the robowaifu.
 It certainly would, if we can somehow obtain access to it or reproduce it, Anon. Thanks for the heads-up, and for the video link. It really helps to get the points across well for us.
-[code]youtube-dl --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/watch?v=XvDzZwoQFcU[/code]
+```cpp
+youtube-dl --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/watch?v=XvDzZwoQFcU```
 
 # 218
 not sure if this has been posted before, but I came across this and immediately thought of some of the todo list for clipchan. https://speechbrain.github.io/index.html

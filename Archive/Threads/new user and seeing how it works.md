@@ -11,7 +11,8 @@ Welcome to /robowaifu/, where we work to make cyberpunk and anime real!
 
 The help section will answer a lot of your questions about how the board works quickest, anon. It's the little dark blue question mark at top left of the centre of this page. Next to all the other little symbols where it says 'Home', 'Boards' and 'Overboard'. 
 
-If you want to post code then you have to write [code] blah, blah, blah your code here [forward slash code].
+If you want to post code then you have to write ```cpp
+ blah, blah, blah your code here [forward slash code].
 
 # 3
 >>7650
@@ -100,7 +101,8 @@ I only saw one or so here, during the last few months - Elfdroid Sophie. All oth
 >>7726
 >I think I heard about that one before?
 Indeed you have.
-[code](q to quit)  enter search phrase:   mycelium
+```cpp
+(q to quit)  enter search phrase:   mycelium
  term:  mycelium                     count:  10
 num terms found:  1
 
@@ -116,7 +118,7 @@ Waifu Materials                   -> https://alogs.theГунтretort.com/robowai
 new user and seeing how it works  -> https://alogs.theГунтretort.com/robowaifu/res/7650.html#7721
    "                              -> https://alogs.theГунтretort.com/robowaifu/res/7650.html#7726
    search took:  135us
- mycelium   -   10  results[/code]
+ mycelium   -   10  results```
 
 >>3058
 >>3063

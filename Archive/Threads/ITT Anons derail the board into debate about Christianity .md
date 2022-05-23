@@ -75,7 +75,7 @@ I meant more inventing something new. I don't know. It's still very impressive.
 >Again, what are the alternatives, just sit around and hope it will all work out?
 Be pragmatic and focus only on what personally interests you. Talking poltics only attracts nutcases who ramble about protocols and satan. Is there anything good about that? I'm I the one going crazy? What drew me here was the seeming lack of that and now I feel somewhat responsible for bringing it here. You can choose to not have that and be better off.
 
-[spoiler]It's both unpleasant and pointless. Let's get serious, nobody is poisoning crops or blowing up government buildings. I know nobody is actually going to do that either because they're not really serious.[/spoiler]
+%%It's both unpleasant and pointless. Let's get serious, nobody is poisoning crops or blowing up government buildings. I know nobody is actually going to do that either because they're not really serious.%%
 
 # 13
 >>2069
@@ -446,7 +446,8 @@ Sure. I've got next to nothing planned after the semester. How much of a program
 # 62
 >>2125
 No real programming is ''required'' (after all this is a way for business managers to communicate clearly with developers--historically a real challenge heh), it certainly would help a lot if you can code at least well enough yourself to begin to understand other people's code (I use C++). You just need to learn to write stuff that looks just like this in form:
-[code]SCENARIO("Power off tests", "[power_button]")
+```cpp
+SCENARIO("Power off tests", "[power_button]")
 {
   GIVEN("the power is off")
   {
@@ -499,13 +500,14 @@ SCENARIO("Power on tests", "[power_button]")
       }
     }
   }
-}[/code]
+}```
 
 also:
 https://dannorth.net/introducing-bdd/
 
 Here's a simple template that describes some small, achievable goal:
-[code]BDD-style test cases
+```cpp
+BDD-style test cases
 In addition to Catch's take on the classic style of test cases, Catch supports an alternative syntax that allow tests to be written as "executable specifications" (one of the early goals of Behaviour Driven Development). This set of macros map on to TEST_CASEs and SECTIONs, with a little internal support to make them smoother to work with.
 
 SCENARIO( scenario name [, tags ] )
@@ -525,18 +527,20 @@ AND_GIVEN was introduced in Catch 2.4.0.
 
 When any of these macros are used the console reporter recognises them and formats the test case header such that the Givens, Whens and Thens are aligned to aid readability.
 
-Other than the additional prefixes and the formatting in the console reporter these macros behave exactly as TEST_CASEs and SECTIONs. As such there is nothing enforcing the correct sequencing of these macros - that's up to the programmer![/code]
+Other than the additional prefixes and the formatting in the console reporter these macros behave exactly as TEST_CASEs and SECTIONs. As such there is nothing enforcing the correct sequencing of these macros - that's up to the programmer!```
 https://github.com/catchorg/Catch2/blob/master/docs/test-cases-and-sections.md#bdd-style-test-cases
 
 It's really just a specified way to make statements that assert characteristics of your system. But because they are a well-defined subset, they are fairly easy to translate into actual working code. And when the notion is flatly preposterous under the current scenario
-[code]GIVEN( I want a robowaifu that is conscious and sentient, costing no more than one dollar )
+```cpp
+GIVEN( I want a robowaifu that is conscious and sentient, costing no more than one dollar )
 WHEN( I make a really big fuss about it on the Internet )
-THEN( surely Anon will deliver )[/code]
+THEN( surely Anon will deliver )```
 it becomes pretty patently obvious even to non-technical users why the scenario fails.
 
 # 63
 I guess I should add that you must fashion test assertions that are painfully low-level and seemingly senseless to a casual onlooker. For example in this scenario
-[code]SCENARIO("Power off tests", "[power_button]")
+```cpp
+SCENARIO("Power off tests", "[power_button]")
 {
   GIVEN("the power is off")
   {
@@ -560,7 +564,7 @@ I guess I should add that you must fashion test assertions that are painfully lo
       }
     }
   }
-}[/code]
+}```
 
 Notice that you are actually asserting that when ''nothing happens'', then ''the power is still off''. Seemingly stupid points to make like this are actually important because a) we're dealing with mindless collections of computers, circuits, motors, hardware &tc., and b) '''shit happens'''. The more complex a system becomes, the more important it becomes to ensure even the most inane minutiae are looked after automatically by the system under test.
 
@@ -1140,7 +1144,7 @@ would make a great video game plot btw
 I mean I understand the danger of putting your consciousness inside a computer or machine, the possibility that a bad actor could just leave you in a permanent state of torment, but that's our paranoid brains working out the worst possible situation. Its reasonable to assume we'd have numerous safeguards and failsafes against such a thing happening and while I'm personally against retreating into "virtual worlds" - if given a choice between aging and dying and having a way to instead slowly replace or augment myself, I would. But I wouldn't do that while I was still young or reasonably healthy, I would try to keep that as long as possible (and that's just a personal preference). Age and life extension are important because of how much wisdom is lost due to our short lifespans we spend too large a % in a tempermental and immature state and that's why we don't get very far civilizationally. If we could fix that, it would be a huge leg up toward a post Kardishev destiny
 
 # 141
-and of course this relates too to how much time and energy are wasted on the pursuit of [spoiler]foids [/spoiler] which could also be put toward that end if R/W of a benchmark quality were readily available as companions
+and of course this relates too to how much time and energy are wasted on the pursuit of %%foids %% which could also be put toward that end if R/W of a benchmark quality were readily available as companions
 
 # 142
 >>12340

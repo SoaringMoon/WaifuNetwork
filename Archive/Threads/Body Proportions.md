@@ -11,7 +11,8 @@ I don't understand why you are implying that robowaifus should be supposed to lo
 # 4
 >>14388
 >Any thoughts or resources on the subject would be appreciated.
-[code]waifusearch>  body proportions OR form factors
+```cpp
+waifusearch>  body proportions OR form factors
 
                   ORDERED:
                   ========
@@ -38,7 +39,7 @@ Work on my Elfdroid Sophie         >>8074      "
 Elfdroid Sophie Dev Thread 2       >>10013     " 
 Body Proportions                   >>14372     " 
 
-' body proportions | form factors '  [10 : 7] = 17 results[/code]
+' body proportions | form factors '  [10 : 7] = 17 results```
 
 # 5
 >>14388

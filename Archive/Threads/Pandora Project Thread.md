@@ -482,11 +482,13 @@ Sorry, I'm not your man. Not doing much by way of 3D printing myself yet. We ''d
 Quick question AllieDev. Do you have a specific preference for the name of the project in the code? 
 
 We've been pretty much universally using the form of 
-[code]RW Projectname[/code], such as 
+```cpp
+RW Projectname```, such as 
 '''''RW Sumomo''''' and '''''RW Bumpmaster'''''.
 
 Following this form would naturally result in
-[code]RW Pandora[/code] Now that's certainly not some kind of a necessity, it's simply a uniform idiom we've been using all along.
+```cpp
+RW Pandora``` Now that's certainly not some kind of a necessity, it's simply a uniform idiom we've been using all along.
 
 If you have a particular preference for how to specify your project's name please let me know thanks.
 
@@ -1127,7 +1129,8 @@ As far as specifics relating to our software goals go, we're already working tow
 
 Longer term, Arigato has many different capability goals on tap. Here's the current listing of member classes:
 >arigato.hpp snippet
-[code]  inline auto animeyes() const -> Animeyes& { return animeyes_; }
+```cpp
+  inline auto animeyes() const -> Animeyes& { return animeyes_; }
   inline auto atashi() const -> Atashi& { return atashi_; }
   inline auto bones() const -> Bones& { return bones_; }
   inline auto curator() const -> Curator& { return curator_; }
@@ -1138,7 +1141,7 @@ Longer term, Arigato has many different capability goals on tap. Here's the curr
   inline auto hand() const -> Hand& { return hand_; }
   inline auto hearsay() const -> Hearsay& { return hearsay_; }
   inline auto meido() const -> Meido& { return meido_; }
-  inline auto shell() const -> Shell& { return shell_; }[/code]
+  inline auto shell() const -> Shell& { return shell_; }```
 Without digging in too deeply in this one post, hopefully RW Arigato's basic member classes' brief descriptions help clarify the overview a bit for you:
 ''RW Animeyes'' - '''"Vision & Object Detection Library"'''
 ''RW Atashi'' - '''"Cognition, Self, Personification, and 'Theory of Mind' Library"'''

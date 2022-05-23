@@ -162,31 +162,36 @@ I'm writing in C++ not C at the moment, and I'm well aware they are different wo
 
 So, the FLTK has the notion of a window, whose signature is this (I'll use the double-buffered version as the example here):
 
-[code]Fl_Double_Window(int X, int Y, int W, int H, const char *l = 0)[/code]
+```cpp
+Fl_Double_Window(int X, int Y, int W, int H, const char *l = 0)```
 In practice, constructing one of these windows looks basically like this in C++:
 
-[code]Fl_Double_Window foo_win{100, 100, 600, 400,"foo"};[/code]
+```cpp
+Fl_Double_Window foo_win{100, 100, 600, 400,"foo"};```
 Not too uncommon, but if you are a newb unfamiliar it's possible you'd mix up your X for your W, or your Y for your H. Heck, even an experienced dev might do this. Since these four ambiguous ints are all about a single '''idea''' namely, a ''rectangle'', a more solid approach would be to encapsulate them together as such. Further, since the X & Y are really the ''origin point'' for the rectangle shape, they present a second good opportunity for encapsulation together into a point.
 
 Now the window constructor can just talk about it's rectangle and the window title. C++ makes such a thing very simple via inheritance and delegating constructors. If I create a Point and Rect class first, then I can inherit from the base FLTK class into my own Window class like this:
 
-[code]class Window : public Fl_Double_Window
+```cpp
+class Window : public Fl_Double_Window
 {
 public:
   Window(const Rect& rect, const char* title)
       : Fl_Double_Window{rect.origin.x, rect.origin.y, rect.w, rect.h, title} {}
-};[/code]
+};```
 Now when creating a window, what I need to pass as args is a ''Rect'' and a title string. I unpack the Rectangle in the delegating constructor, passing that information on to the base Fl_Double_Window class. While this requires some extra groundwork (three new classes), I think it's clearer in it's meaning at the caller than having 4 unnamed & ambiguous ints as arguments (even if it increases the actual text length at the caller).
 
 Further, ambiguity can be significantly reduced at the calling site by using ''designated initializers'' which specify precisely what values belong to what parameters. And robustness can be enhanced by using inline construction for the statement, which effectively guarantees limiting the scope of the variables to just the construction. Combining these ideas, the resulting call now looks like this:
 
-[code]Window window{
+```cpp
+Window window{
       .rect  = Rect{.origin = Point{.x = 100, .y = 100}, .w = 600, .h = 400},
-      .title = "Rect designated inits ctor"};[/code]      
+      .title = "Rect designated inits ctor"};```      
 Definitely wordier, but dramatically improved in terms of maintenance and overall reliability IMO.      
 
 Here's the entire working example that puts it all together Anon:
-[code]#include <FL/Fl.H>
+```cpp
+#include <FL/Fl.H>
 #include <FL/Fl_Double_Window.H>
 
 struct Point
@@ -224,13 +229,14 @@ int main() {
   window.show();
 
   return Fl::run();
-}[/code]
+}```
 
 # 15
 >>4645
 One other thing I neglected to specifically point out, notice how using nested encapsulation makes the the delegating constructor arguments entirely self-documenting--no comments needed whatsoever.
 
-[code]Fl_Double_Window{rect.origin.x, rect.origin.y, rect.w, rect.h, title}[/code]
+```cpp
+Fl_Double_Window{rect.origin.x, rect.origin.y, rect.w, rect.h, title}```
 
 # 16
 >>4646
@@ -246,7 +252,9 @@ How do I post code btw? The julay page doesn't show how.
 Thanks! Inheritance should be used, not abused. If it doesn't increase clarity at the caller, or bring some other needed improvement then don't use it is my advice.
 
 >How do I post code btw?
-[code][code] ... [/code][/code]
+```cpp
+```cpp
+ ... ``````
 
 You put the code between to bracket tags with 'code' in them, one opening (just the brackets), and one closing (with a leading slash).
 

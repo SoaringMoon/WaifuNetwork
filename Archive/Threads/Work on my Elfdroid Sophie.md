@@ -333,7 +333,8 @@ https://mega.nz/folder/lj5iUYYY#Zz5z6eBy7zKDmIdpZP2zNA
 # 61
 Got the jaw of my robowaifu moving by purchasing an arduino sound sensor and a cheap usb stereo speaker.The tricky part was figuring out how to get her jaw microservo to move in response to sound, but it can be accomplished using the following Arduino IDE code (copied straight from the .ino file):
 
-[code]#include <Servo.h>
+```cpp
+#include <Servo.h>
 Servo myservo;
 /*
   LED1 should be lit, showing power. LED2 indicates sound input, and the sensitivity is adjusted by potentiometer.
@@ -383,7 +384,7 @@ void loop(){
   }
   
   delay(25);                  // Slight pause so that we don't overwhelm the serial interface
-}[/code]
+}```
 This is about as expedient a solution as I could find. Prior to this I was considering purchasing a Picotalk controller, but they cost $80+shipping. Whereas a micro-servo, sound sensor and Elegoo Mega 2560 (Arduino clone) costs as little as $20 and can be used in combination with many other devices (including a servo shield to drive six or seven other servos). I am currently in the process of designing a 'voice box' for these parts to fit inside, which will have a speaker-cone to improve functionality (hopefully I won't have to hold the sound sensor 5mm away from the speaker every time I want her jaw to move with her speech).
 
 >===
@@ -499,7 +500,8 @@ I added a bit of simple Python code so the chatbot can greet you in different wa
 
 # 81
 >>6658
-[code]import aiml
+```cpp
+import aiml
 import datetime
 import speech_recognition as sr
 import pyttsx3
@@ -584,7 +586,7 @@ while True:
      # have Sophie say the response
      engine.say(sophies_response)
      print (sophies_response)
-     engine.runAndWait()[/code]
+     engine.runAndWait()```
 
 # 82
 >>6659
@@ -1015,7 +1017,7 @@ We can't properly do w/o a good one anon.
 
 # 137
 >>7502
-[spoiler]Ass integrity can not be compromised.[/spoiler] kek. I'm glad you found a place to use those servos. She might be able to move up and down while using her hand to prevent herself from falling. It this point it's all experimental anyways. Legs are important for their own sake. Posing, or turning herself around on a sofa or bed would alone be worth it.
+%%Ass integrity can not be compromised.%% kek. I'm glad you found a place to use those servos. She might be able to move up and down while using her hand to prevent herself from falling. It this point it's all experimental anyways. Legs are important for their own sake. Posing, or turning herself around on a sofa or bed would alone be worth it.
 
 # 138
 >>7504
@@ -1120,7 +1122,7 @@ You forgot: Face and thighs,. Ugly male hands would also be a turnoff. Feet are 
 >>7552
 I'm pretty sure that feet are third place behind ass and tits in terms of sexually enjoyed body parts that are not primary sex organs. A pretty face is about as much of a given as a robowaifu having a vagina. It's why I didn't list vagina either. Never talked to anyone with a hand fetish, even online on anonymous imageboards where people would shamelessly admit such a thing. "Ugly male x would be a turnoff" can be said about anything as well. The entire thing needs to look feminine.
 
-The point is, straight men like a pretty face and a vagina 100% of the time. In terms of other stuff that men like, ass, tits, and feet are top three. Probably in that order if I had to guess. [spoiler]Foot fetish is common as fuck.[/spoiler]
+The point is, straight men like a pretty face and a vagina 100% of the time. In terms of other stuff that men like, ass, tits, and feet are top three. Probably in that order if I had to guess. %%Foot fetish is common as fuck.%%
 
 # 157
 >>7551
@@ -1140,7 +1142,7 @@ space the sole a bit so it can absorb shocks from walking
 >>7556
 Feet are the most common fetish. Ass and tits are not considered a fetish because they're considered secondary sex characteristics. One can make the argument this isn't really true about ass since men have those as well but whatever. According to some 2006 internet study 16% of men have a foot fetish. According to a 2017 Belgian survey 17% of men have one.
 
-Every fifth anon you talk to probably has a foot fetish. Also it's just going to look wrong if the entire body is aiming to have good anatomy and the feet are webbed and look like flippers or something. I rest my case. [spoiler]also "lel foot fetish confirm" is not an argument[/spoiler]
+Every fifth anon you talk to probably has a foot fetish. Also it's just going to look wrong if the entire body is aiming to have good anatomy and the feet are webbed and look like flippers or something. I rest my case. %%also "lel foot fetish confirm" is not an argument%%
 
 # 161
 >>7558
@@ -1158,7 +1160,7 @@ Of course, I will make another version of the foot with some cute little toes ev
 # 162
 >>7562
 >Of course, I will make another version of the foot with some cute little toes eventually
-[spoiler]thanks[/spoiler]
+%%thanks%%
 Keep up the good work
 
 # 163
@@ -1458,7 +1460,7 @@ No replacing arms and legs with different metal versions. No turning your robowa
 
 # 201
 >>7894
-Lol, this is were we are now. Great. In this amazing old Bladerunner PC Game it was possible to end it with getting away together with [spoiler]the android girl which looks like a 14yr old teen, and they didn't hint at "you would look at her like a daughter..."[/spoiler]. Now they make even artificial women look a bit older and probably being "strong and independent". I don't mind the fembots looking like humans, but please let us have them quite young and pleasant looking. Why would some joy toy bot in the future have a foamy skin like the one in >>7894? Does everything need to look a bit ugly now? Her hands and head also look to big...
+Lol, this is were we are now. Great. In this amazing old Bladerunner PC Game it was possible to end it with getting away together with %%the android girl which looks like a 14yr old teen, and they didn't hint at "you would look at her like a daughter..."%%. Now they make even artificial women look a bit older and probably being "strong and independent". I don't mind the fembots looking like humans, but please let us have them quite young and pleasant looking. Why would some joy toy bot in the future have a foamy skin like the one in >>7894? Does everything need to look a bit ugly now? Her hands and head also look to big...
 
 >>7895
 They were busy discussing all the gender modifications requested by Twitter and friends, so I guess there was no time left.
@@ -1712,7 +1714,7 @@ I didn't intend to go off-topic in your thread, OP. My apologies to everyone. Le
 # 239
 >>8074
 Sorry, but in this short comments is so much wrong, that I can't resist, even if goes OT: You called her an Elfdroid and gave her pointy ears. Just wondering why you now want to use a adult woman as pattern? Her face is rather angular, which doesn't look very cute, for example. Your pattern generally doesn't strike me as a cute elf. Also, I would consider to make her thighs a bit longer than the ones of a real woman and maybe the abdomen a bit thinner (wasp-like). No need to be too realistic.
-Then, since I'm German, I really wondered about what "Meisterrennens" could mean. I was very confused where such a word could come from, because it's makes no sense at all. Only when writing this comment I thought what you could have meant coming from English. OMG: "Masterrace"! Okay. You realize that race can also mean a race between cars, people or horses? Well, you did it, a compound word where each part is wrong. :) "Meister" not so much, since it can means something like master, but rather being used as master of some skill. However, "Rasse" is the word for that kind of  race. "Rennen" is the other kind of race, so "Herrenrasse" is the term you were searching for. [spoiler](btw, for all I know it wasn't used for Germans by the Nazis, but the Nazis wanted to create one by breeding ... and the term Aryan might also be overused a lot by people fantasizing about the Nazis)[/spoiler]
+Then, since I'm German, I really wondered about what "Meisterrennens" could mean. I was very confused where such a word could come from, because it's makes no sense at all. Only when writing this comment I thought what you could have meant coming from English. OMG: "Masterrace"! Okay. You realize that race can also mean a race between cars, people or horses? Well, you did it, a compound word where each part is wrong. :) "Meister" not so much, since it can means something like master, but rather being used as master of some skill. However, "Rasse" is the word for that kind of  race. "Rennen" is the other kind of race, so "Herrenrasse" is the term you were searching for. %%(btw, for all I know it wasn't used for Germans by the Nazis, but the Nazis wanted to create one by breeding ... and the term Aryan might also be overused a lot by people fantasizing about the Nazis)%%
 
 # 240
 >>8109
@@ -2260,7 +2262,8 @@ At the moment I'm a ways off six-wheel drive - just disassembled an old RC car I
 >How are you controlling the gestures? 
 Yes, I have them stored as a simple Arduino sketch at the moment running off my Pololu Mini Maestro servo controller:
 
-[code]#include <PololuMaestro.h>
+```cpp
+#include <PololuMaestro.h>
 
 #ifdef SERIAL_PORT_HARDWARE_OPEN
   #define maestroSerial SERIAL_PORT_HARDWARE_OPEN
@@ -2318,7 +2321,7 @@ void loop() {
   maestro.setSpeed(10,25); //set speed of right elbow
   maestro.setAcceleration(10,5); //set acceleration of right elbow
   maestro.setTarget(10, 4500); //set target of right elbow to 1125us
-  delay (3000); [/code]
+  delay (3000); ```
 
 As you can see, I am yet to move past the old delay function. And delay stops the rest of the program while it is...well...delaying! Which means unless I run two separate programs on two different Arduinos, Sophie will be limited to autonomously moving only one joint at a time (I can take over and simultaneously puppeteer a few joints as well, but they aren't moving autonomously).
 
@@ -2336,11 +2339,13 @@ Looks like you already have C programming knowledge from your work w/ Maestro bo
 I'd say you might want to set up some defines for the channel numbers, and that way your code would both read more naturally, and you wouldn't need as wordy comments.
 
 For example, put these defines at the top of your code:
-[code]#define l_wrist 18
-#define r_elbow 10[/code]
+```cpp
+#define l_wrist 18
+#define r_elbow 10```
 
 Then your appropriate code sections could read thus:
-[code]  maestro.setSpeed(l_wrist, 25); 
+```cpp
+  maestro.setSpeed(l_wrist, 25); 
   maestro.setAcceleration(l_wrist, 5); 
   maestro.setTarget(l_wrist, 8000);  // 2000us
   delay (3000);
@@ -2348,7 +2353,7 @@ Then your appropriate code sections could read thus:
   maestro.setSpeed(r_elbow, 25); 
   maestro.setAcceleration(r_elbow, 5); 
   maestro.setTarget(r_elbow, 4500); // 1125us
-  delay (3000);[/code]
+  delay (3000);```
 
 Regardless, you're making great progress Anon, and it's nice to see Sophie's parts moving about now!
 
@@ -2358,7 +2363,8 @@ Regardless, you're making great progress Anon, and it's nice to see Sophie's par
 BTW, you can also take advantage of the fact that all the control sequences have the same three steps. Just create a new function that performs these three steps for you (here, '''set_joint()''' ). Then you only have to pass the correct values into it, and your code can be more compact (thus easier to read). You could also go ahead and define a standard delay as well, since each time it's identical.
 
 You might write it this way Anon:
-[code]#include <PololuMaestro.h>
+```cpp
+#include <PololuMaestro.h>
 
 #ifdef SERIAL_PORT_HARDWARE_OPEN
   #define maestroSerial SERIAL_PORT_HARDWARE_OPEN
@@ -2435,7 +2441,7 @@ void loop() {
   
   // (add all the rest of the commands here...)
   
-}[/code]
+}```
 
 # 327
 >>8907
@@ -2466,10 +2472,12 @@ https://www.youtube.com/watch?v=MKqQPTEXJpI[Embed]
 It's actually a basic part of what professional engineers strive for in their work, because it makes dealing with complexity easier to deal with.
 
 So, here's another bit on that topic. Notice how the speed and acceleration (25,5) are the same for each control statement? Since that's the case, you can create a couple more defines:
-[code]#define std_speed 25
-#define std_accel 5[/code]
+```cpp
+#define std_speed 25
+#define std_accel 5```
 and then use them to simplify set_joint()'s signature by just using them directly inside the function's body. BTW, this also reduces the arguments needed at each of the calling statements. So, now you could now write the ''set_joint()'' and ''loop()'' functions to look like this instead:
-[code]// ...
+```cpp
+// ...
 
 // Given a joint's id, set it's target on MiniMaestro. The standard
 // speed and acceleration settings are used.
@@ -2518,7 +2526,7 @@ void loop() {
   
   // (add all the rest of the commands here...)
   
-}[/code]
+}```
 Starting to look a lot simpler inside the ''loop()'' function, huh? But guess what it's performing __exactly__ the same control steps as your original code! >>8907 That's one of the powers of writing custom functions; they make your code easier to reason about and to maintain afterwards. :^)
 
 # 330
@@ -2534,12 +2542,14 @@ So one thing that's still going on here relates to the comments associated with 
 It may be surprising, but the literal best comments are the ones you never have to write. The primary issue is that in the future (when you change the code around later) comments can be overlooked. They can easily get out of sync with what the real code itself is actually doing, and this is definitely worse than having no comments in the first place. ''Especially'' if you haven't looked at your code in a long time (or for a newcomer looking at it the first time) it can be quite confusing.
 
 What's a much better approach is to state intent clearly and directly in the code itself. When it's done well, the comments become unnecessary for that code segment because it's already patently obvious what's going on. Rather than using those raw 'magic number' values directly in the control code itself, instead you could define them as easily-recognizable target mnemonic names:
-[code]#define closed 4000
+```cpp
+#define closed 4000
 #define one_sixth 4500
 #define three_qtr 7000
-#define full_open 8000[/code]
+#define full_open 8000```
 Now you can just use these new names inside ''loop()'', and you no longer need the trailing comments at all. The code itself describes clearly what's going on.
-[code]void loop() {
+```cpp
+void loop() {
 
   // --- left arm ---
   
@@ -2578,7 +2588,7 @@ Now you can just use these new names inside ''loop()'', and you no longer need t
   
   // (add all the rest of the commands here...)
   
-}[/code]
+}```
 By reducing the 'cost' of writing any future control statements like this, it also becomes more fun to play around with numerous 'what-ifs?' You can iterate through them faster now while testing out different control strategies and ideas for Sophie.
 
 Of course any additional target-setting mnemonics that are needed can always be defined in the future as well, beyond the four described here.
@@ -2589,8 +2599,10 @@ Of course any additional target-setting mnemonics that are needed can always be 
 My mistake, I don't into basic maths apparently. :^P
 
 This should be the name & usage instead:
-[code]#define one_eighth 4500[/code]
-[code]  set_joint(r_elbow, one_eighth);[/code]
+```cpp
+#define one_eighth 4500```
+```cpp
+  set_joint(r_elbow, one_eighth);```
 
 # 333
 >>8921
@@ -2598,16 +2610,18 @@ Ah, very clever! I didn't know that C++ could be so flexible! This must be what 
 
 # 334
 One other thing, it's also a good idea to also have the ability to specify '''non-standard''' speed and acceleration settings too, you could bring back the original custom function (under a new name):
-[code]// Given a joint's id, set it's speed, acceleration, and target on MiniMaestro.
+```cpp
+// Given a joint's id, set it's speed, acceleration, and target on MiniMaestro.
 void set_joint_sa(int id, int speed, int accel, int target) {
   maestro.setSpeed(id, speed);
   maestro.setAcceleration(id, accel);
   maestro.setTarget(id, target);
-}[/code]
+}```
 That way, you still have both options available to you in your calling code.
 
 BTW, since you would have a define for the standard delay time, why not test it out with different values as well? Say, turn it down to just 1/10th of it's original value. IE, edit the line to read like this instead:
-[code]#define std_delay 300[/code]
+```cpp
+#define std_delay 300```
 If you try it out, please let us know how that works Anon. You could even try defining multiple, different delay values, sprinkling them around your code in place of the ''std_delay'' one. This would allow you to begin easily varying her animation control settings more specifically to suit her needs.
 
 # 335
@@ -2623,7 +2637,8 @@ Glad to help out mate, honoured actually. Sophie's an inspiration to us all.
 # 336
 >>8929
 >Sophie_utility.h 
-[code]#ifndef SOPHIE_UTILS_H
+```cpp
+#ifndef SOPHIE_UTILS_H
 #define SOPHIE_UTILS_H 210311
 
 #include <PololuMaestro.h>
@@ -2686,9 +2701,10 @@ void setup() {
   maestroSerial.begin(9600);
 }
 
-#endif  // SOPHIE_UTILS_H[/code]
+#endif  // SOPHIE_UTILS_H```
 
-[code]#include "Sophie_utility.h"
+```cpp
+#include "Sophie_utility.h"
 
 // Given a joint's id, set it's speed, acceleration, and target on MiniMaestro.
 void set_joint_sa(int id, int speed, int accel, int target) {
@@ -2746,7 +2762,7 @@ void loop() {
 
 // pls rember that wen u feel scare or frigten never forget ttimes wen u feeled happy
 // wen day is dark alway rember happy day
-// https://i.ytimg.com/vi/x6LovY_DdEE/maxresdefault.jpg[/code]
+// https://i.ytimg.com/vi/x6LovY_DdEE/maxresdefault.jpg```
 
 # 337
 That file is something special anon! Maybe not to professional programmers who work with this kind of thing all the time, but it is to Sophie and I. 

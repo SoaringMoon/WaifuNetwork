@@ -5,7 +5,7 @@ Would you walk around with your waifu? Would you hold her in public? Would you s
 >>106
 I wouldn't feel comfortable with my robowaifu in our current society. I would just keep her at home. I would however, make sure I lived in a decent sized property so we could go on nature walks together and maybe even do some small game hunting.
 
-[spoiler] I'm moving to the south in about a year or so. I would be able to partake in these activities there. [/spoiler]
+%% I'm moving to the south in about a year or so. I would be able to partake in these activities there. %%
 
 # 3
 >>113
@@ -31,7 +31,7 @@ I would consider hooking up with you to do some hunting together but that would 
 With all that being said It would be nice to meet other Robowaifu Technicians and partake in adventures with them.
 A question to the board owner, would you ever consider staging or allowing the users of /robowaifu/ to meet up with each other or host those kinds of thread? Also do have you ever seen any activities on /robowaifu/ that think might be related to false flaggers or feds? 
 
-[spoiler] sorry if i sound like a fed [/spoiler]
+%% sorry if i sound like a fed %%
 
 # 7
 >>118
@@ -52,7 +52,7 @@ In the meantime, I have enough on my plate atm trying to do well in school and t
 >>119
 I had no idea. Unlike Aux, you have chosen to not have a name. Why? Is it because you find it unnecessary or it would draw away from the topic
 
-[spoiler] sage for off topic [/spoiler]
+%% sage for off topic %%
 
 # 9
 >>120
@@ -89,7 +89,7 @@ go ahead and post wherever on the board anon, i'll most likely catch it later an
 >>140
 Thanks. I really like your laid back attitude. Have a good rest of your morning.
 
-[spoiler] I really hope you and I aren't the only ones here [/spoiler]
+%% I really hope you and I aren't the only ones here %%
 
 # 15
 >>141

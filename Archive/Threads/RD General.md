@@ -502,7 +502,8 @@ Thank you for the critique and advice. I'll do research into the points you brou
 # 70
 I haven't seen this written about anywhere online but I found if you use attention on fully connected layers while using a binary cross entropy loss, you can quickly train a network to encode a one-hot vector into a dense encoding then decode it back to the one-hot vector flawlessly. It saves a ton of training time.
 
-[code]# naively fully connected
+```cpp
+# naively fully connected
 encoder = Linear(labels, embedding_size, bias)
 decoder = Linear(embedding_size, labels, bias)
 
@@ -512,7 +513,7 @@ encoder2 = Linear(labels, embedding_size, bias)
 decoder1 = Linear(embedding_size, labels, bias)
 decoder2 = Linear(embedding_size, labels, bias)
 out = encoder1(x) * encoder2(x)
-out = decoder1(out) * decoder2(x)[/code]
+out = decoder1(out) * decoder2(x)```
 
 # 71
 >>2377
@@ -810,8 +811,9 @@ that gif is interesting to watch. i can easily see how that could be used in rea
 >>3230
 >>3231
 BTW, this is an example of the costly data-transfer statement using a simple Thrust case:
-[code]// transfer data to the device
-thrust::device_vector<int> d_vec = h_vec;[/code]
+```cpp
+// transfer data to the device
+thrust::device_vector<int> d_vec = h_vec;```
 https://github.com/thrust/thrust#examples
 
 In this trivial example, the delay is nothing (but then again, so is the processing load so it ''may'' be best kept on the host for a given device. as always, PROFILE), but in a practical case this lag can be significant. Like all engineering, this requires analyzing the trade-offs involved and optimizing everything simultaneously towards your specific use-case goals. In our situation ofc, this simply means 'living', breathing robowaifus. No biggie, haha. :^)
@@ -819,12 +821,14 @@ In this trivial example, the delay is nothing (but then again, so is the process
 # 108
 >>3234
 Oh, I forgot to point out that in that example, you pay the transfer toll ''twice'', since you also have to transfers the 32-million ints vector back to the host after processing.
-[code]// transfer data back to host
-thrust::copy(d_vec.begin(), d_vec.end(), h_vec.begin());[/code]
+```cpp
+// transfer data back to host
+thrust::copy(d_vec.begin(), d_vec.end(), h_vec.begin());```
 
 Here's the golden code and the whole reason for going to all the trouble in the first place.
-[code]// sort data on the device (846M keys per second on GeForce GTX 480)
-thrust::sort(d_vec.begin(), d_vec.end());[/code]
+```cpp
+// sort data on the device (846M keys per second on GeForce GTX 480)
+thrust::sort(d_vec.begin(), d_vec.end());```
 
 Note the referenced perf comment is way out of date. Today's nominal GPUs would certainly be able to sort billions of ints a second.
 
@@ -867,7 +871,8 @@ This sort of ties in with an experiment I was doing last night to gain a better 
 This is a huge problem for the layers I'm creating since they don't rely on a kernel that can focus on picking one specific feature out of some data and ignore other gradients like convolutions do. Once I started stacking my layers this averaging effect became exponentially more difficult to solve. Four layers deep and it made almost no progress in an hour.
 
 To combat this problem I introduced a cost function into the weights of each layer to select at least ''n'' features minimum and minimize the selection of other features without overfitting to the features it has already selected:
-[code]cost = ((n**0.5-weight.norm(2, feature_dim))**2 + weight.mean(feature_dim)**2[/code]
+```cpp
+cost = ((n**0.5-weight.norm(2, feature_dim))**2 + weight.mean(feature_dim)**2```
 Which is PyTorch code for taking (the square root of ''n'' - the Euclidean norm across the feature dimension being selected from)^2 + (the mean across the feature dimension)^2
 
 Now instead of taking forever to train I can make the network eight layers deep and it quickly disentangles the features within ten minutes by finding the most meaningful features first and slowly grinding away any connections that aren't necessary while also adapting to changes in the gradient when the feature selection becomes wrong. I haven't tested it yet on other types of neural networks but I think this cost function will be extremely useful in other machine learning applications if someone hasn't discovered this already.

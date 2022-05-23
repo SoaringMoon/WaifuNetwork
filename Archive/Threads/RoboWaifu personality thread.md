@@ -109,7 +109,7 @@ They don't have a bunker anywhere, but they probably have an IRC or god forbid a
 
 # 18
 >>487
-I've actually been here this whole time. I've been here since before our 100 get. [spoiler] I think. [/spoiler] 
+I've actually been here this whole time. I've been here since before our 100 get. %% I think. %% 
 Thanks for saving some of our stuff.
 
 # 19
@@ -122,9 +122,9 @@ I have almost everything, actually. But at this rate it will be months. I've con
 # 20
 >>491
 My very first post on here was >>24  
-[spoiler] it's crazy to think how much we've grown in less than 2 weeks. nearly 500 posts? that's about 50 posts a day.  [/spoiler] 
+%% it's crazy to think how much we've grown in less than 2 weeks. nearly 500 posts? that's about 50 posts a day.  %% 
 >>492
-BASTE BOARD OWNER. [spoiler] Have you ever considered cracking open a cold one with Aux? [/spoiler]
+BASTE BOARD OWNER. %% Have you ever considered cracking open a cold one with Aux? %%
 
 # 21
 from >>2050 

@@ -216,7 +216,8 @@ See this page for an intro if you're interested: https://lastminuteengineers.com
 Also would need 74HC165 parallel-to-serial.
 
 Analog inputs can't be multiplexed, so all the IR voltages go straight to A0-A7.  I think I'll switch back from pro mini to nano since it's just slightly more convenient.  Stayed up until 5am rethinking my pinouts, finally arrived here:
-[code]ATMEGA328P PINOUT:				MICROMOUSE SIGNAL:
+```cpp
+ATMEGA328P PINOUT:				MICROMOUSE SIGNAL:
 
 A0						IRleftside				
 A1						IRleftdiag	
@@ -266,7 +267,7 @@ In2-In0 (3 bits) - main modes
 
 In5-In3 (3 bits) - test/display/serial monitor A7 to A0 IR voltage inputs
 
-In7, In6 (2 separate bits) - pushbutton inputs (activate mode, deactivate/standby mode (stores current data))[/code]
+In7, In6 (2 separate bits) - pushbutton inputs (activate mode, deactivate/standby mode (stores current data))```
 
 # 24
 >>3574
@@ -277,7 +278,8 @@ Anyway, there's nothing I hate more than internet queers who only want to critiq
 # 25
 >>3574
 I wanted to test the pulsed IR LED background noise elimination scheme that I had read about and posted in this thread earlier, so I made a simple test circuit and wrote a quick test program for it. Circuit is as pic related. I am pulsing the IR LED using a GPIO with an NPN transistor on the low side. I am reading the phototransistor sensor by measuring the voltage across a 300K ohm resistor, again, on the low side. This gives me an easy to work with 0-max voltage reading, with higher readings being closer. The code section for that is here:
-[code]// read background noise
+```cpp
+// read background noise
 adc_read_noise = PCF8591_read(PCF8591_ADDR, 0x01);
 
 // turn on IR LED
@@ -299,9 +301,10 @@ if (adc_read_noise > adc_read_real) // subtraction would cause an underflow
 else
 {
     adc_read_real -= adc_read_noise;
-}[/code]
+}```
 The code to interface with the ADC is as follows. I'm doing a two-read average just because power of two averaging is computationally lightweight, disregarding the fact that it's 16 bits.
-[code]uint8_t PCF8591_read(uint8_t address, uint8_t control)
+```cpp
+uint8_t PCF8591_read(uint8_t address, uint8_t control)
 {
     uint16_t value; // I2C read result
     
@@ -320,7 +323,7 @@ The code to interface with the ADC is as follows. I'm doing a two-read average j
     i2c_stop(); // stop and release bus
     
     return (uint8_t)(value >> 1); // return average of two reads
-}[/code]
+}```
 It works pretty well. I'm getting a solid ~0 reading with nothing in front of the sensor, and I'm detecting a piece of white paper reliably at up to ~14cm. ADC reading is 1-2 at 14cm and 230-231 at 1cm, giving me ~0.56 LSB per mm, which is more precision than I need given the inherent noise and inaccuracy of the system.
 
 # 26
@@ -458,13 +461,15 @@ My motors and other parts aren't here yet, so let's talk infrared a little more.
 
 How long do I need to have it on though? I need the IR LED on for as long as it takes to read the result from the I2C ADC. Using the 16-bit timer Timer 1 with no prescaler (simple time measuring for intervals under 8.2ms with an 8Mhz AVR, 4.1ms with a 16Mhz), I got the following results:
 
-[code]single ADC read:	~515 microseconds
+```cpp
+single ADC read:	~515 microseconds
 2-read average:	~606 microseconds
-4-read average:	~794 microseconds[/code]
+4-read average:	~794 microseconds```
 
 That's actually pretty long, damn. So I can have the LED on with 3 Amps flowing through it for 10 microseconds. Assuming a linear relationship between current and time, having the LED on 51x longer should mean that if I reduce the current to 1/51th of 3A, I should be good. In other words, ~59 milliamperes. But wait, the datasheet says the max continuous current is 60mA. Pulsing for 515us with a low duty cycle, say, once every 20ms, should let us go higher than 60mA, somewhere between 60mA and 3A. I guess the relationship isn't actually linear. I would guess I could go as high as 150~200mA for 500us. By the way, the earlier ranging tests were done at ~64mA pulsed. The code for this time test is as follows:
 
-[code]// Timer 1 setup
+```cpp
+// Timer 1 setup
 TCCR1B = (1 << CS10);   // no prescaler
 TCNT1 = 0x00; // set timer1 counter initial value to 0
 
@@ -510,7 +515,7 @@ while (1)
     sprintf(byte_buffer, "%d", adc_read_real);
     send_string(byte_buffer);
     send_string("\n\r");
-}[/code]
+}```
 
 A more sophisticated approach would start a timer, start the I2C transaction, have an interrupt trigger after 300us, turn on the LED in the interrupt handler and disable the timer, then get the reading from the ADC, potentially reducing your on-time to ~200us. But I digress. So how to switch 100-200mA per LED anyway? AVR GPIOs aren't going to want to do that. The PCF8574 won't sink more than 50mA per output, and 100mA at a time total. Enter the P-channel MOSFET. Available in tiny SOT and dual-channel SOP-8 packages, and with near infinite gate resistance, the PCF8574 can drive them to saturation at 3.3V with ease. Schematic related is what the circuit for 2 IR LED/phototransistor pairs would look like, and what I'll likely end up doing.
 

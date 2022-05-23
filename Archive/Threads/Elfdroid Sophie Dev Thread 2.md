@@ -554,7 +554,8 @@ Just found out a way to operate multiple servos simultaneously without having to
 
 Moving both of her wrists steadily at the same time is now as simple as this;
 
-[code]
+```cpp
+
 3 18 acceleration
 30 18 speed
 3 9 acceleration
@@ -568,7 +569,7 @@ begin
 4000 9 servo
 2000 delay
 repeat
-[/code]
+```
 
 Plus, you can stop, start and even step the script using three little buttons on the control centre (of course, this can also be done in code).
 
@@ -740,7 +741,7 @@ In the meantime tho, Sophie's Chonkframe upgrade has been completed and it appea
 >>10152
 looking much better!
 
-[spoiler] but is she combat ready? [/spoiler]
+%% but is she combat ready? %%
 
 # 100
 >>10153
@@ -1720,7 +1721,8 @@ For sure LOL. It's rekindled my interest in 3D modelling. Reading the journey of
 >It's rekindled my interest in 3D modelling.
 Excellent. I'm currently getting into Blender now that the new version is LTS (2.93). Here's a nice playlist from Grant Abbitt for beginners.
 >'''get_good_at_blender_2.8'''
-[code]youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN[/code]
+```cpp
+youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN```
 Good luck Anon. :^)
 
 # 245
@@ -1739,7 +1741,8 @@ So in-game I'm making sure to take plenty of screenshots and investigate the sha
 You're welcome Anon. BTW, just in case you're lazy **like me heheh** here's a playlist I created so I can play the whole thing locally with mpv at the click of a mouse. Just save this as a text file named '''get_good_at_blender_2.8.m3u''' or something in the same folder as the downloaded videos from the YT playlist (the '.m3u' bit is important to tack b/c mpv knows it's a playlist that way).
 
 >'''get_good_at_blender_2.8.m3u'''
-[code]Beginner Exercises _ Part 1 _ Blender 2.8-98FkRIbihyQ.mkv
+```cpp
+Beginner Exercises _ Part 1 _ Blender 2.8-98FkRIbihyQ.mkv
 Beginner Exercises _ Part 2 _ Blender 2.8-51SdWI-yof4.mkv
 Beginner Exercises _ Part 3 _ Low Poly Weapons _ Blender 2.8--0tMeMZpeXE.mkv
 Beginner Exercises _ Part 4 _ Low Poly Buildings _ Blender 2.8-Syq6JjMdyhI.mkv
@@ -1760,7 +1763,7 @@ How to Learn Hard Surface Modelling in Blender-pSFeDo7aOp4.mkv
 Blender 2.8 Complete Training - Course Review-eyWmQ2VZLN0.mp4
 blender secrets-8Q_BsS2KToY.mkv
 Create a Low Poly Sword for Beginners-lgJaWqIYeKM.mkv
-Essential Skills to Become a PRO - How to Learn Topology-xo9JRPhGi68.mp4[/code]
+Essential Skills to Become a PRO - How to Learn Topology-xo9JRPhGi68.mp4```
 
 # 247
 Obviously, the first thing many people will turn to when they want to make virtual buildings is Minecraft. I've already done this. I like the way that Minecraft portrays buildings, but nothing else. 

@@ -666,7 +666,8 @@ Copy the list text from the codeblock itself and paste it into your new text fil
 This is the playlist, which you can run with '''mpv'''.  ('''''2''''')
 
 Open that directory and run the youtube-dl command (posted here in the codeblock related to that playlist). So, for the above example, you'd run this from the terminal:
-[code]youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/playlist?list=PLn3ukorJv4vvJM7tvjet4PP-LVjJx13oB[/code]
+```cpp
+youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/playlist?list=PLn3ukorJv4vvJM7tvjet4PP-LVjJx13oB```
 It's probably easier on you if you first create a script with the youtube-dl command + the initial 4 (of the 5) params in a script file in your home directory, then just call that from your new playlist's download directory. That's how I do it:
 > #5
 
@@ -687,9 +688,11 @@ I think we can all pretty much agree on Grant Abbitt as a good Blender teacher, 
 
 >'''Blender 2.8 for beginners full course'''
 >''"Create this fun scene and learn the interface, how to add objects, lighting, build objects, create atmosphere, render images and movies and lots more."''
-[code]youtube-dl -i --write-description https://youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri[/code]
+```cpp
+youtube-dl -i --write-description https://youtube.com/playlist?list=PLn3ukorJv4vs_eSJUQPxBRaDS8PrVmIri```
 >Blender_2.8_for_beginners_full_course.m3u
-[code]Complete Beginners Guide to Blender 2.8 _ Free course _ Part 1 _ The Interface-7MRonzqYJgw.mkv
+```cpp
+Complete Beginners Guide to Blender 2.8 _ Free course _ Part 1 _ The Interface-7MRonzqYJgw.mkv
 Complete Beginners Guide to Blender 2.8 _ Free course _ Part 2 _ Modelling-L0AY61v6-M4.mp4
 Complete Beginners Guide to Blender 2.8 _ Free course _ Part 3 _ Editing Meshes-WFzIbz2FN28.mp4
 Complete Beginners Guide to Blender 2.8 _ Free Course _ Part 4 _ Materials-OFmKedu8r88.mp4
@@ -697,24 +700,28 @@ Complete Beginners Guide to Blender 2.8 _ Free course _ Part 5 _ The Monster-irl
 Complete Beginners Guide to Blender 2.8 _ Free course _ Part 6 _ Rendering and Atmosphere-g8683RF1COo.mp4
 What to Model & Where to Begin _ Starting Out 3D Modelling-IrqxisntnRo.webm
 Blender 2.8 Complete Training - Course Review-eyWmQ2VZLN0.mp4
-blender secrets-8Q_BsS2KToY.mkv[/code]
+blender secrets-8Q_BsS2KToY.mkv```
 
 # 109
 >'''low poly well'''
 >''"In this guide I make a low poly stylized well. This a is a full detailed guide designed for you to follow along."''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vu6pnoAtivKf5Bo_6oQS0N_```
 >low_poly_well.m3u
-[code]Create A Low Poly Well _ Beginners Tutorial _ Blender 2.8 _ Easy-OlnkGCdtGEw.mp4
+```cpp
+Create A Low Poly Well _ Beginners Tutorial _ Blender 2.8 _ Easy-OlnkGCdtGEw.mp4
 Create A Low Poly Well _ Beginners Tutorial _ Blender 2.8 _ PART2-bWHhx4uos84.mp4
 Create A Low Poly Well _ Beginners Tutorial _ Blender 2.8 _ PART3-m7m3QkwRcGE.mp4
-blender secrets-8Q_BsS2KToY.mkv[/code]
+blender secrets-8Q_BsS2KToY.mkv```
 
 # 110
 >'''sea shack tutorial'''
 >''"Make a beautiful low poly sea shack in Blender 2.8. This is a full course that goes all the way into animation and rendering"''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsIOjZoMToZusH2uOyjCu6G```
 >sea_shack_tutorial.m3u
-[code]Sea Shack _ beginners tutorial _ blender 2 8-Jmir2bDpZA4.mp4
+```cpp
+Sea Shack _ beginners tutorial _ blender 2 8-Jmir2bDpZA4.mp4
 Sea Shack _ beginners tutorial _ blender 2 8 _ Part 2-XKB4N8n8_hw.mp4
 Sea Shack _ beginners tutorial _ blender 2 8 _ Part 3-TEZVzHGh1fM.mp4
 Sea Shack _ beginners tutorial _ blender 2 8 _ Part 4-obQEsWXl5SA.mp4
@@ -727,24 +734,28 @@ Animating Fish - Bones, Armatures & Weight Painting _ Blender 2.8-C-3vKs_O8WQ.mp
 Animating Boat & Rope - Bones, Armatures & Weight Painting _ Blender 2.8-jdGZLDDSpDY.mp4
 How to Create a Night Scene _ Blender 2.8 _ Lighting-qbRJtjjU-XM.mp4
 What to Model & Where to Begin _ Starting Out 3D Modelling-IrqxisntnRo.webm
-blender secrets-8Q_BsS2KToY.mkv[/code]
+blender secrets-8Q_BsS2KToY.mkv```
 
 # 111
 >'''Ray Gun Blender tutorial'''
 >''"In this beginners tutorial you will learn how to make this fun ray gun in blender 2.8. You'll learn a lot about subdivision surfaces and hard surface modelling. I also explain and introduce modelling with curves."''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vssG_0OVJRwABFsHDKe9WhO[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vssG_0OVJRwABFsHDKe9WhO```
 >Ray_Gun_Blender_tutorial.m3u
-[code]Ray Gun Beginners Tutorial _ Blender 2.8 _ Easy Follow along-5CHXxM-oACg.mkv
+```cpp
+Ray Gun Beginners Tutorial _ Blender 2.8 _ Easy Follow along-5CHXxM-oACg.mkv
 Ray Gun Beginners Tutorial _ Blender 2.8 _ Part 2 materials-ffcf8W-4guA.mp4
-Creating & Animating ZAPS _ Ray Gun Beginners Tutorial _ Blender 2.8-vF17xF_Veks.mp4[/code]
+Creating & Animating ZAPS _ Ray Gun Beginners Tutorial _ Blender 2.8-vF17xF_Veks.mp4```
 
 # 112
 >'''Complete Beginners Guide: Make a Sheep'''
 >''"part 1 - The interface and making basic shapes. part 2 which goes over lighting and rendering your sheep :)"''
-[code]youtube-dl -i --write-description https://www.youtube.com/watch?v=wNQYhbvTJi8 https://www.youtube.com/watch?v=qyEnnypo-u4[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/watch?v=wNQYhbvTJi8 https://www.youtube.com/watch?v=qyEnnypo-u4```
 >Complete_Beginners_Guide-Make_a_Sheep.m3u
-[code]blender 2.8 _ Complete Beginners Guide _ Make a Sheep-wNQYhbvTJi8.mkv
-Blender 2.8 _ Complete Beginners Guide _ Make a Sheep _ part 2-qyEnnypo-u4.mkv[/code]
+```cpp
+blender 2.8 _ Complete Beginners Guide _ Make a Sheep-wNQYhbvTJi8.mkv
+Blender 2.8 _ Complete Beginners Guide _ Make a Sheep _ part 2-qyEnnypo-u4.mkv```
 
 '''''Note:''' AFAIK, he never made this into a playlist from his channel, so this is simply the two videos. Copypasta the youtube-dl codeblock into the terminal as if just the usual playlist type. BTW, I didn't discover this one on his YT channel, but rather on his website.''
 https://www.gabbitt.co.uk/videos
@@ -752,22 +763,26 @@ https://www.gabbitt.co.uk/videos
 # 113
 >'''beginners guide to animation in 2.8'''
 >''"a series of videos going through the basics of animation in Blender 2.8. I go trough: Keyframes,  Dope sheet, channels, output to video"''
-[code]youtube-dl -i --write-description https://youtube.com/playlist?list=PLn3ukorJv4vvHr6RMoXrZSMVqmOKlqbBR[/code]
+```cpp
+youtube-dl -i --write-description https://youtube.com/playlist?list=PLn3ukorJv4vvHr6RMoXrZSMVqmOKlqbBR```
 >beginners_guide_to_animation_in_2.8.m3u
-[code]The Complete Beginners Guide to Animation in Blender 2.8-zp6kCe5Kmf4.mkv
+```cpp
+The Complete Beginners Guide to Animation in Blender 2.8-zp6kCe5Kmf4.mkv
 BASICS OF ANIMATION in Blender 2.8 _ Part 2 _ Graph Editor-bRM0VYSVeQM.mkv
 BASICS OF ANIMATION - Blender 2.8 - Part 3 - Bones & Armature-IAiTYaiZmY0.mkv
 BASICS OF ANIMATION - Blender 2.8 - Part 4 UNDERSTANDING RIGS-nlT9rYcIRzU.mkv
 BASICS OF ANIMATION - Blender 2.8 - Part 5 - Face rigs-K0f3izO2muQ.mkv
 Exporting Animations to Sketchfab _ Beginners Guide-DP8NZ7rJDKs.mkv
-Animate & Rig Characters the Easy Way-k-ZeLNV4zPw.mkv[/code]
+Animate & Rig Characters the Easy Way-k-ZeLNV4zPw.mkv```
 
 # 114
 >'''fantasy castle - beginner course'''
 >''"In this series we will be delving deeper into 3d artwork. Focusing on making our assets and models suitable for games. This time we are making a fantasy tower / castle. This can be hand painted or low poly i will explain both methods. We will be going through lots of techniques will will build our skills form previous courses."''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vvQ1Su1pam5vyTsUFOvxGLX[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vvQ1Su1pam5vyTsUFOvxGLX```
 >fantasy_castle-beginner_course.m3u
-[code]FANTASY CASTLE  _  Beginner Course  _  Blender 2.8-0WET0-ORIjs.mkv
+```cpp
+FANTASY CASTLE  _  Beginner Course  _  Blender 2.8-0WET0-ORIjs.mkv
 FANTASY CASTLE  _ Part 2  _ Simple Textures _  Beginner Course  _  Blender 2.8-Bmr16EKsQ2I.mp4
 FANTASY CASTLE  _ Part 3  _ texture painting _  Beginner Course  _  Blender 2.8-wAEKzYJbi-4.mkv
 FANTASY CASTLE  _ Part 4  _ Building the Castle _  Beginner Course  _  Blender 2.8-4Fr8gaCO5ys.mp4
@@ -777,22 +792,26 @@ FANTASY CASTLE _ Part 7 _ LOW POLY STYLE TIPS _ Beginner Course _ Blender 2.8-e3
 FANTASY CASTLE _ Part 8 _ UV unwrapping _ Beginner Course _ Blender 2.8-_6UTV2v5hJw.mp4
 FANTASY CASTLE _ Part 9 _ Texture Painting _ Beginner Course _ Blender 2.8-ZSjr5AxOjJY.mp4
 Stylised Trees Using Alphas  _  Blender 2.8-1PslkSUNF6s.mkv
-Uploading Your Models to Sketchfab-VWjYbb8t7Iw.mkv[/code]
+Uploading Your Models to Sketchfab-VWjYbb8t7Iw.mkv```
 
 # 115
 >'''rocket beginners'''
 >''"This is a continuation of the get good at blender series. This episode looks at hard surface modelling and using subdivision surface modifiers with bevels and proximity loops. You can combine this with the bevel modifier but for simplicity sake i have just used the bevel tool."''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsRaEZZ8vBaEPotUFR6KSMK[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsRaEZZ8vBaEPotUFR6KSMK```
 >rocket_beginners.m3u
-[code]Build a Rocket _ Get Good @ Blender _ hard surface techniques _ 2019-y8pbdYnFEvk.mp4
-Build a Rocket _ Get Good @ Blender _ hard surface techniques _ 2019 part 2-eFnJhQLAQAo.mp4[/code]
+```cpp
+Build a Rocket _ Get Good @ Blender _ hard surface techniques _ 2019-y8pbdYnFEvk.mp4
+Build a Rocket _ Get Good @ Blender _ hard surface techniques _ 2019 part 2-eFnJhQLAQAo.mp4```
 
 # 116
 >'''get good at blender 2.8'''
 >''"Easy and simple beginner exercises to help you understand the different ways of modelling shapes in blender and any other 3d modelling programme. These exercises are designed to build up your skills progressively and slowly get tougher each time until you have more advanced blender skills."''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN```
 >get_good_at_blender_2.8.m3u
-[code]Beginner Exercises _ Part 1 _ Blender 2.8-98FkRIbihyQ.mkv
+```cpp
+Beginner Exercises _ Part 1 _ Blender 2.8-98FkRIbihyQ.mkv
 Beginner Exercises _ Part 2 _ Blender 2.8-51SdWI-yof4.mkv
 Beginner Exercises _ Part 3 _ Low Poly Weapons _ Blender 2.8--0tMeMZpeXE.mkv
 Beginner Exercises _ Part 4 _ Low Poly Buildings _ Blender 2.8-Syq6JjMdyhI.mkv
@@ -813,14 +832,16 @@ How to Learn Hard Surface Modelling in Blender-pSFeDo7aOp4.mkv
 Blender 2.8 Complete Training - Course Review-eyWmQ2VZLN0.mp4
 blender secrets-8Q_BsS2KToY.mkv
 Create a Low Poly Sword for Beginners-lgJaWqIYeKM.mkv
-Essential Skills to Become a PRO - How to Learn Topology-xo9JRPhGi68.mp4[/code]
+Essential Skills to Become a PRO - How to Learn Topology-xo9JRPhGi68.mp4```
 
 # 117
 >'''Old Cottage Beginners Course'''
 >''"This is the 1st in a series of beginner videos on how to create a stylized cottage in Blender. I'm using Blender 2.83. In this episode I will be making the frame"''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsPA95G7jTHDHixF5FntFm3[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLn3ukorJv4vsPA95G7jTHDHixF5FntFm3```
 >Old_Cottage_Beginners_Course.m3u
-[code]Lowpoly Stylized Cottage - Free Beginners Course - Blender 2.8-izjz2Hya2QM.mkv
+```cpp
+Lowpoly Stylized Cottage - Free Beginners Course - Blender 2.8-izjz2Hya2QM.mkv
 Lowpoly Stylized Cottage - Roof & Walls - Pt.2-q8t3lOC5mTE.mkv
 Low poly Stylized Cottage - Details - Pt.3-0Y61LCqmSwk.mp4
 Low poly Stylized Cottage - Details - Pt.4-Jljy5E3xkeg.mp4
@@ -828,15 +849,17 @@ Low poly Stylized Cottage - landscape - Pt.5-7ShnDmsNV4M.mp4
 Low poly Stylized Cottage - landscape - Pt.6-oViV-nYHoBA.mp4
 Low poly Stylized Cottage - landscape - Pt.7-B_ggR6o4VnA.mp4
 Low poly Stylized Cottage - landscape - Pt.8-yynlY7ejydg.mp4
-blender secrets-8Q_BsS2KToY.mkv[/code]
+blender secrets-8Q_BsS2KToY.mkv```
 
 # 118
 Blender Secrets is a channel loaded with literally hundreds of 1-minute videos with an almost unbelievable ''quality-to-duration'' ratio. He touches on many more topics than I ever imagined about the tool.
 
 >'''Blender Secrets - Interface'''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7piZufnCVeLmYFpTRqc0oz[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7piZufnCVeLmYFpTRqc0oz```
 >Blender_Secrets-Interface.m3u
-[code]Daily Blender Secrets - The Reroute Node-UB8DffsYokE.mkv
+```cpp
+Daily Blender Secrets - The Reroute Node-UB8DffsYokE.mkv
 Daily Blender Tip 359 - Extra Shading Pie Menu Items (Blender 2.8)-5K2CwX-WNxw.mp4
 Daily Blender Tip 336 - How to turn off lights widgets in Eevee (Blender 2.8)-CC0qp-OIyu8.mp4
 Daily Blender Tip 333 - Swap Interface Windows (Blender 2.8)-JBfUt9mMHdc.mp4
@@ -880,13 +903,15 @@ Daily Blender Tip 50 - Isolation Mode-T0OsgkDtBu4.mp4
 Daily Blender Tip #25 - Hold CTRL To Snap Objects-uOqeimtviAU.mp4
 Daily Blender Tip #21 - Copy Objects From One Blender Window To Another-eM5hHkLd-Mo.mp4
 Daily Blender Tip #9 - Simplify Setting-RxtfwQKmWUk.mp4
-Blender Secrets - Camera and Light Tip-MYEPTZEOWp0.webm[/code]
+Blender Secrets - Camera and Light Tip-MYEPTZEOWp0.webm```
 
 # 119
 >'''Blender Secrets - Environment'''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7UrLDJNmhzzske8kSAwORX[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7UrLDJNmhzzske8kSAwORX```
 >Blender_Secrets-Environment.m3u
-[code]Daily Blender Tip 337 - How to use IES lights (Blender 2.8)-Sqhcj5NSJaQ.mkv
+```cpp
+Daily Blender Tip 337 - How to use IES lights (Blender 2.8)-Sqhcj5NSJaQ.mkv
 Daily Blender Tip 331 - 700+ Free ArchViz Models-zE17pfJWOn8.mp4
 Daily Blender Tip 325 - Download any terrain data for free (Blender 2.8)-DVwyTbt-vdk.mp4
 Daily Blender Tip 324 - Camera Projection Mapping (Blender 2.8)-TBN76lyaSXk.mp4
@@ -927,13 +952,15 @@ Paint Flowing Water-0D-dvU6Nt6g.webm
 Blender Secrets - Paint Flowing Clouds-xBsyIZ5Ojfk.webm
 Blender Secrets - Easy Textured Mountains with the free Blender GIS add-on-I3UwGZUKDH8.webm
 Blender Secrets - Moving Cloud Shadows-SA1yLTeoohg.webm
-Blender Secrets - Free Geometry Nodes-based scatter add-on (G Scatter)-RKQ20ehlzB8.webm[/code]
+Blender Secrets - Free Geometry Nodes-based scatter add-on (G Scatter)-RKQ20ehlzB8.webm```
 
 # 120
 >'''Blender Secrets - Grease Pencil'''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7gxhP5rDsxa7eKNohGFTXj[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PLrB1kuJIjcg7gxhP5rDsxa7eKNohGFTXj```
 >Blender_Secrets-Grease_Pencil.m3u
-[code]Daily Blender Tip 253 - Creating your own custom Grease Pencil brushes (Blender 2.8)-abZxp-fHUSA.mp4
+```cpp
+Daily Blender Tip 253 - Creating your own custom Grease Pencil brushes (Blender 2.8)-abZxp-fHUSA.mp4
 Daily Blender Tip 252 - Installing the new textured brushes (Blender 2.8)-NLNllP6bras.mp4
 Daily Blender Tip 154 - Grease pencil cutter tool-97QHsTFM3YQ.mp4
 Daily Blender Tip 153 - Grease pencil guides-PVgqNc_TjoA.mp4
@@ -945,7 +972,7 @@ Daily Blender Tip 110 - Grease Pencil Build Modifier-uzsrCIucgN0.mp4
 Daily Blender Tip 98 - Stabilizer (Lazy Mouse) In Grease Pencil-ah13EISw7nc.mkv
 Daily Blender Tip 97 - Exploring Grease Pencil - Different Brushes-j3M8DFFcysM.mkv
 Daily Blender Tip 96 - 2D Animation From 3D Animation (Blender 2.8)-QI5rEvu7r4I.mkv
-Daily Blender Tip 93 - 2D Animation Quick Start-djjzQYtKhBY.mkv[/code]
+Daily Blender Tip 93 - 2D Animation Quick Start-djjzQYtKhBY.mkv```
 
 # 121
 ==SAVE.EVERYTHING.==
@@ -961,14 +988,16 @@ https://www.youtube.com/c/25games/playlists
 
 >'''Blender - Grease Pencil'''
 >''"This tutorial was a lot of work for me. I'm new to this topic as well so I tried to get as many  information as possible and searched for the tools I would need for drawing. This video has extra length and is about the basic tools and where to find them for Grease Pencil. If you are new for drawing with Blender Grease Pencil tool then this video tutorial will probably give you a hand!"''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PL1XwjHBOypY8mlFVAipwTWk9mkh0iJKRg[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PL1XwjHBOypY8mlFVAipwTWk9mkh0iJKRg```
 >Blender-Grease_Pencil.m3u
-[code]Grease Pencil #1 - Basics of Interface _ Blender 2.82 _ Tutorial-w3O-t_dkoBU.mkv
+```cpp
+Grease Pencil #1 - Basics of Interface _ Blender 2.82 _ Tutorial-w3O-t_dkoBU.mkv
 How to draw in 3d space with GREASE PENCIL _ Blender 2.9 ALPHA _ Tutorial-72XGpJDiVAE.mp4
 How to 2D animate with GREASE PENCIL _ Blender 2.82 _ Tutorial-ogowBEyV44s.mkv
 Vertex Color and Tint -  Grease Pencil Tool Update _ Blender 2.9 ALPHA _ Tutorial-2LyCkpJwzIs.mkv
 How to ENABLE and WORK with the GREASE PENCIL TOOL _ Blender Addon 2.91 _ Tutorial-PFfc5rdTONA.mkv
-How to Render a Grease Pencil Animation Video _ Basic Settings _ Blender 2.9 _ Tutorial-qSg8au-B6Z8.mkv[/code]
+How to Render a Grease Pencil Animation Video _ Basic Settings _ Blender 2.9 _ Tutorial-qSg8au-B6Z8.mkv```
 
 # 124
 A tutorial on precision modeling on Blender
@@ -980,9 +1009,11 @@ Thanks Anon. I hope to actually take my effort to learning Blender and turn it d
 
 # 126
 >'''Blender 2.9'''
-[code]youtube-dl -i --write-description https://www.youtube.com/playlist?list=PL1XwjHBOypY8Q_50TP9Hkbce_M3WQFfFj[/code]
+```cpp
+youtube-dl -i --write-description https://www.youtube.com/playlist?list=PL1XwjHBOypY8Q_50TP9Hkbce_M3WQFfFj```
 >Blender_2.9.m3u
-[code]How to work with shortcuts in modifier panel _ Blender 2.9 ALPHA _ Tutorial-SXNFyvYYNhg.mkv
+```cpp
+How to work with shortcuts in modifier panel _ Blender 2.9 ALPHA _ Tutorial-SXNFyvYYNhg.mkv
 Vertex Color and Tint -  Grease Pencil Tool Update _ Blender 2.9 ALPHA _ Tutorial-2LyCkpJwzIs.mkv
 How to add Snap Points in Edge Slide Mode _ Blender 2.9 ALPHA _ Tutorial-RzHSis9Xfow.mkv
 New Extrude Manifold function  _ Blender 2.9 ALPHA _ Tutorial-FlhAjyLnvrY.mkv
@@ -1019,7 +1050,7 @@ How to create fish tank FILTER _ Blender 2.93 _ Tutorial  _ Fish Tank #6.1-t1Ijv
 How to load & change the font _ Blender 2.9 _ Tutorial-3s0FLwKq60U.mkv
 How to link or copy properties of an object _ Blender 2.9 _ Tutorial-U-zwPy4oRsg.mkv
 What is different with MODIFIERS & the BOOLEN MODIFIER _ Blender 2.93 Update _ Tutorial-eGcI89OjTOo.mp4
-How to ANIMATE VISIBILITY _ Blender 2.93 _ Tutorial-aoDTzHqgaDY.mp4[/code]
+How to ANIMATE VISIBILITY _ Blender 2.93 _ Tutorial-aoDTzHqgaDY.mp4```
 
 # 127
 >related crosspost (>>12500)

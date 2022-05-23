@@ -16,7 +16,7 @@ What level of robot would you clang robowaifuists? (Thread for providing referen
 No idea. I haven't been able to find their bunker. I never browsed /clang/ but if I could share it with other anons I would. Sadly, I haven't found anything related to them after 8chan went down. It's unfortunate because /just/ is dead too.
 
 
-[spoiler] Don't give up hope anon. I'm certain they'll appear somewhere on the Webring. To give you an idea, I thought /robowaifu/ was dead but here we are. [/spoiler]
+%% Don't give up hope anon. I'm certain they'll appear somewhere on the Webring. To give you an idea, I thought /robowaifu/ was dead but here we are. %%
 
 # 6
 >>443

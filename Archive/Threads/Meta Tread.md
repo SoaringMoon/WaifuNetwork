@@ -70,7 +70,7 @@ No. I will consider watching it.
 >spoiler
 What? What about the 3-white? I have no idea what you're talking about. Sorry.  
 
-/robowaifu/, What would you do if you saw your robowaifu doing what is shown in webm 2? Would you help her or record her then bring it up at the dinner table? or maybe... [spoiler] Post it to /robowaifu/ for all your /robowaifu/ friends to see and laugh about?[/spoiler]
+/robowaifu/, What would you do if you saw your robowaifu doing what is shown in webm 2? Would you help her or record her then bring it up at the dinner table? or maybe... %% Post it to /robowaifu/ for all your /robowaifu/ friends to see and laugh about?%%
 
 # 13
 >>165
@@ -238,7 +238,7 @@ Hello /cuckquean/! I'm the same person here and here >>183 >>186
 Coincidentally, I'm also the same person on /monster/ who wrote this and posted the greeting on /cuckquean/. 
 Anyways, Thanks for stopping by. 
 To explain why I was concerned with /cuckquean/ being trust worthy is because well, you are women. As you could have determined yourself, women are hated and down right vilified on /monster/ and /robowaifu/. People aren't trust worthy of women because of the shit they've pull in the past. However, both /robowaifu/ and /monster/ really seem to vouch for you. I hope you can understand why I held such caution towards you and your fellow bicorns. With all that being said, you seem like worthy allies of /monster/ and /robowaifu/. I am sorry if it came out like I was trying to D&C.
-Also I have a couple of questions for you myself. How many posters are there on /cuckquean/? Here on /robowaifu/ I would guess we have around 3-5 posters. When I made my post on /cuckquean/ it took around 3 days to get a reply. Is it because no one found it interesting, I came off as rude[spoiler] are you bicorns really that sensitive? [/spoiler], or there are just not enough bicorns on your board? 
+Also I have a couple of questions for you myself. How many posters are there on /cuckquean/? Here on /robowaifu/ I would guess we have around 3-5 posters. When I made my post on /cuckquean/ it took around 3 days to get a reply. Is it because no one found it interesting, I came off as rude%% are you bicorns really that sensitive? %%, or there are just not enough bicorns on your board? 
 Also would you unironically buying your bf/husband a robowaifu?
 
 # 37
@@ -279,7 +279,7 @@ But it's hard to not hate all women when you see shit like this. I know this isn
  
 To everyone in this thread in your opinion, how many women are as bad as the woman featured in the image I have posted? I live in the USA so could you give me a percentage of how many are unlikable whores who hate all women?
 
-[spoiler] Regardless of the answer, this still won't change my mind of robowaifus. I would much rather have a robotic waifu than a 3d woman. [/spoiler]
+%% Regardless of the answer, this still won't change my mind of robowaifus. I would much rather have a robotic waifu than a 3d woman. %%
 
 # 45
 >>227
@@ -349,7 +349,7 @@ The guy who is learning C++ now because we're back, and the Greentextanon postin
 
 # 55
 >>278
-How many of us thought that /robowaifu/ was dead[spoiler] permanently [/spoiler] when 8chan first went down?
+How many of us thought that /robowaifu/ was dead%% permanently %% when 8chan first went down?
 
 # 56
 >>280
@@ -373,7 +373,7 @@ Do you think it's even worth it to bring back 8chan? There are a few people on /
 
 Also I've probably asked this question before but does any one know where /just/ went? I really miss them and their games they would play with the dice roll. It basically was where you roll 5 dice with 100 sides and if you got 490 or above you have just unfucked brendan's shit but also everyone else's shit on /just/. It was really fun and i miss it.
 >>163
-I meant to ask you this earlier but why do you have to use TOR to post? Do you live in a hostile country that would consider this website a bad thing? [spoiler] You don't have to tell me if you don't want to. I understand if you can't [/spoiler]  
+I meant to ask you this earlier but why do you have to use TOR to post? Do you live in a hostile country that would consider this website a bad thing? %% You don't have to tell me if you don't want to. I understand if you can't %%  
 >>285
 Yes, yes, I see it.
 
@@ -485,9 +485,9 @@ pragprog.com/book/bhtmux2/tmux-2
 >>304
 >>305
 I am actually in community college right now. 
-[spoiler] I am most likely a lot younger than you. 21, to be exact. [/spoiler] 
+%% I am most likely a lot younger than you. 21, to be exact. %% 
 Speaking of that, what is /robowaifu/'s prefered cocktail and beer? I personally enjoy Tecate. For my cocktail I like a good rum and coke. Spiced rum and Mexican coke are the way to go. 
-[spoiler] A well made moscow mule is also pretty good too. [/spoiler]
+%% A well made moscow mule is also pretty good too. %%
 
 # 80
 >>306
@@ -547,7 +547,7 @@ none, dumbass. alcohol is bad for you m'kay?
 # 90
 >>316
 Hey it's the BO of /robowaifu/!
-[spoiler] BUT DAD! I'M 21! I SHOULD BE ABLE TO DRINK ON MY OWN! IT'S NOT GONNA KILL ME IF I JUST DRINK EVERY NOW AND THEN! [/spoiler]
+%% BUT DAD! I'M 21! I SHOULD BE ABLE TO DRINK ON MY OWN! IT'S NOT GONNA KILL ME IF I JUST DRINK EVERY NOW AND THEN! %%
 
 # 91
 >>295
@@ -584,7 +584,7 @@ https://en.wikipedia.org/wiki/Hebe_(mythology)
 Also I've never seen you use the word "mate" before so I assumed you were a different person.
 
 >I prefer to make love, not war.
-[spoiler] You might not have much of a choice in that matter in the near future. [/spoiler]
+%% You might not have much of a choice in that matter in the near future. %%
 
 # 98
 >>324
@@ -604,7 +604,7 @@ I love this board.
 # 101
 >>327
 I can embrace her right now because I have her as a body pillow.
-[spoiler] But she can't hug me back [/spoiler]
+%% But she can't hug me back %%
 
 # 102
 >>328
@@ -625,7 +625,7 @@ I forget what the whole mix was, but the main components are orange juice and vo
 a simple mix of orange juice and vodka would be called a "screwdriver". I know some vodkas can be cream flavored so if you mix it with orange juice it tastes like a 50/50 bar. Pretty cool right?
 
 # 106
-Does anyone here visit the gym? I'd like to talk about the difficulties we would have picking up our waifus and why we need to be hone our bodies to be as perfect as possible for them as they weill be perfect for us [spoiler] I'm not saying that your waifu is gonna reject you but you need to be somewhat fit. Remember that time I brought up small game hunting? [/spoiler]
+Does anyone here visit the gym? I'd like to talk about the difficulties we would have picking up our waifus and why we need to be hone our bodies to be as perfect as possible for them as they weill be perfect for us %% I'm not saying that your waifu is gonna reject you but you need to be somewhat fit. Remember that time I brought up small game hunting? %%
 
 # 107
 >>356
@@ -702,7 +702,7 @@ Hi /cuckquean/ welcome back. How's your bunker going? I stop in there once in a 
 
 # 115
 I've tried to make contact with /ebola/. I am doing my best to try to find the /clang/ bunker. 
-[spoiler] I am having to use dickord as that's the only way to contact /ebola/ [/spoiler]
+%% I am having to use dickord as that's the only way to contact /ebola/ %%
 
 # 116
 >>498
@@ -1002,7 +1002,7 @@ https://anon.cafe/cafe/res/362.html
 
 # 168
 >>984
-[spoiler] I'm also embarrased to admit that I had fucking panic attack last night. I just don't want to lose everything again. We really are that guerilla force fighting a superior military entity.[/spoiler]
+%% I'm also embarrased to admit that I had fucking panic attack last night. I just don't want to lose everything again. We really are that guerilla force fighting a superior military entity.%%
 
 # 169
 >>984
@@ -1301,7 +1301,8 @@ Thanks. It's always been on my bucket list to pick up using ffmpeg effectively. 
 >>1313
 >>1314
 The only thing out of date is that proper multi-thread encoding has been added in. So you'll want to use
-[code]-frame-parallel 0 -tile-columns 0 -row-mt true -tile-rows 6[/code]
+```cpp
+-frame-parallel 0 -tile-columns 0 -row-mt true -tile-rows 6```
 -g 9999 can also make seeking a bitch and break it, and most guides I've looked up have said to use values of about 2-5 times the framerate. Since most video is ~30fps, I've been defaulting to -g 120.
 
 # 212
@@ -1499,7 +1500,7 @@ That's alright. Between all of us, we'll eventually cover all the bases. You wor
 
 # 251
 >Meta Tread
-[spoiler]I'm sorry.[/spoiler]
+%%I'm sorry.%%
 
 # 252
 >>1580
@@ -1802,7 +1803,8 @@ Feel free to drop by IRC for a chat.
 
 # 300
 Dear BO, could you please update the custom CSS file for the board to contain this instead?
-[code]code {
+```cpp
+code {
   white-space: pre-wrap !important;
   border: 1px double #e60000;
   background: #0d0d0d;
@@ -1818,7 +1820,7 @@ Dear BO, could you please update the custom CSS file for the board to contain th
 
 code br {
   display:block !important;
-}[/code]
+}```
 
 The code blocks from older posts are wonky, and a kindly anon pointed out how to patch it up. Thank you.
 -t. Chobitsu
@@ -1849,7 +1851,7 @@ About time for a new meta thread?
 
 # 305
 >>1989
-Threads bumplock at 750, and this is a slow board [spoiler]:^)[/spoiler], so probably no new meta thread for quite a while
+Threads bumplock at 750, and this is a slow board %%:^)%%, so probably no new meta thread for quite a while
 
 # 306
 >>1937

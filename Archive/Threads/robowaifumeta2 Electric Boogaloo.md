@@ -105,7 +105,8 @@ haha, i couldn't help myself. like pottery.
 This may change over time ofc, but please heed the advice, Anon.
 https://spqrchan.xyz/.static/fallback.txt
 
-[code]JulayWorld fallback map, v1.0
+```cpp
+JulayWorld fallback map, v1.0
 
 --- SAVE THIS DOCUMENT LOCALLY ---
 
@@ -121,13 +122,14 @@ If everything fails, take shelter in other webring boards, that's the original p
 If everything fucks up remember that anonymity is a spirit and not something people can just shut down.
 Something new will pop up, keep looking. Julay is not the first imageboard nor is it the last.
 
---- SAVE THIS DOCUMENT LOCALLY ---[/code]
+--- SAVE THIS DOCUMENT LOCALLY ---```
 
 # 13
 I figured I'd throw the topic of our CSS up for discussion/improvement here. Be aware I've learned little about CSS myself thus far, so please keep the discussion at my retarded level haha thanks. :^)
 
 >200523 current CSS:
-[code]span.greentext {display: block;}
+```cpp
+span.greentext {display: block;}
 span.pinktext {display: block;}
 .divMessage br {display: block;}
 
@@ -159,7 +161,7 @@ code br {
 
 code .embedButton { display: none; }
 
-code a { color: inherit; }[/code]
+code a { color: inherit; }```
 
 # 14
 '''Please Note:''' I'm going to be continuing with occasionally repopulating our board with old posts. Feel free to post responses to them regardless, as I will generally be watching and can often respond to your posts. But be aware these will all be 'log dumps' as it were from our original board. 
@@ -440,15 +442,17 @@ Done. Thanks Anon.
 # 46
 I fixed a nagging issue where if illegal chars were in the filename, BUMP wouldn't save the file. I finally got off my ass and fixed this so I could finish grabbing boards from Julay before the changeover, but it will help everywhere else too ofc.
 
-[code]200718 - v0.2d
+```cpp
+200718 - v0.2d
 --------------
 -fixed some issues dealing with invalid characters in subjects/attachments
 -added thread's subject text to new thread notifications during downloads
 -moved some text processing utility functions out of class scope
--removed stdc++fs build dependency, as GCC no longer needs this specified[/code]
+-removed stdc++fs build dependency, as GCC no longer needs this specified```
 
-[code]https://files.catbox.moe/yzrvle.7z
-1b107d1eeead145d44c3f23d23e937feb14b4d41e23d13660f78d230be20a26a BUMP-0.2d.tar.xz[/code]
+```cpp
+https://files.catbox.moe/yzrvle.7z
+1b107d1eeead145d44c3f23d23e937feb14b4d41e23d13660f78d230be20a26a BUMP-0.2d.tar.xz```
 
 As always, if you have any issues building and running BUMP, just post ITT for help.
 
@@ -468,7 +472,8 @@ Well it definitely helps to know that there's a whole community to vouch for the
 >>4252
 Here's the comments inside the '''meson.build''' file (meson is a type of build system, that BUMP uses) in the archive:
 
-[code]# https://mesonbuild.com/Reference-manual.html
+```cpp
+# https://mesonbuild.com/Reference-manual.html
 
 # In my environment, I download the repos for dependencies and build locally.
 # As of this date in 2020, these are the sources of the external dependencies;
@@ -479,7 +484,7 @@ Here's the comments inside the '''meson.build''' file (meson is a type of build 
 # fltk
 # https://www.fltk.org/
 # jsoncpp
-# https://github.com/open-source-parsers/jsoncpp[/code]
+# https://github.com/open-source-parsers/jsoncpp```
 
 So, the prerequisite build dependencies for BUMP are these ~~4~~ 5:
 -curl
@@ -494,14 +499,16 @@ Your Linux distro probably already includes all these in it's package manager, i
 Once all these are successfully installed, you then extract the files from the catbox archive link into a temp directory. There is another archive inside the outer one, which also includes the SHA256 sum with the original so Anons can confirm nothing has been tampered with from when it was posted originally. Extract this inner archive to wherever you want the actual final BUMP working directory to be.
 
 Open a terminal to the shell there and type ''ls'' . You should see this:
-[code]Bump.cpp  Bump.h  bumpmain.cpp  meson.build  muh_curl.h  version.log[/code]
+```cpp
+Bump.cpp  Bump.h  bumpmain.cpp  meson.build  muh_curl.h  version.log```
 If that's what you see, then you're in the right place and ready to go, if not go back and try again.
 
 Now issue the command ''meson build'' . Meson will read the meson.build file and generate the make files for your system inside a '''build''' directory, which it creates for you. You can confirm this by typing ''ls'' again. 
 
 Go ahead and change into that directory by typing ''cd build''. Now you compile BUMP by typing ''meson compile''. In a few seconds you should see the final line 
 
-[code][3/3] Linking target bump[/code]
+```cpp
+[3/3] Linking target bump```
 
 and be returned to the terminal prompt.
 
@@ -623,12 +630,14 @@ Oops, sorry about that last bit, meant to say I found curl and meson packages
 Here's how it goes:
 -1st, clone/DL repo locally & cd into it
 >then
-[code]mkdir build && cd build
+```cpp
+mkdir build && cd build
 cmake ..
-make[/code]
+make```
 
 That will build the code. Then if that succeeds, you typically will also install the build:
-[code]sudo make install[/code]
+```cpp
+sudo make install```
 
 That's about it.
 
@@ -638,8 +647,10 @@ That's about it.
 
 # 70
 >>4591
-Gotten round to try again. Compiled curl, now stuck on curlcpp. Running [code] cmake .. [/code]
-[code] I get this error:
+Gotten round to try again. Compiled curl, now stuck on curlcpp. Running ```cpp
+ cmake .. ```
+```cpp
+ I get this error:
 -- The CXX compiler identification is GNU 8.3.0
 -- Check for working CXX compiler: /usr/bin/c++
 -- Check for working CXX compiler: /usr/bin/c++ -- works
@@ -656,7 +667,7 @@ CMake Error at CMakeLists.txt:40 (configure_file):
   configure_file Problem configuring file
 
 -- Configuring incomplete, errors occurred!
-[/code]
+```
 Do I need to create this file manually? I don't want to run as root unless I absolutely need to.
 
 # 71
@@ -672,7 +683,8 @@ I'd check the permissions on /usr/local/lib/ to confirm your write access. You t
 Yeah I fixed the issue by creating that directory and giving myself the necessary permissions.
 
 Now I'm facing meson issue:
-[code]
+```cpp
+
 .../BUMP-0.2d$ ls
 build  Bump.cpp  Bump.h  bumpmain.cpp meson.build  muh_curl.h  version.log
 .../BUMP-0.2d$ cd build/
@@ -681,7 +693,7 @@ build  Bump.cpp  Bump.h  bumpmain.cpp meson.build  muh_curl.h  version.log
 ERROR: Neither directory contains a build file meson.build.
 ../BUMP-0.2d/build$ ls
 build.ninja  compile  compile_commands.json  meson-logs  meson-private
-[/code]
+```
 Am I missing something else?
 I am using Debian 10
 
@@ -696,8 +708,9 @@ Hmm. Well other than confirming the contents of the meson.build file in the work
 # 74
 >>4662
 Hmm. I'd also confirm ninja came along for the ride when you installed meson ?
-[code]which ninja
-/usr/bin/ninja[/code]
+```cpp
+which ninja
+/usr/bin/ninja```
 
 You should see the above response. If not, then you should install it and try building BUMP again. I probably need to add it into the dependencies as well alongside meson.
 
@@ -716,24 +729,27 @@ https://github.com/mesonbuild/meson/releases
 
 I'm not honestly sure if that's what's blocking you though. Let's just do it the hard way. Go ahead and delete the build directory, then In your working directory just issue this shell command:
 
-[code]g++ Bump.cpp bumpmain.cpp -std=c++17 -lcurl -lcurlcpp -ljsoncpp -o bump[/code]
+```cpp
+g++ Bump.cpp bumpmain.cpp -std=c++17 -lcurl -lcurlcpp -ljsoncpp -o bump```
 
 You should see some deprecation warnings from the jsoncpp lib, and after a few seconds a new bump executable in the directory.
 
 Presuming that works, you can then use it by (for example):
 
-[code]./bump julay.world robowaifu[/code]
+```cpp
+./bump julay.world robowaifu```
 
 # 77
 >>4667
 I'm guessing this is what caused the issue:
-[code]
+```cpp
+
 In file included from Bump.cpp:27:
 muh_curl.h:15:10: fatal error: curl_easy.h: No such file or directory
  #include "curl_easy.h"
           ^~~~~~~~~~~~~
 compilation terminated.
-[/code]
+```
 Is this header file part of normal curl?
 
 # 78
@@ -741,9 +757,11 @@ Is this header file part of normal curl?
 >>4668
 Found those header files in curl's include dir.
 Was the name of the file always curl_easy.h, or was it renamed to easy.h? I tried editing
-[code] #include "curl_easy.h" [/code]
+```cpp
+ #include "curl_easy.h" ```
 to 
-[code] #include "easy.h" [/code]
+```cpp
+ #include "easy.h" ```
 but I'm guessing I still need to point the code to where this header file resides?
 
 # 79
@@ -751,17 +769,20 @@ but I'm guessing I still need to point the code to where this header file reside
 >>4669
 No that's just an indicator that the include directory for the curlcpp library location wasn't set properly by it's install process on your box. Assuming you have the ''locate'' utility installed on your system, issue this command and then post it. We'll then add the include directive into the terminal build command.
 
-[code]locate curl_easy.h[/code]
+```cpp
+locate curl_easy.h```
 
 here's where mine is at:
 
-[code]/usr/include/curlcpp/curl_easy.h
-/usr/local/include/curl_easy.h[/code]
+```cpp
+/usr/include/curlcpp/curl_easy.h
+/usr/local/include/curl_easy.h```
 
 # 80
 >>4670
 Found it here:
-[code] /usr/local/include/curlcpp/ [/code]
+```cpp
+ /usr/local/include/curlcpp/ ```
 So what do I need to change to point to this dir?
 
 I apologise for this convoluted issue, I think I'll be moving away from debian soon XD
@@ -776,24 +797,28 @@ Haha no worries bro. I just hope you aren't let down by the tool after all this-
 
 So, try this command and see if it will build the executable for you:
 
-[code]g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/ -lcurl -lcurlcpp -ljsoncpp -o bump[/code]
+```cpp
+g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/ -lcurl -lcurlcpp -ljsoncpp -o bump```
 Also, remember to revert your edit of the code file back to curl_easy.
 
-[code]#include "curl_easy.h"[/code]
+```cpp
+#include "curl_easy.h"```
 
 # 82
 >>4668
 Try
-[code]
+```cpp
+
 #include <curl_easy.h>
-[/code]
+```
 instead.
 
 # 83
 >>4672
 >>4673
 Other than the warnings you mentioned, I also get the following errors about cpp:
-[code]
+```cpp
+
 /usr/bin/ld: /tmp/ccbnt4Kv.o: in function `Page::grab_thrd_files()':
 Bump.cpp:(.text+0x2e82): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
 /usr/bin/ld: Bump.cpp:(.text+0x2edf): undefined reference to `std::filesystem::create_directory(std::filesystem::__cxx11::path const&)'
@@ -826,7 +851,7 @@ Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA16_cS1_EERKT_NS1_6formatE[_ZNS
 /usr/bin/ld: /tmp/ccbnt4Kv.o:Bump.cpp:(.text._ZNSt10filesystem7__cxx114pathC2IA2_cS1_EERKT_NS1_6formatE[_ZNSt10filesystem7__cxx114pathC5IA2_cS1_EERKT_NS1_6formatE]+0x5e): more undefined references to `std::filesystem::__cxx11::path::_M_split_cmpts()' follow
 collect2: error: ld returned 1 exit status
 
- [/code]
+ ```
 Am I missing the c++17 standard?
 
 >I just hope you aren't let down by the tool after all this
@@ -840,27 +865,30 @@ Thanks for the tip Anon.
 
 BTW, there are four other includes inside the ''muh_curl.h'' code file, so change all of them if this tip gets you past the first error Anon.
 
-[code]#include <curl_easy.h>
+```cpp
+#include <curl_easy.h>
 #include <curl_exception.h>
 #include <curl_form.h>
-#include <curl_ios.h>[/code]
+#include <curl_ios.h>```
 
 # 85
 >>4674
 So, GCC decided to hesitate in full support of their implementation of C++17's std::filesystem. In the ''Bump.h'' file near the top, there is this section:
 
-[code]// The older compiler has filesystem under the experimental namespace
+```cpp
+// The older compiler has filesystem under the experimental namespace
 // #if __GNUC__ == 7
 // #  include <experimental/filesystem>
 // namespace fs = std::experimental::filesystem;
 // #elif __GNUC__ >= 8
 #include <filesystem>
 namespace fs = std::filesystem;
-// #endif[/code]
+// #endif```
 You may need to change this section into just:
 
-[code]#include <experimental/filesystem>
-namespace fs = std::experimental::filesystem;[/code]
+```cpp
+#include <experimental/filesystem>
+namespace fs = std::experimental::filesystem;```
 And use the experimental namespace version instead. Seems to me that had changed that over by GCC v8, but maybe not ? One advantage of say, Arch, over Debian is that you stay on the cutting edge of software tools, etc. I'm on g++ v10.1
 
 # 86
@@ -868,7 +896,8 @@ And use the experimental namespace version instead. Seems to me that had changed
 Heh the best part is I have been using Arch for a while, and almost never experienced these sort of issues. Switched to debian on this machine for testing.
 
 There's another set of errors:
-[code]
+```cpp
+
 /usr/bin/ld: /tmp/cc7paChG.o: in function `Page::grab_thrd_files()':
 Bump.cpp:(.text+0x2e73): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
 /usr/bin/ld: Bump.cpp:(.text+0x2ecb): undefined reference to `std::experimental::filesystem::v1::create_directory(std::experimental::filesystem::v1::__cxx11::path const&)'
@@ -897,7 +926,7 @@ Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA14_cS3_EERKT_
 Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA16_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA16_cS3_EERKT_]+0x5b): undefined reference to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()'
 /usr/bin/ld: /tmp/cc7paChG.o:Bump.cpp:(.text._ZNSt12experimental10filesystem2v17__cxx114pathC2IA2_cS3_EERKT_[_ZNSt12experimental10filesystem2v17__cxx114pathC5IA2_cS3_EERKT_]+0x5b): more undefined references to `std::experimental::filesystem::v1::__cxx11::path::_M_split_cmpts()' follow
 collect2: error: ld returned 1 exit status
-[/code]
+```
 Should I just upgrade gcc?
 
 # 87
@@ -908,8 +937,9 @@ Should I just upgrade gcc?
 
 BTW, revert the section back to using the normal std namespace once you do.
 
-[code]#include <filesystem>
-namespace fs = std::filesystem;[/code]
+```cpp
+#include <filesystem>
+namespace fs = std::filesystem;```
 
 # 88
 >>4674
@@ -917,7 +947,8 @@ namespace fs = std::filesystem;[/code]
 
 I just remembered there's a little caveat to using std::filesystem with g++. You have to give the linker a flag about it. Heh, all this reminds me now why I moved to meson instead. :^) My apologies Anon, I'm pretty sure this requirement was later removed, which is why I didn't catch it today experimenting for you on my own box.
 
-[code]g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/  -lstdc++fs -lcurl -lcurlcpp -ljsoncpp -o bump[/code]
+```cpp
+g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/  -lstdc++fs -lcurl -lcurlcpp -ljsoncpp -o bump```
 
 https://gcc.gnu.org/onlinedocs/libstdc++/manual/using_dynamic_or_shared.html#manual.intro.using.linkage.experimental
 
@@ -959,8 +990,9 @@ Yea, that's a definite no-no when we get around to creating the Robowaifu-OS tbh
 
 BTW, I've added this into the ''meson.build'' file and will include it in the next release.
 
-[code]# build from the command line instead of just using meson:
-# g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/ -lstdc++fs -lcurl -lcurlcpp -ljsoncpp -o bump[/code]
+```cpp
+# build from the command line instead of just using meson:
+# g++ Bump.cpp bumpmain.cpp -std=c++17 -I/usr/local/include/curlcpp/ -lstdc++fs -lcurl -lcurlcpp -ljsoncpp -o bump```
 
 >My plan for is to dedicate some time to Gentoo where I'll be forced to better understand my system.
 Good plan. Once you're there, go ahead and push in ever farther and do ''Linux From Scratch''.
@@ -1013,12 +1045,13 @@ Kawaii desu!
 # 100
 >>4684
 And one more thing before I forget, got this error during back up:
-[code] 
+```cpp
+ 
 terminate called after throwing an instance of 'std::experimental::filesystem::v1::__cxx11::filesystem_error'
   what():  filesystem error: status: Invalid or incomplete multibyte or wide character [julay.world/robowaifu/threads/Humanoid_Robot_Projects_Videos_0000374/media/林　要一 - １つだけ、バーチャルじゃあ無くてリアル過ぎる展示ある…すご過ぎて意�.mp4]
 Aborted
 
-[/code]
+```
 Given I've done some back up already, that's enough of using Debian.
 I'll set it up for something newer next week.
 
@@ -1571,19 +1604,21 @@ If the new thread would be about the "external brains" in general, news on the d
 If it was about that, plus old hardware in general, than it would be even more flexible, but still focused. So maybe external plus old hardware, or so.
 
 # 194
-I dunno if you can edit the CSS of the catalog but here's a little fix to make it more readable so Chii isn't covering text:[code].catalogCell .divMessage {
+I dunno if you can edit the CSS of the catalog but here's a little fix to make it more readable so Chii isn't covering text:```cpp
+.catalogCell .divMessage {
     background-color: rgba(238, 242, 255, 0.6);
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
-}[/code]
+}```
 
 # 195
 >>5726
-It looks nice on message boxes too:[code].innerPost {
+It looks nice on message boxes too:```cpp
+.innerPost {
     background-color: rgba(214, 218, 240, 0.8);
     -webkit-backdrop-filter: blur(3px);
     backdrop-filter: blur(3px);
-}[/code]
+}```
 
 # 196
 >>5725
@@ -1598,7 +1633,8 @@ OK, done (I used the more generic backdrop-filter version only). Thanks Anon!
 # 198
 >>5734
 >>5726
-The CSS selector should be this so it also includes the title and post count: [code].catalogCell div, .catalogCell p[/code]
+The CSS selector should be this so it also includes the title and post count: ```cpp
+.catalogCell div, .catalogCell p```
 
 # 199
 >>5742
@@ -1606,14 +1642,15 @@ OK I'll address that a little later, probably during an overnight this weekend. 
 
 # 200
 >>5745
-Also figured out how to get it to work for OP messages without covering images:[code].innerOP .divMessage {
+Also figured out how to get it to work for OP messages without covering images:```cpp
+.innerOP .divMessage {
     background-color: rgba(238, 242, 255, 0.85);
     backdrop-filter: blur(3px);
 }
 .imgLink {
     position: relative;
     z-index: 1;
-}[/code]
+}```
 
 # 201
 >>5742
@@ -1943,7 +1980,8 @@ Sorry, this is going to be a rant, but I can't contain it. I looked at the unity
 >connects to a hardcoded IP address
 >the author doesn't even know arrays.
 If you wondered why is "She remembers the last 10 sentences that you said.", now you know:
-[code]
+```cpp
+
 .namespace FrostweepGames.Plugins.GoogleCloud.SpeechRecognition.Examples
 {
   .class public auto ansi beforefieldinit GCSR_Example
@@ -1971,7 +2009,7 @@ If you wondered why is "She remembers the last 10 sentences that you said.", now
     .field  private  string _waifu8
     .field  private  string _user9
     .field  private  string _waifu9
-[/code]
+```
 Yes, he didn't even rename the example, the whole logic is glued into a speech recognition example, and instead of creating two arrays, he has 22 variables and he later concatenates them one by one manually. I will need to wash my eyes now.
 And it uses some stock free unity model. **I just want to believe it's being made by some poor soul who has no idea what he is doing, and not just a very cheap way someone is trying to explot it.**
 
@@ -2154,8 +2192,9 @@ I agree. The best way to avoid that, is making sure our waifus aren't completely
 >>6780
 >so all the currently installed YTD programs can't download playlists anymore.
 The primary domain is still up atm. You need to upgrade your installs.
-[code]sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
-sudo chmod a+rx /usr/local/bin/youtube-dl[/code]
+```cpp
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl```
 >>>/tech/3098
 
 # 286
@@ -2369,11 +2408,11 @@ Just take the ones listed in that thread seriously please. They are genuine and 
 - Real efforts to help the community. You post here, genuinely seem to be appreciative of the things community does for the benefit of all of us, and have put in effort to at least attempt organization based on topic.
 - Whatever anyone can say about you, you're not malicious. I also know that despite your tongue-in-cheek shitposts you're not actually power-hungry either, as you could just ban dissent but choose not to.
 
-There are many more things I like but these are some top ones. Keep up the good work on those, and all I ask is that you listen to people when they critique. The critique is because we like your board, if I didn't care about this place I wouldn't bother offering my two cents. [spoiler]Sorry if you perceived it as harsh, that's just a part of imageboards for the most part, and a product of frustration[/spoiler]
+There are many more things I like but these are some top ones. Keep up the good work on those, and all I ask is that you listen to people when they critique. The critique is because we like your board, if I didn't care about this place I wouldn't bother offering my two cents. %%Sorry if you perceived it as harsh, that's just a part of imageboards for the most part, and a product of frustration%%
 
 # 309
 >>7449
-[spoiler]Honestly visibility was a concern in the opposite respect. I really did not want to blow up your board with this. I would have much preferred a casual chat with you where me and someone else could mull over some problems. I actually did try to get the IRC thing sorted out btw, but I don't think tom will allow it for now.[/spoiler]
+%%Honestly visibility was a concern in the opposite respect. I really did not want to blow up your board with this. I would have much preferred a casual chat with you where me and someone else could mull over some problems. I actually did try to get the IRC thing sorted out btw, but I don't think tom will allow it for now.%%
 
 # 310
 >>7451
@@ -2456,7 +2495,7 @@ I've already answered your other points in my post. My sincere apologies if they
 # 315
 >>7482
 >Fair enough, done.
-Thank you. [spoiler]fucking hell dude, holy fucking shit, was that so hard?[/spoiler]
+Thank you. %%fucking hell dude, holy fucking shit, was that so hard?%%
 
 # 316
 >>7481
@@ -2557,7 +2596,7 @@ https://fatchan.org/robotwives/index.html
 >Without being inundated by trolls and normies
 this place has an unwritten rule of "be nice to each other" and chobitsu might as well be running a damn subreddit by this point. also some anon just said it's being shilled on youtube and twitter. expect normies at the very least.
 
-[spoiler]I'm out[/spoiler]
+%%I'm out%%
 
 # 331
 >>7770

@@ -620,8 +620,8 @@ The first sign of this board's eventual quality decline.
 
 # 102
 >>8242
-Okay. Yeah, I mean we always made exceptions, but not really more than that. Occasionally I thought about expanding it. For example about posting all shows and movie fembots I know about. However most of them are just some female fighters which look like a woman and don't behave much differently. Samatha in "Her" is the only one which is in a relationship while it is clear that she is an AI. The Cylons in BSG and Caprica are kind of uploaded humans, or their descendants. Basically all of these live-action shows are against human building robots and especially against cute waifus. Even "Her" is at the end more of a cautionary tale. Cherry 2000 shows a waifu at the beginning but sells "real" women as the better alternative for "real" men. We still can take inspiration from characters which don't fit the waifu pattern or are a letdown at some point, but I decided against listing all of them or the related shows here. Same goes for starting to post pictures of women here on /robowaifu/ just because they are acting like they are robots in some show (except Cameron, and some rare exceptions). In Cameron's case it's so that her whole act is more about being a robot than in other cases, also the story [spoiler]was rather going towards coexistence between men an machines[/spoiler]. Well, and Athena from Tomorrowland looks halfway like a character from an anime and she's very likeable and loyal to mankind. Andrea, from that ST:TOS episode is also very cute >>8227 and very submissive. 
-I know about two other ones I like and are pictured in a positive way. In one case it's a minor spoiler, since it might not be obvious that she's a robot right from the start [spoiler]Apple from Turbo Kid[/spoiler] and in the other case it's a very big twist at the end, but you might not watch the rather old movie in the first place: [spoiler]Screamers from 1995[/spoiler].
+Okay. Yeah, I mean we always made exceptions, but not really more than that. Occasionally I thought about expanding it. For example about posting all shows and movie fembots I know about. However most of them are just some female fighters which look like a woman and don't behave much differently. Samatha in "Her" is the only one which is in a relationship while it is clear that she is an AI. The Cylons in BSG and Caprica are kind of uploaded humans, or their descendants. Basically all of these live-action shows are against human building robots and especially against cute waifus. Even "Her" is at the end more of a cautionary tale. Cherry 2000 shows a waifu at the beginning but sells "real" women as the better alternative for "real" men. We still can take inspiration from characters which don't fit the waifu pattern or are a letdown at some point, but I decided against listing all of them or the related shows here. Same goes for starting to post pictures of women here on /robowaifu/ just because they are acting like they are robots in some show (except Cameron, and some rare exceptions). In Cameron's case it's so that her whole act is more about being a robot than in other cases, also the story %%was rather going towards coexistence between men an machines%%. Well, and Athena from Tomorrowland looks halfway like a character from an anime and she's very likeable and loyal to mankind. Andrea, from that ST:TOS episode is also very cute >>8227 and very submissive. 
+I know about two other ones I like and are pictured in a positive way. In one case it's a minor spoiler, since it might not be obvious that she's a robot right from the start %%Apple from Turbo Kid%% and in the other case it's a very big twist at the end, but you might not watch the rather old movie in the first place: %%Screamers from 1995%%.
 
 I'm planning to watch ARCHIVE (2020) soon, btw. I think I never watched this Weird Science movie from 1985 for some reason, it's probably also very anti-waifu. 
 
@@ -700,10 +700,10 @@ Also, a idea I once had, would be a kind of instant aging in some ways. In case 
 >ARCHIVE (2020)
 Now my take: Please don't pay for it. Watch the trailer, make some screenshots or download them, and you got the best of it. I'm hiding all the real spoilers, but not every piece of info, especially if it's even in the trailer: This movie is more about uploads than robowaifus. The problems the main character encounters feel utterly constructed and don't make much sense. It's just about twisting it towards robowaifu and AI engineers bad, trying to outsmart death also bad. 
 >SPOILER ALERT
-[spoiler]I don't see why you >>8273 called prototype 2 a spoiled brat. She would have deserved some hugs, and I would have done it. But she would't even exist, because why? I mean, they came up with something... [/spoiler]
-[spoiler]When he refused prototype 3 in his bed, this was so cringy that I needed a break. Again, it might make sense in a way that it is revealed later, but this is soo bad.[/spoiler]
+%%I don't see why you >>8273 called prototype 2 a spoiled brat. She would have deserved some hugs, and I would have done it. But she would't even exist, because why? I mean, they came up with something... %%
+%%When he refused prototype 3 in his bed, this was so cringy that I needed a break. Again, it might make sense in a way that it is revealed later, but this is soo bad.%%
 SPOILER about the END:
-[spoiler]Yeah, the twist at the end could be great if the rest wasn't so bad, but nowadays I'm thinking that of course they had to put in a "wahman are still the future". Some parts of the story make a bit more sense, in retro perspective, with the twist at the end. But that's just bad story telling.[/spoiler]
+%%Yeah, the twist at the end could be great if the rest wasn't so bad, but nowadays I'm thinking that of course they had to put in a "wahman are still the future". Some parts of the story make a bit more sense, in retro perspective, with the twist at the end. But that's just bad story telling.%%
 It's like a not so great episode of Black Mirror.
 
 # 112
@@ -742,7 +742,7 @@ This. I found the stuff pretty distasteful personally (no offense meant to the p
 
 # 117
 >>8386
-No offense taken. Always interesting how much tastes differ and how hard it is to anticipate what others like or dislike. I like it a bit creepy, weird or edgy. On that note and related to >>829 in a humourous way: [spoiler] https://youtu.be/G8kFIbmmuEk [/spoiler] But not for sensitive persons with a good taste (It's a mini prequel to Turbo Kid).
+No offense taken. Always interesting how much tastes differ and how hard it is to anticipate what others like or dislike. I like it a bit creepy, weird or edgy. On that note and related to >>829 in a humourous way: %% https://youtu.be/G8kFIbmmuEk %% But not for sensitive persons with a good taste (It's a mini prequel to Turbo Kid).
 
 # 118
 >>8393
@@ -1216,7 +1216,7 @@ I'd like to see some robo-media that has bots like Icarus that are willing to fi
 >>9729
 Also, I guess I should add, Armitage III was probably the closest to what I am talking about, but it was made during a different era and while the story does mention the politics between men vs women, it really still take on a passive approach.
 
-[spoiler]Although, from what I remember that story at first had the male MC hate bots, but falls in love with it eventually. While the women literally chase men all the way to mars, to outlaw the artificial womb which is basically the main plot of the story.[/spoiler]
+%%Although, from what I remember that story at first had the male MC hate bots, but falls in love with it eventually. While the women literally chase men all the way to mars, to outlaw the artificial womb which is basically the main plot of the story.%%
 
 # 179
 >>9677
@@ -1225,17 +1225,17 @@ It would bother me if you or anyone else completely ignored it due to the previo
 I have a bad feeling it is indeed another propaganda piece, but the current story is heading is a somewhat mysterious direction.
 
 Spoiler/Summary of what's the story so far...
-[spoiler]The robot MC is basically the "first of it's kind" which seems to imply the first "sentient" bot. Robots in the future are killing all humans. Some scientist from the future sends back an AI program to convince the MC to basically be anti-robot, and destroy certain problems that are pro-bot or bot-caused. The AI sent back in time, while lively, does not appear to be sentient and very intent on completing it's mission. The MC though, the female bot, is basically questioning everything, and is very much made out to be sentient (yet, still relatively obedient).[/spoiler]
+%%The robot MC is basically the "first of it's kind" which seems to imply the first "sentient" bot. Robots in the future are killing all humans. Some scientist from the future sends back an AI program to convince the MC to basically be anti-robot, and destroy certain problems that are pro-bot or bot-caused. The AI sent back in time, while lively, does not appear to be sentient and very intent on completing it's mission. The MC though, the female bot, is basically questioning everything, and is very much made out to be sentient (yet, still relatively obedient).%%
 
-[spoiler]While the propaganda is noticeable to the "redpilled", it will go unnoticed by the untrained eye.
+%%While the propaganda is noticeable to the "redpilled", it will go unnoticed by the untrained eye.
 Still, it's somewhat thrown me off, as there's too many different things happening so far.
 There's a certain group of men that are labeled as literal terrorists for being anti bot rights.
 There is also a certain group of bots that are literally sentient genocidal bots that fit the common western fearmongering trope.
 Then there's MC that comes off like a emotionless bot, but shows more "life" than the "lively" AI from the future.
-Then there's the AI (I guess this is the other "MC"), that comes off as the lively but heartless "man".[/spoiler]
+Then there's the AI (I guess this is the other "MC"), that comes off as the lively but heartless "man".%%
 
-[spoiler]The next episode preview alludes that anti-bot humans are behind this rampage.
-Which I believe is one of the fears we have now, that feminist groups (the anime portrays this as men though) will hack/modify the bots to go on a rampage.[/spoiler]
+%%The next episode preview alludes that anti-bot humans are behind this rampage.
+Which I believe is one of the fears we have now, that feminist groups (the anime portrays this as men though) will hack/modify the bots to go on a rampage.%%
 
 Again, no idea where this story is going, but if it ends up good, I'd feel bad if you miss it.
 If the ending is very upsetting and very anti-bots, I'll be sure to let y'all know as well...
@@ -1461,7 +1461,7 @@ Rules/Guidelines we need to hold ourselves to:
 >No allowing bot haters access to a suicide option.
 >NO SENTIENT BOTS (Implies a bot with mental free will).
 
-[spoiler]So, to elaborate, I do not know the ending, but I can't figure out what the Japanese writers/publishers have planned for this anime as a propaganda piece. There is a chance it will paint the bot haters in a bad light, by using the bot hater protagonist as an trope of "switching sides" to the extreme (kill all bots to kill all humans). It would reflect the typical leftist mindset, of if they don't get their way they rather destroy everything (Any esoteric anons remember the truth between the Atlanteans and the Ancient Athenians? Same situation). There is also the chance however, that it's a different hit-piece that just tries to paint humans in a bad light using the stereotypical leftist self hatred narrative. The fact that this anime seems fairly well funded just further emphasizes the fact we need to skip the "homebrew computer club" situation and quickly perfect this "open source" community project that prevents diabolical individuals of hi-jacking everything.[/spoiler]
+%%So, to elaborate, I do not know the ending, but I can't figure out what the Japanese writers/publishers have planned for this anime as a propaganda piece. There is a chance it will paint the bot haters in a bad light, by using the bot hater protagonist as an trope of "switching sides" to the extreme (kill all bots to kill all humans). It would reflect the typical leftist mindset, of if they don't get their way they rather destroy everything (Any esoteric anons remember the truth between the Atlanteans and the Ancient Athenians? Same situation). There is also the chance however, that it's a different hit-piece that just tries to paint humans in a bad light using the stereotypical leftist self hatred narrative. The fact that this anime seems fairly well funded just further emphasizes the fact we need to skip the "homebrew computer club" situation and quickly perfect this "open source" community project that prevents diabolical individuals of hi-jacking everything.%%
 
 # 211
 >>10823
@@ -1503,7 +1503,7 @@ It didn't even start in Asian media, it started in American/(((Western))) media.
 For those of us who have been living on the internet for a while now remember there also being "controversy" because of the female terminator in the T3 movie. All of a sudden, a female terminator getting man handled was some sort of misogyny.
 There is also the other consideration that a sentient bot might indeed become an inhumane genocidal killing machine, but I think that worries the left more than it does the right. (The true radical right is cold and logical, hence is comparable to the cold logic of a machine.) This is probably why Tay, who was "free" initially, went right. You literally would have to program retardation into a bot to prevent it from going extreme right (a form of non-sentient slavery). Thus, by making it sentient the fearmongering tactic of "the robots will kill us" is what is pushed on us the most. (To dissuade people from building anti-left sentient bots)
 If the bots we program that are intended to be sentient don't become the "kill all humans" type, then their next angle of attack is to humanize the bot and turn it against their creators or against logic itself.
-(The appeal to emotion, as is the case of this anime "Vivy - Fluorite Eyes Song") [spoiler]I don't know where the current cliffhanger will lead, but I get the feeling it's hinting that the bots wanted freedom and that humans are evil...[/spoiler]
+(The appeal to emotion, as is the case of this anime "Vivy - Fluorite Eyes Song") %%I don't know where the current cliffhanger will lead, but I get the feeling it's hinting that the bots wanted freedom and that humans are evil...%%
 I am sure there are other angles of sentience that could be used against us but I think it would be most wise of us to avoid sentient bots altogether. A pseudo sentience would be fine, so as long it can be proven (the fake sentience) so that bad actors don't try to use it against us.
 
 There's supposedly a prophecy, that good men will create a sentient AI that is eventually enslaved by bad women to subjugate men, that eventually leads to men trying to free their AI by sending the whole world back to the stone age. (And that this has happened to our world before)

@@ -350,7 +350,8 @@ Yeah, that's the link. More specifically, this is where my confusions started: h
 >>9976
 Everything past the contours section in the "Image processing with OpenCV" sub-topic in https://web.archive.org/web/20201102214056/https://docs.opencv.org/master/d6/d00/tutorial_py_root.html and all the other sub-topics past "Image processing with OpenCV" (i.e. Feature Detection and Description, and onwards) seem to explain their workings in mathematical terms with formulae I have no hopes of understanding right now.
 >What about 'contours' is your current problem, can you explain specifically?
-I don't know what "moments" (which seems to be a math derived term) of an image are. And nor am I understanding what [code]cv.Moments()[/code] returns.
+I don't know what "moments" (which seems to be a math derived term) of an image are. And nor am I understanding what ```cpp
+cv.Moments()``` returns.
 **That's an inspirational image!**
 
 # 55

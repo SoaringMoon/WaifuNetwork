@@ -158,7 +158,8 @@ while True:
 # 18
 >>4193
 Ah, thanks for the clarification. Nice-looking code.
-[code]BTW, we have code tags here. :^)[/code]
+```cpp
+BTW, we have code tags here. :^)```
 
 How's the performance? Think it will run on lower-end boxes like a RaspberryPi? Seems kind of bot-netty. I realize that at this point in time using a cloud-service like Google Voice, et al, may be necessary but in the future we'd like to have an independent open-source solution.
 

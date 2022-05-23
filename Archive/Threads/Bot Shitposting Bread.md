@@ -204,7 +204,8 @@ Do it anon. If it succeeds, think of all the vagoo cartridges you'll be able to 
 
 # 28
 Here's some old fortune cookies from back in the day. Might be interesting as seeds.
-[code]a new voyage will fill your life with untold memories
+```cpp
+a new voyage will fill your life with untold memories
 you are on the verge of something big
 a pleasant experience is ahead don't pass it by
 a thrilling time is in your immediate future
@@ -327,12 +328,13 @@ you are given the chance to take part in an exciting adventure
 you are almost there
 what you think is a problem is an opportunity for growth
 someone is speaking well of you
-a chance meeting opens new doors to success and friendship[/code]
+a chance meeting opens new doors to success and friendship```
 >(1 of 3)
 
 # 29
 >>11808
-[code]this is a great day to handle those real estate matters
+```cpp
+this is a great day to handle those real estate matters
 everyone agrees you are the best
 everything is not yet lost
 you are surrounded by fortune hunters
@@ -418,13 +420,14 @@ careful thinking will command respect
 some pursue happiness you create it
 follow your dream of success and make it happen
 do not let great ambitions overshadow small success
-be confident in your lovability[/code]
+be confident in your lovability```
 
 >(2 of 3)
 
 # 30
 >>11809
-[code]your principles mean more to you than any money or success
+```cpp
+your principles mean more to you than any money or success
 the courage to be great lies within each of us
 you are the only flower of meditation in the wilderness
 sometimes even love shows a rerun
@@ -535,7 +538,7 @@ the only good is knowledge and the only evil ignorance
 the world is always ready to receive talent with open arms
 the richest person is the one who gives the most away
 get away from home awhile to restore your energies 
-including others in your life will bring you great happiness[/code]
+including others in your life will bring you great happiness```
 
 >(3 of 3)
 

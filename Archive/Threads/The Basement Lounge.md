@@ -311,9 +311,10 @@ Pretty sure it's motion capture without full-body tracking.
 
 # 57
 CSS to fix posts with broken newlines:
-[code]span.greentext {display: block;}
+```cpp
+span.greentext {display: block;}
 span.pinktext {display: block;}
-.divMessage br {display: block;}[/code]
+.divMessage br {display: block;}```
 
 # 58
 >>2243
@@ -459,13 +460,14 @@ But pantsu is cute
 
 # 78
 /robowaifu/ now with 28% more Chii
-[code]body {
+```cpp
+body {
     background-image: url(https://imgur.com/K2XmKPw.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-attachment: fixed;
     background-size: 28%;
-}[/code]
+}```
 
 Base64 Edition: https://pastebin.com/KibfkBkb
 
@@ -1090,11 +1092,12 @@ The vulnerability was patched in Freetype 2.10.4:
 https://sourceforge.net/projects/freetype/files/freetype2/2.10.4/
 
 To fix it in Chromium and other programs dynamically linked with Freetype:
-[code]./configure
+```cpp
+./configure
 make
 sudo make install
 sudo ldconfig
-ldd /usr/lib/chromium/chromium | grep freetype # check that it's using /usr/local/lib/libfreetype.so.6[/code]
+ldd /usr/lib/chromium/chromium | grep freetype # check that it's using /usr/local/lib/libfreetype.so.6```
 
 # 189
 >>6004
@@ -1701,7 +1704,7 @@ It'll be run however you see fit, and obviously the board still needs to be the 
 To "Anon10324" if you come back to #robowaifu on irc.fatpeople.lol I can continue helping you set up. No, we're not on freenode lol.
 
 # 288
-[spoiler]I guess I should post a quick guide for people who are young enough to have never used IRC before and have no clue what the fuck they're doing.[/spoiler] If you don't know shit about what you're doing in regards to IRC, just start by getting this: https://hexchat.github.io/
+%%I guess I should post a quick guide for people who are young enough to have never used IRC before and have no clue what the fuck they're doing.%% If you don't know shit about what you're doing in regards to IRC, just start by getting this: https://hexchat.github.io/
 When you first run hexchat you're gonna see a network list. Choose a nickname and 2 backup nicknames in case your nickname is already taken. Most people on IRC use underscores if their nick is already taken. Example:
 Nickname: nickname
 Second choice: nickname_
@@ -1733,12 +1736,13 @@ I'll drop by.
 >>6888
 I just tried to connect with tor, doesn't work.
 
-[code]b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Looking up your hostname...
+```cpp
+b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Looking up your hostname...
 b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< NOTICE (*): *** Found your hostname (tor-exit.dotsrc.org)                                                                                        
 b7a3b0de0f26.fatpeople.lol: 11/19/20 01:30 >< 465 (anon13700): You're banned!                  
 irc.fatpeople.lol: 11/19/20 01:30 >< ERROR (): Closing link: (anon13700@tor-exit.dotsrc.org) [Z-lined: You are listed in the EFnet RBL. Please visit https://rbl.efnetrbl.org/?i=130.225.244.90
  for more information.]                                                                        
-sic: remote host closed connection[/code]
+sic: remote host closed connection```
 
 # 293
 >>6893
@@ -1773,7 +1777,7 @@ Yes it can. That cuts both ways of course, which is why I don't use IRC w/o Tor,
 
 # 299
 >>6916
-[spoiler]The entire server, not just the channel, is run by a webring admin with a good record and is not hosted on some third party like freenode or rizon. IPs are not displayed. You know how lynxchan hashes IPs so that you can't see what someone's IP is but you can still moderate? This is handled the same way and is arguably no different and certainly no worse than using lynxchan sites like julay. Also you can use VPN or proxy. Just wanted to make sure you understand this.[/spoiler]
+%%The entire server, not just the channel, is run by a webring admin with a good record and is not hosted on some third party like freenode or rizon. IPs are not displayed. You know how lynxchan hashes IPs so that you can't see what someone's IP is but you can still moderate? This is handled the same way and is arguably no different and certainly no worse than using lynxchan sites like julay. Also you can use VPN or proxy. Just wanted to make sure you understand this.%%
 
 # 300
 LOL I like going through comment section of videos like this. Those comments written 4 years ago are pretty precious :DDDDDD
@@ -2275,8 +2279,9 @@ Could you please link the book or say the name of the author? I'd like to read i
 
 # 380
 >>7276
-[code]Applied Behavior Analysis
-Timothy E. Heron, William L. Heward, John O. Cooper[/code]
+```cpp
+Applied Behavior Analysis
+Timothy E. Heron, William L. Heward, John O. Cooper```
 
 # 381
 >>7270
@@ -2529,7 +2534,7 @@ But if I feel a direct attack is being levied against the motivation and psychol
 
 # 417
 >>7405
-My point is not really that at all. In fact, if you wanted this to be a shitpost-free board and you moderated shitposting, that's fine but this kind of thing needs to be clear. It's so unclear to me and evidently some others how things are being run. If you would please drop by the IRC so we can chat, I have a literal text file list of things I would like to discuss with you. I have your best interests and the boards best interests in mind. [spoiler]I literally took over for a period while you were gone to prevent this place from being burned to the ground in your absence[/spoiler]
+My point is not really that at all. In fact, if you wanted this to be a shitpost-free board and you moderated shitposting, that's fine but this kind of thing needs to be clear. It's so unclear to me and evidently some others how things are being run. If you would please drop by the IRC so we can chat, I have a literal text file list of things I would like to discuss with you. I have your best interests and the boards best interests in mind. %%I literally took over for a period while you were gone to prevent this place from being burned to the ground in your absence%%
 
 # 418
 >>7406
@@ -3029,7 +3034,8 @@ On that note: I'm using youtub-dl, for backups or to download stuff I can watch 
 I use it basically daily, including within minutes of you posting the link above.
 
 You have to regularly (like at least once a month) update it. On Linux, just
-[code]sudo youtube-dl -U[/code]
+```cpp
+sudo youtube-dl -U```
 
 You sudo b/c the bin is in a privileged directory. On W*ndblows, you just leave the sudo off.
 
@@ -3045,7 +3051,8 @@ Ah, I see the problem now. Pip doesn't have the most current version anymore. Ne
 >>8257
 >>8259
 Yeah, I just always start with the official link
-[code]https://ytdl-org.github.io/youtube-dl/download.html[/code]
+```cpp
+https://ytdl-org.github.io/youtube-dl/download.html```
 
 My version is '''2021.01.16'''
 
@@ -3231,10 +3238,12 @@ Before creating a bot you should have a server ready to add it to but it's not n
 
 ==How to Code a Basic Discord Bot in Python==
 First you need the discord.py API library. You can obtain it easily via pip:
-[code]python -m pip install --user discord.py[/code]
+```cpp
+python -m pip install --user discord.py```
 
 The discord.py API is event driven. Your bot will receive events of anything that happens and can respond. Here's a simple script to get started:
-[code]import discord
+```cpp
+import discord
 import os
 import getpass
 
@@ -3253,7 +3262,7 @@ async def on_message(message):
     if message.content.startswith("$hello"):
         await message.channel.send("Hello!")
 
-client.run(getpass.getpass("Token: "))[/code]
+client.run(getpass.getpass("Token: "))```
 When you run this it will ask for your bot's token. When your bot goes live to the public you should not have it hardcoded in or someone will have full control of it if your system is even slightly compromised. While developing it's fine to hardcode it for convenience but don't forget to secure it again and regenerate the token once your bot starts joining other people's servers.
 
 To get the token go to the Bot page of your application in the developer's portal. Under the Token section, click Copy. Paste it into the terminal with Ctrl+Shift+V and press Return. Note: the script will not display the token when you paste it.
@@ -3270,7 +3279,7 @@ What happened to nanochan?
 
 # 510
 >>8187
->in our path to victory in the [spoiler]gynocentric[/spoiler] world we're in cannot be a straight line
+>in our path to victory in the %%gynocentric%% world we're in cannot be a straight line
 
 bingo
 
@@ -3623,7 +3632,7 @@ safe and effective
 # 560
 I wonder if the Japanese could help us here? Their situation actually seems bleaker than us in the Western sphere, which is really unfortunate. Posting here b/c no other aaplicable thread that I could find - re: the problem requiring this "solution" ; )
 
-[spoiler] also amazes me how some deluded wannabe "alphas" will support this as eugenics, when forgetting that the bottom % of females still breed. Not to mention that evolutionary drives for women are irrational and counterproductive to a eugenic population. Sociopaths and criminals will get a disproportionate share whereas the intelligent and those with conscientiousness will be biased against. IMO, I don't have the data points to based this on but I'm sure they're out there in some form [/spoiler]
+%% also amazes me how some deluded wannabe "alphas" will support this as eugenics, when forgetting that the bottom % of females still breed. Not to mention that evolutionary drives for women are irrational and counterproductive to a eugenic population. Sociopaths and criminals will get a disproportionate share whereas the intelligent and those with conscientiousness will be biased against. IMO, I don't have the data points to based this on but I'm sure they're out there in some form %%
 
 we give the lower 90% back their autonomy and self worth and we'll be that much closer to technological singularity and ardishev type II civ
 

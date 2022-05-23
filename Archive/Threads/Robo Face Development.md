@@ -764,7 +764,7 @@ Hey for those of us going for the human look, the use of prosthetics are always 
 
 # 132
 >>8326
-Correct, they had this idea mentioned in the original board [spoiler]on 8chan[/spoiler]. I never looked into it so far, where these are available, what they cost and where to get them. There must be some sources for training of dentists or something. They seem to have some kind of dolls with fake teeth to train on. Not sure how hard they are, though. I hope we get them made  out of ceramics in some standardized sizes and don't need to build them on our own as well.
+Correct, they had this idea mentioned in the original board %%on 8chan%%. I never looked into it so far, where these are available, what they cost and where to get them. There must be some sources for training of dentists or something. They seem to have some kind of dolls with fake teeth to train on. Not sure how hard they are, though. I hope we get them made  out of ceramics in some standardized sizes and don't need to build them on our own as well.
 
 # 133
 >>8331
@@ -797,7 +797,8 @@ Oh, video: --write-sub --write-description https://youtu.be/9RzCZZBjlxM
 Thanks very much for taking the extra time to give a more full youtube-dl command to use Anon. Getting and keeping the description and subs will be important to anyone keeping personal archive of YT videos, once cancel-culture Marxism literally deletes anything/everything that could possibly have any bearing whatsoever on either robowaifu creation, or ''anything else'' that could possibly help men.
 
 Since the Lynxchan software adds an '[Embed]' into the text of the command, I always put such a command here on /robowaifu/ inside codeblocks, since the CSS here disables this embed tag.
-[code]youtube-dl --write-description --write-auto-sub --sub-lang="en" https://youtu.be/9RzCZZBjlxM[/code]
+```cpp
+youtube-dl --write-description --write-auto-sub --sub-lang="en" https://youtu.be/9RzCZZBjlxM```
 
 # 140
 >>10461

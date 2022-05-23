@@ -88,7 +88,8 @@ BTW I'm building the prereqs for MeTA rn on my box, I'm gonna give it a go, sinc
 # 10
 >>2313
 >prereqs
-[code]Arch Linux Build Guide
+```cpp
+Arch Linux Build Guide
 Arch Linux consistently has the most up to date packages due to its rolling release setup, so it’s often the easiest platform to get set up on.
 
 To install the dependencies, run the following commands.
@@ -115,7 +116,7 @@ make
 You can now test the system by running the following command:
 
 ./unit-test --reporter=spec
-If everything passes, congratulations! MeTA seems to be working on your system.[/code]
+If everything passes, congratulations! MeTA seems to be working on your system.```
 https://meta-toolkit.org/setup-guide.html#arch-linux-build-guide
 
 # 11
@@ -149,7 +150,8 @@ hmm. that's a surprise. good job figuring things out anon. btw i'd recommend you
 >Datasets
 >There are several public datasets that we’ve converted to the line_corpus format:
 
-[code]20newsgroups, 
+```cpp
+20newsgroups, 
 https://meta-toolkit.org/data/20newsgroups.tar.gz
 originally from here.
 http://qwone.com/~jason/20Newsgroups/
@@ -162,7 +164,7 @@ http://ai.stanford.edu/~amaas/data/sentiment/
 
 
 Any libsvm-formatted dataset can be used to create a forward_index.
-http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/[/code]
+http://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/```
 
 >sauce:
 https://meta-toolkit.org/overview-tutorial.html
@@ -186,7 +188,8 @@ https://forum.meta-toolkit.org/
 >Soon we'll be the first in the world to talk with chatbots that imitate anime characters fairly well.
 
 # 18
-[code]Alphabetical list of part-of-speech tags used in the Penn Treebank Project:
+```cpp
+Alphabetical list of part-of-speech tags used in the Penn Treebank Project:
 Number
 Tag
 Description
@@ -225,7 +228,7 @@ Description
 33.	WDT	Wh-determiner
 34.	WP	Wh-pronoun
 35.	WP$	Possessive wh-pronoun
-36.	WRB	Wh-adverb[/code]
+36.	WRB	Wh-adverb```
 
 >sauce
 https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
@@ -343,14 +346,15 @@ You. I like the way you think Anon.
 # 32
 >>2465
 oh, I wasn't thinking of using AI to recognize characters, but to parse the game data files directly. In renpy a dialog commands look like this:
-[code]
+```cpp
+
 define e = Character("Eileen", image="eileen")
 
 label start:
     show eileen mad
     e "I'm a little upset at you."
     e happy "But it's just a passing thing."
-[/code]
+```
 
 # 33
 >>2478
@@ -391,10 +395,12 @@ Some chatbot datasets from the ParlAI team that created >>3190
 To download these datasets setup ParlAI:
 https://github.com/facebookresearch/ParlAI#installing-parlai
 Then do with the dataset's appropriate task name:
-[code]python examples/display_data.py --task TASKNAME --datatype train[/code]
+```cpp
+python examples/display_data.py --task TASKNAME --datatype train```
 See the complete list of datasets and their task names here: https://github.com/facebookresearch/ParlAI/blob/master/parlai/tasks/task_list.py
 Example to download ConvAI2:
-[code]python examples/display_data.py --task convai2 --datatype train[/code]
+```cpp
+python examples/display_data.py --task convai2 --datatype train```
 
 # 37
 >>3195
@@ -403,8 +409,9 @@ Thanks, Anon!
 # 38
 >>3195
 >Example to download ConvAI2:
-[code]python examples/display_data.py --task convai2 --datatype train
-Illegal instruction (core dumped)[/code]
+```cpp
+python examples/display_data.py --task convai2 --datatype train
+Illegal instruction (core dumped)```
 ==Why Does Python Hate Me!?== 
 **:^)**
 
@@ -602,11 +609,12 @@ I do. I'll look at it and see what I can do.
 # 71
 >>9240
 So, give me some idea which of the 3 scripts you'd like to use Anon?
-[code]The scripts in bin will then create any of the three subdirectories:
+```cpp
+The scripts in bin will then create any of the three subdirectories:
 
 $ARXIV_DATA/tarpdfs   # raw pdf files from Amazon AWS bucket
 $ARXIV_DATA/fulltext  # .txt from raw .pdf
-$ARXIV_DATA/output    # co-citation network, parsed author strings, etc[/code]
+$ARXIV_DATA/output    # co-citation network, parsed author strings, etc```
 >
 
 # 72
@@ -642,7 +650,8 @@ I prepared the Cornell Movie-Dialog Corpus into a text file for training with <|
 Website: https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
 
 If I messed something up or the file is taken down the Python script to regenerate it:
-[code]
+```cpp
+
 import json
 lines = open("movie_lines.txt", "rb").read().decode("utf-8", errors='ignore').strip().split("\n")
 line_db = {}
@@ -656,7 +665,7 @@ for line in conversations:
         speaker, text = line_db[line]
         print(f"{speaker.title()}: {text}")
     print("<|endoftext|>")
-[/code]
+```
 
 # 77
 >>9500
@@ -707,7 +716,8 @@ Then get PyTorch: https://pytorch.org/get-started/locally/ (It's easiest to inst
 
 Once Python and PyTorch are installed, install the transformers library from a terminal with:
 
-[code]python -m pip install --user transformers[/code]
+```cpp
+python -m pip install --user transformers```
 This should be all you need.
 
 >>9523
@@ -889,7 +899,8 @@ LOL. That was fast Anon, thanks!
 # 108
 >>12052
 I can handle the database processing. The issue is the images. They're split up into 10 GB tar files which can be extracted with:
-[code]cpio -D output_path -ivd -H tar < images.tar.ab[/code]
+```cpp
+cpio -D output_path -ivd -H tar < images.tar.ab```
 However, some of the files will be lost doing it this way, since they're one tar file split into multiple.
 
 # 109
@@ -898,9 +909,10 @@ However, some of the files will be lost doing it this way, since they're one tar
 Paper: https://deepai.org/publication/raiders-of-the-lost-kek-3-5-years-of-augmented-4chan-posts-from-the-politically-incorrect-board
 
 Download: https://zenodo.org/record/3606810
-[code]sudo apt-get install zstd
+```cpp
+sudo apt-get install zstd
 unzstd pol_0616-1119_labeled.tar.zst
-tar -xvf pol_0616-1119_labeled.tar[/code]
+tar -xvf pol_0616-1119_labeled.tar```
 
 # 110
 >>12194
@@ -954,7 +966,8 @@ Paper: https://arxiv.org/pdf/2111.02114.pdf
 Tool to search the dataset by text or image: https://rom1504.github.io/clip-retrieval/
 
 To use the dataset you need something that can read parquet files. I recommend fastparquet which uses a minimal amount of memory.
-[code]# python -m pip install fastparquet
+```cpp
+# python -m pip install fastparquet
 from fastparquet import ParquetFile
 DATA_PATH = "part-00000-5b54c5d5-bbcf-484d-a2ce-0d6f73df1a36-c000.snappy.parquet"
 pf = ParquetFile(DATA_PATH)
@@ -963,7 +976,7 @@ row_group = next(row_group_iter)
 row_iter = row_group.iterrows()
 i, row = next(row_iter)
 row[1], row[2] # ( image_url, text )
-row.keys() # ( 'SAMPLE_ID', 'URL', 'TEXT', 'HEIGHT', 'WIDTH', 'LICENSE', 'NSFW', 'similarity' )[/code]
+row.keys() # ( 'SAMPLE_ID', 'URL', 'TEXT', 'HEIGHT', 'WIDTH', 'LICENSE', 'NSFW', 'similarity' )```
 Or you can use img2dataset which will download the images locally and resize them: https://github.com/rom1504/img2dataset
 
 The quality of the dataset isn't exactly as spectacular as >>15365 but probably as good as you can get from a raw scrape of the internet and it has a much larger breadth of content.

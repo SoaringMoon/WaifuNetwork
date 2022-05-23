@@ -39,7 +39,8 @@ lcamtuf.coredump.cx/electronics/
 # 8
 These odd letters were out there, anyone know what it could mean in fact of course?
 
-[code]magnet:?xt=urn:btih:8C68422BD958336B937669CFE037552A7E39E1BC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Horowitz%20P.%2C%20Hill%20W.%20%2F%20%D0%A5%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%86%20%D0%9F.%2C%20%D0%A5%D0%B8%D0%BB%D0%BB%20%D0%A3.%20-%20The%20Art%20of%20Electronics%2C%203rd%20Edition%20%2F%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%D1%85%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%20%5B2015%2C%20PDF%2C%20ENG%5D[/code]
+```cpp
+magnet:?xt=urn:btih:8C68422BD958336B937669CFE037552A7E39E1BC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Horowitz%20P.%2C%20Hill%20W.%20%2F%20%D0%A5%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%86%20%D0%9F.%2C%20%D0%A5%D0%B8%D0%BB%D0%BB%20%D0%A3.%20-%20The%20Art%20of%20Electronics%2C%203rd%20Edition%20%2F%20%D0%98%D1%81%D0%BA%D1%83%D1%81%D1%81%D1%82%D0%B2%D0%BE%20%D1%81%D1%85%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%B8%20%5B2015%2C%20PDF%2C%20ENG%5D```
 
 # 9
 >tfw don't understand shit about electricity no matter how hard i research
@@ -167,14 +168,17 @@ www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH
 # 30
 >>1554
 BTW, this guy uploads 4K videos mixed in with the more normal-sized ones which brings my little box to it's knees and ruins the playback. Here's how I limited the video download size to the best 1080p quality for the 8-bit breadboard computer playlist:
-[code]youtube-dl -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' -i https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU[/code]
+```cpp
+youtube-dl -f 'bestvideo[height<=1080]+bestaudio/best[height<=1080]' -i https://www.youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU```
 
 Substitute the list at the end for w/e other playlist the guy provides to also limit that one to only 1080p.
 
 # 31
 >>1554
 One other thing, there were these alpha-numeric characters out there. No telling what they mean tbh, but w/e maybe someone can decode them or something. **:^)**
-[code]b-ok.cc/dl/2883608/42d59a[/code][code]b-ok.cc/book/2829641/bf9762[/code]
+```cpp
+b-ok.cc/dl/2883608/42d59a``````cpp
+b-ok.cc/book/2829641/bf9762```
 
 # 32
 Digital Logic Simulator 'game'
@@ -324,7 +328,8 @@ Related: Buying or building your own electronic speed controller for a BLDC moto
 So, since the last time I checked out the 6502 project from Ben Eater, he's added a couple more videos (nos. 11 & 12) about the basics of interrupt requests, and devising interrupt request service routines. The latter is accomplished in the second video via the 6522 interface chip. 
 
 Certainly some professional-tier Digital EE material, and touches on a few topics that we'd run into creating the embedded electronics for robowaifus. You need to understand the assembler involved, as well as digital electronics edge states etc., which are covered in other videos from his channel.
-[code]youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/watch?v=DlEa8kd7n3Q https://www.youtube.com/watch?v=oOYA-jsWTmc[/code]
+```cpp
+youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://www.youtube.com/watch?v=DlEa8kd7n3Q https://www.youtube.com/watch?v=oOYA-jsWTmc```
 
 >the full playlist:
 https://www.youtube.com/playlist?list=PLowKtXNTBypFbtuVMUVXNR0z1mu7dp7eH
@@ -335,7 +340,8 @@ Assembly manual
 >
 
 Assembly videos:
-[code]youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://gigatron.io/?page_id=544[/code]
+```cpp
+youtube-dl -i --write-description --write-auto-sub --sub-lang="en" https://gigatron.io/?page_id=544```
 https://github.com/kervinck/gigatron-rom
 
 # 53
@@ -442,7 +448,8 @@ https://www.youtube.com/watch?list=PLYE0XunAbwfDvfabOlNWLViRcMI54M6CR
 Made this for my own benefit. Figured it might be slightly useful to any anons who yt'dl this playlist too.
 
 >playall.m3u
-[code]But How Do It Know Video #1 - Introduction-HeYAtkbHvuQ.mkv
+```cpp
+But How Do It Know Video #1 - Introduction-HeYAtkbHvuQ.mkv
 But How Do It Know Video #2 -  The NAND Gate-7X8Xe6NdX_U.mkv
 But How Do It Know Video #3 - The NOT and AND Gates-RsS5E09KOFQ.webm
 But How Do It Know Video #4 - 1-bit Memory-T_zmJFBdT1Y.mkv
@@ -473,7 +480,7 @@ But How Do It Know Video #28 - The FLAGS Register and JCAEZ Circuitry-vwnRNcgfYN
 But How Do It Know Video #29 - The IO Instructions and Devices-ELyPN6f-HLM.mkv
 But How Do It Know Video #30 - Assembly Language and Automatic Clock-VEP-cN9Z8i0.mkv
 But How Do It Know Video #31 - Running Sample Programs-ldliqjpa3L0.mkv
-But How Do It Know Video #32 - Conclusion-PlRL-e-tk9Q.webm[/code]
+But How Do It Know Video #32 - Conclusion-PlRL-e-tk9Q.webm```
 
 # 70
 >>14342

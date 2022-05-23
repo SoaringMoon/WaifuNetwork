@@ -143,8 +143,9 @@ https://releases.llvm.org/9.0.0/tools/clang/tools/extra/docs/clang-tidy/checks/l
 
 # 20
 First things first. Let's make sure we're all on the same page with our compilers. 
-[code]g++ --version
-clang++ --version[/code]
+```cpp
+g++ --version
+clang++ --version```
 If you worked your way through the RPi 'sepplesberry' setup thread >>4969, then you should see the same thing.
 > #1
 
@@ -161,8 +162,9 @@ While we'll consistently be using the C++ IDE ''Juci++'', it will also be a real
 > #2 #3
 
 In fact, theoretically you don't even have to use an ''editor'' to write and compile software.
-[code]echo "int main () {}" > foo.cpp
-g++ foo.cpp[/code]
+```cpp
+echo "int main () {}" > foo.cpp
+g++ foo.cpp```
 > #4
 
 Alright, let's get going with our C++ class, /robowaifu/.
@@ -201,7 +203,8 @@ That's it. You've gotten C++ running on your embedded computer. Next we'll break
 
 You notice there was no 'Hello World!' output result in the terminal, but also that there wasn't any error messages either. So, the minimal valid C++ program is simply
 
-[code]int main() { }[/code]
+```cpp
+int main() { }```
 > #1
 
 This silly example is a do-nothing function that takes no arguments, and performs no actions. Now let's have a look at this (actually important) example function '''main()''' a little closer.
@@ -217,7 +220,8 @@ This silly example is a do-nothing function that takes no arguments, and perform
 -From ''Tour++ §1.2.1 Hello World!''
 
 >The minimal C++ program is
-> [code]int main() { }  // the minimal C++ program[/code]
+> ```cpp
+int main() { }  // the minimal C++ program```
 >This defines a function called main, which takes no arguments and does nothing.
 >Curly braces, '''{ }''', express grouping in C++. Here, they indicate the start and end of the function body. The double slash, '''//''', begins a comment that extends to the end of the line. A comment is for the human reader; the compiler ignores comments.
 >Every C++ program must have exactly one global function named '''main()'''. The program starts by executing that function. The '''int''' integer value returned by main(), if any, is the program’s return value to "the system." If no value is returned, the system will receive a value indicating successful completion. 
@@ -229,7 +233,8 @@ So actually, this is both the most important function in one sense, and the 4-pa
 >>5422
 -Choose ''Edit > Undo'' 3 times to get the original hello world code back.
 -Between the ''#include <iostream>'' and ''int main() {'' add this code:
-[code]void baz() {
+```cpp
+void baz() {
   std::cout << "baz()\n";
 }
 
@@ -239,12 +244,13 @@ void bar() {
 
 void foo() {
   std::cout << "foo()\n";
-}[/code]
+}```
 
 -Below the ''  std::cout << "Hello World!\n";'' inside main() add this code:
-[code]  foo();
+```cpp
+  foo();
   bar();
-  baz();[/code]
+  baz();```
   
 -Now run the program (ctrl+enter)
 > #1
@@ -262,7 +268,8 @@ Now let's rearrange things just a bit to demonstrate chaining function calls tog
 -Cut the ''bar();'' code from main(), and paste it in the bottom of the ''foo()'' function body.
 -Cut the ''baz();'' code from main(), and paste it in the bottom of the ''bar()'' function body.
 -Add a new statement at the bottom of the ''main()'' function body.
-[code]  std::cout << "Back from 3 functions, now exiting.\n";[/code]
+```cpp
+  std::cout << "Back from 3 functions, now exiting.\n";```
 
 Run the program.
 > #1
@@ -279,9 +286,11 @@ The takeaway here is that the single statement ''foo();'' inside main() triggere
 
 # 27
 Functions form the heart of software development. Unlike the silly ''foo() bar() baz()'' canonical examples, functions are actually named meaningfully in real code. For example:
-[code]bool waifu_stand()[/code]
+```cpp
+bool waifu_stand()```
 and
-[code]bool waifu_sit()[/code]
+```cpp
+bool waifu_sit()```
 are pretty recognizable at a glance, simply by their function name. 
 
 Don't worry if it's a little confusing for now, it will make a lot more sense to you as we go along Anon. We'll be talking about functions very often.
@@ -292,7 +301,8 @@ Cheers.
 
 # 28
 When you write computer software, you use variables to hold information inside the computer. Variables have both a ''name'' and a ''type''. For example, the statement:
-[code]const int over_9000{9001};[/code]
+```cpp
+const int over_9000{9001};```
 tells C++ to set up an object inside the computer's memory named 'over_9000' . It's interpreted as the ''integer'' variable type by C++, and pre-loaded with the constant (unchanging) value '9001'.
 
 There are effectively just four fundamental (that is, directly ''built-in'' to the language) types in C++ :
@@ -371,18 +381,21 @@ We're going to play around with a simplistic mapping of sayings our waifu can sa
 
 -As always, delete the default ''.clang-format'' file that Juci automatically creates in our project directories. This will ensure that the clang-format system picks up and uses our own, better, .clang-format file we have already created in our home directories.
 -Copy the two ''amalgamated'' files from the Catch2 local repo into our project directory:
-[code]cd ~/_prj/waifu_say/
-cp ~/_repo/Catch2/extras/*amalgamated.* .[/code]
+```cpp
+cd ~/_prj/waifu_say/
+cp ~/_repo/Catch2/extras/*amalgamated.* .```
 > #2
 
 We'll be using these two files to perform testing on our software. Let's create a new ''test.cpp'' file and #include that new header file first thing.
-[code]#include "catch_amalgamated.hpp"[/code]
+```cpp
+#include "catch_amalgamated.hpp"```
 > #3
 
 Open the ''meson.build'' file and make these two changes:
 -Change the C++ standard flag to ''-std=c++2a''
 -Add a new executable for the project to build named ''test_say'' and add both the test.cpp & catch .cpp files as it's sources
-[code]executable('test_say', ['test.cpp', 'catch_amalgamated.cpp'])[/code]
+```cpp
+executable('test_say', ['test.cpp', 'catch_amalgamated.cpp'])```
 > #4
 
 Go ahead and build now (ctrl+enter). If everything went well, you should see that Juci compiled ''two'' executables for the project this time, ''waifu_say'' & ''test_say''. Note: the very first time compiling with this new header takes a good while b/c raisins. It will go along faster afterwards.
@@ -395,22 +408,26 @@ https://www.youtube.com/watch?v=N2gTxeIHMP0
 I'd recommend you make the hour or so to watch this talk. We'll be loosely adopting his approach to drive the design of our simple waifu_say class.
 
 Open the ''test.cpp'' file and add a new blank test case:
-[code]TEST_CASE("Just like make robowaifu") {}[/code]
+```cpp
+TEST_CASE("Just like make robowaifu") {}```
 
 The test case's description is just a free-form string. It's generally important to name these test cases meaningfully, but we'll just go ahead with this memetic version for now. :^)
 Build it. If all went well, you should see some results from Catch2 in the Juci terminal emulator:
-[code]===============================================================================
+```cpp
+===============================================================================
 test cases: 1 | 1 passed
 assertions: - none -
 
-~/_prj/waifu_say/build/test_say returned: 0[/code]
+~/_prj/waifu_say/build/test_say returned: 0```
 
 Since Catch2 provides nice coloration, we'll generally be running our tests in terminal shell instead:
-[code]build/test_say[/code]
+```cpp
+build/test_say```
 > #1
 
 Now let's add a C++ std::map with a few strings that represent things our waifu might say to us into test.cpp:
-[code]#include <cstdint>
+```cpp
+#include <cstdint>
 #include <map>
 #include <string>
 
@@ -419,11 +436,12 @@ const std::map<uint32_t, std::string> sayings{
     {2, "Did you have a hard day Oniichan?"},
     {3, "Oniichan, do your best!"},
     {4, "Poor Oniichan, please get some rest."},
-};[/code]
+};```
 > #2
 
 Let's create our first failing test by adding a (non-existent) ''Robowaifu'' class variable into our test:
-[code]Robowaifu waifu[/code]
+```cpp
+Robowaifu waifu```
 
 Build it and see that we have our first failing test.
 > #3
@@ -440,21 +458,24 @@ https://levelofindirection.com/refs/tdcpp.html
 # 36
 >>6520
 OK, now let's write our first test assertion ( a ''REQUIRE()'' in Catch2 ). We'd like our waifu simply to ''say'' things to us, so we'll just type that out, using one of the key numbers from std::map ''sayings'':
-[code]REQUIRE(waifu.say(1));[/code]
+```cpp
+REQUIRE(waifu.say(1));```
 
 Building that gives us our next failing test:
 > #1
 
 Ofc, the ''Robowaifu'' class has no function named ''say()'' yet. So let's add that public member function to the class and try again:
-[code] public:
-  std::string say(uint32_t say_num) const {}[/code]
+```cpp
+ public:
+  std::string say(uint32_t say_num) const {}```
 
 Building that gives us a lengthy error-spew. Scrolling up, we find the pertinent bit as the first error in the output:
-[code]In file included from ../test.cpp:5:
+```cpp
+In file included from ../test.cpp:5:
 ../test.cpp: In function ‘void ____C_A_T_C_H____T_E_S_T____0()’:
 ../catch_amalgamated.hpp:5229:54: error: no match for ‘operator!’ (operand type is ‘std::__cxx11::string’ {aka ‘std::__cxx11::basic_string<char>’})
      } while( (void)0, (false) && static_cast<bool>( !!(__VA_ARGS__) ) )
-                                                      ^~~~~~~~~~~~~~[/code]
+                                                      ^~~~~~~~~~~~~~```
 >protip: Always search for the ''first'' error in a spew. This is usually the culprit.
 > #2
 
@@ -462,11 +483,13 @@ The problem is ''' error: no match for ‘operator!' ''' . Wat does this mean? :
 The problem is that the REQUIRES() is a binary test and needs two parts. We've only given it the first half, but not the second. Basically, we have to provide the string for it to compare the argument ''waifu.say(1)'' against.
 
 OK, let's fix that:
-[code]REQUIRE(waifu.say(1) == "I love you Oniichan!");[/code]
+```cpp
+REQUIRE(waifu.say(1) == "I love you Oniichan!");```
 > #3
 
 Welp trying again and it looks like we're still red (failing). 
-[code]-------------------------------------------------------------------------------
+```cpp
+-------------------------------------------------------------------------------
 Just like make robowaifu
 -------------------------------------------------------------------------------
 ../test.cpp:19
@@ -479,17 +502,20 @@ with expansion:
 
 ===============================================================================
 test cases: 1 | 1 failed
-assertions: 1 | 1 failed[/code]
+assertions: 1 | 1 failed```
 
 What now? Looking at the the 'with expansion' section gives us the clue:
-[code]with expansion:
-  "" == "I love you Oniichan!"[/code]
+```cpp
+with expansion:
+  "" == "I love you Oniichan!"```
 > #4
 
 The first part of the equation is just an empty string "".  Looking at the function body of Robowaifu::say(), we see that we aren't actually returning anything yet. Let's add just enough to make this latest test pass:
-[code]std::string say(uint32_t say_num) const { return "I love you Oniichan!"; }[/code]
+```cpp
+std::string say(uint32_t say_num) const { return "I love you Oniichan!"; }```
 Build and run it now:
-[code]build/test_say -s[/code] 
+```cpp
+build/test_say -s``` 
 (note the ' -s ' flag. it will show us successful tests too)
 > #5
 
@@ -498,13 +524,15 @@ OK, we're back to green again.
 # 37
 >>6522
 Alright, let try a second test assertion now to get to the next failing test:
-[code]REQUIRE(waifu.say(2) == "Did you have a hard day Oniichan?");[/code]
+```cpp
+REQUIRE(waifu.say(2) == "Did you have a hard day Oniichan?");```
 > #1
 
 We can see we have one pass and one fail from our two assertions. Ofc, the return value from Robowaifu::say() simply returns the correct response for the first item in ''sayings''. Let's use the same (limited) approach to 'fix' the second assertion's failure:
-[code]  std::string say(uint32_t say_num) const {
+```cpp
+  std::string say(uint32_t say_num) const {
     return "Did you have a hard day Oniichan?";
-  }[/code]
+  }```
 Re-running the build shows all we've done by this is simply swap the errors for one another ''(note: I reversed the ''REQUIRE()''s inside the test case b/c of an early abort issue with the current devel version)''. This helps us with understanding two things.
 A) We need a better approach to our 'solution'.
 B) By leaving ''previous'' tests in place, they act as regression-test checks to let us quickly see if any new code breaks something that used to work. In this case it does ofc (the previous ''say()'' output).
@@ -513,12 +541,13 @@ So, how to make this work correctly? Juci itself can help us out here. Scrolling
 > #2
 
 A C++ std::map provides us with generic containers of pair items. In this specific case, we have a number of strings representing sayings, and they are indexed by the unsigned integer key. 
-[code]const std::map<uint32_t, std::string> sayings{
+```cpp
+const std::map<uint32_t, std::string> sayings{
     {1, "I love you Oniichan!"},
     {2, "Did you have a hard day Oniichan?"},
     {3, "Oniichan, do your best!"},
     {4, "Poor Oniichan, please get some rest."},
-};[/code]
+};```
 
 With a map, you can ''find()'' the key, and retrieve the value, pretty much the way a database works. So, next we'll refactor our ''Robowaifu::say()'' member function to use the ''say_num'' parameter and retrieve the correct text string with it.
 
@@ -531,10 +560,11 @@ In Modern C++ (17 or greater), an ''if()'' logical test can have two sections; t
 Further, a std::map item has two named parts, 'first' and 'second'. First is the key, and second is the value.
 
 Combining all these facts together, and we can write a search test to see if the ''say_num'' parameter was actually found within our map:
-[code]  std::string say(uint32_t say_num) const {
+```cpp
+  std::string say(uint32_t say_num) const {
     if (auto search = sayings.find(say_num); search != sayings.end())
       return search->second;
-  }[/code]
+  }```
 This is saying to the system, "Look for this key number. If you find it in the std::map, return true". This is the correct behavior we're looking for ofc.
 
 Re-running our system now shows us that, sure enough, we're back to green.
@@ -544,26 +574,30 @@ Great! We're done right? Well wait, what's this yellow squiggle and warning mess
 > #2
 
 Apparently our function has a problem still. Turns out we're only handling behavior for the valid case. What happens if we pass an ''invalid'' number into waifu.say() ? For example, since we currently have only 4 sayings in our map (numbered 1 - 4), what happens if we 'inadvertently' pass in a number not in that range?
-[code]REQUIRE(waifu.say(9'001) == "Foobar9000");[/code]
+```cpp
+REQUIRE(waifu.say(9'001) == "Foobar9000");```
 > #3
 
 The failing test shows us what our new say() code does with an invalid input key number:
-[code]with expansion:
-  "" == "Foobar9000"[/code]
+```cpp
+with expansion:
+  "" == "Foobar9000"```
   
 Similar to earlier in our code, the function just returns an empty string. Instead of simply returning ''nothing'' from our function with an invalid input, what if we improved it a little by at least indicating that our waifu doesn't understand the saying number we asked for from her.
-[code]  std::string say(uint32_t say_num) const {
+```cpp
+  std::string say(uint32_t say_num) const {
     if (auto search = sayings.find(say_num); search != sayings.end())
       return search->second;
 
     return "I don't understand Oniichan...";
-  }[/code]
+  }```
   
 Ah, that got rid of the squiggles too. Now our waifu is telling us if she doesn't understand what we just asked for.
 > #4
 
 But we're still failing that final test. Sometimes the ''tests themselves'' are the problem. Let's change the invalid, bogus one to use the '''!=''' operator instead and re-run:
-[code]REQUIRE(waifu.say(9'001) != "Foobar9000");[/code]
+```cpp
+REQUIRE(waifu.say(9'001) != "Foobar9000");```
 > #5
 
 So, seems like we're back to all green and we have a system that will properly look up a valid key and return the correct text to us, and provide a helpful message when we pass in an invalid one (and not break the system). Seems like we're making good progress with our Robowaifu class so far and our tests.
@@ -580,14 +614,16 @@ Till then, cheers!
 Since it may be a bit before I come back with more, I figured I'll go ahead and temporarily post the 3 file's current-state contents, just in case any anons following along are getting stuck.
 
 >main.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 
 int main() {
   std::cout << "Hello World! \n";
-}[/code]
+}```
 
 >test.cpp
-[code]#include <cstdint>
+```cpp
+#include <cstdint>
 #include <map>
 #include <string>
 
@@ -617,15 +653,16 @@ TEST_CASE("Just like make robowaifu") {
   REQUIRE(waifu.say(1) == "I love you Oniichan!");
 
   REQUIRE(waifu.say(9'001) != "Foobar9000");
-}[/code]
+}```
 
 >meson.build
-[code]project('waifu_say', 'cpp')
+```cpp
+project('waifu_say', 'cpp')
 
 add_project_arguments('-std=c++2a', '-Wall', '-Wextra', language: 'cpp')
 
 executable('waifu_say', 'main.cpp')
-executable('test_say', ['test.cpp', 'catch_amalgamated.cpp'])[/code]
+executable('test_say', ['test.cpp', 'catch_amalgamated.cpp'])```
 
 >===
 -''fixed operator!=()''
@@ -660,7 +697,8 @@ Hopefully, we'll integrate some of it's contents ITT in addition to the two prim
 
 # 44
 So the silly test ''REQUIRE(waifu.say(9'001) != "Foobar9000");'' was really just an artifact of the way we grew the code, and isn't really relevant for a proper test. We've already provided for a reasonable result from our class' member function on an invalid input ''"I don't understand Oniichan..."'', so time for a minor refactoring of the test itself.
-[code]REQUIRE(waifu.say(9'001) == "I don't understand Oniichan...");[/code]
+```cpp
+REQUIRE(waifu.say(9'001) == "I don't understand Oniichan...");```
 > #1
 
 Recall from Phil Nash's ''Test Driven C++'' talk linked above that there are 3 steps in the primary TDD loop:
@@ -674,8 +712,9 @@ Even tests may need refactoring themselves, as we saw above. But we're not done 
 What might be a better approach is to provide a valid input, and then check for both the positive result, and then confirm it's inverse; 'not a negative' result. To put it another way, let's also make sure we don't get a "I don't understand Oniichan..." when we give a valid input. This may seem silly at first, but once code grows big and things begin to change around this approach (testing the positive and negative) can help us smoke out regression bugs we might introduce.
 
 Let's remove one of the redundant positives, and replace it with the 'not a negative' test instead.
-[code]  REQUIRE(waifu.say(1) == "I love you Oniichan!");
-  REQUIRE(waifu.say(1) != "I don't understand Oniichan...");[/code]
+```cpp
+  REQUIRE(waifu.say(1) == "I love you Oniichan!");
+  REQUIRE(waifu.say(1) != "I don't understand Oniichan...");```
 OK, that passes and we now can be fairly sure that if we give a valid input, we'll get a valid output.
 > #3 #4
 
@@ -684,17 +723,20 @@ OK, that passes and we now can be fairly sure that if we give a valid input, we'
 OK, now that we've wrung our simple Robowaifu class with it's sole member function out a bit, let's lift both it and the ''sayings'' std::map out into their own files, and we can begin using them outside our test system.
 
 Create two new files in our project 'Robowaifu.hpp' & 'sayings.hpp', (''File > New File''). Cut & paste the Robowaifu class into it's own file, and the sayings std::map into it's own file. You'll also need to add the appropriate C++ library includes for each file as well. Eg:
-[code]#include <cstdint>
+```cpp
+#include <cstdint>
 #include <map>
-#include <string>[/code]
+#include <string>```
 > #1 #2
 
 Since we've moved the sayings std::map off into it's own file, we'll need to include it into the Robowaifu.hpp file so the class itself can find the sayings data.
-[code]#include "sayings.hpp"[/code]
+```cpp
+#include "sayings.hpp"```
 > #3
 
 The test file now just contains the test (as we'd like), but we need to add an #include for the new Robowaifu.hpp file so the test can find the new location of the class itself.
-[code]#include "Robowaifu.hpp"[/code]
+```cpp
+#include "Robowaifu.hpp"```
 > #4
 
 Now let's switch over to ''main.cpp'', the program itself, and after including the Robowaifu.hpp once again, and instantiating a Robowaifu object, we'll try testing the valid sayings and a couple of invalid ones. Everything seems to be working so far:
@@ -740,7 +782,8 @@ I discovered the issue, and so accordingly I'm aiming to fix it so that any Anon
 Anyway, after a little initial efforts here it is Anon. I plan to eventually keep adding to it until all 5 of the GUI chapters have been completed here.
 
 >chapter.12.3.cpp
-[code]// The B5 Project
+```cpp
+// The B5 Project
 // ==============
 // Bjarne's Big Blue Birb Book; Wakey-Wakey Exercises edition  (aka PPP2)
 
@@ -792,9 +835,10 @@ int main() {
 // https://stroustrup.com/programming.html
 
 // Copyright (2021)
-// License MIT (Expat) https://opensource.org/licenses/MIT[/code]
+// License MIT (Expat) https://opensource.org/licenses/MIT```
 >B5_project-0.1.tar.xz.sha256sum
-[code]ba6ea168d8e3da248b8c96605eac008ac711611c9e333a7108e381835c0f5ba8 *B5_project-0.1.tar.xz[/code]
+```cpp
+ba6ea168d8e3da248b8c96605eac008ac711611c9e333a7108e381835c0f5ba8 *B5_project-0.1.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >backup drop onto catbox
 https://files.catbox.moe/wffny3.7z
@@ -808,7 +852,8 @@ Note: I have an unresolved bug where color selections are taking the new color a
 Cheers.
 
 >version_log snippet
-[code]210913 - v0.1a
+```cpp
+210913 - v0.1a
 ---------------
 -add '[B5]' tag comments in example codes, to mark our edits/changes
 -add chapter.12.7.3-2.cpp
@@ -825,9 +870,10 @@ Cheers.
 -add chapter.12.7.1.cpp
 -add standard file header to meson.build, test_basic_sanity.cpp, doctest.h
 -patch dated command example provided in version.log
--various minor comment & javadoc edits[/code]
+-various minor comment & javadoc edits```
 >B5_project-0.1a.tar.xz.sha256sum
-[code]1cf0b08048a8e6151b716dd9d967f9f1d433eebb0bc72ce810ecba7383ab2ab1 *B5_project-0.1a.tar.xz[/code]
+```cpp
+1cf0b08048a8e6151b716dd9d967f9f1d433eebb0bc72ce810ecba7383ab2ab1 *B5_project-0.1a.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >leaving a dropping in the catbox
 https://files.catbox.moe/f96zhn.7z
@@ -843,7 +889,8 @@ Alright, so I suppose I may just try to adopt a general standard of making a pus
 The cool Function added in for graphing a sine wave is nice. If you examine the definition code in Graph.cpp for implementing the function drawing, you'll see it's really pretty straightforward IMO. No fancy maths needed on your part, the '''std::sin''' function does all that for you already.
 
 >version.log snippet
-[code]210913 - v0.1b
+```cpp
+210913 - v0.1b
 ---------------
 -add chapter.12.7.6-1.cpp
 -begin debugging line color issue (behavior changed w/ Rectangle)
@@ -854,9 +901,10 @@ The cool Function added in for graphing a sine wave is nice. If you examine the 
 -add chapter.12.7.4.cpp
 -add Window label re-assignment test
 -add standard file header to test_all.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.1b.tar.xz.sha256sum
-[code]6f5f69fa882b8cb39db03a41f2a6299114590377275c1b13e4c1c049350a71e4 *B5_project-0.1b.tar.xz[/code]
+```cpp
+6f5f69fa882b8cb39db03a41f2a6299114590377275c1b13e4c1c049350a71e4 *B5_project-0.1b.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >just leaving a fresh dropping in the catbox :^)
 https://files.catbox.moe/d3ub7c.7z
@@ -865,7 +913,8 @@ https://files.catbox.moe/d3ub7c.7z
 Well, thankfully I seemed to have gotten ahead of the game a little bit and found the basic line color issue (it was in the Shape class). So hopefully that's sorted, but I'll continue looking into it further. So, hopefully it looks like there need be any real timeout break between Ch12 & Ch13 postings here?
 
 >version.log snippet
-[code]210914 - v0.1c
+```cpp
+210914 - v0.1c
 ---------------
 -add Text label re-assignment test
 -need Graph_lib namespace specifier for Font details 
@@ -876,9 +925,10 @@ Well, thankfully I seemed to have gotten ahead of the game a little bit and foun
 -add chapter.12.7.7.cpp
 -patch East-const in error()
 -add chapter.12.7.6-2.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.1c.tar.xz.sha256sum
-[code]602c141c7baf0f4566e494ddb5cd0ae117583795bfabb02c8e6665c2389d631c *B5_project-0.1c.tar.xz[/code]
+```cpp
+602c141c7baf0f4566e494ddb5cd0ae117583795bfabb02c8e6665c2389d631c *B5_project-0.1c.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >the making of the droppings into the catboxes :^)
 https://files.catbox.moe/ma3p1s.7z
@@ -899,7 +949,8 @@ I also had a go at a couple of the utility functions related to Images display. 
 So anyway, it's good to get to the end of this first chapter in the GUI section of the textbook. Unsurprisingly, there's a nice learning curve to get over with all the new concepts, etc., and hopefully things are already getting easier for you as you work along with us Anon. Cheers.
 
 >version.log snippet
-[code]210915 - v0.1d
+```cpp
+210915 - v0.1d
 ---------------
 -add Ellipse major/minor axes test
 -#include <cmath> in Graph.h
@@ -914,9 +965,10 @@ So anyway, it's good to get to the end of this first chapter in the GUI section 
 -add 2 image resources to ./assets/
 -add ./assets/ directory
 -add chapter.12.7.9-1.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.1d.tar.xz.sha256sum
-[code]fac5b79b783052a178bf0a1691735609737fc30bbdf92bf75c0be1113a7ed13b *B5_project-0.1d.tar.xz[/code]
+```cpp
+fac5b79b783052a178bf0a1691735609737fc30bbdf92bf75c0be1113a7ed13b *B5_project-0.1d.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >having of the droppings into the catboxes is much better than of being into the streets :^)
 https://files.catbox.moe/fy4bp7.7z
@@ -930,7 +982,8 @@ I'm skipping the first window's capp, since basically it's almost identical visu
 As for 'versioning' the files, I'm simply planning to add a tick number one for each chapter. No real reason to do anything more complicated here, since this is really just a progress dump and version numbers are only being used to mark time with.
 
 >verson.log snippet
-[code]210915 - v0.2
+```cpp
+210915 - v0.2
 ---------------
 -add chapter.13.4.cpp
 -add chapter.13.3-2.cpp
@@ -941,9 +994,10 @@ As for 'versioning' the files, I'm simply planning to add a tick number one for 
 -patch East-const in various functions
 -minor logic consolidation in get_encoding()
 -add (overlooked) standard file footer to chapter.12.7.10.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2.tar.xz.sha256sum
-[code]d44054ad59bcadab4beaf4e542406e1e551e2617ec17db0d4e04706248020972 *B5_project-0.2.tar.xz[/code]
+```cpp
+d44054ad59bcadab4beaf4e542406e1e551e2617ec17db0d4e04706248020972 *B5_project-0.2.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >i'll probably just drop '''''(sic!)''''' making all the bad poo jokes. :^)
 https://files.catbox.moe/1nik6f.7z
@@ -956,7 +1010,8 @@ Hope you are understanding the concept of the classes' designs, and how we're in
 Anyway, here's the next 4 example files from the set.
 
 >version.log snippet
-[code]210916 - v0.2a
+```cpp
+210916 - v0.2a
 ---------------
 -add chapter.13.6.cpp
 -add chapter.13.5-3.cpp
@@ -964,9 +1019,10 @@ Anyway, here's the next 4 example files from the set.
 -add chapter.13.5-1.cpp
 -add Ellipse visibility set/read testing
 -add Ellipse color set/read testing
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2a.tar.xz.sha256sum
-[code]9e14254bf7064783fffafb5af45945675df0855624170a0c92e0f8d957abced5 *B5_project-0.2a.tar.xz[/code]
+```cpp
+9e14254bf7064783fffafb5af45945675df0855624170a0c92e0f8d957abced5 *B5_project-0.2a.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >catbox backup file:
 https://files.catbox.moe/ms1dlc.7z
@@ -975,7 +1031,8 @@ https://files.catbox.moe/ms1dlc.7z
 So, I got nothing Anon **except to say that this puts us halfway through Chapter 13  :^)**. Here's the next 4 example files from the set. 
 
 >version.log snippet
-[code]210916 - v0.2b
+```cpp
+210916 - v0.2b
 ---------------
 -add Rectangle fill color set/read testing
 -add chapter.13.9-1.cpp
@@ -983,9 +1040,10 @@ So, I got nothing Anon **except to say that this puts us halfway through Chapter
 -add chapter.13.8-1.cpp
 -add chapter.13.7.cpp
 -patch overlooked 'ch13' dir for the g++ build instructions in meson.build
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2b.tar.xz.sha256sum
-[code]197c9dfe2c4c80efb77d5bd0ffbb464f0976a90d8051a4a61daede1aaf9d2e96 *B5_project-0.2b.tar.xz[/code]
+```cpp
+197c9dfe2c4c80efb77d5bd0ffbb464f0976a90d8051a4a61daede1aaf9d2e96 *B5_project-0.2b.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >catbox backup file:
 https://files.catbox.moe/zk1jx2.7z
@@ -994,7 +1052,8 @@ https://files.catbox.moe/zk1jx2.7z
 The 13.10-1 example doesn't actually create any graphics display, so I'll skip ahead to the 13.10-2 example instead on the final one for this go. I kind of like that one too since it shows how easy it is to create a palette of colors on-screen.
 
 >version.log snippet
-[code]210917 - v0.2c
+```cpp
+210917 - v0.2c
 ---------------
 -add Line line style set/read testing
 -add as_int() member function to Line_style
@@ -1005,9 +1064,10 @@ The 13.10-1 example doesn't actually create any graphics display, so I'll skip a
 -add chapter.13.9-3.cpp
 -add chapter.13.9-2.cpp
 -patch the (misguided) window re-labeling done in chapter.13.8-1.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2c.tar.xz.sha256sum
-[code]45d1b5b21a7b542effdd633017eec431e62e986298e24242f73f91aa5bacaf42 *B5_project-0.2c.tar.xz[/code]
+```cpp
+45d1b5b21a7b542effdd633017eec431e62e986298e24242f73f91aa5bacaf42 *B5_project-0.2c.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >catbox backup file:
 https://files.catbox.moe/l7hdf0.7z
@@ -1016,15 +1076,17 @@ https://files.catbox.moe/l7hdf0.7z
 Don't think things could really have gone any smoother on this one. I never had to even look at the library code itself once, just packaged up the 4 examples for us. Just one more post to go with this chapter.
 
 >version.log snippet
-[code]210918 - v0.2d
+```cpp
+210918 - v0.2d
 ---------------
 --add chapter.13.13.cpp
 --add chapter.13.13.cpp
 --add chapter.13.12.cpp
 --add chapter.13.11.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2d.tar.xz.sha256sum
-[code]5fbcf1808049e7723ab681b288e645de7c17b882abe471d0b6ef0e12dd2b9824 *B5_project-0.2d.tar.xz[/code]
+```cpp
+5fbcf1808049e7723ab681b288e645de7c17b882abe471d0b6ef0e12dd2b9824 *B5_project-0.2d.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >catbox seems to be down for me atm so no backup this time
 n/a
@@ -1041,7 +1103,8 @@ OK another one ticked off the list! :^) Things went pretty smoothly overall,  ex
 So, the main graphic image in the last example (Hurricane Rita track) covers up the 'Next' button for the window, but it's actually still there. Just click on it's normal spot and the window will close normally. There are only 3 examples for this go, so images are a little shy on the count for this post.
 
 >version.log snippet
-[code]210918 - v0.2e
+```cpp
+210918 - v0.2e
 ---------------
 -add Font size set/read testing
 -patch missing '--use-images' arg in g++ build instructions in meson.build
@@ -1049,9 +1112,10 @@ So, the main graphic image in the last example (Hurricane Rita track) covers up 
 -add chapter.13.17.cpp
 -add chapter.13.16.cpp
 -add chapter.13.15.cpp
--various minor comment, javadoc, & formatting edits/cleanups[/code]
+-various minor comment, javadoc, & formatting edits/cleanups```
 >B5_project-0.2e.tar.xz.sha256sum
-[code]6bd5c25d6ed996a86561e28deb0d54be37f3b8078ed574e80aec128d9e055a78 *B5_project-0.2e.tar.xz[/code]
+```cpp
+6bd5c25d6ed996a86561e28deb0d54be37f3b8078ed574e80aec128d9e055a78 *B5_project-0.2e.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in readme.txt .''
 >catbox backup file:
 https://files.catbox.moe/a4h1dr.7z

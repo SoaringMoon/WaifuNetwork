@@ -133,7 +133,8 @@ I'll see about turning this into a single pdf file later.
 
 # 22
 Projects that utilize the PRUs (2x available on the Beaglebone)
-[code]Project 	Description 	Type 	Link
+```cpp
+Project 	Description 	Type 	Link
 
 -LEDscape 	BeagleBone Black cape and firmware for driving a large number of WS281x LED strips 	
 Code Library 	https://github.com/osresearch/LEDscape
@@ -233,7 +234,7 @@ Project 	http://beaglelogic.net
 Code Library 	https://github.com/BeaglePilot/beaglepilot
 
 -PRU Speak 	Implements BotSpeak, a platform independent interpreter for tools like Labview, on the PRUs 	
-Code Library 	https://github.com/deepakkarki/pruspeak[/code]
+Code Library 	https://github.com/deepakkarki/pruspeak```
 
 >sauce
 processors.wiki.ti.com/index.php/PRU_Projects
@@ -242,13 +243,14 @@ processors.wiki.ti.com/index.php/PRU_Projects
 >>3736
 >>3723
 I just realized there are 4x PRU and 4x EVE on each board.
-[code]BeagleBone Black mechanical and header compatibility
+```cpp
+BeagleBone Black mechanical and header compatibility
 TI AM5729 processor featuring 2x A15 CPU, 2x C66 DSP, 4x M4 MCU, 2x SGX544 3D, GC320 2D, IVA-HD, 4x PRU and 4x EVE
 1GB RAM and 16GB on-board eMMC flash with high-speed interface
 USB type-C for power and superspeed dual-role controller; and USB type-A host
 Gigabit Ethernet, 2.4/5GHz WiFi, and Bluetooth
 microHDMI
-Zero-download out-of-box software experienceBeagleBone Black mechanical and header compatibility[/code]
+Zero-download out-of-box software experienceBeagleBone Black mechanical and header compatibility```
 
 >sauce
 https://beagleboard.org/p/products/beaglebone-ai

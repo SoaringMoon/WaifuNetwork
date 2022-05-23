@@ -253,7 +253,8 @@ It's a bit long but it's worth every word to read for the amount of time it'll s
 
 I recommend using Anki for creating flashcards. It automatically spaces the cards for optimal learning and eventually you only see them every few months once you remember them. It's like doing power training for your memory and it will save you a lot of time studying and from restudying topics you need to know that you've forgotten from not touching in such a long time.
 Anki: https://apps.ankiweb.net/
-[code]sudo apt install anki[/code]
+```cpp
+sudo apt install anki```
 
 # 44
 >>3031
@@ -323,7 +324,8 @@ Since we may have newfriends who don't know about it yet, there is a video-downl
 https://ytdl-org.github.io/youtube-dl/index.html
 
 You should always be keeping local copies of anything important to you. In can be removed w/o a single notice, as you should be well aware of by now. Youtube-dl is very important in this regard and is pretty easy to use from the terminal.
-[code]youtube-dl https://www.youtube.com/watch?v=pHNAwiUbOrc[/code]
+```cpp
+youtube-dl https://www.youtube.com/watch?v=pHNAwiUbOrc```
 with download the best-quality copy of this hobbyist robot arm homemade video locally to your drive.
 
 # 54
@@ -588,20 +590,22 @@ Randal E. Bryant and David R. O'Hallaron, Carnegie Mellon University
 >''"Computer architecture courses spend considerable time describing the nuances of designing a high performance memory system. They discuss such choices as write through vs. write back, direct mapped vs. set associative, cache sizing, indexing, etc. The presentation assumes that the designer has no control over the programs that are run and so the only choice is to try to match the memory system to needs of a set of benchmark programs.''
 >''"For most people, the situation is just the opposite. Programmers have no control over their machine's memory organization, but they can rewrite their programs to greatly improve performance. Consider the following two functions to copy a 2048 X 2048 integer array:''
 
-[code]void copyij(long int src[2048][2048], long int dst[2048][2048])
+```cpp
+void copyij(long int src[2048][2048], long int dst[2048][2048])
 {
   long int i,j;
   for (i = 0; i < 2048; i++)
     for (j = 0; j < 2048; j++)
       dst[i][j] = src[i][j];
-} [/code]
-[code]void copyji(long int src[2048][2048], long int dst[2048][2048])
+} ```
+```cpp
+void copyji(long int src[2048][2048], long int dst[2048][2048])
 {
   long int i,j;
   for (j = 0; j < 2048; j++)
     for (i = 0; i < 2048; i++)
       dst[i][j] = src[i][j];
-}[/code]
+}```
 >''"These programs have identical behavior. They differ only in the order in which the loops are nested. When run on a 2.0 GHz Intel Core i7 Haswell processor,, copyij runs in 4.3 milliseconds, whereas copyji requires 81.8—more than 19 times slower! Due to the ordering of memory accesses, copyij makes much better use of the cache memory system.''
 
 http://csapp.cs.cmu.edu/3e/perspective.html

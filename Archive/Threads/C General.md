@@ -58,7 +58,8 @@ Do you dislike C++? If so, what are the problems you have with it?
 No not really. It's a remarkable language, actually. It's biggest problem is that big. I mean yuge. That makes the learning curve to get to where you can do big projects with it pretty steep. There are a lot of easier languages to learn.
 
 # 8
->>194
+>>194
+
 Right. I see. You basically have to be a master at it to use it properly. Do you feel that learning C++ is not worth the time?
 
 # 9
@@ -66,7 +67,8 @@ Right. I see. You basically have to be a master at it to use it properly. Do you
 Guess it depends on what you want to do actually. If you want to create a fancy webpage then JavaScript would be better and something like Python would be better for a webscraper or some kind of utility program like that. On the other hand from what this board seems like it's trying to do maybe C++ is just right who knows. I know it's going to be a lot of very hard work though, for sure.
 
 # 10
->>196
+>>196
+
 Would programming a /robowaifu/ be best done using C++?
 
 # 11
@@ -117,7 +119,8 @@ I simply clean up the raw input file a little, then go through and save out the 
 Here's the code, study it and ask questions.
 
 # 15
-[code]#include <fstream>
+```cpp
+#include <fstream>
 #include <iostream>
 #include <map>
 #include <sstream>
@@ -248,7 +251,7 @@ int main()
 // TODO: Replace my clumsy hackery with a std::find_if() + lambda, and a
 // std::transform(). When C++20 is out, convert the entire caller to
 // functional code using the Ranges library.
-[/code]
+```
 
 # 16
 >>521
@@ -260,10 +263,12 @@ To use this code yourself on a board to get it's ranked thread subject list, fol
 '''4.''' Save the file to some directory where you can also save the file from the next step. Name it ''catalog_raw'', no extensions. The code expects to find this exact name.
 '''5.''' Select all the code from the above post following the same copy+paste+save idiom, and create a file named ''rank_catalog.cpp''. Be sure to copy every single character.
 '''6.''' Open the directory where you've saved these two files inside a terminal (command prompt) and enter this command:
-[code]g++ rank_catalog.cpp -o rank_catalog -std=c++11[/code]
+```cpp
+g++ rank_catalog.cpp -o rank_catalog -std=c++11```
 This will create an executable file named ''rank_catalog'' (on Wangblows it will be ''rank_catalog.exe'').
 '''7.''' Execute the program.
-[code]./rank_catalog[/code]
+```cpp
+./rank_catalog```
 A new textfile will be generated for you named ''catalog_ranked''. Voilà, you now have a ranked copy of the board's threads. Repeat as desired for other catalogs (you don't have to go through the compiling process again, just save the ''catalog_raw'' file out again with the new data, then re-execute the program).
 
 NOTE: This code will output the thread ''comment'' for a thread with no subject. It's a simple utility for my own purposes, and I didn't need to handle that corner case.
@@ -275,7 +280,8 @@ Heh, I just discovered this doesn't work properly on Wangblows, b/c it's a shitt
 # 18
 Also, one other point. Some imageboards don't have all three of the "R:", "I:", and "P:" fields in the catalog list (as used here on julay and was the case with 8ch). This code will fail if they are not all three present. If this is the case for a board you'd like to get the ranked list from, then modify the '''bool is_stat_line(const std::string&)''' function to match your needs, recompile & re-execute.
 
-[code]// Returns true if all 3 tags are found inside the input line.
+```cpp
+// Returns true if all 3 tags are found inside the input line.
 // ex. statline:    R: 5 / I: 2 / P: 1 [R] [G] [-]
 bool is_stat_line(const std::string& line)
 {
@@ -297,7 +303,7 @@ bool is_stat_line(const std::string& line)
 
   return (p && r && i);  // <== start here, anon! :^)
 }
-[/code]
+```
 
 # 19
 Q: ''What C++ editor/IDE do you recommend, Anon?''
@@ -305,13 +311,14 @@ A: I use juCi++ on the Debian derivative, Ubuntu. Big project management I just 
 
 gitlab.com/cppit/jucipp
 
-[code]git clone --recursive https://gitlab.com/cppit/jucipp
+```cpp
+git clone --recursive https://gitlab.com/cppit/jucipp
 mkdir jucipp/build
 cd jucipp/build
 cmake -DCMAKE_CXX_COMPILER=g++ ..
 make
 sudo make install
-[/code]
+```
 
 # 20
 StackOverflow is, in general, also the best resource for finding C++ questions that have already been asked by someone before.
@@ -336,12 +343,14 @@ https://archive.is/aJytC
 
 Set it up on your box:
 ''Prereqs:'' (on my Debian deriv, see 'Getting-started-with-Runtime-Compiled-C-Plus-Plus.md' on the github's wiki for more details):
-[code]sudo aptitude install libfreetype6-dev libx11-dev libgl1-mesa-dev libglu1-mesa-dev  libglfw-dev[/code]
+```cpp
+sudo aptitude install libfreetype6-dev libx11-dev libgl1-mesa-dev libglu1-mesa-dev  libglfw-dev```
 
 '''Clone and build:'''
-[code]git clone https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus.git
+```cpp
+git clone https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus.git
 cd RuntimeCompiledCPlusPlus/Aurora
-mkdir build && cd build && cmake .. && make[/code]
+mkdir build && cd build && cmake .. && make```
 
 Now, you should be able to successfully play with the SimpleTest demo in the Examples directory. See the 'Demo-Tutorials.md' on the code wiki for more details.
 
@@ -375,7 +384,8 @@ Unfortunately, C++ takes a long time to master b/c it's yuge. It has many qualit
 You'd probably be better off going for some kind of web-stack developer if you're committed to a software career and you need income from that as quickly as possible anon.
 
 # 27
->>574
+>>574
+
 Thanks heaps for the rundown, I'll work on webshit first.
 
 # 28
@@ -422,7 +432,9 @@ mesonbuild.com/Quick-guide.html
 Ehh, may as well post the code itself just in case.
 
 > main.cpp
-[code]#include <memory>
+
+```cpp
+#include <memory>
 #include <string>
 
 #include "muh_fltk.h"
@@ -444,10 +456,11 @@ int main(int argc, char** argv)
   window->show(argc, argv);
 
   return Fl::run();
-}[/code]
+}```
 
 > muh_fltk.h
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <FL/Fl.H>
 #include <FL/Fl_Box.H>
@@ -457,10 +470,11 @@ int main(int argc, char** argv)
 auto up_box = Fl_Boxtype::FL_UP_BOX;
 auto shadow_lbl = Fl_Labeltype::_FL_SHADOW_LABEL;
 auto bold = FL_BOLD;
-auto italic = FL_ITALIC;[/code]
+auto italic = FL_ITALIC;```
 
 > meson.build
-[code]project('test_fltk', 'cpp',
+```cpp
+project('test_fltk', 'cpp',
   default_options : 'cpp_std=c++14')
 
 add_project_arguments('-Wall', '-Wextra', language: 'cpp')
@@ -474,7 +488,7 @@ srcs = ['main.cpp', ]
 exe = executable('test_fltk', srcs,
   dependencies : fltk_dep)
 
-test('basic', exe)[/code]
+test('basic', exe)```
 
 # 35
 >>1057
@@ -487,7 +501,8 @@ https://www.invidio.us/watch?v=SCZLnopmYBM
 >>1058
 No good reason not to use concrete objects in this case, actually.
 
-[code]#include <string>
+```cpp
+#include <string>
 
 #include "muh_fltk.h"
 
@@ -508,14 +523,20 @@ int main()
   window.show();
 
   return Fl::run();
-}[/code]
+}```
 
 # 37
->>1070
-1) Why use std::string when you are only using the const char * values?
-2) Why this: [code]const std::string ...{"..."s};[/code]? You are;
-a) Constructing a string via operator ""s
-b) Constructing a string from the newly constructed string
+>>1070
+
+1) Why use std::string when you are only using the const char * values?
+
+2) Why this: ```cpp
+const std::string ...{"..."s};```? You are;
+
+a) Constructing a string via operator ""s
+
+b) Constructing a string from the newly constructed string
+
 3) Do not use something like "bold + italic". If you get used to this you will make mistakes. Use "bold | italic". You shouldn't be aliasing FLTK constants in the first place.
 
 # 38
@@ -535,18 +556,27 @@ actually '+' is the correct operator here, not '|', and the aliasing serves my p
 >>1072
 BTW, there's an even more powerful string literal idiom for C++11, though clumsier:
 
-[code]const std::string bar{R"foo(!@@#@$#%$^&%&^%*&%?????////<<<|||)foo"};[/code]
+```cpp
+const std::string bar{R"foo(!@@#@$#%$^&%&^%*&%?????////<<<|||)foo"};```
 
 https://en.cppreference.com/w/cpp/language/string_literal
 
 # 41
->>1074
-Well I'll eat crow, that's the weirdest API for setting flags on a font that I've ever seen.
->>1075
-Not sure how this is useful here. You can just do
-[code]
-const char foo[] = "My program";
-[/code]
+>>1074
+
+Well I'll eat crow, that's the weirdest API for setting flags on a font that I've ever seen.
+
+>>1075
+
+Not sure how this is useful here. You can just do
+
+```cpp
+
+
+const char foo[] = "My program";
+
+```
+
 and now you don't even need to use .c_str(). No need to add an extra constructor call to your program startup.
 
 # 42
@@ -557,18 +587,26 @@ FLTK is pretty different but it's actually a great choice for an almost universa
 >const char foo[] = "My program";
 ehh, fair enough. but
 
-[code]const char foo[] = "Hello, \robowaifu\!";[/code]
+```cpp
+const char foo[] = "Hello, \robowaifu\!";```
 would sure create trouble.
 
 And besides, this is C++, not C. Raw pointers should be strictly avoided inside user code in current_year. Keep them inside library code. And quite frankly, std::string is amazing IMO.
 
 # 43
->>1078
-[code]const char foo[] = "Hello, \\robowaifu\\!";[/code]
-There.
->Raw pointers should be strictly avoided inside user code in current_year.
-Please get rid of this mindset. Raw pointers will never truly go away since they're a part of your hardware's memory model. Jumping through hoops and incurring performance costs to avoid raw pointers will just cause you more trouble in the future. I'm not saying "oh use raw pointers for everything STL bad", but there are some situations where having a raw pointer doesn't hurt whatsoever.
->And quite frankly, std::string is amazing IMO.
+>>1078
+
+```cpp
+const char foo[] = "Hello, \\robowaifu\\!";```
+
+There.
+
+>Raw pointers should be strictly avoided inside user code in current_year.
+
+Please get rid of this mindset. Raw pointers will never truly go away since they're a part of your hardware's memory model. Jumping through hoops and incurring performance costs to avoid raw pointers will just cause you more trouble in the future. I'm not saying "oh use raw pointers for everything STL bad", but there are some situations where having a raw pointer doesn't hurt whatsoever.
+
+>And quite frankly, std::string is amazing IMO.
+
 It's just a struct holding a char*, a length and a capacity. It has its own place. You don't need to run std::basic_string<char>::basic_string(stdd::basic_string<char>) for every string you create, especially since you only care about the char* '''in this context'''.
 
 # 44
@@ -582,9 +620,12 @@ no thanks. i programmed in C for two years before learning C++. i'll stick with 
 std::string is doing much more than just that tbh. RAII is so fundamental the the C++ Tao that i'll never go back. i'll literally go out of my way to write extensive library code first just so the effort of writing large codebases becomes much easier and more reliable.
 
 # 45
->>1080
-"Make programming enjoyable" is a fundamental design goal of C++? Funny, whenever I write code in C++ I feel like I am pulling out my nails one by one.
->no thanks.
+>>1080
+
+"Make programming enjoyable" is a fundamental design goal of C++? Funny, whenever I write code in C++ I feel like I am pulling out my nails one by one.
+
+>no thanks.
+
 Oh well, carry on then. Good luck.
 
 # 46
@@ -598,7 +639,8 @@ Heh, I understand. Like other large languages it takes time and effort to master
 >>521
 Ehh, I just realized that the final file out segment of this code would be semantically more sensible using C++17's structured binding feature. So, rather than using obtuse terms like ''e.first.second'' etc, the output stream can use more specific ones like ''img'' & ''subj''. The final types within the stream are unchanged from the original ('''size_t, size_t, & string'''), only now they have more suggestive variable naming.
 
-[code]// file out
+```cpp
+// file out
 const std::string outfile{"catalog_ranked"};
 std::fstream ofs(outfile, ofs.out);
 //
@@ -608,7 +650,7 @@ for (const auto& e : thread_map) {
 
   ofs << "[" << rep << "] [" << img << "]"
       << "     " << subj << '\n';
-}[/code]
+}```
 
 https://en.cppreference.com/w/cpp/language/structured_binding
 
@@ -640,8 +682,10 @@ isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 >not using c++
 
 # 53
->>1281
->>1282
+>>1281
+
+>>1282
+
 >not using BASIC
 
 # 54
@@ -651,10 +695,14 @@ isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 plebeians all of you.
 
 # 55
->>1281
->>1282
->>1333
->>1334
+>>1281
+
+>>1282
+
+>>1333
+
+>>1334
+
 >not using brainfuck
 
 # 56
@@ -662,18 +710,24 @@ plebeians all of you.
 Touché. Not sure how effective that would be at creating masterful, monster powerful robowaifus though anon.
 
 # 57
->>1335
->>1337 **LEET**
+>>1335
+
+>>1337 **LEET**
+
 What exactly is brainfuck?
 
 # 58
->>1338
->What exactly is brainfuck?
+>>1338
+
+>What exactly is brainfuck?
+
 A meme.
 
 # 59
->>1339
->A meme.
+>>1339
+
+>A meme.
+
 Oh, thanks for clearing that up.
 
 # 60
@@ -682,14 +736,16 @@ Oh, thanks for clearing that up.
 brainfuck is le ebin LEETHAXXORZ programming **maymay** language.
 
 hello_brainfuck.bf
-[code]++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.[/code]
+```cpp
+++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.```
 
 # 61
 OK, there's a thread begun about the ArchBot Imageboard Migration Tool up on fatchan now.
 https://fatpeople.lol/tech/thread/76.html
 
 # 62
->>1342
+>>1342
+
 Are we moving to fatchan? I am confused.
 
 # 63
@@ -698,7 +754,8 @@ No ofc not (well, as long as julay stays up). Why do you ask anon?
 >t.Chobitsu
 
 # 64
->>1344
+>>1344
+
 I misinterpreted the original statement when I saw the word "migration". Sorry about that. Thanks for clearing things up.
 
 # 65
@@ -708,9 +765,12 @@ The tool itself is intended to support board migrations eventually, so yeah. But
 No worries, thanks for asking anon. I didn't realize I was generating confusion.
 
 # 66
->>1342
-I'm curious why you posted that on the /tech/ board over there when the one here has some activity.
-
+>>1342
+
+I'm curious why you posted that on the /tech/ board over there when the one here has some activity.
+
+
+
 https://julay.world/tech/
 
 # 67
@@ -718,10 +778,14 @@ https://julay.world/tech/
 Because the site Admin Tom there is awesome. He understands what /tech/ is actually about.
 
 # 68
-This is my first post at /robowaifu/, although i have been lurking since long before the falling of 8ch.
-being a c++ programmer myself, i followed your example and tried meson (and also fltk, which is much more simple and effective than any other gui library i have seen so far).
-compared with autotools, meson is not only faster, but incredibly less painful to work with.
-all of this being said, the small program i made to try to use those tools is a simple text editor operated through keyboard shortcuts. it's aim is to be something like microsoft's notepad, with a focus on minimalism, customization and ease of use. i will be adding new features these days. the repository of the project https://gitlab.com/schinopsis/shlnot
+This is my first post at /robowaifu/, although i have been lurking since long before the falling of 8ch.
+
+being a c++ programmer myself, i followed your example and tried meson (and also fltk, which is much more simple and effective than any other gui library i have seen so far).
+
+compared with autotools, meson is not only faster, but incredibly less painful to work with.
+
+all of this being said, the small program i made to try to use those tools is a simple text editor operated through keyboard shortcuts. it's aim is to be something like microsoft's notepad, with a focus on minimalism, customization and ease of use. i will be adding new features these days. the repository of the project https://gitlab.com/schinopsis/shlnot
+
 i have also been tinkering with nlp, and will be posting in the AI thread once i get something that works
 
 # 69
@@ -759,18 +823,21 @@ https://files.catbox.moe/zlugd0.xz
 -Added version into config file
 -Consolidated Page class to hold data
 -Simplified JSON management
-[code]5ac6c8e3faa99c294e92c4b5f385c7306ea5b6c5b8f369c6322d3e022b2c9034 BUMP-0.1c.tar.xz[/code]
+```cpp
+5ac6c8e3faa99c294e92c4b5f385c7306ea5b6c5b8f369c6322d3e022b2c9034 BUMP-0.1c.tar.xz```
 https://files.catbox.moe/tuutsb.xz
 
 # 74
 -Added basic HTTP error reporting for catalog.json input
 
-[code]be0c406f005c5b4ceaee3c449ec824ceabb3f83e87210893c078bb08406f3dd7 BUMP-0.1d.tar.xz[/code]
+```cpp
+be0c406f005c5b4ceaee3c449ec824ceabb3f83e87210893c078bb08406f3dd7 BUMP-0.1d.tar.xz```
 https://files.catbox.moe/fmht9v.xz
 
 # 75
 Have an important new release today.
-[code]191106 - v0.2
+```cpp
+191106 - v0.2
 -------------
 -add a .sites.config file to map differing JSON schemas, to allow diff. IB s/w;
   -supports lynxchan
@@ -797,22 +864,25 @@ Have an important new release today.
 -add a file 404 record for a failed download attempt (skips re-attempting later)
 
 1edee477f9de708d73b8c0555a0eaba7c91d7e437b114e209b6501c4f427112d BUMP-0.2.tar.xz
-https://files.catbox.moe/1g4lqu.xz[/code]
+https://files.catbox.moe/1g4lqu.xz```
 
 # 76
 >>1460
 Add useragent to tool, and patched minor bug.
-[code]191106 - v0.2a
+```cpp
+191106 - v0.2a
 --------------
 -patch '<="bump_v0.2"' bug
 -add bump useragent
 
 dc09d8f6ec38f5e4d020eaf3d187fa8404d21944c23427f914a8bb820d51848a BUMP-0.2a.tar.xz
-https://files.catbox.moe/9xfs89.xz[/code]
+https://files.catbox.moe/9xfs89.xz```
 
 # 77
->>1460
->>1461
+>>1460
+
+>>1461
+
 Hey, this is Robi. Wanna help me add support for different imageboards on https://gitgud.io/rb/MultiScraper ? I am trying to also add support for importing scraped threads.
 
 # 78
@@ -824,7 +894,8 @@ Oh hey there Robi. Sorry I missed this. Sure, but I'm not much of a dev outside 
 Hey Robi, question. I've never run an IB before (or even installed one). Do you think I'll need an install of Lynxchan running to help out with this project?
 
 # 80
-[code]191115 - v0.2b
+```cpp
+191115 - v0.2b
 --------------
 -direct archival support now included for:
     endchan.net
@@ -843,12 +914,13 @@ Hey Robi, question. I've never run an IB before (or even installed one). Do you 
 -patch minor bug w/ force re-checking of threads
 
 https://files.catbox.moe/0y7z6j.xz
-0b43b392ea2b69de1bb7d83c1c4714e473763629060c7f05f5dde4bd32a1dfa1 BUMP-0.2b.tar.xz[/code]
+0b43b392ea2b69de1bb7d83c1c4714e473763629060c7f05f5dde4bd32a1dfa1 BUMP-0.2b.tar.xz```
 
 Since this is taking me longer to get the duplicate file management in place, I'll just put it off until a v0.2c release and go ahead and put what I have out there now, since endchan.net is now included and there's a couple of bugfixes that help alleviate some nuisance. Cheers.
 
 # 81
-[code]191121 - v0.2c
+```cpp
+191121 - v0.2c
 --------------
 -direct archival support now included for:
     lainchan.org
@@ -862,7 +934,7 @@ Since this is taking me longer to get the duplicate file management in place, I'
 -add somewhat better validation of 'catalog.json' files
 -add facility for cleanly re-acquiring any accidentally deleted thread folders
 f76855c247ea4243f5e3fb98b52a1ebdd4759e86d815de148e7d77f9d6e96495 BUMP-0.2c.tar.xz
-https://files.catbox.moe/bvccj0.xz[/code]
+https://files.catbox.moe/bvccj0.xz```
 
 Alright, I've decided to go ahead and make another subrelease earlier since 8kun.top seems to be working atm. I'll be doing a pretty significant revamping of the Page class' data management, so I'll hold off on the dupe files handling until then.
 
@@ -876,7 +948,8 @@ Sorry if I got anyone's hopes up **what I get for not testing heh** (it still wo
 Someone complained that they were interested in the software, but they were confused how to get everything set up to build BUMP. I created a INSTALL file for Ubuntu that I hope helps. If anything's unclear or you experience some difficulty with these instructions, I'd appreciate knowing about it, thanks. I'll include this file when I make the next release.
 
 >Install.txt
-[code]Here are detailed setup instructions for BUMP from a clean install of Ubuntu 19.10:
+```cpp
+Here are detailed setup instructions for BUMP from a clean install of Ubuntu 19.10:
 
 1. Execute this command from a terminal:
   sudo apt-get install meson ninja-build libcurl4-openssl-dev libfltk1.3-dev libjsoncpp-dev
@@ -909,7 +982,7 @@ where you extracted the (inside) BUMP archive, run this from the terminal:
 
 You should be all set to archive literally any board for every site included in the .sites.config 
 file. BUMP is pretty smart about figuring out what needs to be updated in future runs and only grabs 
-what's changed. Also, it will probably be easier to just run BUMP from the terminal afterwards tbh.[/code]
+what's changed. Also, it will probably be easier to just run BUMP from the terminal afterwards tbh.```
 
 # 84
 BTW there's a new /robowaifu/-oriented C++ & OpenGL project begun in the RW Simulator thread (just in case any C++ anons here missed it).
@@ -918,7 +991,8 @@ BTW there's a new /robowaifu/-oriented C++ & OpenGL project begun in the RW Simu
 # 85
 I've been working on learning functional C++ code here's a simple example of the idea.
 
-[code]int main()
+```cpp
+int main()
 {
   vector<int> ints{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
   auto even = [](int i) { return 0 == i % 2; };
@@ -929,10 +1003,11 @@ I've been working on learning functional C++ code here's a simple example of the
   }
 
   cout << '\n';
-}[/code]
+}```
 
 this outputs:
-[code]0 4 16 36 64 100[/code]
+```cpp
+0 4 16 36 64 100```
 
 I really like this style of coding and I'm really glad ranges is finally in C++20.
 https://en.cppreference.com/w/cpp/ranges
@@ -943,7 +1018,8 @@ https://privatebin.net/?e15accfb31d0132c#EW58fwas6hHJdr8AA8qgQuPHV18hbmtTJr1NZNJ
 
 # 86
 heh for some reason private bin ditched the includes:
-[code]#include <iostream>
+```cpp
+#include <iostream>
 #include <vector>
 
 using std::cout;
@@ -954,12 +1030,13 @@ using std::vector;
 
 using namespace ranges;
 using views::filter;
-using views::transform;[/code]
+using views::transform;```
 
 # 87
 >>1945
 here's another toy example that demonstrates ranges lazy-evaluation:
-[code]// lazyEvaluation.cpp
+```cpp
+// lazyEvaluation.cpp
 #include <cstdio>
 #include <tuple>
 
@@ -979,10 +1056,11 @@ int main()
   }
 
   printf("\n\n");
-}[/code]
+}```
 
 outputs:
-[code](R,0) (O,1) (B,2) (O,3) (W,4) (A,5) (I,6) (F,7) (U,8)[/code]
+```cpp
+(R,0) (O,1) (B,2) (O,3) (W,4) (A,5) (I,6) (F,7) (U,8)```
 
 the '''views::ints(0, unreachable)''' call is an iota-view from zero to infinity, but because of lazy evaluation it only returns the proper numbers of elements.
 
@@ -1028,7 +1106,8 @@ https://github.com/cpp-taskflow/cpp-taskflow
 >>2024
 >main.cpp
 
-[code]#include <taskflow/taskflow.hpp>  // Cpp-Taskflow is header-only
+```cpp
+#include <taskflow/taskflow.hpp>  // Cpp-Taskflow is header-only
 
 int main()
 {
@@ -1048,25 +1127,27 @@ int main()
                                          //          +---+
   executor.run(taskflow).wait();
   return 0;
-}[/code]
+}```
 
 > meson.build
 
-[code]project('taskflow', 'cpp')
+```cpp
+project('taskflow', 'cpp')
 
 add_project_arguments('-std=c++2a', '-Wall', '-Wextra', language: 'cpp')
 
 cxx = meson.get_compiler('cpp')
 thrd_dep = cxx.find_library('pthread')
 
-executable('taskflow', 'main.cpp', dependencies : thrd_dep)[/code]
+executable('taskflow', 'main.cpp', dependencies : thrd_dep)```
 
 >outputs
 
-[code]TaskA
+```cpp
+TaskA
 TaskC
 TaskB
-TaskD[/code]
+TaskD```
 
 # 95
 >>2027
@@ -1102,7 +1183,8 @@ I realized I hadn't posted an updated a copy here since C++20 was voted in. So, 
 >Working Draft, Standard for Programming Language C++, 2020-05-15, 1'834pp
 
 # 103
-[code]C++
+```cpp
+C++
 
 Several C++20 features have been implemented:
   P1668R1, Permitting Unevaluated inline-assembly in constexpr Functions
@@ -1150,7 +1232,7 @@ The noexcept-specifier is now properly treated as a complete-class context as pe
 
 The attribute deprecated can now be used on namespaces too.
 
-The ABI of passing and returning certain C++ classes by value changed on several targets in GCC 10, including AArch64, ARM, PowerPC ELFv2, S/390 and Itanium. These changes affect classes with a zero-sized subobject (an empty base class, or data member with the [[no_unique_address]] attribute) where all other non-static data members have the same type (this is called a "homogeneous aggregate" in some ABI specifications, or if there is only one such member, a "single element"). In -std=c++17 and -std=c++20 modes, classes with an empty base class were not considered to have a single element or to be a homogeneous aggregate, and so could be passed differently (in the wrong registers or at the wrong stack address). This could make code compiled with -std=c++17 and -std=c++14 ABI incompatible. This has been corrected and the empty bases are ignored in those ABI decisions, so functions compiled with -std=c++14 and -std=c++17 are now ABI compatible again. Example: struct empty {}; struct S : empty { float f; }; void f(S);. Similarly, in classes containing non-static data members with empty class types using the C++20 [[no_unique_address]] attribute, those members weren't ignored in the ABI argument passing decisions as they should be. Both of these ABI changes are now diagnosed with -Wpsabi.[/code]
+The ABI of passing and returning certain C++ classes by value changed on several targets in GCC 10, including AArch64, ARM, PowerPC ELFv2, S/390 and Itanium. These changes affect classes with a zero-sized subobject (an empty base class, or data member with the [[no_unique_address]] attribute) where all other non-static data members have the same type (this is called a "homogeneous aggregate" in some ABI specifications, or if there is only one such member, a "single element"). In -std=c++17 and -std=c++20 modes, classes with an empty base class were not considered to have a single element or to be a homogeneous aggregate, and so could be passed differently (in the wrong registers or at the wrong stack address). This could make code compiled with -std=c++17 and -std=c++14 ABI incompatible. This has been corrected and the empty bases are ignored in those ABI decisions, so functions compiled with -std=c++14 and -std=c++17 are now ABI compatible again. Example: struct empty {}; struct S : empty { float f; }; void f(S);. Similarly, in classes containing non-static data members with empty class types using the C++20 [[no_unique_address]] attribute, those members weren't ignored in the ABI argument passing decisions as they should be. Both of these ABI changes are now diagnosed with -Wpsabi.```
 
 # 104
 >>3187
@@ -1160,7 +1242,8 @@ https://gcc.gnu.org/gcc-10/changes.html
 # 105
 >>3187
 I neglected to list the improvments in libstdc++
-[code]Runtime Library (libstdc++)
+```cpp
+Runtime Library (libstdc++)
 
 Improved experimental C++2a support, including:
   Library concepts in <concepts> and <iterator>.
@@ -1176,7 +1259,7 @@ Improved experimental C++2a support, including:
   std::construct_at, std::destroy, constexpr std::allocator.
   Mathematical constants in <numbers>.
 Support for RDSEED in std::random_device.
-Reduced header dependencies, leading to faster compilation for some code.[/code]
+Reduced header dependencies, leading to faster compilation for some code.```
 
 # 106
 >>3187
@@ -1207,7 +1290,8 @@ https://www.invidio.us/watch?v=1RqdVEDY5vg&t=1s
 I finally installed GCC10.1 today and this now works right out of the box:
 
 >muh_ranges.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 #include <ranges>
 #include <vector>
 
@@ -1230,19 +1314,21 @@ int main() {
   }
 
   std::cout << std::endl;
-}[/code]
+}```
 
 >outputs:
-[code]0 4 16[/code]
+```cpp
+0 4 16```
 
 All that needs to be done with your build file to enable this  is simply to specify C++20 as the standard:
 
 >meson.build
-[code]project('muh_ranges_tst', 'cpp')
+```cpp
+project('muh_ranges_tst', 'cpp')
 
 add_project_arguments('-std=c++20', '-Wall', '-Wextra', language: 'cpp')
 
-executable('muh_ranges_tst', 'muh_ranges.cpp')[/code]
+executable('muh_ranges_tst', 'muh_ranges.cpp')```
 
 This has been a long wait and I'm pretty stoked tbh. While there are a '''lot''' of other improvements to C++20, ranges was the biggest one for me personally. This will literally change all my future C++ code for the better. Give it a couple more standard revs and it will probably be easier to read in most cases than even Python.
 
@@ -1258,7 +1344,8 @@ The dream is alive. :^)
 >>3693
 I just found out you can integrate the ranges piping directly on the primary argument for the ''for_each()'' algo:
 
-[code]#include <algorithm>
+```cpp
+#include <algorithm>
 #include <iostream>
 #include <ranges>
 #include <vector>
@@ -1287,16 +1374,18 @@ int main() {
   for_each(ints | filter(even) | transform(square), print);
 
   std::cout << std::endl;
-}[/code]
+}```
 
 >outputs:
-[code]0 4 16 36 64[/code]
+```cpp
+0 4 16 36 64```
 
 # 114
 Any professional C++ developers who have needed to solve determinate template specialization (at compile-time ofc), or have had to wade through 100+ long error messages in the past will appreciate C++20 concepts. You can use any of the builtin concepts, create your own, and also compose them:
 
 >muh_constraints.cpp
-[code]// https://en.cppreference.com/w/cpp/language/constraints
+```cpp
+// https://en.cppreference.com/w/cpp/language/constraints
 #include <concepts>
 #include <iostream>
 #include <type_traits>
@@ -1329,11 +1418,12 @@ int main() {
   z(uint(1));
 
   std::cout << std::endl;
-}[/code]
+}```
 
 >outputs:
-[code]signed
-unsigned[/code]
+```cpp
+signed
+unsigned```
 
 # 115
 Normal functions and template functions can effectively be equivalent now in C++20. Consider a trivial GCD example.
@@ -1343,7 +1433,8 @@ Though calculating a greatest common divisor can be tedious and error-prone for 
 This is a big step towards true unification of generic programming and standard programming. In the history of the language until now, these have generally been pretty distinct. Note the remark in the std::gcd, and how it's satisfied by the ''Integral'' constraint we created.
 
 >gcd_foo.cpp
-[code]/*https://en.cppreference.com/w/cpp/numeric/gcd
+```cpp
+/*https://en.cppreference.com/w/cpp/numeric/gcd
 Computes the greatest common divisor of the integers m and n.
 
 Remarks
@@ -1377,13 +1468,14 @@ int main() {
   // cout << "gcd(true,false): " << muh_gcd(true, false) << '\n';
 
   cout << std::endl;
-}[/code]
+}```
 
 >outputs:
-[code]gcd(1,0): 1
+```cpp
+gcd(1,0): 1
 gcd(-100,100): 100
 gcd(10,100): 10
-gcd(1071, 462): 21[/code]
+gcd(1071, 462): 21```
 
 # 116
 >>3712
@@ -1392,7 +1484,8 @@ Again note, this is all generated template code in the end. These calls are ''pr
 # 117
 Note that when using C++20 concepts, the C++ compiler will still properly select functions from the candidates just as normal. Consider an overload to add two parameters:
 
-[code]#include <iostream>
+```cpp
+#include <iostream>
 #include <string>
 #include <type_traits>
 
@@ -1421,12 +1514,13 @@ int main() {
   cout << "muh_add(foo, bar): " << muh_add(foo, bar)<< '\n';  // strings
   
   cout << std::endl;
-}[/code]
+}```
 
 >outputs
-[code]muh_add(6, 5): Arithmetic	11
+```cpp
+muh_add(6, 5): Arithmetic	11
 muh_add(5.5, 5): Arithmetic	10.5
-muh_add(foo, bar): auto		robowaifu[/code]
+muh_add(foo, bar): auto		robowaifu```
 
 Of the 3 calls to muh_add(), for the first two the compiler chooses the Arithmetic constrained function (and each type uses the overloaded operator '+'). For the last one the compiler correctly determines that a std::string is ''not'' an Arithmetic type and finds the second, generic candidate. This function uses the overloaded operator '+' as well for concatenating the two strings.
 
@@ -1489,10 +1583,12 @@ Not sure why I didn't just post the book itself.
 
 # 126
 C++20 ranges has a nice & clean calling convention for binary_search() now:
-[code]binary_search(haystack, needle)[/code]
+```cpp
+binary_search(haystack, needle)```
 Be sure to sort your container first ofc, or it's undefined behavior. Here's a trivial usage example:
 
-[code]#include <algorithm>
+```cpp
+#include <algorithm>
 #include <iostream>
 #include <vector>
 
@@ -1515,11 +1611,12 @@ int main() {
     else
       cout << "no dice!\n";
   }
-}[/code]
+}```
 
 # 127
 C++ finally added designated initializers, which makes the arguments self-documenting ''at the caller site''. This is a big help in code-reasoning, especially if a specific ctor has a long list of parameters. I(t also allows the args to be passed in any order I believe).
-[code]// https://en.cppreference.com/w/cpp/language/aggregate_initialization
+```cpp
+// https://en.cppreference.com/w/cpp/language/aggregate_initialization
 // sauce: https://caiorss.github.io/C-Cpp-Notes/Libraries-and-featuresCPP17.html
 
 #include <iostream>
@@ -1569,14 +1666,15 @@ int main() {
   Product prod{.id = 200, .name = "Colombian coffee", .price = 100.56};
   std::cout << "Product => id = " << prod.id() << ", name = " << prod.name()
             << ", price = " << prod.price() << '\n';
-}[/code]
+}```
 
 >outputs
-[code]p1 => Point{x = 2.5, y = -10.2} 
+```cpp
+p1 => Point{x = 2.5, y = -10.2} 
 p2 => Point{x = -12.55, y = -3.5} 
 p3 => Point{x = -10.55, y = 13.5} 
 
-Product => id = 200, name = Colombian coffee, price = 100.56[/code]
+Product => id = 200, name = Colombian coffee, price = 100.56```
 
 # 128
 >>4402
@@ -1586,7 +1684,8 @@ Update: tested and no, apparently. The arguments have to be passed in the same o
 # 129
 I was investigating C++17 std::apply, and found this overly-clever but very useful code for enumerating complex tuples directly to an ostream.
 
-[code]// https://en.cppreference.com/w/cpp/utility/apply
+```cpp
+// https://en.cppreference.com/w/cpp/utility/apply
 // tuple ostream operator<< example using std::apply
 
 #include <iostream>
@@ -1612,10 +1711,11 @@ std::ostream& operator<<(std::ostream& os, std::tuple<Ts...> const& the_tuple) {
 int main() {
   std::tuple myTuple{25, "Hello", 9.31f, 'c'};
   std::cout << myTuple << '\n';
-}[/code]
+}```
 
 >outputs
-[code][25, Hello, 9.31, c][/code]
+```cpp
+[25, Hello, 9.31, c]```
 
 # 130
 For experienced developers, I'd like some advice if you wouldn't mind. I'm working on ideas for the C++ Group Learning Thread >>4895. As any of you who are experienced know, one of the biggest headaches of a large codebase is tracking down bugs.
@@ -1662,7 +1762,8 @@ Keeping it simple is always a good idea. **Not sure how good I am at that yet ha
 Progress report: Seems like I have CLI11 working in a basic 'Hello World' way. I can't really imagine a cleaner way to deal with argument parsing in C++ honestly.
 
 >main.cpp
-[code]#include <cstdlib>
+```cpp
+#include <cstdlib>
 #include <iostream>
 
 #include "include/rw_utils.hpp"
@@ -1674,10 +1775,11 @@ int main(int argc, char** argv) {
   std::cout << "Hello World\n";
 
   return 0;
-}[/code]
+}```
 
 >rw_utils.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include "include/CLI11.hpp"
 
@@ -1694,7 +1796,7 @@ int do_arg_parse(int argc, char** argv) {
   }
 
   return 0;
-}[/code]
+}```
 
 First, just copy the latest CLI11.hpp file from https://github.com/CLIUtils/CLI11/releases into an 'include' project directory, and you should be good to go.
 
@@ -1707,7 +1809,8 @@ Looking around a little further, I found you could create custom handling for th
 >
 
 >rw_utils.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include "CLI11.hpp"
 
@@ -1746,7 +1849,7 @@ void parse_args(int argc, char** argv) {
   } else if (have_help) {
     std::exit(0);
   }
-}[/code]
+}```
 
 # 136
 >>6063
@@ -1779,7 +1882,8 @@ Be sure to post results of your experimentations ITT. Cheers.
 I have some other things calling me atm, but I wanted to leave my current working example for my proof-of-concept for using this library. It's working enough to go on with for now, certainly an improvement from my original approach:
 
 >main.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 
 #include "include/rw_cli_args.hpp"
 
@@ -1797,10 +1901,11 @@ int main(int argc, char** argv) {
     std::cout << "Have '-filename' arg: " << filename << '\n';
 
   return 0;
-}[/code]
+}```
 
 >rw_cli_args.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <cstdlib>
 #include <string>
@@ -1864,7 +1969,7 @@ void parse_args(int argc, char** argv) {
 
 }  // namespace robowaifu
 
-namespace rw = robowaifu;  // shorthand namespace alias[/code]
+namespace rw = robowaifu;  // shorthand namespace alias```
 
 # 139
 >>6089
@@ -1880,7 +1985,8 @@ i'll be very interested to see what you'll come up with anon. thanks to /robowai
 Much as I appreciate FLTK, it's ancient C heritage can result in some butt-ugly code for things like creating menus. In an attempt to ameliorate some of the pain in writing GUI code for our robowaifus that can run on the smallest potato, I'm starting a little side-project to wrap calls with simpler C++ ones.
 
 >main.cpp
-[code]#include <array>
+```cpp
+#include <array>
 
 #include "Window.hpp"
 
@@ -1912,10 +2018,11 @@ int main() {
 
   window.show();
   return Fl::run();
-}[/code]
+}```
 
 >Window.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <FL/Fl.H>
 #include <FL/Fl_Double_Window.H>
@@ -1977,35 +2084,39 @@ class Menu_item : public Fl_Menu_Item {
   Menu_item(const char* label) : Menu_item{label, 18} {}
 };
 
-};  // namespace muh_window[/code]
+};  // namespace muh_window```
 
 >meson.build
-[code]project('fltk_simple', 'cpp')
+```cpp
+project('fltk_simple', 'cpp')
 
 add_project_arguments('-std=c++20', '-Wall', '-Wextra', language: 'cpp')
 
 cxx = meson.get_compiler('cpp')
 fltk_dep = cxx.find_library('fltk')
 
-executable('fltk_simple', 'main.cpp', dependencies : fltk_dep)[/code]
+executable('fltk_simple', 'main.cpp', dependencies : fltk_dep)```
 
 I personally consider functions like
-[code]auto setup_items() {
+```cpp
+auto setup_items() {
   std::array<Menu_item, 4> items{"File", "Edit", "Tools", "Help"};
 
   // DESIGN: configure all menu items (callbacks, etc) here...
 
   return items;
-}[/code]
+}```
 
 and statements at the caller:
-[code]menu.menu(setup_items().data());[/code]
+```cpp
+menu.menu(setup_items().data());```
 much cleaner and easier to reason about than typical FLTK examples.
 
 # 142
 >>6860
 You probably need to compile this code in Release mode (-O3) for this work correctly. Inside Juci, you can tell Mesonbuild to do this by ''Project > Run Command'', then entering this external code to instruct meson to use release mode:
-[code]cd build && meson configure --buildtype=release && cd ..[/code]
+```cpp
+cd build && meson configure --buildtype=release && cd ..```
 
 # 143
 I needed to create a subject-sorted list of the threads on /robowaifu/ for our new topical index thread  >>7254 . I felt like it might be a good idea to show others how I used C++ to create that text file just in case anyone else is exploring cataloguing our board and wants to use it since this same basic approach can be used to process literally any of the text anywhere on this board -- not just thread IDs and subjects. If you get stuck AMA ITT.
@@ -2018,7 +2129,8 @@ Create a project directory for this C++20 code, create these two files (''main.c
 Configure the project (open a terminal and issue ''meson build'' inside the project directory) then build it (issue ''cd build/ && meson compile''), and run it (''cd .. && build/rw_json_prj''). You'll get a new sorted text file '''id_subjs.txt''' of all the threads, with each data element being extracted from it's own JSON file located in the ''all_jsons'' directory.
 
 >main.cpp
-[code]#include <algorithm>
+```cpp
+#include <algorithm>
 #include <cstdint>
 #include <exception>
 #include <filesystem>
@@ -2126,10 +2238,11 @@ int main() {
   }
 
   cout << "directory entry count: " << id_subjs.size() << '\n';
-}[/code]
+}```
 
 >meson.build
-[code]project('rw_json_prj', 'cpp')
+```cpp
+project('rw_json_prj', 'cpp')
 
 add_project_arguments('-std=c++20', '-Wall', '-Wextra',
                       '-Wno-deprecated-declarations',
@@ -2138,7 +2251,7 @@ add_project_arguments('-std=c++20', '-Wall', '-Wextra',
 cxx=meson.get_compiler('cpp')
 jsondep=cxx.find_library('jsoncpp')
 
-executable('rw_json_prj', 'main.cpp', dependencies : jsondep)[/code]
+executable('rw_json_prj', 'main.cpp', dependencies : jsondep)```
 
 >''compiled w/ g++ 10.2.0 and jsoncpp 1.9.4-1''
 
@@ -2158,19 +2271,21 @@ executable('rw_json_prj', 'main.cpp', dependencies : jsondep)[/code]
 The sort statement (lines 104-111) forms the core. Here we write a custom C++ lambda function that extracts out both parts of a pair of elements from the container, then simply returns a straightforward comparison between the two. Right now this code is defaulting to sorting ascending by subject, but either of the other three possibilities on this container are also straightforward, and I also provided one of those commented out.
 
 >core sorting statement:
-[code]  // sort container, defining our own custom sort criteria
+```cpp
+  // sort container, defining our own custom sort criteria
   sort(id_subjs, [](auto a, auto b) {
     auto [id_a, subj_a]{a};
     auto [id_b, subj_b]{b};
 
     // return id_a < id_b;   // sort by id, or...
     return subj_a < subj_b;  // sort by subject
-  });[/code]
+  });```
 
 Since we're only capturing these two JSON fields into our container ATM, that pretty much constitutes most of what we can do. But the JSON files themselves provide literally all the fields the Lynxchan imageboard software uses to manage the thread's posts. Any (or all) of these can be extracted with this same direct approach and then used to process the system any way you can contrive.
 
 >std::pair of ID & subject being captured into the vector containing them all:
-[code]  const fs::path                 jsons_dir{"./all_jsons/"};
+```cpp
+  const fs::path                 jsons_dir{"./all_jsons/"};
   vector<pair<uint32_t, string>> id_subjs{};
 
   // load container from all JSON files in directory
@@ -2178,12 +2293,13 @@ Since we're only capturing these two JSON fields into our container ATM, that pr
     auto json = get_jsonfile_dat(jsonfile);
     id_subjs.emplace_back(
         pair{json["threadId"].asUInt(), clean_str(json["subject"].asString())});
-  }[/code]
+  }```
 
 Here's a pretty-print of the OP and some post data from thread #1 ''Robowaifu References'' ' JSON. As you can see there are quite a few fields there, and you can modify the above code and the vector to use any or all of them for processing. Again, right now we're only capturing the ''threadId'' & ''subject'' fields into a std::pair, but you can swap that out using a std::tuple instead and free-form the data however you'd like.
 
 >pretty-print snippet:
-[code]{
+```cpp
+{
 	"signedRole": null,
 	"id": null,
 	"name": "Anonymous",
@@ -2243,7 +2359,7 @@ Here's a pretty-print of the OP and some post data from thread #1 ''Robowaifu Re
 			"width": 682,
 			"height": 999
 		}]
-	}, {[/code]
+	}, {```
 
 >===
 -''add std::tuple clarification''
@@ -2252,7 +2368,8 @@ Here's a pretty-print of the OP and some post data from thread #1 ''Robowaifu Re
 >>7268
 Rather than throwing an exception, I decided that simply returning an empty JSON parse was a better approach. A user of the code will realize their mistake quickly enough if they investigate, and this approach is more robust.
 
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 // Validate filepath then return the file's JSON parse
 //
 Json::Value get_jsonfile_dat(const fs::path& filepath) {
@@ -2261,7 +2378,7 @@ Json::Value get_jsonfile_dat(const fs::path& filepath) {
     return parse_json(jsonfile);
   } else
     return Json::Value{};
-}[/code]
+}```
 
 # 146
 >>7268
@@ -2271,7 +2388,8 @@ Lol, Lynxchan pls. Looks like the page rendering is 'helping' us again, and actu
 # 147
 Decided to be a good little boy and add some Javadoc comments to those utility functions, since now that I think about it we can probably be lift them out in some form or other into a new utility header file to serve in other contexts. (Like a rewrite of ''BUMP'' or some kind of an Internet-scraping frontend for our waifus). My Javadoc is still beginner-tier I imagine, pull requests welcome.
 
-[code]/**-----------------------------------------------------------------------------
+```cpp
+/**-----------------------------------------------------------------------------
  @brief    Take a raw JSON source and parse it into a Json db
  @param    json_src [IN] The raw input JSON source
  @returns  The Json data after parsing
@@ -2326,14 +2444,15 @@ std::string clean_str(const std::string& in) {
   res = repl_w_char(res, "&quot;", '"');
 
   return res;
-}[/code]
+}```
 
 # 148
 >>7508
 OK, I've begun the process of providing a well commented set of text utilities in C++ we can use for multiple projects here on /robowaifu/. This set will grow over time I'm sure, but this seems a good set to begin with for now.
 
 >rw_text_utils.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <filesystem>
 #include <fstream>
@@ -2485,7 +2604,7 @@ std::string trim_chars(const std::string& in, const char c) {
   return res;
 }
 
-}  // namespace rw[/code]
+}  // namespace rw```
 
 # 149
 >>7534
@@ -2520,7 +2639,8 @@ Haha, fair enough then. Give me a month or two and I should have a decent TUI or
 
 # 155
 added post linking to the CLI search tool outputs.
-[code]time to parse local /robowaifu/ JSON data:  5209ms
+```cpp
+time to parse local /robowaifu/ JSON data:  5209ms
 unique word@post count:  31669
 
 (q to quit) enter search terms: ambulatory
@@ -2556,7 +2676,7 @@ Haute Sepplesberry Cuisine TBH  ->  https://alogs.theГунтretort.com/robowaif
  search for terms:  'delicious'
    took:  26us , 6  results
 
-(q to quit) enter search terms: q[/code]
+(q to quit) enter search terms: q```
 
 # 156
 >>7616
@@ -2615,7 +2735,8 @@ Feeling pretty stoked. Scratched my head and finally managed to get parallel (mu
 >parallel (multi-core) JSON file parsing working
 
 >muh_code_snippet:
-[code]/**-----------------------------------------------------------------------------
+```cpp
+/**-----------------------------------------------------------------------------
  @brief    load the word-counting map 'io_w_pt' in parallel from each JSON file
  located inside the 'all_jsons' directory
  @param    io_w_pt [IN/OUT] The word-counting map to load
@@ -2653,7 +2774,7 @@ void ld_map(map<string, set_pair_ints>& io_w_pt) {
 
   // then run filepath processing in parallel, using the lambda above
   for_each(par_unseq, cbegin(paths), cend(paths), parse_json_file);
-}[/code]
+}```
 
 Not too pretty, compared to some pre-canned functions in another language, but it suits myself well enough for now. In my experience, you usually have to deal with more complexity if you want more performance/efficiency so yea.
 
@@ -2704,7 +2825,8 @@ In accord w/
 I'll reveal the crashing bug  I finally found. But I'm still unsure just how to fix it yet (other than just not using parallelism for that op).
 
 >fubar.cpp
-[code]//----------------------------------
+```cpp
+//----------------------------------
 
 void clean_store_words(map<string, set_pair_ints>& io_w_pt,
                        const std::string&          in,
@@ -2748,7 +2870,7 @@ void clean_store_words(map<string, set_pair_ints>& io_w_pt,
 
   // insert the cleaned message into the global (for exact-matches)
   all_msgs[post] = cleaned_msg;
-}[/code]
+}```
 
 # 172
 >>7928
@@ -2762,7 +2884,8 @@ Heh, sorry I fixed some typos and added another first build step. Cheers.
 # 174
 Alright, I've decided that the search tool is good enough at a basic level to go ahead and provide it as a download before Christmas. I've decided to name it ''waifusearch''. It's not packed or anything yet, so you'll have to build it yourself from codefiles using a C++ compiler. You can download and unzip this somewhere:
 https://files.catbox.moe/ptpzgm.7z
-[code]def73cb9eafed554363cadb6685e072575d5b1322b409dc96de9352d4f945647 waifusearch-0.1.tar.xz[/code]
+```cpp
+def73cb9eafed554363cadb6685e072575d5b1322b409dc96de9352d4f945647 waifusearch-0.1.tar.xz```
 
 BTW, I provided the current /robowaifu/ JSON files inside this archive as well. They are located inside the 'all_jsons' subdirectory. And the program will be expecting them to be there, even if you overwrite them all with newer versions provided from the ''Library'' thread in the future.
 
@@ -2782,17 +2905,22 @@ https://github.com/oneapi-src/oneTBB
 
 '''Building'''
 -Initialize the project as a mesonbuild one. From the code directory:
-[code]meson build[/code]
+```cpp
+meson build```
 -Be sure to tell meson to use release mode before building the project. From the code directory:
-[code]cd build && meson configure --buildtype=release && cd ..[/code]
+```cpp
+cd build && meson configure --buildtype=release && cd ..```
 -Either build from Juci, or you can just build w/ meson from the terminal instead. From the code directory:
-[code]cd build && meson compile && cd ..[/code]
+```cpp
+cd build && meson compile && cd ..```
 
 '''Running'''
 -Execute the waifusearch program. From the code directory:
-[code]build/waifusearch[/code]
+```cpp
+build/waifusearch```
 -You should see something like this appear ('hello world' search example given):
-[code]time to process local /robowaifu/ JSON data:  2322 ms
+```cpp
+time to process local /robowaifu/ JSON data:  2322 ms
 
 (q to quit)  enter search phrase:  hello world
 
@@ -2817,7 +2945,7 @@ Robowaifu fiction to promote the  -> https://alogs.theГунтretort.com/robowai
   full search took:  225 us
 ' hello world '  [8 : 2] = 10 results
 
-(q to quit)  enter search phrase:  [/code]
+(q to quit)  enter search phrase:  ```
 -If so, you're all set (ignore the Гунт-abused links in this post, the real ones from the program work). You should be able to search across /robowaifu/'s posts quickly. Once you find a result you're interested in, just right-click over the post link and choose 'Copy Link Address' then paste into your browser.
 >note: the program will also auto-generate two files, ''all_posts.txt'' & ''word_post_counts.txt'' when you run it. Feel free to look into them for search ideas or whatever you'd like.
 
@@ -2826,7 +2954,8 @@ I hope it's helpful enough for now Anon. Eventually, we'll expand it out to work
 # 175
 OK for ''waifusearch'', today added character trimming into the text parsing to properly handle bold and italic text in posts. Also, began a proper version log as well:
 >version.log
-[code]// waifusearch, the lightning IB searcher
+```cpp
+// waifusearch, the lightning IB searcher
 // ======================================
 // -This software is designed to search an imageboard's text fast
 
@@ -2841,9 +2970,10 @@ OK for ''waifusearch'', today added character trimming into the text parsing to 
 -initial release
 
 NOTES:
--Currently, waifusearch only supports Lynxchan-based JSON files.[/code]
+-Currently, waifusearch only supports Lynxchan-based JSON files.```
 https://files.catbox.moe/sw058v.7z
-[code]90db32390fc2eb18e567548af9381088d421cbd7c5ee88805e8510464098013d waifusearch-0.1a.tar.xz[/code]
+```cpp
+90db32390fc2eb18e567548af9381088d421cbd7c5ee88805e8510464098013d waifusearch-0.1a.tar.xz```
 
 Cheers, /robowaifu/ .
 
@@ -2851,36 +2981,42 @@ Cheers, /robowaifu/ .
 OK, I've done some needed housekeeping to clean up redundant processing and make maintenance easier in the future. No real performance differences, this is mostly just to ensure all text processing is uniform and help developers.
 
 >version.log
-[code]201228 - v0.1b
+```cpp
+201228 - v0.1b
 --------------
 -refactor to remove redundant code, simplify & unify text processing
--add vec_pair_s_vpi alias[/code]
+-add vec_pair_s_vpi alias```
 
 https://files.catbox.moe/pfn2tu.7z
-[code]eaa25db2a04caf480ca76bd7d4c92c29f62774b4e6e1251154e834a0fb9ddb8f waifusearch-0.1b.tar.xz[/code]
+```cpp
+eaa25db2a04caf480ca76bd7d4c92c29f62774b4e6e1251154e834a0fb9ddb8f waifusearch-0.1b.tar.xz```
 
 # 177
 For ''waifusearch'', today I added some timing breakdown details to the output. There are four distinct phases this tool goes through to optimize the speed of searching across the entire collection of words here, and each of these are detailed both as a percentage of the whole, and as raw microseconds.
 >
 I can now easily test any perf optimizations in different sections, as well as have a better feel for the underlying behavior. For example, I suspected it before but now have numeric data that the first phase (sea) needs front-loading the first time through. BTW, there is a user-global flag you can use to turn this display off if you'd like (as well as other vars):
-[code]const bool        show_timing{true};[/code]
+```cpp
+const bool        show_timing{true};```
 I'm probably pretty close now to the planned functionality I wanted for the tool at this early stage. If anyone has any suggestions, questions, or requests about it then feel free to let me know ITT.
 
 >version.log
-[code]201229 - v0.1c
+```cpp
+201229 - v0.1c
 --------------
 -add display of timing breakdown details
 -add disp_unfounds() function and outputs
 -add percent_str() function to rw_text_utils.hpp
 -rename alias' to better align w/ cppcoreguidelines (NL.5)
--minor function re-ordering[/code]
+-minor function re-ordering```
 
 https://files.catbox.moe/dj7vr5.7z
-[code]a19eb6fc377422734944cb2344c82ee996dce77be35e9ade66f104fbcbfcb602 waifusearch-0.1c.tar.xz[/code]
+```cpp
+a19eb6fc377422734944cb2344c82ee996dce77be35e9ade66f104fbcbfcb602 waifusearch-0.1c.tar.xz```
 
 # 178
 Alright, I added parallelization to the loop inside x, the costliest part of the system time-wise.
-[code]void locate_terms(const Map_words_2_posts&        w_tp,
+```cpp
+void locate_terms(const Map_words_2_posts&        w_tp,
                   const std::vector<std::string>& terms) {
   const auto bgn_loc = clk_time.now();
 
@@ -2907,7 +3043,7 @@ Alright, I added parallelization to the loop inside x, the costliest part of the
 
   if (! vw_vtp_valids.empty())
     find_intersects(vw_vtp_valids);
-}[/code]
+}```
 
 It doesn't bring too much to the table for very short (1 or 2 word) searches b/c setup overhead, but for searches that are sentence-length or longer it basically cuts the time by a quarter to a half (roughly speaking) on my box. 
 >
@@ -2915,7 +3051,8 @@ It doesn't bring too much to the table for very short (1 or 2 word) searches b/c
 I decided to go ahead and push a new rev on the same day since it's a fairly nice advance for ''waifusearch''. Should've done this refactor a bit sooner heh. :^)
 
 https://files.catbox.moe/7k95kq.7z
-[code]a82f71469d2db60834e12a03e76621201732afa1ff1547554d62e868f29447c5 waifusearch-0.1d.tar.xz[/code]
+```cpp
+a82f71469d2db60834e12a03e76621201732afa1ff1547554d62e868f29447c5 waifusearch-0.1d.tar.xz```
 Cheers.
 
 >===
@@ -2933,7 +3070,8 @@ Sometime next year I'll probably make time to get this building on the Raspberry
 
 That aside, the ultimate goal here ofc is to lay a foundation for our waifus to have a good search system to retrieve any textual information generally speaking, and not just to shitpost along with us. But little-by-little. And who really knows? This may very well turn out to be the year of the robowaifu for us all or at least additional good progress on that timeline. Here's hoping! :^) BTW, I thought it would be fun to adopt ''Sumomo'' as the official mascot of the project, in honor of the many times she served in doing searches!
 
-[code]201231 - v0.1e
+```cpp
+201231 - v0.1e
 --------------
 -add add'l timing sections for copy and sort operations
 -add write_file_ready() to rw_text_utils.hpp
@@ -2941,10 +3079,11 @@ That aside, the ultimate goal here ofc is to lay a foundation for our waifus to 
 -for locate_terms(), wrap processing after loop in sanity check block
 -add have_results flaq & test
 -add javadoc comments for functions
--minor function re-ordering[/code]
+-minor function re-ordering```
 
 https://files.catbox.moe/uc4uit.7z
-[code]7c13ced53ed67e5d21e7cdd9456a57d2f2922f13643b91a8abd80f612ef49477 waifusearch-0.1e.tar.xz[/code]
+```cpp
+7c13ced53ed67e5d21e7cdd9456a57d2f2922f13643b91a8abd80f612ef49477 waifusearch-0.1e.tar.xz```
 
 Cheers, and I hope you all have a very Happy New Year /robowaifu/ . Godspeed to us all this year. :^)
 
@@ -2989,7 +3128,8 @@ Cheers.
 # 184
 Implemented an easy to use named-timer mechanism today. A container is maintained system-wide for all timings, and whenever a Timer object is created it begins timing automatically, and when it goes out of scope or is explicitly stopped it calculates the difference and stores that into the system container.
 >Timer.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <chrono>
 #include <string>
@@ -3030,10 +3170,11 @@ class Timer {
   bool          have_stop{false};
 };
 
-}  // namespace rw[/code]
+}  // namespace rw```
 Using it is quite simple, and you can rely on the stop() function, or simply let it fall through and RAII will do the trick. Here's an example of both ways:
 >snippet.cpp
-[code]void foo() {
+```cpp
+void foo() {
   Timer t{"foo"};
   sleep_for(Sec{1});
 }
@@ -3048,13 +3189,14 @@ int main() {
   if (disp_timings)
     // rw::disp_timings();
     rw::disp_us_timings();
-}[/code]
+}```
 Note how clean and simple the RAII form is when appropriate. I'll probably use this all over my general-purpose code now as a form of perma-profiling since the perf impact is practically nil and iterating the ''named_timings'' container is strictly a standard approach.
 
 Example output from above snippet:
-[code]Hello World!
+```cpp
+Hello World!
 main timer took: 74 us
-foo timer took: 1000231 us[/code]
+foo timer took: 1000231 us```
 
 # 185
 OK, so I've made a few developer-oriented improvements to ''waifusearch'', nothing that really changes it's usage but makes the code a little cleaner internally. I've integrated my nifty little 'fire-and-forget' named timer class into the tool, and also changed the timings display to make it a bit more readable (raw microseconds and percentage-of-total numbers are now grouped together with the timer name itself). 
@@ -3062,7 +3204,8 @@ OK, so I've made a few developer-oriented improvements to ''waifusearch'', nothi
 
 I also added a flag to the ''meson.build'' that should stop the annoying notes coming up from GCC when you build on the RaspberryPi. The comments in that file have been tweaked a little for the RPi as well.
 >version.log
-[code]210112 - v0.1g
+```cpp
+210112 - v0.1g
 --------------
 -add Timer.hpp for cleaner automated timings
 -move to disp_pct_timings() using new Timer class
@@ -3072,9 +3215,10 @@ I also added a flag to the ''meson.build'' that should stop the annoying notes c
 -relocate assemble_words() to rw_text_utils.hpp
 -add build comments for RPi version to meson.build
 -add '-Wno-psabi' project arg to meson.build
--minor code-consistency cleanups[/code]
+-minor code-consistency cleanups```
 https://files.catbox.moe/dlijqn.7z
-[code]189aea5e788b4d163f918407a03052633a9cc6b3e33460688efbee9c06972128 waifusearch-0.1g.tar.xz[/code]
+```cpp
+189aea5e788b4d163f918407a03052633a9cc6b3e33460688efbee9c06972128 waifusearch-0.1g.tar.xz```
 I hope you're doing well so far this year, /robowaifu/ . Cheers.
 
 # 186
@@ -3082,14 +3226,16 @@ OK, I've finally gotten around to adding command-line parsing to waifusearch. Th
 >
 
 >version.log
-[code]210115 - v0.1h
+```cpp
+210115 - v0.1h
 --------------
 -add command-line arguments parsing
--patch minor RPi using bug[/code]
+-patch minor RPi using bug```
 No other improvements included with this version, but the benefit of having program arguments is more than valuable enough to make a special push just for that.
 
 https://files.catbox.moe/bkflel.7z
-[code]312a27a8cbb86e0b8f808fda0c36695fefc91c73ed7c870b6a21384f8752914b waifusearch-0.1h.tar.xz[/code]
+```cpp
+312a27a8cbb86e0b8f808fda0c36695fefc91c73ed7c870b6a21384f8752914b waifusearch-0.1h.tar.xz```
 Cheers.
 
 # 187
@@ -3108,7 +3254,8 @@ Cheers.
 OK, so I made a couple of small display improvements and patched a minor bug related to unfound terms display.
 
 >version.log
-[code]210126 - v0.1i
+```cpp
+210126 - v0.1i
 --------------
 -show unfound terms early in the results display
 -strip unfound terms from the final search phrase display
@@ -3117,9 +3264,10 @@ OK, so I made a couple of small display improvements and patched a minor bug rel
 -rename trim_lr() func in rw_text_utils.hpp
 -rename rm_substrings() func in rw_text_utils.hpp
 -remove unnecessary short-circuits in find_intersects()
--patch minor display bug with unfound terms[/code]
+-patch minor display bug with unfound terms```
 https://files.catbox.moe/yuq4z3.7z
-[code]3b7a5d7a8ff662c448a1f71d57fb6d82f170019806ddd7fe958343edce29d280 waifusearch-0.1i.tar.xz[/code]
+```cpp
+3b7a5d7a8ff662c448a1f71d57fb6d82f170019806ddd7fe958343edce29d280 waifusearch-0.1i.tar.xz```
 
 # 189
 >>8293
@@ -3133,7 +3281,8 @@ The RPi instructions are probably a little more hand-holding and basically apply
 
 # 191
 Comments from inside the file ''meson.build'' :
-[code]# ===
+```cpp
+# ===
 # DEPENDENCIES:  jsoncpp, mesonbuild (and other than on RaspberryPi), tbb
 # You should install these from your distro's package manager if possible.
 #
@@ -3167,32 +3316,36 @@ Comments from inside the file ''meson.build'' :
 #    ./waifusearch
 
 # -With either build approach, only the final execution step is
-#  needed anytime thereafter.[/code]
+#  needed anytime thereafter.```
 
 # 192
 Made a minor usage change where hyperlinks are now the default (change this with the '-y' flag) . My original thinking on this was looking towards the future when waifusearch will be fully integrated with the upcoming Bumpmaster imageboard system. But until then while this tool is still just a simple CLI-based search, it's more useful to present hyperlinks in the terminal instead I think. Other than that, made some minor display cosmetics and one small, proactive code modification.
 
 >version.log
-[code]210128 - v0.1j
+```cpp
+210128 - v0.1j
 --------------
 -rename 'make_crosslinks' to 'make_hyperlinks' (hyperlinks are now the default)
 -move clean_unfounds() earlier in processing chain (avoiding a potential bug)
 -only display 'ORDERED' header if both types are present
 -similarly, only segregate counts if 'UNORDERED' results are present
--minor javadoc edits[/code]
+-minor javadoc edits```
 https://files.catbox.moe/52t4ku.7z
-[code]224c28818ed61406419550c08f4bd25544838950eddb28a4ec1bfac60b876448 waifusearch-0.1j.tar.xz[/code]
+```cpp
+224c28818ed61406419550c08f4bd25544838950eddb28a4ec1bfac60b876448 waifusearch-0.1j.tar.xz```
 Should have the build file squared this time, cheers.
 
 # 193
 >>8337
 Your work is much appreciated. I'm only looking into it now, though, for various reasons. One is, that I wanted to find a way to check CPP code for dangerous commands, before using something I downloaded from a anonymous source from the web. Also, maybe understanding a bit of it. I'm using cppcheck now, and got some errors:
 
-[code]Checking .../waifusearch-0.1j/rw_text_utils.hpp ...
+```cpp
+Checking .../waifusearch-0.1j/rw_text_utils.hpp ...
 /waifusearch-0.1j/rw_text_utils.hpp:27:0: error: failed to evaluate #if condition, division/modulo by zero [preprocessorErrorDirective]
-#if __has_include(<jsoncpp/json/json.h>)  // RPi's version[/code] Maybe it works nevertheless, but cppchecks stops checking the file with that error in it.
+#if __has_include(<jsoncpp/json/json.h>)  // RPi's version``` Maybe it works nevertheless, but cppchecks stops checking the file with that error in it.
 
-I think this stuff here is unimportant or just warnings about what a file does: [spoiler][code].../waifusearch/waifusearch-0.1j/CLI11.hpp:7109:0: error: Exception thrown in function declared not to throw exceptions. [throwInNoexceptFunction]
+I think this stuff here is unimportant or just warnings about what a file does: %%```cpp
+.../waifusearch/waifusearch-0.1j/CLI11.hpp:7109:0: error: Exception thrown in function declared not to throw exceptions. [throwInNoexceptFunction]
         for(const App_p &com : subcommands_) {
 ^
 Checking ... /waifusearch/waifusearch-0.1j/rw_cli_args.hpp: CLI11_HAS_FILESYSTEM;__has_include...
@@ -3205,7 +3358,7 @@ Checking .../waifusearch/waifusearch-0.1j/rw_cli_args.hpp: _MSC_VER...
 Checking .../waifusearch/waifusearch-0.1j/rw_cli_args.hpp: _WIN32...
 Checking .../waifusearch/waifusearch-0.1j/rw_cli_args.hpp: __CUDACC__...
 Checking .../waifusearch/waifusearch-0.1j/rw_cli_args.hpp: __GNUC__...
-[/code][/spoiler]
+```%%
 
 # 194
 >>8387
@@ -3222,26 +3375,29 @@ I wrote this software myself, so ask away if you ever have any questions Anon. B
 # 195
 >>8390
 I tried this, after reading the link. I probably did something wrong. It didn't work.
-[code]
+```cpp
+
 #if defined __has_include &&  if __has_include(<jsoncpp/json/json.h>)  // RPi's version
 #  include <jsoncpp/json/json.h>
 #  else
 #  include <json/json.h>
 #endif
-[/code]
+```
 
 # 196
 >>8549
 If you want to perform the defined test first, then use this:
-[code]#if defined __has_include
+```cpp
+#if defined __has_include
 #if __has_include(<jsoncpp/json/json.h>)  // RPi's version
 #include <jsoncpp/json/json.h>
 #else
 #include <json/json.h>
 #endif
-#endif[/code]
+#endif```
 BTW, if you aren't building for the RPi, then you don't need any of this. Just include the JsonCpp header from it's normal location:
-[code]#include <json/json.h>[/code]
+```cpp
+#include <json/json.h>```
 Let me know how it goes if you get stuck Anon.
 
 # 197
@@ -3290,7 +3446,8 @@ At first it seems like it's that line in meson.build, what cases the error:
 >curl_dep = cxx.find_library('curl')
 I have libcurlpp-dev and libcurl4 installed.
 It returns: "meson.build:21:0: ERROR: C++ library 'curl' not found" but if I comment the line above out, then it just uses the next line to case an error. 
-[code]Version: 0.52.1
+```cpp
+Version: 0.52.1
 Source dir: /.../BUMP-02d/BUMP-0.2d
 Build dir: /.../BUMP-02d
 Build type: native build
@@ -3300,7 +3457,7 @@ C++ compiler for the host machine: c++ (gcc 8.3.0 "c++ (Raspbian 8.3.0-6+rpi1) 8
 C++ linker for the host machine: GNU ld.bfd 2.31.1
 Host machine cpu family: arm
 Host machine cpu: armv7l
-[/code]
+```
 
 # 203
 >>8576
@@ -3312,13 +3469,14 @@ Another suggestion, which would probably be easy to implement: It would be great
 # 205
 >>8620
 Good suggestion, thanks. I understand that would be a better fit with the Unix Philosphy. I simply wanted to do a boatload of different searches when I first got it working and so I did a 'search loop' instead of the more normal approach.
-[code]/**-----------------------------------------------------------------------------
+```cpp
+/**-----------------------------------------------------------------------------
  @brief    Front end to search-loop the word@post map 'w_tp' for user's query
  terms.
 
  @param    w_tp [IN] The word/thread+post map to search through.
 */
-void do_search(Map_words_2_posts& w_tp) { //... [/code]
+void do_search(Map_words_2_posts& w_tp) { //... ```
 It should be rather straightforward to make the system run in a single-shot mode instead. When I make time, I'll add a flag, probably -s with a string argument to it that should work. R/n I'm working on all the weird edge cases in doing simple Boolean ORs. I should have that ready by this weekend I think, and then I promised Anon to have a go at getting BUMP working on RPi.
 
 Once those are out of the way I'll add your flag so it can be scripted, etc., and I'm planning to go ''full-CAS'' with /robowaifu/ text searching at some point after that so we can really spell out exactly what kinds of things to look for for our waifus.
@@ -3332,7 +3490,8 @@ I just checked and was surprised to see so many different ''CAS'', so I'll be ex
 https://en.wikipedia.org/wiki/Computer_algebra_system
 
 I mean I want us to be able to ask our waifus for detailed searches that might look something like this in the underlying C++ code's execution path:
-[code]waifusearch> (Chii OR Sumomo) AND Hideki NOT (Hibiya OR Yumi) AND School[/code]
+```cpp
+waifusearch> (Chii OR Sumomo) AND Hideki NOT (Hibiya OR Yumi) AND School```
 Probably not a great example off the top of my head but you should get the picture. A long way from a NLP front-end, but eventually that front-end would need to produce something like the above to run through a lot of data. Since that's actually a useful enough feature (and simpler!) I'll try to get that underlying part working very fast, first.
 
 # 207
@@ -3363,7 +3522,8 @@ OK so here's the new version of waifusearch. We've moved up a point level. We no
 Also, performing a one-shot search is also supported now using the '''-s''' flag, combined with a string argument containing the search text. Please note, this isn't very performant ATM because the code has been designed to process the JSON text into an efficiently-traversed memory structure, and then repeatedly using that same structure over and over. Performing a one-shot means (for now) always ''re-doing'' that front-loading each time. In the future, I plan to serialize this already-processed data out to a disk file. That would then provide the ability to read that file back directly into the waifusearch memory structures instead of recreating them from scratch each time. But for now -- while it actually works -- doing a one-shot isn't anywhere near as responsive as normal searches are.
 
 >version.log
-[code]210220 - v0.2a
+```cpp
+210220 - v0.2a
 --------------
 -refactoring to support Boolean operators 'OR' , '|' , in search specification
 -add one-shot search capability, suited to scripting waifusearch
@@ -3383,14 +3543,16 @@ Also, performing a one-shot search is also supported now using the '''-s''' flag
 -add rw_gen_utils.hpp header
 -add Vec_phrase_grps alias
 -add multi-threading memory fencing
--remove redundant unfounds.clear() operation[/code]
+-remove redundant unfounds.clear() operation```
 https://files.catbox.moe/kiasfm.7z
-[code]5e0360c493892863a1741c4143a8e9c7320eccaf722a7c026fe9cbe082318687 waifusearch-0.2a.tar.xz[/code]
+```cpp
+5e0360c493892863a1741c4143a8e9c7320eccaf722a7c026fe9cbe082318687 waifusearch-0.2a.tar.xz```
 
 # 210
 >>8678
 Here's an example usage of the new Boolean OR feature:
-[code]build/waifusearch -y false -t true -e true
+```cpp
+build/waifusearch -y false -t true -e true
 time to process local /robowaifu/ JSON data:  3017 ms
 
 waifusearch>  hello world | foo bar
@@ -3431,13 +3593,15 @@ Modern C++ Group Learning Thread   >>5424    (foo, bar)
 --------------------------------------------------------------------------------
  total:    sea:74     loc:238    ldm:33     dbo:19     snt:86     mch:22     us
  472 us       :16        :50        : 7        : 4        :18        : 5     %
---------------------------------------------------------------------------------[/code]
+--------------------------------------------------------------------------------```
 
 Note how when the two phrases both appear inside the same post, then both phrases also appear at the end of the result. Here's an example where two ''exact matches'' both appear inside the same post:
-[code]>>5423    hello world, foo bar[/code]
+```cpp
+>>5423    hello world, foo bar```
 Whenever all words in a phrase appear in a post, but they aren't in the exact order specified in the search, then the words of the phrases will appear as CSVs inside parenthesis:
-[code]C++ General                        >>1075    (foo, bar)
-Robowaifu fiction to promote the   >>50      (hello, world)[/code]
+```cpp
+C++ General                        >>1075    (foo, bar)
+Robowaifu fiction to promote the   >>50      (hello, world)```
 
 # 211
 >>8678
@@ -3485,7 +3649,8 @@ https://stackoverflow.com/questions/4506758/flatten-old-history-in-git
 and then just post it onto catbox.moe ?
 
 # 218
->>8830
+>>8830
+
 my fault, it was set as private by default
 
 # 219
@@ -3498,7 +3663,8 @@ https://www.youtube.com/watch?v=8aIqIBmNJyM
 
 # 221
 So I finally installed waifusearch v0.2a. It worked, but I got some error messages:
-[code]g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -o waifusearch
+```cpp
+g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -o waifusearch
 
 In file included from /usr/include/c++/8/vector:69,
                  from /usr/include/c++/8/bits/fs_path.h:37,
@@ -3512,7 +3678,7 @@ In file included from /usr/include/c++/8/vector:69,
 /usr/include/c++/8/bits/vector.tcc:109:4: note: parameter passing for argument of type \u2018__gnu_cxx::__normal_iterator<std::pair<std::chrono::time_point<std::chrono::_V2::steady_clock, std::chrono::duration<long long int, std::ratio<1, 1000000000> > >, std::__cxx11::basic_string<char> >*, std::vector<std::pair<std::chrono::time_point<std::chrono::_V2::steady_clock, std::chrono::duration<long long int, std::ratio<1, 1000000000> > >, std::__cxx11::basic_string<char> > > >\u2019 changed in GCC 7.1
     _M_realloc_insert(end(), std::forward<_Args>(__args)...);
     ^~~~~~~~~~~~~~~~~
-[/code]
+```
 
 # 222
 >>10484
@@ -3521,15 +3687,17 @@ Hmm. Thanks for letting us know Anon. So, when you say
 do you mean you were able to successfully, build, run, and search with it? Something else?
 
 BTW, would you double-check your ''meson.build'' file, you should see a line like this:
-[code]add_project_arguments('-Wno-deprecated-declarations', '-Wno-psabi',
-                      language: 'cpp')[/code]
+```cpp
+add_project_arguments('-Wno-deprecated-declarations', '-Wno-psabi',
+                      language: 'cpp')```
 The ''no-psabi'' warning directive should have disable that warning.
 
 # 223
 >>10485
 >g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -o waifusearch
 Ahh, that must be it. Apologies, I neglected to add that directive to the comment on line #61. It should read:
-[code]#        g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -Wno-psabi -o waifusearch[/code]
+```cpp
+#        g++ main.cpp -std=c++2a -O3 -ljsoncpp -lstdc++fs -Wno-psabi -o waifusearch```
 
 I've amended that comment line and it will be in the next version of the tool. Try rebuilding with that command instead and let me know how it goes please.
 
@@ -3575,11 +3743,12 @@ Sounds all very good, thanks. I probably could get all inks out of the json arch
 # 231
 >>10809
 Yep, and there are a few of them here too:
-[code]waifusearch>  youtube OR youtu.be
+```cpp
+waifusearch>  youtube OR youtu.be
 .  .  .
 ' youtube | youtu be '  =  476 results
 
-waifusearch>  [/code]
+waifusearch>  ```
 
 # 232
 >>10812
@@ -3598,18 +3767,32 @@ Turns out, he's finished all the talks for his book, and is now just doing the w
 We probably will get a very polished implementation of an efficient, scalable & robust ''continuations library'' out of this collaboration. This is great news for /robowaifu/ and should make things like anon's ''IPCNet'' (>>2418) and anon's ''RPCS'' (>>11018) doable on very lightweight hardware, and relatively quite simple to write the underlying 'fabric' software itself.
 
 # 235
-What would be the fastest way to do matrix multiplication in C++? With compiler optimizations, profiling and everything. I wanna implement a transformer with raw, absolute speed. No fluff or usable code, just pathological maximum efficiency, running on a Raspberry Pi 4B.
-
-The matrix operations in the self-attention layers will also be a key part to optimize:
-[code]# query: (batch_size, query_length, heads, heads_dim)
-# key: (batch_size, key_length, heads, heads_dim)
-# energy: (batch_size, heads, query_length, key_length)
-energy = einsum("nqhd,nkhd->nhqk", (query, key))[/code]
-
-[code]# attention: (batch_size, heads, query_length, key_length)
-# value: (batch_size, value_length, heads, head_dim)
-# out: (batch_size, query_length, heads, head_dim)
-out = einsum("nhqk,nvhd->nqhd", (attention, value)).view(batch_size, query_len, self.heads * self.head_dim)[/code]
+What would be the fastest way to do matrix multiplication in C++? With compiler optimizations, profiling and everything. I wanna implement a transformer with raw, absolute speed. No fluff or usable code, just pathological maximum efficiency, running on a Raspberry Pi 4B.
+
+
+
+The matrix operations in the self-attention layers will also be a key part to optimize:
+
+```cpp
+# query: (batch_size, query_length, heads, heads_dim)
+
+# key: (batch_size, key_length, heads, heads_dim)
+
+# energy: (batch_size, heads, query_length, key_length)
+
+energy = einsum("nqhd,nkhd->nhqk", (query, key))```
+
+
+
+```cpp
+# attention: (batch_size, heads, query_length, key_length)
+
+# value: (batch_size, value_length, heads, head_dim)
+
+# out: (batch_size, query_length, heads, head_dim)
+
+out = einsum("nhqk,nvhd->nqhd", (attention, value)).view(batch_size, query_len, self.heads * self.head_dim)```
+
 Einsum is just a way to describe multiplying and adding matrices and transposing axes. How can these three things be done most efficiently?
 
 # 236
@@ -3628,12 +3811,18 @@ https://github.com/romeric/Fastor
 I'm sure you'll have your hands full getting all this to work well on wee hardware like the RPi, but of course that's a serious and fundamental goal for the ''Model A'' robowaifu prototyping stage, so go to it you madlad! :^)
 
 # 238
->>12425
->I'm sure you'll have your hands full getting all this to work well on wee hardware like the RPi
-I've been doing some tests and the RPi is roughly 1/10th the speed of my PC. Full-attention layers are probably out of the question but it should be able to handle linear attention. Fastor looks amazing. I hadn't heard of this.
-
->>12424
-Armadillo might have some issues with it: https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982
+>>12425
+
+>I'm sure you'll have your hands full getting all this to work well on wee hardware like the RPi
+
+I've been doing some tests and the RPi is roughly 1/10th the speed of my PC. Full-attention layers are probably out of the question but it should be able to handle linear attention. Fastor looks amazing. I hadn't heard of this.
+
+
+
+>>12424
+
+Armadillo might have some issues with it: https://romanpoya.medium.com/a-look-at-the-performance-of-expression-templates-in-c-eigen-vs-blaze-vs-fastor-vs-armadillo-vs-2474ed38d982
+
 But I don't think the norm function is needed for inferencing, only clipping the gradient during training. I'll test them both and see which is faster.
 
 # 239
@@ -3657,7 +3846,8 @@ Before that it looked good, it updated some thread and downloaded all the old pi
 >>13034
 Hey Anon, sorry you're having trouble with BUMP.
 I'd suggest you try this command (note the 2 separate, extra '1' at the end):
-[code]build/bump alogs.theГунтretort.com robowaifu 1 1[/code]
+```cpp
+build/bump alogs.theГунтretort.com robowaifu 1 1```
 
 That should hopefully rebuild the special ''.archbot.config'' file for you, walk all the threads and all your local directories, and patch up anything missing. I added the two 'undocumented' flags to the program to deal with just such issues.
 
@@ -3674,83 +3864,157 @@ Got me again. :^)
 How do I install/run this?
 
 # 246
->>13537
-[code]
-meson build
-meson -C ninja
-cp cxxchanConfig.example.json cxxchanConfig.json
-cp config.example.json config.json
-build/cxxchan
-[/code]
-then uncomment the 0.0.0.0:80 listener in the config.json file, and you should be able to access localhost/sys/login in your browser
-
+>>13537
+
+```cpp
+
+
+meson build
+
+meson -C ninja
+
+cp cxxchanConfig.example.json cxxchanConfig.json
+
+cp config.example.json config.json
+
+build/cxxchan
+
+```
+
+then uncomment the 0.0.0.0:80 listener in the config.json file, and you should be able to access localhost/sys/login in your browser
+
+
+
 *depending on your gcc version you might have to edit some const c-string declarations (const char* -> constexpr char*, constexpr char x[] -> constexpr char* x)
 
 # 247
->>14626
+>>14626
+
 ninja -C build*
 
 # 248
->>8823
-God, what the fuck is wrong with whoever wrote that library you used?
-
-In libcaptcha.c:
-[code]void makegif(unsigned char im[70*200], unsigned char gif[gifsize]) {
- 	// tag ; widthxheight ; GCT:0:0:7 ; bgcolor + aspect // GCT
- 	// Image Separator // left x top // widthxheight // Flags
-	// LZW code size
-	memcpy(gif,"GIF89a" "\xc8\0\x46\0" "\x83" "\0\0"
-		"\x00\x00\x00"
-		"\x10\x10\x10"
-		"\x20\x20\x20"
-		"\x30\x30\x30"
-		"\x40\x40\x40"
-		"\x50\x50\x50"
-		"\x60\x60\x60"
-		"\x70\x70\x70"
-		"\x80\x80\x80"
-		"\x90\x90\x90"
-		"\xa0\xa0\xa0"
-		"\xb0\xb0\xb0"
-		"\xc0\xc0\xc0"
-		"\xd0\xd0\xd0"
-		"\xe0\xe0\xe0"
-		"\xff\xff\xff"
-		"," "\0\0\0\0" "\xc8\0\x46\0" "\0" "\x04",13+48+10+1);
-
-	int x,y;
-	unsigned char *i=im;
-	unsigned char *p=gif+13+48+10+1;
-	for(y=0;y<70;y++) {
-		*p++=250; // Data length 5*50=250
-		for(x=0;x<50;x++)
-		{
-			unsigned char a=i[0]>>4,b=i[1]>>4,c=i[2]>>4,d=i[3]>>4;
-
-			p[0]=16|(a<<5);			// bbb10000
-			p[1]=(a>>3)|64|(b<<7);	// b10000xb
-			p[2]=b>>1;			// 0000xbbb
-			p[3]=1|(c<<1);		// 00xbbbb1
-			p[4]=4|(d<<3);		// xbbbb100
-			i+=4;
-			p+=5;
-		}
-	}
-
- 	// Data length // End of LZW (b10001) // Terminator // GIF End
-	memcpy(gif+gifsize-4,"\x01" "\x11" "\x00" ";",4);
-}[/code]
-He could've assigned that huge-ass string at the start to an array with a nice name like "header" and memcpy()ed the array, as well as taken its size with the sizeof operator instead of calculating it by hand. After making that mistake, he then goes and copypastes his complicated length calculation when initializing the variable *p, and makes the same mistake all over again at the bottom of the function.
-It's literally the first function in that file I read and a first impression like this usually means the entire program is rotten. 
-
-He also got his MAX macro wrong.
-[code]#define MAX(x,y) ((x>y)?(x):(y))[/code]
-Notice how (x>y) doesn't parenthesize x and y.
-
-Just skimming further down I see memmove() used for no reason at the end of the filter() function (its source and destination don't overlap, the source is an auto array, the destination is one of the function's parameters).
-I also see a load of repeated small read() calls that would've been better done with readv() and which have no error checking inside captcha().
-Then there's also the buttload of globals which in all likelihood are global for no reason, of which Clang says lt4 and lt6 aren't used.
-
+>>8823
+
+God, what the fuck is wrong with whoever wrote that library you used?
+
+
+
+In libcaptcha.c:
+
+```cpp
+void makegif(unsigned char im[70*200], unsigned char gif[gifsize]) {
+
+ 	// tag ; widthxheight ; GCT:0:0:7 ; bgcolor + aspect // GCT
+
+ 	// Image Separator // left x top // widthxheight // Flags
+
+	// LZW code size
+
+	memcpy(gif,"GIF89a" "\xc8\0\x46\0" "\x83" "\0\0"
+
+		"\x00\x00\x00"
+
+		"\x10\x10\x10"
+
+		"\x20\x20\x20"
+
+		"\x30\x30\x30"
+
+		"\x40\x40\x40"
+
+		"\x50\x50\x50"
+
+		"\x60\x60\x60"
+
+		"\x70\x70\x70"
+
+		"\x80\x80\x80"
+
+		"\x90\x90\x90"
+
+		"\xa0\xa0\xa0"
+
+		"\xb0\xb0\xb0"
+
+		"\xc0\xc0\xc0"
+
+		"\xd0\xd0\xd0"
+
+		"\xe0\xe0\xe0"
+
+		"\xff\xff\xff"
+
+		"," "\0\0\0\0" "\xc8\0\x46\0" "\0" "\x04",13+48+10+1);
+
+
+
+	int x,y;
+
+	unsigned char *i=im;
+
+	unsigned char *p=gif+13+48+10+1;
+
+	for(y=0;y<70;y++) {
+
+		*p++=250; // Data length 5*50=250
+
+		for(x=0;x<50;x++)
+
+		{
+
+			unsigned char a=i[0]>>4,b=i[1]>>4,c=i[2]>>4,d=i[3]>>4;
+
+
+
+			p[0]=16|(a<<5);			// bbb10000
+
+			p[1]=(a>>3)|64|(b<<7);	// b10000xb
+
+			p[2]=b>>1;			// 0000xbbb
+
+			p[3]=1|(c<<1);		// 00xbbbb1
+
+			p[4]=4|(d<<3);		// xbbbb100
+
+			i+=4;
+
+			p+=5;
+
+		}
+
+	}
+
+
+
+ 	// Data length // End of LZW (b10001) // Terminator // GIF End
+
+	memcpy(gif+gifsize-4,"\x01" "\x11" "\x00" ";",4);
+
+}```
+
+He could've assigned that huge-ass string at the start to an array with a nice name like "header" and memcpy()ed the array, as well as taken its size with the sizeof operator instead of calculating it by hand. After making that mistake, he then goes and copypastes his complicated length calculation when initializing the variable *p, and makes the same mistake all over again at the bottom of the function.
+
+It's literally the first function in that file I read and a first impression like this usually means the entire program is rotten. 
+
+
+
+He also got his MAX macro wrong.
+
+```cpp
+#define MAX(x,y) ((x>y)?(x):(y))```
+
+Notice how (x>y) doesn't parenthesize x and y.
+
+
+
+Just skimming further down I see memmove() used for no reason at the end of the filter() function (its source and destination don't overlap, the source is an auto array, the destination is one of the function's parameters).
+
+I also see a load of repeated small read() calls that would've been better done with readv() and which have no error checking inside captcha().
+
+Then there's also the buttload of globals which in all likelihood are global for no reason, of which Clang says lt4 and lt6 aren't used.
+
+
+
 t. C programmer who wouldn't touch C++ even at gunpoint.
 
 # 249
@@ -3765,23 +4029,37 @@ It's certainly a man-sized task, and your help would be welcome if you'd care to
 Cheers.
 
 # 250
->>14738
-
->t. C programmer who wouldn't touch C++ even at gunpoint.
-
-Nice bait. Though its true that the majority of his globals are unnecessary and should be creatable in an array function as needed to take advantage of C++’s dynamic memory allocation. 
-
+>>14738
+
+
+
+>t. C programmer who wouldn't touch C++ even at gunpoint.
+
+
+
+Nice bait. Though its true that the majority of his globals are unnecessary and should be creatable in an array function as needed to take advantage of C++’s dynamic memory allocation. 
+
+
+
 Optimization is truly a dark art these days.
 
 # 251
->>14743
-The constants that make up those globals have to be somewhere in memory, using a C++ feature for them won't improve anything. If anything it might create an undesirable situation where some memory is allocated and then the values are unnecessarily copied into the memory when the values could be used directly from where they already are in memory at the start of the program.
-
-They should be inside a function that calls the functions that need them, and then passed on as arguments. The compiler will place them in some region of memory and they won't be copied around if the compiler can prove they're never written to or if you explicitly give them static storage duration.
-
-The issue with the globals is semantics. Computers do what we tell them to do. 
-That C programmer told the compiler he needs a number in a specific place that can be read and written in any way possible by anyone and that he wants the latest state of the number every time he uses it, when what he actually wants is a number that is always known and always the same and that will only ever be recalled in the current source file, gifsize should've been an enum which is what provides these semantics. Heck, thanks to POSIX the compiler doesn't even know if those globals will be executed, because POSIX has functions for making a place in memory executable.
-There is no such thing as self documenting code, but there is code about which there is less to know. One has to look at the entire program to tell if the global gifsize is modified and then find out why and when, even if it's const qualified, because const variables can be modified in C (and probably C++). If at least it had internal linkage, you'd know its only uses were in that ~240LoC file, and suddenly it's also easier to put faith in the "const" qualifier.
+>>14743
+
+The constants that make up those globals have to be somewhere in memory, using a C++ feature for them won't improve anything. If anything it might create an undesirable situation where some memory is allocated and then the values are unnecessarily copied into the memory when the values could be used directly from where they already are in memory at the start of the program.
+
+
+
+They should be inside a function that calls the functions that need them, and then passed on as arguments. The compiler will place them in some region of memory and they won't be copied around if the compiler can prove they're never written to or if you explicitly give them static storage duration.
+
+
+
+The issue with the globals is semantics. Computers do what we tell them to do. 
+
+That C programmer told the compiler he needs a number in a specific place that can be read and written in any way possible by anyone and that he wants the latest state of the number every time he uses it, when what he actually wants is a number that is always known and always the same and that will only ever be recalled in the current source file, gifsize should've been an enum which is what provides these semantics. Heck, thanks to POSIX the compiler doesn't even know if those globals will be executed, because POSIX has functions for making a place in memory executable.
+
+There is no such thing as self documenting code, but there is code about which there is less to know. One has to look at the entire program to tell if the global gifsize is modified and then find out why and when, even if it's const qualified, because const variables can be modified in C (and probably C++). If at least it had internal linkage, you'd know its only uses were in that ~240LoC file, and suddenly it's also easier to put faith in the "const" qualifier.
+
 The semantics of globals prohibit compiler optimizations. Inside a linkable library or without LTO, the compiler is forced to assume that the broadest set of operations is performed on the globals, as all it knows is that code other than the code it can see has read/write/execute access to them, and because of that gifsize & its friends can't resolve into immediates in assembly and the operations performed on them can't be resolved at compile time or anything like that, they have to be a place in memory that the processor has to fetch with a pointer and every single operation on them has limited range of possible optimizations. This isn't so much of a premature optimization as it is a nice little side effect of just getting the semantics right, correct code is both easier to understand and faster.
 
 # 252
@@ -3795,7 +4073,8 @@ I would go further and add that the closer you fashion a solution in code to one
 I hope you help us all with the drivers Anon. We'll probably start with the Arduino Nano (which is amply documented already) and move out from there. Cheers.
 
 # 253
->>14759
+>>14759
+
 Sure. But I haven't done drivers. Never touched an Arduino either.
 
 # 254
@@ -3815,13 +4094,20 @@ www.amazon.com/REXQualis-Board-ATmega328P-Compatible-Arduino/dp/B07WK4VG58
 -''fix missing greenquote''
 
 # 255
->>14738
-kek, feel free to email the libcaptcha author (kefeer@brokestream.com). that library has some problems indeed, I noticed that various things were wrong when I used it for the ib, I even felt tempted to rewrite it entirely, or at least partly, or at the very least fix the compiler warnings, but got scared by the copyright notice (points 1 and 2 in particular). and didn't want to waste time writing my own.
-
-I ended up doing things like avoiding the gifSize "constant" entirely and the declare my own ("constexpr int gifSize = 17646"; constexpr is a C++ specifier for expressions that are known at compile time). to avoid some of the semantic problems that you mention.
-
-you're wrong about the internal linking tho. g++ uses internal linking by default for symbols marked as "const" (and static, obviously). I never #include the libcaptcha.c file, so the compiler would throw an error (even before linking) if I tried to use those symbols anyway.
-
+>>14738
+
+kek, feel free to email the libcaptcha author (kefeer@brokestream.com). that library has some problems indeed, I noticed that various things were wrong when I used it for the ib, I even felt tempted to rewrite it entirely, or at least partly, or at the very least fix the compiler warnings, but got scared by the copyright notice (points 1 and 2 in particular). and didn't want to waste time writing my own.
+
+
+
+I ended up doing things like avoiding the gifSize "constant" entirely and the declare my own ("constexpr int gifSize = 17646"; constexpr is a C++ specifier for expressions that are known at compile time). to avoid some of the semantic problems that you mention.
+
+
+
+you're wrong about the internal linking tho. g++ uses internal linking by default for symbols marked as "const" (and static, obviously). I never #include the libcaptcha.c file, so the compiler would throw an error (even before linking) if I tried to use those symbols anyway.
+
+
+
 the C++ part (my code) is even worse. from the hard-coded queries to the obscure orm (which needs it's own compiler to generate implementation files), blocking queries everywhere, and non-threadsafe globals in a multi-threading context. it nonetheless work. I might try to write something better in zig or C++ in the distant future
 
 # 256

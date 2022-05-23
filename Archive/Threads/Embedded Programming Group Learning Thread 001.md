@@ -271,11 +271,13 @@ To develop with AVR C, will need to install the following packages: make, avr-li
 
 On a debian-based distro at least, open up a terminal, update your lists with:
 
-[code]sudo apt-get update[/code]
+```cpp
+sudo apt-get update```
 
 and then run the following:
 
-[code]sudo apt-get install make avr-libc avrdude binutils-avr gcc-avr gdb-avr[/code]
+```cpp
+sudo apt-get install make avr-libc avrdude binutils-avr gcc-avr gdb-avr```
 
 Reply yes to everything. There may be more dependencies installed depending on your system. Go ahead and install those too.
 
@@ -313,7 +315,8 @@ LESSON 1 CONTINUED - BARE MINIMUM PROJECT
 
 Alright, let's set up a little test project. Don't need to worry about the code yet, just copy and paste for now. First, let's make a new folder for our code. Call it avr_test or waifu_test or whatever you want. Inside that folder, let's make three new files and call them: "main.c", "main.h", and "Makefile". Open all three of them with your text editor. Into main.c paste the following:
 
-[code]#include <avr/io.h>
+```cpp
+#include <avr/io.h>
 #include <util/delay.h>
 #include "main.h"
 
@@ -331,15 +334,17 @@ int main(void)
     }
     
     return 0;
-}[/code]
+}```
 
 Into main.h paste the following line:
 
-[code]int main(void);[/code]
+```cpp
+int main(void);```
 
 And lastly, into Makefile, paste this:
 
-[code]CC=avr-gcc
+```cpp
+CC=avr-gcc
 OBJCOPY=avr-objcopy
 
 CFLAGS=-Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p
@@ -357,20 +362,22 @@ flash: main.hex
 	avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex
 
 clean:
-	rm main.elf main.hex main.o[/code]
+	rm main.elf main.hex main.o```
 
 Save all three of those files and you should be all set to compile.
 
 # 36
 OK. Now open up a terminal and type "make". If all goes well, you'll get the following:
 
-[code]avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o
+```cpp
+avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o
 avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -o main.elf main.o
-avr-objcopy -O ihex -R .eeprom main.elf main.hex[/code]
+avr-objcopy -O ihex -R .eeprom main.elf main.hex```
 
 You should now have three more files in your folder: "main.elf", "main.hex", and "main.o". The hex file is what we burn onto the AVR. Now type "make flash". If you have a usbtiny ISP plugged in and hooked up to your Nano, you'll get the following:
 
-[code]avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex
+```cpp
+avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex
 
 avrdude: AVR device initialized and ready to accept instructions
 
@@ -390,27 +397,29 @@ avrdude: 164 bytes of flash written
 
 avrdude: safemode: Fuses OK (E:FF, H:D9, L:FF)
 
-avrdude done.  Thank you.[/code]
+avrdude done.  Thank you.```
 
 and your LED should be blinking away.
 If not, you'll get the following error:
 
-[code]avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex
+```cpp
+avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex
 avrdude: Error: Could not find USBtiny device (0x1781/0xc9f)
 
 avrdude done.  Thank you.
 
 Makefile:16: recipe for target 'flash' failed
-make: *** [flash] Error 1[/code]
+make: *** [flash] Error 1```
 
 That's all there is to it.
 
 # 37
 I don't have my hardware in yet, but I got these from the compile so all seems good so far:
 
-[code]avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o
+```cpp
+avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o
 avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -o main.elf main.o
-avr-objcopy -O ihex -R .eeprom main.elf main.hex[/code]
+avr-objcopy -O ihex -R .eeprom main.elf main.hex```
 
 # 38
 Can you describe the Makefile and what it's doing for us please?
@@ -420,7 +429,8 @@ Probably getting ahead of myself but also one other question I had
 >and your LED should be blinking away.
 Is this an LED directly on the Nano package, or do we need to do breadboard wiring up first? Pin 5 on Port B?
 
-[code]        PORTB = PORTB ^ (1 << DDB5); // toggle pin 5 of PORTB[/code]
+```cpp
+        PORTB = PORTB ^ (1 << DDB5); // toggle pin 5 of PORTB```
 
 # 40
 >>3779
@@ -434,26 +444,31 @@ I see thanks. My hardware should be in later today so I'll try this then.
 >>3778
 Makefiles are like magic to me sometimes but I'll try. These first three lines are variable definitions. The contents of those lines get copied into the lines below. For instance, 
 
-[code]CC=avr-gcc[/code]
+```cpp
+CC=avr-gcc```
 
-[code]CFLAGS=-Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p[/code]
+```cpp
+CFLAGS=-Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p```
 
 means that wherever we see ${CC} and ${CFLAGS}, those values get copied in and we end up with lines like
 
-[code]avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o[/code]
+```cpp
+avr-gcc -Os -Wall -DF_CPU=16000000UL -mmcu=atmega328p -c main.c -o main.o```
 
 You probably saw that in the output when you compiled.
 
 What else… The bits on the left, like "main.hex", are our make targets. To the right of the ":" are the dependencies for that target. So when you type "make", make starts are the first target, which is our hex file we need to flash, main.hex, which requires main.elf, which requires main.o, which requires main.c. main.c exists already, so everything besides that gets compiled and linked and all that and we end up with main.hex.
 This bit
 
-[code]flash: main.hex
-	avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex[/code]
+```cpp
+flash: main.hex
+	avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex```
 
 is not required by anything else, so we need to call it by name by typing "make flash". Notice it requires main.hex? If you didn't make that already, it'll get made now. Typing "make clean" will run the following:
 
-[code]clean:
-	rm main.elf main.hex main.o[/code]
+```cpp
+clean:
+	rm main.elf main.hex main.o```
 
 which doesn't require anything, and just deletes all the intermediate files we got in the make process. Run that and you'll notice main.o, main.elf, and main.hex are gone now. Don't fuck up and add your .c files to this.
 
@@ -519,12 +534,14 @@ Let's start by switching up our project folder structure a bit. Before, we had m
 
 Let's get to the code now. Open up those five files in your editor, hopefully it will let you move between them quickly like browser tabs, because we're going to jump around a bit. First, let's make that Makefile a little more generic and useful. All Makefiles are named just that: "Makefile". That's what make looks for when you run it. Let's add a comment at the top of ours so while we can't change the name, at least while editing it we know which one it is. On the first line, insert a comment starting with a "#" letting you know what it's for. I did
 
-[code]# robowaifu learning project 02 - blink again[/code]
+```cpp
+# robowaifu learning project 02 - blink again```
 
 You can write whatever; it won't be used by make in any way. I know a couple of you guys went and ordered USBtinyISPs, that's cool. However, there are different programmers out there, like the popular USBASP or AVRasISP, so I want to make the makefile a little more flexible to accommodate everyone. After the CFLAGS variable definition, let's add the following two lines:
 
-[code]ISP=usbtiny
-BAUD=115200[/code]
+```cpp
+ISP=usbtiny
+BAUD=115200```
 
 This specifies which programmer we're using at and what baud (bits per second, speed) we're talking to the chip at. For the USBtinyISP, 115200 baud works great, for others, you may need to go slower to flash without errors. You can change both parameters here and not have to mess with the rest of the file. We're not done with the Makefile yet but me up with any questions or comments you might have so far.
 
@@ -542,28 +559,33 @@ look forward to the next lesson Sensei.
 
 "Fuses" are bytes we burn onto the AVR chip to alter some settings affecting how it boots, runs, and more. Here we can set the clock source, whether it's the internal resonator or an external crystal. We can set the start-up time, more to give your voltage source time to stabilize after a power-on, or less if you need it running code within a few milliseconds of being powered up. You can change these settings in all sorts of ways, some of which will leave it unable to talk to the ISP, which will BRICK it. So don't play with setting them randomly just to experiment. There are three fuses for the AVR, the high fuse, the low fuse, and the extended fuse. Each one is 1-byte in size and typically written in hexidecimal format. Look up binary, decimal, and hexidecimal if you aren't familiar with those. Also save pic related for a quick reference if you need it. As for what values to burn onto our Atmega328p, you can calculate them by reading the datasheet and seeing which features you need and which bits to toggle to get them. Or, you can use a handy calculator like the one at http://eleccelerator.com/fusecalc/fusecalc.php?chip=atmega328p Or, you can do like we're going to do and use the default settings for the Arduino Nano, which are as follows: extended fuse - 0xFD, high fuse - 0xDA, and low fuse - 0xFF. Let's add those to our Makefile. That will give us an easy way to flash new boards we might acquire, or if we need to change the fuse settings, to be able to do it in just one place in the file. After ISP and BAUD, add the following three lines:
 
-[code]EFUSE=0xFD
+```cpp
+EFUSE=0xFD
 HFUSE=0xDA
-LFUSE=0xFF[/code]
+LFUSE=0xFF```
 
 OK. Now let's use all of these new variables that we've set up. Go down a few lines and find the "flash" make target. It should look like this:
 
-[code]flash: main.hex
-	avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex[/code]
+```cpp
+flash: main.hex
+	avrdude -F -V -c usbtiny -p ATMEGA328P -b 115200 -U flash:w:main.hex```
 
 Note that the programmer type and baud rate are hard coded in there. Let's change that now to use our variables we defined last post:
 
-[code]flash: main.hex
-	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U flash:w:main.hex[/code]
+```cpp
+flash: main.hex
+	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U flash:w:main.hex```
 
 Cool. Now about those fuses, how are we going to burn them onto the chip? With a new make target we'll call "fuses". Add the following two lines between the "flash" and "clean" targets:
 
-[code]fuses:
-	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U efuse:w:${EFUSE}:m -U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m[/code]
+```cpp
+fuses:
+	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U efuse:w:${EFUSE}:m -U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m```
 
 We can now burn the fuses simply by typing "make fuses" into the terminal. Notice where our variables are inserted into the line. Typing make fuses should give you the output in pic 2. This line will tell you the final fuse settings after burning:
 
-[code]avrdude: safemode: Fuses OK (E:FD, H:DA, L:FF)[/code]
+```cpp
+avrdude: safemode: Fuses OK (E:FD, H:DA, L:FF)```
 
 Let me know if you don't know wtf we're doing or why. Also taking requests for topics anyone would like to see covered eventually, like a sensor they'd like to use or whatever.
 
@@ -573,7 +595,8 @@ NEXT - MULTI-FILE COMPILATION
 >>3796
 I'll get the code up on gitlab or bitbucket too then, when I get the time. Makefile up to this point:
 
-[code]# robowaifu learning project 02 - blink again
+```cpp
+# robowaifu learning project 02 - blink again
 
 CC=avr-gcc
 OBJCOPY=avr-objcopy
@@ -603,7 +626,7 @@ fuses:
 	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U efuse:w:${EFUSE}:m -U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m  
 
 clean:
-	rm main.elf main.hex main.o[/code]
+	rm main.elf main.hex main.o```
 
 # 55
 ==LESSON 2 CONTINUED - MULTI-FILE COMPILATION==
@@ -611,7 +634,8 @@ clean:
 I said earlier that we were going to break out the LED functionality to another file. Why? Because it's just good practice. Keep all the LED blinking code in one file and, when we need to blink an LED in a project (or interface with a sensor, drive a motor, whatever your .c file handles), we can just include it. Anyway, let's just get the code out there and then I'll go over it all. Again, don't worry if I skim over the code too much, the goal here is learning to compile and link multiple files in a project.
 The updated main.c:
 
-[code]#include <avr/io.h>
+```cpp
+#include <avr/io.h>
 #include <util/delay.h>
 #include "main.h"
 #include "blink.h"
@@ -636,15 +660,17 @@ int main(void)
     }
     
     return 0;
-}[/code]
+}```
 
 main.h:
 
-[code]int main(void);[/code]
+```cpp
+int main(void);```
 
 blink.c:
 
-[code]#include <avr/io.h>
+```cpp
+#include <avr/io.h>
 #include <util/delay.h>
 #include "blink.h"
 
@@ -705,14 +731,15 @@ void blink_eight_times(void)
         
         _delay_ms(62); // wait 62 milliseconds
     }
-}[/code]
+}```
 
 blink.h
 
-[code]void blink_once(void);
+```cpp
+void blink_once(void);
 void blink_twice(void);
 void blink_four_times(void);
-void blink_eight_times(void);[/code]
+void blink_eight_times(void);```
 
 Next - updated Makefile and explanation
 
@@ -723,7 +750,8 @@ Glad to help. Hope everything arrives safe and sound and works right out of the 
 # 57
 Updated Makefile:
 
-[code]# robowaifu learning project 02 - blink again
+```cpp
+# robowaifu learning project 02 - blink again
 
 CC=avr-gcc
 OBJCOPY=avr-objcopy
@@ -756,7 +784,7 @@ fuses:
 	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U efuse:w:${EFUSE}:m -U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m  
 
 clean:
-	rm main.elf main.hex *.o[/code]
+	rm main.elf main.hex *.o```
 
 OK. Let's take a look at main.c. Look at line 4 - we have one more include: "blink.h". Take a look at blink.h. It's just 4 lines with the names of functions (don't worry about the "void" bits right now). What '#include "blink.h"' does is basically copying and pasting the contents of blink.h right into main.c. This must be before those functions are called. This lets the compiler know that when it sees one of these functions called down below in main.c, like "blink_once();" on line 14, that this is a function that exists (somewhere) and that we don't need to supply any extra parameters to use it. What those functions do, however, is all up to blink.c. Take a look in blink.c to see how those functions are implemented. Don't sweat the details right now but the comments should clue you in on the workings. Inside the while (1) infinite loop, you'll see those 4 functions called in order, followed by a 1 second pause. Now that we've included blink.h in main.c, we can use these functions in any combination, any way we like.
 >What's a function, anyway?
@@ -764,7 +792,8 @@ A function is a reusable piece of modular code. It can be called any number of t
 
 And finally, the multiple compilation part. Take a look at the new Makefile. We have a new make target now: blink.o. This is compiled just like main.o. But what do we need blink.o for anyway? It's a requirement of main.elf now:
 
-[code]main.elf: main.o blink.o[/code]
+```cpp
+main.elf: main.o blink.o```
 
 What this basically says is that to use the code contained within blink.c in our main executable, our binary, we need to link the compiled main.c code (the object file main.o) and the compiled blink.c code (blink.o) together (so when we call those blink functions from main, stuff actually happens). And that's the gist of it. Go ahead and call "make flash" if you want to see the new code in action.
 
@@ -808,16 +837,19 @@ http://magaimg.net/img/67ha.png
 # 65
 I know you already went over the Makefile, but I still am not quite clear on how make choose which make target to perform when you issue it's command with no arguments like this
 
-[code]make[/code]
+```cpp
+make```
 
 I'm guessing it just executes the first one in the Makefile or something? This one in our case
 
-[code]main.hex: main.elf
-	${OBJCOPY} -O ihex -R .eeprom main.elf main.hex[/code]
+```cpp
+main.hex: main.elf
+	${OBJCOPY} -O ihex -R .eeprom main.elf main.hex```
 
 then picks up the other dependencies from that first one? I do think I understand when you explicitly specify the make target to the command like this
 
-[code]make flash[/code]
+```cpp
+make flash```
 
 Please pardon me if I missed it and you already answered this question.
 
@@ -825,11 +857,12 @@ Please pardon me if I missed it and you already answered this question.
 >>3809
 I did mention this above, yeah. When make is not supplied a target, it makes the first target in the file, which is main.hex. You can build each of the intermediate components by name if you really wanted to like:
 
-[code]make blink.o
+```cpp
+make blink.o
 make main.o
 make main.elf
 make main.hex
-make flash[/code]
+make flash```
 
 Use "make flash" if you want to make everything and flash in a single command.
 
@@ -837,9 +870,10 @@ Use "make flash" if you want to make everything and flash in a single command.
 >>3807
 You can use a backslash to escape a newline character like 
 
-[code]fuses:
+```cpp
+fuses:
 	avrdude -F -V -c ${ISP} -p ATMEGA328P -b ${BAUD} -U efuse:w:${EFUSE}:m \
-	-U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m  [/code]
+	-U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m  ```
 
 Check out the manual for details on that at https://www.gnu.org/software/make/manual/html_node/Splitting-Recipe-Lines.html#Splitting-Recipe-Lines I just looked that up now btw, I didn't know it either.
 
@@ -967,14 +1001,15 @@ I don't know. I doubt it. I don't think we'll be doing any kind of real-time dig
 
 This lesson we will finally be making a circuit on our breadboards. If you don't know how a breadboard works, have a quick read of this page https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/anatomy-of-a-breadboard for the basics. We're going to be sticking our Nano into one side like it was a DIP chip, and setting up a row of 8 LEDs next to it. I've attached both a terrible fritzing diagram and a photo of the circuit. The connections are simple. I bend the legs of my LEDs like in the pic with a pair of needle-nose pliers (nice for giving good, sharp bends to through-hole components) so they can be stuck in the DIP slot or on the power rails. On my board, I've got the negative legs stuck in the one ground rail and the resistors bend like a staple and inserted across the DIP slot. Make sure you get the polarity of the LEDs right. Look up how to tell which end is which if you aren't familiar. The wiring between the resistors and the Nano is hard to see but it goes like this: 
 
-[code]Nano pin D8 (PB0) -> LED 1 resistor
+```cpp
+Nano pin D8 (PB0) -> LED 1 resistor
 Nano pin D9 (PB1) -> LED 2 resistor
 Nano pin D10 (PB2) -> LED 3 resistor
 Nano pin D11 (PB3) -> LED 4 resistor
 Nano pin D12 (PB4) -> LED 5 resistor
 Nano pin D5 (PD5) -> LED 6 resistor
 Nano pin D6 (PD6) -> LED 7 resistor
-Nano pin D7 (PD7) -> LED 8 resistor[/code]
+Nano pin D7 (PD7) -> LED 8 resistor```
 
 Don't forget to connect the Nano's GND pin (there are two of them, either works)to the breadboard ground or you'll have an open circuit and nothing will work. Take a minute to set that up. Now we have 8 LEDs lined up in a row, each one connected to its own digital I/O pin on the Nano. We'll use this as a simple display to show 8-bit values (0-255). Next post: the code.
 
@@ -983,7 +1018,8 @@ Don't forget to connect the Nano's GND pin (there are two of them, either works)
 
 Let's start by making another folder: "03_count". In there, we're going to have the following five files: main.c, main.h, display.c, display.h, and of course, Makefile. Let's start with main.c and main.h. main.c:
 
-[code]#include <avr/io.h>
+```cpp
+#include <avr/io.h>
 #include <util/delay.h>
 #include "main.h"
 #include "display.h"
@@ -1004,11 +1040,12 @@ int main(void)
     }
     
     return 0;
-}[/code]
+}```
 
 main.h:
 
-[code]int main(void);[/code]
+```cpp
+int main(void);```
 
 These should look familiar by now. Take a look at main.c. At the top, we have our usual includes. 'avr/io.h' lets us use AVR register names like DDRB, PORTC, etc. It also lets us use types like 'uint8_t' which is an unsigned 8-bit integer, or, an unsigned char. Check out this link for an intro to C types, their sizes in memory, and what values they can hold - https://intellipaat.com/tutorial/c-tutorial/c-data-types/ After the includes, we have our main function. Once in the main function, the first thing that's executed is a function we've written called "display_setup". The comment says what it does: initializes the Nano's ports to use the pins we've connected as digital outputs. Don't worry about the implementation just now. Next, we have the line "uint8_t count = 0x00;". What this does is create a new variable for us to use and sets it to an initial value of 0. I have written it in its hexidecimal notation of '0x00'. You can write it as uint8_t count = 0; or uint8_t count = 0b00000000; if you like; it's all the same to the compiler. Read a bit about binary, decimal, and hexadecimal number systems if you aren't familiar: https://www.embedded.fm/blog/2016/6/14/an-introduction-to-binary-and-hexadecimal https://learn.sparkfun.com/tutorials/hexadecimal/introduction Ok, so our setup is done. Let's enter the main loop then. First thing that does is display our value, "count". What's the value of that again? It should currently be 0. Zero in 8-bit binary is of course, "0000 0000" (space added for clarity). Writing a 0 to a digital pin will set the voltage on that pin to ground, or 0 volts. With the voltage being the same on each end of the 8 little circuits we've made (AVR pin -> resistor -> LED -> ground), no current will flow, and all of the LEDs will be dark. 
 As the title of this lesson implies, we're not just trying to display "0" in binary, we want to count up from 0. That's what the next line does: "count++;" This is one way of incrementing in C. Other ways include writing "count += 1;" or "count = (count + 1);". It increases the value of count by 1. Next, we wait for half a second so that we can follow along with what is happening. Then it's back to the beginning of the loop. By looping like this indefinitely, you'll see the following take place: our value is 0, the LEDs are all off, pause, our value is now 1, the rightmost (LSB) LED is lit, the others are dark, pause, our value is 2, the second-to-right LED is lit, the rightmost is off now, pause, and so on.
@@ -1041,7 +1078,8 @@ Ah ok, this confirmed some things, really appreciate it.  Will use proper power 
 
 Let's start by adding the code to these two files. display.c:
 
-[code]#include "display.h"
+```cpp
+#include "display.h"
 
 void display_setup(void)
 {
@@ -1060,22 +1098,24 @@ void display(uint8_t num)
     
     PORTB = (num & PB_MASK); // (xxxx xxxx) & (0001 1111) = (000n nnnn)
     PORTD = (num & PD_MASK); // (xxxx xxxx) & (1110 0000) = (nnn0 0000)
-}[/code]
+}```
 
 display.h:
 
-[code]#include <avr/io.h>
+```cpp
+#include <avr/io.h>
 
 #define PB_MASK 0x1F // 0001 1111
 #define PD_MASK 0xE0 // 1110 0000
 
 void display_setup(void);
-void display(uint8_t num);[/code]
+void display(uint8_t num);```
 
 This time, let's begin by taking a look at the header file first. On the first line of display.h, we've got "#include <avr/io.h>". Why include this in the header and not in display.c like is typical? Because in our function declarations
 
-[code]void display_setup(void);
-void display(uint8_t num);[/code]
+```cpp
+void display_setup(void);
+void display(uint8_t num);```
 
 we need to use one of types provided to us by avr/io.h, "uint8_t". Not including this in the header gives us an error. As a bonus, though, because we included it here in display.h, we don't need to include it in display.c. If you remember how header files and includes work, you should be able to guess why: the contents of "avr/io.h" are copy-pasted into "display.h", which is then copy-pasted into "display.c". Let's take a look at this "#define" business. This is called macro declaration. The convention for macro names is all caps. This lets you know that they are not a variable that can be changed, they are constant expressions. Read more about this kind of C macro here - https://gcc.gnu.org/onlinedocs/cpp/Object-like-Macros.html#Object-like-Macros We use macros for simplicity: so we don't have to put "0x1F" or something in a hundred places in our code, then go back and change all of those if we need to use a different value. Please also note there are no equal signs in macro definitions, it just goes "#define NAME value".
 >What is this shit anyway? PB_MASK = 0x1F?
@@ -1092,7 +1132,8 @@ Next: Port Data Registers
 
 CORRECTION TO MAIN.C:
 
-[code]#include "display.h"
+```cpp
+#include "display.h"
 
 void display_setup(void)
 {
@@ -1114,18 +1155,20 @@ void display(uint8_t num)
     
     PORTB |= (num & PB_MASK); // (xxxx xxxx) & (0001 1111) = (000x xxxx)
     PORTD |= (num & PD_MASK); // (xxxx xxxx) & (1110 0000) = (xxx0 0000)
-}[/code]
+}```
 
 I didn't follow my own advice about not touching the other bits. Anyway, we're still working with display_setup. Look at the next couple of lines:
 
-[code]PORTB &= ~(PB_MASK); // set PORTB pins 0,1,2,3,4 low (xxx0 0000), x = unchanged
-PORTD &= ~(PD_MASK); // set PORTD pins 5,6,7 low (000x xxxx), x = unchanged[/code]
+```cpp
+PORTB &= ~(PB_MASK); // set PORTB pins 0,1,2,3,4 low (xxx0 0000), x = unchanged
+PORTD &= ~(PD_MASK); // set PORTD pins 5,6,7 low (000x xxxx), x = unchanged```
 
 Lets look at this piece by piece. First, we have two more register names. These are the Port Data Registers for ports B and D. Writing to them lets us set the pins in those ports. If our pins were inputs, reading these registers would give up the values of those pins. We are using (at least some of) those pins as outputs right now, so we are writing to them (with the equals sign). Next we have this thing: "&=". This is an "and equals" operator. In other words, if something is currently 1, and we &= 1 it, it will remain a one. If it's currently a 0 it would remain a 0. This symbol, "~", is an inverse sign. we put that in front of our bitmasks to invert them. Thus, 0x1F (0001 1111) becomes 1110 0000. When we apply that with the "&=" operator to the value currently in PORTB, the first 5 bits (from right to left) will become 0s, the remaining 3 remain unchanged. This is to set all of our LEDs to off to start. It may not be necessary here, but it's always good practice to initial values of stuff you use so it's not in an unknown state at startup (which can be especially dangerous in robotics).
 
 OK. So that sets up our ports and pins. It can be confusing but I hope everyone is still following along. Next we're going to look at the actual display function, "display". This time, our function requires a parameter to be passed to it when we use it. In other words, it needs to be given a number to display. You can see that in the first line:
 
-[code]void display(uint8_t num)[/code]
+```cpp
+void display(uint8_t num)```
 
 The "void" at the beginning is what the function returns, which in this case, is nothing (don't worry about this for now). The interesting bit is after the function name, in parentheses: "uint8_t num". What this says is that we need to give our function an 8-bit unsigned char every time we call it, and that we can access that value from inside the function with the variable name "num". Lets look at the function body itself. First, we clear the two data registers (only the bits we're using). This clears old data from them (last "frame", if you will). Then, we do a bitwise & with the number we're trying to show with the bitmask. So for the number 255, for example, which is 1111 1111 in binary, &'ing with our PORTB bitmask, 0001 1111, will give us a result of 0001 1111, which is then |='ed with the value currently in the PORTB data register, where only the 1s will affect it. Get it? Thus, writing our value to those pins. Same for PORTD.
 
@@ -1136,7 +1179,8 @@ Next - Makefile
 
 Makefile for this lesson:
 
-[code]# robowaifu learning project 03 - count
+```cpp
+# robowaifu learning project 03 - count
 
 CC=avr-gcc
 OBJCOPY=avr-objcopy
@@ -1170,7 +1214,7 @@ fuses:
 	-U hfuse:w:${HFUSE}:m -U lfuse:w:${LFUSE}:m  
 
 clean:
-	rm main.elf main.hex *.o[/code]
+	rm main.elf main.hex *.o```
 
 Same as before, only we're building display.o instead of blink.o and stuff. Go ahead and do a "make flash" to see our binary counter in action. I tried to cover a lot of content in this lesson, so let me know if you have any questions, if you see any more mistakes, or if something isn't clear enough.
 
@@ -1180,7 +1224,8 @@ Next lesson: Talk to Me - serial communication
 >>3830
 Damn, fucked that up twice. This code I posted:
 
-[code]#include "display.h"
+```cpp
+#include "display.h"
 
 void display_setup(void)
 {
@@ -1202,7 +1247,7 @@ void display(uint8_t num)
     
     PORTB |= (num & PB_MASK); // (xxxx xxxx) & (0001 1111) = (000x xxxx)
     PORTD |= (num & PD_MASK); // (xxxx xxxx) & (1110 0000) = (xxx0 0000)
-}[/code]
+}```
 
 is the fixed code for display.c, not main.c. My bad. Gotta hurry up and get a repository set up so I can just link there for the latest code.
 
@@ -1258,7 +1303,8 @@ Hi. Welcome back.
 >It seems like there are two groups of four, out of order.
 Can you clarify this? Is it not displaying for you properly? I suppose the pins are a bit out of order, that's just the way (my) Nano and breadboard are laid out. I've chosen to use two colors because we use the same setup in lesson 4 and it makes that output a little easier to see. Also because it's placed to the left of my PC, I have the Nano on the rightmost edge of the breadboard with the micro-usb connector facing right. The 8 LEDs are placed on the board in the remaining open space to the left. With the nature of how bytes and bits work, the first (least significant) bit is on the right and the last (most significant) bit is on the left. Thus the spaghetti. You can lay out your connections however you like, as long as the LED/resistor and board connectors are like so:
 
-[code]Nano pin    AVR-C macro         Breadboard LED/resistor circuit
+```cpp
+Nano pin    AVR-C macro         Breadboard LED/resistor circuit
 D8          PB0         ->      1 (rightmost)
 D9          PB1         ->      2
 D10         PB2         ->      3
@@ -1266,7 +1312,7 @@ D11         PB3         ->      4
 D12         PB4         ->      5
 D5          PD5         ->      6
 D6          PD6         ->      7
-D7          PD7         ->      8 (leftmost)[/code]
+D7          PD7         ->      8 (leftmost)```
 
 Consult the pinout image of the Nano board in case yours is labeled differently. Let me know if that doesn't help. Post a photo of your setup if you still have issues.
 
@@ -1307,7 +1353,8 @@ Another thing that would be valuable to learn is communication between the board
 # 98
 Are you still with us, OP? Your thread convinced me to read the K&R 2e book.
 
-[code]#include <stdio.h>
+```cpp
+#include <stdio.h>
 
 /**
  * Print Fahrenheit-to-Celsius table using the formula:
@@ -1329,7 +1376,7 @@ main() {
     printf("%d\t%d\n", fahr, cent);
     fahr += step;
   }
-}[/code]
+}```
 
 I hope you'll continue your class once I'm done with the book.
 
@@ -1359,14 +1406,15 @@ It's a great place to start, but don't camp there?
 Arduino themselvs have a nice explanation on port manipulation vs digialWrite: https://www.arduino.cc/en/Reference/PortManipulation
 
 As for setup()/loop(): They are kind of redundant, you can achieve largely the same functionality with
-[code]
+```cpp
+
 int main() {
     // "setup" here
     while (1) {
         // "loop" here
     }
 }
-[/code]
+```
 
 If you haven't already, spend some time familiarizing yourself with the bitwise operators in c++. They are used a lot in microcontroller programming.
 

@@ -72,7 +72,7 @@ Well done, progress much appreciated.
 
 # 14
 >>6495
-Nylon is not much more expensive than PLA, but when I said nylon-based I meant the ones that mix in other materials like carbon fiber for strength. Just checked price on one website and the material is about twice the price of PLA. I'm not sure how it would hold up against metal for smaller parts that need high durability but it's worth a try. I have heavily considered getting a CNC machine so if I actually owned one, I personally can't see not using it. Obviously it wouldn't be used for everything, but I can see a lot of value in metal joints. [spoiler]Not trying to break my waifu's legs during sex after all.[/spoiler]
+Nylon is not much more expensive than PLA, but when I said nylon-based I meant the ones that mix in other materials like carbon fiber for strength. Just checked price on one website and the material is about twice the price of PLA. I'm not sure how it would hold up against metal for smaller parts that need high durability but it's worth a try. I have heavily considered getting a CNC machine so if I actually owned one, I personally can't see not using it. Obviously it wouldn't be used for everything, but I can see a lot of value in metal joints. %%Not trying to break my waifu's legs during sex after all.%%
 
 # 15
 >>6496
@@ -95,7 +95,7 @@ Interesting. Thanks, anon! I may just leave vent holes over any servo areas that
 >>6500
 Considering CNC is also used heavily for making wood parts I was wondering if there would be any use for wood as a material in building.
 >>6501
-Copper would conduct heat better. This would also be interesting for discussion about using the heat generated from batteries, processors, any and all electronics in order to warm the robowaifu up. [spoiler]After all you'd especially want the pussy to be warm, so conserving at least some of this heat and reusing it would be smart[/spoiler]
+Copper would conduct heat better. This would also be interesting for discussion about using the heat generated from batteries, processors, any and all electronics in order to warm the robowaifu up. %%After all you'd especially want the pussy to be warm, so conserving at least some of this heat and reusing it would be smart%%
 
 # 19
 >>6508
@@ -177,7 +177,8 @@ and it should appear.
 
 Once your board and port are set, you should copy and paste the following code into Arduino IDE. This is the "Sweep" servo example sketch.
 
-[code]
+```cpp
+
 /* Sweep
  by BARRAGAN <http://barraganstudio.com>
  This example code is in the public domain.
@@ -209,7 +210,7 @@ void loop() {
     delay(15);                       // waits 15ms for the servo to reach the position
   }
 }
-[/code]
+```
 
 Then press the Upload button.
 

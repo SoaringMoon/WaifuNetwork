@@ -118,12 +118,13 @@ However, I find that in each utterance many words can be improved by adding an h
 I pass sentences through a simple word substitution filter per voice, and update it when I hear a word that sounds a bit odd. 
 E.g.:
 
-[code][arctic_slt_female]
+```cpp
+[arctic_slt_female]
 good : ghood.
 to : to.
 obey : obey..
 your : your.
-owner : ohner[/code]
+owner : ohner```
 
 I rather like the sound of these and kind of don't mind the lack of inflections, but then again I'm right leaning on the /clang/ scale.
 

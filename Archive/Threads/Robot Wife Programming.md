@@ -7,11 +7,12 @@ So what do you think anons? What is the best programming approach to making all 
 
 # 2
 >from PPP2 by Stroustrup, p75
-[code]We can describe the process of developing a program as having four stages: 
+```cpp
+We can describe the process of developing a program as having four stages: 
 • Analysis: What’s the problem? What does the user want? What does the user need? What can the user afford? What kind of reliability do we need? 
 • Design: How do we solve the problem? What should be the overall structure of the system? Which parts does it consist of? How do those parts communicate with each other? How does the system communicate with its users? 
 • Programming: Express the solution to the problem (the design) in code. Write the code in a way that meets all constraints (time, space, money, reliability, and so on). Make sure that the code is correct and maintainable. 
-• Testing: Make sure the system works correctly under all circumstances required by systematically trying it out.[/code]
+• Testing: Make sure the system works correctly under all circumstances required by systematically trying it out.```
 
 I like the simple breakdown here. Now, if I can just find a way to apply it to creating a robowaifu, then we should be all set. :^)
 
@@ -215,7 +216,8 @@ University of North Carolina at Chapel Hill
 >>2385
 Vaguely related is a checklist of sorts suggested for considering any new additions for the C++ standard. While this is from a different domain, and it's still much too early for this to be a real concern for the development of robowaifus, I nonetheless find it generally informative and worth making note of this list ITT.
 
-[code]// questions that bear consideration when implementing a new system feature
+```cpp
+// questions that bear consideration when implementing a new system feature
 // pp28-29, stroustrup's new hopl paper
 // 
 Here is a short and incomplete list of questions that were almost always
@@ -240,7 +242,7 @@ expected? Is there any user experience?
 • Is the proposal among the top-20 in terms of benefits to the C++ community at large? Top-10?
 • Is the proposal among the top-3 in terms of a specific sub-community? Which sub-community?
 • Is the proposal for a general mechanism to solve a class of problems or a specific solution to a specific problem? If to a class, which class of problems?
-• Is the proposal coherent with the rest of the language in terms of semantics, syntax, and naming?[/code]
+• Is the proposal coherent with the rest of the language in terms of semantics, syntax, and naming?```
 
 >sauce: stroustrup's new hopl paper
 >>3855
@@ -486,12 +488,14 @@ The system doesn't actually do much yet, just outputs some basic data for severa
 
 My plan for the moment is to use this thread as the primary distribution mechanism, then to eventually make a more formal release somewhere once it's working at a fundamental level (for some definition of 'working'). Regardless, it's all '''MIT (Expat)'''-licensed, so feel free to do as you see fit with any of it (as usual).
 
-[code]edcca7fb1e7e88ab02189c671cffcd00468200d6812c40c551a14a1c0be234d4 *kingdom_of_kod-0.0.4.tar.xz[/code]
+```cpp
+edcca7fb1e7e88ab02189c671cffcd00468200d6812c40c551a14a1c0be234d4 *kingdom_of_kod-0.0.4.tar.xz```
 
 # 58
 >>12607
 >main.cpp
-[code]// Kingdom of Kod
+```cpp
+// Kingdom of Kod
 // ==============
 // -Adventures of the heroes in the 'Manga Guide to Databases'
 
@@ -663,7 +667,7 @@ int main(int argc, char** argv) {
 }
 
 // Copyright (2021)
-// License MIT (Expat) https://opensource.org/licenses/MIT[/code]
+// License MIT (Expat) https://opensource.org/licenses/MIT```
 
 # 59
 I'm pleased to say I've finally integrated robust (and fast) unit testing into the project. 
@@ -673,7 +677,8 @@ I decided to go with ''doctest'' rather than ''Catch2'' b/c convenience and spee
 https://github.com/onqtam/doctest
 
 >version.log
-[code]210827 - v0.0.5
+```cpp
+210827 - v0.0.5
 ---------------
 -integrate doctest testing.cpp for basic type member tests
 -add hdrs_all.hpp & #include'd in rw_gen_utils.hpp
@@ -688,16 +693,18 @@ https://github.com/onqtam/doctest
 -add non-working code example to main() javadoc
 -add TODO DESIGN to Posn file header
 -edit javadocs for Posn
--various minor comment & javadoc edits focused on unified formatting[/code]
+-various minor comment & javadoc edits focused on unified formatting```
 
 >kingdom_of_kod-0.0.5.tar.xz.sha256sum
-[code]5ebe8533d6d39afad5bd5a3010d1336a30fac5514b1452c4d49c06b274cb9ad2 *kingdom_of_kod-0.0.5.tar.xz[/code]
+```cpp
+5ebe8533d6d39afad5bd5a3010d1336a30fac5514b1452c4d49c06b274cb9ad2 *kingdom_of_kod-0.0.5.tar.xz```
 
 # 60
 >>12649
 So, I just added external project dependencies links to meson.build, and realized it might help some anons to keep from thinking they needed to download+install them (they're already included in the above ''.pdf'' file), if I went ahead and posted the file's contents here immediately.
 >meson.build
-[code]# Kingdom of Kod
+```cpp
+# Kingdom of Kod
 # ==============
 # -Adventures of the heroes in the 'Manga Guide to Databases'
 
@@ -775,7 +782,7 @@ test('basic type member tests', t)
 #    ./kingdom_of_kod
 
 # Copyright (2021)
-# License MIT (Expat) https://opensource.org/licenses/MIT[/code]
+# License MIT (Expat) https://opensource.org/licenses/MIT```
 
 # 61
 OK, so I've gotten the intial 'testing' hackery moved out of main() and into proper unit-testing. I've tightened things up a bit with testing, and gotten directories and meson.build ready for many, many more tests. ATM with just the single current TEST_CASE(), I have over 200 passing assertions going already. 
@@ -785,7 +792,8 @@ With a project of this type, that number could easily grow to **literally** ==OV
 Anyway, I feel like most of the basics are getting squared away during these first few days, so hopefully things can move a little quicker hereafter. Cheers!
 
 >version.log
-[code]210828 - v0.0.6
+```cpp
+210828 - v0.0.6
 ---------------
 -add operator==() to Posn
 -ren 'testing.cpp' to 'test_basic_sanity.cpp' & adapt in meson.build
@@ -799,9 +807,10 @@ Anyway, I feel like most of the basics are getting squared away during these fir
 -'add doctest.h to include/testing/' (correction of prior erroneous log entry)
 -add g++ testing build statements comments to meson.build
 -add the working .clang-format file directly into project's directory
--various minor comment & javadoc edits[/code]
+-various minor comment & javadoc edits```
 >kingdom_of_kod-0.0.6.tar.xz.sha256sum
-[code]067f334adaec7f7ebc1b2f6fd32ec2592c58b2a521a50cc389ae034d8040dc26 *kingdom_of_kod-0.0.6.tar.xz[/code]
+```cpp
+067f334adaec7f7ebc1b2f6fd32ec2592c58b2a521a50cc389ae034d8040dc26 *kingdom_of_kod-0.0.6.tar.xz```
 
 # 62
 Since most of the system is ready in a basic way for TDD now, I was starting to think through some testing for the Camera class, and realized that a lot of the basic choices there depend very fundamentally on both the geometry system and the graphics rendering pipeline. These sort of define the entire approach to graphics visualization you choose, and it's pretty difficult to 'just rewrite it, bro!' if you invest a bunch of work, then decide to change ponies in the middle of the race. So, I'm on hold again while I stop and ponder whether to rework our older code, choose something like one of the big-ass major game engines **(I think not tbh)**, or a graphics framework like SFML or OGRE. For now, I'm leaning towards OGRE-Next
@@ -809,7 +818,8 @@ https://github.com/OGRECave/ogre-next
 Since it will probably be a few weeks before I make any new headway, I'll go ahead and push what bit I have atm here for safekeeping. Nothing much new added in this forced-release really, mostly just some blank testing stubs for unit-testing.
 
 >version.log
-[code]210830 - v0.0.7
+```cpp
+210830 - v0.0.7
 ---------------
 -reorder tests as separate statements block in meson.build
 -add blank testing stubs for test_gui, test_camera, test_animation
@@ -820,9 +830,10 @@ Since it will probably be a few weeks before I make any new headway, I'll go ahe
 -use 'this' member field access to fix param naming in Posn::assign()
 -move to member function for operator==() in Posn instead
 -minor edits to meson.build
--various minor comment & javadoc edits[/code]
+-various minor comment & javadoc edits```
 >kingdom_of_kod-0.0.7.tar.xz.sha256sum
-[code]2c0785b1c495b0e45c73390899c3d297efaa3d07bd84162906feaab5263904cc *kingdom_of_kod-0.0.7.tar.xz[/code]
+```cpp
+2c0785b1c495b0e45c73390899c3d297efaa3d07bd84162906feaab5263904cc *kingdom_of_kod-0.0.7.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in the meson.build file.''
 
 # 63
@@ -851,14 +862,16 @@ OTOH, now that I've also got unit-testing working for all my systems, I didn't w
 So anyway here's a blank basic starter project in C++ that already has the ''doctest'' unit-testing framework, and everything all wired up in the ''meson.build'' file. Cheers.
 
 >ch14_all-0.0.1b.tar.xz.sha256sum
-[code]797e834fff5e8a6e7543e0fd19602f2ccfda68fb80c62152b3c779589ab470ac *ch14_all-0.0.1b.tar.xz[/code]
+```cpp
+797e834fff5e8a6e7543e0fd19602f2ccfda68fb80c62152b3c779589ab470ac *ch14_all-0.0.1b.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in the meson.build file.''
 
 # 68
 >>12826
 Just in case newcomers to programming find my silly """tests""" confusing, I added the first specific test case from the official tutorial page into it as well. Just replace the contents of ''test_basic_sanity.cpp'' with this code then rerun. Hopefully it will make more sense to you then Anon. The original wonky stuff I put in was just placeholders (but actual working ones).
 >test_basic_sanity.cpp
-[code]// -Filename: src/code_testing/test_basic_sanity.cpp
+```cpp
+// -Filename: src/code_testing/test_basic_sanity.cpp
 // -The definitions of a few basic tests
 
 #include "code_testing/doctest.h"
@@ -902,12 +915,13 @@ TEST_CASE("testing the factorial function") {
 }
 
 // doctest tutorial
-// https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md[/code]
+// https://github.com/onqtam/doctest/blob/master/doc/markdown/tutorial.md```
 
 # 69
 Lol, I forgot the "Don't use unsigned. **ever**" rule, figuring to keep from having ''negative-radius'' '''Circles''', and got bit in the ass by it. Code testing helped me find and (simplistically haxxord) "fix" it.
 >Circle.cpp snippet
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 auto Circle::radius(int const radius) noexcept -> decltype(bool{}) {
   // prevent "silly" mistakes (PPP2 p 493)
   if (radius < 0)  // DESIGN: write error log entry too
@@ -920,9 +934,10 @@ auto Circle::radius(int const radius) noexcept -> decltype(bool{}) {
   // cerr << "    |> exiting Circle::radius(const unsigned int radius)" << endl;
 
   return (radius_ == radius);
-}[/code]
+}```
 >test_basic_sanity.cpp snippet
-[code]//------------------------------------------------------------------------------
+```cpp
+//------------------------------------------------------------------------------
 TEST_CASE("Basic Circle class tests") {
   Circle circlea{Point{1, 2}, 3};
   Circle circleb{Point{4, 5}, 6};
@@ -952,24 +967,26 @@ TEST_CASE("Basic Circle class tests") {
     circleb.radius(-9'001);
     REQUIRE(circleb.radius() == init_val);  // change rejected
   }
-}[/code]
+}```
 Probably a better way to deal with this issue, but I'm OK ATM with this approach as tests will probably smoke out any issues that pop up over it.
 
 # 70
 >>12856
 Durr. After a short break, I realized that by reverting the passed parameter type to ''int'' rather than ''unsigned'' I broke the working invariant for the Circle class that would prevent downcasting to an ''int'' argument ''for an initializer list'' (which is the form of member field initialization I always use). Thankfully, C++ allows ternery operators in field's initializers, which made the fix easy:
 >Circle.cpp snippet
-[code]Circle::Circle(Point const& axis, int const radius)
-    : axis_{axis}, radius_{radius >= 0 ? radius : 0} {}[/code]
+```cpp
+Circle::Circle(Point const& axis, int const radius)
+    : axis_{axis}, radius_{radius >= 0 ? radius : 0} {}```
 Testing was pretty similar to the form used for catching the issue with the assignment function.
 >test_basic_sanity.cpp snippet
-[code]  SUBCASE(
+```cpp
+  SUBCASE(
       "Trying to construct a Circle with a negative radius defaults to a zero "
       "radius instead") {
     Circle foobar{Point{1, 2}, -42};  // bad radius value attempted
 
     REQUIRE(foobar.radius() == 0);
-  }[/code]
+  }```
 Thanks for reading my dev blog **be sure to like and upboat**! :^)
 
 # 71
@@ -1001,7 +1018,8 @@ Anyway, I'm calling it the '''RW Windowing System''' **creative I know right?**,
 
 Cheers.
 >version.log snippet
-[code]// RW Windowing System
+```cpp
+// RW Windowing System
 // ===================
 // -The software testbed for adapting RW systems to use the FLTK GUI backend
 
@@ -1010,16 +1028,18 @@ Cheers.
 
 210908 - v0.0.1
 ---------------
--original design work begins[/code]
+-original design work begins```
 >rw_window-0.0.1.tar.xz.sha256sum
-[code]b69a0309113b4774e2191b53a8d14f666a03e5e3d38de4c43e76a99dcda3e922 *rw_window-0.0.1.tar.xz[/code]
+```cpp
+b69a0309113b4774e2191b53a8d14f666a03e5e3d38de4c43e76a99dcda3e922 *rw_window-0.0.1.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in the meson.build file.''
 
 # 76
 >>12933
 The ''meson.build'' file has been extensively updated to reflect the new testing approach, and also includes updated instructions for FLTK as well. I include it here:
 >meson.build
-[code]# RW Windowing System
+```cpp
+# RW Windowing System
 # ===================
 # -The software testbed for adapting RW systems to use the FLTK GUI backend
 
@@ -1165,7 +1185,7 @@ test('run all test checks', all_tests)
 
 
 # Copyright (2021)
-# License MIT (Expat) https://opensource.org/licenses/MIT[/code]
+# License MIT (Expat) https://opensource.org/licenses/MIT```
 
 # 77
 So, it sort of dawned on me that since no one's commented on my work, that no anon is actually following along atm. **:^)**
@@ -1180,15 +1200,17 @@ Since getting FLTK running can be a bit of a bear for the novice, I decided that
 
 Here's where it all starts, in main() .
 >base_window.cpp
-[code]#include "Window.hpp"
+```cpp
+#include "Window.hpp"
 
 int main() {
   Window win{742, 442, "RW Always Wins"};
   return win.display();
-}[/code]
+}```
 What's an object without it's description?
 >Window.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 #include <FL/Fl.H>
 #include <FL/Fl_Double_Window.H>
@@ -1197,10 +1219,11 @@ class Window : public Fl_Double_Window {
  public:
   Window(int const w, int const h, char const* label);
   int display();
-};[/code]
+};```
 You've gotta tell the class ''how to actually do stuff'' too.
 >Window.cpp
-[code]#include "Window.hpp"
+```cpp
+#include "Window.hpp"
 
 Window::Window(int const w, int const h, char const* label)
     : Fl_Double_Window{w, h, label} {}
@@ -1208,10 +1231,11 @@ Window::Window(int const w, int const h, char const* label)
 int Window::display() {
   this->show();
   return Fl::run();
-}[/code]
+}```
 And finally, last of all the build.
 >meson.build
-[code]project('base_window', 'cpp',
+```cpp
+project('base_window', 'cpp',
 	version : '0.0.1', license : 'MIT',
 	default_options : ['cpp_std=c++17',
                        'buildtype=release',
@@ -1224,7 +1248,7 @@ lib_fltk_dep = cpp_.find_library('fltk')
 
 executable('base_window', ['base_window.cpp', 'src/Window.cpp'],
            include_directories : interns_dir,
-           dependencies : lib_fltk_dep)[/code]
+           dependencies : lib_fltk_dep)```
 Admittedly, this last file is a bit of overkill if you're just going to build something as simple as this. But tbh, it's not all '''that''' complicated. If you can read Python, then you can certainly read this, b/c after all **it's Python lol**.
 
 All I can say is that if you've ever had to deal with the nightmare of say, the ''Win32'' API and drawing a basic window, then the straightforward simplicity of this code is pure pleasure. And it's also tough to convey to the newcomer to all this just how beneficial having a super-light framework such as FLTK is on low-end hardware, etc. This code could literally run blazing fast on an Arduino Nano attached to an LCD display, and do it in a very tiny compiled-footprint too.
@@ -1232,7 +1256,8 @@ All I can say is that if you've ever had to deal with the nightmare of say, the 
 Hope this helps someone here /robowaifu/, Cheers.
 
 >base_window-0.0.1.tar.xz.sha256sum
-[code]91d57314748aa808b1336c7ad6bdccd5edc595c3a8dbfe4ba3c7e99dac6a13f1 *base_window-0.0.1.tar.xz[/code]
+```cpp
+91d57314748aa808b1336c7ad6bdccd5edc595c3a8dbfe4ba3c7e99dac6a13f1 *base_window-0.0.1.tar.xz```
 ''as always, just rename the .pdf extension to .7z then extract files. build instructions are in the meson.build file.''
 
 Also, just in case someone simply refuses to trust the whole 'rename the file to 7z' scheme I'm currently using just so that we can actually keep the codes here on the board itself, here's a previously-typical catbox link too:
@@ -1246,7 +1271,8 @@ https://files.catbox.moe/fkdje9.pdf
 >>12933
 OK, I've gotten the initial refactorings worked out where the first example from ch12 is running. That was the hard part, so hopefully it will be pretty smooth sailing here out. I'm going to actually go over to the ''Modern C++'' teaching thread with this project since it's really more about the language itself for this effort. But I want to stash what I have here for safekeeping for now. Cheers.
 
-[code]19f86e54b50b6e0bf905e8fd86a2252ad826f7587564511126ded3c6f2e04e57 *teaching_thrd-0.0.1.tar.xz[/code]
+```cpp
+19f86e54b50b6e0bf905e8fd86a2252ad826f7587564511126ded3c6f2e04e57 *teaching_thrd-0.0.1.tar.xz```
 
 # 79
 >>12933
@@ -1323,7 +1349,8 @@ I'll plan to release the more generalized version of ''Sumomo'' that includes so
 Cheers.
 
 >rw_sumomo-v211121.tar.xz.sha256sum
-[code]b814041ea0b347ced9ff3ef284d72f5625ad075897e9a68adc2aebd732f10e27 *rw_sumomo-v211121.tar.xz[/code]
+```cpp
+b814041ea0b347ced9ff3ef284d72f5625ad075897e9a68adc2aebd732f10e27 *rw_sumomo-v211121.tar.xz```
 >backup drop
 https://files.catbox.moe/xh6b3j.7z
 
@@ -1339,7 +1366,8 @@ https://files.catbox.moe/xh6b3j.7z
 I discussed the Tip tagging concepts, but I didn't actually demo any usage of it from a caller/receiver. I added a 4th test that demos basic self-tests (potentially for access control, etc.)
 
 >rw_sumomo-v211121.tar.xz.sha256sum
-[code]ce1246817cb3556fac7a32cb954ff89bf49c34ce67459e550d07c3aa04820b67 *rw_sumomo-v211121.tar.xz[/code]
+```cpp
+ce1246817cb3556fac7a32cb954ff89bf49c34ce67459e550d07c3aa04820b67 *rw_sumomo-v211121.tar.xz```
 >backup drop
 https://files.catbox.moe/31zxct.7z
 
@@ -1386,7 +1414,8 @@ That's encouraging to hear Anon. Thank you.
 >
 
 >rw_sumomo-v211122.tar.xz.sha256sum
-[code]403e3905900c01f7d6b8b32263aad6b5c427e408f42ca0a3fa43966df6504e90 *rw_sumomo-v211122.tar.xz[/code]
+```cpp
+403e3905900c01f7d6b8b32263aad6b5c427e408f42ca0a3fa43966df6504e90 *rw_sumomo-v211122.tar.xz```
 >backup drop:
 https://files.catbox.moe/zj3hwa.7z
 
@@ -1403,7 +1432,8 @@ Anyway, here it is. There's a new 5th test for it as well.
 >
 
 >rw_sumomo-v211122.tar.xz.sha256sum
-[code]61ac78563344019f60122629f3f3ef80f5b98f66c278bdf38ac4a4049ead529a *rw_sumomo-v211122.tar.xz[/code]
+```cpp
+61ac78563344019f60122629f3f3ef80f5b98f66c278bdf38ac4a4049ead529a *rw_sumomo-v211122.tar.xz```
 >backup drop:
 https://files.catbox.moe/iam4am.7z
 

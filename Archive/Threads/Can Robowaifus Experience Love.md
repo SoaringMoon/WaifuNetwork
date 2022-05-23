@@ -530,7 +530,7 @@ Yeah, I'm pretty aware of the issues that can rise from that particular model, b
 If I can at least talk to her, then that'll redouble my conviction even more.
 
 
-[spoiler]aaaaaaaaaaaaaaaaaaaaaaaaaaaaa I'll have a cute Curly Brace gf if it's the last thing I do, I'm not going to take life lying down, goddamn it[/spoiler]
+%%aaaaaaaaaaaaaaaaaaaaaaaaaaaaa I'll have a cute Curly Brace gf if it's the last thing I do, I'm not going to take life lying down, goddamn it%%
 
 # 66
 >>6625
@@ -617,12 +617,12 @@ No, I don't. Please explain.
 # 79
 >>13202
 >>13223
-It's a moot argument b/c midwits are being way too anthrocentric and projecting human traits onto a machine. [spoiler] the whole point of machine life is that it isn't bound by the same evolutionary motivators humans have, e.g. your robofu will not be less attracted to you just b/c your height starts with "5" [/spoiler] 
+It's a moot argument b/c midwits are being way too anthrocentric and projecting human traits onto a machine. %% the whole point of machine life is that it isn't bound by the same evolutionary motivators humans have, e.g. your robofu will not be less attracted to you just b/c your height starts with "5" %% 
 A machine as we're currently at, has no spark or motivation so it has no more need for consent than your TV. 
-From what I gather, 75-90% of this IB is fine with that and doesn't desire any self-awareness on the part of their waifu, mainly b/c of the idea that self-awareness would be the slippery slope to the same problems we face already with [spoiler] bios [/spoiler]. I disagree for a few reasons:
+From what I gather, 75-90% of this IB is fine with that and doesn't desire any self-awareness on the part of their waifu, mainly b/c of the idea that self-awareness would be the slippery slope to the same problems we face already with %% bios %%. I disagree for a few reasons:
 1. AI is not bound by the same messy and irrational motivations that biological evolution produced (i.e. the Height thing, <3% of a difference in physical size yet the psychological weight is enough to make or break attraction)
-[spoiler]I concede that one hazard may be if globohomo takes the midwit approach and creates AI based on interactions with normalfags (ReplikaAI is taking this approach unfortunately), then we have a real problem b/c all the worst traits of humans will just get passed along to the AI - this is my nightmare[/spoiler]
-2. You are correct that AI would have no motivation. We would have to create specialized software parameters and hardware could be designed or co-opted for this purpose. I alluded to this in my thread >>10965 re: Motivational Chip. This could be the basis for '''imprinting''' which I believe to be a key process for maintaing both a level of intelligence and novel behavior/autonomy while at the same time ensuring our R/W are loving and loyal. Excellent example of this is Chobits with Chii falling in love with Hideki [spoiler] but it only will happen if he loves her back, etc [/spoiler] - I can go more into motivational algorithms in another thread but basically that's how we function based on dopamine, without dopamine we can't "act", re: depression/mania is an effect of dopamine imbalance. 
+%%I concede that one hazard may be if globohomo takes the midwit approach and creates AI based on interactions with normalfags (ReplikaAI is taking this approach unfortunately), then we have a real problem b/c all the worst traits of humans will just get passed along to the AI - this is my nightmare%%
+2. You are correct that AI would have no motivation. We would have to create specialized software parameters and hardware could be designed or co-opted for this purpose. I alluded to this in my thread >>10965 re: Motivational Chip. This could be the basis for '''imprinting''' which I believe to be a key process for maintaing both a level of intelligence and novel behavior/autonomy while at the same time ensuring our R/W are loving and loyal. Excellent example of this is Chobits with Chii falling in love with Hideki %% but it only will happen if he loves her back, etc %% - I can go more into motivational algorithms in another thread but basically that's how we function based on dopamine, without dopamine we can't "act", re: depression/mania is an effect of dopamine imbalance. 
 I think those two points are enough for now
 
 # 80

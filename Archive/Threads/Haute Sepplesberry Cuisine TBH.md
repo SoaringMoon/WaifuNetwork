@@ -58,11 +58,13 @@ https://wiki.manjaro.org/index.php?title=Virt-manager
 
 Namely, enter:
 
-[code]sudo pacman -S virt-manager qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat[/code]
+```cpp
+sudo pacman -S virt-manager qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat```
 then run libvirt:
 
-[code]sudo systemctl enable libvirtd.service
-sudo systemctl start libvirtd.service[/code]
+```cpp
+sudo systemctl enable libvirtd.service
+sudo systemctl start libvirtd.service```
 That will get you up and running with QEMU and the Virtual Machine Manager front-end.
 
 # 8
@@ -99,9 +101,10 @@ Congrats Anon! You have Raspberry Pi up and running on your machine w/o having t
 # 12
 An additional alternative (that we'll specifically be using later on when we no longer need/want a GUI on the target hardware) is to use the raspi-lite setup to run under QEMU:
 
-[code]Raspbian Lite zip-archive: https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2020-02-14/2020-02-13-raspbian-buster-lite.zip
+```cpp
+Raspbian Lite zip-archive: https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2020-02-14/2020-02-13-raspbian-buster-lite.zip
 Kernel image: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/kernel-qemu-5.4.51-buster
-Device tree blob: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/versatile-pb-buster-5.4.51.dtb[/code]
+Device tree blob: https://github.com/dhruvvyas90/qemu-rpi-kernel/blob/master/versatile-pb-buster-5.4.51.dtb```
 
 # 13
 '''Time for the real hardware, Anon.'''
@@ -136,7 +139,8 @@ As mentioned, we'll use '''dd''' to write the downloaded image out to the MicroS
 https://tldp.org/LDP/abs/html/extmisc.html
 
  I'm going to combine unzip and write in one Bash statement, so in my specific case, the command is:
-[code]unzip -p 2020-08-20-raspios-buster-armhf-full.zip | sudo dd of=/dev/mmcblk0 bs=4M conv=fsync[/code]
+```cpp
+unzip -p 2020-08-20-raspios-buster-armhf-full.zip | sudo dd of=/dev/mmcblk0 bs=4M conv=fsync```
 > #1
 In a few minutes the image should be written out to the device.
 > #2
@@ -250,7 +254,8 @@ So, on my RPi, I'm going to purge unused locales and LibreOffice.
 
 In a terminal, run
 
-[code]sudo apt-get install localepurge[/code]
+```cpp
+sudo apt-get install localepurge```
 then select 'OK'
 > #1
 
@@ -258,14 +263,16 @@ Since ''en_GB.UTF-8'' is already selected (by default), just go ahead and select
 
 Then we can remove the locale files themselves:
 
-[code]sudo rm -rf /usr/share/locale[/code]
+```cpp
+sudo rm -rf /usr/share/locale```
 > #2
 
 That will free a few hundred meg. Let's purge LibreOffice to free more:
 
-[code]sudo apt-get remove --purge libreoffice*
+```cpp
+sudo apt-get remove --purge libreoffice*
 sudo apt-get clean
-sudo apt-get autoremove[/code]
+sudo apt-get autoremove```
 
 So, altogether that gives us a little more than a gig free.
 > #3
@@ -274,7 +281,8 @@ So, altogether that gives us a little more than a gig free.
 >Read the full post before proceeding Anon...
 
 That should be enough room, so let's go ahead and upgrade everything now: (this will take a good while, probably around 60 minutes. start htop in another terminal tab if you'd like to watch over the system during this period)
-[code]sudo apt-get update && sudo apt-get upgrade[/code]
+```cpp
+sudo apt-get update && sudo apt-get upgrade```
 
 -Update: Turns out, 1.1GB ''wasn't'' enough to upgrade Wolfram along with everything else (no space left on device error). :/
 > #4
@@ -284,23 +292,27 @@ I planned on removing it and other software on my RPi anyway (since it's not abo
 # 22
 >>5264
 Alright, I'm going to go ahead and remove several of the programming systems to free up room, in particular Wolfram is quite large for our small system. Pick and choose your own choices for deletion, ofc. (In particular, if you've never programmed before, I'd recommend looking at Scratch as well as taking our C++ class).
-[code]sudo apt-get remove --purge wolfram*
+```cpp
+sudo apt-get remove --purge wolfram*
 sudo apt-get remove --purge bluej*
 sudo apt-get remove --purge thonny*
-sudo apt-get remove --purge greenfoot*[/code]
+sudo apt-get remove --purge greenfoot*```
 
 Then, do another autoremove to pick up stragglers:
-[code]sudo apt-get clean
-sudo apt-get autoremove[/code]
+```cpp
+sudo apt-get clean
+sudo apt-get autoremove```
 
 That gives us over 3 gigs free now. 
 > #1
 
 ==NOTE:== If you didn't run this from the previous post b/c you saw the update about the issue with wolfram, then you should run this now:
-[code]sudo apt-get update && sudo apt-get upgrade[/code]
+```cpp
+sudo apt-get update && sudo apt-get upgrade```
 
 Remember, that swap partition on the drive from before? Let's go ahead and activate it now. I'll use GParted installed right on the RPi itself this time.
-[code]sudo apt-get install gparted[/code]
+```cpp
+sudo apt-get install gparted```
 
 After installation, you can find it in ''[RPi Menu] > System Tools > GParted''
 
@@ -321,31 +333,37 @@ Alright first things first, we'll set up the prerequisites for my favorite open-
 https://gitlab.com/cppit/jucipp
 > #1
 
-[code]sudo apt-get install libclang-dev liblldb-dev || sudo apt-get install libclang-6.0-dev liblldb-6.0-dev || sudo apt-get install libclang-4.0-dev liblldb-4.0-dev || sudo apt-get install libclang-3.8-dev liblldb-3.8-dev
+```cpp
+sudo apt-get install libclang-dev liblldb-dev || sudo apt-get install libclang-6.0-dev liblldb-6.0-dev || sudo apt-get install libclang-4.0-dev liblldb-4.0-dev || sudo apt-get install libclang-3.8-dev liblldb-3.8-dev
 sudo apt-get install universal-ctags || sudo apt-get install exuberant-ctags
 sudo apt-get install git cmake make g++ clang-format pkg-config libboost-filesystem-dev libboost-serialization-dev libgtksourceviewmm-3.0-dev aspell-en libaspell-dev libgit2-dev
-[/code]
+```
 
 We can go ahead and install Mesonbuild as well.
-[code]sudo apt-get install meson[/code]
+```cpp
+sudo apt-get install meson```
 
 Now, let's pull the repo, then build and install juCi++ itself. (this will take a good long while (~30min) to finish during the ''make'' step, you might want an htop tab open again. also, ensure your big swapfile is on, you might just need it! :^) 
-[code]git clone --recursive https://gitlab.com/cppit/jucipp
+```cpp
+git clone --recursive https://gitlab.com/cppit/jucipp
 mkdir jucipp/build
 cd jucipp/build
 cmake -DCMAKE_CXX_COMPILER=g++ ..
 make -j2
-sudo make install[/code]
+sudo make install```
 
 The installed executable name is simply ''juci''
 > #2
 
 Use mousepad editor to edit the ~/.juci/config/config.json file with these edits:
-[code]"variant": "dark"[/code]
+```cpp
+"variant": "dark"```
 and
-[code]"style": "juci-dark-blue"[/code]
+```cpp
+"style": "juci-dark-blue"```
 and
-[code]"font": "Noto Sans Mono 16"[/code]
+```cpp
+"font": "Noto Sans Mono 16"```
 > #3
 
 Then restart and you should have a nice dark theme. Create a simple C++ project, then ''Project > Compile and Run''
@@ -371,13 +389,17 @@ filter for ''Noto Sans Mono'' and then download the zip file
 > #2
 
 -Then start a terminal and enter
-[code]cd /usr/share/fonts/truetype/noto[/code]
+```cpp
+cd /usr/share/fonts/truetype/noto```
 
-[code]sudo cp /home/pi/Downloads/NotoSansMono*.ttf .[/code]
+```cpp
+sudo cp /home/pi/Downloads/NotoSansMono*.ttf .```
 
-[code]sudo chmod 644 *.ttf[/code]
+```cpp
+sudo chmod 644 *.ttf```
 
-[code]ls -lah[/code]
+```cpp
+ls -lah```
 > #3
 
 -Now restart juci and confirm the source editor pane is in fact now using the Noto Sans Mono font
@@ -395,9 +417,11 @@ Looking at the screen capture from this post, I wasn't too pleased with the font
 I'm also going to turn on the 80-char indicator, and add a shortcut keys for ''Zen mode'' to juci.
 
 Use mousepad editor to edit the ~/.juci/config/config.json file with these edits:
-[code]"show_right_margin": true[/code]
+```cpp
+"show_right_margin": true```
 
-[code]"window_toggle_zen_mode": "<primary><alt>z"[/code]
+```cpp
+"window_toggle_zen_mode": "<primary><alt>z"```
 
 Here's the zen mode activated:
 > #2
@@ -409,7 +433,8 @@ Even more simple focus with juci ''F-11'''d
 >>5292
 >>5291
 I also noticed that I could further improve the font rendering in the editor if I changed the font in the gtk_theme section as well:
-[code]"font": "Arial 16"[/code]
+```cpp
+"font": "Arial 16"```
 > #1
 
 To my eye, it seems to crispen up the entire window's fonts for some reason.
@@ -419,7 +444,8 @@ To my eye, it seems to crispen up the entire window's fonts for some reason.
 OK, let's finish setting up the tooling for our SepplesberryPi machines, and then we can move on with the beginnings of our C++ class instead of all this **boring** sysadmin-type stuff! :^)
 
 Let's go ahead and install a package manager called synaptic onto our RPis first:
-[code]sudo apt-get install synaptic[/code]
+```cpp
+sudo apt-get install synaptic```
 
 Once it's installed, you can find it under ''[RPi Menu] > Preferences > Synaptic Package Manager''
 > #1
@@ -437,11 +463,13 @@ Once everything's completed you should see this:
 > #4
 
 clang-format version 9 is installed now. But we still need to set up a symlink for the new version so we can use just the shortcut name ''clang-format'' w/o having to pay attention to the version number. First out of curiosity, we can see what's listed for the tool now:
-[code]ls -lah /usr/bin | grep 'clang-format'[/code]
+```cpp
+ls -lah /usr/bin | grep 'clang-format'```
 and see it's a symlink: ''clang-format-9 -> ../lib/llvm-9/bin/clang-format''
 
 Now let's create a new one for the shortcut term:
-[code]sudo ln -sf /usr/bin/clang-format-9 /usr/bin/clang-format[/code]
+```cpp
+sudo ln -sf /usr/bin/clang-format-9 /usr/bin/clang-format```
 
 Now we can check the version with the short name and see everything's updated for the new version now:
 > #5
@@ -457,24 +485,29 @@ OK, now let's basically repeat the entire process to setup another powerful llvm
 > #2
 
 -Apply the changes. Let's see what version is installed on the system now, from the terminal:
-[code]ls -lah /usr/bin | grep 'clang-tidy'[/code]
+```cpp
+ls -lah /usr/bin | grep 'clang-tidy'```
 > #3
 
 -Let's create the shortcut name symlink and check the version number as well.
-[code]sudo ln -sf /usr/bin/clang-tidy-9 /usr/bin/clang-tidy[/code]
+```cpp
+sudo ln -sf /usr/bin/clang-tidy-9 /usr/bin/clang-tidy```
 
-[code]clang-tidy --version[/code]
+```cpp
+clang-tidy --version```
 > #4
 
 # 30
 >>5310
 Alright, let's finish up installs for now by adding a few useful utilities, and the amazing text editor ''Vim'' into the mix.
 
-[code]sudo apt-get install iftop nethogs tmux vim[/code]
+```cpp
+sudo apt-get install iftop nethogs tmux vim```
 > #1
 
 If you're new to Vim, be sure to try the vimtutor 30minute tutorial first, Anon!
-[code]vimtutor[/code]
+```cpp
+vimtutor```
 > #2
 
 # 31
@@ -484,19 +517,23 @@ Clang-tidy is a powerful linting tool that helps uncover buggy code. Don't leave
 https://releases.llvm.org/9.0.0/tools/clang/tools/extra/docs/clang-tidy/index.html
 
 Let's use it to create an initial config file, which we can then tweak. We'll create both files in our ''pi'' home directory.
-[code]cd[/code]
+```cpp
+cd```
 then
-[code]clang-tidy --format-style=chromium --dump-config > .clang-tidy[/code]
+```cpp
+clang-tidy --format-style=chromium --dump-config > .clang-tidy```
 
 Let's have a look inside the file that was created.
-[code]mousepad .clang-tidy[/code]
+```cpp
+mousepad .clang-tidy```
 > #1
 
 You don't have to understand ''any'' of this atp, and the only thing we're interested in for now is the very first key value in the file: ''Checks''
 '''Checks:          'clang-diagnostic-*,clang-analyzer-*'''''
 
 We're going to add several entries in addition to the two there now. The easiest way for you to do this will simply be to hilight the whole line #2, then copy+paste all this text over top of it:
-[code]Checks:          'clang-diagnostic-*,
+```cpp
+Checks:          'clang-diagnostic-*,
 clang-analyzer-*,
 modernize-*,
 -modernize-use-trailing-return-type,
@@ -508,7 +545,7 @@ readability-*,
 cert-*,
 misc-*,
 performance-*,
-hicpp-*'[/code]
+hicpp-*'```
 
 So, if you've done it right, then your .clang-tidy file will now look like this.
 > #2
@@ -520,7 +557,8 @@ The other important tool we need a config file for is clang-format. It's a remar
 https://releases.llvm.org/9.0.0/tools/clang/docs/ClangFormat.html
 
 Creating a config file for it is similar to clang-tidy. Enter this in the terminal:
-[code]clang-format -style=chromium -dump-config > .clang-format[/code]
+```cpp
+clang-format -style=chromium -dump-config > .clang-format```
 > #3
 
 and we'll just leave that one as is for now (but feel free to look inside it ofc).
@@ -550,9 +588,10 @@ if i understand you correctly, then yes. there are numerous examples of RPi Beow
 
 # 35
 Not too surprisingly, I forgot at least one step, namely we need short name symlinks for the clang compilers and debugger. from the terminal:
-[code]sudo ln -sf /usr/bin/clang-9 /usr/bin/clang
+```cpp
+sudo ln -sf /usr/bin/clang-9 /usr/bin/clang
 sudo ln -sf /usr/bin/clang++-9 /usr/bin/clang++
-sudo ln -sf /usr/bin/lldb-9 /usr/bin/lldb[/code]
+sudo ln -sf /usr/bin/lldb-9 /usr/bin/lldb```
 
 Now we can check the versions:
 > #1
@@ -560,19 +599,22 @@ Now we can check the versions:
 # 36
 >>5270
 One thing I didn't go over for when it's needed, is how to update a local git repo and rebuild/reinstall it (whenever the source repo is updated with new software for example). Switch into the same local repo and git pull:
-[code]cd jucipp
-git pull[/code]
+```cpp
+cd jucipp
+git pull```
 
 Since this is a repo with submodules, you should update those as well for good measure:
-[code]git submodule update --init --recursive
+```cpp
+git submodule update --init --recursive
 git submodule foreach --recursive git fetch
-git submodule foreach git merge origin master[/code]
+git submodule foreach git merge origin master```
 
 Then do the typical cmake/make dance again:
-[code]cd build
+```cpp
+cd build
 cmake -DCMAKE_CXX_COMPILER=g++ -DCMAKE_BUILD_TYPE=Release ..
 make -j2
-sudo make install[/code]
+sudo make install```
 
 And actually, since we switched the llvm-toolchain dev libraries over to version 9 earlier, you should go ahead and rebuild your juci IDE anyway since it depends on those libs.
 
@@ -582,7 +624,8 @@ And actually, since we switched the llvm-toolchain dev libraries over to version
 # 37
 BTW, I'd suggest you regularly update your system yourself. My impression is that the Raspberry Pi Foundation's approach to this is a bit lax.
 
-[code]sudo apt-get update && sudo apt-get upgrade[/code]
+```cpp
+sudo apt-get update && sudo apt-get upgrade```
 
 # 38
 >>5313
@@ -660,10 +703,11 @@ Replace the basic ''main.cpp'' code with the example code from mlpack.org, and b
 If all went well, you should see pic related.
 > #2
 
-[code]Nearest neighbor of point 0 is point 3 and the distance is 0.449757.
+```cpp
+Nearest neighbor of point 0 is point 3 and the distance is 0.449757.
 Nearest neighbor of point 1 is point 2 and the distance is 0.918409.
 Nearest neighbor of point 2 is point 1 and the distance is 0.918409.
-Nearest neighbor of point 3 is point 0 and the distance is 0.449757.[/code]
+Nearest neighbor of point 3 is point 0 and the distance is 0.449757.```
 We can see these outputs precisely match the test values on their website. Congrats Anon, you now have the power of AI in your hands on your SepplesberryPi! :^)
 
 >===
@@ -673,7 +717,8 @@ We can see these outputs precisely match the test values on their website. Congr
 # 46
 >>5731
 >main.cpp
-[code]// This is an interactive demo, so feel free to change the code and click the
+```cpp
+// This is an interactive demo, so feel free to change the code and click the
 // 'Run' button.
 
 // This simple program uses the mlpack::neighbor::NeighborSearch object
@@ -716,10 +761,11 @@ int main() {
   }
 
   return 0;
-}[/code]
+}```
 
 >CMakeLists.txt
-[code]cmake_minimum_required(VERSION 2.8)
+```cpp
+cmake_minimum_required(VERSION 2.8)
 
 project(mlpack_test)
 
@@ -727,7 +773,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++17 -Wall -Wextra -fopenmp")
 
 add_executable(mlpack_test main.cpp)
 
-target_link_libraries(mlpack_test mlpack)[/code]
+target_link_libraries(mlpack_test mlpack)```
 
 # 47
 ==Alert==
@@ -736,12 +782,14 @@ There's a 0-day software exploit that's been discovered regarding the FreeType l
 
 
 Your RPi machines are vulnerable to this, so please follow the instructions Anon generously provided in that post (download the zip, unzip, cd into that directory, &tc). Just change the last confirmation command to this instead as your filename is different on your RPis:
-[code]ldd /usr/lib/chromium-browser/chromium-browser | grep freetype[/code]
+```cpp
+ldd /usr/lib/chromium-browser/chromium-browser | grep freetype```
 
 # 48
 >>6009
 BTW, as already mentioned ITT, but worth mentioning again here, you ought to regularly keep your RPis updated manually, as they aren't very good at keeping themselves up to date currently.
-[code]sudo apt-get update && sudo apt-get upgrade[/code]
+```cpp
+sudo apt-get update && sudo apt-get upgrade```
 
 # 49
 We're going to be using FLTK as our GUI/Widget toolkit for our classwork. Visit https://www.fltk.org/ and click the ''Download'' link.
@@ -753,9 +801,10 @@ Extract it then cd into it's directory on the terminal.
 > #3
 
 Enter these commands in order:
-[code]./configure
+```cpp
+./configure
 make -j3
-sudo make install[/code]
+sudo make install```
 > #4
 
 OK, you're all set. The library is installed, and so is a GUI designer tool called ''FLUID''. You can start reading the docs and examples now to get ahead of the class.
@@ -798,7 +847,8 @@ Then choose ''File > Write Code...'' in the FLUID interface, and save the files 
 
 Here are all the modification to my 4 files for this example:
 >main.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 
 #include "fluid_test.hpp"
 
@@ -809,10 +859,11 @@ int main() {
   foo->show();
 
   return Fl::run();
-}[/code]
+}```
 
 >fluid_test.hpp
-[code]// generated by Fast Light User Interface Designer (fluid) version 1.0305
+```cpp
+// generated by Fast Light User Interface Designer (fluid) version 1.0305
 
 #ifndef fluid_test_hpp
 #define fluid_test_hpp
@@ -820,10 +871,11 @@ int main() {
 #include <FL/Fl_Double_Window.H>
 #include <FL/Fl_Button.H>
 Fl_Double_Window* make_window();
-#endif[/code]
+#endif```
 
 >fluid_test.cpp
-[code]// generated by Fast Light User Interface Designer (fluid) version 1.0305
+```cpp
+// generated by Fast Light User Interface Designer (fluid) version 1.0305
 
 #include "fluid_test.hpp"
 
@@ -839,10 +891,11 @@ Fl_Double_Window* make_window() {
     o->end();
   } // Fl_Double_Window* o
   return w;
-}[/code]
+}```
 
 >meson.build
-[code]project('fltk_test', 'cpp')
+```cpp
+project('fltk_test', 'cpp')
 
 add_project_arguments('-std=c++2a', '-Wall', '-Wextra', language: 'cpp')
 
@@ -850,7 +903,7 @@ cxx = meson.get_compiler('cpp')
 fltk_dep = cxx.find_library('fltk')
 
 executable('fltk_test', ['main.cpp', 'fluid_test.cpp'],
-           dependencies : fltk_dep )[/code]
+           dependencies : fltk_dep )```
 > #4
 
 Build it (ctrl+enter)
@@ -881,9 +934,10 @@ __Update__: I began to have a suspicion that possibly it was the ''prerequisites
 I went back into the source extract and reran the build/install cycle, then re-tested my little sample app in Juci. Sure enough, everything works fine now. I'm not really sure why the ''./configure'' step didn't pick up any issues but w/e.
 
 So, you can use latest version of FLTK source after all. Just go back into the extract directory and enter the same 3 commands as before:
-[code]./configure
+```cpp
+./configure
 make -j3
-sudo make install[/code]
+sudo make install```
 > #1
 
 Inside Juci choose ''Project > Recreate Build'' (this will nuke the previous meson build directory contents)
@@ -906,7 +960,8 @@ and add an additional executable in mesonbuild for the new file
 > #2
 
 >curve.cpp
-[code]//
+```cpp
+//
 // "$Id$"
 //
 // Curve test program for the Fast Light Tool Kit (FLTK).
@@ -1016,10 +1071,11 @@ int main(int argc, char** argv) {
 
 //
 // End of "$Id$".
-//[/code]
+//```
 
 >meson.build
-[code]project('fltk_test', 'cpp')
+```cpp
+project('fltk_test', 'cpp')
 
 add_project_arguments('-std=c++2a', '-Wall', '-Wextra', language: 'cpp')
 
@@ -1027,7 +1083,7 @@ cxx = meson.get_compiler('cpp')
 fltk_dep = cxx.find_library('fltk')
 
 executable('fltk_test', ['main.cpp', 'fluid_test.cpp'], dependencies : fltk_dep )
-executable('curve_test', 'curve.cpp', dependencies : fltk_dep )[/code]
+executable('curve_test', 'curve.cpp', dependencies : fltk_dep )```
 
 Then select the ''curve.cpp'' tab in Juci, and build (ctrl+enter). 
 > #3
@@ -1040,8 +1096,9 @@ OK, we're going to set up a C++ testing framework on our RaspberryPis now.
 There are a number of these frameworks out there for C++, but Catch2 is the simplest one to use for this language, and one of the most powerful ones as well. It's really well thought out tbh.
 
 Go to https://github.com/catchorg/Catch2 and have a look around the repository. When you're ready, go ahead and clone the repo locally:
-[code]cd _repo
-git clone https://github.com/catchorg/Catch2.git[/code]
+```cpp
+cd _repo
+git clone https://github.com/catchorg/Catch2.git```
 > #1
 
 There are two files we'll be using for our projects to enable testing. They are named ''catch_amalgamated.hpp'' & ''catch_amalgamated.cpp'' and located in the Catch2/extras/ directory:
@@ -1057,9 +1114,11 @@ Open ''File Manager'', then drag the downloaded zip from above over from the des
 > #1
 
 Right-click on the file and choose ''Extract Here''. This will extract two separate files, the original code files archive, and a SHA256 sum file you can verify it's integrity with. Now open a terminal and change directories to where the files are. Execute this command now:
-[code]sha256sum -c waifusearch-0.1f.tar.xz.sha256sum[/code]
+```cpp
+sha256sum -c waifusearch-0.1f.tar.xz.sha256sum```
 If everything's OK, you'll get this response:
-[code]waifusearch-0.1f.tar.xz: OK[/code]
+```cpp
+waifusearch-0.1f.tar.xz: OK```
 Now you know the original archive is untampered with, you can extract it too now. You'll get a new directory named ''waifusearch-0.1f'', and you can delete the archive and checksum files anytime now.
 > #2
 
@@ -1067,12 +1126,14 @@ We need to install a new build dependency on your RPi machine first before proce
 > #3
 
 Go to the terminal and cd into the new directory. From there issue the command:
-[code]meson build[/code]
+```cpp
+meson build```
 This will configure the new project as a ''Mesonbuild'' one, and configure it properly from the already-included ''meson.build'' file. During this configuration, Meson creates a new build directory for you. In this case it's named 'build' (after the named parameter argument ''build'' that you passed).
 > #4
 
 Fire up Juci, open the new project folder ''File > Open Folder'', and build the code (ctrl+shift+enter). After about a minute or so, you should see a successful message at the bottom of Juci's embedded terminal emulator (you can ignore all the notes from the old g++ version):
-[code][2/2] Linking target waifusearch.[/code]
+```cpp
+[2/2] Linking target waifusearch.```
 > #5
 
 OK, you're all set. ''waifusearch'' is built and you're ready to use it from your RPi. We'll cover some examples in the next post.
@@ -1080,7 +1141,8 @@ OK, you're all set. ''waifusearch'' is built and you're ready to use it from you
 # 58
 >>8026
 Now go back into the terminal and make sure you're cd'd into the ''waifusearch-0.1f'' directory. From there, issue this command to run the new executable you just built in the previous post:
-[code]build/waifusearch[/code]
+```cpp
+build/waifusearch```
 In a few seconds, you'll see the search prompt. Now, just type in any words you want to look for on /robowaifu/ . For example, here's the search for the phrase 'clone the repo locally':
 > #1
 
@@ -1108,7 +1170,8 @@ Cheers /robowaifu/ RPi Anons.
 # 59
 >>8027
 >example waifusearch for 'Chobits Chii' , to demonstrate copypasta'ing searches here on /robowaifu/ (use codeblocks for good formatting Anon):
-[code] search:  Chobits Chii
+```cpp
+ search:  Chobits Chii
 
                   ORDERED:
                   ========
@@ -1126,7 +1189,7 @@ Speech Synthesis general           >>5530
    "                               >>5532    
 Robowaifu Propaganda and Recruit   >>2792    
 
-' chobits chii '  [1 : 7] = 8 results[/code]
+' chobits chii '  [1 : 7] = 8 results```
 
 # 60
 >>8026
@@ -1139,7 +1202,8 @@ OK I've pushed a new version up to catbox, v0.1g
 '''Quick hotfix: '''
 
 For some reason at the last minute I failed to add a using statement that keeps this version from building on the RPi. In the file ''main.cpp'', add this using for duration_cast:
-[code]using std::chrono::duration_cast;[/code]
+```cpp
+using std::chrono::duration_cast;```
 >
 Then you can build. My apologies RPi bros, this little patch will be in the next rev.
 
@@ -1161,18 +1225,21 @@ Make sure you have either plenty of storage on your basic RPi MicroSD, or use a 
 2. That being said there are two additional required dependencies, and one optional dependency. The first two are the developer libcurl library straight from the RPi's repo. The second is the curlcpp library which you'll need to download from their SJWhub repo and build/install it locally. The last, optional, one is torsocks just in case you want to hide your power level on your local network/ISP, etc. **You '''are''' hiding your power level concerning anything you do online (particularly on IBs), aren't you Anon? :^)**. It also comes from the RPi's official repos.
 
 3. I'd say you should go ahead and update/upgrade your RPi install first things first Anon. This can help make sure you have everything on your system patched first. Open a terminal and run an upgrade from the repos. (You should probably be doing this regularly, btw.)
-[code]sudo apt-get update && sudo apt-get upgrade[/code]
+```cpp
+sudo apt-get update && sudo apt-get upgrade```
 4. Let's go ahead and set up libcurl (I'll also add torsocks for myself). Open Synaptic and search 'libcurl' , and mark ''libcurl4-openssl-dev'' for installation.
 > #1 #2 #3
 
 5. Clone the curlcpp repo locally.
-[code]git clone https://github.com/JosephP91/curlcpp.git[/code]
+```cpp
+git clone https://github.com/JosephP91/curlcpp.git```
 > #4
 -Build/install it with the CMake/Make dance.
-[code]cd curlcpp/ && mkdir build && cd build
+```cpp
+cd curlcpp/ && mkdir build && cd build
 cmake -DCMAKE_BUILD_TYPE=Release ..
 make -j2
-sudo make install[/code]
+sudo make install```
 > #5
 
 # 65
@@ -1181,23 +1248,28 @@ sudo make install[/code]
 >note: I plan to change that requirement for ''Bumpmaster'', to allow better flexibility for storage, etc., but for now just put the codefiles on your intended storage drive.
 
 >version.log
-[code]210301 - v0.2e
+```cpp
+210301 - v0.2e
 --------------
 -add support for building on RaspberryPi
 -add build notes inside meson.build file
 -add AlogSpace onion to .sites.config
--various minor comment cleanups[/code]
+-various minor comment cleanups```
 https://files.catbox.moe/kigqqd.7z
-[code]49f53c2658c50e00a56d20d0e7299809eccae67d1ac7329cfe1891dfd45e67a8 BUMP-0.2e.tar.xz[/code]
+```cpp
+49f53c2658c50e00a56d20d0e7299809eccae67d1ac7329cfe1891dfd45e67a8 BUMP-0.2e.tar.xz```
 2. Open a terminal in the extract directory and tell mesonbuild to configure this project:
-[code]meson build[/code]
+```cpp
+meson build```
 > #1
 -Now you can build it.
-[code]cd build && ninja && cd ..[/code]
+```cpp
+cd build && ninja && cd ..```
 > #2
 
 3. OK, you're all set. BUMP is now built and ready to download any board from any site listed in it's ''.sites.config'' file. So to start off with, let's download AlogSpace '''/ck/''' (since why not?) I'm going to access the hidden service via torsocks on my machine.
-[code]torsocks -i build/bump bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion ck[/code]
+```cpp
+torsocks -i build/bump bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion ck```
 > #3
 >Note: If you aren't using BUMP over Tor, then you can just use the normal address and omit the ''torsocks -i'' prefix from the command. ie, ''build/bump alogs.theГунтretort.com ck''
 
@@ -1205,7 +1277,8 @@ https://files.catbox.moe/kigqqd.7z
 > #4
 
 5. If you want to download other boards using BUMP -- /robowaifu/, say :^) -- then simply use the correct ''sitename boardname'' suffix to the terminal command. For example:
-[code]torsocks -i build/bump bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion robowaifu[/code]
+```cpp
+torsocks -i build/bump bhlnasxdkbaoxf4gtpbhavref7l2j3bwooes77hqcacxztkindztzrad.onion robowaifu```
 > #5
 
 Hope that's got it all worked out for you Anon. As always, just ask ITT if you get stuck anywhere. Cheers.
@@ -1230,8 +1303,10 @@ Testing it after building... Sorry, it failed. You might have choosen the naive 
 Hmm. If you'd care to, maybe you can try again from scratch (w/o DL'ing again ofc) and take captures of the terminal at each step? 
 
 The steps in '''2.'''
-[code]meson build[/code]
-[code]cd build && ninja && cd ..[/code]
+```cpp
+meson build```
+```cpp
+cd build && ninja && cd ..```
 are explicitly crafted that way in particular.
 
 The 'meson build' command will call the build system ''mesonbuild'' and instruct it to both create a subdirectory named 'build', and also to configure it as a proper build directory for the project. You could just as easily call 'meson foo' and it would still work just as well, but 'build' is the canonical folder name.
@@ -1242,7 +1317,8 @@ The following three-step command is also specific:
 -'cd ..' jumps back up to the project directory after the build, which is where the program expects to run from.
 
 Which brings us to the step '''3.''' executing the program. The command (just as an example):
-[code]build/bump anon.cafe comfy[/code]
+```cpp
+build/bump anon.cafe comfy```
 also has three parts, all of them important:
 -'build/bump' tells the shell to look down into the 'build' directory and find an executable there named 'bump'. The BUMP program itself, however, expects to be called from the directory you're currently in (the project directory) again b/c of the hard-coded directory layouts. Thus the ''directory/program'' form of the command.
 -'anon.cafe' is the site name BUMP will lookup online, and use it to find the board's contents, which in this example is:
@@ -1288,7 +1364,8 @@ Ah, now I see the problem. We misunderstood each other. I meant the .sites.confi
 >>8882
 Ah that's true. I'd suggest you copy both .sites.config (holds all the site configuration data in a JSON) + the bump executable into whatever folder you want to store the data in. Then it will be:
 >from whatever data directory:
-[code]./bump anon.cafe comfy[/code]
+```cpp
+./bump anon.cafe comfy```
 or whichever ''sitename boardname'' (like robowaifu).
 
 Apologies about the confusion. Hopefully the new approach for ''Bumpmaster'' will be simpler to use in the future.
@@ -1316,7 +1393,8 @@ I renamed a file named .archbot.config to make it downloading the files again. I
 So, by doing this renaming you're basically telling BUMP to reconstruct the entire archive from scratch. This is because the program explicitly checks this .archbot.config file (named in honor of the very earliest version of the tool '''''Arch'''ive '''Bot''''' >>610) to find this archive's configuration setup. If it can't find that exact filename, it presumes this is a new archive that anon is setting up. Note: However, since this is ''not'' a new setup, it simply redownloads & rechecks all the JSON files from the board (potentially downloading any new files that haven't been yet) during this 'new setup' process, overwriting the previous JSONs (& simply reusing the already-created, custom-named thread directories within the archive's directory tree). 
 
 Rather than going to all the trouble of doing this, if you want to re-download all the JSONs you can instead simply pass an 'undocumented' flag '''1''' at the end of the statement to do this:
-[code]build/bump anon.cafe comfy 1[/code]
+```cpp
+build/bump anon.cafe comfy 1```
 This ''force_recheck'' flag tells BUMP to redownload & recheck all the board's thread's JSON files.
 
 Note: The '''catalog.json''' is the single file that will __always__ be downloaded with every invocation of BUMP, since it contains all the information needed that tells the program which (if any) threads have been, well, ''BUMPed''. :^)
@@ -1337,7 +1415,8 @@ Another thing: Which files would I need to copy into Waifusearch, to use the upd
 >Which files would I need to copy into Waifusearch, to use the updated jsons for search.
 Well, here's my crappy shell script I use for it.
 >cp_jsons.sh
-[code]#!/usr/bin/env bash
+```cpp
+#!/usr/bin/env bash
 unalias cp
 cd /home/johnny/_prj/BUMP-0.2e/
 torify -i build/bump alogs.theГунтretort.com robowaifu 
@@ -1347,7 +1426,7 @@ rm all_jsons/*_file_404s.json
 rm all_jsons/7143.json 
 rm all_jsons/273.json  
 cp -f all_jsons/* /home/johnny/_prj/waifusearch/all_jsons/ 
-cd ..[/code]
+cd ..```
 >tl;dr
 ''All of them'' (well except the library/archive threads).
 

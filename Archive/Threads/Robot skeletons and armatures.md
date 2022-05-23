@@ -128,7 +128,7 @@ Polyurethane for the spine and other areas that need to be flexible but only acu
 They look to cost on average 200 American pesos.
 Just have to find someone selling a 4ft 10in cutie.
 
-Should hold up just fine as long as you're not abusive to your waifu [spoiler]you sick fuck[/spoiler].
+Should hold up just fine as long as you're not abusive to your waifu %%you sick fuck%%.
 
 You could 3D print customized parts.
 I'm no skeleton expert but the main variability seems to be in the skull, hips, and ribcage.

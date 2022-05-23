@@ -57,13 +57,15 @@ However, 'flexibility' definitely doesn't equate to 'developer productivity' whi
 This kind of knowledge honestly takes years to acquire.
 
 BTW, iirc correctly GCC supports Alpha architecture, so probably any front end language it supports will be OK with it's compiler. C++, for example. YMMV, so you'll have to confirm this specifically. I'm unable to. If you can a 'hello world', then you should be good. EG, file named main.cpp :
-[code]#include <iostream>
+```cpp
+#include <iostream>
 int main() {
   std::cout << "Hello World\n";
-}[/code]
+}```
 
 compile & run with:
-[code]g++ main.cpp && ./a[/code]
+```cpp
+g++ main.cpp && ./a```
 
 If you see 
 Hello World
@@ -148,7 +150,7 @@ Yeah, it's important in life to move while you have momentum anon. Whatever you 
 # 16
 >>147
 >>148
-The three people [spoiler] possibly 4, I don't know if you are including me. [/spoiler] are loyal men to their brothers in arms. I am glad I found a small wholesome community like this where we can freely share ideas between each other without the fear of losing our jobs or being grounded by our parents.[spoiler] (^: [/spoiler] I mean this in the most literal sense, I love this community. Also when you guys get time, I wanna speak about something concerning in the meta thread. 
+The three people %% possibly 4, I don't know if you are including me. %% are loyal men to their brothers in arms. I am glad I found a small wholesome community like this where we can freely share ideas between each other without the fear of losing our jobs or being grounded by our parents.%% (^: %% I mean this in the most literal sense, I love this community. Also when you guys get time, I wanna speak about something concerning in the meta thread. 
 
 Sage for off topic
 

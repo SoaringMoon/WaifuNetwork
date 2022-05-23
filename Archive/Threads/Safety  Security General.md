@@ -216,7 +216,8 @@ A somewhat more modern, more closely-related analogy for your post is object-ori
 Interesting. So, I'm inspired to create a little functional code sketch in C++ of your access-control system Anon. Mind giving this simplistic example the once-over to let me know if it's on track for your intention Anon? TIA.
 
 >waifu_access_ctrl.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -323,14 +324,15 @@ int main() {
   validate(ralph_vacay);
   validate(ralph_proj);
   validate(bob_proj);
-}[/code]
+}```
 results in:
-[code]Anon is DENIED: '123 Main St.'
+```cpp
+Anon is DENIED: '123 Main St.'
 Mom is ALLOWED: '123 Main St.'
 Mom is DENIED: 'Robowaifu-Con @ SDCC'
 Ralph is ALLOWED: 'Robowaifu-Con @ SDCC'
 Ralph is DENIED: 'Super Awesome Work Project'
-Bob is ALLOWED: 'Super Awesome Work Project'[/code]
+Bob is ALLOWED: 'Super Awesome Work Project'```
 
 # 27
 >>12433
@@ -352,7 +354,8 @@ OK, I can easily add multiple relations for the Human class, and an additional i
 That is indeed tricky. Nothing pops into my head atm to address the entire set of issues. One thing that occurs to me is to keep a 'duration' chrono data for the relations within the Human class, since how long we've known someone generally has a bearing on our level of trust with them.
 
 >waifu_access_ctrl_v2.cpp
-[code]#include <iostream>
+```cpp
+#include <iostream>
 #include <string>
 #include <vector>
 
@@ -465,19 +468,21 @@ int main() {
   validate(anon_vacay);
   validate(ralph_proj);
   validate(bob_proj);
-}[/code]
+}```
 results in:
-[code]Anon is DENIED: '123 Main St.'
+```cpp
+Anon is DENIED: '123 Main St.'
 Mom is ALLOWED: '123 Main St.'
 Mom is DENIED: 'Robowaifu-Con @ SDCC'
 Ralph is ALLOWED: 'Robowaifu-Con @ SDCC'
 Anon is ALLOWED: 'Robowaifu-Con @ SDCC'
 Ralph is ALLOWED: 'Super Awesome Work Project'
-Bob is ALLOWED: 'Super Awesome Work Project'[/code]
+Bob is ALLOWED: 'Super Awesome Work Project'```
 
 # 29
 >>12450
-[code]diff waifu_access_ctrl.cpp waifu_access_ctrl_v2.cpp 
+```cpp
+diff waifu_access_ctrl.cpp waifu_access_ctrl_v2.cpp 
 5c5
 < enum class Relation { master, family, fren, coworker, stranger };
 ---
@@ -530,7 +535,7 @@ Bob is ALLOWED: 'Super Awesome Work Project'[/code]
 95a100
 >   Inquiry anon_vacay{Anon, vacay};
 105a111
->   validate(anon_vacay);[/code]
+>   validate(anon_vacay);```
 
 # 30
 Kek. I think maybe I'm having a little too much fun with this idea r/n?
@@ -542,7 +547,8 @@ LOL. I've gotten interested enough in your idea now Anon to go ahead and clean e
 >
 
 https://files.catbox.moe/fql3fi.7z
-[code]856230744af87b92999e472659955ff52ca7f8e072cfca0c8a19453b00d9d515 *rw_access_control-0.1.tar.xz[/code]
+```cpp
+856230744af87b92999e472659955ff52ca7f8e072cfca0c8a19453b00d9d515 *rw_access_control-0.1.tar.xz```
 
 I hope it's helpful to someone, Cheers.
 
@@ -550,7 +556,8 @@ I hope it's helpful to someone, Cheers.
 I discovered I left out .cpp files for the g++ build statement in the ''meson.build'' file, so I decided to go ahead and immediately update the version to fix that. Cheers
 
 >version.log
-[code]// robowaifu access control
+```cpp
+// robowaifu access control
 // ========================
 // -The software testbed for devising access control systems for robowaifus
 
@@ -565,9 +572,10 @@ I discovered I left out .cpp files for the g++ build statement in the ''meson.bu
 
 210817 - v0.1
 -------------
--initial release[/code]
+-initial release```
 https://files.catbox.moe/fq1yo6.7z
-[code]746645899aed33e561e2da749a73886597efab8a08fbb6d26024720e5fc38fa4 *rw_access_control-0.1a.tar.xz[/code]
+```cpp
+746645899aed33e561e2da749a73886597efab8a08fbb6d26024720e5fc38fa4 *rw_access_control-0.1a.tar.xz```
 
 # 33
 OK, so I've tightened up the codebase a bit further and added both 'Sequence' and 'Directive' classes, to mirror the 'Info' and 'Inquiry' classes. The robowaifu now performs checks on requests for actions, in addition to information. The validate() function is now a template function that (surprisingly) currently doesn't really need any specializations (!)
@@ -579,7 +587,8 @@ Also, I added the initial framework for command-line argument parsing. It only w
 Cheers.
 
 >version.log
-[code]210819 - v0.1b
+```cpp
+210819 - v0.1b
 --------------
 -add Sequence class
 -add Directive class
@@ -601,9 +610,10 @@ Cheers.
 -add 'TODO DOCs for teaching expositions' into the entry point & header files
 -various comment edits
 -add 'project configuration' comment section in meson.build
--add CLI args parsing + utility files[/code]
+-add CLI args parsing + utility files```
 https://files.catbox.moe/i9scan.7z
-[code]5f50069840debe36f6f0e314c35af1901aa9511d8844b94d4c1be727e1854576 *rw_access_control-0.1b.tar.xz[/code]
+```cpp
+5f50069840debe36f6f0e314c35af1901aa9511d8844b94d4c1be727e1854576 *rw_access_control-0.1b.tar.xz```
 
 # 34
 >>12431
@@ -642,7 +652,8 @@ It's nothing but a skeleton framework atm, and it will likely be months now befo
 # 39
 >>12596
 Oops forgot to add the tarball's hash as usual.
-[code]883759ae6d1a16cc030f64539fb337460009b604f9fdc3949593ecec5d25d2ba *kingdom_of_kod-0.0.2.tar.xz[/code]
+```cpp
+883759ae6d1a16cc030f64539fb337460009b604f9fdc3949593ecec5d25d2ba *kingdom_of_kod-0.0.2.tar.xz```
 
 # 40
 >>12596
@@ -658,7 +669,8 @@ I probably should move my progress updates elsewhere, since it's going to be a w
 
 Anyway, Cheers.
 
-[code]4fd74ea38ac84fbb5551205f4ac24b85289567ad63f86caac7401fb510c5eb07 *kingdom_of_kod-0.0.3.tar.xz[/code]
+```cpp
+4fd74ea38ac84fbb5551205f4ac24b85289567ad63f86caac7401fb510c5eb07 *kingdom_of_kod-0.0.3.tar.xz```
 
 # 42
 >>10860

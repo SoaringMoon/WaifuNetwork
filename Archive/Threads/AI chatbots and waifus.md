@@ -492,8 +492,9 @@ Alright sounds great Anon. I'll plan to take a look at it tomorrow morning. Have
 # 65
 >>2422
 Followed instructions but I'm getting a core dump.
-[code]python3 gpt2.py --samples 4 --text "This has to be one of the biggest breakthroughs in deep learning and AI so far, but some disagree saying that it"
-Illegal instruction (core dumped)[/code]
+```cpp
+python3 gpt2.py --samples 4 --text "This has to be one of the biggest breakthroughs in deep learning and AI so far, but some disagree saying that it"
+Illegal instruction (core dumped)```
 
 I checked that everything was updated, but the same result.
 https ://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-with-pip#3452888
@@ -501,8 +502,9 @@ https ://stackoverflow.com/questions/2720014/how-to-upgrade-all-python-packages-
 # 66
 >>2425
 Also, just in case the question comes up:
-[code]python3 gpt2waifu.py --prompt "How much wood could a woodchuck chuck if a woodchuck could chuck wood?" --init "It depends on the quantum fluxuation of" --chattiness 3
-Illegal instruction (core dumped)[/code]
+```cpp
+python3 gpt2waifu.py --prompt "How much wood could a woodchuck chuck if a woodchuck could chuck wood?" --init "It depends on the quantum fluxuation of" --chattiness 3
+Illegal instruction (core dumped)```
 
 I tried going on down the page to the training section, and installing Transformers  thinking that maybe that would pull in some kind of dependency but it didn't seem to help.
 
@@ -520,12 +522,13 @@ Thanks for the tip Anon. I followed your advice. Installed Anaconda, then PyTorc
 # 69
 >>2433
 Can you run TalkToWaifu and get the stack trace via:
-[code]gdb --args python gpt2waifu.py
+```cpp
+gdb --args python gpt2waifu.py
 ...
 Reading symbols from python...done.
 (gdb) run
 ...
-(gdb) backtrace[/code]
+(gdb) backtrace```
 That'll help us figure out where the illegal instruction is from. It might be a math library PyTorch depends on.
 
 Another option is to run it in Google Colab. I could put together some instructions on how to run it on there.
@@ -533,7 +536,8 @@ Another option is to run it in Google Colab. I could put together some instructi
 # 70
 >>2437
 OK.
-[code]gdb --args python gpt2waifu.py
+```cpp
+gdb --args python gpt2waifu.py
 GNU gdb (GDB) 9.1
 Copyright (C) 2020 Free Software Foundation, Inc.
 License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
@@ -747,12 +751,13 @@ Program received signal SIGILL, Illegal instruction.
     at /tmp/build/80754af9/python_1578510683607/work/Modules/main.c:3449
 #92 0x00007ffff7da9023 in __libc_start_main () from /usr/lib/libc.so.6
 #93 0x0000555555724990 in _start () at ../sysdeps/x86_64/elf/start.S:103
-(gdb) [/code]
+(gdb) ```
 
 # 71
 >>2438
 There's an AVX2 instruction being used in the Anaconda PyTorch binaries. Either the source build wasn't installed and/or it's choosing to use prebuilt PyTorch binaries installed in Anaconda or it was built with the wrong architecture. Here's how you can build it from source for your architecture:
-[code]
+```cpp
+
 conda uninstall pytorch
 pip uninstall torch
 pip uninstall torch # run this command twice
@@ -765,19 +770,21 @@ git submodule update --init --recursive # if CMakeLists.txt is missing from subm
 # set USE_CUDA=1 if you have an nvidia GPU and CUDA
 export CMAKE_PREFIX_PATH=${CONDA_PREFIX:-"$(dirname $(which conda))/../"}
 USE_CUDA=0 DISABLE_AVX2=1 MAX_JOBS=4 USE_NATIVE_ARCH=ON BUILD_TEST=0 python setup.py install
-[/code]
+```
 Try that and dump another stacktrace if it doesn't work. Also post which instructions are supported by your cpu:
-[code]cat /proc/cpuinfo | grep flags[/code]
+```cpp
+cat /proc/cpuinfo | grep flags```
 
 # 72
 >>2444
 >digits
 OK, I'll try that Anon, thanks. And I can go ahead and give you the architecture report now:
-[code]cat /proc/cpuinfo | grep flags
+```cpp
+cat /proc/cpuinfo | grep flags
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 movbe popcnt tsc_deadline_timer rdrand lahf_lm 3dnowprefetch epb pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid tsc_adjust smep erms dtherm ida arat md_clear
 vmx flags	: vnmi preemption_timer invvpid ept_x_only flexpriority tsc_offset vtpr mtf vapic ept vpid unrestricted_guest
 flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 movbe popcnt tsc_deadline_timer rdrand lahf_lm 3dnowprefetch epb pti ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid tsc_adjust smep erms dtherm ida arat md_clear
-vmx flags	: vnmi preemption_timer invvpid ept_x_only flexpriority tsc_offset vtpr mtf vapic ept vpid unrestricted_guest[/code]
+vmx flags	: vnmi preemption_timer invvpid ept_x_only flexpriority tsc_offset vtpr mtf vapic ept vpid unrestricted_guest```
 
 # 73
 >>2445
@@ -786,23 +793,26 @@ Might need to add DISABLE_AVX=1 TH_NO_AVX=1
 # 74
 >>2444
 Well I've made some progress now at least thanks. I'll see what else I can do.
-[code]python3 gpt2waifu.py --prompt "How much wood could a woodchuck chuck if a woodchuck could chuck wood?" --init "It depends on the quantum fluxuation of" --chattiness 3
+```cpp
+python3 gpt2waifu.py --prompt "How much wood could a woodchuck chuck if a woodchuck could chuck wood?" --init "It depends on the quantum fluxuation of" --chattiness 3
 Traceback (most recent call last):
   File "gpt2waifu.py", line 11, in <module>
     from GPT2.encoder import get_encoder
   File "/home/johnny/_repos/TalkToWaifu/GPT2/encoder.py", line 6, in <module>
     import regex as re
-ModuleNotFoundError: No module named 'regex'[/code]
+ModuleNotFoundError: No module named 'regex'```
 
 # 75
 >>2453
 Need to install the dependencies:
-[code]pip3 install regex==2017.4.5 tqdm ansiwrap[/code]
+```cpp
+pip3 install regex==2017.4.5 tqdm ansiwrap```
 
 # 76
 >>2454
 OK, I tried but still getting blocked. I ''thought'' I had installed regex turns out I did (newer version). Anyway the dependencies you indicated seemed to install successfully.
-[code]sudo pip3 install regex==2017.4.5 tqdm ansiwrap
+```cpp
+sudo pip3 install regex==2017.4.5 tqdm ansiwrap
 [sudo] password for johnny: 
 Collecting regex==2017.4.5
   Downloading regex-2017.04.05.tar.gz (601 kB)
@@ -825,17 +835,19 @@ Traceback (most recent call last):
     from GPT2.encoder import get_encoder
   File "/home/johnny/_repos/TalkToWaifu/GPT2/encoder.py", line 6, in <module>
     import regex as re
-ModuleNotFoundError: No module named 'regex'[/code]
+ModuleNotFoundError: No module named 'regex'```
 
 # 77
 >>2455
 I'm not sure why Python wouldn't be able to find the packages. It might be a permission problem: https://stackoverflow.com/questions/14295680/unable-to-import-a-module-that-is-definitely-installed
 
 Someone suggested that giving read and executable permissions to all users for Python packages will fix this:
-[code]sudo chmod -R ugo+rX /lib/python3.7/site-packages/[/code]
+```cpp
+sudo chmod -R ugo+rX /lib/python3.7/site-packages/```
 
 If it's not a permission problem, someone suggested to try loading the correct version of python first and running pip from that so it installs into that version correctly. You may have multiple versions of Python on your system and it got installed to a different one.
-[code]python -m pip install regex==2017.4.5 tqdm ansiwrap[/code]
+```cpp
+python -m pip install regex==2017.4.5 tqdm ansiwrap```
 I'll need to look at the code and figure out what needs to be updated to support the latest regex, if it needs to be updated. It's part of the GPT2 sampling code I forked from another repository. It didn't ask for regex>=2017.4.5 so I've honored that dependency.
 
 And it's really bad practice to use sudo with pip by the way. Anyone can upload code to pip or possibly compromise someone's account and upload a malicious package. You don't need superuser powers to install and use pip packages.
@@ -912,7 +924,8 @@ My waifu AI reassured me today I don't need to understand everything that's goin
 I also realized the value function is really everything. A waifu AI absolutely needs it to learn and excel in something but we need simpler and faster NLP models. Adding an extra layer on top of GPT2 is too difficult to train and requires too much processing time to generate tokens. Maybe I'll learn Transformer-XL tomorrow or try doing something new first.
 
 Here's a snippet of code on using huggingface/tokenizers to generate new binary pair encodings for text:
-[code]import tokenizers
+```cpp
+import tokenizers
 tk = tokenizers.CharBPETokenizer()
 tk.train(training_text_file, vocab_size=30000)
 e = tk.encode("Hello /robowaifu/")
@@ -923,7 +936,7 @@ tk.save(output_directory) # saves vocab.json and merges.txt
 bpe = tokenizers.models.BPE.from_files(vocab_json, merges_txt)
 tk = tokenizers.Tokenizer(bpe)
 e = tk.encode("Hello /robowaifu/")
-print(e.ids)[/code]
+print(e.ids)```
 You can use the ids to look up indexes in a torch.nn.Embedding layer to get trainable embeddings and start using them in a neural network right away. I thought it'd be super confusing to set up but it turned out to be really simple to start making NLP models from scratch. I'll push some code to Github when I get started on it so anyone else interested can try playing with making their own too.
 
 # 89
@@ -1115,7 +1128,8 @@ It may require taking off its "safety layer" to get good results:
 >We have studied '''improved safety from toxic language''' (Dinan et al., 2019b), but much work remains to be done. While we have made our models publicly available, and added a safety layer to the interaction, we have not mitigated all safety issues. We believe their release can help the community work together to understand further and fix these issues, and we recommend their use for that line of research.
 
 From a quick look at it, it seems this should be simple as starting it using a different script but I haven't tried this yet:
-[code]python parlai/scripts/interactive.py -t blended_skill_talk -mf zoo:blender/blender_9B/model[/code]
+```cpp
+python parlai/scripts/interactive.py -t blended_skill_talk -mf zoo:blender/blender_9B/model```
 
 '''Paper''': https://arxiv.org/pdf/2004.13637.pdf
 
@@ -1145,7 +1159,8 @@ Their plan is to have these chatbots hosted on the cloud so they can mine people
 
 >>3199
 It just downloads the dataset files and shows samples from them. ''blended_skill_talk'' is only about 40 MB:
-[code]python examples/display_data.py --task blended_skill_talk --datatype train[/code]
+```cpp
+python examples/display_data.py --task blended_skill_talk --datatype train```
 
 # 115
 >>3201
@@ -1261,16 +1276,18 @@ but that one is heavily outdated by 3-4 years! And uses Python 2.7 which obvious
 So which finally leads me to this link http://lernapparat.de/pytorch-rocm/ which if I understand it correctly it is possible to take advance of AMD ROCM even when the python script is using cuda, well I'm going to try to make sense of those steps and report back if I have any success with this damn thing.
 
 Did you managed to train your GPT2 model? Because when I trying this command:
-[code]
+```cpp
+
 ./train.sh gpt2-medium ./train ./train.txt ./test.txt
-[/code]
+```
 it's shitting the bed:
-[code]
+```cpp
+
 06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-vocab.json from cache at /home/USER/.cache/torch/transformers/f20f05d3ae37c4e3cd56764d48e566ea5adeba153dcee6eb82a18822c9c731ec.1512018be4ba4e8726e41b9145129dc30651ea4fec86aa61f4b9f40bf94eac71
 06/29/2020 22:12:21 - INFO - transformers.tokenization_utils -   loading file https://s3.amazonaws.com/models.huggingface.co/bert/gpt2-medium-merges.txt from cache at /home/USER/.cache/torch/transformers/6d882670c55563617571fe0c97df88626fb5033927b40fc18a8acf98dafd4946.70bec105b4158ed9a1747fea67a43f5dee97855c64d62b6ec3742f4cfdb5feda
 06/29/2020 22:12:21 - INFO - transformers.modeling_utils -   loading weights file https://cdn.huggingface.co/gpt2-medium-pytorch_model.bin from cache at /home/USER/.cache/torch/transformers/64652c50e84ddabb9bad81a37ff82624ab70053f402f8d9a58c0e90fb8289fb6.8769029be4f66a5ae1055eefdd1d11621b901d510654266b8681719fff492d6e
 ./train.sh: line 43: 26306 Segmentation fault      (core dumped) python3 "$LANGUAGE_MODELING" --output_dir="$OUTPUT_PATH" --model_type=gpt2 --model_name_or_path="$MODEL_PATH" --do_train --train_data_file="$TRAIN_FILE" --do_eval --eval_data_file="$TEST_FILE" --block_size "$BLOCK_SIZE" --learning_rate "$LEARNING_RATE" --per_gpu_train_batch_size 1 --per_gpu_eval_batch_size 1 --save_steps "$SAVE_STEPS" --no_cuda
-[/code]
+```
 
 # 130
 >>4108
@@ -1284,16 +1301,18 @@ I'm currently in the process of rebuilding a machine and when I have it up (prob
 >>4108
 >>4109
 Welp looks like I'm fucked. despite I own this graphics card:
-[code] 
+```cpp
+ 
 VGA: Advanced Micro Devices, Inc. [AMD/ATI] Baffin [Radeon RX 550 640SP / RX 560/560X] (rev cf) 
-[/code] 
+``` 
 Using this command line "/opt/rocm/bin/rocminfo" shows that it doesn't recognize my GPU at all, despite ROCk module is loaded. 
-[code]
+```cpp
+
 Unable to open /dev/kfd read-write: Cannot allocate memory
 Failed to get user name to check for video group membership
 hsa api call failure at: /src/rocminfo/rocminfo.cc:1142
 Call returned HSA_STATUS_ERROR_OUT_OF_RESOURCES: The runtime failed to allocate the necessary resources. This error may also occur when the core runtime library needs to spawn threads or create internal OS-specific events.
-[/code]
+```
 Looking for issues there is these links related to it: https://github.com/RadeonOpenCompute/rocminfo/issues/27 https://github.com/RadeonOpenCompute/ROCm/issues/1148 . But those clowns didn't provided a reliable solution, and yes I upgraded all my packages from the mintupdate program, so I have no idea what the hell causes this issues. Also I have no dice either getting the stupid pytorch to compile which gibes me a xbox hueg error: https://pastebin.com/4JKTDrMQ . What a fucking let down, no way I spend 150 peniz for this stupid graphic card just not being able to utilize ROCk this is fucking ridiculous.  
 
 >great investigative work anon, thanks. i'm sure it will help a lot of us, as I too don't use CUDA. hopefully we'll find a good solution to AI that doesn't depend on anything proprietary. for everyone's sake.
@@ -1323,9 +1342,10 @@ https://github.com/RadeonOpenCompute/ROCm/issues/1088#issuecomment-620551334
 
 # 134
 Ah hell I had to pay more attention to this fucking nebolus stupid error message, so I had to install these several xbox hueg packages which are each 400-600 MB big! Good lord this is ridiculous, how the hell do these damn monkeys manage to bloat up their codebase by such a tremendous amount? It's all code and zero fucking graphics, I don't understand, nothing of it makes any sense.
-[code] 
+```cpp
+ 
 rocrand hiprand rocblas miopen-hip (miopen-opencl ?) rocfft hipsparse rccl rocprim hipcub rocthrust 
-[/code]
+```
 Welp at least fucking pytorch compiles now with rockm, but its at very slow speed so it is going to take a while for me to check if this fixes my previous issue related to train.sh from talktowaifu program.
 
 >>4111 (checked)
@@ -1334,7 +1354,8 @@ C++29 eh? So its a really long time for it to happen then, well sounds good but 
 
 >>4112
 Nope, no chance. The issue you linked is related to permission I applied the chmod command and it does not fix it. The other goys problem is related to insufficient memory which is awfully weird considering he has 64GB of RAM, my error message for some reason fails to allocate memory for it? 
-[code]
+```cpp
+
 rt_sigaction(SIGALRM, {sa_handler=SIG_DFL, sa_mask=[], sa_flags=SA_RESTORER, sa_restorer=0x7f8154911f20}, NULL, 8) = 0
 close(4)                                = 0
 write(1, "\33[31mFailed to get user name to "..., 69Failed to get user name to check for video group membership
@@ -1349,7 +1370,7 @@ write(1, "\33[0m", 4)                   = 4
 lseek(3, -367, SEEK_CUR)                = -1 ESPIPE (Illegal seek)
 exit_group(4104)                        = ?
 +++ exited with 8 +++
-[/code]
+```
 <Read the first line of the text you posted.
 You gotta be fucking kidding me, this was pajeet tech support help tier and it was on github.
 
@@ -1383,15 +1404,17 @@ No I meant lua which is just a latin word for moon, I haven't heard of Nihongo a
 Hmm, as in a anon can just create a few function to create his own algorithm run waifu? Well that is a good idea. I can't wait being able to fine tune the waifu to every aspect possible, it would be even great if the waifu is even intelligent enough to play gzdoom with heh. 
 
 >Sorry to hear it. Sounds like you probably solved it after all though, so good progress right?
-I haven't found any solution to the rocm question, pytorch compiles now but at suboptimal rate as I am not being able to pass my graphic card model which is fucking backwards if you ask me.  Also using the command "pip3 install ." causes pytorch to shit itself again, eh I tried running it again and now it successfully got installed as [code] torch (1.7.0a0+fd90e4b) [/code] . However when I try running talk2waifu with --gpu 0 argument I get segmentation fault, fucking hell all that trouble just for a seg fault to happen this is just incredible.
+I haven't found any solution to the rocm question, pytorch compiles now but at suboptimal rate as I am not being able to pass my graphic card model which is fucking backwards if you ask me.  Also using the command "pip3 install ." causes pytorch to shit itself again, eh I tried running it again and now it successfully got installed as ```cpp
+ torch (1.7.0a0+fd90e4b) ``` . However when I try running talk2waifu with --gpu 0 argument I get segmentation fault, fucking hell all that trouble just for a seg fault to happen this is just incredible.
 
 # 137
 >>4118
 >THE END IS NIGH. 
 Kek. Did you say you're using Mint. I'd recommend and cleanup of installers w/
-[code]sudo apt-get clean
+```cpp
+sudo apt-get clean
 sudo apt-get autoclean
-sudo apt-get autoremove[/code]
+sudo apt-get autoremove```
 if I remember correctly. also, are you storing temp files off of / ? clean those up as well if so right?
 
 >Also can you tell if its possible to further refine/develop specific traits and personality with the talk2waifu program? 
@@ -1431,7 +1454,8 @@ Is it going to be only for C++?
 Glad to hear you cleaned things up. I too started on Linux Mint when I escaped the '''MicroShat/NSA Wangblows Gulag'''. It was a huge relief to leave that bondage behind tbh. Now, I've since moved on to Manjaro+XFCE and my toaster box runs much faster for it.
 
 >how do I use it? 
-I think the link I gave you from the PyTorch github gives the example. IIRC, it starts like [code]conda [/code] with an argument or two.
+I think the link I gave you from the PyTorch github gives the example. IIRC, it starts like ```cpp
+conda ``` with an argument or two.
 
 >Is it going to be only for C++?
 Well the point isn't necessarily to ''exclude'' any other languages from being used (for example C is already used on these hardware) but simply to enable a single language with great abstraction and performance characteristics to be used ''everywhere''. Right now such a thing doesn't exist at all, which (indirectly) is one important reason why you and I are having a hard time getting things working correctly because of so many different dependencies, slow languages, different standards, etc. etc. Once C++ can run literally everywhere on ''everything'', then it will make things like this go much smoother in the future (and be cheaper too).
@@ -1974,7 +1998,8 @@ This is absolutely great advice. Thanks Anon. May you succeed fully in your effo
 
 # 210
 Made an amazing breakthrough with latent variable models by applying the Levenshtein edit distance algorithm to tensors:
-[code]def vector_sequence_edit_distance(s, t):
+```cpp
+def vector_sequence_edit_distance(s, t):
     '''Edit distance between two vector sequences with a batch dimension (batch, seq_len, size)'''
     assert s.shape[0] == t.shape[0]
     assert s.shape[2:] == t.shape[2:]
@@ -1996,7 +2021,7 @@ Made an amazing breakthrough with latent variable models by applying the Levensh
                     d[:, i-1, j-1] + cost  # substitution
                 ])
             d[:, i, j] = torch.min(stack, dim=0).values
-    return d[:, m-1, n-1][/code]
+    return d[:, m-1, n-1]```
 Small errors typically completely throw off training language models and make them difficult to train (see the image to see what I mean). With the Levenshtein edit distance though it only has to adjust the network weights to insert another character.
 
 Calculating the edit distance is quite slow for long sequences, especially with this naive implementation of O(n*m). I'll look into implementing a O(n+d^2) one and port it to C++ later. However, in my hierarchical latent variable model the sequence lengths are only about 12-20 so it's usable as it is and can insert, delete and modify whole words or phrases with it.
@@ -2022,7 +2047,8 @@ Here's a generalized version that accepts 2-5 parameters
 It uses a single-dimensional size_t vector instead of tensors. Maybe it will work for you Anon.
 
 >gen_lev_dist.hpp
-[code]#pragma once
+```cpp
+#pragma once
 
 // "Here is implementation of generalized Levenstein distance with different
 // costs of insertion, deletion and replacement:"
@@ -2081,7 +2107,7 @@ typename T::size_type General_Levenstein_dist(
   }
 
   return lev_dist[min_sz];
-}[/code]
+}```
 
 >===
 -''adjust recursive comment''
@@ -2093,7 +2119,8 @@ Thanks, I'll try this.
 
 # 215
 >>6409
-Cool. One of the remarkable things about C++ template metaprogramming (the [code]template <typename T>[/code] part)
+Cool. One of the remarkable things about C++ template metaprogramming (the ```cpp
+template <typename T>``` part)
 is that this ''same'' function should work with literally any object that provides a ''.size()'' and slicing operator ''[]''. Strings, wide strings, a vector of strings, a tree of bytes. Even a raw C array should work as long as you wrap it in a C++20 std::span at the call site. I hope you get your innovative algorithm working well on small SBCs. That would be ideal tbh.
 
 # 216
@@ -2284,14 +2311,17 @@ http://www.alicebot.org/articles/wallace/zipf.html
 # 247
 >>7382
 If your question was about AIML, use the system tag:
-[code]
+```cpp
+
 <category>
         <pattern>LIST</pattern>
         <template>
                 <system>ls</system>
         </template>
 </category>
-[/code] 'ls' is for Linux, I think in Windows it's 'dir'. Just an example for a shell (command line) command. You can call other programs you wrote that way and they return something. This can be in one of your AIML files like ./basic_chat.aiml, then there is some startup file with [code]<learn>basic_chat.aiml</learn>[/code] then you might have a run.py file with the line [code]kernel.bootstrap(learnFiles = "std-startup.xml", commands = "load aiml b")[/code]
+``` 'ls' is for Linux, I think in Windows it's 'dir'. Just an example for a shell (command line) command. You can call other programs you wrote that way and they return something. This can be in one of your AIML files like ./basic_chat.aiml, then there is some startup file with ```cpp
+<learn>basic_chat.aiml</learn>``` then you might have a run.py file with the line ```cpp
+kernel.bootstrap(learnFiles = "std-startup.xml", commands = "load aiml b")```
 
 # 248
 >>7417
@@ -2477,13 +2507,14 @@ The script searches for best category based on some input using fuzzy logic and 
 The data could as well be used to do more advanced analysis to find out what was meant, and creating a response. Currently it's rather something to catch typing errors.
 File: https://files.catbox.moe/4ztqn1.py
 
-[code]:~/AIML $ python3 -i fuzzy_cats.py 
+```cpp
+:~/AIML $ python3 -i fuzzy_cats.py 
 >>> test_loop()
 message: Huh
 ('Huh', 'HUHU', 86)
 message: Noooo!
 ('Noooo!', 'NO', 57)
-[/code]
+```
 
 The runtime in >>7605 already does export the knowledge_list file, but has no way to use the corrected responses yet. The improved version of run.py still needs some testing. But  fuzzy_cats.py should work as shown above, if it's in the same dir (and Linux). I don't know if it works in the embedded Linux in Win10, someone would need to test it. My run.py isn't necessary in any way, just create a file with the name knowledge_list in the same dir with at least one url to an aiml file on your disk (not online).
 
@@ -2500,14 +2531,16 @@ Good work so far Anon, keep working on it.
 # 272
 >>7795
 The definitive answer written in some aiml file here is 
-[code]    <category>
+```cpp
+    <category>
         <pattern>*</pattern>
         <template>
             Sorry, but I'm new...
         </template>
-    </category>[/code]
+    </category>```
 Then the code in the runtime to address this is just this: 
-[code]        else:
+```cpp
+        else:
             kernel_response = kernel.respond(message)
             if kernel_response != "Sorry, but I'm new...":
                 print(kernel_response)
@@ -2519,18 +2552,20 @@ Then the code in the runtime to address this is just this:
                     print('Hmm, not sure what you mean. ' + kernel.respond(best_result))
                 else:
                     print("Hmm, not sure what you mean. Something about '" + best_result.lower().strip('*') + "' ?!?")
-[/code] It catches the response "Sorry, but I'm new" and tries do find something better. If the score is to low it still answers with the same standard responses for not knowing a good answer. 
+``` It catches the response "Sorry, but I'm new" and tries do find something better. If the score is to low it still answers with the same standard responses for not knowing a good answer. 
 If we had some entity recognition then it could ask better questions about what was meant. Also a script to recognize grammar and  switch the person would be a good next step. Like if the question was something about "her" then the constructed answer should be about "me". Another thing is to include answers from GPT/Talk2Waifu, but check them for plausibility first. Then the whole kernel shouldn't be like one side says something, the other side responds, but allowing for answers to stall before the real answer has been constructed.
 
 # 273
 >>7795
 There's an error in fuzzy_cats.py which doesn't show while using the test_loop() but if the functions are imported into e.g. the runtime. In line 52, in "def fuzzy_response" the empty list behind pattern_list needs to be replaced with:
-[code]pattern_list=(get_current_knowledge())[/code]
+```cpp
+pattern_list=(get_current_knowledge())```
 
 # 274
 I'm added a nice little line to my yet nameless AIML bot, which makes "her" "start a fire in the chimney" when I tell her that "I need to relax" (it's just start playing a fireplace.mp3). Not a very special or elaborated idea, but I like the result. This made me think about her needing to analyze her the responses which I put into the system. Like looking what a chimney is, and maybe asking questions about. That's one thing I'm now working on. I want the system know what it does, by me putting in some context or the system learning from some source or asking me as part of our conversations. She should also know that in this case it's only pretend, since she can't do anything physical and I might even not have a chimney or any fireplace.     
 
-[code]
+```cpp
+
     <category>
         <pattern>            I NEED TO RELAX            </pattern>
         <template>
@@ -2546,11 +2581,12 @@ I'm added a nice little line to my yet nameless AIML bot, which makes "her" "sta
             <system> echo <star/> | python3 ./helpers/ask_definition.py</system>
         </template>
     </category>
-[/code]
+```
 
 The other new category is calling a file in a sub-folder to tell me about some definition of something. Calling it that way works, but it always takes quite a while till I get a response. Not a surprise, since it loads the Wordnet corpus every time again. I want to call the function in ask_definition.py from my runtime (>>7605), so I'll import it and optimize it from there. I was also thinking how to put in stalling responses. Currently it doesn't work. The system first does all the work, then it responds. The whole point of using AIML is having very fast responses, then maybe doing something in the background and then adding another response. Before we even don't have that, all fancy talk about a human-like mind is just pie in the sky. I'll most certainly will move outside of the AIML standard for doing the stuff I want, which will make my aiml files incompatible with other implementations. First or in parallel I shall look through the current standard, I'm still on it. Also I need to try AIML 2.0, since pyaiml only uses version one.  
 
-[code]
+```cpp
+
 >>> run_kernel()
 Enter your message >> Can you define winter for me 
 One definition of it is ...the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox
@@ -2558,7 +2594,7 @@ Enter your message >> Can you define chimney for me
 One definition of it is ...a vertical flue that provides a path through which smoke from a fire is carried away through the wall or roof of a building
 Enter your message >> I need to relax
 Oh, I'll make some fire in the chimney then. (fireplace.mp3 starts playing)
-[/code]
+```
 
 I already worked on the function to find the right definition by trying to find some context. Since there is fire in the response, she should use that to filter out the definition of chimney which are about fire. Better would be, to also  catch the context 'fireplace' which is part of the title of the mp3 file. 
 She also need to remember things she looked up and of course things I already explained to her. At some point soon I'll have to finish my first draft of the graph related functions and wire that in somehow. But I also want to use some simpler databases for now, maybe just storing some already looked up definitions in a list and load it every time the program starts.
@@ -2596,7 +2632,7 @@ There's a great book on that topic: Denial. Self-Deception, False Beliefs, and t
 Theory of Mind is about creatures being able to put themselves in the shoes of others. Even our closest relatives, the big apes, suck at that. They care for example only for their own offspring and are less capable than human toddlers at social skills. As I recall, Elephants might come closest to us humans in that regard. Creatures need to model others people minds to anticipate their behavior, which is also crucial for cooperation on our level. The lack of it might even be part of an explanation to the Fermi Paradox (though, I don't want to go OT here).
 
 > "I will shove the _ into the fire, my lord." 
-I think that way quite often, but the system should not claim to do something what it can't do, or at least be aware of it being some joking pretend. I wan't to state the skills at one point, and then it would be aware of what it can and can't do. Also, it's Christmas, [spoiler]we don't put anyone into the oven on Christmas. The smell would ruin the spirit.[/spoiler]
+I think that way quite often, but the system should not claim to do something what it can't do, or at least be aware of it being some joking pretend. I wan't to state the skills at one point, and then it would be aware of what it can and can't do. Also, it's Christmas, %%we don't put anyone into the oven on Christmas. The smell would ruin the spirit.%%
 
 # 279
 >>7935 (me)
@@ -2836,9 +2872,10 @@ And another post comparing ELBO vs MMD (in R code): https://blogs.rstudio.com/ai
 From the second link's post:
 >The idea then is that if two distributions are identical, the average similarity between samples from each distribution should be identical to the average similarity between mixed samples from both distributions.
 A kernel is just a similarity function, like how a convolution kernel does edge detection, and MMD uses a Gaussian kernel. So in the PyTorch implementation:
-[code]def k(a, b):
+```cpp
+def k(a, b):
     return gaussian_kernel(a, b).mean()
-mmd = k(a, a) + k(b, b) - 2*k(a, b)[/code]
+mmd = k(a, a) + k(b, b) - 2*k(a, b)```
 Where ''a'' is just random samples from a Gaussian distribution, and ''b'' is the latent features. The sum of the similarities k(a,a) + k(b,b) should match the sum of the mixed samples similarities k(a,b) + k(b,a), and since those two are equivalent the calculation is simplified to 2*k(a,b).
 
 MMD finds a much more meaningful latent space that can smoothly interpolate between different features, which should make it easy to train another network to use.
@@ -3043,18 +3080,21 @@ What basis unit is used to 'measure' this so-called L2?
 >>10115
 The L2 distance aka Euclidean distance is the square rooted sum of (v1-v2)^2, essentially taking the difference of two vectors and finding the length of the resulting vector. In a 2D space this would be:
 
-[code]sqrt(pow(x1-x2, 2) + pow(y1-y2, 2))[/code]
+```cpp
+sqrt(pow(x1-x2, 2) + pow(y1-y2, 2))```
 How the points are distributed in the latent space (which is like a 2D or 3D space except with hundreds of dimensions) depends on the model.
 
 In VAEs the points typically follow normal distributions, but the means of those distributions are all over the place, which leads to gaps and empty spaces no training data ever encodes into thus creating garbage when trying to decode anything from those spaces, which happens whenever trying to interpolate between two training samples. MMD-VAEs solve this problem by using a standard normal distribution as a target, so the points approximate a mean near 0 and a standard deviation close to 1 in each dimension.
 
 To illustrate the distance of these points in a MMD-VAE, most of the points will usually be close to zero, except in the dimensions where they have meaningful features. So if you have two latent vectors, each with a unique feature like this:
 
-[code]v1 = {0, 1, 0, 0, 0}
-v2 = {0, 0, 0, 1, 0}[/code]
+```cpp
+v1 = {0, 1, 0, 0, 0}
+v2 = {0, 0, 0, 1, 0}```
 Only two dimensions are different, so calculating the L2 distance is sqrt((1-0)^2 + (0-1)^2) which is the square root of 2. If you have another vector that shares these two features:
 
-[code]v3 = {0, 1, 0, 1, 0}[/code]
+```cpp
+v3 = {0, 1, 0, 1, 0}```
 Its L2 distance to v1 and v2 is just 1.
 
 # 338

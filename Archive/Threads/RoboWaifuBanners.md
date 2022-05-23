@@ -443,7 +443,7 @@ Yes, but if I had my preferences, I would prefer the text were a bit smaller & l
 # 88
 >>9717
 are we there yet?
-[spoiler] this is bringing me back to my days as a graphic design hack doing 20 revisions on for a client [/spoiler]
+%% this is bringing me back to my days as a graphic design hack doing 20 revisions on for a client %%
 
 # 89
 >>9733

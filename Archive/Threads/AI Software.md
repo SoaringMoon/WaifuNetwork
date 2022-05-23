@@ -414,7 +414,8 @@ mlpack provides several flags to control the cmake configuration
 >
 
 This was the command I pieced together to give me the basic setup I wanted (though I may have missed something)
-[code]cmake ../ -D BUILD_JULIA_BINDINGS=OFF -D BUILD_GO_BINDINGS=OFF -D BUILD_R_BINDINGS=OFF -D BUILD_MARKDOWN_BINDINGS=ON -D MATHJAX=ON -D MATHJAX_JS_PATH='/usr/share/mathjax/'[/code]
+```cpp
+cmake ../ -D BUILD_JULIA_BINDINGS=OFF -D BUILD_GO_BINDINGS=OFF -D BUILD_R_BINDINGS=OFF -D BUILD_MARKDOWN_BINDINGS=ON -D MATHJAX=ON -D MATHJAX_JS_PATH='/usr/share/mathjax/'```
 
 Now I want to try playing around with it and seeing if I can possibly figure out how to do sentiment analysis using it w/o getting a graduate-level maths skillset first.
 
@@ -428,7 +429,8 @@ Kek. I didn't know about that one. **Heh wasted like 2 hours fiddling with the s
 # 67
 So, I'm testing the Armadillo matrix library that undergirds mlpack. I'm certainly no math guy, but this example code they provide in the archive seems to be doing a lot of work. I added simple timer code and it appears to be coming in consistently at 40-45milliseconds to complete. That's ''with'' all the stream outputs to the console.
 
-[code]#include <chrono>
+```cpp
+#include <chrono>
 #include <iostream>
 
 #include <armadillo>
@@ -581,14 +583,15 @@ int main(int argc, char** argv) {
   cout << duration_cast<milliseconds>(end - begin).count() << "ms\n";
 
   return 0;
-}[/code]
+}```
 
 Maybe one of you math wizards can look this over and see if you think it's doing well for yourselves. Will post outputs next.
 
 # 68
 >>5888
 >outputs
-[code]Armadillo version: 10.1.0 (Orchid Ambush)
+```cpp
+Armadillo version: 10.1.0 (Orchid Ambush)
 A.n_rows: 2
 A.n_cols: 3
 A:
@@ -781,7 +784,7 @@ F:
    0.4230   0.9092   0.9802
 
 
-44ms[/code]
+44ms```
 
 # 69
 >>5889
@@ -792,14 +795,16 @@ Also just realized it creates a file ''A.txt'' and writes what looks like a 4 x 
 >>5890
 >4 x 5 matrix
 check that. ''5 x 5'' matrix. i couldn't see it all in the juci pane duh. 
-[code]   1.6530000000000000e-01   4.5403700000000002e-01   9.9579499999999999e-01   1.2409800000000000e-01   4.7084000000000001e-02
+```cpp
+   1.6530000000000000e-01   4.5403700000000002e-01   9.9579499999999999e-01   1.2409800000000000e-01   4.7084000000000001e-02
    6.8878200000000001e-01   3.6548999999999998e-02   5.5284800000000001e-01   9.3766400000000005e-01   8.6640099999999998e-01
    3.4873999999999999e-01   4.7938799999999998e-01   5.0622800000000001e-01   1.4567300000000000e-01   4.9154700000000001e-01
    1.4867800000000000e-01   6.8225800000000003e-01   5.7115400000000005e-01   8.7472399999999995e-01   4.4463200000000003e-01
-   2.4572600000000000e-01   5.9521800000000002e-01   4.0932700000000000e-01   3.6782700000000002e-01   3.8573600000000002e-01[/code]
+   2.4572600000000000e-01   5.9521800000000002e-01   4.0932700000000000e-01   3.6782700000000002e-01   3.8573600000000002e-01```
 And ofc it's creating the file, there's a command explicitly for that:
-[code]  // save matrix as a text file
-  A.save("A.txt", raw_ascii);[/code]
+```cpp
+  // save matrix as a text file
+  A.save("A.txt", raw_ascii);```
 
 # 71
 >>5870
@@ -820,7 +825,8 @@ Well, that was a bit of a surprise. Kind of as expected, removing the I/O and ru
 >
 
 However, it appears the ''determinant'' is the time-suck culprit (at least on my box), not the I/0
-[code]using chrono::microseconds;
+```cpp
+using chrono::microseconds;
 using chrono::steady_clock;
 
 int main(int argc, char** argv) {
@@ -844,14 +850,15 @@ int main(int argc, char** argv) {
 
   mat B{A};
 
-  // ...[/code]
+  // ...```
 
 Hmm, I wonder why? I don't know enough about the particulars of either taking matrix determinants, or of Armadillo's implementation, or whether I can make changes to my machine to optimize this. But apparently ''det(A)'' is where the time is all going.
 
 # 74
 >>5899
 Adding ''-march=native'' didn't help.
-[code]g++ main_noio.cpp -o prog -O3 -larmadillo -std=c++20 -fopenmp -march=native[/code]
+```cpp
+g++ main_noio.cpp -o prog -O3 -larmadillo -std=c++20 -fopenmp -march=native```
 >
 
 http://arma.sourceforge.net/faq.html#speed
@@ -1037,7 +1044,8 @@ I feel better about the whole thing now, but it's also an obvious reminder to pr
 >>5987
 Reducing the code down to just creating the Matrix creation and taking it's determinant reduces it down to ~250 - 300us.
 >main.cpp
-[code]#include <armadillo>
+```cpp
+#include <armadillo>
 #include <chrono>
 #include <iostream>
 
@@ -1063,11 +1071,12 @@ int main(int argc, char** argv) {
   auto end = clock.now();
   cout << duration_cast<microseconds>(end - begin).count() << "us\n";
   return 0;
-}[/code]
+}```
 >
 
 >meson.build
-[code]project('arma_test', 'cpp')
+```cpp
+project('arma_test', 'cpp')
 
 add_project_arguments('-std=c++17', '-Wall', '-Wextra', language: 'cpp')
 
@@ -1075,7 +1084,7 @@ cxx = meson.get_compiler('cpp')
 arma_dep = cxx.find_library('armadillo')
 openblas_dep = cxx.find_library('openblas')
 
-executable('arma_test', 'main.cpp', dependencies : [arma_dep, openblas_dep])[/code]
+executable('arma_test', 'main.cpp', dependencies : [arma_dep, openblas_dep])```
 
 # 100
 >>5987
@@ -1083,14 +1092,16 @@ executable('arma_test', 'main.cpp', dependencies : [arma_dep, openblas_dep])[/co
 I might add here that one of the (few) things I dislike about Mesonbuild is the somewhat wonky way you have to specify optimizations to it's build system. From Juci this basically means if you want ''release-mode'' (-O3) optimization, you have to run an external command to do so.
 
 So, from ''Project > Run Command'' (alt+enter) fill in:
-[code]cd build && meson configure --buildtype=release && cd ..[/code]
+```cpp
+cd build && meson configure --buildtype=release && cd ..```
 >''or do the equivalent from the command line''
 
 This will regenerate build the files and until (and unless) you edit the ''meson.build'' file thereafter, all your builds will execute with '-O3' in Juci.
 
 # 101
 Ehh, I realize now that I'm probably getting this all out of order for anons who are following along in the ''Modern C++ Group Learning'' thread, but if you want (as I have done here) to use Meson instead of CMake inside of Juci, then first close Juci, open ''config.json'' inside Mousepad, then edit the build management system line (#82 in my file) to use meson instead of cmake:
-[code]        "default_build_management_system": "meson",[/code]
+```cpp
+        "default_build_management_system": "meson",```
 >
 
 then restart Juci. Your new projects will then use Meson as your build system, and provide you a default ''meson.build'' file with all new projects.

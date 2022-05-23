@@ -7,9 +7,10 @@ wiki.python.org/moin/BeginnersGuide
 https://archive.is/v9PyD
 
 On my Debian-based distro, here's how I set up Python, PIP, TensorFlow, and the Scikit-Learn stack for use with AI development:
-[code]sudo apt-get install python python-pip python-dev
+```cpp
+sudo apt-get install python python-pip python-dev
 python -m pip install --upgrade pip
-pip install --user tensorflow numpy scipy scikit-learn matplotlib ipython jupyter pandas sympy nose[/code]
+pip install --user tensorflow numpy scipy scikit-learn matplotlib ipython jupyter pandas sympy nose```
 
 LiClipse is a good Python IDE choice, and there are a number of others.
 www.liclipse.com/download.html
@@ -41,34 +42,41 @@ Recently I've started using Spyder since it can show function argument tooltips 
 >Spyder is a powerful scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts. It offers a unique combination of the advanced editing, analysis, debugging, and profiling functionality of a comprehensive development tool with the data exploration, interactive execution, deep inspection, and beautiful visualization capabilities of a scientific package.
 https://www.spyder-ide.org/
 
-[code]sudo apt-get install spyder3[/code]
+```cpp
+sudo apt-get install spyder3```
 
 # 6
 >>2429
 Thanks Anon, got it. Looks good so far! :^)
 
 BTW, I had to use Anaconda to install it, glad I did now.
-[code]sudo conda install -c anaconda spyder[/code]
+```cpp
+sudo conda install -c anaconda spyder```
 
 # 7
 >>2435
 
 # 8
 I've been trying to find Tensorflow wheels with no AVX. I found one for Tensorflow 1.14.0 in Python 3.7 here: https://github.com/yaroslavvb/tensorflow-community-wheels/issues/135
-But there still appears to be some AVX instructions in pywrap, tf2xla and libtensorflow_framework, similar to the problem I had with my build, which I found using this script: https://gitlab.com/kokubunji/cookbook/-/raw/master/check_avx.sh[code]find -L . -iname "*.so*" -exec check_avx.sh {} \; > avx.log[/code]
+But there still appears to be some AVX instructions in pywrap, tf2xla and libtensorflow_framework, similar to the problem I had with my build, which I found using this script: https://gitlab.com/kokubunji/cookbook/-/raw/master/check_avx.sh```cpp
+find -L . -iname "*.so*" -exec check_avx.sh {} \; > avx.log```
 However, someone on the page said it worked for them. If anyone feels like testing it I'm leaving some instructions here on how to install it, including my attempt to build Tensorflow 2.3.1 for Python 3.8 with SSE4 and no AVX: https://anonfiles.com/ncG12cg2pb/tensorflow-2.3.1-cp38-cp38-linux_x86_64_whl
 
 If your system's Python version is 3.8, you will have to build Python 3.7 from source to use the 1.14.0 wheel (or if your system is Python 3.7 and you want to use Tensorflow 2.3.1 by building Python 3.8). On Debian Buster to build Python you will need: ''zlib1g-dev libffi-dev libssl-dev libbz2-dev libncursesw5-dev libgdbm-dev liblzma-dev libsqlite3-dev tk-dev uuid-dev libreadline-dev''
 
-To build Python 3.7.9 from source:[code]wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tar.xz
+To build Python 3.7.9 from source:```cpp
+wget https://www.python.org/ftp/python/3.7.9/Python-3.7.9.tar.xz
 tar -xvf Python-3.7.9.tar.xz
 cd Python-3.7.9
 ./configure --enable-optimizations
-make -j4[/code]Next install pip into it:[code]wget https://bootstrap.pypa.io/get-pip.py
-./python get-pip.py[/code]
+make -j4```Next install pip into it:```cpp
+wget https://bootstrap.pypa.io/get-pip.py
+./python get-pip.py```
 To install Tensorflow into this Python with pip:
-[code]# use the path to wherever you downloaded the Tensorflow wheel
-./python -m pip install -U -t Lib ../tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl[/code]Or from URL:[code]./python -m pip install -U -t Lib https://furas.pl/projects/tensorflow-no-avx/bin/tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl[/code]
+```cpp
+# use the path to wherever you downloaded the Tensorflow wheel
+./python -m pip install -U -t Lib ../tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl```Or from URL:```cpp
+./python -m pip install -U -t Lib https://furas.pl/projects/tensorflow-no-avx/bin/tensorflow-1.14.0-cp37-cp37m-linux_x86_64.whl```
 Python source downloads: https://www.python.org/downloads/source/
 Tensorflow community wheels: https://github.com/yaroslavvb/tensorflow-community-wheels/issues
 
@@ -119,7 +127,8 @@ I'll put the code for going through this textfile here >>7907 into this thread, 
 >33K line, reverse-sorted text file of word_post_counts (one count for a word per post, excluding dupes).
 >https://files.catbox.moe/o38sax.txt
 Little bit of criticism: The text file uses empty spaces between the counter and the term, and not always the same amount. A tab would have been better for parsing it, no big deal though. Also, after working on it for a bit I realized that the counting should happen later, also not a big deal since I got the data. In general the whole thing turned out to be more difficult than I thought at the beginning. 
-[code]
+```cpp
+
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -160,7 +169,7 @@ lemmatized = {lemmatizer.lemmatize(token) for token in list(alpha_only_set)}
 
 len(lemmatized)
 # will return 21016, which is still waaay to much, but at least a start.
-[/code]
+```
 
 # 17
 >>7911
@@ -180,7 +189,8 @@ Thanks, I'm working on other things as well and for now I should stop, so this i
 - Then returning all pairs or triplets of words might be great, though the file will be bigger then. Maybe this could help us to filter out common phrases. This might be more complicated as well, so are you really sure that there isn't already a library doing all of this?
 
 >>7911
-[code]
+```cpp
+
 # cleaning empty string(s)
 parsed2 = [token for token in parsed2 if token[0] is not '']
 
@@ -191,7 +201,7 @@ for token in parsed2:
 
 adict['wholesome']
 # will return 10
-[/code]
+```
 
 # 20
 >>7916
@@ -248,7 +258,8 @@ Thanks. I'm just trying occasionally if and how we can use this to find the most
 # 28
 >>7916
 
-[code]
+```cpp
+
 # cleaning the space from the terms in the entry
 parsed3 = [(token[0], token[-1].lstrip().rstrip()) for token in parsed2]
 # also everything which is not a letter or number
@@ -267,10 +278,11 @@ for token in parsed4:
 #Test
 better_dict['wholesome']
 
-[/code]
+```
 
 # 29
-[code]
+```cpp
+
 from nltk.stem import PorterStemmer    
 stemmer = PorterStemmer()
 
@@ -289,7 +301,7 @@ from nltk.stem.lancaster import LancasterStemmer
 st = LancasterStemmer()
 lancastered = {token for token in lemmatized_longerthan3 if st.stem(token) in lemmatized_longerthan3 and token != st.stem(token)}
 longerthan3 = list(set(lemmatized_longerthan3) - lancastered)
-[/code]
+```
 
 We are down to only around 17k terms now. Huraay. Next, I'll try to use a list with the most common terms in English to get rid of those. If that doesn't bring down the number a lot, this whole approach failed. We currently have more than 7k terms appearing only once and 1.5k terms appearing more than 20 times. Looking into these lists, I can't see any pattern emerging.
 
@@ -323,18 +335,22 @@ This will be immensely useful for scripting symbolic AI. Using elif statement tr
 
 >>9478
 Python has had typing annotations since 3.5 and they've generally become standard practice because debugging without them is a nightmare.
-[code]def greeting(name: str) -> str:
-    return 'Hello ' + name[/code]
+```cpp
+def greeting(name: str) -> str:
+    return 'Hello ' + name```
 The Python runtime doesn't enforce these types but they can be checked with the IDE or other tools like mypy before running.
-[code]python -m pip install --user mypy
-mypy test.py && python test.py[/code]
+```cpp
+python -m pip install --user mypy
+mypy test.py && python test.py```
 Jupyter notebooks can also be checked using nbqa with mypy:
-[code]python -m pip install --user nbqa
-nbqa mypy notebook.ipynb[/code]
+```cpp
+python -m pip install --user nbqa
+nbqa mypy notebook.ipynb```
 Another useful package for Jupyter notebooks is nbconvert which can convert them to Python scripts and HTML.
-[code]python -m pip install --user nbconvert
+```cpp
+python -m pip install --user nbconvert
 jupyter nbconvert --to script notebook.ipynb
-jupyter nbconvert --to html notebook.ipynb[/code]
+jupyter nbconvert --to html notebook.ipynb```
 
 # 34
 >>9484
@@ -401,7 +417,8 @@ I tried for the 1'000th time it seems to get Spyder installed and running, and '
 >
 
 I discovered this one stupid Python trick yesterday:
-[code]pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U[/code]
+```cpp
+pip3 list --outdated --format=freeze | grep -v '^\-e' | cut -d = -f 1 | xargs -n1 pip3 install -U```
 Now I expect all the bitches will be clamoring for my attention now of course. 
 
 I had to re-run and re-run it, but finally after maybe a dozen times, enough of the system was upgraded sufficiently to actually bring the IDE up.
@@ -412,14 +429,15 @@ Now if I can only figure out a way to ''downgrade'' the three libraries in the w
 >>11584
 >'''Update:'''
 Well whadya know? I seemed to find a way that a) didn't destroy my machine in the process (always important!), and b) got rid of the error warning in Spyder.
-[code]pip uninstall jedi
+```cpp
+pip uninstall jedi
 pip install --upgrade jedi==0.17.2
 
 pip uninstall parso
 pip install --upgrade parso==0.7.0
 
 pip uninstall pyls_spyder
-pip install --upgrade pyls_spyder==0.3.2[/code]
+pip install --upgrade pyls_spyder==0.3.2```
 >
 
 It came from a LUA site, of all places.
@@ -454,11 +472,12 @@ https://github.com/toml-lang/toml
 What OS or distro are you using?
 
 Also:
-[code]python --version
+```cpp
+python --version
 pip --version
 python -m pip --version
 pip show torch tensorflow spyder
-uname -a[/code]
+uname -a```
 >>11592
 Jupyter notebooks are great for experimenting but not so much for writing libraries. Personally I write most of my code in Mousepad that only has syntax highlighting and only touch Spyder when I'm writing clean code for other people to use.
 
@@ -471,7 +490,8 @@ Sentdex Demo: https://www.youtube.com/watch?v=1PMECYArtuk
 Sentdex Model: https://huggingface.co/Sentdex/GPyT
 
 How to use the model:
-[code]from transformers import AutoTokenizer, AutoModelWithLMHead
+```cpp
+from transformers import AutoTokenizer, AutoModelWithLMHead
 
 # set device to cuda if you have a GPU
 device = "cpu"
@@ -486,7 +506,7 @@ def generate(model, query, max_length=100, top_p=0.9, temperature=1.0, do_sample
     decoded = tokenizer.decode(response[0])
     return decoded.replace("<N>","\n")
 
-print(generate(model, "import torch", max_length=256, top_p=0.95, temperature=1.0))[/code]
+print(generate(model, "import torch", max_length=256, top_p=0.95, temperature=1.0))```
 
 # 54
 Trying to package PyTorch and Transformers for Windows is a nightmare. I put together some notes here on how to get it to work:

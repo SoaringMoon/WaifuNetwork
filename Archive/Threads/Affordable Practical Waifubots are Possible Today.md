@@ -99,11 +99,16 @@ pfft, plebs. plebs everywhere.
 The show was garbage.
 
 # 23
->>862
->shitpost thread
->implying loli Optimus Prime isn't a great idea
-I'm pretty sure it's canon. I've never read Kiss Players, but I've been told that's pretty much what it is. And Takara seems just Japanese enough to license it for robowaifus, if we get a real company going.
-
+>>862
+
+>shitpost thread
+
+>implying loli Optimus Prime isn't a great idea
+
+I'm pretty sure it's canon. I've never read Kiss Players, but I've been told that's pretty much what it is. And Takara seems just Japanese enough to license it for robowaifus, if we get a real company going.
+
+
+
 To link it to the OP, there are plenty of affordable, moving Optimus Prime toys out there (though Transformers are way too expensive these days, if you ask me). Give it the loli features from your pic and a fleshlight, and you're set. Make it a "salt" powered robot, like mentioned above, and have her beg you to fill her with your "Energon."
 
 # 24
@@ -116,10 +121,14 @@ Any chance you could think about a) finding cheap toys suitable for your approac
 It would be both a big help and an encouragement to everyone here if you could do so Anon. Each of us have our part to play. For example, AI Anon is researching papers all day. I work on software most days. We have a lot to do here and splitting up the load will only help everyone tbh.
 
 # 25
->>2545
->a) finding cheap toys suitable for your approach b) obtaining at least one of these for modifications c) performing said modifications and photographing the process d) making a tutorial thread here on /robowaifu/ dedicated specifically to this entire effort?
-I wish I could, but I don't have nearly enough capital for this. And I don't think it's literally as simple as buying a toy off the shelf, because the more advanced robot toys are too small. Going for a small size makes way more sense, both in terms of money and in terms of the actual energy it takes to power the robot, but there is a point where it literally becomes too small to fuck, which defeats the point.
-
+>>2545
+
+>a) finding cheap toys suitable for your approach b) obtaining at least one of these for modifications c) performing said modifications and photographing the process d) making a tutorial thread here on /robowaifu/ dedicated specifically to this entire effort?
+
+I wish I could, but I don't have nearly enough capital for this. And I don't think it's literally as simple as buying a toy off the shelf, because the more advanced robot toys are too small. Going for a small size makes way more sense, both in terms of money and in terms of the actual energy it takes to power the robot, but there is a point where it literally becomes too small to fuck, which defeats the point.
+
+
+
 What we really need is a company with the capital to produce toys like robosapien (or a modern version of it) make one that is twice as big, and has a body that can actually fit a fleshlight inside it. The rest is just the case. Again, modifying the outside of a toy to our purposes is difficult. But if we were the type of people who had a company that could make toys, like Takara or Hasbro or whatever (not that Hasbro would ever do this), it would be a trivial matter to make a toy that was just cute from the start, and also had a space for a fleshlight in the torso.
 
 # 26

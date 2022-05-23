@@ -892,14 +892,17 @@ Had no idea how to 3D model when I started this but I'm slowly making progress. 
 To get Pytorch to work in Godot 3.2.2. Start a new project, click the AssetLib tab, install the PythonScript plugin and restart the editor. In your project's folder go into '''./addons/pythonscript/x11-64/bin''' (on Linux), make pip and python3 executable and then edit the first line of the pip script to point to the path of python3.
 
 For CPU only (Linux & Windows):
-[code]./pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html[/code]
+```cpp
+./pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html```
 With CUDA 9.2 support (Linux only):
-[code]./pip install torch==1.6.0+cu92 torchvision==0.7.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html[/code]
+```cpp
+./pip install torch==1.6.0+cu92 torchvision==0.7.0+cu92 -f https://download.pytorch.org/whl/torch_stable.html```
 
 Now you have access to the full power of AI within Godot. The world of VR waifus is yours.
 
 To test that it's working, run Godot from the command line and add a Python script to a node like this:
-[code]from godot import exposed, export
+```cpp
+from godot import exposed, export
 from godot import *
 import torch
 
@@ -909,7 +912,7 @@ class test(Node):
         l = torch.nn.Linear(2,3)
         x = torch.rand(2)
         y = l(x)
-        print(l(x))[/code]
+        print(l(x))```
 It should output a result to the terminal something like tensor([-0.2603,  0.2927, -0.8231], grad_fn=<AddBackward0>)
 
 I'll be updating TalkToWaifu to make it easier to use and more modular so it can be integrated into Godot easily.
@@ -940,8 +943,9 @@ Ah, this looks interesting, unfortunately my weebshit making machine is windows 
 I don't have access to a Windows VM at the moment but I think all you need to do is install pip manually first.
 
 >On Windows, pip must be installed first with `ensurepip`:
-[code]$ <pythonscript_dir>/windows-64/python.exe -m ensurepip
-$ <pythonscript_dir>/windows-64/python.exe -m pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html[/code]
+```cpp
+$ <pythonscript_dir>/windows-64/python.exe -m ensurepip
+$ <pythonscript_dir>/windows-64/python.exe -m pip install torch==1.6.0+cpu torchvision==0.7.0+cpu -f https://download.pytorch.org/whl/torch_stable.html```
 https://godotengine.org/asset-library/asset/179
 
 # 145
@@ -1031,7 +1035,8 @@ Display > Window > Per Pixel Transparency > Allowed > On
 Display > Window > Per Pixel Transparency > Enabled > On
 
 When the scene starts, in a node's _ready function run:
-[code]get_tree().get_root().set_transparent_background(true)[/code]
+```cpp
+get_tree().get_root().set_transparent_background(true)```
 Congrats, your waifu is now on the desktop and always with you. On Linux use Alt + Drag to move her around and Alt + Space to bring up the window manager if necessary. Make sure the window is appropriately sized to fit her or she will steal your clicks.
 
 # 161

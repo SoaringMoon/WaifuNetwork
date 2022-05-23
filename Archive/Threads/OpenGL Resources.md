@@ -39,7 +39,8 @@ If it goes well, then I might try my hand at extending it to a full environment 
 >>683
 Well it was surprisingly difficult, but I finally managed to get a system set up where I can make a simple OpenGL window with a spinning triangle. I got it working after switching to Manjaro (ARCH) Linux, and 'm using GLFW + GLAD. I had to install GLFW from the software manager, and I had cloned and built both GLFW and GLAD from github. I generated the GLAD files specific for my machine with the command:
 
-[code]python main.py --generator c --no-loader --out-path output[/code]
+```cpp
+python main.py --generator c --no-loader --out-path output```
 
 , and then copied the two include directories into /usr/include/ and the glad.c file into my project directory (as per the GLAD instructions). I used the code example from here:
 
@@ -49,7 +50,8 @@ The image is a capp of the simple OpenGL window result.
 
 Here's the simplest blank window code (w/o animation) that I managed to get working:
 
-[code]// based on code at:
+```cpp
+// based on code at:
 // http://www.glfw.org/docs/latest/quick.html
 
 #include <glad/glad.h>  // NOTE: must be #include'd before glfw3.h
@@ -107,11 +109,12 @@ int main()
 
   glfwDestroyWindow(window);
   glfwTerminate();
-}[/code]
+}```
 
 Here's my basic CMakeLists.txt file to go with that code:
 
-[code]cmake_minimum_required(VERSION 2.8)
+```cpp
+cmake_minimum_required(VERSION 2.8)
 
 project(simple)
 
@@ -121,7 +124,7 @@ add_executable(simple main.cpp glad.c)
 
 find_package(PkgConfig REQUIRED)
 pkg_search_module(GLFW REQUIRED glfw3)
-target_link_libraries(simple ${GLFW_LIBRARIES} )[/code]
+target_link_libraries(simple ${GLFW_LIBRARIES} )```
 
 Simple I know, but hey we all have to start somewhere yea? Now I'll begin trying to figure out how to manage creating, saving and loading geometry data on the disk files from inside the code. That should let me start exploring how to create and display environment and object geometries to use in my OpenGL windows. Once that's basically working, I could then start thinking about things like better shaders, etc. But on my old notebook machine right now I only have OpenGL v 2.1 (an Intel Mobile 4 series integrated graphics controller) so I don't expect to do anything remarkable atm. OTOH, this also means my stuff should be compatible w/ basically everyone's graphics setup if it becomes something I package up sometime.
 
@@ -171,19 +174,24 @@ but I'll install it using pip (as per the recommendation). First I need to make 
 >1
 
 -Then I install the latest GLAD version directly from the repo
-[code]sudo pip install --upgrade git+https://github.com/dav1dde/glad.git#egg=glad[/code]
+```cpp
+sudo pip install --upgrade git+https://github.com/dav1dde/glad.git#egg=glad```
 >2
 
 -Now I'll generate OpenGL C-loader files using GLAD. Since the ''learnopengl.com'' book focuses on the OpenGL 3.3 core (for good reasons), I'll specify that in particular.
-[code]python glad --generator=c --out-path=GL --api="gl=3.3" --profile=core[/code]
+```cpp
+python glad --generator=c --out-path=GL --api="gl=3.3" --profile=core```
 -This will create 3 files in 3 different subdirectories under GL/. 
-[code]tree GL[/code]
+```cpp
+tree GL```
 >3
 
 -I'll copy the two include directories into the /usr/include/ directory for access by my own OpenGL code.
-[code]sudo cp -r GL/include/* /usr/include/[/code]
+```cpp
+sudo cp -r GL/include/* /usr/include/```
 -I can confirm the new directories are in place now.
-[code]ls /usr/include/ | grep -e KHR -e glad[/code]
+```cpp
+ls /usr/include/ | grep -e KHR -e glad```
 >4
 
 -The third file is under the GL/src directory, and is named 'glad.c' . It should be a little under 9'000 lines long. I'll copy this file into whatever directory where my own source code is located for each of my projects. 
@@ -202,7 +210,8 @@ I'll just use Pamac.
 >3, 4
 
 -Here's the contents of the new CMakeLists.txt file:
-[code]cmake_minimum_required(VERSION 2.8)
+```cpp
+cmake_minimum_required(VERSION 2.8)
 
 project(muh_ogl_test)
 
@@ -211,12 +220,13 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1z -Wall -Wextra -Wno-unused-par
 add_executable(muh_ogl_test hellowindow2.cpp glad.c)
 
 find_package(glfw3 3.3 REQUIRED)
-target_link_libraries(muh_ogl_test glfw dl)[/code]
+target_link_libraries(muh_ogl_test glfw dl)```
 -Now, just pressing Ctrl+Return in Juci saves, builds and runs the OpenGL sample.
 >5
 
 -Or, build and run from the terminal:
-[code]g++ hellowindow2.cpp glad.c -lglfw -ldl && ./a.out[/code]
+```cpp
+g++ hellowindow2.cpp glad.c -lglfw -ldl && ./a.out```
 -I made a zip for you to look at.
 https://files.catbox.moe/s54kmo.gz
 
@@ -225,7 +235,8 @@ Hope that helps anon. Cheers.
 # 14
 >>1725
 Oops, I forgot to mention the 'clone the GLAD git repo first before installing it with pip' between the 'install pip' and 'install glad' steps.
-[code]git clone https://github.com/Dav1dde/glad.git[/code]
+```cpp
+git clone https://github.com/Dav1dde/glad.git```
 Apologies.
 
 # 15
@@ -236,7 +247,8 @@ Double-duh. Actually I guess it's more about running the generator locally, rath
 >>1725
 I guess to complete the circle I should go ahead and post a copy of the newer code as well. I also plan to wrap all this mess in a clean and simple-to-use ''muh_gl.h'' file later.
 
-[code]#include <cstdlib>
+```cpp
+#include <cstdlib>
 #include <iostream>
 #include <string>
 
@@ -339,7 +351,7 @@ void key_cb(GLFWwindow* win, int key, int scancode, int action, int mode)
     cout << "GLFW key code: " << key << " pressed." << std::endl;
     if (key == GLFW_KEY_ESCAPE) glfwSetWindowShouldClose(win, GL_TRUE);
   }
-}[/code]
+}```
 
 >//------------------------------
 edit: added an over-abundance of diagnostic output.
@@ -353,7 +365,8 @@ github.com/Immediate-Mode-UI/Nuklear
 >>1731
 >I also plan to wrap all this mess in a clean and simple-to-use muh_gl.h file later.
 Done. Here's the what the same code looks like now:
-[code]#include <cstdlib>
+```cpp
+#include <cstdlib>
 #include <iostream>
 
 #include "muh_gl.h"
@@ -389,13 +402,14 @@ int main()
   // Clean up
   glfwDestroyWindow(win);
   glfwTerminate();
-}[/code]
+}```
 
 # 19
 ==TBH SMH FAM==
 I just want to establish firmly here and now, that I'm the originator of this clever literary device, in fact of course.
 
-[code]// Say Hi to the MRS. Anon,
+```cpp
+// Say Hi to the MRS. Anon,
 // Muh Robowaifu Simulator.
 //=========================
 //
@@ -435,7 +449,7 @@ int main()
 }
 
 // Copyright (2019)
-// License (MIT)  https://opensource.org/licenses/MIT[/code]
+// License (MIT)  https://opensource.org/licenses/MIT```
 **:^)**
 
 # 20
@@ -451,7 +465,8 @@ BTW, I removed GLAD as an external dependency. There's an option to create all-l
 
 # 23
 Added a ''void rndr_tick(Shader txt_shdr, const unsigned fps_tick)'' function to ensure the MRS was really getting an honest 60fps (it is). However, occasionally I'd notice a little artifact that made me think that tearing was happening even though I set the swap interval to 1:
-[code]glfwSwapInterval(1);  // 1 should prevent tearing[/code]
+```cpp
+glfwSwapInterval(1);  // 1 should prevent tearing```
 
 Now I'm not so sure it's actually tearing;
 A) It only infrequently occurred

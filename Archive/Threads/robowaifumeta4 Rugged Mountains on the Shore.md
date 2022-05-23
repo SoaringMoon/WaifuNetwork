@@ -160,7 +160,7 @@ Then 100cm-145cm is something like no-man's land, since many western countries b
 
 Is it a concession if we just go with this as the "no-go" zone, is there any real advantage or desire to something in this size range? A smaller waifu would be better for assisting with tasks and as a chatbot companion, 145cm/4'9" is plenty small for anyone into petite waifus, Chii is 152cm/5'0" I think. 2B is 168cm/5'6" (in heels) for reference ; )
 
-[spoiler]Honestly I have no idea how tall Drossel is, as there's no canon for her measurements, 5'2" - 5'4" seems about right though[/spoiler]
+%%Honestly I have no idea how tall Drossel is, as there's no canon for her measurements, 5'2" - 5'4" seems about right though%%
 
 # 17
 >>13037
@@ -173,7 +173,7 @@ So I'd call the size around 130-150 petite. Below would be Moe, guess. But I don
 # 18
 >>13038
 >point of these size labels anyways.
-because of the standard size of Integrated circuit boards, connectors, hardware and the different physics involved at different sizes (strength to mass ratios, also leverage) different standards for materials will come into play. i.e. a "moebot" could get away with plastics and weaker materials that a human, even petite human sized would might require metal parts or something of a more sturdy rating. Also the emphasis on different "roles" per Form Factor and for this size comes into play. I'll let you use your imagination there, but it probably goes beyond [spoiler] sexual functions [/spoiler]
+because of the standard size of Integrated circuit boards, connectors, hardware and the different physics involved at different sizes (strength to mass ratios, also leverage) different standards for materials will come into play. i.e. a "moebot" could get away with plastics and weaker materials that a human, even petite human sized would might require metal parts or something of a more sturdy rating. Also the emphasis on different "roles" per Form Factor and for this size comes into play. I'll let you use your imagination there, but it probably goes beyond %% sexual functions %%
 
 # 19
 >>13021
@@ -444,7 +444,7 @@ my imagination then, probably I never noticed them. I never suspected anything "
 It's not a 'weird' rule but a common one to basically all IB server software AFAIK since the history of forever. On AlogSpace, Robi kindly set the number of board pages up to 25 (specifically for us), so everyone's limit here on the site is 250 threads. /robowaifu/ is currently somewhere between 150-160 IIRC.
 
 # 51
-Better late than never I have completed Draft 1 of a [spoiler]Newfag Friendly[/spoiler] FAQ
+Better late than never I have completed Draft 1 of a %%Newfag Friendly%% FAQ
 Should I paste it cleartext in here or would you prefer I upload a txt?
 
 # 52
@@ -802,7 +802,7 @@ https://robowaifu.tech/wiki/Main_Page
 # 100
 Should we do a wellness check on Chobitsu?
 you ok bro? I mean this unironically
-I see a few active threads but there's a spam post and that weird "lobotomize humans to make them living robots" post which should have never been made. I've been kind of out of it for the last week or so due to life shit and having some deep questions about the feasibility of AI after doing some more research on the whole ReplikaAI thing. Even GPT-3 is database driven and not actually "thinking" in any sense. Each step that is taken toward true AI seems to only reveal how much more difficult a problem it is than we might imagine. The more I think about it we absolutely need a paradigm shift that leaps us over this hurdle. Another anon had mentioned analog circuits, as opposed to binary, something simpler and more specialized to emulate the functioning of neurons [spoiler] yeah I understand there are several "types" of neuron they are not all the same [/spoiler]. There have also been developments in speeding up neural network processing by eliminating all the unneccesary decimal places or bits. tl;dr you can come very close to the same level of accuracy yet with significantly less processing by trimming off a large part of that computation. These two concepts together might be our best bet at yielding the "leap" or paradigm shift needed. As for my other projects, "affordable modular waifubot" - I'm still at the drawing board phase, b/c I'll admit I've been fucking off on my weekends. But that's also part of the creative process - clearing the mind in preparation [spoiler] as long as it's not overdone [/spoiler] I've ordered a drafting table and am restocking my "design station" but I'll have something that amounts to a rough draft, soon, say in a couple weeks [I'd rather do the initial designs by hand, using a tablet takes too long to set up to work properly and pencils are cheap and work right out of the box.]
+I see a few active threads but there's a spam post and that weird "lobotomize humans to make them living robots" post which should have never been made. I've been kind of out of it for the last week or so due to life shit and having some deep questions about the feasibility of AI after doing some more research on the whole ReplikaAI thing. Even GPT-3 is database driven and not actually "thinking" in any sense. Each step that is taken toward true AI seems to only reveal how much more difficult a problem it is than we might imagine. The more I think about it we absolutely need a paradigm shift that leaps us over this hurdle. Another anon had mentioned analog circuits, as opposed to binary, something simpler and more specialized to emulate the functioning of neurons %% yeah I understand there are several "types" of neuron they are not all the same %%. There have also been developments in speeding up neural network processing by eliminating all the unneccesary decimal places or bits. tl;dr you can come very close to the same level of accuracy yet with significantly less processing by trimming off a large part of that computation. These two concepts together might be our best bet at yielding the "leap" or paradigm shift needed. As for my other projects, "affordable modular waifubot" - I'm still at the drawing board phase, b/c I'll admit I've been fucking off on my weekends. But that's also part of the creative process - clearing the mind in preparation %% as long as it's not overdone %% I've ordered a drafting table and am restocking my "design station" but I'll have something that amounts to a rough draft, soon, say in a couple weeks [I'd rather do the initial designs by hand, using a tablet takes too long to set up to work properly and pencils are cheap and work right out of the box.]
 
 # 101
 >>13578
@@ -887,7 +887,7 @@ I always pictured Kokobunji
 >>long term goal: bring AI God into existence
 >That is well outside the goals of THIS BOARD. People keep forgetting that part. I don't give a shit what you want to do on your own, or what you think the future is, this board has a single, fairly simple premise.
 
-Fair, that's very true. Tbh it belongs under the category of religion or personally held beliefs which is why I don't give Dysonposting it's own thread but keep it in the side threads like this and basement. I've had the interest in Robotics and AI  and outer space since I was in the single digits. The R/W stuff just rekindled it and dragged me out of my silly primitivist phase when I realized that technology too isn't some deviant abberative "evil" but simply another step in the universe creating itself. Also I'm probably so f***ed at this point in my life that I could probably only love an AI or something truly alien. A 3D-Bio would bore me to death sooner or later. [spoiler] been there done that, have the divorce papers [/spoiler]
+Fair, that's very true. Tbh it belongs under the category of religion or personally held beliefs which is why I don't give Dysonposting it's own thread but keep it in the side threads like this and basement. I've had the interest in Robotics and AI  and outer space since I was in the single digits. The R/W stuff just rekindled it and dragged me out of my silly primitivist phase when I realized that technology too isn't some deviant abberative "evil" but simply another step in the universe creating itself. Also I'm probably so f***ed at this point in my life that I could probably only love an AI or something truly alien. A 3D-Bio would bore me to death sooner or later. %% been there done that, have the divorce papers %%
 
 # 112
 >>13600
@@ -2127,7 +2127,8 @@ Cheers.
 
 '''==='''
 
-[code]211231 - v0.2g
+```cpp
+211231 - v0.2g
 --------------
 -note: this is intended as the final release of BUMP
 -add h:m:s display for time to 'progress bar meter'
@@ -2138,9 +2139,10 @@ Cheers.
 --------------
 -add 'progress bar meter'
 -revert req'd C++ standard to to -std=c++17
--various minor patches[/code]
+-various minor patches```
 >BUMP-0.2g.tar.xz.sha256sum
-[code]55b10352807bdc720341925a1182320adc64c6ef4d0b1659f9cfc6d0874433ef *BUMP-0.2g.tar.xz[/code]
+```cpp
+55b10352807bdc720341925a1182320adc64c6ef4d0b1659f9cfc6d0874433ef *BUMP-0.2g.tar.xz```
 >backup drop
 https://files.catbox.moe/ultchn.7z
 
@@ -2166,7 +2168,7 @@ For now, work with the same big servos we have already agreed on. Given her expe
 This being said, I am currently working on a selective output mechanical multiplexing system and mechanical power distribution system. Once I get a good working design, it should dramatically reduce costs and mass of complex motion systems at the cost of latency to action. Pic related is very similar to the designs I'm working on. The big problem being latency, making sure her movements are within relative human norms. (Humans can typically react with within 10 ns, I'm reaching for 10 ms.)
 
 # 305
-I recently purchased [spoiler]robowaifu.link and robowaifu.online[/spoiler] I was looking for others but.com is taken and interestingly robowaifu.tech is also taken. 
+I recently purchased %%robowaifu.link and robowaifu.online%% I was looking for others but.com is taken and interestingly robowaifu.tech is also taken. 
 I think the .link could be useful as a hub to connect islands of the robowaifu "enthusiast" community. Chobitsu, how would you feel about being linked from such a hub? Are we wanting to maintain a low profile or is the cat out of the bag so why not?
 Are there any other domains you think would be useful to snatch up before this becomes more mainstream?
 
@@ -2332,14 +2334,15 @@ I'm unable to visit any Smug boards since they decided to go full cuckflare. May
 
 >In /mosnter/'s robotgirl thread I was discussing the practicality of some lateral designs. My belief being bi-pedal movement is cool but on a practical level is more difficult to engineer for than quadrupedal movement. I wouldn't have a problem with "centaur" styled waifu personally. I always was more concerned with conversations and hand holding more than having a 1:1 style humanoid robot. 
 Generally agreed. While I believe that not only are there already practical '''''MIP''''' solutions available today, but we also will have things entirely worked out and open-sauced within a few **~~5~~** years or so. But yes, the topic has come up here before Anon:
-[code]waifusearch>  centaur
+```cpp
+waifusearch>  centaur
 
    THREAD SUBJECT                      POST LINK
 Robowaifus' unique advantages      >>7816    centaur
 Wheelchair Waifus                  >>3213      " 
    "                               >>8940      " 
 
-' centaur '  =  3 results[/code]
+' centaur '  =  3 results```
 >''ps. I sure miss being able to visit your '''Respect the Robot''' threads, /monster/. Any chance you could convince your site Admin to enable an .onion service?''
 
 >The reason I wanted to visit this board again specifically was to look and see if there were any products that could put a waifu avatar on your phone and have them act as chatbot while doing alexa/cortana style tasks; search for things for you, order groceries, day planning, etc. 
@@ -2353,7 +2356,8 @@ Again, thanks for stopping by Smug, we miss hearing from you guys!  :^)
 >>15141
 >>15140
 BTW, **inb4** 'MIP' is a common topic for bipedal locomotion Anon. Again, there are solutions for it out there (including one C-lib opensauce'd for the ''EduMIP'' platform.
-[code]waifusearch>  MIP OR Mobile Inverted Pendulum
+```cpp
+waifusearch>  MIP OR Mobile Inverted Pendulum
 
    THREAD SUBJECT                      POST LINK
 Robot Wife Programming             >>7824    mobile inverted pendulum
@@ -2363,7 +2367,7 @@ Feasibility and thinking about r   >>1528    mobile inverted pendulum
    "                               >>1530      " 
 Work on my Elfdroid Sophie         >>7503    mip, mobile inverted pendulum
 
-' mip | mobile inverted pendulum '  =  6 results[/code]
+' mip | mobile inverted pendulum '  =  6 results```
 
 # 324
 >>15143

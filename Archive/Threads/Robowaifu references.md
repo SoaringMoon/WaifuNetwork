@@ -27,7 +27,7 @@ You're speaking like you're a part of the managament staff of /robowaifu/. If so
 
 Also, /monster/ has a bunker of its own on smuglo.li here's the link since If I recall correctly, in the days back on 8chan, /monster/ and /robowaifu/ were allies. In fact, I'd go as far to say they still are. 
 
-I am choosing not to sage because I would like the board owner and/or management staff to see this. [spoiler] pls no buli [/spoiler]
+I am choosing not to sage because I would like the board owner and/or management staff to see this. %% pls no buli %%
 
 # 7
 >>36

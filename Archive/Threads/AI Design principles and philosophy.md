@@ -102,7 +102,8 @@ I'm currently playing with the idea of writing down models of situations which w
 >>18 is about coding personality and >>2731 about psychology, but this here is more general idea of coding responses beyond those, same for chatbot respondes >>22. Maybe it's the closest to NLP >>77 but this here includes more internal processes and general functions. I might open a thread of it's own if either I write enough pseudo code or someone else joins me.
 
 Here the basic idea in form of some crude first  examples what one could write:
-[code]
+```cpp
+
 if abode="kitchen", occ="washing dishes", human_input="":
     stop "washing dishes"
     do something
@@ -114,7 +115,7 @@ check ambiguity:
     my_opinion on topic, context
     general_opinion on topic, context
     find_additional_context on topic
-[/code]
+```
 
 The idea is to think about how things could work, before we know the details how to implement it, especially how to do that down to every detail. The idea is of course not, about to write something for every situation. Just to figure out how it could work in general, and how to write it down to discuss it. About finding patterns. Then, as a programmer I can look at this and think about how to implement it. Might even be possible to write a parser for it at some point, and transform it into something close to Python, so I would only need to make some changes to it. 
 So if you encounter a dialog or situation in your life, or in some media, where you wonder how your fembot could understand and handle that, then write it down in some code like above and post it here or in the thread I might make at some point. You don't need to know how the functions which you make up would work. It's rather about how they are connected to each other and how some of them could work. Just write it down to the level of detail you can and want to.
@@ -152,7 +153,8 @@ My examples are like a very simplified Python, which is already close to human l
 However, maybe should have pointed out better that these different blocks are like functions, I autocompleted that in my mind, but people which don't write functional programs wouldn't see it. There's also the problem that functions are normally defined at the beginning of a program, then maybe called by some loop or other functions later. 
 
 Made it a bit more like programming (Python3):
-[code]define check_ambiguity:
+```cpp
+define check_ambiguity:
     my_opinion(topic, context)
     general_opinion(topic, context)
     find_additional_context(topic)
@@ -163,7 +165,7 @@ while 42 is True:
         do something
     if is_question(human_input):
         check_ambiguity
-[/code] The more it becomes like a programming language the more it becomes harder to read for beginners, and the more I cringe on some other simplifications which are still left. Also, I can't correct errors in here...
+``` The more it becomes like a programming language the more it becomes harder to read for beginners, and the more I cringe on some other simplifications which are still left. Also, I can't correct errors in here...
 
 # 25
 >>7896

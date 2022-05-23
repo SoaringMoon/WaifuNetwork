@@ -91,10 +91,11 @@ Yes, that diagram helps. I'm think about building a 3D model for robowaifus star
 
 # 12
 Here's the error I'm getting trying to run the m script w/ Octave:
-[code]johnny@mactoshub:~/_msc/rw/repos/Walking3LP$ octave Walking3LP.m
+```cpp
+johnny@mactoshub:~/_msc/rw/repos/Walking3LP$ octave Walking3LP.m
 error: 'gui_mainfcn' undefined near line 62 column 5
 error: called from
-    Walking3LP at line 62 column 5[/code]
+    Walking3LP at line 62 column 5```
 
 # 13
 >>1611
@@ -103,7 +104,8 @@ BTW, if you examine the GUI image, you see that mass can be added/removed from l
 # 14
 >>1614
 Here's the code section in question. The error line mentioned is the one inside the else clause. Apparently 'gui_manfcn()' is a Matlab API which Octave must have a different name for. Any matlab guys here?
-[code]% Begin initialization code - DO NOT EDIT
+```cpp
+% Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
 gui_State = struct('gui_Name',       mfilename, ...
                    'gui_Singleton',  gui_Singleton, ...
@@ -120,7 +122,7 @@ if nargout
 else
     gui_mainfcn(gui_State, varargin{:});
 end
-% End initialization code - DO NOT EDIT[/code]
+% End initialization code - DO NOT EDIT```
 
 # 15
 >>1615
@@ -587,7 +589,8 @@ However, if anyone would care to work on translating the embedded comments in th
 '''update'''
 By all appearances, the original ODE project has been abandoned. However, it's apparently continued under a new team. The project is now located at:
 https://bitbucket.org/odedevs/ode/src/master/
-[code]pamac info ode
+```cpp
+pamac info ode
 Name                  : ode
 Version               : 0.16.1-1
 Description           : High performance library for simulating rigid body dynamics
@@ -599,7 +602,7 @@ Packager              : Antonio Rojas <arojas@archlinux.org>
 Build Date            : 19/03/20
 Install Date          : 10/05/21
 Install Reason        : Explicitly installed
-Signatures            : Yes[/code]
+Signatures            : Yes```
 
 I've gotten all the demos to build on Linux, so that's a good sign. I'll have to sort out all the dependency issues in the build file, but I'd think this project should be doable on Linux in the end.
 

@@ -84,10 +84,11 @@ Thanks kindly Anon! Mind telling us all a little about where you're from? What's
 
 # 13
 You can mitigate the problem with video embeds showing up in code tags with:
-[code]
+```cpp
+
 code .embedButton { display: none; }
 code a { color: inherit; }
-[/code]
+```
 
 # 14
 >>3296

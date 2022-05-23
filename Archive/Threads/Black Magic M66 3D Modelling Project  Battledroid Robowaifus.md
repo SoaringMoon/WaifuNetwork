@@ -115,7 +115,8 @@ Hmm, while I read it, somehow it didn't quite sink in. Since you can already scu
 >>11874
 BTW, if you decide to youtube-dl this playlist, here's is .m3u file I made:
 >learn_sculpting_in_blender_2.8.m3u
-[code]Sculpting _ Beginner Follow Along Tutorial _ Easy _ Blender 2.8-lKY2FIy60nc.mkv
+```cpp
+Sculpting _ Beginner Follow Along Tutorial _ Easy _ Blender 2.8-lKY2FIy60nc.mkv
 Sculpting in Blender 2.8 _ Beginners Detailed Guide _ Every Brush-L3XtAFUWNuk.mkv
 Sculpting in Blender 2.8 _ Beginners Detailed Guide _ Brush settings-xTcQjNmdSsE.mkv
 Alien Sculpting _ Beginner Follow Along Tutorial _ Easy _ Blender 2.8-E79SLGdOGPw.mp4
@@ -144,7 +145,7 @@ Best Free Brush Pack for Blender - Orb Brushes-9XenjM3gRYc.mkv
 Easy Base Meshes 4 Sculpting - WINTER WOLF - Sculpt & 3D Print-JtDuLvJEIyQ.mkv
 Sculpting Follow Along - WINTER WOLF - Sculpting Details - P2-KZXXpeYVYS4.mkv
 Sculpting Details with MASKS-I4gYFVbY2NQ.mkv
-Create Base Meshes for Sculpting Quickly & Easily-7EJRlWitYmo.mkv[/code]
+Create Base Meshes for Sculpting Quickly & Easily-7EJRlWitYmo.mkv```
 
 # 18
 >>11876
@@ -152,7 +153,8 @@ Here's another, closely on-topic playlist Anon.
 https://www.youtube.com/playlist?list=PLn3ukorJv4vuOi2Ar-Xt46VFbDFP3c_RE
 
 >Low_poly_anime_girl.m3u
-[code]Low Poly   _   Anime Girl    _   Blender 2.8-E5HnnGcGvmc.mkv
+```cpp
+Low Poly   _   Anime Girl    _   Blender 2.8-E5HnnGcGvmc.mkv
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.2 - Upper Body & Arms-r1Gsqdhv9IE.mkv
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.3 - Head & Hair-0ANC-EUlKic.mkv
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.4  Hands-t_sXZ03Xv2s.mkv
@@ -160,7 +162,7 @@ Low Poly   _   Anime Girl    _   Blender 2.8   _   P.5  Legs & Clothing-M5h7InoL
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.6    Face-dxqTxpgG0_g.mp4
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.7 Adding Colour-pBaLlDpM1Cc.mp4
 Low Poly   _   Anime Girl    _   Blender 2.8   _   P.8  Clothing-k5GQP1p_yHM.mp4
-Animate & Rig Characters the Easy Way-k-ZeLNV4zPw.mkv[/code]
+Animate & Rig Characters the Easy Way-k-ZeLNV4zPw.mkv```
 
 # 19
 Figured it out! I somehow masked the entire torso. Alt+M removes the mask so I can sculpt that surface again (there is also a way of removing all mask data, which I shall do):
